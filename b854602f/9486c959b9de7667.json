@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_10_1809:10.0.17763.4377",
+  "deprecated": true,
+  "deprecation_date": "2023-10-19T18:18:27.927Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 1809 10.0.17763.4377 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10_1809:10.0.17763.4377:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-19T14:18:27.927-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_1809:10.0.17763.4377:*:*:*:*:*:arm64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

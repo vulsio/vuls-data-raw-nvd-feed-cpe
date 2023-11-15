@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:avast:endpoint_protection_suite_plus:8.0.1606",
+  "title": [
+    {
+      "text": "Avast Endpoint Protection Suite Plus 8.0.1606",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://labs.nettitude.com/blog/escaping-avast-sandbox-using-single-ioctl-cve-2016-4025/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.avast.com/en-us/index"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:avast:endpoint_protection_suite_plus:8.0.1606:*:*:*:*:*:*:*"
+  }
+}

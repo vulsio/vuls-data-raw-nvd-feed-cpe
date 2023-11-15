@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:contao:contao:4.11.7",
+  "title": [
+    {
+      "text": "Contao 4.11.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://contao.org/en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/contao/contao/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/contao/contao/security/advisories/GHSA-r6mv-ppjc-4hgr"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://contao.org/en/security-advisories/php-file-inclusion-via-insert-tags.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:contao:contao:4.11.7:*:*:*:*:*:*:*"
+  }
+}

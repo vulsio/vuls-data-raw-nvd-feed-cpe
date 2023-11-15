@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:askapplications:fromdoctopdf:13.611.13.2303::~~~chrome~~",
+  "deprecated": true,
+  "deprecation_date": "2020-06-04T14:35:12.037Z",
+  "title": [
+    {
+      "text": "Ask Applications FromDocToPDF 13.611.13.2303 for Chrome",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.askapplications.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1557"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.fromdoctopdf.com/index.jhtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:askapplications:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*",
+    "deprecation": {
+      "date": "2020-06-04T10:35:12.037-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:iac:fromdoctopdf:13.611.13.2303:*:*:*:*:chrome:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

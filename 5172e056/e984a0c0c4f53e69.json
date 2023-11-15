@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:amazon_ec2:1.40::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Amazon EC2 1.40 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/ec2"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/ec2-plugin"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:amazon_ec2:1.40:*:*:*:*:jenkins:*:*"
+  }
+}

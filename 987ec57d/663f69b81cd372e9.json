@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:docker:1.5.0-27",
+  "title": [
+    {
+      "text": "Redhat Docker 1.5.0-27",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Advisory",
+      "href": "https://rhn.redhat.com/errata/RHSA-2015-0776.html"
+    },
+    {
+      "text": "Version Information",
+      "href": "http://cbs.centos.org/koji/buildinfo?buildID=905"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:docker:1.5.0-27:*:*:*:*:*:*:*"
+  }
+}

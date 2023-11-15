@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:exchange_server:2007",
+  "deprecated": true,
+  "deprecation_date": "2020-03-30T18:25:28.200Z",
+  "title": [
+    {
+      "text": "Microsoft exchange_srv 2007",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:exchange_server:2007:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-30T14:25:28.200-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:exchange_server:2007:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpleet:post_title_counter:1.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Elite Post Title Counter 1.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-38326"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/post-title-counter/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://wpleet.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpleet:post_title_counter:1.1:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:marked_project:marked:0.1.4",
+  "deprecated": true,
+  "deprecation_date": "2019-09-23T18:07:18.457Z",
+  "title": [
+    {
+      "text": "marked Project marked 0.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/chjj/marked"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/chjj/marked/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:marked_project:marked:0.1.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-23T14:07:18.457-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:marked_project:marked:0.1.4:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

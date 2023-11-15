@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:onedrive:22.0.0.0::~~~macos~~",
+  "title": [
+    {
+      "text": "Microsoft Onedrive 22.0.0.0 for MacOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24930"
+    },
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/us/app/onedrive/id823766827?mt=12"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/24xxx/CVE-2023-24930.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:onedrive:22.0.0.0:*:*:*:*:macos:*:*"
+  }
+}

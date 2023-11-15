@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:kibokolabs:watupro:4.9.0.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Kibokolabs WatuPRO 4.9.0.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://advisories.dxw.com/advisories/csrf-in-watu-pro-allows-unauthenticated-attackers-to-delete-quizzes/"
+    },
+    {
+      "text": "Product",
+      "href": "https://calendarscripts.info/watupro/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://kibokolabs.com"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kibokolabs:watupro:4.9.0.8:*:*:*:*:wordpress:*:*"
+  }
+}

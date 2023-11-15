@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.8.0:update_221",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T12:29:58.790Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.8.0 Update 221",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.8.0:update_221:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T08:29:58.790-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update221:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

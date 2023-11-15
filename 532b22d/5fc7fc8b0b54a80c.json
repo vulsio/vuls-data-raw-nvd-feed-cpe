@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:elastic:elasticsearch:8.2.1",
+  "title": [
+    {
+      "text": "Elastic Elasticsearch 8.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/elastic/elasticsearch/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.elastic.co/t/elastic-stack-7-17-4-and-8-2-1-security-update/305530"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elastic:elasticsearch:8.2.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:yestoken_project:yestoken:-",
+  "title": [
+    {
+      "text": "YESToken project YESToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xdc448e8a2a92a5ce799b197e982d773c605318a4#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:yestoken_project:yestoken:-:*:*:*:*:*:*:*"
+  }
+}

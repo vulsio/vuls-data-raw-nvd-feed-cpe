@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:blake2:blake2:-",
+  "deprecated": true,
+  "deprecation_date": "2020-08-31T12:52:59.640Z",
+  "title": [
+    {
+      "text": "BLAKE2 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://blake2.net/"
+    },
+    {
+      "text": "Version",
+      "href": "https://lib.rs/crates/blake2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blake2:blake2:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-31T08:52:59.640-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:blake2:blake2-rust:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

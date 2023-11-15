@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:microsoft:microsoft.aspnetcore.mvc.core:1.1.2::~~~asp.net~~",
+  "deprecated": true,
+  "deprecation_date": "2021-06-30T16:53:50.823Z",
+  "title": [
+    {
+      "text": "Microsoft ASP.NET Model View Controller (MVC) 1.1.2 for Asp.net",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://technet.microsoft.com/en-us/library/security/4021279.aspx"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/aspnet"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:microsoft.aspnetcore.mvc.core:1.1.2:*:*:*:*:asp.net:*:*",
+    "deprecation": {
+      "date": "2021-06-30T12:53:50.823-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:asp.net_model_view_controller:1.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

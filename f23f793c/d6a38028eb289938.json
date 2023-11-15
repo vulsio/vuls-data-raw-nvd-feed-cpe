@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:protocol:multihash:0.10.1::~~~rust~~",
+  "title": [
+    {
+      "text": "Protocol Multihash 0.10.1 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/194085"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/multiformats/rust-multihash/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://protocol.ai/work/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:protocol:multihash:0.10.1:*:*:*:*:rust:*:*"
+  }
+}

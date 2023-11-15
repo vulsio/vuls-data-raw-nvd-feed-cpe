@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:umn:mapserver:7.0.3",
+  "deprecated": true,
+  "deprecation_date": "2021-06-01T14:02:25.443Z",
+  "title": [
+    {
+      "text": "University of Minnesota Mapserver 7.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "http://www.mapserver.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/mapserver/mapserver"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:umn:mapserver:7.0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-01T10:02:25.443-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:osgeo:mapserver:7.0.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

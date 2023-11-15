@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:besu:22.7.0:rc1",
+  "title": [
+    {
+      "text": "Linux Foundation Besu 22.7.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.hyperledger.org/use/besu"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/hyperledger/besu/security/advisories/GHSA-4456-w38r-m53x"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hyperledger/besu/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:besu:22.7.0:rc1:*:*:*:*:*:*"
+  }
+}

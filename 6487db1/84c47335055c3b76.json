@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:matrix:dendrite:-",
+  "title": [
+    {
+      "text": "Matrix Dendrite",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/matrix-org/dendrite/security/advisories/GHSA-pfw4-xjgm-267c"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/matrix-org/dendrite/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matrix:dendrite:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:2667_v3",
+  "deprecated": true,
+  "deprecation_date": "2023-09-27T20:23:43.743Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 2667 V3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/78583/intel-xeon-processor-e5-v3-family.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:2667_v3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-27T16:23:43.743-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5-2667_v3:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

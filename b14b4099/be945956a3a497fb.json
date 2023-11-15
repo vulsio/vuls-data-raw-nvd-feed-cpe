@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:zulip:zulip_server:7.0:beta1",
+  "title": [
+    {
+      "text": "Zulip Zulip Server 7.0 Beta 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zulip/zulip/security/advisories/GHSA-4r83-8f94-hrph"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/zulip/zulip/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zulip:zulip_server:7.0:beta1:*:*:*:*:*:*"
+  }
+}

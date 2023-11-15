@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:publishpress:capabilities:1.0::~~-~wordpress~~",
+  "title": [
+    {
+      "text": "PublishPress Capabilities 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://publishpress.com/capabilities/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/capability-manager-enhanced/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/2f0f1a32-0c7a-48e6-8617-e0b2dcf62727"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://publishpress.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:publishpress:capabilities:1.0:*:*:*:-:wordpress:*:*"
+  }
+}

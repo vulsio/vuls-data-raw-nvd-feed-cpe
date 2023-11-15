@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:omron:plc_nj_firmware:-",
+  "title": [
+    {
+      "text": "Omron PLC NJ Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-346-03"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.ia.omron.com/products/family/3074/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:omron:plc_nj_firmware:-:*:*:*:*:*:*:*"
+  }
+}

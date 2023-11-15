@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:tp-link:nc210_firmware:1.0.9:200304",
+  "title": [
+    {
+      "text": "TP-Link NC210 Firmware 1.0.9 200304",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.tp-link.com/en/support/download/nc210/#Firmware"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/157531/TP-LINK-Cloud-Cameras-NCXXX-Bonjour-Command-Injection.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tp-link:nc210_firmware:1.0.9:200304:*:*:*:*:*:*"
+  }
+}

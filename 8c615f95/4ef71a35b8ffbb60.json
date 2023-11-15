@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:maccms:maccms:10.0",
+  "deprecated": true,
+  "deprecation_date": "2022-03-22T16:53:03.820Z",
+  "title": [
+    {
+      "text": "(Apple CMS) MacCMS 10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.maccms.la/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/magicblack/maccms10/releases"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.maccms.cn/doc/v10/log.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:maccms:maccms:10.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-22T12:53:03.820-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:maccms:maccms:10.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

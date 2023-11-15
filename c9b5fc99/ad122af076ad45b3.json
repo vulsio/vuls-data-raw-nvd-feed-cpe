@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_for_arm_64:8.0",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux for ARM 64 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2023:4708"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2023:4707"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2023:4706"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2023:4705"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_for_arm_64:8.0:*:*:*:*:*:*:*"
+  }
+}

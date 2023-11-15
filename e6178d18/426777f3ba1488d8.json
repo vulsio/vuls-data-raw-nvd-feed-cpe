@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:semantic_versioning:1.9::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Semantic Versioning 1.9 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/semantic-versioning-plugin/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2973%20(2)"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/semantic-versioning-plugin/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:semantic_versioning:1.9:*:*:*:*:jenkins:*:*"
+  }
+}

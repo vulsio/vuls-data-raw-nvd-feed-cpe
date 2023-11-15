@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows-nt:2003:sp2:itanium",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2003 sp2 itanium",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows-nt:2003:sp2:itanium:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_2003_server:-:sp2:itanium:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

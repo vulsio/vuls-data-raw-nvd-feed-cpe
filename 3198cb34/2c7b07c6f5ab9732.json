@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:suse:rancher:2.6.4:rc9",
+  "title": [
+    {
+      "text": "Suse Rancher 2.6.4 Release Candidate 9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rancher/rancher/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rancher/rancher/security/advisories/GHSA-jwvr-vv7p-gpwq"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:rancher:2.6.4:rc9:*:*:*:*:*:*"
+  }
+}

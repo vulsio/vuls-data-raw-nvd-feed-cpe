@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:boundary:0.12.0",
+  "title": [
+    {
+      "text": "HashiCorp Boundary 0.12.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/hashicorp/boundary/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2023-03-boundary-workers-store-rotated-credentials-in-plaintext-even-when-key-management-service-configured/49907"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:boundary:0.12.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nodejs:undici:5.7.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Nodejs undici 5.7.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nodejs/undici/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nodejs/undici/security/advisories/GHSA-q768-x9m6-m9qp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:undici:5.7.1:*:*:*:*:node.js:*:*"
+  }
+}

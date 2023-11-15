@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:apsystems:energy_communication_unit:-",
+  "title": [
+    {
+      "text": "Apsystems Energy Communication Unit -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ahmedalroky/Disclosures/blob/main/apesystems/os_command_injection.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://global.apsystems.com/wp-content/uploads/2018/04/05.APsystems-Single-Phase-ECU-3-user-manual.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:apsystems:energy_communication_unit:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:etcd:3.2.6",
+  "title": [
+    {
+      "text": "Red Hat etcd 3.2.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/etcd-io/etcd"
+    },
+    {
+      "text": "Project",
+      "href": "https://coreos.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.redhat.com/en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:etcd:3.2.6:*:*:*:*:*:*:*"
+  }
+}

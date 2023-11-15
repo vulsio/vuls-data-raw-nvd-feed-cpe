@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:directory:r12:sp3",
+  "deprecated": true,
+  "deprecation_date": "2021-04-08T13:30:25.160Z",
+  "title": [
+    {
+      "text": "CA Directory r12 Service Pack 3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:directory:r12:sp3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-08T09:30:25.160-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:directory:r12:sp3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

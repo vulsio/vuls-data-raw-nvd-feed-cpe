@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_gold:86128",
+  "deprecated": true,
+  "deprecation_date": "2023-09-25T19:50:28.567Z",
+  "title": [
+    {
+      "text": "Intel Xeon Gold 86128",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_gold:86128:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-25T15:50:28.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_gold_86128:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

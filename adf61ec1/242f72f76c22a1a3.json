@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pam_setquota_project:pam_setquota:2020-05-29",
+  "title": [
+    {
+      "text": "pam setquota Project pam setquota 2020-05-29",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/36xxx/CVE-2020-36394.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/oss-sec/2020/q2/169"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/shartge/pam_setquota"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pam_setquota_project:pam_setquota:2020-05-29:*:*:*:*:*:*:*"
+  }
+}

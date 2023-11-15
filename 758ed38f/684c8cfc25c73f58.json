@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:psftp:psftpd:10.0.4",
+  "title": [
+    {
+      "text": "psftp PSFTPd 10.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/144972/PSFTPd-Windows-FTP-Server-10.0.4-Build-729-Use-After-Free-Log-Injection.html"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.psftp.de/ftp-server/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:psftp:psftpd:10.0.4:*:*:*:*:*:*:*"
+  }
+}

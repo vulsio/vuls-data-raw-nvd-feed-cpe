@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:docker:ghost_alpine_docker_image:2.16.0",
+  "title": [
+    {
+      "text": "Docker Ghost Alpine Docker Image 2.16.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://hub.docker.com/_/alpine#:~:text=Alpine%20Linux%20is%20a%20Linux,utilities%20and%20even%20production%20applications."
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35185"
+    },
+    {
+      "text": "Version",
+      "href": "https://hub.docker.com/_/ghost?tab=tags&page=1&ordering=-last_updated&name=alpine"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker:ghost_alpine_docker_image:2.16.0:*:*:*:*:*:*:*"
+  }
+}

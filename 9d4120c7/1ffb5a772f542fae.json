@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:abb:irc5_firmware:-",
+  "title": [
+    {
+      "text": "ABB IRC5 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://new.abb.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/aliasrobotics/RVD/issues/3326"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:irc5_firmware:-:*:*:*:*:*:*:*"
+  }
+}

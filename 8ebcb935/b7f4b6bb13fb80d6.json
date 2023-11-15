@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:hp:openvms:7.3_2",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:59.383Z",
+  "title": [
+    {
+      "text": "HP OpenVMS 7.3-2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hp:openvms:7.3_2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:59.383-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hp:openvms:7.3-2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

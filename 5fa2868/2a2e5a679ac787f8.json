@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:urosevic:stock_ticker:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Urosevic Stock Ticker - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://urosevic.net/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/stock-ticker/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/stock-ticker/wordpress-stock-ticker-plugin-3-23-3-unauth-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:urosevic:stock_ticker:-:*:*:*:*:wordpress:*:*"
+  }
+}

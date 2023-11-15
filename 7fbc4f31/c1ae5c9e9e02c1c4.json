@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:percona:percona_server:2020-10-02::~~~mongodb~~",
+  "title": [
+    {
+      "text": "Percona Server 2020-10-02 for MongoDB",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.percona.com/doc/percona-distribution-mysql/8.0/release-notes-pxc-v8.0.20.upd2.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.percona.com/blog/2020/10/13/percona-distribution-for-mysql-pxc-variant-8-0-20-fixes-for-security-vulnerability-release-roundup-october-13-2020/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:percona:percona_server:2020-10-02:*:*:*:*:mongodb:*:*"
+  }
+}

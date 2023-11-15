@@ -1,0 +1,38 @@
+{
+  "name": "cpe:/a:phpjabbers:event_booking_calendar:4.0",
+  "title": [
+    {
+      "text": "PHPJabbers Event Booking Calendar 4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/advisories/GHSA-2c44-v444-62h2"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vulners.com/zdt/1337DAY-ID-39040"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.opencve.io/cve?vendor=phpjabbers&product=event_booking_calendar"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.238196"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@mfortinsec/multiple-vulnerabilities-in-phpjabbers-part-3-40fc3565982f"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.phpjabbers.com/event-booking-calendar/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpjabbers:event_booking_calendar:4.0:*:*:*:*:*:*:*"
+  }
+}

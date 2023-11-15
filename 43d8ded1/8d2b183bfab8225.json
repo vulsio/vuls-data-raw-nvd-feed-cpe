@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:moxa:nport_iaw5000a-i%2fo_firmware:2.2",
+  "title": [
+    {
+      "text": "Moxa NPort IAW5000A-I/O Firmware 2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/wireless-device-servers/nport-iaw5000a-i-o-series#resources"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:moxa:nport_iaw5000a-i\\/o_firmware:2.2:*:*:*:*:*:*:*"
+  }
+}

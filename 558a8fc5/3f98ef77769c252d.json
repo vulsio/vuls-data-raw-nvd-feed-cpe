@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:sierrawireless:mgos:3.15.1",
+  "title": [
+    {
+      "text": "Sierra Wireless MGOS 3.15.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.sierrawireless.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.sierrawireless.com/company/iot-device-security/security-bulletins/"
+    },
+    {
+      "text": "Product",
+      "href": "https://source.sierrawireless.com/airvantage/amm/reference/commonprocedures/mgos_management_tunnel/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://source.sierrawireless.com/-/media/support_downloads/security-bulletins/pdf/swi-psa-2020-006---mgos-security-update.ashx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sierrawireless:mgos:3.15.1:*:*:*:*:*:*:*"
+  }
+}

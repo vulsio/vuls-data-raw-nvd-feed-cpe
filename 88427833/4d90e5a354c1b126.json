@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:d-link:dcs-932l_camera_firmware:1.00",
+  "deprecated": true,
+  "deprecation_date": "2015-03-18T15:01:27.637Z",
+  "title": [
+    {
+      "text": "D-Link DCS-932L Camera Firmware 1.00",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dcs-932l_camera_firmware:1.00:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-03-18T11:01:27.637-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:d-link:dcs-932l_firmware:1.00:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

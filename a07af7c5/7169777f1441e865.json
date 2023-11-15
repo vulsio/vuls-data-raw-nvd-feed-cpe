@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:realvnc:vnc_server:6.9.1",
+  "title": [
+    {
+      "text": "RealVNC VNC Server 6.9.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.realvnc.com/en/connect/download/vnc/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://help.realvnc.com/hc/en-us/articles/360002478311-Are-there-any-known-security-vulnerabilities-#cve-2008-4770-moderate-%E2%80%94-only-affects-vnc-viewer--0-1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:realvnc:vnc_server:6.9.1:*:*:*:*:*:*:*"
+  }
+}

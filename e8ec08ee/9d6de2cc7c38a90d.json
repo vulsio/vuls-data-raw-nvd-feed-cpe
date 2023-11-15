@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bitdefender:antivirus:8.0.0::~~~macos~~",
+  "title": [
+    {
+      "text": "Bitdefender Antivirus 8.0.0 for macOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.zerodaylab.com/vulnerabilities/CVE-2020/CVE-2020-8092.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.bitdefender.com/site/Store/viewProduct/antivirus-for-mac-2019.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bitdefender:antivirus:8.0.0:*:*:*:*:macos:*:*"
+  }
+}

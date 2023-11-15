@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:octobercms:octobercms:-",
+  "deprecated": true,
+  "deprecation_date": "2020-08-03T12:43:37.327Z",
+  "title": [
+    {
+      "text": "October CMS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://octobercms.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octobercms:octobercms:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-03T08:43:37.327-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octobercms:october:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

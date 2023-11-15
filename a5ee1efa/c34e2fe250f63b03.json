@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:zyxel:atp800_firmware:-",
+  "title": [
+    {
+      "text": "Zyxel ATP800 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://store.zyxel.com/security.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-multiple-buffer-overflow-vulnerabilities-of-firewalls"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:zyxel:atp800_firmware:-:*:*:*:*:*:*:*"
+  }
+}

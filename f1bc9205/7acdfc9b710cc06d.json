@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:salephpscripts:web_directory_free:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "SalePHPscripts Web Directory Free for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/web-directory-free/web-directory-free-167-authenticated-contributor-sql-injection-via-post-id"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/web-directory-free/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.salephpscripts.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:salephpscripts:web_directory_free:-:*:*:*:*:wordpress:*:*"
+  }
+}

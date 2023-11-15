@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:home-assistant:supervisor:162",
+  "title": [
+    {
+      "text": "Home Assistant Supervisor 162",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.home-assistant.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/home-assistant/supervisor/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.home-assistant.io/blog/2023/03/08/supervisor-security-disclosure/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:home-assistant:supervisor:162:*:*:*:*:*:*:*"
+  }
+}

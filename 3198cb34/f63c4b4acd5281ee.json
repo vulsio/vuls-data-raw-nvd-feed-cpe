@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:suse:rancher:2.5.8:rc15",
+  "title": [
+    {
+      "text": "Suse Rancher 2.5.8 Release Candidate 15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rancher/rancher/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rancher/rancher/security/advisories/GHSA-4fc7-hc63-7fjg"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.suse.com/show_bug.cgi?id=1191466"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:rancher:2.5.8:rc15:*:*:*:*:*:*"
+  }
+}

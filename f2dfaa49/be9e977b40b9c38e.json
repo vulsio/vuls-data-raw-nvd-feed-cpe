@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netty:netty:-",
+  "title": [
+    {
+      "text": "Netty",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/netty/netty/security/advisories/GHSA-269q-hmxg-m83q"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/netty/netty/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netty:netty:-:*:*:*:*:*:*:*"
+  }
+}

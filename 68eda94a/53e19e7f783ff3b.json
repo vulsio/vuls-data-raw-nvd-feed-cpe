@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:amd:ryzen_3_2200ge_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) RYZEN 3 2200GE Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1029"
+    },
+    {
+      "text": "Version",
+      "href": "https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:ryzen_3_2200ge_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:goharbor:harbor:1.5.0:rc5",
+  "deprecated": true,
+  "deprecation_date": "2020-04-01T15:04:03.007Z",
+  "title": [
+    {
+      "text": "Goharbor Harbor 1.5.0 Release Candidate 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/goharbor/harbor"
+    },
+    {
+      "text": "Product",
+      "href": "https://goharbor.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:goharbor:harbor:1.5.0:rc5:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-01T11:04:03.007-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linuxfoundation:harbor:1.5.0:rc5:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

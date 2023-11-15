@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:ami:aptio_v:5.0",
+  "title": [
+    {
+      "text": "Ami Aptio V 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ami.com/power-up/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.congatec.com/fileadmin/user_upload/Documents/Others/AMI_Aptio_5.x_Status_Codes_PUB_Rev.2.0_20140410.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.binarly.io/advisories/BRLY-2022-027/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/26xxx/CVE-2022-26873.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ami:aptio_v:5.0:*:*:*:*:*:*:*"
+  }
+}

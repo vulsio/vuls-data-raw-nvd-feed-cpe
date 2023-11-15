@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:adobe:acrobat:2017.011.30070",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T11:15:03.653Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat 2017.011.30070",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/acrobat/apsb18-02.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:acrobat:2017.011.30070:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T07:15:03.653-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat:17.011.30070:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

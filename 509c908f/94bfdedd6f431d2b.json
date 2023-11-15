@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:dns-packet_project:dns-packet:1.2.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Dns-packet Project Dns-packet 1.2.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/dns-packet"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-DNSPACKET-1293563"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mafintosh/dns-packet/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dns-packet_project:dns-packet:1.2.0:*:*:*:*:node.js:*:*"
+  }
+}

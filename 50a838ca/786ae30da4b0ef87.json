@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:dell:sonicwall_global_management_system:8.1",
+  "deprecated": true,
+  "deprecation_date": "2018-03-12T13:11:15.670Z",
+  "title": [
+    {
+      "text": "Dell SonicWALL Global Management System (GMS) 8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.software.dell.com/sonicwall-gms/release-notes-guides"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dell:sonicwall_global_management_system:8.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-03-12T09:11:15.670-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sonicwall:global_management_system:8.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

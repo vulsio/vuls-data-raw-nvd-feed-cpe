@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:sengled:e1e-g7f_firmware:0.0.9",
+  "title": [
+    {
+      "text": "Sengled E1E-G7F FIRMWARE 0.0.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/iot-sec23/IoT-CVE/blob/main/Sengled%20Dimmer%20Switch%20Vulnerability%20Report.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://us.sengled.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sengled:e1e-g7f_firmware:0.0.9:*:*:*:*:*:*:*"
+  }
+}

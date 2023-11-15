@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:git-scm:git:2.32.2",
+  "title": [
+    {
+      "text": "git-scm git 2.32.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/git/git/security/advisories/GHSA-j342-m5hw-rr3v"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/git/git/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:git-scm:git:2.32.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sap:web_dispatcher:webdisp_7.53",
+  "title": [
+    {
+      "text": "SAP Web Dispatcher Webdisp 7.53",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://help.sap.com/saphelp_snc700_ehp01/helpdata/en/48/8fe37933114e6fe10000000a421937/frameset.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/205400"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:web_dispatcher:webdisp_7.53:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_server:1709",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T17:29:13.120Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server Core 1709",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.microsoft.com/en-us/windows-server/get-started/get-started-with-1709"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server:1709:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T13:29:13.120-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:1709:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

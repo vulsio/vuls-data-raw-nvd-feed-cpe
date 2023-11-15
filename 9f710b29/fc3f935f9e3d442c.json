@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:xen:xen:3.2.0::~~~~x86~",
+  "title": [
+    {
+      "text": "Xen 3.2.0 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.xenproject.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://xenproject.org/xen-project-archives/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://xenbits.xen.org/xsa/advisory-339.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:xen:xen:3.2.0:*:*:*:*:*:x86:*"
+  }
+}

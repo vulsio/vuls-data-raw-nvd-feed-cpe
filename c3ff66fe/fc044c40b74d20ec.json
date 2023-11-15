@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:plex:media_server:0.9.9.2",
+  "title": [
+    {
+      "text": "Plex Media Server 0.9.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/security/research/tra-2020-25"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.elladodelmal.com/2018/08/shodan-es-de-cine-hacking-tautulli-un.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.plex.tv/media-server-downloads/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://plex.tv/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:plex:media_server:0.9.9.2:*:*:*:*:*:*:*"
+  }
+}

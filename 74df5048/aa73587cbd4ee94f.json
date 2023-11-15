@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:consul:1.9.8::~~-~~~",
+  "title": [
+    {
+      "text": "HashiCorp Consul 1.9.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2021-17-consul-s-envoy-tls-configuration-did-not-validate-destination-service-subject-alternative-names/26856"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/consul/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:1.9.8:*:*:*:-:*:*:*"
+  }
+}

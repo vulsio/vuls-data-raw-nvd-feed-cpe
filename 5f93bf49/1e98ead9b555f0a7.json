@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:ansible_tower:3.2.7::~~scm_repositories~~~",
+  "title": [
+    {
+      "text": "Red Hat Ansible Tower 3.2.7 SCM Repositories Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.ansible.com/ansible-tower/"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/products/ansible-tower-red-hat"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.ansible.com/ansible-tower/3.2.0/html/release-notes/relnotes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:ansible_tower:3.2.7:*:*:*:scm_repositories:*:*:*"
+  }
+}

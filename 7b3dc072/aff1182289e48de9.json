@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:linux:kernel:2.6.17.9",
+  "deprecated": true,
+  "deprecation_date": "2012-03-08T20:00:26.387Z",
+  "title": [
+    {
+      "text": "Linux Kernel 2.6.17.9",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:kernel:2.6.17.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-03-08T15:00:26.387-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:2.6.17.9:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

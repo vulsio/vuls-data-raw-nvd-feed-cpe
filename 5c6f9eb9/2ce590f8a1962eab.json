@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:frourio-express_project:frourio-express:0.22.1::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2023-02-28T18:18:36.890Z",
+  "title": [
+    {
+      "text": "frourio-express Project frourio-express 0.22.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/frouriojs/frourio-express/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/frouriojs/frourio-express/security/advisories/GHSA-mmj4-777p-fpq9"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:frourio-express_project:frourio-express:0.22.1:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2023-02-28T13:18:36.890-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:frourio:frourio-express:0.22.1:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

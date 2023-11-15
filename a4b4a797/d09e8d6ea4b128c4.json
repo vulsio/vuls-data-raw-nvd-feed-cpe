@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:dht_project:dht:-::~~~go~~",
+  "title": [
+    {
+      "text": "DHT Project DHT for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/shiyanhui/dht/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0040"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/shiyanhui/dht"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dht_project:dht:-:*:*:*:*:go:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:schneider-electric:scada_expert_clearscada:2013:r1.1a",
+  "deprecated": true,
+  "deprecation_date": "2018-12-31T14:23:16.467Z",
+  "title": [
+    {
+      "text": "Schneider Electric SCADA Expert ClearSCADA 2013 R1.1a",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Website",
+      "href": "http://www.schneider-electric.com/products/ww/en/6000-telemetry-remote-scada-systems/?xtmc=scada&xtcr=1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider-electric:scada_expert_clearscada:2013:r1.1a:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-12-31T09:23:16.467-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:aveva:clearscada:2013:r1.1a:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

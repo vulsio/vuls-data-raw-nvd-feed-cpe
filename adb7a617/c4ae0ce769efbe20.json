@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:cisco:web_security_appliance:10.0.0-203",
+  "deprecated": true,
+  "deprecation_date": "2021-08-06T16:50:10.120Z",
+  "title": [
+    {
+      "text": "Cisco Web Security Appliance 10.0.0-203",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.cisco.com/c/en/us/products/security/web-security-appliance/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:web_security_appliance:10.0.0-203:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-06T12:50:10.120-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:web_security_appliance:10.0.0-203:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

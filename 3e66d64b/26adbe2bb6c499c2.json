@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:irz:ruh2_firmware:-",
+  "title": [
+    {
+      "text": "iRZ RUH2 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://irz.net/en/products/routers/ruh-series/ruh2"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://s4nsec.github.io/2023/02/20/RUH2-GSM-Router-XSS-vulnerabilities.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:irz:ruh2_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:zyxel:usg100:-",
+  "title": [
+    {
+      "text": "Zyxel USG100",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zyxel.com/us/en/homepage.shtml"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35029.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.zyxel.com/us/en/promotions/ZyWALL-Series-or-USG-Series--Which-Is-for-You--20130910-797138.shtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:zyxel:usg100:-:*:*:*:*:*:*:*"
+  }
+}

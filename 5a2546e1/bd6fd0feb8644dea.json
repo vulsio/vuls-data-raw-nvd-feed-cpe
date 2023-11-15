@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:opensis:opensis:7.3::~~community~~~",
+  "deprecated": true,
+  "deprecation_date": "2020-09-03T12:05:53.417Z",
+  "title": [
+    {
+      "text": "openSIS 7.3 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/opensis-ce/files/"
+    },
+    {
+      "text": "Product",
+      "href": "https://opensis.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opensis:opensis:7.3:*:*:*:community:*:*:*",
+    "deprecation": {
+      "date": "2020-09-03T08:05:53.417-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:os4ed:opensis:7.3:*:*:*:community:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

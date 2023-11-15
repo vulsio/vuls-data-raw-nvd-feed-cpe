@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:tribulant:newsletter:4.5.6.1::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-18T15:03:02.280Z",
+  "title": [
+    {
+      "text": "Tribulant Newsletter 4.5.6.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://tribulant.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://tribulant.com/plugins/view/1/wordpress-newsletter-plugin"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/newsletters-lite/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tribulant:newsletter:4.5.6.1:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-18T11:03:02.280-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tribulant:newsletters:4.5.6.1:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

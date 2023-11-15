@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oracle:mysql_enterprise_monitor:8.0.21",
+  "title": [
+    {
+      "text": "Oracle MySQL Enterprise Monitor 8.0.21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://dev.mysql.com/doc/mysql-monitor/8.0/en/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.oracle.com/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql_enterprise_monitor:8.0.21:*:*:*:*:*:*:*"
+  }
+}

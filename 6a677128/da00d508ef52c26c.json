@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:dast_api_scanner:1.6.50",
+  "title": [
+    {
+      "text": "Gitlab Dast Api Scanner 1.6.50",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/gitlab/-/issues/383083"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-4206.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:dast_api_scanner:1.6.50:*:*:*:*:*:*:*"
+  }
+}

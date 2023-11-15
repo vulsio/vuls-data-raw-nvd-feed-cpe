@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:3ds:teamwork_cloud:19.0:sp1",
+  "title": [
+    {
+      "text": "3DS (Dassault Systèmes) Teamwork Cloud 19.0 Service Pack 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.3ds.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nomagic.com/products/teamwork-cloud"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sickcodes/security/blob/master/advisories/SICK-2020-002.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:3ds:teamwork_cloud:19.0:sp1:*:*:*:*:*:*"
+  }
+}

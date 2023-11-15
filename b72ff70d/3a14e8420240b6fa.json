@@ -1,0 +1,43 @@
+{
+  "name": "cpe:/a:auth0:auth0:8.12",
+  "deprecated": true,
+  "deprecation_date": "2021-04-28T17:06:31.593Z",
+  "title": [
+    {
+      "text": "Auth0 8.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/auth0-js"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/auth0/auth0.js"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/auth0/auth0.js/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://auth0.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://auth0.com/docs/security/bulletins/cve-2017-17068"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:auth0:auth0:8.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-28T13:06:31.593-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:auth0:auth0.js:8.12.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

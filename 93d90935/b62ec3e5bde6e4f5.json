@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:aes-gcm_project:aes-gcm:0.10.3::~~~rust~~",
+  "title": [
+    {
+      "text": "Aes-gcm Project Aes-gcm 0.10.3 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/RustCrypto/AEADs/security/advisories/GHSA-423w-p2w9-r7vq"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/RustCrypto/AEADs/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:aes-gcm_project:aes-gcm:0.10.3:*:*:*:*:rust:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:busybox:busybox:0.43",
+  "deprecated": true,
+  "deprecation_date": "2020-08-04T18:15:29.403Z",
+  "title": [
+    {
+      "text": "BusyBox 0.43",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:busybox:busybox:0.43:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-04T14:15:29.403-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:busybox:busybox:0.43:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

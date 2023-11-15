@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:qemu:qemu:1%3a2.1%2bdfsg-12%2bdeb8u6",
+  "title": [
+    {
+      "text": "QEMU 1:2.1+dfsg-12+deb8u6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security-tracker.debian.org/tracker/CVE-2019-12068"
+    },
+    {
+      "text": "Product",
+      "href": "https://tracker.debian.org/pkg/qemu"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:1\\:2.1\\+dfsg-12\\+deb8u6:*:*:*:*:*:*:*"
+  }
+}

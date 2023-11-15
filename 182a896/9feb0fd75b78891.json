@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:d-link:dap-2330_firmware:1.06",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DAP-2330 Firmware 1.06",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.dlink.com/mk/mk/business-solutions/wireless/wireless-access-points"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.dlink.com/mk/mk/support/support-news/2016/march/16/firmadyne-cve_2016_1558-cve_2016_1559"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dap-2330_firmware:1.06:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dap-2330_firmware:1.06:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

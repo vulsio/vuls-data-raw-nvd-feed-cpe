@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:abb:fox515t_firmware:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:58:30.633Z",
+  "title": [
+    {
+      "text": "ABB FOX515T Firmware 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://new.abb.com/"
+    },
+    {
+      "text": "Product",
+      "href": "http://new.abb.com/network-management/communication-networks/optical-networks/fox515"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:fox515t_firmware:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:58:30.633-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hitachienergy:fox515t_firmware:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

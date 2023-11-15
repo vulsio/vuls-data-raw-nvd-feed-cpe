@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:open_enclave_software_development_kit:0.12.0:rc1",
+  "title": [
+    {
+      "text": "Microsoft Open Enclave Software Development Kit 0.12.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-33767"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openenclave/openenclave/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:open_enclave_software_development_kit:0.12.0:rc1:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:cloudbees_aws_credentials:-::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins CloudBees AWS Credentials for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/aws-credentials/#releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-03-15/#SECURITY-2351"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:cloudbees_aws_credentials:-:*:*:*:*:jenkins:*:*"
+  }
+}

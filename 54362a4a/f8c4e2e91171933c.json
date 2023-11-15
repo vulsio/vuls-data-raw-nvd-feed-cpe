@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pivotal:bosh_stemcell:3146.13",
+  "title": [
+    {
+      "text": "Pivotal Bosh Stemcell 3146.13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://bosh.io/docs/stemcell.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://pivotal.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2016-4435"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:bosh_stemcell:3146.13:*:*:*:*:*:*:*"
+  }
+}

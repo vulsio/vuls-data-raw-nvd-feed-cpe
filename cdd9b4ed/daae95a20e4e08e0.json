@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:checkpoint:endpoint_security:e86.50::~~~windows~~",
+  "title": [
+    {
+      "text": "Check Point Endpoint Security E86.50 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23744.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/230699"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:checkpoint:endpoint_security:e86.50:*:*:*:*:windows:*:*"
+  }
+}

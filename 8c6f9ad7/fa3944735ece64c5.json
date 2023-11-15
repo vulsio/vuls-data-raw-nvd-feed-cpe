@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:johnsoncontrols:c-cure_9000_firmware:2.70",
+  "deprecated": true,
+  "deprecation_date": "2022-10-13T16:01:59.130Z",
+  "title": [
+    {
+      "text": "Johnson Controls C-CURE 9000 Firmware 2.70",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.johnsoncontrols.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.swhouse.com/Support/upgrade_center.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:johnsoncontrols:c-cure_9000_firmware:2.70:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-10-13T12:01:59.130-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:johnsoncontrols:c-cure_9000_firmware:2.70:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

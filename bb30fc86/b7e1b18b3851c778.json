@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:siemens:ie%2fwsn-pa_link_wirelesshart_gateway:-",
+  "title": [
+    {
+      "text": "Siemens IE/WSN-PA Link WirelessHART Gateway",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-191683.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-253-04"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:siemens:ie\\/wsn-pa_link_wirelesshart_gateway:-:*:*:*:*:*:*:*"
+  }
+}

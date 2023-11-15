@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:5.8.0:rc3",
+  "deprecated": true,
+  "deprecation_date": "2023-06-05T20:39:01.240Z",
+  "title": [
+    {
+      "text": "Linux Kernel 5.8.0 Release Candidate 3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-rc3-Released"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:5.8.0:rc3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-06-05T16:39:01.240-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:5.8:rc3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

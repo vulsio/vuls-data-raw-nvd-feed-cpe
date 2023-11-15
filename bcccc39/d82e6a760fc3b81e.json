@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:quickstart_cloud_installer:-",
+  "title": [
+    {
+      "text": "Red Hat QuickStart Cloud Installer (QCI)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.redhat.com/en/blog/now-available-quickstart-cloud-installer-qci-11"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1370315"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:quickstart_cloud_installer:-:*:*:*:*:*:*:*"
+  }
+}

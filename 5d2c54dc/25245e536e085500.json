@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:logitec:lan-w300n%2fpr5b:-",
+  "deprecated": true,
+  "deprecation_date": "2022-02-10T19:47:21.303Z",
+  "title": [
+    {
+      "text": "Logitec LAN-W300N/PR5B",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.logitech.com/en-us"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/jp/JVN96783542/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:logitec:lan-w300n\\/pr5b:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-10T14:47:21.303-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:logitech:lan-w300n\\/pr5b:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

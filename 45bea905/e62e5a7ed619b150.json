@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:ge:voluson_firmware:-",
+  "title": [
+    {
+      "text": "General Electric Voluson Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/products/ultrasound/voluson"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsma-20-049-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ge:voluson_firmware:-:*:*:*:*:*:*:*"
+  }
+}

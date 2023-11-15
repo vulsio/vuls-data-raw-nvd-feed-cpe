@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:duplicity_project:duplicity:0.4.3rc2",
+  "deprecated": true,
+  "deprecation_date": "2020-05-19T15:36:10.370Z",
+  "title": [
+    {
+      "text": "Duplicity Project Duplicity 0.4.3rc2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "http://savannah.nongnu.org/projects/duplicity"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.nongnu.org/duplicity/vers7/CHANGELOG"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:duplicity_project:duplicity:0.4.3rc2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-19T11:36:10.370-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:duplicity_project:duplicity:0.4.3:rc2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

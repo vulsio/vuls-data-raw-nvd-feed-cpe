@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vapor:postgresnio:1.5.2::~~~postgresql~~",
+  "title": [
+    {
+      "text": "Vapor PostgresNIO 1.5.2 for PostgreSQL",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/vapor/postgres-nio/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vapor/postgres-nio/security/advisories/GHSA-9cfh-vx93-84vv"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://vapor.codes/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vapor:postgresnio:1.5.2:*:*:*:*:postgresql:*:*"
+  }
+}

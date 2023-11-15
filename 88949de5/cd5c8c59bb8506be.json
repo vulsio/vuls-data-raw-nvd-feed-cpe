@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:abb:qcs_800xa_firmware:5.1.0:sp2",
+  "title": [
+    {
+      "text": "ABB QCS 800xA Firmware 5.1.0 Service Pack 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0010.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://search.abb.com/library/Download.aspx?DocumentID=3BUS221709&LanguageCode=en&DocumentPartId=&Action=Launch&_ga=2.108646530.1437951308.1684739395-1142547495.1678209228"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:qcs_800xa_firmware:5.1.0:sp2:*:*:*:*:*:*"
+  }
+}

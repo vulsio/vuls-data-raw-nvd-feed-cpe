@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:bootstrap_table_project:bootstrap_table:1.18.2",
+  "deprecated": true,
+  "deprecation_date": "2023-01-23T19:35:37.827Z",
+  "title": [
+    {
+      "text": "Bootstrap Table Project Bootstrap Table 1.18.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/wenzhixin/bootstrap-table/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-BOOTSTRAPTABLE-1657597"
+    },
+    {
+      "text": "Product",
+      "href": "https://bootstrap-table.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bootstrap_table_project:bootstrap_table:1.18.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-23T14:35:37.827-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bootstrap-table:bootstrap_table:1.18.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

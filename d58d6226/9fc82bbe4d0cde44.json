@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apple:swiftnio:2.15.0",
+  "title": [
+    {
+      "text": "Apple SwiftNIO 2.15.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/apple/swift-nio/security/advisories/GHSA-7fj7-39wj-c64f"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apple/swift-nio/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:swiftnio:2.15.0:*:*:*:*:*:*:*"
+  }
+}

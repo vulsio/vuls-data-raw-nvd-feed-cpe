@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:voip_phone_cp-7910:3.2",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:38:03.477Z",
+  "title": [
+    {
+      "text": "Cisco Skinny Client Control Protocol (SCCP) 3.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:voip_phone_cp-7910:3.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:38:03.477-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:3.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

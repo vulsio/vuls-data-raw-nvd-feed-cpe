@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:vpn_3030_concentator:4.1.7.l",
+  "deprecated": true,
+  "deprecation_date": "2013-05-16T18:59:11.347Z",
+  "title": [
+    {
+      "text": "Cisco VPN 3000 Concentrator Series Software 4.1.7.l",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:vpn_3030_concentator:4.1.7.l:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-05-16T14:59:11.347-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:4.1.7.l:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

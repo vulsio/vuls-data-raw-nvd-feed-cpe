@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:puppet:puppet_agent:1.0",
+  "deprecated": true,
+  "deprecation_date": "2020-09-30T12:27:19.420Z",
+  "title": [
+    {
+      "text": "Puppet Agent 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://puppet.com/docs/puppet/4.10/about_agent.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://puppet.com/security/cve/cve-2015-1855/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppet:puppet_agent:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-30T08:27:19.420-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet_agent:1.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

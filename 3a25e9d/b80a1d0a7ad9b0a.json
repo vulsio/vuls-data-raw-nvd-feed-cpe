@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microchip:advanced_software_framework_4:-",
+  "title": [
+    {
+      "text": "Microchip Technology Advanced Software Framework 4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://census-labs.com/news/2020/10/21/microchip-asf4-integer-overflows-in-flash_read-flash_write-and-flash_append/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microchip.com/mplab/avr-support/advanced-software-framework"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microchip:advanced_software_framework_4:-:*:*:*:*:*:*:*"
+  }
+}

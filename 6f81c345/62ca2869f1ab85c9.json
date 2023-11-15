@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:phpnuke:phpnuke:6.6",
+  "deprecated": true,
+  "deprecation_date": "2019-07-01T16:42:31.620Z",
+  "title": [
+    {
+      "text": "Francisco Burzi PHP-Nuke 6.6",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpnuke:phpnuke:6.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-01T12:42:31.620-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpnuke:php-nuke:6.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

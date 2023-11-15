@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:brother:iprint%26scan:-::~~~android~~",
+  "title": [
+    {
+      "text": "Brother iPrint&Scan - for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.brother.mfc.brprint"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/vu/JVNVU97891206/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://faq.brother.co.jp/app/answers/detail/a_id/13468"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:brother:iprint\\&scan:-:*:*:*:*:android:*:*"
+  }
+}

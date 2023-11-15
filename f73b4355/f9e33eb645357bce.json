@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:netexplorer:my_smtp_contact:1.1.1::~~~getsimple~~",
+  "title": [
+    {
+      "text": "Netexplorer My SMTP Contact 1.1.1 for GetSimple",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/29xxx/CVE-2021-29400.json"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://netexplorer.h1n.ru/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://get-simple.info/extend/plugin/my-smtp-contact/1221/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netexplorer:my_smtp_contact:1.1.1:*:*:*:*:getsimple:*:*"
+  }
+}

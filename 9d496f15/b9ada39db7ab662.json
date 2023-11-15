@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nokogiri:nokogiri:1.13.6::~~~ruby~~",
+  "title": [
+    {
+      "text": "Nokogiri 1.13.6 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-xh29-r2w5-wx8m"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sparklemotion/nokogiri/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nokogiri:nokogiri:1.13.6:*:*:*:*:ruby:*:*"
+  }
+}

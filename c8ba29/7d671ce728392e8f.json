@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:ibm:websphere_application_server:20.0.0.3::~~liberty~~~",
+  "title": [
+    {
+      "text": "IBM WebSphere Application Server 20.0.0.3 Liberty Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/176670"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ibm.com/us-en/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ibm.com/support/knowledgecenter/en/SSEQTP_liberty/as_ditamaps/was900_welcome_liberty.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www-01.ibm.com/software/webservers/appserv/was/was-library/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:websphere_application_server:20.0.0.3:*:*:*:liberty:*:*:*"
+  }
+}

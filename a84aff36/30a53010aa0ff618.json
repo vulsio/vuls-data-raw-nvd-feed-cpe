@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nats:nats_streaming_server:0.22.0",
+  "title": [
+    {
+      "text": "Nats Nats Streaming Server 0.22.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://advisories.nats.io/CVE/CVE-2022-24450.txt"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nats-io/nats-streaming-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nats:nats_streaming_server:0.22.0:*:*:*:*:*:*:*"
+  }
+}

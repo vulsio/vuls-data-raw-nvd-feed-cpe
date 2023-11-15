@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:siteminder_federation:12.0:-",
+  "deprecated": true,
+  "deprecation_date": "2014-06-03T18:08:27.623Z",
+  "title": [
+    {
+      "text": "Computer Associates SiteMinder Federation (FSS) 12.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siteminder_federation:12.0:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-06-03T14:08:27.623-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ca:siteminder_federation:12.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

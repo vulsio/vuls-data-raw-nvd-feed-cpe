@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:qemu:qemu:1%3a4.1-1",
+  "title": [
+    {
+      "text": "QEMU 1:4.1-1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security-tracker.debian.org/tracker/CVE-2019-12068"
+    },
+    {
+      "text": "Product",
+      "href": "https://tracker.debian.org/pkg/qemu"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:1\\:4.1-1:*:*:*:*:*:*:*"
+  }
+}

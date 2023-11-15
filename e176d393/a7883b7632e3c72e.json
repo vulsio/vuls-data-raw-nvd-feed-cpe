@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vagrant_project:vagrant:0.4::~~~gradle~~",
+  "title": [
+    {
+      "text": "Vagrant Project Vagrant 0.4 for Gradle",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/bmuschko/gradle-vagrant-plugin/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/JLLeitschuh/security-research/security/advisories/GHSA-jpcm-4485-69p7"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vagrant_project:vagrant:0.4:*:*:*:*:gradle:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:syncthing:syncthing:1.16.0:rc1",
+  "title": [
+    {
+      "text": "Syncthing 1.16.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/syncthing/syncthing/security/advisories/GHSA-x462-89pf-6r5h"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/syncthing/syncthing/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://syncthing.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:syncthing:syncthing:1.16.0:rc1:*:*:*:*:*:*"
+  }
+}

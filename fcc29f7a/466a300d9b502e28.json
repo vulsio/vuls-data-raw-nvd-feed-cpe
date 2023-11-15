@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hitreach:allow_php_in_posts_and_pages:3.0.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Hit Reach Allow PHP in Posts And Pages 3.0.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/allow-php-in-posts-and-pages/allow-php-in-posts-and-pages-304-authenticated-subscriber-remote-code-execution-via-shortcode"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/allow-php-in-posts-and-pages/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hitreach:allow_php_in_posts_and_pages:3.0.4:*:*:*:*:wordpress:*:*"
+  }
+}

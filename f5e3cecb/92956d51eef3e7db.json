@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpserveur:wps_hide_login:1.9.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPSERVEUR WPS Hide Login 1.9.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/15bb711a-7d70-4891-b7a2-c473e3e8b375"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wps-hide-login/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.wpserveur.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpserveur:wps_hide_login:1.9.1:*:*:*:*:wordpress:*:*"
+  }
+}

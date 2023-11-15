@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:dlink:dir-600:b5",
+  "title": [
+    {
+      "text": "D-Link DIR-600 B5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-600"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/naihsin/IoT/blob/main/D-Link/DIR-600/cmd%20injection/README.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:dlink:dir-600:b5:*:*:*:*:*:*:*"
+  }
+}

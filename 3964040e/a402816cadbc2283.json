@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:jenkins:active_choices:0.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Active Choices 0.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/uno-choice"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2017-10-23/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/active-choices-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:active_choices:0.1:*:*:*:*:jenkins:*:*"
+  }
+}

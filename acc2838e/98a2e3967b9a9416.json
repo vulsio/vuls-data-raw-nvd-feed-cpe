@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpspeedx:rduplicator:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wpspeedx Rduplicator - for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/rduplicator/quick-post-duplicator-20-authenticated-contributor-sql-injection-via-post-id"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/rduplicator/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.wpspeedx.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpspeedx:rduplicator:-:*:*:*:*:wordpress:*:*"
+  }
+}

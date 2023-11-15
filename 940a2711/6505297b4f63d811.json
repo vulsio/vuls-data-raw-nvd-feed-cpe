@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:freebsd:freebsd:7.1",
+  "deprecated": true,
+  "deprecation_date": "2019-03-18T17:53:38.957Z",
+  "title": [
+    {
+      "text": "FreeBSD 7.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:freebsd:freebsd:7.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-18T13:53:38.957-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:freebsd:freebsd:7.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

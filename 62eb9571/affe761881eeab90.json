@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:lifesize:express_220_firmware:-",
+  "title": [
+    {
+      "text": "Lifesize Express 220 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://legacy.lifesize.com/~/media/Documents/Product%20Documentation/Express%20220/Product%20Datasheets/LifeSize%20Express220%20Datasheet%20EN.ashx"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.lifesize.com/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sku11army.blogspot.com/2020/01/lifesize-devices-allow-xss-via.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:lifesize:express_220_firmware:-:*:*:*:*:*:*:*"
+  }
+}

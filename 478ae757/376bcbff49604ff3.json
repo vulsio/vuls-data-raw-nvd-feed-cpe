@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fastly:js-compute:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Fastly Js-compute - for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fastly/js-compute-runtime/security/advisories/GHSA-cmr8-5w4c-44v8"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/@fastly/js-compute"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fastly:js-compute:-:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:amazon:web_services_virtual_private_cloud:-",
+  "deprecated": true,
+  "deprecation_date": "2021-05-10T15:58:17.340Z",
+  "title": [
+    {
+      "text": "Amazon Web Services Virtual Private Cloud",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://aws.amazon.com/vpc/?vpc-blogs.sort-by=item.additionalFields.createdDate&vpc-blogs.sort-order=desc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:web_services_virtual_private_cloud:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-10T11:58:17.340-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:amazon:amazon_virtual_private_cloud:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

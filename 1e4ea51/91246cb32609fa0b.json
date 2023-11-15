@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:image_tag_parameter:1.10::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Image Tag Parameter 1.10 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/image-tag-parameter/#releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2784"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:image_tag_parameter:1.10:*:*:*:*:jenkins:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gatewaygeomatics:mapserver:3.0.6",
+  "title": [
+    {
+      "text": "GatewayGeomatics MapServer 3.0.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/75983"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mapserver.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://gatewaygeomatics.com/services.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gatewaygeomatics:mapserver:3.0.6:*:*:*:*:*:*:*"
+  }
+}

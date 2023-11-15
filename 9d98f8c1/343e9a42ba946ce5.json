@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:suse:arpwatch:2.1a15",
+  "title": [
+    {
+      "text": "Suse Arpwatch 2.1a15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://software.opensuse.org/package/arpwatch"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.suse.com/show_bug.cgi?id=1186240"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25321.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:arpwatch:2.1a15:*:*:*:*:*:*:*"
+  }
+}

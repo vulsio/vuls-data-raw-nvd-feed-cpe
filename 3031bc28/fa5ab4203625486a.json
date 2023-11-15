@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:vmware:vsphere_esxi:6.0",
+  "deprecated": true,
+  "deprecation_date": "2019-11-22T17:57:29.310Z",
+  "title": [
+    {
+      "text": "VMware vSphere ESXi 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://my.vmware.com/web/vmware/info/slug/datacenter_cloud_infrastructure/vmware_vsphere/6_0"
+    },
+    {
+      "text": "Product",
+      "href": "https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi6"
+    },
+    {
+      "text": "Product",
+      "href": "https://kb.vmware.com/s/article/2107518?lang=en_US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:vsphere_esxi:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-22T12:57:29.310-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:vsphere_esxi:6.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:terra-master:f2-210_firmware:2021-04-03",
+  "title": [
+    {
+      "text": "TerraMaster F2-210 Firmware 2021-04-03",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/199675"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://kn100.me/terramaster-nas-exposing-itself-over-upnp/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.terra-master.com/us/f2-210.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:terra-master:f2-210_firmware:2021-04-03:*:*:*:*:*:*:*"
+  }
+}

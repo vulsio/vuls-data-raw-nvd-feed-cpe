@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:d-link:central_wifimanager:1.03:r0098",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:36:57.253Z",
+  "title": [
+    {
+      "text": "D-link Central WiFiManager 1.03 R0098",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://us.dlink.com/products/business-solutions/central-wifimanager-software-controller/"
+    },
+    {
+      "text": "Version",
+      "href": "https://download.hq.dlink.com/CWM-100/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:d-link:central_wifimanager:1.03:r0098:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:36:57.253-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dlink:central_wifimanager:1.03:r0098:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

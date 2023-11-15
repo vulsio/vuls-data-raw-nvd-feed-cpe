@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:jsonlint_project:jsonlint:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-01-17T18:28:49.587Z",
+  "title": [
+    {
+      "text": "Jsonlint Project Jsonlint 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/42xxx/CVE-2022-42227.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jsonlint_project:jsonlint:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-17T13:28:49.587-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jsonlint_project:jsonlint_c\\+\\+:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

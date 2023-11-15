@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:cloudfoundry:user_account_and_authentication:74.26.0",
+  "title": [
+    {
+      "text": "Cloud Foundry User Account and Authentication (UAA) 74.26.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2019-11278/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cloudfoundry/uaa/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudfoundry.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:74.26.0:*:*:*:*:*:*:*"
+  }
+}

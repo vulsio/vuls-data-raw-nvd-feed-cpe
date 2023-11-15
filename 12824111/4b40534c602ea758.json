@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:sql_server:2014:sp1",
+  "title": [
+    {
+      "text": "Microsoft SQL Server 2014 Service Pack 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=46694"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://technet.microsoft.com/security/bulletin/MS16-136"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:sql_server:2014:sp1:*:*:*:*:*:*"
+  }
+}

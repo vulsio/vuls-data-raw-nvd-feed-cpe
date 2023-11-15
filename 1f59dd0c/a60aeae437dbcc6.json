@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:plot:2.1.12::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Plot 2.1.12 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-2940"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/plot/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:plot:2.1.12:*:*:*:*:jenkins:*:*"
+  }
+}

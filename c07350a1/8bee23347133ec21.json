@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:puppetlabs:puppet_enterprise:3.8.1",
+  "deprecated": true,
+  "deprecation_date": "2019-07-10T15:39:55.717Z",
+  "title": [
+    {
+      "text": "Puppet Labs Puppet Enterprise 3.8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://docs.puppetlabs.com/release_notes/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://puppetlabs.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:puppet_enterprise:3.8.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-10T11:39:55.717-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet_enterprise:3.8.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

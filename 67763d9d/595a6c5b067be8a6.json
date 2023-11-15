@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:hibernate:validator:6.1.2",
+  "deprecated": true,
+  "deprecation_date": "2021-03-01T13:51:31.027Z",
+  "title": [
+    {
+      "text": "Hibernate Validator 6.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hibernate/hibernate-validator/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-10693"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hibernate:validator:6.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-03-01T08:51:31.027-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:hibernate_validator:6.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

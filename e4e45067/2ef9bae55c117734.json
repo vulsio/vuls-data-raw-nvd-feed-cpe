@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apache:http_server:2.2.15-60",
+  "title": [
+    {
+      "text": "Apache Software Foundation HTTP Server 2.2.15-60",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2017:2972"
+    },
+    {
+      "text": "Product",
+      "href": "http://httpd.apache.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:http_server:2.2.15-60:*:*:*:*:*:*:*"
+  }
+}

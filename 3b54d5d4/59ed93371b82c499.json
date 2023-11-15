@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:fastify:websocket:7.0.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Fastify WebSocket 7.0.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.fastify.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fastify/fastify-websocket/security/advisories/GHSA-4pcg-wr6c-h9cq"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fastify/fastify-websocket/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fastify:websocket:7.0.1:*:*:*:*:node.js:*:*"
+  }
+}

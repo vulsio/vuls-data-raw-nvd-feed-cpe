@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:pinniped:0.12.1",
+  "title": [
+    {
+      "text": "VMware Pinniped 0.12.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/vmware-tanzu/pinniped/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vmware-tanzu/pinniped/security/advisories/GHSA-hvrf-5hhv-4348"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:pinniped:0.12.1:*:*:*:*:*:*:*"
+  }
+}

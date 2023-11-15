@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:itarian:endpoint_manager:-::~~on-premise~~~",
+  "title": [
+    {
+      "text": "ITarian Endpoint Manager On-premise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://community.itarian.com/help/topic-459-1-1007-14748-Endpoint-Manager-On-Premise-Deployment-Guide.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://csirt.divd.nl/cves/CVE-2022-25151/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:itarian:endpoint_manager:-:*:*:*:on-premise:*:*:*"
+  }
+}

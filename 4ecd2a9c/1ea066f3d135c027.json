@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:vmware:esxi:7.0:update_1a",
+  "title": [
+    {
+      "text": "VMware ESXi 7.0 Update 1a",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/esxi650-202011002.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.vmware.com/security/advisories/VMSA-2020-0026.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:vmware:esxi:7.0:update_1a:*:*:*:*:*:*"
+  }
+}

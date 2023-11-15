@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:ipmctl:2.00.00.3742::~~~windows~~",
+  "title": [
+    {
+      "text": "Intel IPMCTL 2.00.00.3742 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/intel/ipmctl/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.pmem.io/ipmctl-user-guide/installing-ipmctl"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:ipmctl:2.00.00.3742:*:*:*:*:windows:*:*"
+  }
+}

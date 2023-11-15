@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:silver-peak:nx-8700:-",
+  "deprecated": true,
+  "deprecation_date": "2023-11-07T21:16:03.090Z",
+  "title": [
+    {
+      "text": "Silver Peak NX-8700",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.silver-peak.com/products/wan-optimization/nx-physical-appliances"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:silver-peak:nx-8700:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-07T16:16:03.090-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:arubanetworks:nx-8700:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

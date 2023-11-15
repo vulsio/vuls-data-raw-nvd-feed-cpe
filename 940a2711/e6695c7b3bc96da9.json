@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:freebsd:freebsd:12.1:p4",
+  "title": [
+    {
+      "text": "FreeBSD 12.1 Patch 4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.FreeBSD.org/advisories/FreeBSD-SA-20:12.libalias.asc"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.freebsd.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:freebsd:freebsd:12.1:p4:*:*:*:*:*:*"
+  }
+}

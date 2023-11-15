@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:psigridconnect:telecontrol_gateway_vm:-",
+  "title": [
+    {
+      "text": "PSI GridConnect Telecontrol Gateway VM",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-19-059-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.psigridconnect.com/en/prozessankopplung/telecontrol-gateway/telecontrol-gateway-vm/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.psigridconnect.com/de/home/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:psigridconnect:telecontrol_gateway_vm:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_7:-:-:x86",
+  "deprecated": true,
+  "deprecation_date": "2016-08-04T13:30:32.527Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 7 x86",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_7:-:-:x86:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-08-04T09:30:32.527-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_7:-:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

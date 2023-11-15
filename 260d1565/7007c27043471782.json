@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dsr-250n_firmware:3.17b",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-link DSR-250n Firmware 3.17b",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/159516/D-Link-DSR-250N-Denial-Of-Service.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dsr-250n_firmware:3.17b:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dsr-250n_firmware:3.17b:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:elastic:elastic_cloud_on_kubernetes:1.1.0",
+  "title": [
+    {
+      "text": "Elastic Cloud on Kubernetes (ECK) 1.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.elastic.co/community/security/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.elastic.co/guide/en/cloud-on-k8s/1.1/k8s-upgrading-eck.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elastic:elastic_cloud_on_kubernetes:1.1.0:*:*:*:*:*:*:*"
+  }
+}

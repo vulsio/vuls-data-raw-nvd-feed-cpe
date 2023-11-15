@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:fiberhomegroup:adsl_an1020-25:-",
+  "deprecated": true,
+  "deprecation_date": "2021-07-02T20:20:23.580Z",
+  "title": [
+    {
+      "text": "FiberHome ADSL AN1020",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://hk.fiberhomegroup.com/en/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/42649/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:fiberhomegroup:adsl_an1020-25:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-02T16:20:23.580-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:fiberhome:adsl_an1020-25:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

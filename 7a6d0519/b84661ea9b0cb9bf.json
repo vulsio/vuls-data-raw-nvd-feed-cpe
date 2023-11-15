@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:sophos:firewall:-",
+  "title": [
+    {
+      "text": "Sophos Firewall",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.sophos.com/en-us/security-advisories/sophos-sa-20220505-sfos-19-0-0"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.sophos.com/en-us/products/next-gen-firewall"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:sophos:firewall:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x5650",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T20:29:07.017Z",
+  "title": [
+    {
+      "text": "Intel Xeon X5650",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x5650:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T16:29:07.017-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon:x5650:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:azure_ad:303.va_91ef20ee49f::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Azure Ad 303.va 91ef20ee49f for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/azure-ad/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2980"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:azure_ad:303.va_91ef20ee49f:*:*:*:*:jenkins:*:*"
+  }
+}

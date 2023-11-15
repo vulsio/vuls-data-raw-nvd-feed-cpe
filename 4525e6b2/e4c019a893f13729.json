@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:outlook_2013_rt:-",
+  "deprecated": true,
+  "deprecation_date": "2021-08-30T14:28:26.677Z",
+  "title": [
+    {
+      "text": "Microsoft Outlook 2013 RT",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:outlook_2013_rt:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-30T10:28:26.677-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:outlook:2013:*:*:*:rt:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

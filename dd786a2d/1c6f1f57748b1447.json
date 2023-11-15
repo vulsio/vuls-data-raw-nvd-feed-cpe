@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ivanti:endpoint_manager:2022:su2",
+  "title": [
+    {
+      "text": "Ivanti Endpoint Manager 2022 Service Update 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://forums.ivanti.com/s/article/SA-2023-06-20-CVE-2023-28323?language=en_US"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ivanti.com/products/endpoint-manager"
+    },
+    {
+      "text": "Product",
+      "href": "https://download.ivanti.com/downloads/Readme/Pages/EPM2022-SU2.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ivanti:endpoint_manager:2022:su2:*:*:*:*:*:*"
+  }
+}

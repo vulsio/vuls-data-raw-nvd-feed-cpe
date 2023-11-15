@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:2.6.28",
+  "deprecated": true,
+  "deprecation_date": "2021-06-01T14:21:28.467Z",
+  "title": [
+    {
+      "text": "Linux Kernel 2.6.28",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/torvalds/linux"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:2.6.28:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-01T10:21:28.467-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:2.6.28:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

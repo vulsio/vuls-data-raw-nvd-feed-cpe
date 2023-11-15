@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:crun_project:crun:1.4.4",
+  "title": [
+    {
+      "text": "Crun Project Crun 1.4.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/containers/crun/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/containers/crun/security/advisories/GHSA-wr4f-w546-m398"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2066845"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crun_project:crun:1.4.4:*:*:*:*:*:*:*"
+  }
+}

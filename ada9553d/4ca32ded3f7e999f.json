@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/h:citrix:sd-wan_2100_premium_edition:-",
+  "deprecated": true,
+  "deprecation_date": "2022-04-22T18:05:51.033Z",
+  "title": [
+    {
+      "text": "Citrix SD-WAN 2100 PREMIUM EDITION -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-114127.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/standard-edition.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX370550"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/premium-edition.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:citrix:sd-wan_2100_premium_edition:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-22T14:05:51.033-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:citrix:sd-wan_2100:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

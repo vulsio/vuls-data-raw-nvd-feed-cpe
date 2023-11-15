@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:trustwave:modsecurity:2.6.1",
+  "deprecated": true,
+  "deprecation_date": "2021-02-10T16:27:05.140Z",
+  "title": [
+    {
+      "text": "Trustwave ModSecurity 2.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.trustwave.com/en-us/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/SpiderLabs/ModSecurity/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.modsecurity.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trustwave:modsecurity:2.6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-10T11:27:05.140-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trustwave:modsecurity:2.6.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

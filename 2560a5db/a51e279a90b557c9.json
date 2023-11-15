@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:openstack:keystone:8.0.0",
+  "deprecated": true,
+  "deprecation_date": "2020-06-02T20:21:56.887Z",
+  "title": [
+    {
+      "text": "Openstack Keystone (Liberty) 8.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "http://docs.openstack.org/developer/keystone/"
+    },
+    {
+      "text": "Version",
+      "href": "https://launchpad.net/keystone/liberty"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:keystone:8.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-02T16:21:56.887-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openstack:keystone:8.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

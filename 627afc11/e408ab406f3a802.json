@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vtk:vtk:5.4.0",
+  "title": [
+    {
+      "text": "VTK 5.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://vtk.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.kitware.com/vtk/vtk/-/issues/17818"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.kitware.com/vtk/vtk/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vtk:vtk:5.4.0:*:*:*:*:*:*:*"
+  }
+}

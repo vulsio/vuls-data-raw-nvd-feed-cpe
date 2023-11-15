@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:se:bmx_noe_0110:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:44:14.463Z",
+  "title": [
+    {
+      "text": "Schneider Electric BMX NOE 0110",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2019-316-02-Modicon_Controllers_Security_Notification_V2.0.pdf&p_Doc_Ref=SEVD-2019-316-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:se:bmx_noe_0110:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:44:14.463-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:schneider-electric:bmx_noe_0110:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

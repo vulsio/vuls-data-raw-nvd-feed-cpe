@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:weave.works:gitops:0.5.1:rc0:~~enterprise~~~",
+  "title": [
+    {
+      "text": "Weave.works Gitops 0.5.1 Release Candidate 0 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.gitops.weave.works/security/cve/enterprise/CVE-2022-38790/index.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/weaveworks/weave-gitops/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:weave.works:gitops:0.5.1:rc0:*:*:enterprise:*:*:*"
+  }
+}

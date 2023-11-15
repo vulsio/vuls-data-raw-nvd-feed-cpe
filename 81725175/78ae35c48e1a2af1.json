@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:backupbliss:clone:2.2.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "BackupBliss Clone 2.2.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-clone-by-wp-academy/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/inisev-plugins-various-versions-missing-authorization-on-handle-installation-function"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://backupbliss.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:backupbliss:clone:2.2.1:*:*:*:*:wordpress:*:*"
+  }
+}

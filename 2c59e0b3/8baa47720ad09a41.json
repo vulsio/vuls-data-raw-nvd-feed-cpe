@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:office:2010:sp2:~~~~x86~",
+  "title": [
+    {
+      "text": "Microsoft Office 2010 Service Pack 2 on X86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=39667"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x86:*"
+  }
+}

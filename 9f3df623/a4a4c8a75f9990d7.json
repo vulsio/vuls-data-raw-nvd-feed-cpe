@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ibm:db2:10.5",
+  "deprecated": true,
+  "deprecation_date": "2022-09-13T19:00:50.697Z",
+  "title": [
+    {
+      "text": "IBM DB2 10.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.ibm.com/support/pages/node/6427861"
+    },
+    {
+      "text": "IBM Security Advisory",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21646809"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:db2:10.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-13T15:00:50.697-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:db2:10.5:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

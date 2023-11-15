@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:cisco:integrated_services_router_4221:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-22T17:08:23.710Z",
+  "title": [
+    {
+      "text": "Cisco Integrated Services Router 4221 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/index.html#~products"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-splitdns-SPWqpdGW"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:integrated_services_router_4221:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-22T13:08:23.710-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:cisco:4221_integrated_services_router:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

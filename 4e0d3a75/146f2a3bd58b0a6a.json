@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:storeapps:woocommerce_stock_manager:2.4.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-07-18T12:34:00.537Z",
+  "title": [
+    {
+      "text": "StoreApps Stock Manager for WooCommerce 2.4.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.storeapps.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/blog/2021/06/high-severity-vulnerability-patched-in-woocommerce-stock-manager-plugin/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/woocommerce-stock-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:storeapps:woocommerce_stock_manager:2.4.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-07-18T08:34:00.537-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:storeapps:stock_manager_for_woocommerce:2.4.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

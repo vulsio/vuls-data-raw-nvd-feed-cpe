@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:openbsd:openssh:5.4",
+  "deprecated": true,
+  "deprecation_date": "2020-07-24T16:49:42.843Z",
+  "title": [
+    {
+      "text": "OpenBSD  OpenSSH 5.4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openbsd:openssh:5.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-24T12:49:42.843-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openbsd:openssh:5.4:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

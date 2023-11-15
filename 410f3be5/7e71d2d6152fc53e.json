@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ipack:scada_automation:1.0.0",
+  "title": [
+    {
+      "text": "IPack SCADA Automation 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ipack.com.tr/scadayazilim.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.ipack.com.tr/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/paradessia/cve/blob/main/Ipack-Scada-Automation.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ipack:scada_automation:1.0.0:*:*:*:*:*:*:*"
+  }
+}

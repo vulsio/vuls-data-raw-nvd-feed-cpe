@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:umbraco:umbracoforms:-",
+  "deprecated": true,
+  "deprecation_date": "2023-03-02T15:27:17.483Z",
+  "title": [
+    {
+      "text": "Umbraco UmbracoForms",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-DOTNET-UMBRACOFORMS-595765"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://umbraco.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nuget.org/packages/umbracoforms"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:umbraco:umbracoforms:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-02T10:27:17.483-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:umbraco:umbraco_forms:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

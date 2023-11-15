@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ca:service_desk_manager:17.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:53:53.987Z",
+  "title": [
+    {
+      "text": "CA Service Desk Manager 17.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.ca.com/us/product-content/recommended-reading/security-notices/ca20190117-01-security-notice-for-ca-service-desk-manager.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://communities.ca.com/community/ca-service-management/blog/2017/04/27/ca-service-management-170-is-now-available"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:service_desk_manager:17.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:53:53.987-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:service_desk_manager:17.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

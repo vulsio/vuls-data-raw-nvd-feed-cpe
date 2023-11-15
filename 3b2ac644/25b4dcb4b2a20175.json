@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pivotal_software:rabbitmq:3.6.2",
+  "deprecated": true,
+  "deprecation_date": "2019-12-03T13:22:32.277Z",
+  "title": [
+    {
+      "text": "Pivotal Software RabbitMQ 3.6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.rabbitmq.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.6.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-03T08:22:32.277-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.6.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

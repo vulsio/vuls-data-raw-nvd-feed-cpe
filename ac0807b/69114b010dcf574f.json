@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:luracast:restler:1.0.0::~~~typo3~~",
+  "deprecated": true,
+  "deprecation_date": "2021-04-21T18:16:12.350Z",
+  "title": [
+    {
+      "text": "Luracast Restler 1.0.0 TYPO3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.luracast.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://extensions.typo3.org/extension/restler/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:luracast:restler:1.0.0:*:*:*:*:typo3:*:*",
+    "deprecation": {
+      "date": "2021-04-21T14:16:12.350-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:luracast:restler:1.0.0:beta:*:*:*:typo3:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

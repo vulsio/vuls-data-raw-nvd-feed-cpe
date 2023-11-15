@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:mavlink:micro_air_vehicle_link:-",
+  "deprecated": true,
+  "deprecation_date": "2020-10-21T11:42:06.757Z",
+  "title": [
+    {
+      "text": "MAVLink Micro Air Vehicle Link",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.google.com/document/d/1XtbD0ORNkhZ8eKrsbSIZNLyg9sFRXMXbsR2mp37KbIg/edit"
+    },
+    {
+      "text": "Product",
+      "href": "https://mavlink.io/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mavlink:micro_air_vehicle_link:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-21T07:42:06.757-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dronecode:micro_air_vehicle_link:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

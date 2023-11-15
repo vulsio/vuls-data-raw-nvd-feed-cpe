@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:adobe:acrobat_reader:2017.011.30066",
+  "deprecated": true,
+  "deprecation_date": "2020-02-19T14:26:01.490Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat Reader 2017.011.30066",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/acrobat/apsb17-24.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:acrobat_reader:2017.011.30066:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-19T09:26:01.490-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat_reader:17.011.30066:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

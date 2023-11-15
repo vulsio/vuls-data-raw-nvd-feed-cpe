@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:freebsd:freebsd:11.3:p13",
+  "title": [
+    {
+      "text": "FreeBSD 11.3 Patch 13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.freebsd.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.freebsd.org/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-20:28.bhyve_vmcs.asc"
+    },
+    {
+      "text": "Version",
+      "href": "https://bokut.in/freebsd-patch-level-table/#releng/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:freebsd:freebsd:11.3:p13:*:*:*:*:*:*"
+  }
+}

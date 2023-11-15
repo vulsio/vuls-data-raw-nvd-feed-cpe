@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:ssh_slaves:0.25::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins SSH Slaves 0.25 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/ssh-slaves"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/ssh-slaves-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:ssh_slaves:0.25:*:*:*:*:jenkins:*:*"
+  }
+}

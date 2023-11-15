@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:messaging:1.07.220.15",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:37:38.503Z",
+  "title": [
+    {
+      "text": "Computer Associates CA Messaging 1.07.220.15",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:messaging:1.07.220.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:37:38.503-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:messaging:1.07.220.15:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:mds_9706_firmware:-",
+  "title": [
+    {
+      "text": "Cisco MDS 9706 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/td/docs/switches/datacenter/mds9000/sw/b_MDS_NX-OS_Recommended_Releases.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cdp-dos-ce-wWvPucC9"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:mds_9706_firmware:-:*:*:*:*:*:*:*"
+  }
+}

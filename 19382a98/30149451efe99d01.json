@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:phpgurukul:phpgurukul_job_portal:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-13T14:45:00.160Z",
+  "title": [
+    {
+      "text": "PHPGurukul PHPGurukulJob Portal 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/47881"
+    },
+    {
+      "text": "Product",
+      "href": "https://phpgurukul.com/job-portal-project/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpgurukul:phpgurukul_job_portal:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-13T09:45:00.160-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:job_portal:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:columnar_project:columnar:-::~~~rust~~",
+  "title": [
+    {
+      "text": "columnar Project columnar for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/frankmcsherry/columnar"
+    },
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/columnar/versions"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://rustsec.org/advisories/RUSTSEC-2021-0087.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:columnar_project:columnar:-:*:*:*:*:rust:*:*"
+  }
+}

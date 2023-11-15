@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:cloudflare:golz4:2014-07-11::~~~go~~",
+  "title": [
+    {
+      "text": "Cloudflare Golz4 2014-07-11 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudflare.com/"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/cloudflare/golz4"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudflare/golz4/commit/199f5f7878062ca17a98e079f2dbe1205e2ed898"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0022"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudflare:golz4:2014-07-11:*:*:*:*:go:*:*"
+  }
+}

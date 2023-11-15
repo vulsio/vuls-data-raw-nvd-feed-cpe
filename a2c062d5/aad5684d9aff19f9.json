@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:apache:simple_object_access_protocol:2.2",
+  "deprecated": true,
+  "deprecation_date": "2023-03-07T22:11:07.440Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Simple Object Access Protocol (SOAP) 2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://svn.apache.org/repos/asf/webservices/archive/soap/trunk/java/docs/intro.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread/02yo04w93rdjmllz4454lvodn5xzhwhl"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:simple_object_access_protocol:2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-07T17:11:07.440-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:soap:2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

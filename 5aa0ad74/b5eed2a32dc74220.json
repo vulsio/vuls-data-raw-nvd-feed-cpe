@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:cyberark:privileged_session_manager:10.9.0.15",
+  "title": [
+    {
+      "text": "Cyberark Privileged Session Manager 10.9.0.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/25xxx/CVE-2020-25374.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.cyberark.com/Product-Doc/OnlineHelp/PAS/Latest/en/Content/PAS%20SysReq/System%20Requirements%20-%20PSM.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@virajmota38/full-path-disclosure-8a9358e5a867"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cyberark:privileged_session_manager:10.9.0.15:*:*:*:*:*:*:*"
+  }
+}

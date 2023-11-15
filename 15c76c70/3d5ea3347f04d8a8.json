@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hashicorp:vault:1.7.5::~~-~~~",
+  "title": [
+    {
+      "text": "HashiCorp Vault 1.7.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/hashicorp/vault/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.hashicorp.com/products/vault/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2021-27-vault-merging-multiple-entity-aliases-for-the-same-mount-may-allow-privilege-escalation/30420"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:vault:1.7.5:*:*:*:-:*:*:*"
+  }
+}

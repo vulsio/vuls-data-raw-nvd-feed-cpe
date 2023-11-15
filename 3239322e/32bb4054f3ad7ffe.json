@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:acronis:true_image:2017",
+  "deprecated": true,
+  "deprecation_date": "2021-02-03T16:47:56.423Z",
+  "title": [
+    {
+      "text": "Acronis True Image 2017",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.acronis.com/en-us/personal/versions-comparison/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.acronis.com/en-us/personal/computer-backup/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acronis:true_image:2017:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-03T11:47:56.423-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:acronis:true_image:2017:*:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

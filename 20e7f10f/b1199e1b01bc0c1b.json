@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ovirt:vdsm:4.30.5",
+  "title": [
+    {
+      "text": "oVirt Vdsm 4.30.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-3831"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/oVirt/vdsm"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ovirt.org/develop/developer-guide/vdsm/vdsm.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ovirt:vdsm:4.30.5:*:*:*:*:*:*:*"
+  }
+}

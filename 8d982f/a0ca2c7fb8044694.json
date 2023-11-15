@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:sick:ftmg-esn40sxx_firmware:-",
+  "title": [
+    {
+      "text": "SICK FTMg-ESN40SXX Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sick.com/us/en/fluid-sensors/flow-sensors/ftmg/c/g505155"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sick.com/.well-known/csaf/white/2023/sca-2023-0004.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sick:ftmg-esn40sxx_firmware:-:*:*:*:*:*:*:*"
+  }
+}

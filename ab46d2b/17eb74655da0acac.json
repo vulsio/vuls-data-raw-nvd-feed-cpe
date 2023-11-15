@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:.net_framework:1.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-23T16:58:13.633Z",
+  "title": [
+    {
+      "text": "Microsoft .NET Framework Version 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:.net_framework:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-23T11:58:13.633-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:.net_framework:1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

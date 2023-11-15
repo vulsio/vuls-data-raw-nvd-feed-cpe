@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:prestashop:prestashop:1.7.0.0",
+  "deprecated": true,
+  "deprecation_date": "2020-04-22T16:26:15.573Z",
+  "title": [
+    {
+      "text": "PrestaShop 1.7.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.prestashop.com/en"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/PrestaShop/PrestaShop"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-22T12:26:15.573-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:prestashop:prestashop:1.7.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

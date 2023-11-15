@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:restful_web_services_project:restws:7.x-2.x:dev",
+  "deprecated": true,
+  "deprecation_date": "2020-02-26T17:25:04.497Z",
+  "title": [
+    {
+      "text": "RESTful Web Services project RESTful Web Services (RESTWS) module for Drupal 7.x-2.x-dev",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:restful_web_services_project:restws:7.x-2.x:dev:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-26T12:25:04.497-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:restful_web_services_project:restful_web_services:7.x-2.x:dev:*:*:*:drupal:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

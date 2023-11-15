@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:content-repeater_project:content-repeater:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Content-repeater Project Content-repeater for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/content-repeater/wordpress-content-repeater-plugin-1-1-13-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/content-repeater/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:content-repeater_project:content-repeater:-:*:*:*:*:wordpress:*:*"
+  }
+}

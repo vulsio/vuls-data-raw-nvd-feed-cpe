@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netsarang:xlpd:-",
+  "title": [
+    {
+      "text": "NetSarang Xlpd",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ycdxsb/Vuln/blob/main/Xlpd-Unquoted-Service-Path/XLpd-Unquoted-Service-Path.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.netsarang.com/en/xlpd-update-history/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netsarang:xlpd:-:*:*:*:*:*:*:*"
+  }
+}

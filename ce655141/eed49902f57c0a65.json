@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:themeum:tutor_lms:1.8.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Themeum Tutor LMS 1.8.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.themeum.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/20f3e63a-31d8-49a0-b4ef-209749feff5c"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/tutor/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themeum:tutor_lms:1.8.8:*:*:*:*:wordpress:*:*"
+  }
+}

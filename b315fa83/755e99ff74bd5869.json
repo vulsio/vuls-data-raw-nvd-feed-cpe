@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:d-link:dir-816l:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DIR-816L Wireless Router",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product Information",
+      "href": "http://support.dlink.com/ProductInfo.aspx?m=DIR-816L"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dir-816l:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dir-816l:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

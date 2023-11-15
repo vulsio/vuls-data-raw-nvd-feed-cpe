@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:wpchill:social_media_share_buttons_%7c_mashshare:3.7.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-01-25T16:15:30.063Z",
+  "title": [
+    {
+      "text": "WPChill MashShare 3.7.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://mashshare.net/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wpchill.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mashsharer/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/96e34d3d-627f-42f2-bfdb-c9d47dbf396c"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpchill:social_media_share_buttons_\\|_mashshare:3.7.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-01-25T11:15:30.063-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wpchill:mashshare:3.7.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

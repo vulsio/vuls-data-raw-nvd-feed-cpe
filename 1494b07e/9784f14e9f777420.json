@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:supermicro:x11dpfr-s_firmware:1.71.5",
+  "title": [
+    {
+      "text": "Super Micro X11DPFR-S Firmware 1.71.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.supermicro.com/en/products/system/4U/F629/SYS-F629P3-RTB.cfm"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.supermicro.com/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:supermicro:x11dpfr-s_firmware:1.71.5:*:*:*:*:*:*:*"
+  }
+}

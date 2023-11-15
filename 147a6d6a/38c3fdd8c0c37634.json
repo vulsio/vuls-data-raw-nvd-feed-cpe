@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:luraproject:lura:0.8.0",
+  "title": [
+    {
+      "text": "Luraproject Lura 0.8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/luraproject/lura/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.krakend.io/blog/cve-2022-1561-crafted-backend-urls/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:luraproject:lura:0.8.0:*:*:*:*:*:*:*"
+  }
+}

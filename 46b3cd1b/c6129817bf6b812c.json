@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:bblfshd_project:bblfshd:-",
+  "title": [
+    {
+      "text": "Bblfshd Project Bblfshd -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://securitylab.github.com/advisories/GHSL-2020-258-zipslip-bblfshd/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bblfsh/bblfshd/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bblfsh/bblfshd/commit/4265465b9b6fb5663c30ee43806126012066aad4"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bblfshd_project:bblfshd:-:*:*:*:*:*:*:*"
+  }
+}

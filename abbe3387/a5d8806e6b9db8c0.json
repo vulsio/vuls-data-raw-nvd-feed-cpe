@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:security_device_manager:-",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:36:20.240Z",
+  "title": [
+    {
+      "text": "Cisco Adaptive Security Appliance (ASA) Device Manager",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:security_device_manager:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:36:20.240-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:adaptive_security_appliance_device_manager:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

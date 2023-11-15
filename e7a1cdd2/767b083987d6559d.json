@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:newrelic:dotnet_extension_buildpack:1.1.0::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "Newrelic Dotnet Extension Buildpack 1.1.0 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.pivotal.io/partners/new-relic-dotnet-buildpack/release-notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-3800"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:newrelic:dotnet_extension_buildpack:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

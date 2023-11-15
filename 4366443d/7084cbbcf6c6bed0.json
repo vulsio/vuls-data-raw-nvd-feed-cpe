@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rubyonrails:ruby_on_rails:4.2.1",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T14:57:08.153Z",
+  "title": [
+    {
+      "text": "Ruby on Rails 4.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/rails/rails/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://rubyonrails.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T10:57:08.153-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:4.2.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

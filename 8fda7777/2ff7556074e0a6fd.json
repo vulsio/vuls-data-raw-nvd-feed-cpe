@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:networktocode:nautobot:2.0.2",
+  "title": [
+    {
+      "text": "Networktocode Nautobot 2.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nautobot/nautobot/security/advisories/GHSA-r2hw-74xv-4gqp"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nautobot/nautobot/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:networktocode:nautobot:2.0.2:*:*:*:*:*:*:*"
+  }
+}

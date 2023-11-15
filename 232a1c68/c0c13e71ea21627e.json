@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ubuntu_developers:apt-xapian-index:0.44ubuntu5",
+  "deprecated": true,
+  "deprecation_date": "2019-07-17T13:39:18.973Z",
+  "title": [
+    {
+      "text": "Ubuntu Developers apt-xapian-index 0.44ubuntu5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://launchpad.net/ubuntu/+source/apt-xapian-index/+changelog"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ubuntu_developers:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-17T09:39:18.973-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:canonical:apt-xapian-index:0.44ubuntu5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

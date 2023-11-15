@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:fortify_on_demand:3.0.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Fortify on Demand 3.0.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/fortify-on-demand-uploader"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/fortify-on-demand-uploader-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:fortify_on_demand:3.0.0:*:*:*:*:jenkins:*:*"
+  }
+}

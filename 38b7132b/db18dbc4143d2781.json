@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:talk:6.0.0:-:~~~android~~",
+  "title": [
+    {
+      "text": "Nextcloud Talk 6.0.0 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/talk-android/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-497c-c8hx-6qcf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:talk:6.0.0:-:*:*:*:android:*:*"
+  }
+}

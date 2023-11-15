@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:phpunit_project:phpunit:5.6.8",
+  "deprecated": true,
+  "deprecation_date": "2020-01-08T13:53:25.510Z",
+  "title": [
+    {
+      "text": "PHPUnit Project PHPUnit 5.6.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/sebastianbergmann/phpunit"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpunit_project:phpunit:5.6.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-08T08:53:25.510-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpunit_project:phpunit:5.6.8:*:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

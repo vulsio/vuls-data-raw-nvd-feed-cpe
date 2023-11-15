@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:charm:charm:0.10.1",
+  "title": [
+    {
+      "text": "Charm 0.10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://charm.sh/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/charmbracelet/charm/security/advisories/GHSA-4wpp-w5r4-7v5v"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/charmbracelet/charm/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:charm:charm:0.10.1:*:*:*:*:*:*:*"
+  }
+}

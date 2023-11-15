@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:arm:mbed-os:-",
+  "title": [
+    {
+      "text": "Arm Mbed OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ARMmbed/mbed-os/issues/11802"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ARMmbed/mbed-os/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/eclipse/paho.mqtt.embedded-c"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.mbed.com/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:arm:mbed-os:-:*:*:*:*:*:*:*"
+  }
+}

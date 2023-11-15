@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:node_saml_project:node_saml:4.0.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Node SAML Project Node SAML 4.0.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/node-saml/node-saml/security/advisories/GHSA-vx8m-6fhw-pccw"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/node-saml/node-saml/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:node_saml_project:node_saml:4.0.1:*:*:*:*:node.js:*:*"
+  }
+}

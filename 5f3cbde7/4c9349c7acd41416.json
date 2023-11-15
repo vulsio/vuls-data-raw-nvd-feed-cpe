@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:novell:opensuse:-",
+  "deprecated": true,
+  "deprecation_date": "2018-01-25T17:15:37.213Z",
+  "title": [
+    {
+      "text": "Novell opensuse",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:novell:opensuse:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-25T12:15:37.213-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:opensuse:opensuse:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

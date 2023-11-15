@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:graylog:graylog:2.4.0",
+  "deprecated": true,
+  "deprecation_date": "2020-07-21T15:51:17.723Z",
+  "title": [
+    {
+      "text": "Graylog 2.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.graylog.org/post/announcing-the-release-of-graylog-2-4-6"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/Graylog2/graylog2-server"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:graylog:graylog:2.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-21T11:51:17.723-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:graylog:graylog:2.4.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

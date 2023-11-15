@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:informationbuilders:data_quality_suite:10.6.1",
+  "title": [
+    {
+      "text": "Information Builders Data Quality Suite 10.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ecl.informationbuilders.com/iway70/index.jsp?topic=%2Fshell_70_data%2Fpanels%2Fdata_intro.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/MrR3boot/CVE-Hunting/blob/master/iWay%20DQS%20XXE.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:informationbuilders:data_quality_suite:10.6.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:tokio_project:tokio:0.1.18::~~~rust~~",
+  "deprecated": true,
+  "deprecation_date": "2022-11-01T16:06:39.293Z",
+  "title": [
+    {
+      "text": "Tokio Project Tokio 0.1.18 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/tokio/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tokio_project:tokio:0.1.18:*:*:*:*:rust:*:*",
+    "deprecation": {
+      "date": "2022-11-01T12:06:39.293-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tokio:tokio:0.1.18:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:elastic:elasticsearch:1.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-03-22T20:27:03.797Z",
+  "title": [
+    {
+      "text": "Elastic Elasticsearch 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.elastic.co/elasticsearch/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/elastic/elasticsearch/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elastic:elasticsearch:1.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-03-22T16:27:03.797-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elastic:elasticsearch:1.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

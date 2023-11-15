@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:integrated_threat_management:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:03:25.903Z",
+  "title": [
+    {
+      "text": "Computer Associates Integrated Threat Management",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:integrated_threat_management:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:03:25.903-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:integrated_threat_management:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

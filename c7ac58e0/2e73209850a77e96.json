@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rapid7:metasploit:5.0.90",
+  "title": [
+    {
+      "text": "Rapid7 Metasploit 5.0.90",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rapid7/metasploit-framework/issues/14015"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/7xxx/CVE-2020-7377.json"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rapid7/metasploit-framework/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rapid7:metasploit:5.0.90:*:*:*:*:*:*:*"
+  }
+}

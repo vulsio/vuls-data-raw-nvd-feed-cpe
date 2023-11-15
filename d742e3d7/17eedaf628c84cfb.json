@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:rhnpush-plugin:0.5.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins rhnpush-plugin 0.5.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/rhnpush-plugin/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-2402"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:rhnpush-plugin:0.5.1:*:*:*:*:jenkins:*:*"
+  }
+}

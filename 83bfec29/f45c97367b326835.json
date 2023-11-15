@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:saml_single_sign_on:1.0.14::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Saml Single Sign On (SSO) 1.0.14 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-07-12/#SECURITY-3164"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/miniorange-saml-sp/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:saml_single_sign_on:1.0.14:*:*:*:*:jenkins:*:*"
+  }
+}

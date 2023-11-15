@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:json_web_token_project:json_web_token:1.0.0::~~~go~~",
+  "title": [
+    {
+      "text": "JSON Web Token Project JSON Web Token 1.0.0 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/robbert229/jwt/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0023"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:json_web_token_project:json_web_token:1.0.0:*:*:*:*:go:*:*"
+  }
+}

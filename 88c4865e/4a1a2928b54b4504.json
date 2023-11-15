@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:profilepress:wp-user-avatar:3.1.1::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-08-09T14:38:08.230Z",
+  "title": [
+    {
+      "text": "ProfilePress 3.1.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://profilepress.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:profilepress:wp-user-avatar:3.1.1:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-08-09T10:38:08.230-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:profilepress:profilepress:3.1.1:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

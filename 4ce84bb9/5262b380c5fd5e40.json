@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud_server:15.0.3",
+  "deprecated": true,
+  "deprecation_date": "2020-02-06T20:40:47.967Z",
+  "title": [
+    {
+      "text": "Nextcloud Server 15.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/server/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://nextcloud.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-06T15:40:47.967-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.3:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

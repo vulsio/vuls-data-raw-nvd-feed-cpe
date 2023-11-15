@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:se:easergy_t300:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:44:14.463Z",
+  "title": [
+    {
+      "text": "Schneider Electric Easergy T300",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.se.com/us/en/product-range-presentation/62399-easergy-t300/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:se:easergy_t300:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:44:14.463-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:schneider-electric:easergy_t300:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

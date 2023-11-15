@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:chamberlain:myq:5.222.0.32277::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Chamberlain MyQ 5.222.0.32277 for iPhone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.chamberlain.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/us/app/myq-garage-access-control/id456282559"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://brackish.io/chamberlain-myq-account-takeover/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:chamberlain:myq:5.222.0.32277:*:*:*:*:iphone_os:*:*"
+  }
+}

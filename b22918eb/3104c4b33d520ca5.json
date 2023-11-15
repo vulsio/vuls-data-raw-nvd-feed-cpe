@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openldap:openldap:2.4.53",
+  "title": [
+    {
+      "text": "OpenLDAP 2.4.53",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1894567"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.openldap.org/openldap/openldap/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openldap:openldap:2.4.53:*:*:*:*:*:*:*"
+  }
+}

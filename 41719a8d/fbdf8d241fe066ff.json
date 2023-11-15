@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:poly:studio_x30:-",
+  "title": [
+    {
+      "text": "Poly Studio X30",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.poly.com/us/en/products/video-conferencing/studio"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/vulnerability-lab/advisory/authenticated-command-injection-in-poly-studio/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:poly:studio_x30:-:*:*:*:*:*:*:*"
+  }
+}

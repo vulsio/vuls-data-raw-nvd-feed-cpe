@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ibm:security_appscan:7.9:-:standard",
+  "title": [
+    {
+      "text": "IBM Security AppScan Standard 7.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://www-933.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find"
+    },
+    {
+      "text": "security bulletin for CVE-2014-0904",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21666775"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:security_appscan:7.9:-:standard:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:moxa:nport_ia-5250-t:-",
+  "title": [
+    {
+      "text": "Moxa NPort IA-5250-T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000-series#models"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:moxa:nport_ia-5250-t:-:*:*:*:*:*:*:*"
+  }
+}

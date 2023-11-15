@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:automox:automox:33",
+  "title": [
+    {
+      "text": "Automox 33",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://community.automox.com/product-updates-4/cve-2021-43326-and-cve-2021-43325-local-privilege-escalation-in-automox-agent-windows-only-1636"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.automox.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:automox:automox:33:*:*:*:*:*:*:*"
+  }
+}

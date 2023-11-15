@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oracle:mysql_server:-",
+  "title": [
+    {
+      "text": "Oracle MySQL Server",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/mysql/mysql-server"
+    },
+    {
+      "text": "Version",
+      "href": "https://downloads.mysql.com/archives/community/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2020.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql_server:-:*:*:*:*:*:*:*"
+  }
+}

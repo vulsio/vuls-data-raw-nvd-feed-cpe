@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:tencent:tscancode:2.15.01",
+  "title": [
+    {
+      "text": "Tencent TscanCode 2.15.01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Tencent/TscanCode/issues/65"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/Tencent/TscanCode"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://opensource.tencent.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/35xxx/CVE-2022-35158.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tencent:tscancode:2.15.01:*:*:*:*:*:*:*"
+  }
+}

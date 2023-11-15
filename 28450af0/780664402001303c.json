@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:adobe:acrobat_reader:17.011.30096::~~classic~~~",
+  "deprecated": true,
+  "deprecation_date": "2019-08-21T16:20:09.677Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat Reader 17.011.30096 Classic Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://acrobat.adobe.com/us/en/acrobat.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotes/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:acrobat_reader:17.011.30096:*:*:*:classic:*:*:*",
+    "deprecation": {
+      "date": "2019-08-21T12:20:09.677-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat_reader_dc:17.011.30096:*:*:*:classic:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

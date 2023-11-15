@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:docker:docker:1.11::~~community~~~",
+  "title": [
+    {
+      "text": "Docker 1.11 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.docker.com/ee/engine/release-notes/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.docker.com/release-notes/docker-ce/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker:docker:1.11:*:*:*:community:*:*:*"
+  }
+}

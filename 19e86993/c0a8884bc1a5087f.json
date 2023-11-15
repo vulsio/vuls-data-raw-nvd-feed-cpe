@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:veritas:backup_exec:15.1180",
+  "deprecated": true,
+  "deprecation_date": "2021-08-12T16:21:50.647Z",
+  "title": [
+    {
+      "text": "Veritas Backup Exec 15.1180",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.veritas.com/content/support/en_US.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.veritas.com/support/en_US/article.000126145"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.veritas.com/content/veritas/english/en"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.veritas.com/product/backup-and-recovery/backup-exec"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:veritas:backup_exec:15.1180:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-12T12:21:50.647-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:veritas:backup_exec:14.2.1180.3160:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:abb:rtu500_firmware:12.4",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T21:04:22.770Z",
+  "title": [
+    {
+      "text": "ABB RTU500 Firmware 12.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107046A8537&LanguageCode=en&DocumentPartId=&Action=Launch"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:rtu500_firmware:12.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T17:04:22.770-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hitachienergy:rtu500_firmware:12.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

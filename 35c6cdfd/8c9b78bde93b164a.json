@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pomerium:pomerium:-",
+  "title": [
+    {
+      "text": "Pomerium",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pomerium/pomerium/security/advisories/GHSA-j6wp-3859-vxfg"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/pomerium/pomerium/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.pomerium.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pomerium:pomerium:-:*:*:*:*:*:*:*"
+  }
+}

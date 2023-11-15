@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:solarwinds:server_and_application_monitor:-",
+  "title": [
+    {
+      "text": "Solarwinds Server and Application Monitor (SAM)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor / Product Information",
+      "href": "http://www.solarwinds.com/server-application-monitor.aspx"
+    },
+    {
+      "text": "ZeroDay Advisory",
+      "href": "http://www.zerodayinitiative.com/advisories/ZDI-15-043/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solarwinds:server_and_application_monitor:-:*:*:*:*:*:*:*"
+  }
+}

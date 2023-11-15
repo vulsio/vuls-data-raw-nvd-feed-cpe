@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:google_xml_sitemaps_project:google_xml_sitemaps:2.6",
+  "deprecated": true,
+  "deprecation_date": "2019-09-30T18:13:42.237Z",
+  "title": [
+    {
+      "text": "Google XML Sitemaps Project Google XML Sitemaps 2.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/google-sitemap-generator/#developers"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.arnebrachhold.de/projects/wordpress-plugins/google-xml-sitemaps-generator/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google_xml_sitemaps_project:google_xml_sitemaps:2.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-30T14:13:42.237-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google_xml_sitemaps_project:google_xml_sitemaps:2.6:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

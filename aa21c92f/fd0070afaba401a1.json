@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:metalgenix:genixcms:0.0.4",
+  "deprecated": true,
+  "deprecation_date": "2020-03-17T16:27:50.597Z",
+  "title": [
+    {
+      "text": "MetalGenix GeniXCMS 0.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/semplon/GeniXCMS/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:metalgenix:genixcms:0.0.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-17T12:27:50.597-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:metalgenix:genixcms:0.0.4:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

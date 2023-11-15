@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gsi_project:gsi:-",
+  "title": [
+    {
+      "text": "GSI Project GSI",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xCE3b5fFca16ffF926c890f0885A3e90cEb89db0A#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gsi_project:gsi:-:*:*:*:*:*:*:*"
+  }
+}

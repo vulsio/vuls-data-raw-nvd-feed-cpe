@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:juniper:paragon_active_assurance:-",
+  "title": [
+    {
+      "text": "Juniper Paragon Active Assurance",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://supportportal.juniper.net/s/article/2023-04-Security-Bulletin-Paragon-Active-Assurance-Enabling-the-timescaledb-enables-IP-forwarding-CVE-2023-28971?language=en_US"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.juniper.net/us/en/products/network-automation/paragon-active-assurance.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:juniper:paragon_active_assurance:-:*:*:*:*:*:*:*"
+  }
+}

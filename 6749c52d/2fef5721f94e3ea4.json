@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:redmine:redmine:0.7.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-20T16:02:22.940Z",
+  "title": [
+    {
+      "text": "Redmine 0.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.redmine.org/projects/redmine/wiki/Changelog"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.redmine.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redmine:redmine:0.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-20T12:02:22.940-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redmine:redmine:0.7.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

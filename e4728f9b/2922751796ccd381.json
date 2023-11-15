@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:locutus_project:locutus:-::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2021-06-11T15:09:45.823Z",
+  "title": [
+    {
+      "text": "Locutus Project Locutus for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-LOCUTUS-598675"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/locutus"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:locutus_project:locutus:-:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2021-06-11T11:09:45.823-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:locutus:locutus:-:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

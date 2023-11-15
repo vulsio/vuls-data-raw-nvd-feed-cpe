@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:my2token_project:my2token:-",
+  "title": [
+    {
+      "text": "My2Token project My2Token",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x82c2c4c70649b19c9f4cc5e1e8f20c8233f6cfe1#code"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:my2token_project:my2token:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cpe:/a:hashicorp:consul:1.13.1::~~-~~~",
+  "title": [
+    {
+      "text": "Hashicorp Consul 1.13.1 - Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2022-19-consul-auto-config-jwt-authorization-missing-input-validation/44627"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:1.13.1:*:*:*:-:*:*:*"
+  }
+}

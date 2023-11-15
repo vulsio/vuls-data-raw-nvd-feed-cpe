@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:dameware:remote_support:10.0.0.372",
+  "deprecated": true,
+  "deprecation_date": "2019-10-22T12:45:20.860Z",
+  "title": [
+    {
+      "text": "DameWare Remote Support 10.0.0.372",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product information",
+      "href": "http://www.dameware.com/products/remote-support/product-overview.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dameware:remote_support:10.0.0.372:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-22T08:45:20.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:solarwinds:dameware_remote_support:10.0.0.372:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

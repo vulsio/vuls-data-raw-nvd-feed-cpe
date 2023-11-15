@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:librenms:librenms:22.4.0",
+  "title": [
+    {
+      "text": "LibreNMS 22.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/3xxx/CVE-2022-3231.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/bcb6ee68-1452-4fdb-932a-f1031d10984f/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/librenms/librenms/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:librenms:librenms:22.4.0:*:*:*:*:*:*:*"
+  }
+}

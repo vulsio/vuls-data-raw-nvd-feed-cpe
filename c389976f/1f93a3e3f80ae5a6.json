@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rvm_project:rvm:1.28.0",
+  "title": [
+    {
+      "text": "RVM Project RVM1.28.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://rvm.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/justinsteven/advisories/blob/master/2017_rvm_cd_command_execution.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rvm_project:rvm:1.28.0:*:*:*:*:*:*:*"
+  }
+}

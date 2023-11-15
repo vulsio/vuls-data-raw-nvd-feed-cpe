@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pivotal_software:cloud_foundry_diego:2.1.0",
+  "title": [
+    {
+      "text": "Pivotal Software Cloud Foundry Diego 2.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://pivotal.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/diego-release/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_diego:2.1.0:*:*:*:*:*:*:*"
+  }
+}

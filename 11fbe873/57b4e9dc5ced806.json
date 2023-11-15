@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:ios_xe:3.10e",
+  "title": [
+    {
+      "text": "Cisco IOS XE 3.10E",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sbxss"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvk25852"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios_xe:3.10e:*:*:*:*:*:*:*"
+  }
+}

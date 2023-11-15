@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:nuget:6.0.4",
+  "title": [
+    {
+      "text": "Microsoft NuGet 6.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/NuGet/Home/issues/12653"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29337"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:nuget:6.0.4:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octopus:octopus_deploy:2019.2.0",
+  "deprecated": true,
+  "deprecation_date": "2022-07-27T16:41:59.700Z",
+  "title": [
+    {
+      "text": "Octopus Deploy 2019.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://octopus.com/downloads/previous"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:octopus_deploy:2019.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-27T12:41:59.700-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octopus:octopus_server:2019.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

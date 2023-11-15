@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:tp-link:tl-wvr302_firmware:-",
+  "title": [
+    {
+      "text": "TP-Link TL-WVR302 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tp-link.com.cn/act-wvr?pm="
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/coincoin7/Wireless-Router-Vulnerability/blob/master/TplinkBridgeAuthenticatedRCE.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tp-link:tl-wvr302_firmware:-:*:*:*:*:*:*:*"
+  }
+}

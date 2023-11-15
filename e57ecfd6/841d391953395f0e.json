@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:exchange_server:2016:cumulative_update_5",
+  "title": [
+    {
+      "text": "Microsoft Exchange Server 2016 Cumulative Update 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=49161"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8559"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:exchange_server:2016:cumulative_update_5:*:*:*:*:*:*"
+  }
+}

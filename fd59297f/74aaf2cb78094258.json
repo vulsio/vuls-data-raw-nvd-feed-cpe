@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pymatgen:pymatgen:-",
+  "title": [
+    {
+      "text": "Pymatgen Pymatgen -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://pymatgen.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://research.jfrog.com/vulnerabilities/pymatgen-redos-xray-257184/"
+    },
+    {
+      "text": "Product",
+      "href": "https://pypi.org/project/pymatgen/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pymatgen:pymatgen:-:*:*:*:*:*:*:*"
+  }
+}

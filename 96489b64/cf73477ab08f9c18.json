@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:webtechforce:simple_org_chart:2.3.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WEB TECH FORCE Simple Org Chart 2.3.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://webtechforce.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/simple-org-chart/wordpress-simple-org-chart-plugin-2-3-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:webtechforce:simple_org_chart:2.3.4:*:*:*:*:wordpress:*:*"
+  }
+}

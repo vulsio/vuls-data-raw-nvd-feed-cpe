@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:teachpress_project:teachpress:9.0.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "teachPress Project teachPress 9.0.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-8-1-8-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/teachpress/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:teachpress_project:teachpress:9.0.2:*:*:*:*:wordpress:*:*"
+  }
+}

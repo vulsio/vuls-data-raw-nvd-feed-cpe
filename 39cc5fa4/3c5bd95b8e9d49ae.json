@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:corero:securewatch_managed_services:9.7.2.0020",
+  "title": [
+    {
+      "text": "Corero SecureWatch Managed Services 9.7.2.0020",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.corero.com/products/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.shielder.com/advisories/corero_secure_watch_managed_services-get_snapshot-path-traversal/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.shielder.com/advisories/corero_secure_watch_managed_services-multiple-broken-access-control/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:corero:securewatch_managed_services:9.7.2.0020:*:*:*:*:*:*:*"
+  }
+}

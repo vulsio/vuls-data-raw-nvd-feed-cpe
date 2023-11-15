@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:7-zip:7zip:9.20",
+  "deprecated": true,
+  "deprecation_date": "2018-10-09T12:18:21.193Z",
+  "title": [
+    {
+      "text": "7-Zip 7Zip 9.20",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.7-zip.org/history.txt"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.7-zip.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:7-zip:7zip:9.20:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-09T08:18:21.193-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:7-zip:7-zip:9.20:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:pivotal_software:cloud_foundry_elastic_runtime:1.4.5",
+  "title": [
+    {
+      "text": "Pivotal Software Cloud Foundry Elastic Runtime 1.4.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/cloudfoundry/uaa/blob/master/NOTICE"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.pivotal.io/pivotalcf/1-6/customizing/upgrading-products.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://network.pivotal.io/products/elastic-runtime"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/cf-release"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_elastic_runtime:1.4.5:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ioct_coin_project:ioct_coin:-",
+  "title": [
+    {
+      "text": "IOCT_Coin Project IOCT_Coin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xb0bef286a13457b963c710fa7765961d09a27c63#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ioct_coin_project:ioct_coin:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:purethemes:workscout:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Purethemes WorkScout for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.docs.purethemes.net/workscout/knowledge-base/changelog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/2365a9d0-f6f4-4602-9804-5af23d0cb11d"
+    },
+    {
+      "text": "Product",
+      "href": "https://themeforest.net/item/workscout-job-board-wordpress-theme/13591801"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/24xxx/CVE-2021-24246.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:purethemes:workscout:-:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:appneta:tcpreplay:4.0.0:beta1",
+  "deprecated": true,
+  "deprecation_date": "2022-04-02T03:29:17.303Z",
+  "title": [
+    {
+      "text": "AppNeta Tcpreplay 4.0.0 Beta 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.appneta.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/appneta/tcpreplay"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:appneta:tcpreplay:4.0.0:beta1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-01T23:29:17.303-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:tcpreplay:4.0.0:beta1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

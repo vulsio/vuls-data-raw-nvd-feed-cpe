@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:nexus_9372tx-e_firmware:13.2%283n%29",
+  "title": [
+    {
+      "text": "Cisco Nexus 9372TX-E Firmware 13.2(3n)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n9kaci-queue-wedge-cLDDEfKF"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvx14142"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/switches/nexus-9000-series-switches/series.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:nexus_9372tx-e_firmware:13.2\\(3n\\):*:*:*:*:*:*:*"
+  }
+}

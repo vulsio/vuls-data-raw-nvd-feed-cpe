@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:vanillaforums:vanilla_forums:2.0",
+  "deprecated": true,
+  "deprecation_date": "2020-06-04T12:57:40.597Z",
+  "title": [
+    {
+      "text": "Vanilla Forums 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vanillaforums:vanilla_forums:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-04T08:57:40.597-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vanillaforums:vanilla:2.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

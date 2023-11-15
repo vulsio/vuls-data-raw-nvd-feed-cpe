@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:clmg_project:clmg:2.8.2",
+  "deprecated": true,
+  "deprecation_date": "2020-12-07T19:02:00.370Z",
+  "title": [
+    {
+      "text": "Clmg Project Clmg 2.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dtschump/CImg/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clmg_project:clmg:2.8.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-07T14:02:00.370-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cimg:cimg:2.8.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

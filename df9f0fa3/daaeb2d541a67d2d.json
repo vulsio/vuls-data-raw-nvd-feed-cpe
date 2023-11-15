@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux:8.0::~~advanced_virtualization~~~",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux 8.0 Advanced Virtualization Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_virtualization/virtualization-in-rhel-8-an-overview_configuring-and-managing-virtualization"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.redhat.com/cms/managed-files/rh-enterprise-virtualization-faq-inc0357243mm-201604-en.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2020-12430"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:advanced_virtualization:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jdk:6.0:update_141",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:41:32.140Z",
+  "title": [
+    {
+      "text": "Oracle JDK 6.0 Update 141",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.oracle.com/technetwork/middleware/jrockit/documentation/index.html"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.oracle.com/technetwork/java/javase/overview-156328.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:6.0:update_141:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:41:32.140-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.6.0:update141:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

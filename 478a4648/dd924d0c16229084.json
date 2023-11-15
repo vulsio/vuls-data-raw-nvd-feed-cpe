@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:postgresql:pgadmin_4:6.15",
+  "title": [
+    {
+      "text": "PostgreSQL pgAdmin 4 6.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.pgadmin.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/pgadmin-org/pgadmin4/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/jp/JVN01398015/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:postgresql:pgadmin_4:6.15:*:*:*:*:*:*:*"
+  }
+}

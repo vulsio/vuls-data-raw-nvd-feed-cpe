@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:talk:10.0.0:-",
+  "title": [
+    {
+      "text": "Nextcloud Talk 10.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-p6h7-84v4-827r"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/spreed/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:talk:10.0.0:-:*:*:*:*:*:*"
+  }
+}

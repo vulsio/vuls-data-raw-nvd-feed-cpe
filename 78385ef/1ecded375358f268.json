@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:http%3a%3adaemon_project:http%3a%3adaemon:6.14",
+  "title": [
+    {
+      "text": "HTTP::Daemon Project HTTP::Daemon 6.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/libwww-perl/HTTP-Daemon/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://metacpan.org/dist/HTTP-Daemon"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/libwww-perl/HTTP-Daemon/security/advisories/GHSA-cg8c-pxmv-w7cf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:http\\:\\:daemon_project:http\\:\\:daemon:6.14:*:*:*:*:*:*:*"
+  }
+}

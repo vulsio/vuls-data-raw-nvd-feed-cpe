@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:onenav_project:onenav:0.9.14",
+  "deprecated": true,
+  "deprecation_date": "2022-09-28T17:19:38.363Z",
+  "title": [
+    {
+      "text": "Onenav Project Onenav 0.9.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/helloxz/onenav/issues/44"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/helloxz/onenav/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:onenav_project:onenav:0.9.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-28T13:19:38.363-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:onenav:onenav:0.9.14:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

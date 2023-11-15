@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rocket.chat:rocket.chat:3.8.4",
+  "title": [
+    {
+      "text": "Rocket.chat Rocket.chat 3.8.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://rocket.chat/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1014459"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/RocketChat/Rocket.Chat/tags?after=3.8.5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rocket.chat:rocket.chat:3.8.4:*:*:*:*:*:*:*"
+  }
+}

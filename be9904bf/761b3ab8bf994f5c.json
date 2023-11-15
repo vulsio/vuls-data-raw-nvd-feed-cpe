@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:10web:10webanalytics:1.2.12::~~~wordpress~~",
+  "title": [
+    {
+      "text": "10web 10webanalytics 1.2.12 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wd-google-analytics/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://10web.io/wordpress-plugins/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:10web:10webanalytics:1.2.12:*:*:*:*:wordpress:*:*"
+  }
+}

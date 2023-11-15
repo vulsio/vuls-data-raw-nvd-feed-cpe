@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:enphase:envoy_firmware:d4.0",
+  "title": [
+    {
+      "text": "Enphase Envoy Firmware D4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.acsolarwarehouse.com/wp-content/uploads/2015/09/Envoy_Installation_and_Operation_EN.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/203898"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/stage-2-security/can-solar-controllers-be-used-to-generate-fake-clean-energy-credits-4a7322e7661a"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:enphase:envoy_firmware:d4.0:*:*:*:*:*:*:*"
+  }
+}

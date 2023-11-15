@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:peplink:surf_soho:hw1:-",
+  "title": [
+    {
+      "text": "Peplink Surf Soho HW1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.peplink.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.peplink.com/products/soho-series-surf/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1781"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:peplink:surf_soho:hw1:-:*:*:*:*:*:*"
+  }
+}

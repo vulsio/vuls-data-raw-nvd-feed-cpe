@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:randyhoyt:category_meta:1.2.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Randy Hoyt Category Meta 1.2.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/wp-category-meta/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-category-meta/wordpress-category-meta-plugin-1-2-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:randyhoyt:category_meta:1.2.8:*:*:*:*:wordpress:*:*"
+  }
+}

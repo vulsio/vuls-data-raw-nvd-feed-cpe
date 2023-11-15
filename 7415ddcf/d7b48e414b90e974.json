@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:gerrit_trigger:2.30.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Gerrit Trigger 2.30.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1527"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/gerrit-trigger-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:gerrit_trigger:2.30.0:*:*:*:*:jenkins:*:*"
+  }
+}

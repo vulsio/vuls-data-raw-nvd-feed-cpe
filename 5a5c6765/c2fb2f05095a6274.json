@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:citrix:workspace:2212::~~-~windows~~",
+  "title": [
+    {
+      "text": "Citrix Workspace 2212",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX477617/citrix-workspace-app-for-windows-security-bulletin-for-cve202324484-cve202324485"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.citrix.com/support/product-lifecycle/workspace-app.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:citrix:workspace:2212:*:*:*:-:windows:*:*"
+  }
+}

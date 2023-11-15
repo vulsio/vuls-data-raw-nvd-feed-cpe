@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:ipmctl:3.00.00.0341::~~~windows~~",
+  "title": [
+    {
+      "text": "Intel IPMCTL 3.00.00.0341 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.pmem.io/ipmctl-user-guide/installing-ipmctl"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/intel/ipmctl/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:ipmctl:3.00.00.0341:*:*:*:*:windows:*:*"
+  }
+}

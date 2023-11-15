@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:sphider-plus:sphider_plus:-",
+  "deprecated": true,
+  "deprecation_date": "2021-08-16T15:41:57.467Z",
+  "title": [
+    {
+      "text": "Sphider-plus Sphider Plus",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.sphider-plus.eu/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sphider-plus:sphider_plus:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-16T11:41:57.467-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sphider-plus:sphider-plus:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

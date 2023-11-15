@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:bbraun:spacecom2:-",
+  "deprecated": true,
+  "deprecation_date": "2021-09-01T15:55:02.480Z",
+  "title": [
+    {
+      "text": "B.Braun SpaceCom2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.bbraunusa.com/en/products/b4/spacestation-withspacecom-usversion.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/mcafee-enterprise-atr-uncovers-vulnerabilities-in-globally-used-b-braun-infusion-pump/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bbraun:spacecom2:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-01T11:55:02.480-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:bbraun:spacecom2:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

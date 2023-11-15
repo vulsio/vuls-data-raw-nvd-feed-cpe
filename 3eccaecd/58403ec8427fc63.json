@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud_mail:2.2.4",
+  "title": [
+    {
+      "text": "Nextcloud Mail 2.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/mail/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8gph-9895-w564"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud_mail:2.2.4:*:*:*:*:*:*:*"
+  }
+}

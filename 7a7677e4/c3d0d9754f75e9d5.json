@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:protocol:libp2p:-::~~~go~~",
+  "title": [
+    {
+      "text": "Protocol Libp2p - for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://protocol.ai/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/libp2p/go-libp2p/security/advisories/GHSA-gcq9-qqwx-rgj3"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libp2p/go-libp2p/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:protocol:libp2p:-:*:*:*:*:go:*:*"
+  }
+}

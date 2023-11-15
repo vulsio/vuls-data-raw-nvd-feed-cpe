@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:nx-os:13.2%283.170%29",
+  "title": [
+    {
+      "text": "Cisco NX-OS 13.2(3.170)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-aci-shell-escape"
+    },
+    {
+      "text": "Version",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvm52063"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:nx-os:13.2\\(3.170\\):*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:canonical:microk8s:1.15.3",
+  "title": [
+    {
+      "text": "Canonical MicroK8s 1.15.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://canonical.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/ubuntu/microk8s"
+    },
+    {
+      "text": "Product",
+      "href": "https://microk8s.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://snapcraft.io/microk8s"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:canonical:microk8s:1.15.3:*:*:*:*:*:*:*"
+  }
+}

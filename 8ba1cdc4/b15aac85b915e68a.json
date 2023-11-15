@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:bea:weblogic_portal:8.1:sp2",
+  "deprecated": true,
+  "deprecation_date": "2011-01-18T19:38:15.033Z",
+  "title": [
+    {
+      "text": "Oracle WebLogic Portal 8.1 Service Pack 2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bea:weblogic_portal:8.1:sp2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-01-18T14:38:15.033-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:weblogic_portal:8.1:sp2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

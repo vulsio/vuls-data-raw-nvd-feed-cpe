@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:gnu:libidn2:0.10",
+  "deprecated": true,
+  "deprecation_date": "2019-10-21T18:23:01.640Z",
+  "title": [
+    {
+      "text": "GNU libidn 0.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://ftp.gnu.org/gnu/libidn/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnu:libidn2:0.10:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-21T14:23:01.640-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnu:libidn:0.10:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

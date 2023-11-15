@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:craig_knudsen:webcalendar:1.2:b1",
+  "deprecated": true,
+  "deprecation_date": "2020-01-29T19:18:32.427Z",
+  "title": [
+    {
+      "text": "Craig Knudsen WebCalendar 1.2-b1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:craig_knudsen:webcalendar:1.2:b1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-29T14:18:32.427-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:webcalendar_project:webcalendar:1.2:b1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

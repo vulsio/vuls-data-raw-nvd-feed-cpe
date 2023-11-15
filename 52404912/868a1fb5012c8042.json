@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:octeth:oempro:4.8",
+  "title": [
+    {
+      "text": "Octeth Oempro 4.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/47967"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www2.octeth.com/blog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/156113/Octeth-Oempro-4.8-SQL-Injection.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BrunoBulle/Oempro_4.7/blob/master/README.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octeth:oempro:4.8:*:*:*:*:*:*:*"
+  }
+}

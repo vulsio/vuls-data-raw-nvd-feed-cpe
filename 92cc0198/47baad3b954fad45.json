@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:circontrol:circarlife_firmware:4.3",
+  "title": [
+    {
+      "text": "Circontrol CirCarLife Firmware 4.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://circontrol.com/intelligent-charging-solutions/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://circontrol.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/SadFud/Exploits/tree/master/Real%20World/Suites/cir-pwn-life"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:circontrol:circarlife_firmware:4.3:*:*:*:*:*:*:*"
+  }
+}

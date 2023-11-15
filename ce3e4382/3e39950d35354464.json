@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:powershell_core:7.1",
+  "title": [
+    {
+      "text": "Microsoft Powershell Core 7.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tenforums.com/tutorials/126551-install-powershell-core-windows.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1721"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:powershell_core:7.1:*:*:*:*:*:*:*"
+  }
+}

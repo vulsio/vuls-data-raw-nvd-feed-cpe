@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gofiber:fiber:2.50.0::~~~go~~",
+  "title": [
+    {
+      "text": "Gofiber Fiber 2.50.0 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/gofiber/fiber/security/advisories/GHSA-mv73-f69x-444p"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/gofiber/fiber"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gofiber:fiber:2.50.0:*:*:*:*:go:*:*"
+  }
+}

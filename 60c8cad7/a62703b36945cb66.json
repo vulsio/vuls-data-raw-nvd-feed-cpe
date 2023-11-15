@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tuleap:tuleap:7.6",
+  "deprecated": true,
+  "deprecation_date": "2014-12-16T19:22:49.153Z",
+  "title": [
+    {
+      "text": "Tuleap 7.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product changelog",
+      "href": "https://www.tuleap.org/about-tuleap/release-notes"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.tuleap.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tuleap:tuleap:7.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-12-16T14:22:49.153-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:enalean:tuleap:7.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

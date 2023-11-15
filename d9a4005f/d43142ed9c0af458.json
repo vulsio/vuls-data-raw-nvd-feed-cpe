@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:chameleon_project:chameleon:1.3.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Chameleon Project Chameleon 1.3.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/chameleon/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/chameleon/wordpress-chameleon-plugin-1-4-3-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:chameleon_project:chameleon:1.3.8:*:*:*:*:wordpress:*:*"
+  }
+}

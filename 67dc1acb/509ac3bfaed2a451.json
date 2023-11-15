@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hp:hp_smart:-::~~~windows~~",
+  "title": [
+    {
+      "text": "HP Smart for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.hp.com/us-en/document/ish_4120228-4120263-16/hpsbpi03727"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/p/hp-smart/9wzdncrfhwlh?activetab=pivot:overviewtab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hp:hp_smart:-:*:*:*:*:windows:*:*"
+  }
+}

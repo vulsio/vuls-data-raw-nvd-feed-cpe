@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:yaml:pyyaml:5.3.1",
+  "deprecated": true,
+  "deprecation_date": "2020-05-28T13:21:25.417Z",
+  "title": [
+    {
+      "text": "Yaml Pyyaml 5.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/yaml/pyyaml/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:yaml:pyyaml:5.3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-28T09:21:25.417-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pyyaml:pyyaml:5.3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

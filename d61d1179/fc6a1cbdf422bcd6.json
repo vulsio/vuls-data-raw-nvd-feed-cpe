@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:accunetix:web_vulnerability_scanner:10",
+  "deprecated": true,
+  "deprecation_date": "2020-08-03T12:46:35.280Z",
+  "title": [
+    {
+      "text": "Accunetix Web Vulnerability Scanner 10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.acunetix.com/blog/category/releases/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.acunetix.com/vulnerability-scanner/download/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:accunetix:web_vulnerability_scanner:10:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-03T08:46:35.280-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:acunetix:web_vulnerability_scanner:10:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

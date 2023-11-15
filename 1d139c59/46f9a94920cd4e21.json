@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:job_and_node_ownership:0.13.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Job and Node Ownership 0.13.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-03-29/#SECURITY-2285"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/ownership/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:job_and_node_ownership:0.13.0:*:*:*:*:jenkins:*:*"
+  }
+}

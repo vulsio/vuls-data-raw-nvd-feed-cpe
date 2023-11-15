@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:booster:booster_for_woocommerce:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Booster for WooCommerce for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://booster.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/blog/2021/08/critical-authentication-bypass-vulnerability-patched-in-booster-for-woocommerce/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/woocommerce-jetpack/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:booster:booster_for_woocommerce:-:*:*:*:*:wordpress:*:*"
+  }
+}

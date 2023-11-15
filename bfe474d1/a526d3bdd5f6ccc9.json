@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nicdark:cost_calculator:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Nicdark Cost Calculator for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/f0915b66-0b99-4aeb-9fba-759cafaeb0cb"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.nicdark.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/nd-projects/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nicdark:cost_calculator:-:*:*:*:*:wordpress:*:*"
+  }
+}

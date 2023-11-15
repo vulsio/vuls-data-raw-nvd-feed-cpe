@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:liferay:liferay_portal:7.3.7::~~community~~~",
+  "title": [
+    {
+      "text": "Liferay Portal 7.3.7 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.liferay.dev/learn/security/known-vulnerabilities/-/asset_publisher/HbL5mxmVrnXW/content/cve-2021-38268-site-member-can-add-new-forms-by-default"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38268.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:liferay:liferay_portal:7.3.7:*:*:*:community:*:*:*"
+  }
+}

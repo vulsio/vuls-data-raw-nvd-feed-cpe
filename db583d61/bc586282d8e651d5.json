@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:rsa:authentication_manager:8.0",
+  "deprecated": true,
+  "deprecation_date": "2020-01-08T17:06:10.863Z",
+  "title": [
+    {
+      "text": "RSA RSA Authentication Manager 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsa:authentication_manager:8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-08T12:06:10.863-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rsa:authentication_manager:8.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

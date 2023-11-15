@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:iis:7.5",
+  "deprecated": true,
+  "deprecation_date": "2019-07-03T17:25:52.297Z",
+  "title": [
+    {
+      "text": "Microsoft Internet Information Services (IIS) 7.5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:iis:7.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-03T13:25:52.297-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:internet_information_server:7.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

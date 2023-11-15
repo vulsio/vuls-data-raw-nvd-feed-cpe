@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:lfprojects:apptainer:1.2.0:rc1:~~~go~~",
+  "title": [
+    {
+      "text": "LF Projects Apptainer 1.2.0 Release Candidate 1 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/apptainer/apptainer/tags"
+    },
+    {
+      "text": "Product",
+      "href": "http://apptainer.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://pkg.go.dev/github.com/apptainer/apptainer"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://lfprojects.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lfprojects:apptainer:1.2.0:rc1:*:*:*:go:*:*"
+  }
+}

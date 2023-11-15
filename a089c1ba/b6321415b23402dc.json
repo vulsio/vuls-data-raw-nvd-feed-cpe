@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:coreftp:core_ftp:2.0",
+  "title": [
+    {
+      "text": "Core FTP Core FTP 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/19xxx/CVE-2020-19595.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.0x90.zone/binary/reverse/exploitation/2020/08/16/CoreFTPServerRCE.html"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.coreftp.com/news.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:coreftp:core_ftp:2.0:*:*:*:*:*:*:*"
+  }
+}

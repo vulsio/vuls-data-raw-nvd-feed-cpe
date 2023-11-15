@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:d-link:dsr-250n:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DSR 250N",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "D-Link DSR 250/250N model and firmware release notes",
+      "href": "http://tsd.dlink.com.tw/temp/PMD/13039/DSR-250_250N_A1_A2_Release_Notes_FW_v1.08B44_WW_RU.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dsr-250n:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dsr-250n:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

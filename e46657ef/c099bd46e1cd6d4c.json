@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:opcfoundation:ua_java_legacy:2023-04-28",
+  "title": [
+    {
+      "text": "OPC UA Java Legacy 2023-04-28",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OPCFoundation/UA-Java-Legacy/commit/6f176f2b445a27c157f1a32f225accc9ce8873c0"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-32787.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opcfoundation:ua_java_legacy:2023-04-28:*:*:*:*:*:*:*"
+  }
+}

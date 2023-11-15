@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:google:cloud_messaging_notification:-::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Google Cloud Messaging Notification for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wiki.jenkins.io/display/JENKINS/GCM+Notification+Plugin"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/gcm-notification-plugin/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.airship.com/whats-new/2018-04-26-gcm-deprecation/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:cloud_messaging_notification:-:*:*:*:*:jenkins:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.6.0:update_91",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:35:08.573Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.6.0 Update 91",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Java 6 release notes",
+      "href": "http://www.oracle.com/technetwork/java/javase/releasenotes-136954.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.6.0:update_91:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:35:08.573-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.6.0:update91:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

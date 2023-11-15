@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:dataiku:data_science_studio:2.0.3",
+  "title": [
+    {
+      "text": "Dataiku Data Science Studio (DSS) 2.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://doc.dataiku.com/dss/latest/security/advisories/cve-2020-8817.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://doc.dataiku.com/dss/latest/other.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dataiku:data_science_studio:2.0.3:*:*:*:*:*:*:*"
+  }
+}

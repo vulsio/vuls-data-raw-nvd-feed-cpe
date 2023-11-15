@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:tenable:nessus_network_monitor:5.12.0::~~~windows~~",
+  "deprecated": true,
+  "deprecation_date": "2021-08-19T12:07:49.627Z",
+  "title": [
+    {
+      "text": "Tenable Nessus Network Monitor 5.12.0 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/security/tns-2020-09"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tenable:nessus_network_monitor:5.12.0:*:*:*:*:windows:*:*",
+    "deprecation": {
+      "date": "2021-08-19T08:07:49.627-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tenable:nessus_network_monitor:5.12.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:finn:podium_layout:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "FINN Podium Layout for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://podium-lib.io/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.finn.no/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/podium-lib/proxy/security/advisories/GHSA-3hjg-vc7r-rcrw"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:finn:podium_layout:-:*:*:*:*:node.js:*:*"
+  }
+}

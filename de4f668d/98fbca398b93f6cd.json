@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:concrete5:concrete5:5.6.2.1",
+  "deprecated": true,
+  "deprecation_date": "2021-07-15T20:42:14.807Z",
+  "title": [
+    {
+      "text": "concrete5 5.6.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.concrete5.org/documentation/background/version_history"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:concrete5:concrete5:5.6.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-15T16:42:14.807-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:concretecms:concrete_cms:5.6.2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

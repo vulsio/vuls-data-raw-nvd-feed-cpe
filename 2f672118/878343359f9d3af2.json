@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e3:1225_v6",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T12:01:19.207Z",
+  "title": [
+    {
+      "text": "Intel Xeon E3 1225 V6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e3:1225_v6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T08:01:19.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e3_1225_v6:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

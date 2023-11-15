@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:advancedcustomfields:advanced_custom_fields:6.1.5::~~-~wordpress~~",
+  "title": [
+    {
+      "text": "Advanced Custom Fields 6.1.5 Edition for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/advanced-custom-fields/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/advanced-custom-fields/wordpress-advanced-custom-fields-plugin-6-1-5-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/articles/reflected-xss-in-advanced-custom-fields-plugins-affecting-2-million-sites?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:advancedcustomfields:advanced_custom_fields:6.1.5:*:*:*:-:wordpress:*:*"
+  }
+}

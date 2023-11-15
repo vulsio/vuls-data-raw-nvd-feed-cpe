@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:2428l",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T11:27:24.997Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 2428L",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:2428l:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-05T07:27:24.997-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5_2428l:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

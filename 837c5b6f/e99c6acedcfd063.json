@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:allendisk_project:allendisk:1.5",
+  "deprecated": true,
+  "deprecation_date": "2020-03-02T18:58:23.257Z",
+  "title": [
+    {
+      "text": "Allen Disk Project Allen Disk 1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/s3131212/allendisk"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:allendisk_project:allendisk:1.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-02T13:58:23.257-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:allen_disk_project:allen_disk:1.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

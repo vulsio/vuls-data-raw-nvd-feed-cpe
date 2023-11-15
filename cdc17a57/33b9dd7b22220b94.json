@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:miraheze:channelmgnt:1.0.3::~~~sopel~~",
+  "deprecated": true,
+  "deprecation_date": "2021-05-04T09:36:31.707Z",
+  "title": [
+    {
+      "text": "Miraheze Channelmgnt 1.0.3 for Sopel",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://pypi.org/project/sopel-plugins.channelmgnt/1.0.3/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:miraheze:channelmgnt:1.0.3:*:*:*:*:sopel:*:*",
+    "deprecation": {
+      "date": "2021-05-04T05:36:31.707-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mirahezebots:channelmgnt:1.0.3:*:*:*:*:sopel:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

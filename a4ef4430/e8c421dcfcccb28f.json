@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_openstack_platform:7",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Openstack Platform 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/7/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2015-5695"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_openstack_platform:7:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rabbitmq:jms_client:1.11.0:-:~~~rabbitmq~~",
+  "title": [
+    {
+      "text": "RabbitMQ JMS Client 1.11.0 for RabbitMQ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://rabbitmq.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rabbitmq/rabbitmq-jms-client/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rabbitmq:jms_client:1.11.0:-:*:*:*:rabbitmq:*:*"
+  }
+}

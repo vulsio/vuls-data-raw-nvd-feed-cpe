@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:2.6.16",
+  "deprecated": true,
+  "deprecation_date": "2020-08-11T18:57:48.807Z",
+  "title": [
+    {
+      "text": "Linux Kernel 2.6.16",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:2.6.16:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-11T14:57:48.807-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:2.6.16:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

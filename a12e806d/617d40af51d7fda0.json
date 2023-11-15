@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:evms:redcap:10.2.0",
+  "deprecated": true,
+  "deprecation_date": "2021-07-01T16:55:07.010Z",
+  "title": [
+    {
+      "text": "EVMS Redcap 10.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.evms.edu/research/resources_services/redcap/redcap_change_log/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:evms:redcap:10.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-01T12:55:07.010-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vanderbilt:redcap:10.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

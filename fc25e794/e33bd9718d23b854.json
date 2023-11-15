@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:manager_for_storage_management:13.4.0.0",
+  "deprecated": true,
+  "deprecation_date": "2022-09-12T13:54:57.073Z",
+  "title": [
+    {
+      "text": "Oracle Manager for Storage Management 13.4.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-12T09:54:57.073-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:enterprise_manager_for_storage_management:13.4.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

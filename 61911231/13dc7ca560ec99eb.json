@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sensiolabs:symfony:5.3.2",
+  "title": [
+    {
+      "text": "SensioLabs Symfony 5.3.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://sensiolabs.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/symfony/symfony/security/advisories/GHSA-rfcf-m67m-jcrq"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/symfony/security-http/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sensiolabs:symfony:5.3.2:*:*:*:*:*:*:*"
+  }
+}

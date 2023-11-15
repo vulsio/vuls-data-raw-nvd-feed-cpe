@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:deno:deno:1.31.2",
+  "title": [
+    {
+      "text": "Deno 1.31.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/denoland/deno/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://deno.land/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/denoland/deno/blob/7d13d65468c37022f003bb680dfbddd07ea72173/runtime/js/40_process.js#L175"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:deno:deno:1.31.2:*:*:*:*:*:*:*"
+  }
+}

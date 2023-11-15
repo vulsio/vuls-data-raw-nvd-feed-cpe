@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:uap-core_project:uap-core:0.2.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-17T13:32:45.077Z",
+  "title": [
+    {
+      "text": "uap-core Project uap-core 0.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ua-parser/uap-core/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:uap-core_project:uap-core:0.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-17T08:32:45.077-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:uap-core_project:uap-core:0.2.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

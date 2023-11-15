@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:inspireui:mstore_api:1.4.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "InspireUI MStore API 1.4.0 WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/bf5ddc43-974d-41fa-8276-c1a27d3cc882"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mstore-api/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:inspireui:mstore_api:1.4.0:*:*:*:*:wordpress:*:*"
+  }
+}

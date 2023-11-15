@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:cisco:isr_1100-6g:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-22T18:57:24.033Z",
+  "title": [
+    {
+      "text": "Cisco ISR 1100-6G",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy16608"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-yuXQ6hFj"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:isr_1100-6g:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-22T14:57:24.033-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:cisco:1100-6g_integrated_services_router:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

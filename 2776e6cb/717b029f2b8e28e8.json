@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sap:sap_kernel:7.40::~~~~x64~",
+  "title": [
+    {
+      "text": "SAP SAP Kernel for x64 7.40",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.sap.com/index.html"
+    },
+    {
+      "text": "Advisory with Version Information",
+      "href": "http://erpscan.com/advisories/erpscan-14-025-sap-kernel-rce-dos/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:sap_kernel:7.40:*:*:*:*:*:x64:*"
+  }
+}

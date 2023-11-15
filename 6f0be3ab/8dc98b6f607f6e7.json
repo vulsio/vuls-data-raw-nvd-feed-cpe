@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift:4.11",
+  "title": [
+    {
+      "text": "Red Hat Openshift 4.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://access.redhat.com/security/cve/CVE-2023-0296"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://docs.openshift.com/container-platform/4.11/welcome/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift:4.11:*:*:*:*:*:*:*"
+  }
+}

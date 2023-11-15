@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:download_manager_project:download_manager:2.9.97::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T12:24:56.187Z",
+  "title": [
+    {
+      "text": "Download Manager Project Download Manager 2.9.97 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wordpress.org/plugins/download-manager/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/download-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:download_manager_project:download_manager:2.9.97:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2020-05-05T08:24:56.187-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.9.97:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

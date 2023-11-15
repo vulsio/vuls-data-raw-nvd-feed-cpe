@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jupyterhub:kubespawner:0.10.1",
+  "title": [
+    {
+      "text": "Jupyterhub Kubespawner 0.10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/jupyterhub/kubespawner/security/advisories/GHSA-v7m9-9497-p9gr"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jupyterhub/kubespawner/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jupyterhub:kubespawner:0.10.1:*:*:*:*:*:*:*"
+  }
+}

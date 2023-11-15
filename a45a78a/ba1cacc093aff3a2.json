@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:helpsystems:cobalt_strike:3.5:hf2",
+  "title": [
+    {
+      "text": "HelpSystems Cobalt Strike 3.5 Hotfix 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://thesecmaster.com/how-to-fix-cve-2022-42948-a-critical-rce-vulnerability-in-cobalt-strike/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.helpsystems.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cobaltstrike.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.cobaltstrike.com/releasenotes.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:helpsystems:cobalt_strike:3.5:hf2:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:vscode-kubernetes-tools:0.1.7",
+  "title": [
+    {
+      "text": "Microsoft Vscode-kubernetes-tools 0.1.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-28448"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Azure/vscode-kubernetes-tools/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:vscode-kubernetes-tools:0.1.7:*:*:*:*:*:*:*"
+  }
+}

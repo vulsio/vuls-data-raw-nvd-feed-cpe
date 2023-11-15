@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:ixgben:-",
+  "title": [
+    {
+      "text": "VMware ixgben",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/support/articles/000005693/ethernet-products/700-series-network-adapters-up-to-40gbe.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00650.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:ixgben:-:*:*:*:*:*:*:*"
+  }
+}

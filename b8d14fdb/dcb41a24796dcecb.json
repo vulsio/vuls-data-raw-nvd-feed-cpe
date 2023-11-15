@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:icinga:icinga:2.11.0",
+  "deprecated": true,
+  "deprecation_date": "2020-12-16T20:55:32.260Z",
+  "title": [
+    {
+      "text": "Icinga 2.11.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Icinga/icinga2/tags?after=v2.10.5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:icinga:icinga:2.11.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-16T15:55:32.260-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:icinga:icinga:2.11.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

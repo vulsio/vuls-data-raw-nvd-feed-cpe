@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:gehealthcare:brivo_5000:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-30T13:48:17.930Z",
+  "title": [
+    {
+      "text": "GE Healthcare Brivo 5000 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:gehealthcare:brivo_5000:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-30T09:48:17.930-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:gehealthcare:definium_5000:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

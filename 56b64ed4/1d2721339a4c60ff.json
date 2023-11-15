@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:gnu:zlib:-",
+  "deprecated": true,
+  "deprecation_date": "2022-06-22T16:40:44.440Z",
+  "title": [
+    {
+      "text": "GNU zlib",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnu:zlib:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-22T12:40:44.440-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zlib:zlib:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

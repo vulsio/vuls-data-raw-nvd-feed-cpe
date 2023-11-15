@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:iframe_project:iframe:4.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "iframe Project iframe 4.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/iframe/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/iframe/iframe-46-authenticated-contributor-stored-cross-site-scripting-via-iframe-shortcode"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:iframe_project:iframe:4.6:*:*:*:*:wordpress:*:*"
+  }
+}

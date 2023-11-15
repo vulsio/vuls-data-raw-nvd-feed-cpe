@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:lannerinc:iac-ast2500a_firmware:1.10.0",
+  "title": [
+    {
+      "text": "Lannerinc IAC-AST2500A FIRMWARE 1.10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.lannerinc.com/products/network-appliances/modules-and-acceleration-cards/iac-ast2500"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/26xxx/CVE-2021-26727.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:lannerinc:iac-ast2500a_firmware:1.10.0:*:*:*:*:*:*:*"
+  }
+}

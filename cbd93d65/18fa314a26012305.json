@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:userlike:userlike:2.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Userlike 2.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.userlike.com/en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/userlike/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/userlike/wordpress-userlike-wordpress-live-chat-plugin-plugin-2-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:userlike:userlike:2.1:*:*:*:*:wordpress:*:*"
+  }
+}

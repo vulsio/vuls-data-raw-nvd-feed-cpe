@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:pivotal_software:rabbitmq:3.7.25:rc1",
+  "deprecated": true,
+  "deprecation_date": "2022-03-17T14:05:30.170Z",
+  "title": [
+    {
+      "text": "Pivotal Software RabbitMQ 3.7.25 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.rabbitmq.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rabbitmq/rabbitmq-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.7.25:rc1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-17T10:05:30.170-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:rabbitmq:3.7.25:rc1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

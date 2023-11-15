@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:kubernetes_tools:1.3.1::~~~visual_studio_code~~",
+  "title": [
+    {
+      "text": "Microsoft Kubernetes Tools 1.3.1 for Visual Studio Code",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/Azure/vscode-kubernetes-tools"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:kubernetes_tools:1.3.1:*:*:*:*:visual_studio_code:*:*"
+  }
+}

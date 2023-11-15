@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:oracle:jre:1.7.0",
+  "deprecated": true,
+  "deprecation_date": "2022-05-17T16:41:53.233Z",
+  "title": [
+    {
+      "text": "Oracle JRE 1.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jre:1.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-17T12:41:53.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jre:1.7.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

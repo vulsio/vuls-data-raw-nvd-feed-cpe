@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:lantech:ids_2102_firmware:-",
+  "title": [
+    {
+      "text": "Lantech IDS 2102 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.lantechcom.tw/global/eng/news-events/PR_2016_10_EOLnotice-IDS-2102.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-18-123-01"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.lantechcom.tw/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:lantech:ids_2102_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:devowl:wordpress_real_media_library:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Devowl Wordpress Real Media Library for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34668"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://devowl.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/real-media-library-lite/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:devowl:wordpress_real_media_library:-:*:*:*:*:wordpress:*:*"
+  }
+}

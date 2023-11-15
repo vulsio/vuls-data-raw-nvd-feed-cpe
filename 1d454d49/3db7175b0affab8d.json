@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vim:vim:8.0",
+  "title": [
+    {
+      "text": "Vim 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://people.canonical.com/~ubuntu-security/cve/2017/CVE-2017-11109.html"
+    },
+    {
+      "text": "Project",
+      "href": "http://www.vim.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/vim/vim"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vim:vim:8.0:*:*:*:*:*:*:*"
+  }
+}

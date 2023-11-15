@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:atlassian:jira_service_management:4.0.0::~~data_center~~~",
+  "deprecated": true,
+  "deprecation_date": "2022-08-04T15:31:33.347Z",
+  "title": [
+    {
+      "text": "Atlassian Jira Service Management 4.0.0 Data Center Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jira.atlassian.com/browse/JSDSERVER-11840"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jira.atlassian.com/browse/JRASERVER-73863"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/26xxx/CVE-2022-26135.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://confluence.atlassian.com/jira/jira-server-security-advisory-29nd-june-2022-1142430667.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:jira_service_management:4.0.0:*:*:*:data_center:*:*:*",
+    "deprecation": {
+      "date": "2022-08-04T11:31:33.347-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:jira_service_desk:4.0.0:*:*:*:data_center:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

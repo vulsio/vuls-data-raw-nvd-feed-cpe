@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:openswan:openswan:2.5.02",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T13:24:38.630Z",
+  "title": [
+    {
+      "text": "Openswan 2.5.02",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openswan:openswan:2.5.02:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T09:24:38.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:xelerance:openswan:2.5.02:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

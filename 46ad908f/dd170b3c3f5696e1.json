@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:facebook:proxygen:2021.03.15.00",
+  "title": [
+    {
+      "text": "Facebook Proxygen 2021.03.15.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://opensource.facebook.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/facebook/proxygen/releases"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/facebook/proxygen"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/24xxx/CVE-2021-24029.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:facebook:proxygen:2021.03.15.00:*:*:*:*:*:*:*"
+  }
+}

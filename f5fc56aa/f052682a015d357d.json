@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:swhouse:c-cure_9000:2.70",
+  "deprecated": true,
+  "deprecation_date": "2021-07-06T18:09:10.910Z",
+  "title": [
+    {
+      "text": "Swhouse C-Cure 9000 2.70",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.swhouse.com/products/CCURE_9000.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-142-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:swhouse:c-cure_9000:2.70:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-06T14:09:10.910-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:johnsoncontrols:c-cure_9000_firmware:2.70:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

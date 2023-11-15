@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:microsoft:ms-rest-nodeauth:0.8.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Microsoft ms-rest-nodeauth 0.8.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Azure/ms-rest-nodeauth/blob/master/Changelog.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-28458"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Azure/ms-rest-nodeauth/pull/117"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/@azure/ms-rest-nodeauth/v/3.0.8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:ms-rest-nodeauth:0.8.1:*:*:*:*:node.js:*:*"
+  }
+}

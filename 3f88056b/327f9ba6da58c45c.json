@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:orderbookpresaletoken_project:orderbookpresaletoken:-",
+  "title": [
+    {
+      "text": "OrderbookPresaleToken Project OrderbookPresaleToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xb048bad454a993537caed5a7917e7c944a720848#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/PresaleToken"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:orderbookpresaletoken_project:orderbookpresaletoken:-:*:*:*:*:*:*:*"
+  }
+}

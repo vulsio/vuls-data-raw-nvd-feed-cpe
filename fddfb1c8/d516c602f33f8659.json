@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:miniorange:wordpress_social_login_and_register_%28discord%2c_google%2c_twitter%2c_linkedin%29:6.2.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "miniOrange WordPress Social Login And Register (Discord, Google, Twitter, LinkedIn) 6.2.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.miniorange.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/miniorange-login-openid/wordpress-wordpress-social-login-and-register-discord-google-twitter-linkedin-plugin-7-5-14-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/miniorange-login-openid/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:miniorange:wordpress_social_login_and_register_\\(discord\\,_google\\,_twitter\\,_linkedin\\):6.2.0:*:*:*:*:wordpress:*:*"
+  }
+}

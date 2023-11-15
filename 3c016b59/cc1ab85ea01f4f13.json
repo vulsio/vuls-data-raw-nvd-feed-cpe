@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:clamav:clamav:0.103.5::~~lts~~~",
+  "title": [
+    {
+      "text": "ClamAV 0.103.5 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/Cisco-Talos/clamav/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.clamav.net/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-html-XAuOK8mR"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clamav:clamav:0.103.5:*:*:*:lts:*:*:*"
+  }
+}

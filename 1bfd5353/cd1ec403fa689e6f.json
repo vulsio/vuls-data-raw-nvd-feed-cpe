@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pfsense:pfsense-pkg-wireguard:0.1.5",
+  "title": [
+    {
+      "text": "pfSense pfSense-pkg-WireGuard 0.1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/21xxx/CVE-2022-21132.json"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/theonemcdonald/pfSense-pkg-WireGuard/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/jp/JVN85572374/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pfsense:pfsense-pkg-wireguard:0.1.5:*:*:*:*:*:*:*"
+  }
+}

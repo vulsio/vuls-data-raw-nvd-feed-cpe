@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:canonical:accountsservice:0.6.14",
+  "title": [
+    {
+      "text": "Canonical Ubuntu AccountsService package (accountsservice) 0.6.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "package information",
+      "href": "https://launchpad.net/ubuntu/+source/accountsservice"
+    },
+    {
+      "text": "USN-1351-1: AccountsService vulnerability",
+      "href": "http://www.ubuntu.com/usn/USN-1351-1/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:canonical:accountsservice:0.6.14:*:*:*:*:*:*:*"
+  }
+}

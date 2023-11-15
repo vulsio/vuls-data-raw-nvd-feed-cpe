@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:consul:1.6.2::~~enterprise~~~",
+  "title": [
+    {
+      "text": "hashiCorp Consul 1.6.2 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/hashicorp/consul/issues/7160"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/consul/tags?after=v1.6.0-beta1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:1.6.2:*:*:*:enterprise:*:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:intel:atom_z:z2580",
+  "deprecated": true,
+  "deprecation_date": "2023-09-25T20:17:46.647Z",
+  "title": [
+    {
+      "text": "Intel ATOM Z Z2580",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/76761/intel-atom-processor-z-series.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00314.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:atom_z:z2580:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-25T16:17:46.647-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:atom_z2580:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

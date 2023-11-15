@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:openteknik:open_source_social_network:6.3::~~lts~~~",
+  "title": [
+    {
+      "text": "OPENTEKNIK Open Source Social Network 6.3 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.openteknik.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.opensource-socialnetwork.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://grimthereaperteam.medium.com/ossn-6-3-lts-stored-xss-vulnerability-at-sitepages-ba91bbeccf1c"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34964.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openteknik:open_source_social_network:6.3:*:*:*:lts:*:*:*"
+  }
+}

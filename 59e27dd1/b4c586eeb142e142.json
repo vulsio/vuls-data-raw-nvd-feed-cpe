@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:microsoft:access:2010:sp1:~~~x64~~",
+  "deprecated": true,
+  "deprecation_date": "2014-12-08T17:46:30.383Z",
+  "title": [
+    {
+      "text": "Microsoft Access 2010 sp1 x64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-074"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:access:2010:sp1:*:*:*:x64:*:*",
+    "deprecation": {
+      "date": "2014-12-08T12:46:30.383-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:access:2010:sp1:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

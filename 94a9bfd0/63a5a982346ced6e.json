@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:sonicwall:sma_100:-",
+  "title": [
+    {
+      "text": "SonicWall SECURE MOBILE ACCESS (SMA) 100",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sonicwall.com/products/remote-access/secure-mobile-access-100-series/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/cve/CVE-2019-7481"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:sonicwall:sma_100:-:*:*:*:*:*:*:*"
+  }
+}

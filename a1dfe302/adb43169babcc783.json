@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dell:powerstoreos:-",
+  "title": [
+    {
+      "text": "Dell PowerStoreOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000175213/powerstoreos-matrix"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000201283/dsa-2022-159-dell-powerstore-family-security-update-for-multiple-vulnerabilities"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dell:powerstoreos:-:*:*:*:*:*:*:*"
+  }
+}

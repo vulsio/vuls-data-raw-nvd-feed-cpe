@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wpdo:dologin_security:3.7.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPDO DoLogin Security 3.7.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/dologin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/7eae1434-8c7a-4291-912d-a4a07b73ee56/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpdo:dologin_security:3.7.1:*:*:*:*:wordpress:*:*"
+  }
+}

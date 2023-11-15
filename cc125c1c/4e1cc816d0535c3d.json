@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows-9x:98:beta",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 98 (beta)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows-9x:98:beta:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_98:-:beta:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

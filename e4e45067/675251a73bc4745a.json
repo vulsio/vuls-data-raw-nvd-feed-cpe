@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apache:http_server:2.4.50",
+  "title": [
+    {
+      "text": "Apache Software Foundation Apache HTTP Server 2.4.50",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ncas/current-activity/2021/10/07/apache-releases-http-server-version-2451-address-vulnerabilities"
+    },
+    {
+      "text": "Project",
+      "href": "https://httpd.apache.org/security/vulnerabilities_24.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:http_server:2.4.50:*:*:*:*:*:*:*"
+  }
+}

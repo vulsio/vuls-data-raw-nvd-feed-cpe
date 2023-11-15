@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:solarwinds:netpath:1.1.4",
+  "title": [
+    {
+      "text": "Solarwinds NetPath 1.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.esecforte.com/responsible-vulnerability-disclosure-cve-2019-12863-stored-html-injection-vulnerability-in-solarwinds-orion-platform-2018-4-hf3-npm-12-4-netpath-1-1-4/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.solarwinds.com/network-performance-monitor/use-cases/netpath"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solarwinds:netpath:1.1.4:*:*:*:*:*:*:*"
+  }
+}

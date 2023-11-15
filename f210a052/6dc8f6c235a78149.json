@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:manageengine:opmanager:-",
+  "deprecated": true,
+  "deprecation_date": "2018-12-03T15:36:08.923Z",
+  "title": [
+    {
+      "text": "ManageEngine OpManager",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.manageengine.com/network-monitoring/opmanager-release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:manageengine:opmanager:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-12-03T10:36:08.923-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

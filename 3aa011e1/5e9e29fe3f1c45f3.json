@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:puppetlabs:puppet:2.7.23",
+  "deprecated": true,
+  "deprecation_date": "2019-07-10T14:14:33.730Z",
+  "title": [
+    {
+      "text": "Puppetlabs Puppet 2.7.23",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://docs.puppetlabs.com/puppet/2.7/reference/release_notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:puppet:2.7.23:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-10T10:14:33.730-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet:2.7.23:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

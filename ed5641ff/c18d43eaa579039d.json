@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lenovo:elan_miniport_touchpad_driver:-::~~~windows~~",
+  "title": [
+    {
+      "text": "Lenovo Elan Miniport Touchpad Driver for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.lenovo.com/us/en/downloads/ds119736-elan-ultranav-miniport-driver-for-windows-10-64-bit-thinkpad-13-2nd-gen"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.emc.com.tw/upload/F2E/Vulnerability%20Report/Vulnerability%20Report_Miniport%20touchpad%20Windows%20driver_20221107.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lenovo:elan_miniport_touchpad_driver:-:*:*:*:*:windows:*:*"
+  }
+}

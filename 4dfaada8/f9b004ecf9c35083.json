@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:marmelroy:zip:2.1.2",
+  "title": [
+    {
+      "text": "Marmelroy Zip 2.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ostorlab.co/vulndb/advisory/OVE-2023-1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.ostorlab.co/zip-packages-exploitation.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/marmelroy/Zip/issues/245"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/marmelroy/Zip/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:marmelroy:zip:2.1.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:alpinelinux:alpine_linux:2.5.4",
+  "deprecated": true,
+  "deprecation_date": "2020-03-18T14:52:43.783Z",
+  "title": [
+    {
+      "text": "Alpine Linux 2.5.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://alpinelinux.org/"
+    },
+    {
+      "text": "Version",
+      "href": "http://dl-cdn.alpinelinux.org/alpine/"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.alpinelinux.org/apk-tools/refs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alpinelinux:alpine_linux:2.5.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-18T10:52:43.783-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:alpinelinux:alpine_linux:2.5.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

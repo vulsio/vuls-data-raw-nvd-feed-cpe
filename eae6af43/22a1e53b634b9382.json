@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:emc:secure_remote_services:3.03::~~virtual~~~",
+  "title": [
+    {
+      "text": "EMC Secure Remote Services Virtual Edition 3.03",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.emc.com/collateral/TechnicalDocument/docu55298.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://seclists.org/bugtraq/2015/Dec/att-130/ESA-2015-179.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:secure_remote_services:3.03:*:*:*:virtual:*:*:*"
+  }
+}

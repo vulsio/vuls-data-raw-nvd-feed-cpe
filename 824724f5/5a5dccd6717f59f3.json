@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pegasystems:pega_platform:8.2.6",
+  "deprecated": true,
+  "deprecation_date": "2020-08-20T12:41:57.633Z",
+  "title": [
+    {
+      "text": "Pegasystems Pega Platform 8.2.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://collaborate.pega.com/discussion/pega-826-patch-available"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pegasystems:pega_platform:8.2.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-20T08:41:57.633-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pega:pega_platform:8.2.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

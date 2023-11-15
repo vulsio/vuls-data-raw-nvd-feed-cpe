@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:intel:ethernet_controller_v710_firmware:8.5",
+  "title": [
+    {
+      "text": "Intel Ethernet Controller V710 Firmware 8.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/details/ethernet/700-controllers.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00593.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:ethernet_controller_v710_firmware:8.5:*:*:*:*:*:*:*"
+  }
+}

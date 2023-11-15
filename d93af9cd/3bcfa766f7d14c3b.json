@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nodejs:node.js:14.15.4::~~lts~~~",
+  "title": [
+    {
+      "text": "Nodejs Node.js 14.15.4 Lts Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nodejs.org/en/blog/vulnerability/january-2021-security-releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/988103"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:14.15.4:*:*:*:lts:*:*:*"
+  }
+}

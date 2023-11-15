@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:yeelight:smart_lamp:-",
+  "title": [
+    {
+      "text": "Yeelight Smart Lamp ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://store.yeelight.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:yeelight:smart_lamp:-:*:*:*:*:*:*:*"
+  }
+}

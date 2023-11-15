@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:symantec:ssl_visibility:3.11",
+  "deprecated": true,
+  "deprecation_date": "2021-07-02T18:57:07.837Z",
+  "title": [
+    {
+      "text": "Symantec SSL Visibility 3.11",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symantec:ssl_visibility:3.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-02T14:57:07.837-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.11:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:edgewater_networks:edgemarc_7301:-",
+  "deprecated": true,
+  "deprecation_date": "2021-07-09T14:28:16.867Z",
+  "title": [
+    {
+      "text": "Edgewater Networks EdgeMarc 7301",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://info.rbbn.com/edgewater/"
+    },
+    {
+      "text": "Product",
+      "href": "https://ribboncommunications.com/products/enterprise-products/cloud-and-edge/session-border-controllers/network-edge-orchestration"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:edgewater_networks:edgemarc_7301:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-09T10:28:16.867-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:ribboncommunications:edgemarc_7301:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

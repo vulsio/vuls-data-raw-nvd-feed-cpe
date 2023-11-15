@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nvidia:gpu_display_driver:-::~~~windows~~",
+  "title": [
+    {
+      "text": "NVIDIA GPU Display Driver for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nvidia.com/en-us/data-center/virtual-solutions/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://docs.nvidia.com/grid/10.0/grid-vgpu-user-guide/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:gpu_display_driver:-:*:*:*:*:windows:*:*"
+  }
+}

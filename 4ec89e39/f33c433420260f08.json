@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:freerdp:freerdp:2.8.1",
+  "title": [
+    {
+      "text": "FreeRDP 2.8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/FreeRDP/FreeRDP/security/advisories/GHSA-c45q-wcpg-mxjq"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/FreeRDP/FreeRDP/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freerdp:freerdp:2.8.1:*:*:*:*:*:*:*"
+  }
+}

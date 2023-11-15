@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:cisco:voip_phone_cp-7960:8.70",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:38:03.880Z",
+  "title": [
+    {
+      "text": "Cisco Skinny Client Control Protocol (SCCP) 8.70",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:voip_phone_cp-7960:8.70:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:38:03.880-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.70:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

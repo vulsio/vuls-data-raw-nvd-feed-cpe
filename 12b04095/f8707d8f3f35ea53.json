@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:e-catchup:basercms:1.6.11.3",
+  "deprecated": true,
+  "deprecation_date": "2021-07-15T14:23:22.427Z",
+  "title": [
+    {
+      "text": "キャッチアップ BaserCMS 1.6.11.3",
+      "lang": "ja-JP"
+    },
+    {
+      "text": "Catchup BaserCMS 1.6.11.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:e-catchup:basercms:1.6.11.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-15T10:23:22.427-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:basercms:basercms:1.6.11.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

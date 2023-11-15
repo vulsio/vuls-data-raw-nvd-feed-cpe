@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:thalesgroup:safenet_authentication_client:-",
+  "title": [
+    {
+      "text": "THALES SafeNet Authentication Client",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056"
+    },
+    {
+      "text": "Product",
+      "href": "https://cpl.thalesgroup.com/access-management/security-applications/authentication-client-token-management"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:thalesgroup:safenet_authentication_client:-:*:*:*:*:*:*:*"
+  }
+}

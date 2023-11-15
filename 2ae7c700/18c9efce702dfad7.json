@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_201",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T13:00:05.273Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 1.7.0 Update 201",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpujan2019.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_201:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T09:00:05.273-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update201:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

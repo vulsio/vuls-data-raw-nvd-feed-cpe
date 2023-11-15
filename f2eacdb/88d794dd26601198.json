@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:socks5_project:socks5:2013-08-07::~~~go~~",
+  "title": [
+    {
+      "text": "Socks5 Project Socks5 2013-08-07 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/btcsuite/go-socks/commit/233bccbb1abe02f05750f7ace66f5bffdb13defc"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0024"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:socks5_project:socks5:2013-08-07:*:*:*:*:go:*:*"
+  }
+}

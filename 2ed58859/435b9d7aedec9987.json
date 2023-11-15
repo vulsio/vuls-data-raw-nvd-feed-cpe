@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:hoteldruid:hoteldruid:2.2.4",
+  "deprecated": true,
+  "deprecation_date": "2019-07-01T12:52:02.440Z",
+  "title": [
+    {
+      "text": "HotelDruid 2.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.hoteldruid.com/en/download.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hoteldruid:hoteldruid:2.2.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-01T08:52:02.440-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:digitaldruid:hoteldruid:2.2.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

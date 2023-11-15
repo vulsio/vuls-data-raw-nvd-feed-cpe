@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:jbossweb:-",
+  "title": [
+    {
+      "text": "Red Hat Jbossweb",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://maven.repository.redhat.com/ga/org/jboss/web/jbossweb/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1875176"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:jbossweb:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jedec:universal_flash_storage:-",
+  "title": [
+    {
+      "text": "JEDEC Universal Flash Storage (UFS)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.westerndigital.com/support/product-security/wdc-23001-host-boot-rom-code-vulnerability-in-systems-implementing-ufs-boot-feature"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.jedec.org/standards-documents/focus/flash/universal-flash-storage-ufs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jedec:universal_flash_storage:-:*:*:*:*:*:*:*"
+  }
+}

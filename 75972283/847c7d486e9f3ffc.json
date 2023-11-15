@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:etcd:0.2.0:rc2",
+  "title": [
+    {
+      "text": "Red Hat etcd 0.2.0 Release Candidate 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/etcd-io/etcd"
+    },
+    {
+      "text": "Project",
+      "href": "https://coreos.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.redhat.com/en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:etcd:0.2.0:rc2:*:*:*:*:*:*"
+  }
+}

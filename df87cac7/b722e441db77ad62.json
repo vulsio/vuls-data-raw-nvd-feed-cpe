@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:goauthentik:authentik:0.13.4:stable",
+  "title": [
+    {
+      "text": "Authentik 0.13.4 Stable",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/goauthentik/authentik/security/advisories/GHSA-9qwp-jf7p-vr7h"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/goauthentik/authentik/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:goauthentik:authentik:0.13.4:stable:*:*:*:*:*:*"
+  }
+}

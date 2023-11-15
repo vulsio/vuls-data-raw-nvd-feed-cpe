@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:barni:master_ip_camera01_firmware:3.3.4.2103",
+  "title": [
+    {
+      "text": "Barni Master IP Camera 01 Firmware 3.3.4.2103",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://syrion.me/blog/master-ipcam/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://packetstormsecurity.com/files/151725/Master-IP-CAM-01-3.3.4.2103-Remote-Command-Execution.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvd.nist.gov/vuln/detail/CVE-2018-5723"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.barni.it/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:barni:master_ip_camera01_firmware:3.3.4.2103:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:catalyst_ie3200:-",
+  "title": [
+    {
+      "text": "Cisco Catalyst IE3200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-ie3200-rugged-series/cat-ie3200-rugged-series-ds.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy16608"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-yuXQ6hFj"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:catalyst_ie3200:-:*:*:*:*:*:*:*"
+  }
+}

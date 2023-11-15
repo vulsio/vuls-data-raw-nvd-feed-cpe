@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pull_it_project:pull_it:1.2.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Pull It Project Pull It 1.2.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/npm:pullit:20180214"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.npmjs.com/package/pullit?activeTab=versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pull_it_project:pull_it:1.2.1:*:*:*:*:node.js:*:*"
+  }
+}

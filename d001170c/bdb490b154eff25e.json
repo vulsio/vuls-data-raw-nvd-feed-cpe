@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:qnap:qvpn:-::~~~windows~~",
+  "title": [
+    {
+      "text": "QNAP QVPN for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.qnap.com/en/security-advisory/qsa-23-39"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.qnap.com/en-us/software/qvpn-service"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qnap:qvpn:-:*:*:*:*:windows:*:*"
+  }
+}

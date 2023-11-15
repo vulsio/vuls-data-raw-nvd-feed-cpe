@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:setupbox_project:setupbox:1.0",
+  "title": [
+    {
+      "text": "SetupBox Project SetupBox 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/maxtortime/SetupBox/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/maxtortime/SetupBox/issues/55"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31543.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:setupbox_project:setupbox:1.0:*:*:*:*:*:*:*"
+  }
+}

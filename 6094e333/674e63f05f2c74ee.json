@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:onepeloton:peloton:1.7.22::~~~android~~",
+  "title": [
+    {
+      "text": "Peloton 1.7.22 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/40xxx/CVE-2021-40527.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://twitter.com/ROPsicle/status/1438216078103044107?s=20"
+    },
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.onepeloton.callisto&hl=en_US&gl=US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:onepeloton:peloton:1.7.22:*:*:*:*:android:*:*"
+  }
+}

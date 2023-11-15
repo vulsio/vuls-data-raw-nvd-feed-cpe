@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:qemu:qemu:4.1.1",
+  "title": [
+    {
+      "text": "QEMU 4.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2020/01/23/3"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.qemu.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/qemu/qemu/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:4.1.1:*:*:*:*:*:*:*"
+  }
+}

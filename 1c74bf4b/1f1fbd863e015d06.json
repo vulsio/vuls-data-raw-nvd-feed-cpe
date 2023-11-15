@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:media_player:7",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft media player 7",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:media_player:7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:windows_media_player:7:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

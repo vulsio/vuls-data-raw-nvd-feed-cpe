@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ghost:ghost:4.22.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Ghost 4.22.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/ghost"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://ghost.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/TryGhost/Ghost/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ghost:ghost:4.22.3:*:*:*:*:node.js:*:*"
+  }
+}

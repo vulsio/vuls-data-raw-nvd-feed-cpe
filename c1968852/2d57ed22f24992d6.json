@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:mds_9000:1.3%284a%29",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:36:46.367Z",
+  "title": [
+    {
+      "text": "Cisco MDS 9000 SAN-OS 1.3 (4a)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:mds_9000:1.3\\(4a\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:36:46.367-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:mds_9000_san-os:1.3\\(4a\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

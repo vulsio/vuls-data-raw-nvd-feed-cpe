@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kernel:kexec-tools:-",
+  "title": [
+    {
+      "text": "Kernel kexec-tools",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://kernel.org/pub/linux/utils/kernel/kexec"
+    },
+    {
+      "text": "Product",
+      "href": "https://git.kernel.org/pub/scm/utils/kernel/kexec/kexec-tools.git"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kernel:kexec-tools:-:*:*:*:*:*:*:*"
+  }
+}

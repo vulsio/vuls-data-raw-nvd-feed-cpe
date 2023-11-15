@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:d-link:di-524up:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DI-524UP Router",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product information",
+      "href": "http://support.dlink.com/emulators/di524/h_wizard.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:di-524up:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:di-524up:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

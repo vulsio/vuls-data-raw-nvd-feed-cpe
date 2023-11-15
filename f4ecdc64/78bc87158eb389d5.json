@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:xiaomi:mi_5s_plus_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-09-22T14:46:11.860Z",
+  "title": [
+    {
+      "text": "Xiaomi Mi 5s Plus Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mi.com/global/mi5splus/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@juliodellaflora/ghost-touch-on-xiaomi-mi5s-plus-707998308607"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:xiaomi:mi_5s_plus_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-22T10:46:11.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mi:mi_5s_plus_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

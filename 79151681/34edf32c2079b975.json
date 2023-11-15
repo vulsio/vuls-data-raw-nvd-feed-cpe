@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:kavita:kavita:0.5.4.1",
+  "deprecated": true,
+  "deprecation_date": "2022-11-14T19:47:15.330Z",
+  "title": [
+    {
+      "text": "Kavita 0.5.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/kareadita/kavita/commit/9c31f7e7c81b919923cb2e3857439ec0d16243e4"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kavitareader.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kavita:kavita:0.5.4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-14T14:47:15.330-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:kavitareader:kavita:0.5.4.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

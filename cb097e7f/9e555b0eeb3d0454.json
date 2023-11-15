@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:swarm:3.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Swarm 3.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/jenkinsci/swarm-plugin/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2017-10-11/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:swarm:3.0:*:*:*:*:jenkins:*:*"
+  }
+}

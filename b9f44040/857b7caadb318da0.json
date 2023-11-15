@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:libexpat:expat:1.95.3",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T15:44:14.053Z",
+  "title": [
+    {
+      "text": "libexpat Expat 1.95.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/libexpat/libexpat"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libexpat/libexpat/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libexpat:expat:1.95.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T10:44:14.053-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libexpat_project:libexpat:1.95.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

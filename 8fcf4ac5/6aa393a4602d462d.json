@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:menu_shortcode_project:menu_shortcode:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Menu Shortcode Project Menu Shortcode for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/3f2565cd-7050-4ebd-9a50-cd9b9f7c3341"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/menu-shortcode/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:menu_shortcode_project:menu_shortcode:-:*:*:*:*:wordpress:*:*"
+  }
+}

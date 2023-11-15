@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:samsung:m2m1shot_driver:-",
+  "title": [
+    {
+      "text": "Samsung M2M1shot Driver",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://code.google.com/p/google-security-research/issues/detail?id=493"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://packetstormsecurity.com/files/134108/Samsung-M2m1shot-Kernel-Driver-Buffer-Overflow.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.samsung.com/us/support/downloads/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samsung:m2m1shot_driver:-:*:*:*:*:*:*:*"
+  }
+}

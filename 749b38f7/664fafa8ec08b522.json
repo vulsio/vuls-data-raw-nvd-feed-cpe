@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:hcltech:legacy_ivr_firmware:-",
+  "title": [
+    {
+      "text": "HCL Technologies Limited Legacy Interactive Voice Response (IVR) firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.hcltech.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://virgil-cj.blogspot.com/2018/05/0day-legacy-ivr-lets-phreak.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:hcltech:legacy_ivr_firmware:-:*:*:*:*:*:*:*"
+  }
+}

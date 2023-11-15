@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redislabs:redisgraph:2.2.9",
+  "title": [
+    {
+      "text": "Redis Labs RedisGraph 2.2.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://redislabs.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/RedisGraph/RedisGraph/issues/1502"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/RedisGraph/RedisGraph/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redislabs:redisgraph:2.2.9:*:*:*:*:*:*:*"
+  }
+}

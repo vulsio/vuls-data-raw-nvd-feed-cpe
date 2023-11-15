@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:novell:open_enterprise_server:1",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T14:15:09.477Z",
+  "title": [
+    {
+      "text": "Novell Open Enterprise Server 1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:novell:open_enterprise_server:1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-24T09:15:09.477-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:novell:open_enterprise_server:1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

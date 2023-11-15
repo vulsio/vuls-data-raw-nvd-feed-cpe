@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:moodle:moodle:3.3.0",
+  "deprecated": true,
+  "deprecation_date": "2020-12-01T14:58:24.090Z",
+  "title": [
+    {
+      "text": "Moodle 3.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/moodle/moodle/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://download.moodle.org/releases/latest/"
+    },
+    {
+      "text": "Version",
+      "href": "http://docs.moodle.org/dev/Releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://moodle.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:moodle:moodle:3.3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-01T09:58:24.090-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:moodle:moodle:3.3.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

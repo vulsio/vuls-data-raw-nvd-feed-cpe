@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpgogo:custom_field_template:2.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wpgogo Custom Field Template 2.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/custom-field-template/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wpgogo.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpgogo:custom_field_template:2.4:*:*:*:*:wordpress:*:*"
+  }
+}

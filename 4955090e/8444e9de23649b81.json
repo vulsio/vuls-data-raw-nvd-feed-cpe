@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:arubanetworks:arubaos:10.3.1.0",
+  "title": [
+    {
+      "text": "aruba Networks ArubaOS 10.3.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.arubanetworks.com/techdocs/AOS_10.x_RN_WebHelp/Content/10.3/overview-1030x.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-014.txt"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37888.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:arubanetworks:arubaos:10.3.1.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:live555:streaming_media:2012.09.07",
+  "deprecated": true,
+  "deprecation_date": "2019-09-12T12:12:30.873Z",
+  "title": [
+    {
+      "text": "LIVE555 Streaming Media 2012.09.07",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "http://www.live555.com/liveMedia/public/changelog.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:live555:streaming_media:2012.09.07:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-12T08:12:30.873-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:live555:streaming_media:2012-09-07:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

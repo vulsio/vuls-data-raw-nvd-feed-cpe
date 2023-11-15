@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:darkhttpd_project:darkhttpd:1.13-1",
+  "title": [
+    {
+      "text": "Darkhttpd Project Darkhttpd 1.13-1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/25xxx/CVE-2020-25691.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1893725"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/emikulic/darkhttpd"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13-1:*:*:*:*:*:*:*"
+  }
+}

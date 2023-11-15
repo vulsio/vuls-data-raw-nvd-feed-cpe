@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:honeywell:experion:r200",
+  "title": [
+    {
+      "text": "Honeywell Experion R200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://vulners.com/ics/ICSA-14-352-01"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cvedetails.com/vulnerability-list/vendor_id-6716/opec-1/Honeywell.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cvedetails.com/vulnerability-list/vendor_id-6716/product_id-52997/Honeywell-Experion-Process-Knowledge-System.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://process.honeywell.com/us/en/solutions/experion-pks"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:honeywell:experion:r200:*:*:*:*:*:*:*"
+  }
+}

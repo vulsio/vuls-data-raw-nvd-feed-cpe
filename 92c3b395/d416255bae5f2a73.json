@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hashicorp:nomad:1.0.4::~~enterprise~~~",
+  "title": [
+    {
+      "text": "HashiCorp Nomad 1.0.4 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.hashicorp.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.hashicorp.com/products/nomad"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/nomad/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:nomad:1.0.4:*:*:*:enterprise:*:*:*"
+  }
+}

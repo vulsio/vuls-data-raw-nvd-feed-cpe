@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octobercms:october_cms:1.0.323",
+  "deprecated": true,
+  "deprecation_date": "2020-08-03T12:21:45.137Z",
+  "title": [
+    {
+      "text": "OctoberCMS 1.0.323",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://octobercms.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://octobercms.com/changelog"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octobercms:october_cms:1.0.323:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-03T08:21:45.137-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octobercms:october:1.0.323:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

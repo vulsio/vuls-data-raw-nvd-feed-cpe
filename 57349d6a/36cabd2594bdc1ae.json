@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:jquery:jquery_ui:1.5.2",
+  "deprecated": true,
+  "deprecation_date": "2023-06-21T17:50:19.730Z",
+  "title": [
+    {
+      "text": "jQuery UI 1.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://jqueryui.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jquery.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://jqueryui.com/download/all/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jquery:jquery_ui:1.5.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-06-21T13:50:19.730-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jqueryui:jquery_ui:1.5.2:*:*:*:*:jquery:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

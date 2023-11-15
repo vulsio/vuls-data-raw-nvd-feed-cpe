@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:siemens:ups1600_profinet:-",
+  "title": [
+    {
+      "text": "Siemens UPS1600 PROFINET",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://cache.industry.siemens.com/dl/files/415/84977415/att_906547/v1/A5E37775406-7-76_MANUAL_SITOP-UPS1600-UPS1100_en-US.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-293562.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:siemens:ups1600_profinet:-:*:*:*:*:*:*:*"
+  }
+}

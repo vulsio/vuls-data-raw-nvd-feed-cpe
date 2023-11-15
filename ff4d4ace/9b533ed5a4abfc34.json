@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:emtec:zoc_terminal:8.02.2",
+  "deprecated": true,
+  "deprecation_date": "2021-06-16T15:51:12.823Z",
+  "title": [
+    {
+      "text": "EmTec ZOC 8.02.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.emtec.com/zoc/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.emtec.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://www.emtec.com/downloads/zoc/zoc_changes.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emtec:zoc_terminal:8.02.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-16T11:51:12.823-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:emtec:zoc:8.02.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:nasm:netwide_assembler:2.03.0:rc7",
+  "deprecated": true,
+  "deprecation_date": "2018-10-31T11:34:18.960Z",
+  "title": [
+    {
+      "text": "NASM Netwide Assembler 2.03.0 Release Candidate 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.nasm.us/doc/nasmdoc1.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.nasm.us/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/doc/nasmdocc.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/pub/nasm/releasebuilds/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nasm:netwide_assembler:2.03.0:rc7:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-31T07:34:18.960-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nasm:netwide_assembler:2.03:rc7:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

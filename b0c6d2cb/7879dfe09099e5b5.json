@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:backstage_catalog-model:1.2.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Linux Foundation Backstage Catalog-model 1.2.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://backstage.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/backstage/backstage/security/advisories/GHSA-7hv8-3fr9-j2hv"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:backstage_catalog-model:1.2.0:*:*:*:*:node.js:*:*"
+  }
+}

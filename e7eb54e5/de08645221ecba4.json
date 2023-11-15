@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:evernote:evernote:7.0.3::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T17:00:50.233Z",
+  "title": [
+    {
+      "text": "Evernote 7.0.3 Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://itunes.apple.com/us/app/evernote/id406056744?mt=12"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:evernote:evernote:7.0.3:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T13:00:50.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:evernote:evernote:7.0.3:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

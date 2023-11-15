@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:ec2:1.15::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins EC2 1.15 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2017-12-06/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/ec2-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:ec2:1.15:*:*:*:*:jenkins:*:*"
+  }
+}

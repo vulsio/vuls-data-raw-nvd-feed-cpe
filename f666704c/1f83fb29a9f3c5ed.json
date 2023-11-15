@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:sun:java_system_messaging_server:6.2:_nil_:x86",
+  "deprecated": true,
+  "deprecation_date": "2013-02-11T20:14:27.430Z",
+  "title": [
+    {
+      "text": "Sun Java System Messaging Server 6.2 x86",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:java_system_messaging_server:6.2:_nil_:x86:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-02-11T15:14:27.430-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sun:java_system_messaging_server:6.2:-:x86:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

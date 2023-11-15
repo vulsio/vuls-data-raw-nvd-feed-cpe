@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:btcpayserver:btcpayserver:1.0.2.32",
+  "deprecated": true,
+  "deprecation_date": "2021-09-15T13:04:46.683Z",
+  "title": [
+    {
+      "text": "BTCPay Server 1.0.2.32",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/btcpayserver/btcpayserver"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://btcpayserver.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:btcpayserver:btcpayserver:1.0.2.32:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-15T09:04:46.683-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:btcpayserver:btcpay_server:1.0.2.32:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

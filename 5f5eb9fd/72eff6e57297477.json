@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:msgpack:msgpack:0.1.8::~~~node.js~~",
+  "title": [
+    {
+      "text": "MessagePack msgpack 0.1.8 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://snyk.io/vuln/npm:msgpack"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://msgpack.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/msgpack"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-MSGPACK-1296122"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:msgpack:msgpack:0.1.8:*:*:*:*:node.js:*:*"
+  }
+}

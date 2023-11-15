@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:fxos:2.0",
+  "deprecated": true,
+  "deprecation_date": "2023-04-20T15:27:47.277Z",
+  "title": [
+    {
+      "text": "Cisco Firepower eXtensible Operating System (FXOS) 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:fxos:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-20T11:27:47.277-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.0.1.37:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

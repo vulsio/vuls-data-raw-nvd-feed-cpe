@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:linksys:e2000_firmware:1.0.06",
+  "title": [
+    {
+      "text": "Linksys E2000 Firmware 1.0.06",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/D2y6p/CVE/blob/main/Linksys/CVE-2023-31740/Linksys_E2000_RCE.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.linksys.com/support-article?articleNum=139901"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linksys:e2000_firmware:1.0.06:*:*:*:*:*:*:*"
+  }
+}

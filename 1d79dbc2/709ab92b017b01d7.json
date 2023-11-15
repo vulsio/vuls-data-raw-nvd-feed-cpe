@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:deck:1.5.3",
+  "title": [
+    {
+      "text": "Nextcloud Deck 1.5.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/deck/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-2x96-38qg-3m72"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:deck:1.5.3:*:*:*:*:*:*:*"
+  }
+}

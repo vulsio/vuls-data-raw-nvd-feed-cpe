@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:westerndigital:sandisk_x300_firmware:-",
+  "title": [
+    {
+      "text": "Western Digital SanDisk X300 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://downloads.sandisk.com/downloads/datasheet/x300-datasheet.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://kb.sandisk.com/app/answers/detail/a_id/19264/~/x300s-ssd-support-information-page%28eol%29"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.westerndigital.com/support/productsecurity/wdc-19006-sandisk-x600-sata-ssd"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:westerndigital:sandisk_x300_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:profanity_project:profanity:0.4.7",
+  "deprecated": true,
+  "deprecation_date": "2020-01-22T16:14:14.010Z",
+  "title": [
+    {
+      "text": "Profanity Project Profanity 0.4.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/profanity-im/profanity/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.securityfocus.com/bid/96173"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:profanity_project:profanity:0.4.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-22T11:14:14.010-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:profanity_project:profanity:0.4.7:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

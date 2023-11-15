@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openmage:openmage:1.6.2.0::~~lts~~~",
+  "title": [
+    {
+      "text": "OpenMage 1.6.2.0 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.openmage.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OpenMage/magento-lts/security/advisories/GHSA-hj6w-xrv3-wjj9"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OpenMage/magento-lts/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openmage:openmage:1.6.2.0:*:*:*:lts:*:*:*"
+  }
+}

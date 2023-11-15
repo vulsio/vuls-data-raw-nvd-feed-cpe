@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:wdc:my_net_n900c:-",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T15:02:16.323Z",
+  "title": [
+    {
+      "text": "Western Digital My Net N900C",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:wdc:my_net_n900c:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-24T10:02:16.323-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:westerndigital:my_net_n900c:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

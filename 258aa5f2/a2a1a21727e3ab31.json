@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:vtiger:vtiger_crm:5",
+  "deprecated": true,
+  "deprecation_date": "2014-04-22T16:31:03.980Z",
+  "title": [
+    {
+      "text": "Vtiger CRM 5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vtiger:vtiger_crm:5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-04-22T12:31:03.980-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vtiger:vtiger_crm:5.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

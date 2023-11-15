@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pivotal:spring_security_oauth:2.5.2",
+  "title": [
+    {
+      "text": "Pivotal Spring Security Oauth 2.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mvnrepository.com/artifact/org.springframework.security.oauth/spring-security-oauth2/2.5.2.RELEASE"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tanzu.vmware.com/security/cve-2022-22969"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:spring_security_oauth:2.5.2:*:*:*:*:*:*:*"
+  }
+}

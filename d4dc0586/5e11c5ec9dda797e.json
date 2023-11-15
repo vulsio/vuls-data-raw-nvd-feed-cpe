@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wedevs:wp_project_manager:2.6.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "weDevs WP Project Manager 2.6.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wedevs-project-manager/wp-project-manager-264-arbitrary-usermeta-update-to-authenticated-subscriber-privilege-escalation"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wedevs-project-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wedevs:wp_project_manager:2.6.1:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:checkpoint:gaia_portal:-",
+  "title": [
+    {
+      "text": "Check Point Gaia Portal",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.checkpoint.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/30xxx/CVE-2021-30361.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk179128"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:checkpoint:gaia_portal:-:*:*:*:*:*:*:*"
+  }
+}

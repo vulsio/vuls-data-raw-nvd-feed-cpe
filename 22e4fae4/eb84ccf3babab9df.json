@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:musl-libc:musl:1.1.12",
+  "deprecated": true,
+  "deprecation_date": "2021-05-17T18:18:11.590Z",
+  "title": [
+    {
+      "text": "Musl-libc Musl 1.1.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://musl.libc.org/"
+    },
+    {
+      "text": "Version",
+      "href": "http://git.musl-libc.org/cgit/musl/refs/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:musl-libc:musl:1.1.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-17T14:18:11.590-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:musl-libc:musl:1.1.12:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

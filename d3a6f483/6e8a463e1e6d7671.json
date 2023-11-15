@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:firejail_project:firejail:0.9.34",
+  "deprecated": true,
+  "deprecation_date": "2019-05-23T17:36:22.103Z",
+  "title": [
+    {
+      "text": "Firejail Project Firejail 0.9.34",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://firejail.wordpress.com/download-2/release-notes/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:firejail_project:firejail:0.9.34:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-23T13:36:22.103-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:firejail_project:firejail:0.9.34:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

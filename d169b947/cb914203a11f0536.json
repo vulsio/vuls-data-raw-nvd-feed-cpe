@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:express-fileupload_project:express-fileupload:0.0.7",
+  "deprecated": true,
+  "deprecation_date": "2023-10-17T18:29:48.063Z",
+  "title": [
+    {
+      "text": "express-fileupload Project express-fileupload 0.0.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/express-fileupload?activeTab=versions"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/express-fileupload"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/richardgirges/express-fileupload"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:express-fileupload_project:express-fileupload:0.0.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-17T14:29:48.063-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:express-fileupload_project:express-fileupload:0.0.7:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

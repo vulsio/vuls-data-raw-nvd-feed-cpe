@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:dashboard_view:2.9::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Dashboard View 2.9 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/dashboard-view-plugin/releases"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wiki.jenkins.io/display/JENKINS/Dashboard+View#DashboardView-VersionHistory"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:dashboard_view:2.9:*:*:*:*:jenkins:*:*"
+  }
+}

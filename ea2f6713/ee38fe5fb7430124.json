@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kelvintoken_project:kelvintoken:-",
+  "title": [
+    {
+      "text": "KelvinToken Project KelvinToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xb58855016c58897992c11024fe198708f42b3bfe#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kelvintoken_project:kelvintoken:-:*:*:*:*:*:*:*"
+  }
+}

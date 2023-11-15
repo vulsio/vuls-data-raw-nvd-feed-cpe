@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:servermanagement_project:servermanagement:2019-11-13",
+  "title": [
+    {
+      "text": "Servermanagement Project Servermanagement 2019-11-13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/cksgf/ServerManagement"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cksgf/ServerManagement/issues/21"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cksgf/ServerManagement/blob/49491cc6f94980e6be7791d17be947c27071eb56/route/file.py#L82-L93"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:servermanagement_project:servermanagement:2019-11-13:*:*:*:*:*:*:*"
+  }
+}

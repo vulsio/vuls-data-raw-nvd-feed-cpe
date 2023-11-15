@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:limesurvey:limesurvey:5.1.5",
+  "deprecated": true,
+  "deprecation_date": "2022-02-09T15:26:02.707Z",
+  "title": [
+    {
+      "text": "LimeSurvey 5.1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.limesurvey.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/LimeSurvey/LimeSurvey/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:limesurvey:limesurvey:5.1.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-09T10:26:02.707-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:limesurvey:limesurvey:5.1.5:210830:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

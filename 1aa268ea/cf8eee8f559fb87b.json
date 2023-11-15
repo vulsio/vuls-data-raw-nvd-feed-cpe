@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:supsystic:popup:1.9.53::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Supsystic Popup 1.9.53 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://supsystic.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/efdc76e0-c14a-4baf-af70-9d381107308f"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/popup-by-supsystic/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:supsystic:popup:1.9.53:*:*:*:*:wordpress:*:*"
+  }
+}

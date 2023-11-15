@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:mybb:active_threads:1.2.11",
+  "title": [
+    {
+      "text": "MyBB Active Threads 1.2.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/250609"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://community.mybb.com/mods.php?action=changelog&pid=1336"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mybb:active_threads:1.2.11:*:*:*:*:*:*:*"
+  }
+}

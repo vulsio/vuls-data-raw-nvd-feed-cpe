@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:nvidia:tegra_jetson_l4t:-",
+  "title": [
+    {
+      "text": "NVIDIA Tegra Jetson L4T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.nvidia.com/en-us/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://nvidia.custhelp.com/app/answers/detail/a_id/4561"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.nvidia.com/linux-tegra-r214"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nvidia:tegra_jetson_l4t:-:*:*:*:*:*:*:*"
+  }
+}

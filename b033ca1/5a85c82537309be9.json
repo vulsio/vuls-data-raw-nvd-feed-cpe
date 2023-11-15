@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:python:python:2.7.10",
+  "deprecated": true,
+  "deprecation_date": "2019-10-25T11:54:03.347Z",
+  "title": [
+    {
+      "text": "Python 2.7.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.python.org/downloads/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.python.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:python:python:2.7.10:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-25T07:54:03.347-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:python:python:2.7.10:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

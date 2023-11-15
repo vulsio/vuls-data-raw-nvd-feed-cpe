@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:build_failure_analyzer:1.27.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Build Failure Analyzer 1.27.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1770"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/build-failure-analyzer-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:build_failure_analyzer:1.27.0:*:*:*:*:jenkins:*:*"
+  }
+}

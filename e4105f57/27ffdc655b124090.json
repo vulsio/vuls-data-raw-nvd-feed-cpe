@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:micointoken_project:micointoken:-",
+  "title": [
+    {
+      "text": "MicoinToken project MicoinToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xf310d06a54eda5d5ae204b0aa9b5e207972d80b9#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:micointoken_project:micointoken:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fluxcd:notification-controller:0.0.2",
+  "title": [
+    {
+      "text": "Fluxcd Notification-controller 0.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/fluxcd/notification-controller"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fluxcd/flux2/security/advisories/GHSA-f4p5-x4vc-mh4v"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fluxcd:notification-controller:0.0.2:*:*:*:*:*:*:*"
+  }
+}

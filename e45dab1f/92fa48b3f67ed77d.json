@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:zoom:zoom:3.0.46828.0919::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:35:45.483Z",
+  "title": [
+    {
+      "text": "Zoom 3.0.46828.0919 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://support.zoom.us/hc/en-us/articles/201361953-New-Updates-for-Windows"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoom:zoom:3.0.46828.0919:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:35:45.483-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zoom:zoom:3.0.46828.0919:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

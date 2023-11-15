@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:paloaltonetworks:globalprotect:5.2.4::~~~windows~~",
+  "title": [
+    {
+      "text": "Palo Alto Networks GlobalProtect 5.2.4 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.paloaltonetworks.com/products/globalprotect"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.paloaltonetworks.com/CVE-2021-3038"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:globalprotect:5.2.4:*:*:*:*:windows:*:*"
+  }
+}

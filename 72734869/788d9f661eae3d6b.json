@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:fedoraproject:supybot-fedora:0.4.2",
+  "title": [
+    {
+      "text": "Fedora Project Supybot-fedora 0.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/fedora-infra/supybot-fedora/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fedora-infra/supybot-fedora/issues/69"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/15xxx/CVE-2020-15853.json"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://apps.fedoraproject.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fedoraproject:supybot-fedora:0.4.2:*:*:*:*:*:*:*"
+  }
+}

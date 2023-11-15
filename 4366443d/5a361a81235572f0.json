@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rubyonrails:ruby_on_rails:5.0.0:beta1.1",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T15:11:11.710Z",
+  "title": [
+    {
+      "text": "Ruby on Rails 5.0.0 Beta 1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://rubyonrails.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rails/rails/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:5.0.0:beta1.1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T11:11:11.710-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:5.0.0:beta1.1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

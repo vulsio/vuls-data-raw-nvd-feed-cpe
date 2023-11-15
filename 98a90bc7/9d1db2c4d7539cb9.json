@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hsqldb:hypersql_database:2.6.0",
+  "title": [
+    {
+      "text": "HSQLDB HyperSQL Database 2.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://hsqldb.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.chromium.org/p/oss-fuzz/issues/detail?id=50212#c7"
+    },
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/hsqldb/files/hsqldb/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hsqldb:hypersql_database:2.6.0:*:*:*:*:*:*:*"
+  }
+}

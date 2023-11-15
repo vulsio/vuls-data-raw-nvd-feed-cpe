@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e3:1220l_v2",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:52:54.320Z",
+  "title": [
+    {
+      "text": "Intel Xeon E3 1220L V2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e3:1220l_v2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:52:54.320-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e3_12201_v2:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

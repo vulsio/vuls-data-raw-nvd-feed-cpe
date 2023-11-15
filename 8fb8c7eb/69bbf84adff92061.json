@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mongodb:bson:1.1.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "MongoDB BSON 1.1.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mongodb/js-bson"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-BSON-561052"
+    },
+    {
+      "text": "Version",
+      "href": "https://snyk.io/vuln/npm:bson"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mongodb:bson:1.1.1:*:*:*:*:node.js:*:*"
+  }
+}

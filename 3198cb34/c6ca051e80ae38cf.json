@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:suse:rancher:2.5.17",
+  "title": [
+    {
+      "text": "SUSE Rancher 2.5.17",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rancher/rancher/security/advisories/GHSA-g25r-gvq3-wrq7"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rancher/rancher/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:rancher:2.5.17:*:*:*:*:*:*:*"
+  }
+}

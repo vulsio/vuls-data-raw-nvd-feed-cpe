@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:ericsson:rx8200_firmware:5.13.3",
+  "deprecated": true,
+  "deprecation_date": "2020-11-12T12:20:26.630Z",
+  "title": [
+    {
+      "text": "Ericsson RX8200 Firmware 5.13.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.skullarmy.net/2020/02/ericsson-multiple-stored-reflected-xss.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ericsson.com/en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ericsson:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-12T07:20:26.630-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mediakind:rx8200_firmware:5.13.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wpvibes:wp_mail_log:1.1.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wpvibes WP Mail Log 1.1.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-mail-log/wp-mail-log-111-unauthenticated-stored-cross-site-scripting-via-email"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-mail-log/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpvibes:wp_mail_log:1.1.1:*:*:*:*:wordpress:*:*"
+  }
+}

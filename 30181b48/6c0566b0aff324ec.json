@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:noobaa-operator:2.0.6",
+  "title": [
+    {
+      "text": "Red Hat NooBaa-Operator 2.0.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.noobaa.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1955601"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/noobaa/noobaa-operator/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:noobaa-operator:2.0.6:*:*:*:*:*:*:*"
+  }
+}

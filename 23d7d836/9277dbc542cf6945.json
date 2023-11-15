@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:talend:remote_engine_gen_2:-",
+  "title": [
+    {
+      "text": "Talend Remote Engine Gen 2 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://help.talend.com/r/en-US/Cloud/management-console-user-guide/remote-engine-for-pipelines"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.talend.com/security/incident-response/#CVE-2022-45588"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:talend:remote_engine_gen_2:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:ansible_tower:3.4.6",
+  "title": [
+    {
+      "text": "Red Hat Ansible Tower 3.4.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/plugins/nessus/135182"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1818924"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:ansible_tower:3.4.6:*:*:*:*:*:*:*"
+  }
+}

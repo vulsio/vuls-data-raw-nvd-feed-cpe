@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:mikrotik:routeros:6.40.2",
+  "deprecated": true,
+  "deprecation_date": "2019-09-17T12:43:32.467Z",
+  "title": [
+    {
+      "text": "MikroTik RouterOS 6.40.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mikrotik.com/download/archive"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mikrotik:routeros:6.40.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-17T08:43:32.467-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mikrotik:routeros:6.40.2:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

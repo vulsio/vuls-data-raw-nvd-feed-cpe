@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ibm:websphere_portal:8.0.0.0:-",
+  "deprecated": true,
+  "deprecation_date": "2014-06-24T18:39:30.673Z",
+  "title": [
+    {
+      "text": "IBM Websphere Portal 8.0.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product version information",
+      "href": "http://www-947.ibm.com/support/entry/portal/product/websphere/websphere_portal?productContext=-1534186899#"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:websphere_portal:8.0.0.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-06-24T14:39:30.673-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:websphere_portal:8.0.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

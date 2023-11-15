@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oxid-esales:eshop:4.7.5:-:community",
+  "deprecated": true,
+  "deprecation_date": "2018-03-22T15:45:04.090Z",
+  "title": [
+    {
+      "text": "oxid-esales OXID eSHOP Community Edition 4.7.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.oxid-esales.com"
+    },
+    {
+      "text": "Version",
+      "href": "http://wiki.oxidforge.org/Category:Downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oxid-esales:eshop:4.7.5:-:community:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-03-22T11:45:04.090-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oxid-esales:eshop:4.7.5:-:*:*:community:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

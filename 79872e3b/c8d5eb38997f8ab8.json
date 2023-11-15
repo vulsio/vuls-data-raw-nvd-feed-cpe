@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:varnish-cache:varnish_cache:6.0.8:r1:~~plus~~~",
+  "deprecated": true,
+  "deprecation_date": "2022-08-02T19:07:40.310Z",
+  "title": [
+    {
+      "text": "Varnish Cache 6.0.8 R1 Plus Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.varnish-software.com/varnish-cache-plus/changelog/changes/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:varnish-cache:varnish_cache:6.0.8:r1:*:*:plus:*:*:*",
+    "deprecation": {
+      "date": "2022-08-02T15:07:40.310-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:varnish-software:varnish_cache_plus:6.0.8:r1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

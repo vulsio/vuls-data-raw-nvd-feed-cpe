@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:digi:portserver_ts_m_mei:-",
+  "title": [
+    {
+      "text": "Digi PortServer TS M MEI",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/device-servers/portservertsmmei"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:digi:portserver_ts_m_mei:-:*:*:*:*:*:*:*"
+  }
+}

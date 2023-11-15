@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:amd:user_experience_program:1.0.0.1",
+  "title": [
+    {
+      "text": "AMD User Experience Program 1.0.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.amd.com/en/corporate/amd-user-experience"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://heynowyouseeme.blogspot.com/2020/02/another-privilege-escalation-filewrite.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amd:user_experience_program:1.0.0.1:*:*:*:*:*:*:*"
+  }
+}

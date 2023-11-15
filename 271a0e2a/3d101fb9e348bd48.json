@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:cisco:ftd_virtual:-",
+  "title": [
+    {
+      "text": "Cisco FTD Virtual -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp66222"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-firepwr-bypass"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:ftd_virtual:-:*:*:*:*:*:*:*"
+  }
+}

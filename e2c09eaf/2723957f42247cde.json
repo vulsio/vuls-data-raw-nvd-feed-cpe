@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:trendmicro:control_manager:7.0",
+  "deprecated": true,
+  "deprecation_date": "2020-05-28T12:41:11.443Z",
+  "title": [
+    {
+      "text": "Trend Micro Control Manager 7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://success.trendmicro.com/product-support/control-manager-7-0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-28T08:41:11.443-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trendmicro:control_manager:7.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apple:apple_tv:6.2",
+  "deprecated": true,
+  "deprecation_date": "2019-03-08T16:06:30.920Z",
+  "title": [
+    {
+      "text": "Apple TV 6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.apple.com/appletv/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:apple_tv:6.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-08T11:06:30.920-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:tvos:6.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

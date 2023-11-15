@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:cloud_manager:-",
+  "title": [
+    {
+      "text": "NetApp Cloud Manager",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20210716-0007/"
+    },
+    {
+      "text": "Product",
+      "href": "https://cloud.netapp.com/cloud-manager"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:cloud_manager:-:*:*:*:*:*:*:*"
+  }
+}

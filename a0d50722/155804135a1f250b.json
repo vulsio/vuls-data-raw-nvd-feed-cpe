@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:cisco:webex_teams:-::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Cisco Webex Teams for iPhone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190220-webx-ios-file"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvn16403"
+    },
+    {
+      "text": "Project",
+      "href": "https://developer.webex.com/docs/sdks/ios"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:webex_teams:-:*:*:*:*:iphone_os:*:*"
+  }
+}

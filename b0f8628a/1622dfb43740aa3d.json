@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:grandstream:wave:1.0.1.26::~~~android~~",
+  "title": [
+    {
+      "text": "Grandstream Wave 1.0.1.26 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.grandstream.wave"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://rt-solutions.de/wp-content/uploads/2016/04/CVE-2016-1520-app-update-redirection.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.grandstream.com/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.grandstream.com/products/ip-voice-telephony/softphone-app/product/grandstream-wave"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:grandstream:wave:1.0.1.26:*:*:*:*:android:*:*"
+  }
+}

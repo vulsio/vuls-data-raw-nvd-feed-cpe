@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:kpn:experia_wifi:-",
+  "title": [
+    {
+      "text": "KPN Experia WiFi",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://7bits.nl/journal/posts/cve-2021-38703-kpn-experia-wifi-root-shell/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kpnwebshop.com/modems-routers/producten/experia-wifi/2"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.kpn.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:kpn:experia_wifi:-:*:*:*:*:*:*:*"
+  }
+}

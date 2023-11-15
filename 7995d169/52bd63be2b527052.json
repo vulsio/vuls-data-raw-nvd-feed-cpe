@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:consul_template:0.14.0",
+  "title": [
+    {
+      "text": "HashiCorp Consul Template 0.14.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/hashicorp/consul-template/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hsec-2022-16-consul-template-may-expose-vault-secrets-when-processing-invalid-input/43215"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul_template:0.14.0:*:*:*:*:*:*:*"
+  }
+}

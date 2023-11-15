@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:finn:podium_proxy:4.2.64::~~~node.js~~",
+  "title": [
+    {
+      "text": "FINN Podium Proxy 4.2.64 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/podium-lib/proxy/security/advisories/GHSA-3hjg-vc7r-rcrw"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/@podium/layout"
+    },
+    {
+      "text": "Product",
+      "href": "https://podium-lib.io/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.finn.no/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:finn:podium_proxy:4.2.64:*:*:*:*:node.js:*:*"
+  }
+}

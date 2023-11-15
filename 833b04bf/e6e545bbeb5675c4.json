@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:fluxcd:kustomize-controller:0.8.1",
+  "title": [
+    {
+      "text": "Flux kustomize-controller 0.8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://fluxcd.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fluxcd/kustomize-controller/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fluxcd/kustomize-controller/security/advisories/GHSA-35rf-v2jv-gfg7"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fluxcd:kustomize-controller:0.8.1:*:*:*:*:*:*:*"
+  }
+}

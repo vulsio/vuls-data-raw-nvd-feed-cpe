@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rust-lang:cargo:0.72.1::~~~rust~~",
+  "title": [
+    {
+      "text": "Rust-lang Cargo 0.72.1 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rust-lang/cargo/security/advisories/GHSA-j3xp-wfr4-hx87"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rust-lang/cargo/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rust-lang:cargo:0.72.1:*:*:*:*:rust:*:*"
+  }
+}

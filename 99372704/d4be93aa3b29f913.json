@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:intel:local_manageability_service:2113.0.0.0",
+  "title": [
+    {
+      "text": "Intel Local Manageability Service (LMS) 2113.0.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00459.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Flocalmanageabilityservice.htm"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/intel/lms/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:local_manageability_service:2113.0.0.0:*:*:*:*:*:*:*"
+  }
+}

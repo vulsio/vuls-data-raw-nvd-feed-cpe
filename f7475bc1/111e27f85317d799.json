@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:365:-::~~~android~~",
+  "title": [
+    {
+      "text": "Microsoft 365 - for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24910"
+    },
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:365:-:*:*:*:*:android:*:*"
+  }
+}

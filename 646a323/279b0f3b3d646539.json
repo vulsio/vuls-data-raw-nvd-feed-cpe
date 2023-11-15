@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ncurses_project:ncurses:6.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-01T13:12:16.947Z",
+  "title": [
+    {
+      "text": "ncurses Project ncurses 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "ftp://ftp.invisible-island.net/ncurses/6.0/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ncurses_project:ncurses:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-01T08:12:16.947-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnu:ncurses:6.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

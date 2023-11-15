@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:libsdl:simple_directmedia_layer:2.0.22",
+  "title": [
+    {
+      "text": "Libsdl Simple DirectMedia Layer (SDL) 2.0.22",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2022-4743"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libsdl-org/SDL/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libsdl:simple_directmedia_layer:2.0.22:*:*:*:*:*:*:*"
+  }
+}

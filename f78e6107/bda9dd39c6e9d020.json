@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:archain_project:archain:-",
+  "title": [
+    {
+      "text": "ARChain project ARChain",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x05bd0c7fe804f1109c8f265d0faebeec135dfca7#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:archain_project:archain:-:*:*:*:*:*:*:*"
+  }
+}

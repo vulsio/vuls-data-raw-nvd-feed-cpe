@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:algorithmica_project:algorithmica:-::~~~rust~~",
+  "title": [
+    {
+      "text": "Algorithmica Project Algorithmica for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://crates.io/crates/algorithmica"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/AbrarNitk/algorithmica/issues/1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://rustsec.org/advisories/RUSTSEC-2021-0053.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:algorithmica_project:algorithmica:-:*:*:*:*:rust:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:openswan:openswan:2.6.40",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T13:26:45.293Z",
+  "title": [
+    {
+      "text": "Openswan 2.6.40",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.openswan.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://download.openswan.org/openswan/CHANGES"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openswan:openswan:2.6.40:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T09:26:45.293-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:xelerance:openswan:2.6.40:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

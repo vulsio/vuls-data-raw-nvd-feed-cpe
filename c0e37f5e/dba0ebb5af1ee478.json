@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:nuget:0.2::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Nuget 0.2 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/nuget-plugin/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2021-05-25/#SECURITY-2340"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:nuget:0.2:*:*:*:*:jenkins:*:*"
+  }
+}

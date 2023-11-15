@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:blackberry:unified_endpoint_manager:12.9",
+  "deprecated": true,
+  "deprecation_date": "2020-07-15T12:14:57.477Z",
+  "title": [
+    {
+      "text": "BlackBerry Unified Endpoint Manager (UEM) 12.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.blackberry.com/en/endpoint-management/blackberry-uem/12_9/release-notes-and-advisories/tlu1524504682771"
+    },
+    {
+      "text": "Product",
+      "href": "http://help.blackberry.com/en/blackberry-uem/current/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blackberry:unified_endpoint_manager:12.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-15T08:14:57.477-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:blackberry:unified_endpoint_manager:12.9.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

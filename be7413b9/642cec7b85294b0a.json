@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:d-2183it",
+  "deprecated": true,
+  "deprecation_date": "2023-09-26T13:34:56.343Z",
+  "title": [
+    {
+      "text": "Intel XEON D-2183IT",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:d-2183it:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-26T09:34:56.343-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_d-2183it:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

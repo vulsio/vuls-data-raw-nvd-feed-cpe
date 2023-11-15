@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:elfsight:instalinker:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Elfsight InstaLinker for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://rastating.github.io/instalinker-reflected-xss-information-disclosure/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://elfsight.com/?utm_source=markets&utm_medium=wordpress-org&utm_campaign=instagram-widget-lite&utm_content=author-url"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/instalinker/#description"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elfsight:instalinker:-:*:*:*:*:wordpress:*:*"
+  }
+}

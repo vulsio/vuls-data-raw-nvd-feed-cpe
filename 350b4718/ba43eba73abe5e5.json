@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:hp:pa-risc:_nil_:_nil_:32bit",
+  "deprecated": true,
+  "deprecation_date": "2013-02-11T20:14:27.930Z",
+  "title": [
+    {
+      "text": "HP HP-UX PA-RISC x86 (32-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hp:pa-risc:_nil_:_nil_:32bit:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-02-11T15:14:27.930-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hp:pa-risc:-:-:x86:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

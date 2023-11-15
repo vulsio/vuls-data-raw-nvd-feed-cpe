@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:siemens:simatic_wincc:15.1",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T15:28:45.200Z",
+  "title": [
+    {
+      "text": "Siemens SIMATIC WinCC 15.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-270778.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:simatic_wincc:15.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T11:28:45.200-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:siemens:simatic_wincc:15.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

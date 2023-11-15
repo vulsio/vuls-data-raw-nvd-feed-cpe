@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:d-link:dsl-3782:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DSL-3782",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://eu.dlink.com/ba/hr/products/dsl-3782-wireless-ac1200-dual-band-vdsl-adsl-modem-router"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/SECFORCE/CVE-2018-8941"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dsl-3782:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dsl-3782:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

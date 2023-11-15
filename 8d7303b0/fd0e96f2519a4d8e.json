@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nsa:ghidra:10.2.1",
+  "title": [
+    {
+      "text": "National Security Agency (NSA) Ghidra 10.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ghidra-sre.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/NationalSecurityAgency/ghidra/issues/4869"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/NationalSecurityAgency/ghidra/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nsa:ghidra:10.2.1:*:*:*:*:*:*:*"
+  }
+}

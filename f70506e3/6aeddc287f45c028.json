@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:68k:audio_file_library:0.3.6",
+  "deprecated": true,
+  "deprecation_date": "2020-04-13T14:23:13.353Z",
+  "title": [
+    {
+      "text": "68k Audio File Library 0.3.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://audiofile.68k.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:68k:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-13T10:23:13.353-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:audio_file_library_project:audio_file_library:0.3.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

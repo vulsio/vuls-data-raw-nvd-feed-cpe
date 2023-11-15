@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:meinberg:lantime_m100:-",
+  "title": [
+    {
+      "text": "Meinberg LANTIME M100",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.meinberg.de/german/products/ntp-server-erweiterungsmodule.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-175-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:meinberg:lantime_m100:-:*:*:*:*:*:*:*"
+  }
+}

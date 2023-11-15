@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cryptsetup_project:cryptsetup:2.4.2",
+  "title": [
+    {
+      "text": "Cryptsetup Project Cryptsetup 2.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2032401"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.com/cryptsetup/cryptsetup/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cryptsetup_project:cryptsetup:2.4.2:*:*:*:*:*:*:*"
+  }
+}

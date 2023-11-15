@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:beyondco:ignition:2.0.2::~~~laravel~~",
+  "deprecated": true,
+  "deprecation_date": "2021-02-12T15:44:22.597Z",
+  "title": [
+    {
+      "text": "Beyondco Ignition 2.0.2 for Laravel",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/facade/ignition/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:beyondco:ignition:2.0.2:*:*:*:*:laravel:*:*",
+    "deprecation": {
+      "date": "2021-02-12T10:44:22.597-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:facade:ignition:2.0.2:*:*:*:*:laravel:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

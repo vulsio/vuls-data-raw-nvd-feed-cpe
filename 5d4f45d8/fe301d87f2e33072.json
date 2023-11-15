@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:samsung:android_usb_driver:-::~~~windows~~",
+  "title": [
+    {
+      "text": "Samsung Android USB Driver for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://developer.samsung.com/android-usb-driver"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.samsungmobile.com/serviceWeb.smsb#:~:text=SVE%2D2022%2D1099%20(-,CVE%2D2022%2D33711,-)%3A%20Possible%20to%20delete"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samsung:android_usb_driver:-:*:*:*:*:windows:*:*"
+  }
+}

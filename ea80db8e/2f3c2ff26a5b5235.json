@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:perfact:openvpn-client:-",
+  "title": [
+    {
+      "text": "PerFact OpenVPN-client",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/197460"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-056-01"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://perfact.de/en/services/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:perfact:openvpn-client:-:*:*:*:*:*:*:*"
+  }
+}

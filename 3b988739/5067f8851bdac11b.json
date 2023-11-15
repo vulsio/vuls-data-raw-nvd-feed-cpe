@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_management_portal:3.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:31:41.067Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Management Portal 3.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_management_portal:3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:31:41.067-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_management_portal:3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

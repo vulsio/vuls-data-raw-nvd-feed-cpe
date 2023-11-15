@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ssh:tectia_server:6.4.19",
+  "title": [
+    {
+      "text": "SSH Communications Tectia Server 6.4.19",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/198194"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://info.ssh.com/tectia-vulnerability-cve-2021-27891"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ssh:tectia_server:6.4.19:*:*:*:*:*:*:*"
+  }
+}

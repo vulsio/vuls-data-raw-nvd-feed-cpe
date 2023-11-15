@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:discourse:discourse_calendar:-::~~~discourse~~",
+  "title": [
+    {
+      "text": "Discourse Calendar for Discourse",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://meta.discourse.org/t/discourse-calendar/97376"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/discourse/discourse-calendar"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/discourse/discourse-calendar/security/advisories/GHSA-c783-x9vm-xxp5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:discourse:discourse_calendar:-:*:*:*:*:discourse:*:*"
+  }
+}

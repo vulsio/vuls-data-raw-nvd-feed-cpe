@@ -1,0 +1,42 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:12.4.0::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 12.4.0 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/2019/08/22/gitlab-12-2-released/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/gitlabhq/gitlabhq/releases"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab/blob/master/CHANGELOG-EE.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG-EE.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/blog/categories/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:12.4.0:*:*:*:community:*:*:*"
+  }
+}

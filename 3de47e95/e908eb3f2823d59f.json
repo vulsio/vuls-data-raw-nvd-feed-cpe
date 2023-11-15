@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:juniper:junos:11.4",
+  "deprecated": true,
+  "deprecation_date": "2019-04-15T13:19:12.553Z",
+  "title": [
+    {
+      "text": "Juniper JUNOS 11.4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos:11.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-15T09:19:12.553-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junos:11.4:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

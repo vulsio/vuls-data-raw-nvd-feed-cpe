@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:greensock:greensock_animation_platform:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "GreenSock Animation Platform (gsap) for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-GSAP-1054614"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/gsap"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://greensock.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:greensock:greensock_animation_platform:-:*:*:*:*:node.js:*:*"
+  }
+}

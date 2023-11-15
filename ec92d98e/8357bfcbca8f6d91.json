@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:openzeppelin:openzeppelin-contracts-upgradeable:3.4.2:-:~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2022-12-06T19:48:16.747Z",
+  "title": [
+    {
+      "text": "OpenZeppelin Openzeppelin-contracts-upgradeable 3.4.2 - for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/@openzeppelin/contracts-upgradeable"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.openzeppelin.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openzeppelin:openzeppelin-contracts-upgradeable:3.4.2:-:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2022-12-06T14:48:16.747-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openzeppelin:contracts_upgradeable:3.4.2:-:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

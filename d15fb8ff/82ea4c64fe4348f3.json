@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:wireless_lan_controller:3.2.116.21",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:38:43.727Z",
+  "title": [
+    {
+      "text": "Cisco Wireless LAN Controller Software 3.2.116.21",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:wireless_lan_controller:3.2.116.21:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:38:43.727-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:3.2.116.21:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

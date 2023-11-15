@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dlink:dir-859_a1_firmware:1.05",
+  "title": [
+    {
+      "text": "D-Link DIR-859 A1 Firmware 1.05",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://us.dlink.com/en/consumer"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Insight8991/iot/blob/main/dir859%20Command%20Execution%20Vulnerability.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dir-859_a1_firmware:1.05:*:*:*:*:*:*:*"
+  }
+}

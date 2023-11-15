@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apache:mesos:1.6.0",
+  "deprecated": true,
+  "deprecation_date": "2019-07-17T18:00:49.903Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Mesos 1.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://mesos.apache.org/downloads/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:mesos:1.6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-17T14:00:49.903-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:mesos:1.6.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

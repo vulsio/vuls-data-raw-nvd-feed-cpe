@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openldap:openldap:2.4",
+  "title": [
+    {
+      "text": "OpenLDAP 2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security-tracker.debian.org/tracker/CVE-2014-8182"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2014-8182"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.openldap.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openldap:openldap:2.4:*:*:*:*:*:*:*"
+  }
+}

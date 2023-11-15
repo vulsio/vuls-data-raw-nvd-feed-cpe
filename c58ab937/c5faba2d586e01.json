@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sqlite_jdbc_project:sqlite_jdbc:3.8.10.2",
+  "title": [
+    {
+      "text": "SQLite JDBC Project SQLite JDBC 3.8.10.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/xerial/sqlite-jdbc/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/xerial/sqlite-jdbc/security/advisories/GHSA-6phf-6h5g-97j2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sqlite_jdbc_project:sqlite_jdbc:3.8.10.2:*:*:*:*:*:*:*"
+  }
+}

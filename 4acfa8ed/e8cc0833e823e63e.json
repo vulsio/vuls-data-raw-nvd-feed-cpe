@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:sockjs_project:sockjs:0.3.15",
+  "deprecated": true,
+  "deprecation_date": "2020-07-14T14:49:12.977Z",
+  "title": [
+    {
+      "text": "SockJS Project SockJS 0.3.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/sockjs/sockjs-client"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/sockjs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sockjs_project:sockjs:0.3.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-14T10:49:12.977-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sockjs_project:sockjs:0.3.15:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

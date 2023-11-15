@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:sophos:xg_firewall_firmware:18.0:-",
+  "title": [
+    {
+      "text": "Sophos XG Firewall Firmware 18.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://community.sophos.com/b/security-blog/posts/advisory-resolved-rce-via-sqli-cve-2020-15504"
+    },
+    {
+      "text": "Version",
+      "href": "https://community.sophos.com/products/xg-firewall/b/blog/posts/sophos-xg-firewall-v18-is-now-available"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sophos:xg_firewall_firmware:18.0:-:*:*:*:*:*:*"
+  }
+}

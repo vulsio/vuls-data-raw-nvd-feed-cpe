@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2008:-:-:~~datacenter~~x86~",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2008 Datacenter Edition on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%202008"
+    },
+    {
+      "text": "Version",
+      "href": "https://support.microsoft.com/en-us/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:datacenter:*:x86:*"
+  }
+}

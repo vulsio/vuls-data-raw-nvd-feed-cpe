@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tensorflow:tensorflow:2.5.0:rc0",
+  "deprecated": true,
+  "deprecation_date": "2021-08-17T13:22:52.530Z",
+  "title": [
+    {
+      "text": "TensorFlow 2.5.0 Release Candidate 0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/tensorflow/tensorflow"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.tensorflow.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tensorflow:tensorflow:2.5.0:rc0:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-17T09:22:52.530-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:tensorflow:2.5.0:rc0:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

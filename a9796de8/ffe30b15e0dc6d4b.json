@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:apple:mac_os_x:-",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:35:58.303Z",
+  "title": [
+    {
+      "text": "Apple Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:mac_os_x:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:35:58.303-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:mac_os_x:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

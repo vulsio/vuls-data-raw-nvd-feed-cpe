@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:splashtop:splashtop:3.4.8.3::~~business~~~",
+  "title": [
+    {
+      "text": "Splashtop 3.4.8.3 Business Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.splashtop.com/downloads#ba"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.splashtop.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0005/MNDT-2022-0005.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2021-42714"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:splashtop:splashtop:3.4.8.3:*:*:*:business:*:*:*"
+  }
+}

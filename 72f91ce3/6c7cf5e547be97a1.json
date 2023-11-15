@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:tp-link:tl-wr902ac:3.0",
+  "title": [
+    {
+      "text": "TP-Link TL-WR902AC 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tp-link.com/us/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.tp-link.com/us/support/download/tl-wr902ac/v3/#Firmware"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/otsmr/internet-of-vulnerable-things/blob/main/exploits/CVE-2022-48194.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:tp-link:tl-wr902ac:3.0:*:*:*:*:*:*:*"
+  }
+}

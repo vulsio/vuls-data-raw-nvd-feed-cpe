@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:varnish-software:varnich_cache:4.1.1::~~plus~~~",
+  "deprecated": true,
+  "deprecation_date": "2022-08-02T19:42:03.617Z",
+  "title": [
+    {
+      "text": "Varnish-software Varnich Cache 4.1.1 Plus Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.varnish-software.com/security/VSV00008/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:varnish-software:varnich_cache:4.1.1:*:*:*:plus:*:*:*",
+    "deprecation": {
+      "date": "2022-08-02T15:42:03.617-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:varnish-software:varnish_cache:4.1.1:-:*:*:lts:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

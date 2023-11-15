@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows-nt:4.0:sp1:server",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 4.0 sp1 server",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows-nt:4.0:sp1:server:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_nt:4.0:sp1:server:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

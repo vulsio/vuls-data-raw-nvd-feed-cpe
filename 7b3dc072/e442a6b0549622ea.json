@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:linux:kernel:2.6.16.30",
+  "deprecated": true,
+  "deprecation_date": "2012-03-08T20:00:23.667Z",
+  "title": [
+    {
+      "text": "Linux Kernel 2.6.16.30",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:kernel:2.6.16.30:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-03-08T15:00:23.667-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:2.6.16.30:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

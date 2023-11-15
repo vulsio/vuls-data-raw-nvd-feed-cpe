@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:silabs:zgm130s037hgn:-",
+  "title": [
+    {
+      "text": "Silabs ZGM130S037HGN",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.pentestpartners.com/security-blog/z-shave-exploiting-z-wave-downgrade-attacks/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.silabs.com/wireless/z-wave/700-series-modules"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2018/25xxx/CVE-2018-25029.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:silabs:zgm130s037hgn:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:nx-os:11.0%283f%29::~~~nexus_9000_series~~",
+  "deprecated": true,
+  "deprecation_date": "2021-12-03T17:07:32.007Z",
+  "title": [
+    {
+      "text": "Cisco NX-OS 11.0(3F) for Nexus 9000 Series",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:nx-os:11.0\\(3f\\):*:*:*:*:nexus_9000_series:*:*",
+    "deprecation": {
+      "date": "2021-12-03T12:07:32.007-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:nx-os:11.0\\(3f\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

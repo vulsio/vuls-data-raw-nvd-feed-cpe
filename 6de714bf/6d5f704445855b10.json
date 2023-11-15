@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apache:nifi:0.4.1",
+  "deprecated": true,
+  "deprecation_date": "2020-02-19T13:20:39.837Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation NiFi 0.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://cwiki.apache.org/confluence/display/NIFI/Release+Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:nifi:0.4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-19T08:20:39.837-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:nifi:0.4.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

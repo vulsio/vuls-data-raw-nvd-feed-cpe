@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:cloud_foundry:2.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Cloud Foundry 2.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wiki.jenkins.io/display/JENKINS/Cloud+Foundry+Plugin"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/cloudfoundry-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:cloud_foundry:2.0:*:*:*:*:jenkins:*:*"
+  }
+}

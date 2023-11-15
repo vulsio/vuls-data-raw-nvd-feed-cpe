@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:veracrypt:veracrypt:1.14",
+  "deprecated": true,
+  "deprecation_date": "2021-06-28T18:20:27.033Z",
+  "title": [
+    {
+      "text": "VeraCrypt 1.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.veracrypt.fr/en/Home.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://veracrypt.codeplex.com/wikipage?title=Release%20Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:veracrypt:veracrypt:1.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-28T14:20:27.033-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:idrix:veracrypt:1.14:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

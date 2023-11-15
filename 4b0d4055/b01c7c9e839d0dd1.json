@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:commscope:arris_surfboard_sb8200:-",
+  "title": [
+    {
+      "text": "CommScope Arris SURFboard SB8200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/security/research/tra-2021-45"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.surfboard.com/products/cable-modems/sb8200/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.commscope.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:commscope:arris_surfboard_sb8200:-:*:*:*:*:*:*:*"
+  }
+}

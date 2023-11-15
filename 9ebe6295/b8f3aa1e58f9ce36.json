@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:liquidweb:wpcomplete:2.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Liquid Web WPComplete 2.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.liquidweb.com/products/add-ons/software/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wpcomplete/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wpcomplete/wordpress-wpcomplete-plugin-2-9-2-cross-site-scripting-xss?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:liquidweb:wpcomplete:2.6:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:honeywell:hnmswvms:-",
+  "title": [
+    {
+      "text": "Honeywell HNMSWVMS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-021-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.security.honeywell.com/All-Categories/video-systems/maxpro-nvr-and-vms/network-video-recorder"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:honeywell:hnmswvms:-:*:*:*:*:*:*:*"
+  }
+}

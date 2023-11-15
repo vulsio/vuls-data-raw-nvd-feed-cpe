@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift_container_platform:4.6.1",
+  "title": [
+    {
+      "text": "Redhat OpenShift Container Platform 4.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.openshift.com/container-platform/4.6/release_notes/ocp-4-6-release-notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/10xxx/CVE-2020-10743.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift_container_platform:4.6.1:*:*:*:*:*:*:*"
+  }
+}

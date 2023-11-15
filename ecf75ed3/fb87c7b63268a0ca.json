@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:graphql-tools:graphql-tools:2.7.0",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T20:06:08.567Z",
+  "title": [
+    {
+      "text": "GraphQL Tools 2.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/ardatan/graphql-tools"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.graphql-tools.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:graphql-tools:graphql-tools:2.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T15:06:08.567-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:the-guild:graphql-tools:2.7.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

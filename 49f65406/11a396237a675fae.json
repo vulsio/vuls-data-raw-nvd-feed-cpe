@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ewww:image_optimizer:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "EWWW Image Optimizer - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://ewww.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/various-affected-software-various-versions-cross-site-request-forgery-bypass?page=2#jump"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/ewww-image-optimizer/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ewww:image_optimizer:-:*:*:*:*:wordpress:*:*"
+  }
+}

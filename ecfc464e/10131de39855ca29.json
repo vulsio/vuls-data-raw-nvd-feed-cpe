@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:pix_firewall:4.4%288%29",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:37:18.943Z",
+  "title": [
+    {
+      "text": "Cisco PIX Firewall Software 4.4(8)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:pix_firewall:4.4\\(8\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:37:18.943-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:pix_firewall_software:4.4\\(8\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

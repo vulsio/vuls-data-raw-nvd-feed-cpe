@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:assimp:assimp:v4.0.0:-",
+  "deprecated": true,
+  "deprecation_date": "2022-09-09T15:16:30.133Z",
+  "title": [
+    {
+      "text": "Assimp Open Asset Import Library (assimp) V4.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.assimp.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/assimp/assimp/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:assimp:assimp:v4.0.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-09T11:16:30.133-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:assimp:assimp:4.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

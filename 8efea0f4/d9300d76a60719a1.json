@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:redhat:libtirpc:0.2.1",
+  "deprecated": true,
+  "deprecation_date": "2022-09-20T16:00:47.520Z",
+  "title": [
+    {
+      "text": "Red Hat libtirpc 0.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:libtirpc:0.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-20T12:00:47.520-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libtirpc_project:libtirpc:0.2.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

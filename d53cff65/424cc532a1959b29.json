@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:qemu:qemu:4.2.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-02T14:46:14.317Z",
+  "title": [
+    {
+      "text": "QEMU 4.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.qemu.org/2019/12/13/qemu-4-2-0/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:4.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-02T09:46:14.317-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:qemu:qemu:4.2.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

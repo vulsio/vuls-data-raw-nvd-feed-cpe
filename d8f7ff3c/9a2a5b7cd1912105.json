@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:x.org:libx11:-",
+  "title": [
+    {
+      "text": "X.org Libx11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cgit.freedesktop.org/xorg/lib/libX11/commit/?id=8a368d808fec166b5fb3dfe6312aab22c7ee20af"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/3xxx/CVE-2022-3555.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x.org:libx11:-:*:*:*:*:*:*:*"
+  }
+}

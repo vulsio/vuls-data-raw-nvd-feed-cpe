@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:apache:open_for_business_project:-",
+  "deprecated": true,
+  "deprecation_date": "2019-07-17T17:46:41.163Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Open For Business Project (aka OFBiz)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:open_for_business_project:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-17T13:46:41.163-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:ofbiz:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

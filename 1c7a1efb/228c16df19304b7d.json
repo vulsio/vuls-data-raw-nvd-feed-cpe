@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:d2iq:dc%2fos:1.10.2",
+  "title": [
+    {
+      "text": "D2iQ DC/OS 1.10.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://d2iq.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.d2iq.com/s/article/Known-Issue-Container-Runtime-Vulnerability-MSPH-2019-0003"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.d2iq.com/s/topic/0TOf1000000gAzBGAU/dcos?tabset-de8ba=2"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.mesosphere.com/s/article/Known-Issue-Container-Runtime-Vulnerability-MSPH-2019-0003"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d2iq:dc\\/os:1.10.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:siemens:simatic_rtu3031c_firmware:-",
+  "title": [
+    {
+      "text": "Siemens SIMATIC RTU3031C Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.automation.com/en-us/products/product02/siemens-releases-simatic-rtu3031c-remote-terminal"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-756638.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:siemens:simatic_rtu3031c_firmware:-:*:*:*:*:*:*:*"
+  }
+}

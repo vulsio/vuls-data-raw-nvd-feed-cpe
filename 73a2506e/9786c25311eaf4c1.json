@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nodered:node-red:0.20.0:beta.2:~~~node.js~~",
+  "title": [
+    {
+      "text": "Nodered Node-red 0.20.0 Beta.2 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodered.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/681986"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/node-red/node-red/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodered:node-red:0.20.0:beta.2:*:*:*:node.js:*:*"
+  }
+}

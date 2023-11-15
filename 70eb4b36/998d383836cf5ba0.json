@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:enphase:envoy:-",
+  "title": [
+    {
+      "text": "Enphase Envoy",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.acsolarwarehouse.com/wp-content/uploads/2015/09/Envoy_Installation_and_Operation_EN.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/203898"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/stage-2-security/can-solar-controllers-be-used-to-generate-fake-clean-energy-credits-4a7322e7661a"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:enphase:envoy:-:*:*:*:*:*:*:*"
+  }
+}

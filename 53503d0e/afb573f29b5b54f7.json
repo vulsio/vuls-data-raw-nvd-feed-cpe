@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:nxp:i.mx_rt600:b0",
+  "title": [
+    {
+      "text": "NXP i.MX RT600 B0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/i-mx-rt-crossover-mcus:IMX-RT-SERIES"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://oxide.computer/blog/lpc55/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31532.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nxp:i.mx_rt600:b0:*:*:*:*:*:*:*"
+  }
+}

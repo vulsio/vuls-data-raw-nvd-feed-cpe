@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:weblogic_server:12.1.2",
+  "deprecated": true,
+  "deprecation_date": "2018-01-10T16:38:34.393Z",
+  "title": [
+    {
+      "text": "Oracle Weblogic Server 12.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/middleware/weblogic/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:weblogic_server:12.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-10T11:38:34.393-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:weblogic_server:12.1.2.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

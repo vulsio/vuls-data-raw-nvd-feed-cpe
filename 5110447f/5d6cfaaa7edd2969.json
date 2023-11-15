@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp_simple_events_project:wp_simple_events:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wp Simple Events Project Wp Simple Events 1.0 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/plugins/wp-simple-events/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-simple-events/wordpress-wp-simple-events-plugin-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp_simple_events_project:wp_simple_events:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

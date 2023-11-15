@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:biqutoken_project:biqutoken:-",
+  "title": [
+    {
+      "text": "BiquToken Project BiquToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/BiquToken"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:biqutoken_project:biqutoken:-:*:*:*:*:*:*:*"
+  }
+}

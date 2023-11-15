@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:moodle:moodle:2.5",
+  "deprecated": true,
+  "deprecation_date": "2020-12-01T14:52:29.817Z",
+  "title": [
+    {
+      "text": "Moodle 2.5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:moodle:moodle:2.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-01T09:52:29.817-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:moodle:moodle:2.5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

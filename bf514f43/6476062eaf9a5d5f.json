@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:canonical:ubuntu_linux:8.04.2",
+  "deprecated": true,
+  "deprecation_date": "2019-01-24T16:07:05.240Z",
+  "title": [
+    {
+      "text": "Canonical Ubuntu Linux 8.04.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://old-releases.ubuntu.com/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:canonical:ubuntu_linux:8.04.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-01-24T11:07:05.240-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:canonical:ubuntu_linux:8.04.2:*:*:*:lts:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

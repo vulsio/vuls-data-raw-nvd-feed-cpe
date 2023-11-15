@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:google:chrome_os:102.0.4970.0",
+  "deprecated": true,
+  "deprecation_date": "2022-09-21T15:23:58.053Z",
+  "title": [
+    {
+      "text": "Google Chrome OS 102.0.4970.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://chromium.googlesource.com/chromium/src.git/+refs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:google:chrome_os:102.0.4970.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-21T11:23:58.053-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:chrome:102.0.4970.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

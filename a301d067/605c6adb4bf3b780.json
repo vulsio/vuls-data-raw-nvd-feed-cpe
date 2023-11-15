@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:qrg_project:qrg:-",
+  "title": [
+    {
+      "text": "QRG Project QRG",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xffaa5ffc455d9131f8a2713a741fd1960330508b#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qrg_project:qrg:-:*:*:*:*:*:*:*"
+  }
+}

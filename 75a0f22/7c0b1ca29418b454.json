@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:juniper:junos_os_evolved:22.1:r1-s2",
+  "title": [
+    {
+      "text": "Juniper JUNOS OS Evolved 22.1 R1-S2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.juniper.net/documentation/product/us/en/junos-os-evolved/#cat=release_notes&tab=release_22.1&sgroup=junos-os-evolved"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://supportportal.juniper.net/s/article/2022-10-Security-Bulletin-Junos-OS-Evolved-PTX-Series-An-attacker-can-cause-a-kernel-panic-by-sending-a-malformed-TCP-packet-to-the-device-CVE-2022-22192?language=en_US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos_os_evolved:22.1:r1-s2:*:*:*:*:*:*"
+  }
+}

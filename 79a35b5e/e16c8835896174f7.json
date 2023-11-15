@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:valvesoftware:steam_client:2.10.91.91",
+  "title": [
+    {
+      "text": "Valve Software Steam Client 2.10.91.91",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://store.steampowered.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.valvesoftware.com/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://daniels-it-blog.blogspot.com/2020/07/steam-arbitrary-code-execution-part-2.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:valvesoftware:steam_client:2.10.91.91:*:*:*:*:*:*:*"
+  }
+}

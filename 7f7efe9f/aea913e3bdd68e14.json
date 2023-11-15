@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:oracle:mysql:5.0.66",
+  "deprecated": true,
+  "deprecation_date": "2020-01-06T17:58:45.060Z",
+  "title": [
+    {
+      "text": "Oracle MySQL 5.0.66",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mysql.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mysql/mysql-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql:5.0.66:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-06T12:58:45.060-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql:5.0.66:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

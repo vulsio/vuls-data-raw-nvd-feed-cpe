@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:continuous_integration_with_toad_edge:1.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Continuous Integration with Toad Edge 1.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-03-29/#SECURITY-2654"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/ci-with-toad-edge-plugin/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/ci-with-toad-edge/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:continuous_integration_with_toad_edge:1.0:*:*:*:*:jenkins:*:*"
+  }
+}

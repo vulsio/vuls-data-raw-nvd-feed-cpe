@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:business_protection_suite:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-07T18:53:37.023Z",
+  "title": [
+    {
+      "text": "Computer Associates Business Protection Suite",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:business_protection_suite:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-07T14:53:37.023-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:business_protection_suite:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

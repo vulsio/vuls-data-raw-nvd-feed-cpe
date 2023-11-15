@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:lfprojects:apptainer:1.1.3::~~~go~~",
+  "title": [
+    {
+      "text": "LF Projects Apptainer 1.1.3 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://pkg.go.dev/github.com/apptainer/apptainer"
+    },
+    {
+      "text": "Product",
+      "href": "http://apptainer.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apptainer/apptainer/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/apptainer/apptainer/security/advisories/GHSA-j4rf-7357-f4cg"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://lfprojects.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lfprojects:apptainer:1.1.3:*:*:*:*:go:*:*"
+  }
+}

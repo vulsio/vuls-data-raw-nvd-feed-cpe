@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:orckestra:c1_cms:6.10",
+  "title": [
+    {
+      "text": "Orckestra C1 CMS 6.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://c1.orckestra.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.zerodayinitiative.com/advisories/ZDI-21-1304/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Orckestra/C1-CMS-Foundation/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:orckestra:c1_cms:6.10:*:*:*:*:*:*:*"
+  }
+}

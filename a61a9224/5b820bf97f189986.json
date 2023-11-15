@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tibco:jasperreports_server:7.9.1::~~~-~~",
+  "deprecated": true,
+  "deprecation_date": "2023-02-05T22:28:31.720Z",
+  "title": [
+    {
+      "text": "TIBCO JasperReports Server 7.9.1 ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tibco.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.tibco.com/support/advisories/2022/03/tibco-security-advisory-march-15-2022-tibco-jasperreports-library-2022-22771"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tibco:jasperreports_server:7.9.1:*:*:*:*:-:*:*",
+    "deprecation": {
+      "date": "2023-02-05T17:28:31.720-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tibco:jasperreports_server:7.9.1:*:*:*:-:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

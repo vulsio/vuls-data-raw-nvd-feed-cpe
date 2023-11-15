@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:git:git:1.8.3.1",
+  "deprecated": true,
+  "deprecation_date": "2021-01-26T14:09:03.860Z",
+  "title": [
+    {
+      "text": "Git 1.8.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mirrors.edge.kernel.org/pub/software/scm/git/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:git:git:1.8.3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-26T09:09:03.860-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:git-scm:git:1.8.3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

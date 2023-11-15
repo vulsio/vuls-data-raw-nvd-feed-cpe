@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:medtronic:mycarelink_monitor_firmware:24950",
+  "title": [
+    {
+      "text": "Medtronic MyCareLink Monitor Firmware 24950",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.medtronic.com/us-en/patients/treatments-therapies/remote-monitoring/available-monitors/mycarelink-patient.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.medtronic.com/us-en/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:medtronic:mycarelink_monitor_firmware:24950:*:*:*:*:*:*:*"
+  }
+}

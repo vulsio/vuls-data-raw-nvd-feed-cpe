@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:virustotal:yara:4.0.0:rc3",
+  "title": [
+    {
+      "text": "VirusTotal YARA 4.0.0 Release Candidate 3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.virustotal.com/gui/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.x41-dsec.de/lab/advisories/x41-2021-001-yara/"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/VirusTotal/yara"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:virustotal:yara:4.0.0:rc3:*:*:*:*:*:*"
+  }
+}

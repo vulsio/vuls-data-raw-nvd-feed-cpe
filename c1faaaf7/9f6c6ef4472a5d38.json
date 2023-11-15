@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pancurses_project:pancurses:0.4.1",
+  "deprecated": true,
+  "deprecation_date": "2022-03-22T17:58:42.833Z",
+  "title": [
+    {
+      "text": "pancurses Project pancurses 0.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/pancurses/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pancurses_project:pancurses:0.4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-22T13:58:42.833-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pancurses_project:pancurses:0.4.1:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

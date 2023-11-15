@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:integration_camel_quarkus:-",
+  "title": [
+    {
+      "text": "Red Hat Integration Camel Quarkus",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_integration/2021.q2/html/getting_started_with_camel_quarkus_extensions/index"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2021-3536"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:integration_camel_quarkus:-:*:*:*:*:*:*:*"
+  }
+}

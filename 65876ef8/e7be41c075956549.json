@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:debian:advanced_package_tool:1.8.2.2",
+  "title": [
+    {
+      "text": "Debian Advanced Package Tool (APT) 1.8.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wiki.debian.org/Apt"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.debian.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.debian.org/security/2020/dsa-4808"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:advanced_package_tool:1.8.2.2:*:*:*:*:*:*:*"
+  }
+}

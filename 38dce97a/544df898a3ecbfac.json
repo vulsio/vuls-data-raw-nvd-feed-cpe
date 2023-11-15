@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:realseriousgames:confucious:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Real Serious Games Confucious for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-CONFUCIOUS-598665"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.realseriousgames.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/confucious"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:realseriousgames:confucious:-:*:*:*:*:node.js:*:*"
+  }
+}

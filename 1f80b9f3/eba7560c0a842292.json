@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:keepkey:keepkey_firmware:5.1.1",
+  "deprecated": true,
+  "deprecation_date": "2020-01-07T15:41:02.097Z",
+  "title": [
+    {
+      "text": "KeepKey Firmware 5.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/keepkey/keepkey-firmware"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.keepkey.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:keepkey:keepkey_firmware:5.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-07T10:41:02.097-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:shapeshift:keepkey_firmware:5.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

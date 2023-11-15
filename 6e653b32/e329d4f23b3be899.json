@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:sourcecodester:pisay_online_e-learning_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2020-09-03T12:16:21.530Z",
+  "title": [
+    {
+      "text": "Sourcecodester Pisay Online E-Learning System 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sourcecodester.com/php/14192/pisay-online-e-learning-system-using-phpmysql.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/48439"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sourcecodester:pisay_online_e-learning_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-03T08:16:21.530-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pisay_online_e-learning_system_project:pisay_online_e-learning_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

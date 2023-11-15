@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpvnteam:wp_extra:3.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPVNTeam WP Extra 3.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-extra/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wpvnteam.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-extra/wp-extra-62-missing-authorization-to-htaccess-file-modification"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpvnteam:wp_extra:3.6:*:*:*:*:wordpress:*:*"
+  }
+}

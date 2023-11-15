@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:emclient:emclient:6.0.19831.0",
+  "deprecated": true,
+  "deprecation_date": "2020-08-21T17:07:13.107Z",
+  "title": [
+    {
+      "text": "eM Client 6.0.19831.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.emclient.com/release-history"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emclient:emclient:6.0.19831.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-21T13:07:13.107-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:emclient:em_client:6.0.19831.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apache:asterixdb:0.9.4",
+  "title": [
+    {
+      "text": "Apache Software Foundation AsterixDB 0.9.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://asterixdb.apache.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2020/08/08/2"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/asterixdb/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:asterixdb:0.9.4:*:*:*:*:*:*:*"
+  }
+}

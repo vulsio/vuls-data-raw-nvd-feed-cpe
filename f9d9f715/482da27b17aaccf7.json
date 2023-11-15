@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:adobe:reader:8",
+  "deprecated": true,
+  "deprecation_date": "2013-01-10T19:06:01.850Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat Reader 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:reader:8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-01-10T14:06:01.850-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat_reader:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

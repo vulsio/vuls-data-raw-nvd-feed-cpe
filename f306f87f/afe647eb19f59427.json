@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp_calendar_project:wp_calendar:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Calendar Project WP Calendar for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-calendar/wordpress-wp-calendar-plugin-1-5-3-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/wp-calendar/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp_calendar_project:wp_calendar:-:*:*:*:*:wordpress:*:*"
+  }
+}

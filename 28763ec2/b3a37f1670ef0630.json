@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mozilla:thunderbird:78.12",
+  "deprecated": true,
+  "deprecation_date": "2021-08-30T14:01:15.250Z",
+  "title": [
+    {
+      "text": "Mozilla Thunderbird 78.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-30/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mozilla:thunderbird:78.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-30T10:01:15.250-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mozilla:thunderbird:78.12.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

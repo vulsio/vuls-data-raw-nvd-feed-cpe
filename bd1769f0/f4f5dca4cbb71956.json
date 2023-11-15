@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:guardzilla:indoor_hd_camera:-",
+  "title": [
+    {
+      "text": "Guardzilla Indoor HD Camera",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://labs.bitdefender.com/2018/12/iot-report-major-flaws-in-guardzilla-cameras-allow-remote-hijack-of-the-security-device/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.consumerreports.org/home-security-cameras/guardzilla-shuts-down-leaving-security-camera-customers-stranded/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:guardzilla:indoor_hd_camera:-:*:*:*:*:*:*:*"
+  }
+}

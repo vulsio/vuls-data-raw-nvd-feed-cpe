@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:d-link:dcs-1130:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DCS-1130",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.dlink.com/emulators/dcs1130/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dcs-1130:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dcs-1130:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

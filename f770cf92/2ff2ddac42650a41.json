@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:symbiote:seed:6.0.3",
+  "deprecated": true,
+  "deprecation_date": "2023-10-20T14:36:16.180Z",
+  "title": [
+    {
+      "text": "Symbiote Seed 6.0.3 for SilverStripe",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/symbiote/silverstripe-seed"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://symbiote.com.au/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/symbiote/silverstripe-seed/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symbiote:seed:6.0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-20T10:36:16.180-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:symbiote:seed:6.0.3:*:*:*:*:silverstripe:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

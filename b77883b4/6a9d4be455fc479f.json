@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:f5:nginx:-",
+  "title": [
+    {
+      "text": "F5 NGINX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nginx/nginx/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nginx/nginx/commit/14341ce2377d38a268261e0fec65b6915ae6e95e"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f5:nginx:-:*:*:*:*:*:*:*"
+  }
+}

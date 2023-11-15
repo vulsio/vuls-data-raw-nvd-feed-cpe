@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:15.3.5::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 15.3.5 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://about.gitlab.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-3413.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:15.3.5:*:*:*:enterprise:*:*:*"
+  }
+}

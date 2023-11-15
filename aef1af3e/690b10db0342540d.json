@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:printerlogic:web_stack:-",
+  "title": [
+    {
+      "text": "Printerlogic Web Stack",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.yahooinc.com/paranoids/paranoids-vulnerability-research-printerlogic-issues-security-alert/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portswigger.net/daily-swig/printerlogic-vendor-addresses-triple-rce-threat-against-all-connected-endpoints"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://printerlogic.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:printerlogic:web_stack:-:*:*:*:*:*:*:*"
+  }
+}

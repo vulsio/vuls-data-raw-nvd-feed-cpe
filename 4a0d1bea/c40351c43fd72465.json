@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:klocwork_analysis:2.3.4::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Klocwork Analysis 2.3.4 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1831"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/klocwork/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/klocwork-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:klocwork_analysis:2.3.4:*:*:*:*:jenkins:*:*"
+  }
+}

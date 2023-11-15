@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:tenda:ax12_firmware:-",
+  "title": [
+    {
+      "text": "Tenda AX12 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tenda.com.cn/product/AX12.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sec-bin/IoT-CVE/tree/main/Tenda/AX12/2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tenda:ax12_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:sd-wan_firmware:19.1.0",
+  "title": [
+    {
+      "text": "Cisco SD-WAN Firmware 19.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Software_Features/Release_19.1"
+    },
+    {
+      "text": "Version",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200122-sdwan-cmd-inject"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:sd-wan_firmware:19.1.0:*:*:*:*:*:*:*"
+  }
+}

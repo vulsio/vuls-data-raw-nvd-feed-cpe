@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:5.4.66",
+  "title": [
+    {
+      "text": "Linux Kernel 5.4.66",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1211"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/28xxx/CVE-2020-28588.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:5.4.66:*:*:*:*:*:*:*"
+  }
+}

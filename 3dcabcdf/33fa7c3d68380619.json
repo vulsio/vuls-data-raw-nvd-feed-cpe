@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:checkoutplugins:stripe_payments_for_woocommerce:1.2.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "CheckoutPlugins-Stripe Payments For WooCommerce 1.2.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/checkout-plugins-stripe-woo/wordpress-stripe-payments-for-woocommerce-by-checkout-plugins-plugin-1-4-10-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://checkoutplugins.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/checkout-plugins-stripe-woo/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:checkoutplugins:stripe_payments_for_woocommerce:1.2.0:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:d-link:dir-825_rev.b:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-link DIR-825 B",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wiki.dd-wrt.com/wiki/index.php/D-Link_DIR-825"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://us.dlink.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dir-825_rev.b:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dir-825_rev.b:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:shapeshift:keepkey_firmware:7.5.2",
+  "title": [
+    {
+      "text": "ShapeShift KeepKey Firmware 7.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blog.inhq.net/posts/keepkey-CVE-2023-27892/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://shapeshift.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.keepkey.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/keepkey/keepkey-firmware/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:shapeshift:keepkey_firmware:7.5.2:*:*:*:*:*:*:*"
+  }
+}

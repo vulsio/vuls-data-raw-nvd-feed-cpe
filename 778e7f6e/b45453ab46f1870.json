@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:containous:traefik:1.0.0:beta254",
+  "deprecated": true,
+  "deprecation_date": "2021-07-28T15:03:33.960Z",
+  "title": [
+    {
+      "text": "Containous Traefik 1.0.0 Beta 254",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/containous/traefik"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://containo.us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:containous:traefik:1.0.0:beta254:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-28T11:03:33.960-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:traefik:traefik:1.0.0:beta254:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

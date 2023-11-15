@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:d-link:dwr-933:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DWR-933",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.dlink.com/nl/nl"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.amazon.in/D-LINK-DWR-933-Mobile-Hotspot-Unlocked/dp/B06X6DWBD8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dwr-933:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dwr-933:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

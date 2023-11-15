@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bitstore_project:bitstore:-",
+  "title": [
+    {
+      "text": "BitStore Project BitStore",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x37444febd7e3dba3e96f05dc851143ffec8b20b6#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bitstore_project:bitstore:-:*:*:*:*:*:*:*"
+  }
+}

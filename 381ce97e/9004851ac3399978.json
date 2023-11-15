@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:storage_for_public_cloud:2.0",
+  "title": [
+    {
+      "text": "Red Hat Storage For Public Cloud 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_gluster_storage/3/html/administration_guide/red_hat_storage_server_for_public_cloud_architecture"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_gluster_storage/3.1/html/administration_guide/chap-red_hat_storage_architecture_and_concepts"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:storage_for_public_cloud:2.0:*:*:*:*:*:*:*"
+  }
+}

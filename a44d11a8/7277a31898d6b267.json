@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:codeandmore:wp_page_widget:1.9::~~~wordpress~~",
+  "title": [
+    {
+      "text": "CodeAndMore WP Page Widget 1.9 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-page-widget/wordpress-wp-page-widget-plugin-3-9-cross-site-request-forgery-csrf-vulnerability"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.trac.wordpress.org/log/wp-page-widget/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.codeandmore.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:codeandmore:wp_page_widget:1.9:*:*:*:*:wordpress:*:*"
+  }
+}

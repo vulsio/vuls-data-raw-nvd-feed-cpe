@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:netviz_viewer:6.5",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:45:27.317Z",
+  "title": [
+    {
+      "text": "Ca Netviz Viewer 6.5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:netviz_viewer:6.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:45:27.317-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:netviz_viewer:6.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

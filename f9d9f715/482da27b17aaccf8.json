@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:adobe:reader:7",
+  "deprecated": true,
+  "deprecation_date": "2013-01-10T19:06:01.740Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat Reader 7.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:reader:7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-01-10T14:06:01.740-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat_reader:7.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

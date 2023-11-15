@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:clickstudios:passwordstate:-::~~~chrome~~",
+  "title": [
+    {
+      "text": "Click Studios Passwordstate for Chrome",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://chrome.google.com/webstore/detail/passwordstate/appojfilknpkghkebigcdkmopdfcjhim?hl=en"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.modzero.com/static/MZ-22-03_Passwordstate_Security_Disclosure_Report-v1.0.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clickstudios:passwordstate:-:*:*:*:*:chrome:*:*"
+  }
+}

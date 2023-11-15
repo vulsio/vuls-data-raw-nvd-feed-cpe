@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octopus:octopus_deploy:1.6.0.1714",
+  "deprecated": true,
+  "deprecation_date": "2022-07-27T15:14:31.030Z",
+  "title": [
+    {
+      "text": "Octopus Octopus Deploy 1.6.0.1714",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://octopus.com/downloads/previous"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:octopus_deploy:1.6.0.1714:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-27T11:14:31.030-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octopus:octopus_server:1.6.0.1714:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

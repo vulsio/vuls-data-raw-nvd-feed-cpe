@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:d-link:dir-890l_firmware:1.21b02beta01",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-link Dir-890l Firmware 1.21b02beta01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://securityadvisories.dlink.com/announcement/publication.aspx?name=SAP10099"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.dlink.com/list.aspx?type=1&model=D-link%20Dir-890l%20A2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dir-890l_firmware:1.21b02beta01:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dir-890l_firmware:1.21b02beta01:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

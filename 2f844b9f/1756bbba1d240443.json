@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:crossbeam_project:crossbeam:0.6.0",
+  "deprecated": true,
+  "deprecation_date": "2021-08-11T11:47:45.077Z",
+  "title": [
+    {
+      "text": "Crossbeam Project Crossbeam 0.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://crates.io/crates/crossbeam/versions"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/crossbeam-rs/crossbeam/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crossbeam_project:crossbeam:0.6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-11T07:47:45.077-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:crossbeam_project:crossbeam:0.6.0:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

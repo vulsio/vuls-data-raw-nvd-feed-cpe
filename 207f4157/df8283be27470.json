@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openpolicyagent:open_policy_agent:-",
+  "title": [
+    {
+      "text": "Openpolicyagent Open Policy Agent -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/open-policy-agent/opa/security/advisories/GHSA-f524-rf33-2jjr"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/open-policy-agent/opa/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openpolicyagent:open_policy_agent:-:*:*:*:*:*:*:*"
+  }
+}

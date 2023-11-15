@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:huawei:openeuler:20.03:sp1:~~lts~~~",
+  "title": [
+    {
+      "text": "Huawei Openeuler 20.03 Service Pack 1 Lts Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.openeuler.org/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33658.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openeuler.org/zh/security/safety-bulletin/detail.html?id=openEuler-SA-2022-1541"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:huawei:openeuler:20.03:sp1:*:*:lts:*:*:*"
+  }
+}

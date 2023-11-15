@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:kubernetes_credentials_provider:1.201.v11b_14c7a_0772::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Kubernetes Credentials Provider 1.201.v11b 14c7a 0772 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/kubernetes-credentials-provider-plugin/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-3022"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:kubernetes_credentials_provider:1.201.v11b_14c7a_0772:*:*:*:*:jenkins:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:hx240c_m5:-",
+  "title": [
+    {
+      "text": "Cisco HX240C M5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-hyperflex-csrf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/servers-unified-computing/index.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/hyperconverged-infrastructure/hyperflex-hx-series/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:hx240c_m5:-:*:*:*:*:*:*:*"
+  }
+}

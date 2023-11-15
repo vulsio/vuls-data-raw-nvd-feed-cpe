@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tcman:gim:11.0",
+  "title": [
+    {
+      "text": "Tcman GIM 11.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.incibe-cert.es/en/early-warning/security-advisories/tcman-gim-sql-injection-vulnerability"
+    },
+    {
+      "text": "Product",
+      "href": "https://tcman.com/en/gim-v11/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://tcman.com/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tcman:gim:11.0:*:*:*:*:*:*:*"
+  }
+}

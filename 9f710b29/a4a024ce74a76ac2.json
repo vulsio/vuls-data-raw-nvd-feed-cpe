@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:xen:xen:4.4.0:-",
+  "deprecated": true,
+  "deprecation_date": "2016-02-16T16:57:23.047Z",
+  "title": [
+    {
+      "text": "Xen 4.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Xen Security Advisory for  \tCVE-2014-2915",
+      "href": "http://xenbits.xen.org/xsa/advisory-93.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:xen:xen:4.4.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-02-16T11:57:23.047-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:xen:xen:4.4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

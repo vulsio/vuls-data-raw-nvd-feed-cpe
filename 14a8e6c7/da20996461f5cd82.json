@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:logitech:k400r_firmware:-",
+  "title": [
+    {
+      "text": "Logitech K400r Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.logitech.com/en-us"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.logitech.com/en-us/product/wireless-touch-keyboard-k400r"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BastilleResearch/mousejack/blob/master/doc/advisories/bastille-2.logitech.public.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:logitech:k400r_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:dovecot:dovecot:2.1.0",
+  "deprecated": true,
+  "deprecation_date": "2020-08-17T14:13:26.227Z",
+  "title": [
+    {
+      "text": "Dovecot 2.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dovecot:dovecot:2.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-17T10:13:26.227-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dovecot:dovecot:2.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

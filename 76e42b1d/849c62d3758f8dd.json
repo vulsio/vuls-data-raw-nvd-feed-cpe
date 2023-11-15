@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:mongodb:1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins MongoDB 1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/mongodb/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/mongodb-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:mongodb:1.1:*:*:*:*:jenkins:*:*"
+  }
+}

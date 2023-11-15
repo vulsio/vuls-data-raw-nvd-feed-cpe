@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:secure_content_manager:1.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:52:43.980Z",
+  "title": [
+    {
+      "text": "Computer Associates Secure Content Manager 1.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:secure_content_manager:1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:52:43.980-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:secure_content_manager:1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

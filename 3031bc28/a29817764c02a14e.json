@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:vmware:vsphere_esxi:6.0:b",
+  "deprecated": true,
+  "deprecation_date": "2019-11-22T17:57:29.763Z",
+  "title": [
+    {
+      "text": "VMWare vSphere ESXi 6.0 B",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.5/rn/vsphere-esxi-65u3-release-notes.html#earlierreleases"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.0/rn/esxi600-201909001.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-67u3-release-notes.html#earlierreleases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:vsphere_esxi:6.0:b:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-22T12:57:29.763-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:vsphere_esxi:6.0:beta:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

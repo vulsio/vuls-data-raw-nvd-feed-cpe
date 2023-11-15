@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:bosch:divar_ip_7000_firmware:-",
+  "title": [
+    {
+      "text": "Bosch DIVAR IP 7000 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://psirt.bosch.com/security-advisories/BOSCH-SA-885551-BT.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://resource.boschsecurity.com/documents/DS_DIP_7000_2U_R2_Data_sheet_enUS_22822718603.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:bosch:divar_ip_7000_firmware:-:*:*:*:*:*:*:*"
+  }
+}

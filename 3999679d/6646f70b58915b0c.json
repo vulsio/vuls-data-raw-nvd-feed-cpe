@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:performance:3.20::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Performance 3.20 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2021-11-12/#SECURITY-2394"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/performance/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:performance:3.20:*:*:*:*:jenkins:*:*"
+  }
+}

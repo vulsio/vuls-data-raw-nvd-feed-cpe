@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:passport-saml_project:passport-saml:v3.2.3::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2023-03-03T18:48:06.030Z",
+  "title": [
+    {
+      "text": "Passport-SAML Project Passport-SAML V3.2.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/node-saml/passport-saml/releases"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/node-saml/passport-saml"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/passport-saml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:passport-saml_project:passport-saml:v3.2.3:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2023-03-03T13:48:06.030-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:passport-saml_project:passport-saml:3.2.3:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

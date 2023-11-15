@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:request_project:request:2.67.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Request Project Request 2.67.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nodesecurity.io/advisories/309"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/request"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/request/request/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:request_project:request:2.67.0:*:*:*:*:node.js:*:*"
+  }
+}

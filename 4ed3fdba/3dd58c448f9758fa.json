@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apache:wicket:6.0.0-beta1",
+  "deprecated": true,
+  "deprecation_date": "2020-03-24T15:17:11.097Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Wicket 6.0.0-beta 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/wicket/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:wicket:6.0.0-beta1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-24T11:17:11.097-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:wicket:6.0.0:beta1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

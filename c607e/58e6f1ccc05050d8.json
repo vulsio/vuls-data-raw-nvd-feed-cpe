@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:adobe:flash_player:8",
+  "deprecated": true,
+  "deprecation_date": "2013-01-16T19:26:44.047Z",
+  "title": [
+    {
+      "text": "アドビシステムズ フラッシュプレーヤー 8.0",
+      "lang": "ja-JP"
+    },
+    {
+      "text": "Adobe Flash Player 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:flash_player:8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-01-16T14:26:44.047-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:flash_player:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

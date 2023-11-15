@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:ring:ring:-",
+  "title": [
+    {
+      "text": "Ring",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.pentestpartners.com/security-blog/steal-your-wi-fi-key-from-your-doorbell-iot-wtf/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://fortiguard.com/zeroday/FG-VD-15-021"
+    },
+    {
+      "text": "Product",
+      "href": "https://ring.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:ring:ring:-:*:*:*:*:*:*:*"
+  }
+}

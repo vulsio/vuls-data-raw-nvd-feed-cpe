@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ez:ez_publish:4.2",
+  "deprecated": true,
+  "deprecation_date": "2019-07-30T15:51:46.207Z",
+  "title": [
+    {
+      "text": "eZ Publish 4.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ez:ez_publish:4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-30T11:51:46.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ez:ez_publish:4.2.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

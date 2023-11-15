@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:se:proface_gp-pro_ex_pfxexedls:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:42:54.627Z",
+  "title": [
+    {
+      "text": "Schneider Electric PROFACE GP-PRO EX PFXEXEDLS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-16-096-01"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.proface.com/en/topic/2018/0928"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.proface.com/en/product/soft/gpproex/top"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.se.com/us/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:42:54.627-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:proface_gp-pro_ex_pfxexedls:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

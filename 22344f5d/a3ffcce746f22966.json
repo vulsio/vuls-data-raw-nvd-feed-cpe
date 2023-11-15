@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_nsm_wireless_network_management_option:3.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:38:34.547Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter NSM Wireless Network Management Option 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:38:34.547-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_nsm_wireless_network_management_option:3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

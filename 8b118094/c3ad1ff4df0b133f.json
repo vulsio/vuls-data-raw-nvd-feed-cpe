@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:ansible_engine:2.5",
+  "title": [
+    {
+      "text": "Red Hat Ansible Engine 2.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/articles/3382771"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.ansible.com/ansible/latest/reference_appendices/release_and_maintenance.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/support/policy/updates/ansible-engine"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:ansible_engine:2.5:*:*:*:*:*:*:*"
+  }
+}

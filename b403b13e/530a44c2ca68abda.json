@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:intel:xeon_processor_d-1571:-",
+  "deprecated": true,
+  "deprecation_date": "2021-06-21T14:58:31.467Z",
+  "title": [
+    {
+      "text": "Intel Xeon Processor D-1571 -",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_processor_d-1571:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-21T10:58:31.467-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_d-1571:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

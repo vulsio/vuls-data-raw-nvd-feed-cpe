@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:couchbase:server:5.1.1",
+  "deprecated": true,
+  "deprecation_date": "2019-09-11T17:33:14.687Z",
+  "title": [
+    {
+      "text": "Couchbase Server 5.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.couchbase.com/server/5.1/release-notes/relnotes.html#release-511"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.couchbase.com/resources/security#SecurityAlerts"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:couchbase:server:5.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-11T13:33:14.687-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:couchbase:couchbase_server:5.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

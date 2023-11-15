@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:valvesoftware:counter-strike:8684",
+  "title": [
+    {
+      "text": "Valve Software Counter-Strike 8684",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.valvesoftware.com/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-38312"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/MikeIsAStar/Counter-Strike-Arbitrary-File-Read"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:valvesoftware:counter-strike:8684:*:*:*:*:*:*:*"
+  }
+}

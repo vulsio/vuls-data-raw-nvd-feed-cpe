@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_vista:-:sp1:x64-home_premium",
+  "deprecated": true,
+  "deprecation_date": "2019-04-30T12:34:27.650Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Vista Service Pack 1 x64 (64-bit) Home Premium Edition",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64-home_premium:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-30T08:34:27.650-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:home_premium:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

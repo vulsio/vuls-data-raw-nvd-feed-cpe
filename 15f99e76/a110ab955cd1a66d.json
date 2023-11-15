@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows:vista",
+  "deprecated": true,
+  "deprecation_date": "2009-04-03T18:29:33.170Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Vista",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows:vista:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-04-03T14:29:33.170-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_vista:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

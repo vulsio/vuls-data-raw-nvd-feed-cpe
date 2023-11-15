@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:fujielectric:frenic_loader:-",
+  "title": [
+    {
+      "text": "Fuji Electric FRENIC Loader",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://felib.fujielectric.co.jp/download/search2.htm?dosearch=1&siteswitch=1&product1_id=P10008&product2_id=&product3_id=&series_id=&documentGroup=&material1_id=&material2_id=&stopproduct=&site=america&lang=en"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-213-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:fujielectric:frenic_loader:-:*:*:*:*:*:*:*"
+  }
+}

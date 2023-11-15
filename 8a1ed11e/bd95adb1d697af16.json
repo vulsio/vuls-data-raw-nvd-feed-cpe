@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:gatsbyjs:gatsby:3.0.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Gatsbyjs Gatsby 3.0.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/gatsbyjs/gatsby"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/gatsby-plugin-mdx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-GATSBYPLUGINMDX-2405699"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.gatsbyjs.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gatsbyjs:gatsby:3.0.0:*:*:*:*:node.js:*:*"
+  }
+}

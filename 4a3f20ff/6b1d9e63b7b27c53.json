@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:unified-automation:.net_based_opc_ua_client%2fserver_sdk:3.0.7",
+  "title": [
+    {
+      "text": "Unified Automation .NET based OPC UA Client/Server SDK 3.0.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/27xxx/CVE-2021-27434.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.unified-automation.com/downloads/opc-ua-development.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.unified-automation.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-133-04"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:unified-automation:.net_based_opc_ua_client\\/server_sdk:3.0.7:*:*:*:*:*:*:*"
+  }
+}

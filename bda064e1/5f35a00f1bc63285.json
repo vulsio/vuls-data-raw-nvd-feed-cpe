@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:neural_network_intelligence:0.8",
+  "title": [
+    {
+      "text": "Microsoft Neural Network Intelligence (NNI) 0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-31200"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/microsoft/nni/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:neural_network_intelligence:0.8:*:*:*:*:*:*:*"
+  }
+}

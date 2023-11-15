@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mgt-commerce:cloudpanel:2.2.0",
+  "title": [
+    {
+      "text": "MGT-COMMERCE CloudPanel 2.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mgt-commerce.com/cms/mgt-cloudpanel"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/0xxx/CVE-2023-0391.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.rapid7.com/blog/post/2023/03/21/cve-2023-0391-mgt-commerce-cloudpanel-shared-certificate-vulnerability-and-weak-installation-procedures/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mgt-commerce:cloudpanel:2.2.0:*:*:*:*:*:*:*"
+  }
+}

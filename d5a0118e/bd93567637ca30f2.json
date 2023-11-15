@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:esri:portal_for_arcgis:10.8.1::~~~~x64~",
+  "title": [
+    {
+      "text": "Esri Portal For Arcgis 10.8.1 on x64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://enterprise.arcgis.com/en/portal/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.esri.com/arcgis-blog/products/product/uncategorized/portal-for-arcgis-quick-capture-security-patch-is-now-available/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/38xxx/CVE-2022-38201.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:esri:portal_for_arcgis:10.8.1:*:*:*:*:*:x64:*"
+  }
+}

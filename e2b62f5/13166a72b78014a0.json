@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:health:covidsafe:-::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Health COVIDSafe for iPhone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/alwentiu/COVIDSafe-CVE-2020-12856/blob/master/README.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/au/app/covidsafe/id1509242894"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:health:covidsafe:-:*:*:*:*:iphone_os:*:*"
+  }
+}

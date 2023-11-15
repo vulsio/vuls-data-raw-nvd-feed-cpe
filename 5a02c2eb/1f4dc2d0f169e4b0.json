@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:ami:megarac_sp-x:12",
+  "deprecated": true,
+  "deprecation_date": "2023-03-06T15:02:48.433Z",
+  "title": [
+    {
+      "text": "Ami MegaRAC SP-X 12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cve.report/CVE-2022-2827"
+    },
+    {
+      "text": "Product",
+      "href": "https://9443417.fs1.hubspotusercontent-na1.net/hubfs/9443417/Data_Sheets/Firmware_Solutions/MegaRAC_SP-X_Data_Sheet_PUB.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ami.com/megarac/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ami:megarac_sp-x:12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-06T10:02:48.433-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:ami:megarac_sp-x:12:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

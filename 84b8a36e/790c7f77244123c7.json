@@ -1,0 +1,38 @@
+{
+  "name": "cpe:/o:ixsystems:freenas_firmware:11.2:-",
+  "title": [
+    {
+      "text": "iXsystems FreeNAS Firmware 11.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ixsystems.com/blog/freenas-truenas-unification/?__hstc=54333623.cea6869a82cf2f2bbfc39c1b7cb8b7d9.1620924331415.1620924331415.1620924331415.1&__hssc=54333623.1.1620924331416&__hsfp=3886102949"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.truenas.com/docs/releasenotes/core/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jira.ixsystems.com/browse/NAS-104748"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ixsystems.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/freenas/freenas/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.ixsystems.com/cves/2020-04-08-cve-2020-11650/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ixsystems:freenas_firmware:11.2:-:*:*:*:*:*:*"
+  }
+}

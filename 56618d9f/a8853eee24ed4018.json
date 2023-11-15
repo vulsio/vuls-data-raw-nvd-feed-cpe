@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:height8tech:h8_ssrms:-",
+  "title": [
+    {
+      "text": "Height8tech H8 SSRMS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3380.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/49508"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.height8tech.com/carrier-grade-OSS-BSS.php"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:height8tech:h8_ssrms:-:*:*:*:*:*:*:*"
+  }
+}

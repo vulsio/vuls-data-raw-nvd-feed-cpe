@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gogs:gogs:0.11.82.1218",
+  "title": [
+    {
+      "text": "Gogs 0.11.82.1218",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-20303?tab=REFERENCES"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/gogs/gogs/commit/ff93d9dbda5cebe90d86e4b7dfb2c6b8642970ce"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gogs:gogs:0.11.82.1218:*:*:*:*:*:*:*"
+  }
+}

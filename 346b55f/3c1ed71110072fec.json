@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:enviragallery:photo_gallery:1.7.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-23T14:22:22.147Z",
+  "title": [
+    {
+      "text": "Envira Gallery Photo Gallery 1.7.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/LionSher-Technologies/envira-gallery-lite/blob/master/changelog.txt"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://enviragallery.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/envira-gallery-lite/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:enviragallery:photo_gallery:1.7.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-23T10:22:22.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:enviragallery:envira_gallery:1.7.0:*:*:*:lite:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

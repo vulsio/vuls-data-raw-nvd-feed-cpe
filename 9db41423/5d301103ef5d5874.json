@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:hyperledger:fabric:1.4.0",
+  "deprecated": true,
+  "deprecation_date": "2022-07-13T14:46:27.713Z",
+  "title": [
+    {
+      "text": "Hyperledger Fabric 1.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jira.hyperledger.org/browse/FAB-18529"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.hyperledger.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hyperledger/fabric/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hyperledger:fabric:1.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-13T10:46:27.713-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hyperledger:fabric:1.4.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

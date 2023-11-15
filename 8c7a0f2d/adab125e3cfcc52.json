@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:windriver:vxworks:7",
+  "deprecated": true,
+  "deprecation_date": "2021-09-07T14:41:02.590Z",
+  "title": [
+    {
+      "text": "Wind River VxWorks 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.windriver.com/products/vxworks/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support2.windriver.com/index.php?page=cve&on=view&id=CVE-2019-12264"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:windriver:vxworks:7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-07T10:41:02.590-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:windriver:vxworks:7.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

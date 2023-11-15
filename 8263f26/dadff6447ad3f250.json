@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:jasig:phpcas:0.2",
+  "deprecated": true,
+  "deprecation_date": "2019-12-30T12:58:27.140Z",
+  "title": [
+    {
+      "text": "jasig phpCAS 0.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jasig:phpcas:0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-30T07:58:27.140-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apereo:phpcas:0.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

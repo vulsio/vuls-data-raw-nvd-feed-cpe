@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tammersoft:shared_files:1.6.57::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Tammersoft Shared Files 1.6.57 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/d72275bd-0c66-4b2a-940d-d5256b5426cc"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.tammersoft.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/shared-files/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tammersoft:shared_files:1.6.57:*:*:*:*:wordpress:*:*"
+  }
+}

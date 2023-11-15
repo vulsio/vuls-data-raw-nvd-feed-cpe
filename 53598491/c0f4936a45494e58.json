@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:juniper:junos_evolved:21.1:r1",
+  "deprecated": true,
+  "deprecation_date": "2021-10-25T15:20:05.260Z",
+  "title": [
+    {
+      "text": "Juniper JUNOS Evolved 21.1 R1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.juniper.net/documentation/product/us/en/junos-os-evolved#cat=release_notes"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.juniper.net/documentation/us/en/software/junos/release-notes/21.1/junos-evo-release-notes-21.1r1/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos_evolved:21.1:r1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-10-25T11:20:05.260-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junos_os_evolved:21.1:r1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pfsense:pfsense:2.2.1",
+  "deprecated": true,
+  "deprecation_date": "2019-05-30T14:57:55.210Z",
+  "title": [
+    {
+      "text": "pfSense 2.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.pfsense.org/security/advisories/pfSense-SA-15_02.igmp.asc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pfsense:pfsense:2.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-30T10:57:55.210-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:netgate:pfsense:2.2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

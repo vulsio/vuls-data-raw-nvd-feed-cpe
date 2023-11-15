@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:debian:dpkg:1.4.1.6",
+  "title": [
+    {
+      "text": "Debian dpkg 1.4.1.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://git.dpkg.org/cgit/dpkg/dpkg.git/refs/tags"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://metadata.ftp-master.debian.org/changelogs/main/d/dpkg/stable_changelog"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wiki.debian.org/dpkg"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:dpkg:1.4.1.6:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:photoboxone:smtp_mail:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Photoboxone SMTP Mail - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/smtp-mail/smtp-mail-1216-unauthenticated-stored-cross-site-scripting-via-email-subject"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://photoboxone.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/smtp-mail/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:photoboxone:smtp_mail:-:*:*:*:*:wordpress:*:*"
+  }
+}

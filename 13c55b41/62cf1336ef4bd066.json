@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:couchbase:server:-",
+  "deprecated": true,
+  "deprecation_date": "2019-09-11T17:33:05.137Z",
+  "title": [
+    {
+      "text": "Couchbase Server",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.couchbase.com/products/server"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:couchbase:server:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-11T13:33:05.137-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:couchbase:couchbase_server:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

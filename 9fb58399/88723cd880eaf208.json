@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:files_access_control:1.14.1",
+  "title": [
+    {
+      "text": "Nextcloud Files Access Control 1.14.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-4m73-g7v7-v62w"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/files_accesscontrol/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:files_access_control:1.14.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gin-gonic:gin:1.7.2",
+  "title": [
+    {
+      "text": "Gin-gonic Gin 1.7.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-GOLANG-GITHUBCOMGINGONICGIN-3324285"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/gin-gonic/gin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gin-gonic:gin:1.7.2:*:*:*:*:*:*:*"
+  }
+}

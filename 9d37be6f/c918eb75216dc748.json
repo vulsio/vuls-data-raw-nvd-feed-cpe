@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cardfactory_project:cardfactory:-",
+  "title": [
+    {
+      "text": "CardFactory Project CardFactory",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x37aab22019448859fc255e6e353a1baf2c05e6bb#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cardfactory_project:cardfactory:-:*:*:*:*:*:*:*"
+  }
+}

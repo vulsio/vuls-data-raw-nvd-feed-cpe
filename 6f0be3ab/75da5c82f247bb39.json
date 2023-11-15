@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:openshift:3.8::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Red Hat OpenShift Enterprise 3.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.redhat.com/en"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.openshift.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/errata/RHSA-2018:1229"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift:3.8:*:*:*:enterprise:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:atlassian:hipchat:2.2.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Atlassian HipChat 2.2.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wiki.jenkins.io/display/JENKINS/HipChat+Plugin"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/hipchat-plugin/tags?after=hipchat-0.1.8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:hipchat:2.2.1:*:*:*:*:jenkins:*:*"
+  }
+}

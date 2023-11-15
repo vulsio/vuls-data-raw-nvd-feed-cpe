@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:osscardtoken_project:osscardtoken:-",
+  "title": [
+    {
+      "text": "OSSCardToken Project OSSCardToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xb7321c1dae3931abf91f8f5d68e3aaa42f526acb#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:osscardtoken_project:osscardtoken:-:*:*:*:*:*:*:*"
+  }
+}

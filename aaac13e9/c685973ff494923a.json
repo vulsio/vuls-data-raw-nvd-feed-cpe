@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:isof_project:isof:0.0.4::~~~node.js~~",
+  "title": [
+    {
+      "text": "Isof Project Isof 0.0.4 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-LSOF-543632"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/lsof"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:isof_project:isof:0.0.4:*:*:*:*:node.js:*:*"
+  }
+}

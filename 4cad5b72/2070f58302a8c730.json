@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:apple:apple_tv:11.2",
+  "deprecated": true,
+  "deprecation_date": "2023-02-06T22:22:10.907Z",
+  "title": [
+    {
+      "text": "Apple tvOS 11.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.apple.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.apple.com/en-us/HT208327"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:apple:apple_tv:11.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-02-06T17:22:10.907-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:tvos:11.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

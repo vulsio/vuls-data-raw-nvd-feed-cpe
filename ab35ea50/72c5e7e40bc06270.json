@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:abb:my_control_system:5.13::~~on-premise~~~",
+  "title": [
+    {
+      "text": "ABB My Control System 5.13 On-premise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://stack.watch/product/abb/my-control-system/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://library.e.abb.com/public/20ca171dde754ed4b731d39aea90e7cf/7PAA007893_A_en_SECURITY%20-%20My%20Control%20System%20(on-premise)%20-%20Information%20Disclosure%20vulnerability.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/control-systems/service/offerings/my-control-system"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://search.abb.com/library/Download.aspx?DocumentID=7PAA007893&LanguageCode=en&DocumentPartId=&Action=Launch"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:abb:my_control_system:5.13:*:*:*:on-premise:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:w3eden:pricing_table:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "W3 Eden Pricing Table for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/pricing-table/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/pricing-table/wordpress-pricing-table-plugin-1-5-2-authenticated-stored-cross-site-scripting-xss-vulnerability"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://w3eden.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:w3eden:pricing_table:-:*:*:*:*:wordpress:*:*"
+  }
+}

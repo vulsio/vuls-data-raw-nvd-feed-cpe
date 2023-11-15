@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:powerdns:recursor:4.8.0:rc1",
+  "title": [
+    {
+      "text": "PowerDNS Recursor 4.8.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/PowerDNS/pdns"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://doc.powerdns.com/recursor/changelog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://docs.powerdns.com/recursor/security-advisories/powerdns-advisory-2023-02.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:powerdns:recursor:4.8.0:rc1:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:testes-codigo:testes_de_codigo:-::~~~android~~",
+  "title": [
+    {
+      "text": "Testes-codigo Testes De Codigo for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=tdc.testesdecodigo"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vrls.ws/posts/2021/02/cve-2021-25648-mobile-application-testes-de-codigo-privilege-escalation/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:testes-codigo:testes_de_codigo:-:*:*:*:*:android:*:*"
+  }
+}

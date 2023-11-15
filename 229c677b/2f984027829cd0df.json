@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpstream:wpstream:2.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WpStream 2.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wpstream.net/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wpstream/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wpstream/wordpress-wpstream-live-streaming-video-on-demand-pay-per-view-plugin-4-5-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpstream:wpstream:2.5:*:*:*:*:wordpress:*:*"
+  }
+}

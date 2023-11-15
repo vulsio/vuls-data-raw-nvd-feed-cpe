@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pgm_coin_project:pgm_coin:-",
+  "title": [
+    {
+      "text": "PGM Coin Project PGM Coin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x9B0E5F3278f3AD8C671795102D1FDEc336682F04#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pgm_coin_project:pgm_coin:-:*:*:*:*:*:*:*"
+  }
+}

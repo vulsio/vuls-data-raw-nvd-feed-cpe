@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ibm:tivoli_workload_scheduler:9.5.0",
+  "deprecated": true,
+  "deprecation_date": "2021-06-07T18:20:08.623Z",
+  "title": [
+    {
+      "text": "IBM Tivoli Workload Scheduler 9.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.ibm.com/support/knowledgecenter/en/SSRULV_9.5.0/com.ibm.tivoli.itws.doc_9.5/twa_landing.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:tivoli_workload_scheduler:9.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-07T14:20:08.623-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:tivoli_workload_scheduler:9.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

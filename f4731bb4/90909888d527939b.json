@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:terraform:1.1.2::~~~-~~",
+  "title": [
+    {
+      "text": "Hashicorp Terraform 1.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/terraform/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2023-27-terraform-allows-arbitrary-file-write-during-init-operation/58082"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:terraform:1.1.2:*:*:*:*:-:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:omron:cx-flnet:1.00",
+  "title": [
+    {
+      "text": "Omron CX-FLnet 1.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-18-100-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://industrial.omron.us/en/products/cx-one#downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:omron:cx-flnet:1.00:*:*:*:*:*:*:*"
+  }
+}

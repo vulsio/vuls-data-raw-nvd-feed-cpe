@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:mikrotik:routeros:5.15",
+  "deprecated": true,
+  "deprecation_date": "2019-09-17T12:43:17.857Z",
+  "title": [
+    {
+      "text": "MikroTik RouterOS 5.15",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mikrotik:routeros:5.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-17T08:43:17.857-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mikrotik:routeros:5.15:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

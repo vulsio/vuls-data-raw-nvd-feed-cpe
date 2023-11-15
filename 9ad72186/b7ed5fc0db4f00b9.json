@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:pressified:sendpress:1.20.8.21::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Pressified SendPress 1.20.8.21 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.pressified.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.com/plugins/sendpress"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/sendpress/wordpress-sendpress-newsletters-plugin-1-22-3-31-cross-site-request-forgery-csrf?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.sendpress.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pressified:sendpress:1.20.8.21:*:*:*:*:wordpress:*:*"
+  }
+}

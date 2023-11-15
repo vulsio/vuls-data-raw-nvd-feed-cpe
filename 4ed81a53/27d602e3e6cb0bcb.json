@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:matrix:sydent:2.4.4",
+  "title": [
+    {
+      "text": "Matrix Sydent 2.4.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/matrix-org/sydent/security/advisories/GHSA-p6hw-wm59-3g5g"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/matrix-org/sydent/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matrix:sydent:2.4.4:*:*:*:*:*:*:*"
+  }
+}

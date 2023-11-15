@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:tizen:tizen:2.1",
+  "deprecated": true,
+  "deprecation_date": "2020-02-07T16:02:51.327Z",
+  "title": [
+    {
+      "text": "Tizen 2.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tizen:tizen:2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-07T11:02:51.327-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:tizen:2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_11_21h2:10.0.22621.1555::~~~~x64~",
+  "deprecated": true,
+  "deprecation_date": "2023-10-12T19:07:41.190Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 11 21h2 10.0.22621.1555 on X64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22621.1555:*:*:*:*:*:x64:*",
+    "deprecation": {
+      "date": "2023-10-12T15:07:41.190-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.1555:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

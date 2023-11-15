@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:cisco:wireless_lan_controller:8.8.130.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-16T15:01:13.527Z",
+  "title": [
+    {
+      "text": "Cisco Wireless LAN Controller (WLC) Software 8.8.130.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/wireless/wireless-lan-controller/index.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/td/docs/wireless/controller/release/notes/crn88mr3.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:wireless_lan_controller:8.8.130.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-16T11:01:13.527-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:8.8.130.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

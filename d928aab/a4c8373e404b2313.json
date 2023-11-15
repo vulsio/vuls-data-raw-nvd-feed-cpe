@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:calendar:4.4.2",
+  "title": [
+    {
+      "text": "Nextcloud Calendar 4.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-r936-8gwm-w452"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/calendar/blob/main/CHANGELOG.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:calendar:4.4.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:avast:retdec:3.2",
+  "title": [
+    {
+      "text": "Avast RetDec (Retargetable Decompiler) 3.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.avast.com/en-us/index#pc"
+    },
+    {
+      "text": "Product",
+      "href": "https://retdec.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/avast/retdec/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:avast:retdec:3.2:*:*:*:*:*:*:*"
+  }
+}

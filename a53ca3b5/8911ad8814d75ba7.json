@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:amd:epyc_7773x_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-06-28T14:11:12.997Z",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) EPYC 7773X Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.amd.com/en/processors/epyc-7003-series"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:amd:epyc_7773x_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-28T10:11:12.997-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:amd:epyc_7773x_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

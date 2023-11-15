@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:weather_station_project:weather_station:2.7.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Weather Station Project Weather Station 2.7.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/live-weather-station/wordpress-weather-station-plugin-3-8-11-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://weather.station.software/handbook/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:weather_station_project:weather_station:2.7.2:*:*:*:*:wordpress:*:*"
+  }
+}

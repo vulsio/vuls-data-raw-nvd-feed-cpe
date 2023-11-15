@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:denyall:web_application_firewall:6.4.0",
+  "title": [
+    {
+      "text": "DenyAll Web Application Firewall 6.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.denyall.com"
+    },
+    {
+      "text": "Product",
+      "href": "https://aws.amazon.com/marketplace/pp/B0176XF11G?sr=0-5#"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.denyall.com/blog/advisories/advisory-unauthenticated-remote-code-execution-denyall-web-application-firewall/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:denyall:web_application_firewall:6.4.0:*:*:*:*:*:*:*"
+  }
+}

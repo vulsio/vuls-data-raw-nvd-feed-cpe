@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wp-livechat:wp_live_chat_support:3.06::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-26T18:55:44.427Z",
+  "title": [
+    {
+      "text": "WP-LiveChat WP Live Chat Support Wp Live Chat Support 3.06 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wp-livechat.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wp-live-chat-support/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp-livechat:wp_live_chat_support:3.06:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-26T14:55:44.427-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:3cx:live_chat:3.06:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

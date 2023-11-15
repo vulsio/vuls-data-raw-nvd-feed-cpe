@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:alfresco:reset_password:-::~~~alfresco~~",
+  "title": [
+    {
+      "text": "Alfresco Reset Password for Alfresco",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/FlexSolution/AlfrescoResetPassword/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/FlexSolution/AlfrescoResetPassword/security/advisories/GHSA-xrc8-fjp4-h4fv"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alfresco:reset_password:-:*:*:*:*:alfresco:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:secure_access_control_server:2.5",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:37:42.350Z",
+  "title": [
+    {
+      "text": "Cisco Secure Access Control Server (ACS) 2.5 for Windows NT",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:secure_access_control_server:2.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:37:42.350-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:secure_access_control_server:2.5:-:windows-nt:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

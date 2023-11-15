@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:riverforest-wp:media-from-ftp:11.17::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-09-11T15:57:44.350Z",
+  "title": [
+    {
+      "text": "Riverforest-wp Media from FTP 11.17 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/0d323b07-c6e7-4aba-85bc-64659ad0c85d"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:riverforest-wp:media-from-ftp:11.17:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-09-11T11:57:44.350-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:riverforest-wp:media_from_ftp:11.17:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

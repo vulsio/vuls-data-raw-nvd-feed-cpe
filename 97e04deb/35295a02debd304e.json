@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:reproducible_builds:diffoscope:96",
+  "title": [
+    {
+      "text": "Reproducible Builds diffoscope 96",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://reproducible-builds.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://diffoscope.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/lamby/trydiffoscope"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://salsa.debian.org/reproducible-builds/diffoscope/-/tags?sort=updated_desc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:reproducible_builds:diffoscope:96:*:*:*:*:*:*:*"
+  }
+}

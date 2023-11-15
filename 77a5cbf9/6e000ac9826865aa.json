@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:include_me_project:include_me:1.1.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Include Me Project Include Me 1.1.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/78575072-4e04-4a8a-baec-f313cfffe829"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/include-me/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:include_me_project:include_me:1.1.6:*:*:*:*:wordpress:*:*"
+  }
+}

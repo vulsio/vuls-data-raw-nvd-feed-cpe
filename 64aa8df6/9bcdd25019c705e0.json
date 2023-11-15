@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:identity_services_engine:2.4.0.357:patch1",
+  "title": [
+    {
+      "text": "Cisco Identity Services Engine (ISE) 2.4.0.357 Patch 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/td/docs/security/ise/2-4/release_notes/b_ise_24_rn.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191016-ise-stored-xss"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:identity_services_engine:2.4.0.357:patch1:*:*:*:*:*:*"
+  }
+}

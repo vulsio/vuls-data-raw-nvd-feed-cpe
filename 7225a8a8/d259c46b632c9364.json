@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wedevs:dokan:2.9.31::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wedevs Dokan 2.9.31 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/dokan-lite/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wedevs.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wedevs:dokan:2.9.31:*:*:*:*:wordpress:*:*"
+  }
+}

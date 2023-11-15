@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wargio:naxsi:1.1:a:~~~nginx~~",
+  "title": [
+    {
+      "text": "Wargio NAXSI (NGINX Anti XSS & SQL Injection) 1.1 A for NGINX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/wargio/naxsi"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/wargio/naxsi/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wargio:naxsi:1.1:a:*:*:*:nginx:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ovirt:ovirt:-",
+  "deprecated": true,
+  "deprecation_date": "2019-11-06T20:34:36.120Z",
+  "title": [
+    {
+      "text": "oVirt",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/oVirt/ovirt-engine"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ovirt:ovirt:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-06T15:34:36.120-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:ovirt-engine:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

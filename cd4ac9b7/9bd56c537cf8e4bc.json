@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:small_crm_project:small_crm:3.0",
+  "title": [
+    {
+      "text": "Small CRM Project Small CRM 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@shiva.infocop/stored-xss-found-in-small-crm-phpgurukul-7890ea3c04df"
+    },
+    {
+      "text": "Product",
+      "href": "https://phpgurukul.com/small-crm-php/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:small_crm_project:small_crm:3.0:*:*:*:*:*:*:*"
+  }
+}

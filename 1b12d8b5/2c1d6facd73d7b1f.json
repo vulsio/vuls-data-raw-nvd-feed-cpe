@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:windows-nt:2008",
+  "deprecated": true,
+  "deprecation_date": "2009-04-30T17:26:45.547Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2008",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:windows-nt:2008:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-04-30T13:26:45.547-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

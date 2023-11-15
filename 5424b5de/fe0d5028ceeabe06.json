@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpfront:scroll_top:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPFront Scroll Top for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wpfront.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/b25af0e1-392f-4305-ad44-50e64ef3dbdf"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wpfront-scroll-top/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpfront:scroll_top:-:*:*:*:*:wordpress:*:*"
+  }
+}

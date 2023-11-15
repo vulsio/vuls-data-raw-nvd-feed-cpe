@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:zabbix:zabbix:4.4.6:-",
+  "title": [
+    {
+      "text": "ZABBIX 4.4.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zabbix.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/zabbix/zabbix/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.zabbix.com/browse/ZBX-18057"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.zabbix.com/projects/ZBX/repos/zabbix/branches"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zabbix:zabbix:4.4.6:-:*:*:*:*:*:*"
+  }
+}

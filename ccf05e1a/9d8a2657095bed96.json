@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:moxa:edr-g902:-",
+  "title": [
+    {
+      "text": "Moxa EDR-G902",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-196-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-network-infrastructure/secure-routers/secure-routers/edr-g902-series#models"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:moxa:edr-g902:-:*:*:*:*:*:*:*"
+  }
+}

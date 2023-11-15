@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lottery_project:lottery:-",
+  "title": [
+    {
+      "text": "Lottery Project Lottery",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/Lottery"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lottery_project:lottery:-:*:*:*:*:*:*:*"
+  }
+}

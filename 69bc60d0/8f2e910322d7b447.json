@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:konghq:kong:2.8.3",
+  "title": [
+    {
+      "text": "Konghq Kong 2.8.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/253990"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/advisories/GHSA-9g4c-xm3g-f8hq"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/Kong/kong/tree/2.8.3"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:konghq:kong:2.8.3:*:*:*:*:*:*:*"
+  }
+}

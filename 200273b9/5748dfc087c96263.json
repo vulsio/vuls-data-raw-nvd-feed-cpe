@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:zabbix:frontend:5.0.30:rc1",
+  "title": [
+    {
+      "text": "Zabbix Frontend 5.0.30 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.zabbix.com/release_notes"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/43xxx/CVE-2022-43515.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zabbix:frontend:5.0.30:rc1:*:*:*:*:*:*"
+  }
+}

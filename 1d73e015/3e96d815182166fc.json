@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:202-ecommerce:paypal:3.10.2::~~~prestashop~~",
+  "title": [
+    {
+      "text": "202-ecommerce PayPal 3.10.2 for PrestaShop",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/202ecommerce/paypal/security/advisories/GHSA-66pc-8gh8-mx7m"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.202-ecommerce.com/modules-partenaires/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/202ecommerce/paypal/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:202-ecommerce:paypal:3.10.2:*:*:*:*:prestashop:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:total_defense:r12:se2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-12T14:30:20.630Z",
+  "title": [
+    {
+      "text": "Computer Associates Total Defense (TD) r12 SE2 (Sustenance Engineering)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:total_defense:r12:se2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-12T10:30:20.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:total_defense:r12:se2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

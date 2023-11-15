@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apachefriends:xampp:8.0.3",
+  "title": [
+    {
+      "text": "Apachefriends Xampp 8.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.apachefriends.org/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ycdxsb/Vuln/blob/main/Xampp-Install-Dir-Incorrect-Default-Permission/Xampp-Install-Dir-Incorrect-Default-Permission.md"
+    },
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apachefriends:xampp:8.0.3:*:*:*:*:*:*:*"
+  }
+}

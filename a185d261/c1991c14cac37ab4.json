@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:google:tensorflow:1.15.0",
+  "deprecated": true,
+  "deprecation_date": "2020-02-04T13:18:29.333Z",
+  "title": [
+    {
+      "text": "Google TensorFlow 1.15.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tensorflow/tensorflow/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:tensorflow:1.15.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-04T08:18:29.333-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:tensorflow:1.15.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:fonality:trixbox:2.2.4",
+  "deprecated": true,
+  "deprecation_date": "2022-04-18T09:36:58.413Z",
+  "title": [
+    {
+      "text": "Fonality Trixbox 2.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor product information",
+      "href": "http://www.fonality.com/trixbox"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fonality:trixbox:2.2.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-18T05:36:58.413-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:netfortris:trixbox:2.2.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

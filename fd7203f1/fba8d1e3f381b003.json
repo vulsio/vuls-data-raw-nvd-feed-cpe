@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:whatsapp:whatsapp:-::~~~windows~~",
+  "title": [
+    {
+      "text": "WhatsApp for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/p/whatsapp/9wzdncrdfwbs?rtc=1&activetab=pivot:overviewtab"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.facebook.com/security/advisories/cve-2019-11931"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:whatsapp:whatsapp:-:*:*:*:*:windows:*:*"
+  }
+}

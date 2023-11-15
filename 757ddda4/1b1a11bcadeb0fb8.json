@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:telepresence_video_communication_server_software:x8.1::~~base~~~",
+  "deprecated": true,
+  "deprecation_date": "2016-02-18T16:48:37.687Z",
+  "title": [
+    {
+      "text": "Cisco TelePresence Video Communication Server (VCS) Software X8.1 Base",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.cisco.com/c/en/us/support/unified-communications/telepresence-video-communication-server-vcs/products-release-notes-list.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.1:*:*:*:base:*:*:*",
+    "deprecation": {
+      "date": "2016-02-18T11:48:37.687-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:telepresence_video_communication_server_software:x8.1_base:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

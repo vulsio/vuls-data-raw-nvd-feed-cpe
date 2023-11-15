@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:accellion:file_transfer_appliance:9_11_200",
+  "title": [
+    {
+      "text": "Accellion File Transfer Appliance (FTA) 9 11 200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.accellion.com"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.accellion.com/products/file-transfer"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.rapid7.com/db/modules/exploit/linux/http/accellion_fta_getstatus_oauth"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:accellion:file_transfer_appliance:9_11_200:*:*:*:*:*:*:*"
+  }
+}

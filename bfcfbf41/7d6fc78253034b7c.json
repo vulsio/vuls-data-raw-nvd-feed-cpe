@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:ge:logiq_s8_firmware:-",
+  "title": [
+    {
+      "text": "General Electric LOGIQ S8 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/products/ultrasound/logiq/logiq-s8-xdclear-2"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsma-20-049-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ge:logiq_s8_firmware:-:*:*:*:*:*:*:*"
+  }
+}

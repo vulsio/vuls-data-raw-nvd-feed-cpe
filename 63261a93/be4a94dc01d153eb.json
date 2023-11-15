@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:portable_phpmyadmin_project:portable_phpmyadmin:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Portable phpMyAdmin Project Portable phpMyAdmin for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/portable-phpmyadmin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://premium.wpmudev.org/blog/portable-phpmyadmin-unsafe-for-wordpress-consumption/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:portable_phpmyadmin_project:portable_phpmyadmin:-:*:*:*:*:wordpress:*:*"
+  }
+}

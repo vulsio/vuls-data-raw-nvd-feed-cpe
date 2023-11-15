@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:digia:qt:4.2",
+  "deprecated": true,
+  "deprecation_date": "2013-02-07T15:03:38.237Z",
+  "title": [
+    {
+      "text": "Digia Qt 4.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:digia:qt:4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-02-07T10:03:38.237-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:digia:qt:4.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:open.edx:edx-platform:2016-06-21",
+  "deprecated": true,
+  "deprecation_date": "2020-01-07T18:19:13.107Z",
+  "title": [
+    {
+      "text": "Open edX Platform 2016-06-21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/edx/edx-platform/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://open.edx.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:open.edx:edx-platform:2016-06-21:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-07T13:19:13.107-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:edx:edx-platform:2016-06-21:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

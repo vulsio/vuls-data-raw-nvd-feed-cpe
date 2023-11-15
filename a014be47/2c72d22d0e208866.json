@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:bdwgc_project:bdwgc:6.3alpha4",
+  "deprecated": true,
+  "deprecation_date": "2019-12-19T16:47:20.360Z",
+  "title": [
+    {
+      "text": "bdwgc Project bdwgc 6.3alpha4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/ivmai/bdwgc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bdwgc_project:bdwgc:6.3alpha4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-19T11:47:20.360-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bdwgc_project:bdwgc:6.3:alpha4:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

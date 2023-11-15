@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:blubrry:powerpress_podcasting:0.9.9::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-06-15T19:57:36.763Z",
+  "title": [
+    {
+      "text": "Blubrry PowerPress Podcasting 0.9.9 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/powerpress/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://blubrry.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blubrry:powerpress_podcasting:0.9.9:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-06-15T15:57:36.763-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:blubrry:powerpress:0.9.9:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

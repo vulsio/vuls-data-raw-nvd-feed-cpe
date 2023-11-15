@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cloudfoundry:cf-deployment:29.0.0",
+  "title": [
+    {
+      "text": "Cloud Foundry cf-Deployment 29.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudfoundry.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2023-20882-gorouter-pruning-via-client-disconnect-resulting-in-dos/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:cf-deployment:29.0.0:*:*:*:*:*:*:*"
+  }
+}

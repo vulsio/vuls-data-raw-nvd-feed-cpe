@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:hyper:http:-",
+  "deprecated": true,
+  "deprecation_date": "2021-01-06T17:16:44.360Z",
+  "title": [
+    {
+      "text": "Hyper Http",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hyperium/http/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hyper:http:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-06T12:16:44.360-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hyper:http:-:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

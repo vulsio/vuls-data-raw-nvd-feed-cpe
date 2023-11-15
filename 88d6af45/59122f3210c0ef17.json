@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:arm:cortex-r8:-",
+  "title": [
+    {
+      "text": "ARM Cortex-R8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.arm.com/products/silicon-ip-cpu"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:arm:cortex-r8:-:*:*:*:*:*:*:*"
+  }
+}

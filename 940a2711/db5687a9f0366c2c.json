@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:freebsd:freebsd:8.0:p1",
+  "deprecated": true,
+  "deprecation_date": "2019-03-19T13:40:47.373Z",
+  "title": [
+    {
+      "text": "FreeBSD 8.0 Patch 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.freebsd.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freebsd:freebsd:8.0:p1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-19T09:40:47.373-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:freebsd:freebsd:8.0:p1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

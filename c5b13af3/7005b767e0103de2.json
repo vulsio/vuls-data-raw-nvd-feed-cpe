@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cagintranetworks:getsimple_cms:1.0",
+  "deprecated": true,
+  "deprecation_date": "2018-05-02T14:59:51.403Z",
+  "title": [
+    {
+      "text": "Cagintranet Networks GetSimple CMS 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Software Versions",
+      "href": "http://get-simple.info/start/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cagintranetworks:getsimple_cms:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-05-02T10:59:51.403-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:get-simple:getsimple_cms:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

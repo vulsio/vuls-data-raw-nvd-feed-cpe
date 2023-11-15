@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:telosalliance:omnia_mpx_node_firmware:1.5.0:-",
+  "title": [
+    {
+      "text": "Telos Alliance Omnia MPX Node Firmware 1.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.telosalliance.com/article/nk5v3tilut-mpx-node-v-1-5-0-release-notes-and-update-instructions"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/50996"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cyber-guy.gitbook.io/cyber-guys-blog/pocs/omnia-node-mpx-auth-bypass-via-lfd"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:telosalliance:omnia_mpx_node_firmware:1.5.0:-:*:*:*:*:*:*"
+  }
+}

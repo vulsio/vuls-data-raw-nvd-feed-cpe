@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:freepbx:freepbx:13.0.122.1",
+  "deprecated": true,
+  "deprecation_date": "2019-12-10T16:45:29.573Z",
+  "title": [
+    {
+      "text": "FreePBX 13.0.122.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/FreePBX/core"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.freepbx.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freepbx:freepbx:13.0.122.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-10T11:45:29.573-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sangoma:freepbx:13.0.122.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

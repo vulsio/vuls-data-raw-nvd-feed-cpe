@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ibm:db2:9.8.0.4::~~enterprise~~~",
+  "title": [
+    {
+      "text": "IBM DB2 9.8.0.4 Enterprise",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21979984"
+    },
+    {
+      "text": "Version",
+      "href": "http://www-933.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~Information%2BManagement&product=ibm/Information+Management/DB2&release=10.5.*&platform=All&function=all"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:db2:9.8.0.4:*:*:*:enterprise:*:*:*"
+  }
+}

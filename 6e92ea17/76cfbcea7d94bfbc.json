@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:iperf_project:iperf:3.0.11",
+  "deprecated": true,
+  "deprecation_date": "2022-06-30T14:52:32.750Z",
+  "title": [
+    {
+      "text": "iPerf Project iPerf 3.0.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://iperf.fr/iperf-download.php"
+    },
+    {
+      "text": "Project",
+      "href": "https://iperf.fr/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:iperf_project:iperf:3.0.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-30T10:52:32.750-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:iperf3_project:iperf3:3.0.11:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

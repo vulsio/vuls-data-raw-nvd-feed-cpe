@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:helm:helm:3.5.0:rc1",
+  "title": [
+    {
+      "text": "Helm Helm 3.5.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/helm/helm/security/advisories/GHSA-c38g-469g-cmgx"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/helm/helm/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:helm:helm:3.5.0:rc1:*:*:*:*:*:*"
+  }
+}

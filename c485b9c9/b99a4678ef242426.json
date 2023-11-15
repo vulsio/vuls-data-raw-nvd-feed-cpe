@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:bosch:pra-es8p2s_firmware:-",
+  "title": [
+    {
+      "text": "Bosch PRA-ES8P2S Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://psirt.bosch.com/security-advisories/BOSCH-SA-247052-BT.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://licensing.boschsecurity.com/publicaddress/praesensa/datasheets/PRA-ES8P2S_Ethernet_switch,_8xPoE,_2xSFP.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:bosch:pra-es8p2s_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:emc:rsa_authentication_manager:8.2:sp1",
+  "title": [
+    {
+      "text": "EMC RSA Authentication Manager 8.2 Service Pack 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.rsa.com/en-us/products/rsa-securid-suite/rsa-securid-access/authentication-manager"
+    },
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/docs/DOC-60102#February"
+    },
+    {
+      "text": "Product",
+      "href": "https://community.rsa.com/docs/DOC-101122"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/security/en-us/details/DOC-109297/DSA-2019-168-RSA&#174;-Authentication-Manager-Software-Stored-Cross-Site-Scripting-Vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:sp1:*:*:*:*:*:*"
+  }
+}

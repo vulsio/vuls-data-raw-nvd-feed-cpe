@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:kunernetes:secrets-store-csi-driver:-",
+  "deprecated": true,
+  "deprecation_date": "2023-10-02T17:41:32.267Z",
+  "title": [
+    {
+      "text": "Kunernetes Secrets-store-csi-driver -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/kubernetes/kubernetes/issues/118419"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://groups.google.com/g/kubernetes-security-announce/c/5K8ghQHBDdQ/m/Udee6YUgAAAJ"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kunernetes:secrets-store-csi-driver:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-02T13:41:32.267-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:kubernetes:secrets-store-csi-driver:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

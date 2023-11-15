@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:klapp:app:-",
+  "title": [
+    {
+      "text": "Klapp App",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/36xxx/CVE-2020-36532.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.160762"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.modzero.com/modlog/archives/2020/09/07/knapp_daneben_ist_auch_vorbei/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:klapp:app:-:*:*:*:*:*:*:*"
+  }
+}

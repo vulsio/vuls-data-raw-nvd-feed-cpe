@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:nvidia:tesla_m60:-",
+  "title": [
+    {
+      "text": "NVIDIA Tesla M60",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.nvidia.com/en-us/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.nvidia.com/object/tesla_product_literature.html"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.nvidia.com/object/tesla-servers.html"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.nvidia.com/Download/Find.aspx?lang=en-us"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nvidia:tesla_m60:-:*:*:*:*:*:*:*"
+  }
+}

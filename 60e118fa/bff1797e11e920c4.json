@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:medtronic:evera_icd:-",
+  "title": [
+    {
+      "text": "Medtronic Evera ICD",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/icd-systems/evera.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:medtronic:evera_icd:-:*:*:*:*:*:*:*"
+  }
+}

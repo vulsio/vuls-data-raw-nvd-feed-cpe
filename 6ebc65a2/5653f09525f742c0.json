@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:buffalotech:bhr-4grv2_firmware:1.04",
+  "deprecated": true,
+  "deprecation_date": "2016-04-01T17:09:27.127Z",
+  "title": [
+    {
+      "text": "バッファロー BHR-4GRV2 ファームウェア 1.04",
+      "lang": "ja-JP"
+    },
+    {
+      "text": "BUFFALO BHR-4GRV2 Firmware 1.04",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.buffalotech.com/"
+    },
+    {
+      "text": "Product Information",
+      "href": "http://buffalo.jp/product/wireless-lan/ap/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:buffalotech:bhr-4grv2_firmware:1.04:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-04-01T13:09:27.127-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:buffalotech:bhr-4grv2_firmware:1.04:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

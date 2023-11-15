@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:gegridsolutions:d60_line_distance_relay_firmware:7.11",
+  "deprecated": true,
+  "deprecation_date": "2021-08-18T14:12:42.233Z",
+  "title": [
+    {
+      "text": "GE Grid Solutions D60 Line Distance Relay Firmware 7.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-18-046-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gegridsolutions.com/multilin/catalog/d60.htm"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.gegridsolutions.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:gegridsolutions:d60_line_distance_relay_firmware:7.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-18T10:12:42.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:ge:d60_line_distance_relay_firmware:7.11:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

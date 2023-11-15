@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:tom_braider:count_per_day:1.2.1",
+  "deprecated": true,
+  "deprecation_date": "2020-07-13T10:49:25.813Z",
+  "title": [
+    {
+      "text": "Tom Braider Count Per Day module for Wordpress 1.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tom_braider:count_per_day:1.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-13T06:49:25.813-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:count_per_day_project:count_per_day:1.2.1:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

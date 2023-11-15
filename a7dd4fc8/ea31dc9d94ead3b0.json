@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zimbra:zimbra_collaboration_suite:8.8.6",
+  "deprecated": true,
+  "deprecation_date": "2020-06-04T12:30:08.033Z",
+  "title": [
+    {
+      "text": "Zimbra Collaboration Suite 8.8.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wiki.zimbra.com/wiki/Zimbra_Releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zimbra:zimbra_collaboration_suite:8.8.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-04T08:30:08.033-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.6:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

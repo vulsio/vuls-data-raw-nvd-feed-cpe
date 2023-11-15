@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:roundcube:roundcube:1.1.2",
+  "deprecated": true,
+  "deprecation_date": "2022-03-10T14:32:24.037Z",
+  "title": [
+    {
+      "text": "Roundcube 1.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://roundcube.net/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/roundcube/roundcubemail"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:roundcube:roundcube:1.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-10T09:32:24.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:roundcube:webmail:1.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

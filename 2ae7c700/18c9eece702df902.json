@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_231",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T13:00:12.897Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.7.0 Update 231",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.oracle.com/technetwork/java/javase/documentation/javase7supportreleasenotes-1601161.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_231:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T09:00:12.897-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update231:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

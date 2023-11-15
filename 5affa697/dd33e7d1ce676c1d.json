@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:monorepo-build_project:monorepo-build:0.1.8::~~~node.js~~",
+  "title": [
+    {
+      "text": "monorepo-build Project monorepo-build 0.1.8 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-MONOREPOBUILD-1050392"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.npmjs.com/package/monorepo-build"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:monorepo-build_project:monorepo-build:0.1.8:*:*:*:*:node.js:*:*"
+  }
+}

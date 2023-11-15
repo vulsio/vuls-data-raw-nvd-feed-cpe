@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:vmware:esxi:6.7:670-202111101",
+  "title": [
+    {
+      "text": "VMware ESXi 6.7 670-202111101",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-vcenter-server-67-release-notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.vmware.com/security/advisories/VMSA-2022-0025.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:vmware:esxi:6.7:670-202111101:*:*:*:*:*:*"
+  }
+}

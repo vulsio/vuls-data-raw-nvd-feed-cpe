@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:storage:3.0",
+  "title": [
+    {
+      "text": "Red Hat Storage 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2019-14907"
+    },
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/documentation/en-US/Red_Hat_Ceph_Storage/3/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:storage:3.0:*:*:*:*:*:*:*"
+  }
+}

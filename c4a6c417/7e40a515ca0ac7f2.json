@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:psensor_project:psensor:0.8.0.1",
+  "deprecated": true,
+  "deprecation_date": "2019-09-27T18:42:52.597Z",
+  "title": [
+    {
+      "text": "psensor Project psensor 0.8.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wpitchoune.net/psensor/files/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:psensor_project:psensor:0.8.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-27T14:42:52.597-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wpitchoune:psensor:0.8.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

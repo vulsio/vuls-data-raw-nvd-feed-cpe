@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:tensorflow:tensorflow:2.3.0:rc0:~~lite~~~",
+  "deprecated": true,
+  "deprecation_date": "2021-08-17T13:21:09.307Z",
+  "title": [
+    {
+      "text": "TensorFlow 2.3.0 Release Candidate 0 Lite Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tensorflow.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.tensorflow.org/lite"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tensorflow/tensorflow/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tensorflow:tensorflow:2.3.0:rc0:*:*:lite:*:*:*",
+    "deprecation": {
+      "date": "2021-08-17T09:21:09.307-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:tensorflow:2.3.0:rc0:*:*:lite:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

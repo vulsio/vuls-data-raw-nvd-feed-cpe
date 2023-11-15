@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apple:apple_tv:12",
+  "deprecated": true,
+  "deprecation_date": "2019-03-08T16:06:36.140Z",
+  "title": [
+    {
+      "text": "Apple TV 12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.apple.com/en-us/HT207936"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:apple_tv:12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-08T11:06:36.140-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:tvos:12:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

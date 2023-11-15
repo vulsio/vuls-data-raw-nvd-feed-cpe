@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cybozu:cybozu_office:10.3.0",
+  "deprecated": true,
+  "deprecation_date": "2016-02-23T19:26:09.883Z",
+  "title": [
+    {
+      "text": "Cybozu Cybozu Office 10.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://products.cybozu.co.jp/office/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cybozu:cybozu_office:10.3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-02-23T14:26:09.883-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cybozu:office:10.3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

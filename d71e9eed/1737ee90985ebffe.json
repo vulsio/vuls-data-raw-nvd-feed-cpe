@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:bouncycastle:bc-java:-",
+  "title": [
+    {
+      "text": "Bouncycastle BC-java ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.bouncycastle.org/latest_releases.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security-tracker.debian.org/tracker/source-package/bouncycastle"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/bcgit/bc-java/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bcgit/bc-java/wiki/CVE-2023-33201"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bouncycastle:bc-java:-:*:*:*:*:*:*:*"
+  }
+}

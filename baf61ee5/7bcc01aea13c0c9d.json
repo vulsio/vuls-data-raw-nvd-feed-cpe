@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:zabbix:zabbix:1.1",
+  "deprecated": true,
+  "deprecation_date": "2020-08-06T14:40:27.990Z",
+  "title": [
+    {
+      "text": "ZABBIX 1.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zabbix:zabbix:1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-06T10:40:27.990-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zabbix:zabbix:1.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

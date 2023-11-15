@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:12.3.1::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 12.3.1 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/497047"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/blog/categories/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:12.3.1:*:*:*:community:*:*:*"
+  }
+}

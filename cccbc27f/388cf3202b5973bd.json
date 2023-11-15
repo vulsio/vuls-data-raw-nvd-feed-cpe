@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:provideserver:provide_ftp_server:-::~~~windows~~",
+  "title": [
+    {
+      "text": "Provideserver ProVide FTP Server for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/belong2yourself/vulnerabilities/tree/master/ProVide/Sandbox%20Escape%20via%20Symlink%20or%20Junction"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.provideserver.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:provideserver:provide_ftp_server:-:*:*:*:*:windows:*:*"
+  }
+}

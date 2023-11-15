@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:opensuse_project:opensuse:11.3",
+  "deprecated": true,
+  "deprecation_date": "2018-01-25T17:20:52.450Z",
+  "title": [
+    {
+      "text": "OpenSUSE Project OpenSUSE 11.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://en.opensuse.org/Archive:Portal:11.3"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:opensuse_project:opensuse:11.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-25T12:20:52.450-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:opensuse:opensuse:11.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

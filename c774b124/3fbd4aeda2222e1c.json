@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:igor_sysoev:nginx:0.3.18",
+  "deprecated": true,
+  "deprecation_date": "2019-02-28T20:21:00.393Z",
+  "title": [
+    {
+      "text": "Nginx 0.3.18",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:igor_sysoev:nginx:0.3.18:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-02-28T15:21:00.393-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nginx:nginx:0.3.18:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pureftpd:pure-ftpd:1.0.50",
+  "title": [
+    {
+      "text": "Pure-FTPd 1.0.50",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jedisct1/pure-ftpd/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/jedisct1/pure-ftpd/commit/37ad222868e52271905b94afea4fc780d83294b4"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/40xxx/CVE-2021-40524.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pureftpd:pure-ftpd:1.0.50:*:*:*:*:*:*:*"
+  }
+}

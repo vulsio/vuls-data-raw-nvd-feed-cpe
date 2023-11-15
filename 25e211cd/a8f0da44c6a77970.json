@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:istio:istio:1.5.7",
+  "title": [
+    {
+      "text": "Istio 1.5.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://istio.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://istio.io/latest/news/security/istio-security-2020-009/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/istio/istio/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:istio:istio:1.5.7:*:*:*:*:*:*:*"
+  }
+}

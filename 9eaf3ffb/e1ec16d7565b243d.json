@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:maddy_project:maddy:0.6.",
+  "deprecated": true,
+  "deprecation_date": "2023-02-17T20:07:08.733Z",
+  "title": [
+    {
+      "text": "Maddy Project Maddy 0.6.",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/foxcpp/maddy"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:maddy_project:maddy:0.6.:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-02-17T15:07:08.733-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:maddy_project:maddy:0.6.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

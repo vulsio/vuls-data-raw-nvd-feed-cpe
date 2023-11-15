@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:debian:apt:0.8.15.6",
+  "deprecated": true,
+  "deprecation_date": "2020-01-08T15:12:54.647Z",
+  "title": [
+    {
+      "text": "Debian APT 0.8.15.6",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:apt:0.8.15.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-08T10:12:54.647-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:debian:advanced_package_tool:0.8.15.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

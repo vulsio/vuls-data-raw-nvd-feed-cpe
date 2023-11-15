@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:google:site_kit_by_google:1.24.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-07-14T15:10:10.473Z",
+  "title": [
+    {
+      "text": "Google Site Kit By Google 1.24.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://sitekit.withgoogle.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/google/site-kit-wp/tags"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/google-site-kit/#developers"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/google-site-kit/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:site_kit_by_google:1.24.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-07-14T11:10:10.473-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:site_kit:1.24.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

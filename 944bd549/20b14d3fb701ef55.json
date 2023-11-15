@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:asa_5515-x_firmware:009.014%28001%29",
+  "title": [
+    {
+      "text": "Cisco ASA 5515-X Firmware 009.014(001)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-snmpaccess-M6yOweq3"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvw51436"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvv49739"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:asa_5515-x_firmware:009.014\\(001\\):*:*:*:*:*:*:*"
+  }
+}

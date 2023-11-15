@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:servst_project:servst:1.0.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Servst Project Servst 1.0.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-SERVST-3244896"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gist.github.com/lirantal/691d02d607753d54856f9335f9a1692f"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/andrepolischuk/servst/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:servst_project:servst:1.0.1:*:*:*:*:node.js:*:*"
+  }
+}

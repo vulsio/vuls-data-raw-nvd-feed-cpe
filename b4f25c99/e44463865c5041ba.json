@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:matrix_reloaded:1.0.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Matrix Reloaded 1.0.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-06-30/#SECURITY-2016"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/matrix-reloaded/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:matrix_reloaded:1.0.0:*:*:*:*:jenkins:*:*"
+  }
+}

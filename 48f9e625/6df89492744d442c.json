@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:reliablecontrols:mach-prowebsys:2.15",
+  "title": [
+    {
+      "text": "Reliable Controls MACH-ProWebSys 2.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.symantec.com/en/uk/security-center/vulnerabilities/writeup/111299"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.reliablecontrols.com/products/controllers/MPWS/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-353-04"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:reliablecontrols:mach-prowebsys:2.15:*:*:*:*:*:*:*"
+  }
+}

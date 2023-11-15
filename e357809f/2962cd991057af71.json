@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pacman_project:pacman:5.0.1",
+  "title": [
+    {
+      "text": "Pacman Project Pacman 5.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://git.archlinux.org/pacman.git/refs/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2016/06/11/4"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pacman_project:pacman:5.0.1:*:*:*:*:*:*:*"
+  }
+}

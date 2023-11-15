@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:cloudflare:octorpki:1.0.0",
+  "title": [
+    {
+      "text": "Cloudflare OctoRPKI 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cloudflare/cfrpki/security/advisories/GHSA-cqh2-vc2f-q4fh"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudflare.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cloudflare/cfrpki/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudflare:octorpki:1.0.0:*:*:*:*:*:*:*"
+  }
+}

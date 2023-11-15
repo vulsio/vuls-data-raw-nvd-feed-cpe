@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apache:nifi:1.23.0",
+  "title": [
+    {
+      "text": "Apache Software Foundation NiFi 1.23.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nifi.apache.org/security.html#CVE-2023-40037"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread/bqbjlrs2p5ghh8sbk5nsxb8xpf9l687q"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:nifi:1.23.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:varnish-software:varnich_cache:6.3.1::~~-~~~",
+  "deprecated": true,
+  "deprecation_date": "2022-08-02T19:21:44.360Z",
+  "title": [
+    {
+      "text": "Varnish-software Varnich Cache 6.3.1 - Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.varnish-software.com/security/VSV00008/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/varnishcache/varnish-cache/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:varnish-software:varnich_cache:6.3.1:*:*:*:-:*:*:*",
+    "deprecation": {
+      "date": "2022-08-02T15:21:44.360-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:varnish_cache_project:varnish_cache:6.3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:cisco:ios_xe_2.3:2.3.1t",
+  "deprecated": true,
+  "deprecation_date": "2020-09-29T12:13:05.380Z",
+  "title": [
+    {
+      "text": "Cisco IOS X3 E2.3 2.3.1T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-aaados"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/c/en/us/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios_xe_2.3:2.3.1t:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-29T08:13:05.380-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:ios_xe:2.3.1t:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

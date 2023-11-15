@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:jabber:12.6%281%29::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T13:43:52.630Z",
+  "title": [
+    {
+      "text": "Cisco Jabber 12.6(1) for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190904-jcf-codex"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:jabber:12.6\\(1\\):*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T09:43:52.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:jabber:12.6\\(1\\):*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

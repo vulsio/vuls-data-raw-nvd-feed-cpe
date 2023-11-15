@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rundeck:rundeck:2.11.0:-:~~community~~~",
+  "deprecated": true,
+  "deprecation_date": "2021-09-01T16:00:51.400Z",
+  "title": [
+    {
+      "text": "Rundeck 2.11.0 - Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.rundeck.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rundeck/rundeck"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rundeck:rundeck:2.11.0:-:*:*:community:*:*:*",
+    "deprecation": {
+      "date": "2021-09-01T12:00:51.400-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pagerduty:rundeck:2.11.0:-:*:*:community:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

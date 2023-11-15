@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linux-nfs:nfs-utils:2.4.1",
+  "title": [
+    {
+      "text": "Linux-NFS nfs-utils 2.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://linux-nfs.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.linux-nfs.org/?p=steved/nfs-utils.git;a=tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.suse.com/show_bug.cgi?id=1150733"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linux-nfs:nfs-utils:2.4.1:*:*:*:*:*:*:*"
+  }
+}

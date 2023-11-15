@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:tenda:ac9_firmware:15.03.06.42_multi",
+  "title": [
+    {
+      "text": "Tenda AC9 Firmware 15.03.06.42_Multi",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/26xxx/CVE-2020-26728.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Lyc-heng/routers/blob/a80b30bccfc9b76f3a4868ff28ad5ce2e0fca180/routers/rce1.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tenda:ac9_firmware:15.03.06.42_multi:*:*:*:*:*:*:*"
+  }
+}

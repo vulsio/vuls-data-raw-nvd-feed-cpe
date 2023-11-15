@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:valmet:dna:2012",
+  "title": [
+    {
+      "text": "Valmet DNA 2012",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.valmet.com/automation/distributed-control-system/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.valmet.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.nozominetworks.com/labs/vulnerability-advisories/cve-2021-26726/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:valmet:dna:2012:*:*:*:*:*:*:*"
+  }
+}

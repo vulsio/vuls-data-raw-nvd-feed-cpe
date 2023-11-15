@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/h:intel:xeon_gold_6240l_:-",
+  "deprecated": true,
+  "deprecation_date": "2023-09-25T22:11:07.260Z",
+  "title": [
+    {
+      "text": "Intel Xeon Gold 6240L",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00698.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00280.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark.html#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_gold_6240l_:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-25T18:11:07.260-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_gold_6240l:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

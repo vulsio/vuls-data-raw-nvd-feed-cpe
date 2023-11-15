@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:medicayunlink:medicayunlink:-",
+  "title": [
+    {
+      "text": "MedicayunLink",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0x2b36968bf3c77253266aa382562fa3fdd7fa1667"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.medicayunlink.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:medicayunlink:medicayunlink:-:*:*:*:*:*:*:*"
+  }
+}

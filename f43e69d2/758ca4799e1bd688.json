@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:moxa:nport_6250-s-sc_firmware:1.21",
+  "title": [
+    {
+      "text": "Moxa NPort 6250-S-SC Firmware 1.21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-232905-nport-6000-series-incorrect-implementation-of-authentication-algorithm-vulnerability"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/terminal-servers/nport-6100-6200-series#models"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:moxa:nport_6250-s-sc_firmware:1.21:*:*:*:*:*:*:*"
+  }
+}

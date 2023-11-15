@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:adobe:coldfusion:10.0:update_8",
+  "deprecated": true,
+  "deprecation_date": "2020-09-04T13:56:12.437Z",
+  "title": [
+    {
+      "text": "Adobe ColdFusion 10.0 Update 8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:coldfusion:10.0:update_8:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-04T09:56:12.437-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:coldfusion:10.0:update8:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

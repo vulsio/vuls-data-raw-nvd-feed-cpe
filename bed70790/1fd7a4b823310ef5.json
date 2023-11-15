@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:eset:endpoint_security:6.10.910.0::~~-~macos~~",
+  "title": [
+    {
+      "text": "ESET Endpoint Security 6.10.910.0 for macOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.eset.com/en/ca8151-denial-of-service-vulnerability-in-eset-products-for-macos-fixed"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.eset.com/gh/business/endpoint-security/mac-os/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eset:endpoint_security:6.10.910.0:*:*:*:-:macos:*:*"
+  }
+}

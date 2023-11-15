@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:bundler:bundler:1.6.3",
+  "deprecated": true,
+  "deprecation_date": "2019-07-02T14:55:11.453Z",
+  "title": [
+    {
+      "text": "Bundler 1.6.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bundler/bundler/blob/master/CHANGELOG.md#100beta1"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://bundler.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bundler:bundler:1.6.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-02T10:55:11.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bundler:bundler:1.6.3:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

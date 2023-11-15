@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:file_away_project:file_away:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "File Away Project File Away - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/fdcbd9a3-552d-439e-b283-1d3d934889af"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/file-away/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:file_away_project:file_away:-:*:*:*:*:wordpress:*:*"
+  }
+}

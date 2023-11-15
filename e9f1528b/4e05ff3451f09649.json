@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpexperts:wp_pdf_generator:0.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wpexperts WP PDF Generator 0.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wpexperts.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-pdf-generator/wordpress-wp-pdf-generator-plugin-1-2-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-pdf-generator/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpexperts:wp_pdf_generator:0.1:*:*:*:*:wordpress:*:*"
+  }
+}

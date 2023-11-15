@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:onechain_project:onechain:-",
+  "title": [
+    {
+      "text": "OneChain Project OneChain",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/OneChain"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:onechain_project:onechain:-:*:*:*:*:*:*:*"
+  }
+}

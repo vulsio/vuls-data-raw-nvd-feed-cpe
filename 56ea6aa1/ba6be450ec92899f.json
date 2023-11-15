@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jamf:private_access:2022-05-16",
+  "title": [
+    {
+      "text": "Jamf Private Access 2022-05-16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.jamf.com/products/jamf-private-access/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/wandera/public-disclosures/blob/master/CVE-2022-29564.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jamf:private_access:2022-05-16:*:*:*:*:*:*:*"
+  }
+}

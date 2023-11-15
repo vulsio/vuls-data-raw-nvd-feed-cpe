@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vibethemes:vslider:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Vibethemes Vslider - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/vslider/wordpress-vslider-multi-image-slider-for-wordpress-plugin-4-1-2-cross-site-request-forgery-csrf?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/vslider/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://vibethemes.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vibethemes:vslider:-:*:*:*:*:wordpress:*:*"
+  }
+}

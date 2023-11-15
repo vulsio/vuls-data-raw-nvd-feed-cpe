@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redis:redis:2.2.15",
+  "title": [
+    {
+      "text": "Redis 2.2.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/redis"
+    },
+    {
+      "text": "Product",
+      "href": "https://redis.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/redis/redis/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redis:redis:2.2.15:*:*:*:*:*:*:*"
+  }
+}

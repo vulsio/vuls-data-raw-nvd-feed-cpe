@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:redhat:hibernate_validator:5.3.6",
+  "title": [
+    {
+      "text": "Red Hat Hibernate Validator 5.3.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://hibernate.org/validator/"
+    },
+    {
+      "text": "Product",
+      "href": "http://hibernate.org/validator/releases/5.2/"
+    },
+    {
+      "text": "Product",
+      "href": "http://hibernate.org/validator/releases/5.3/"
+    },
+    {
+      "text": "Product",
+      "href": "http://hibernate.org/validator/releases/5.4/"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-US/JBoss_Enterprise_Web_Platform/5/html-single/Hibernate_Validator_Reference_Guide/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:hibernate_validator:5.3.6:*:*:*:*:*:*:*"
+  }
+}

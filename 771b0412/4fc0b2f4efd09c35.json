@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:moxa:thingspro:2.1",
+  "title": [
+    {
+      "text": "MOXA ThingsPro 2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.kaspersky.com/advisories/klcert-advisories/2018/10/18/klcert-18-024-moxa-thingspro-iiot-gateway-and-device-management-software-solutions-remote-code-execution/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.moxa.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/product/ThingsPro.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:moxa:thingspro:2.1:*:*:*:*:*:*:*"
+  }
+}

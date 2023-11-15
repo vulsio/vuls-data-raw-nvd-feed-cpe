@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:getbootstrap:bootstrap-sass:3.2.0.3::~~~ruby~~",
+  "title": [
+    {
+      "text": "Getbootstrap Bootstrap-sass 3.2.0.3 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/twbs/bootstrap-sass/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:getbootstrap:bootstrap-sass:3.2.0.3:*:*:*:*:ruby:*:*"
+  }
+}

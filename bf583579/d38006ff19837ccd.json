@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:x:x_server:1.4.99.902",
+  "deprecated": true,
+  "deprecation_date": "2020-08-24T16:52:50.257Z",
+  "title": [
+    {
+      "text": "X Server 1.4.99.902",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.x.org/releases/individual/xserver/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x:x_server:1.4.99.902:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-24T12:52:50.257-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:x.org:x_server:1.4.99.902:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

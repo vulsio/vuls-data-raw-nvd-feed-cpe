@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:strapi:strapi:3.0.0:beta.15",
+  "deprecated": true,
+  "deprecation_date": "2020-06-24T02:32:16.457Z",
+  "title": [
+    {
+      "text": "Strapi 3.0.0 Beta.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/strapi/strapi/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:strapi:strapi:3.0.0:beta.15:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-23T22:32:16.457-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:strapi:strapi:3.0.0:beta15:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

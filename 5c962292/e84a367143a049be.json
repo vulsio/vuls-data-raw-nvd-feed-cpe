@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:2019::~~enterprise_ltsc~~~",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 2019 Enterprise LTSC Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2019"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000186134/dsa-2021-096-dell-wyse-windows-embedded-system-security-update-for-an-improper-authorization-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:2019:*:*:*:enterprise_ltsc:*:*:*"
+  }
+}

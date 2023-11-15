@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:netapp:fas_baseboard_management_controller_firmware:-",
+  "title": [
+    {
+      "text": "NetApp FAS Baseboard Management Controller Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kb.netapp.com/Advice_and_Troubleshooting/Data_Storage_Systems/FAS_Systems/What_is_a_Baseboard_Management_Controller_(BMC)_and_how_do_I_use_it%3F"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20220303-0002/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:netapp:fas_baseboard_management_controller_firmware:-:*:*:*:*:*:*:*"
+  }
+}

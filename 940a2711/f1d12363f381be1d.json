@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:freebsd:freebsd:12.0:-",
+  "deprecated": true,
+  "deprecation_date": "2019-03-19T13:44:48.787Z",
+  "title": [
+    {
+      "text": "FreeBSD 12.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.freebsd.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freebsd:freebsd:12.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-19T09:44:48.787-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:freebsd:freebsd:12.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

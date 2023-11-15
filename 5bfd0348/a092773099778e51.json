@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:arcserve_client_agent:_nil_:_nil_:windows",
+  "deprecated": true,
+  "deprecation_date": "2009-03-05T17:19:19.437Z",
+  "title": [
+    {
+      "text": "Computer Associates Client Agent Windows",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:arcserve_client_agent:_nil_:_nil_:windows:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-03-05T12:19:19.437-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ca:arcserve_client_agent:-:*:windows:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

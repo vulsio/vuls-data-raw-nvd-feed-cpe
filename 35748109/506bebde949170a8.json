@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e:2186g",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:52:16.927Z",
+  "title": [
+    {
+      "text": "Intel Xeon E 2186g",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://ark.intel.com/products/series/134861/Intel-Xeon-E-Processor"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e:2186g:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:52:16.927-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e-2176m:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

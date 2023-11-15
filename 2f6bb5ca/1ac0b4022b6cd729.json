@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:apache:jmeter:3.0",
+  "deprecated": true,
+  "deprecation_date": "2019-06-18T23:58:03.527Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation JMeter 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/jmeter/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.apache.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://jmeter.apache.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:jmeter:3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-18T19:58:03.527-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:jmeter:3.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:clamav:clamav:0.103.0",
+  "deprecated": true,
+  "deprecation_date": "2022-08-01T12:38:57.427Z",
+  "title": [
+    {
+      "text": "ClamAV 0.103.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.clamav.net/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.clamav.net/downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clamav:clamav:0.103.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-08-01T08:38:57.427-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:clamav:clamav:0.103.0:*:*:*:lts:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

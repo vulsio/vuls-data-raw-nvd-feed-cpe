@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:microsoft:binwalk:2.3.3",
+  "title": [
+    {
+      "text": "Microsoft (ReFirm Labs) Binwalk 2.3.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.216876"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/ReFirmLabs/binwalk"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.microsoft.com/en-us/security/blog/2021/06/02/microsoft-acquires-refirm-labs-to-enhance-iot-security/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ReFirmLabs/binwalk/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:binwalk:2.3.3:*:*:*:*:*:*:*"
+  }
+}

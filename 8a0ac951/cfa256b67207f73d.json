@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:mycred:mycred:2.5.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "myCred 2.5.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/mycred/wordpress-mycred-plugin-2-5-cross-site-request-forgery-csrf?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mycred/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mycred:mycred:2.5.2:*:*:*:*:wordpress:*:*"
+  }
+}

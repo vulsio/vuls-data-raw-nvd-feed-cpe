@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:libdwarf_project:libdwarf:20160922",
+  "deprecated": true,
+  "deprecation_date": "2022-03-01T14:30:22.570Z",
+  "title": [
+    {
+      "text": "libdwarf Project libdwarf 20160922",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.prevanders.net/dwarf.html#future"
+    },
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/p/libdwarf/regressiontests/ref/master/tags/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libdwarf_project:libdwarf:20160922:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-01T09:30:22.570-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libdwarf_project:libdwarf:2016-09-22:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

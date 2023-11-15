@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:kolla:-",
+  "title": [
+    {
+      "text": "Openstack Kolla -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2022-1589"
+    },
+    {
+      "text": "Product",
+      "href": "https://opendev.org/openstack/kolla"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:kolla:-:*:*:*:*:*:*:*"
+  }
+}

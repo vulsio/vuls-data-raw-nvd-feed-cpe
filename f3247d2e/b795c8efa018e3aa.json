@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:watchdog:anti-virus:1.4.214.0",
+  "title": [
+    {
+      "text": "Watchdog Anti-virus 1.4.214.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zeze-zeze/WindowsKernelVuln/tree/master/CVE-2023-1446"
+    },
+    {
+      "text": "Product",
+      "href": "https://watchdog.dev/solutions/anti-virus/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:watchdog:anti-virus:1.4.214.0:*:*:*:*:*:*:*"
+  }
+}

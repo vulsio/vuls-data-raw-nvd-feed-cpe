@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ellislab:expressionengine:5.0.1",
+  "deprecated": true,
+  "deprecation_date": "2020-07-06T20:05:42.940Z",
+  "title": [
+    {
+      "text": "Ellislab Expressionengine 5.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://ellislab.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.expressionengine.com/latest/installation/changelog.html#version-4-3-5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ellislab:expressionengine:5.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-06T16:05:42.940-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:expressionengine:expressionengine:5.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

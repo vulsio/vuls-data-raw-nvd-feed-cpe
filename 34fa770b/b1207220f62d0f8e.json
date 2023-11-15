@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:svg_sanitizer_project:svg_sanitizer:0.9.2",
+  "deprecated": true,
+  "deprecation_date": "2019-11-14T13:35:24.447Z",
+  "title": [
+    {
+      "text": "SVG Sanitizer Project SVG Sanitizer 0.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/darylldoyle/svg-sanitizer"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:svg_sanitizer_project:svg_sanitizer:0.9.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-14T08:35:24.447-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:svg-sanitizer_project:svg-sanitizer:0.9.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

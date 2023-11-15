@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:spacewalk:2.6",
+  "title": [
+    {
+      "text": "Red Hat Spacewalk 2.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/spacewalkproject/spacewalk/wiki/ReleaseNotes26"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/spacewalkproject/spacewalk"
+    },
+    {
+      "text": "Product",
+      "href": "http://spacewalk.redhat.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:spacewalk:2.6:*:*:*:*:*:*:*"
+  }
+}

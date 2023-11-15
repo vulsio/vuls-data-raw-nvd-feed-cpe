@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:containrrr:shoutrrr:0.5.0",
+  "title": [
+    {
+      "text": "Containrrr Shoutrrr 0.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://containrrr.dev/shoutrrr/v0.5/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-GOLANG-GITHUBCOMCONTAINRRRSHOUTRRRPKGUTIL-2849059"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/containrrr/shoutrrr/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:containrrr:shoutrrr:0.5.0:*:*:*:*:*:*:*"
+  }
+}

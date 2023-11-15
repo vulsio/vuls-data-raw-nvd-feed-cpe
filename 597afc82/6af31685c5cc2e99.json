@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:endpoint_protection:-",
+  "title": [
+    {
+      "text": "Microsoft Endpoint Protection",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.microsoft.com/en-us/mem/configmgr/protect/deploy-use/endpoint-protection"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8558"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:endpoint_protection:-:*:*:*:*:*:*:*"
+  }
+}

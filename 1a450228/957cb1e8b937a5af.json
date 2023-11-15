@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:maxthon:maxthon_browser:5.0.26.129::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:13:49.277Z",
+  "title": [
+    {
+      "text": "Maxthon Browser 5.0.26.129 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "http://forum.maxthon.com/index.php?/release-notes5/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:maxthon:maxthon_browser:5.0.26.129:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:13:49.277-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:maxthon:maxthon_browser:5.0.26.129:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

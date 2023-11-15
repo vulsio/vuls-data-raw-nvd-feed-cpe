@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:opera:opera_browser:68.00",
+  "deprecated": true,
+  "deprecation_date": "2022-02-08T14:25:49.877Z",
+  "title": [
+    {
+      "text": "Opera Browser 68.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.opera.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://help.opera.com/en/opera-version-history/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opera:opera_browser:68.00:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-08T09:25:49.877-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:opera:opera_browser:68.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

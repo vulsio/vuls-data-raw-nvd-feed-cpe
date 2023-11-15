@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:google:guava:18.0",
+  "deprecated": true,
+  "deprecation_date": "2021-03-18T13:12:15.683Z",
+  "title": [
+    {
+      "text": "Google Guava 18.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/google/guava/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:guava:18.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-03-18T09:12:15.683-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:guava:18.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

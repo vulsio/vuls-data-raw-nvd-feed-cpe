@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:debian:apt:0.8.15:exp2",
+  "deprecated": true,
+  "deprecation_date": "2020-01-08T15:12:46.113Z",
+  "title": [
+    {
+      "text": "Debian APT 0.8.15 Experimental 2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:apt:0.8.15:exp2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-08T10:12:46.113-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:debian:advanced_package_tool:0.8.15:exp2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:dex:2.29.0",
+  "title": [
+    {
+      "text": "Linux Foundation Dex 2.29.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dexidp/dex/security/advisories/GHSA-vh7g-p26c-j2cw"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dexidp/dex/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:dex:2.29.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:ubiquiti:unifi_video_controller:3.10.8",
+  "deprecated": true,
+  "deprecation_date": "2020-12-04T16:33:36.383Z",
+  "title": [
+    {
+      "text": "Ubiquiti UniFi Video Controller 3.10.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ui.com/download/unifi-video/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ubiquiti:unifi_video_controller:3.10.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-04T11:33:36.383-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:ui:unifi_video_controller:3.10.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

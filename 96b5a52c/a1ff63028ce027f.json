@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nic:knot_resolver:5.5.1",
+  "title": [
+    {
+      "text": "Nic Knot Resolver 5.5.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.nic.cz/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/CZ-NIC/knot-resolver"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/229244"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nic:knot_resolver:5.5.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:zoom:zoom_on-premise_meeting_connector_mmr:-",
+  "title": [
+    {
+      "text": "Zoom Zoom On-Premise Meeting Connector MMR",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.zoom.us/hc/en-us/articles/360034064852-Zoom-On-Premise-Deployment"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://explore.zoom.us/en/trust/security/security-bulletin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/34xxx/CVE-2021-34417.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoom:zoom_on-premise_meeting_connector_mmr:-:*:*:*:*:*:*:*"
+  }
+}

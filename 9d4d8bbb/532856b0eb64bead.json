@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:nexus_1000v:-::~~~microsoft_hyper-v~~",
+  "title": [
+    {
+      "text": "Cisco Nexus 1000v - for Microsoft Hyper-v",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://software.cisco.com/download/home/282362725"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/switches/nexus-1000v-switch-microsoft-hyper-v/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190306-nxos-netstack"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:nexus_1000v:-:*:*:*:*:microsoft_hyper-v:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:consul:1.13.0::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Hashicorp Consul 1.13.0 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/consul/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2022-20-consul-service-mesh-intention-bypass-with-malicious-certificate-signing-request/44628"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:1.13.0:*:*:*:enterprise:*:*:*"
+  }
+}

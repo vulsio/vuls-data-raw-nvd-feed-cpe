@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:linux:linux_kernel:4.9.195",
+  "deprecated": true,
+  "deprecation_date": "2022-06-22T15:55:37.900Z",
+  "title": [
+    {
+      "text": "Linux Kernel 4.9.195",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://cdn.kernel.org/pub/linux/kernel/v4.x/ChangeLog-4.9.195"
+    },
+    {
+      "text": "Version",
+      "href": "https://cdn.kernel.org/pub/linux/kernel/v4.x/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linux:linux_kernel:4.9.195:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-22T11:55:37.900-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:4.9.195:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

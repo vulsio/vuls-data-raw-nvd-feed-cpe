@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:joomla:joomla%21:3.6.1",
+  "deprecated": true,
+  "deprecation_date": "2020-10-19T12:27:43.577Z",
+  "title": [
+    {
+      "text": "Joomla! 3.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/joomla/joomla-cms"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:joomla:joomla\\!:3.6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-19T08:27:43.577-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:joomla:joomla\\!:3.6.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:containerd:1.5.0:rc0",
+  "title": [
+    {
+      "text": "The Linux Foundation containerd 1.5.0 Release Candidate 0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/containerd/containerd/security/advisories/GHSA-c72p-9xmj-rx3w"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/containerd/containerd/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:containerd:1.5.0:rc0:*:*:*:*:*:*"
+  }
+}

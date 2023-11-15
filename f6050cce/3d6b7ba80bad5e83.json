@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:paloaltonetworks:globalprotect:4.1.12::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T18:38:57.477Z",
+  "title": [
+    {
+      "text": "Palo Alto Networks GlobalProtect 4.1.12 for Mac Os X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.paloaltonetworks.com/globalprotect/5-0/globalprotect-app-release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:globalprotect:4.1.12:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T14:38:57.477-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:paloaltonetworks:globalprotect:4.1.12:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

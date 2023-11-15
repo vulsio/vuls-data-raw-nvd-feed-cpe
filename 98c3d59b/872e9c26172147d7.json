@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:asus:rt-n10lx:-",
+  "title": [
+    {
+      "text": "ASUS RT-N10LX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OlivierLaflamme/cve/blob/main/ASUS-N10LX_2.0.0.39/URLFilterList_Stack_BOF.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.asus.com/za/supportonly/rt-n10lx/helpdesk_knowledge/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:asus:rt-n10lx:-:*:*:*:*:*:*:*"
+  }
+}

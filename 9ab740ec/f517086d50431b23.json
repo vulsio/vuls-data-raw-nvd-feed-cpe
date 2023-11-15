@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:instamojo:payment_gateway:1.0.7::~~~wordpress~~",
+  "title": [
+    {
+      "text": "InstaMojo Payment Gateway 1.0.7 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.instamojo.com/payment-gateway/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gkaim.com/cve-2019-14977-vikas-chaudhary/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:instamojo:payment_gateway:1.0.7:*:*:*:*:wordpress:*:*"
+  }
+}

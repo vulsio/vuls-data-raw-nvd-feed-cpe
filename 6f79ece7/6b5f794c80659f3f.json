@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:x.org:x_server:1.20.10",
+  "title": [
+    {
+      "text": "X.Org X Server 1.20.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.x.org/releases/individual/xserver/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/192533"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1887276"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x.org:x_server:1.20.10:*:*:*:*:*:*:*"
+  }
+}

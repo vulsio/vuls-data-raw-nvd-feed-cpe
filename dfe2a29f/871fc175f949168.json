@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:isc:bind:8.2.7",
+  "deprecated": true,
+  "deprecation_date": "2021-05-05T15:29:31.610Z",
+  "title": [
+    {
+      "text": "ISC BIND 8.2.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/isc-projects/bind9/releases"
+    },
+    {
+      "text": "Version",
+      "href": "http://ftp.isc.org/isc/bind9/"
+    },
+    {
+      "text": "Version",
+      "href": "https://kb.isc.org/docs/en/aa-00959"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.isc.org/downloads/bind/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:isc:bind:8.2.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-05T11:29:31.610-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:isc:bind:8.2.7:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

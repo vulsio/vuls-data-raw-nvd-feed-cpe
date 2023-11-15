@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:brainstormforce:schema:1.6.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Brainstorm Force Schema 1.6.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://brainstormforce.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/all-in-one-schemaorg-rich-snippets/wordpress-schema-all-in-one-schema-rich-snippets-plugin-1-6-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:brainstormforce:schema:1.6.5:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:netapp:clustered_data_ontap:9.7:p12",
+  "title": [
+    {
+      "text": "NetApp Clustered Data ONTAP 9.7 Patch 12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mysupport.netapp.com/site/products/all/details/ontap9/downloads-tab"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/NTAP-20210601-0001/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:netapp:clustered_data_ontap:9.7:p12:*:*:*:*:*:*"
+  }
+}

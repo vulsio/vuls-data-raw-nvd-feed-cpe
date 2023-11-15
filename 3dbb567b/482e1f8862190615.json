@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openstack:tripleo_ansible:2.6.0",
+  "title": [
+    {
+      "text": "OpenStack TripleO Ansible 2.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/openstack/tripleo-ansible"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.openstack.org/releasenotes/tripleo-ansible/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2022-3101"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:tripleo_ansible:2.6.0:*:*:*:*:*:*:*"
+  }
+}

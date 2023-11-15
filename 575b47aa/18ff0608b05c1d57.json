@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gnupg:libgcrypt:1.8.2",
+  "title": [
+    {
+      "text": "GnuPG Libgcrypt 1.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://gnupg.org/software/libgcrypt/index.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://gnupg.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnupg:libgcrypt:1.8.2:*:*:*:*:*:*:*"
+  }
+}

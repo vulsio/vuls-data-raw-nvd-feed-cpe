@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bouncycastle:fips_java_api:1.0.2.4",
+  "title": [
+    {
+      "text": "Bouncy Castle FIPS Java API 1.0.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bcgit/bc-java/wiki/CVE-2022-45146"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.bouncycastle.org/latest_releases.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bouncycastle:fips_java_api:1.0.2.4:*:*:*:*:*:*:*"
+  }
+}

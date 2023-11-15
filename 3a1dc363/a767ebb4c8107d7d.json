@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tpm2-tools_project:tpm2-tools:5.1",
+  "deprecated": true,
+  "deprecation_date": "2021-07-09T14:07:18.737Z",
+  "title": [
+    {
+      "text": "Tpm2-tools Project Tpm2-tools 5.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tpm2-software/tpm2-tools/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1964427"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-09T10:07:18.737-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tpm2-tools_project:tpm2-tools:5.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

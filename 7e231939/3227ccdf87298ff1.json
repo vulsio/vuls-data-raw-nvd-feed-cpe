@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:openstack-cinder:15.0.0",
+  "title": [
+    {
+      "text": "Red Hat Openstack-cinder 15.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.openstack.org/releasenotes/cinder/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wiki.openstack.org/wiki/Cinder"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.openstack.org/cinder/latest/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openstack-cinder:15.0.0:*:*:*:*:*:*:*"
+  }
+}

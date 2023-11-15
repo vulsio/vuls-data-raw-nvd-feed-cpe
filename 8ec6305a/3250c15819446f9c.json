@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:grandstream:wp820_firmware:1.0.3.6",
+  "title": [
+    {
+      "text": "Grandstream WP820 Firmware 1.0.3.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/scarvell/grandstream_exploits"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.grandstream.com/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.grandstream.com/products/ip-voice-telephony/wifi-cordless/product/wp820"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.grandstream.com/products/ip-video-telephony/ip-video-phones-android/product/gxv3370"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:grandstream:wp820_firmware:1.0.3.6:*:*:*:*:*:*:*"
+  }
+}

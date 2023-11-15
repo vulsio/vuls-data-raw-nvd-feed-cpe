@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:cisco:pix_firewall:6.0%282%29",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:37:28.570Z",
+  "title": [
+    {
+      "text": "Cisco PIX Firewall Software 6.0(2)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:pix_firewall:6.0\\(2\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:37:28.570-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:pix_firewall_software:6.0\\(2\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

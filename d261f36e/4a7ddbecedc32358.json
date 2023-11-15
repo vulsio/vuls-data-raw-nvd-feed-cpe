@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:redhat:hibernate_validator:5.1.0",
+  "deprecated": true,
+  "deprecation_date": "2019-03-21T12:35:58.097Z",
+  "title": [
+    {
+      "text": "Red Hat Hibernate Validator 5.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "http://hibernate.org/validator/releases/5.1/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:hibernate_validator:5.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-21T08:35:58.097-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:hibernate_validator:5.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

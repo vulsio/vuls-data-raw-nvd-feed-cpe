@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:bestwebsoft:portfolio:2.3::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-03-03T16:13:53.580Z",
+  "title": [
+    {
+      "text": "BestWebSoft Portfolio 2.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://bestwebsoft.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/portfolio/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bestwebsoft:portfolio:2.3:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-03-03T11:13:53.580-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bestwebsoft:portfolio:2.30:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

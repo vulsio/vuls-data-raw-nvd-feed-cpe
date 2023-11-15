@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ribose:rnp:0.13.0",
+  "title": [
+    {
+      "text": "Ribose RNP 0.13.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://open.ribose.com/advisories/ra-2021-05-30/#CVE-2021-33589"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.rnpgp.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rnpgp/rnp/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ribose:rnp:0.13.0:*:*:*:*:*:*:*"
+  }
+}

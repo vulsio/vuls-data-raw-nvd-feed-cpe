@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_7:sp1::~~~~x86~",
+  "deprecated": true,
+  "deprecation_date": "2022-11-14T17:02:07.337Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 7 Service Pack 1 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/windows/features"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-40465"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_7:sp1:*:*:*:*:*:x86:*",
+    "deprecation": {
+      "date": "2022-11-14T12:02:07.337-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_7:-:sp1:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

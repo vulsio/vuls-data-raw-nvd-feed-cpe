@@ -1,0 +1,43 @@
+{
+  "name": "cpe:/a:mruby:mruby:-",
+  "deprecated": true,
+  "deprecation_date": "2023-01-17T20:29:22.787Z",
+  "title": [
+    {
+      "text": "mruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mruby.org/"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/mruby/mruby"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/6ea041d1-e2aa-472c-bf3e-da5fa8726c25/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mruby/mruby/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/1xxx/CVE-2022-1276.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mruby:mruby:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-17T15:29:22.787-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mruby:mruby:-:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

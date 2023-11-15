@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:mercedes-benz:a_220_4matic:-",
+  "title": [
+    {
+      "text": "Mercedes-benz A 220 4MATIC",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mercedes-benz.com/en/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mbusa.com/en/vehicles/class/a-class/sedan"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://keenlab.tencent.com/en/whitepapers/Mercedes_Benz_Security_Research_Report_Final.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:mercedes-benz:a_220_4matic:-:*:*:*:*:*:*:*"
+  }
+}

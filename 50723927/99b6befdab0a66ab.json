@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:script:oceanwp_sticky_header:1.0.8::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2022-12-06T14:47:05.647Z",
+  "title": [
+    {
+      "text": "Script Oceanwp Sticky Header 1.0.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/sticky-header-oceanwp/wordpress-oceanwp-sticky-header-plugin-1-0-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/sticky-header-oceanwp/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.script.co.il/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:script:oceanwp_sticky_header:1.0.8:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2022-12-06T09:47:05.647-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oceanwp:sticky_header:1.0.8:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

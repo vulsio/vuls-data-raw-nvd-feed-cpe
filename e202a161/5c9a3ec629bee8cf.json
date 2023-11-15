@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:flask-nginx_base_helm_project:flask-nginx_base_helm:2022-05-25",
+  "title": [
+    {
+      "text": "Flask-Nginx Base Helm Project Flask-Nginx Base Helm 2022-05-25",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/olmax99/helm-flask-celery"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/olmax99/helm-flask-celery/issues/1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31549.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:flask-nginx_base_helm_project:flask-nginx_base_helm:2022-05-25:*:*:*:*:*:*:*"
+  }
+}

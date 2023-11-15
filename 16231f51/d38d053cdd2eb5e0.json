@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:testlink:3.1.5::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins TestLink 3.1.5 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/testlink"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/testlink-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:testlink:3.1.5:*:*:*:*:jenkins:*:*"
+  }
+}

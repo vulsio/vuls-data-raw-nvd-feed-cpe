@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:replywp:simple_cloudfare_turnstile:1.8.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ReplyWP Simple Cloudfare Turnstile 1.8.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://relywp.com/plugins/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/simple-cloudflare-turnstile/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-cloudflare-turnstile/simple-cloudflare-turnstile-1231-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:replywp:simple_cloudfare_turnstile:1.8.2:*:*:*:*:wordpress:*:*"
+  }
+}

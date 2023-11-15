@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:femanager_project:femanager:1.0.2::~~~typo3~~",
+  "deprecated": true,
+  "deprecation_date": "2022-02-03T19:31:23.920Z",
+  "title": [
+    {
+      "text": "femanager project  femanager for TYPO3 1.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product Changelog",
+      "href": "http://typo3.org/extensions/repository/view/femanager"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:femanager_project:femanager:1.0.2:*:*:*:*:typo3:*:*",
+    "deprecation": {
+      "date": "2022-02-03T14:31:23.920-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:in2code:femanager:1.0.2:*:*:*:*:typo3:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

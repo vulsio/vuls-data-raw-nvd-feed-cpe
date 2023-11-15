@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:martem:telem_gwm:-",
+  "deprecated": true,
+  "deprecation_date": "2021-06-23T14:21:32.193Z",
+  "title": [
+    {
+      "text": "Martem Telem GWM",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:martem:telem_gwm:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-23T10:21:32.193-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:martem:telem-gwm:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

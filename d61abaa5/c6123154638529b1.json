@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:amazon:opensearch:2.0.0::~~~ruby~~",
+  "title": [
+    {
+      "text": "Amazon OpenSearch 2.0.0 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://aws.amazon.com/opensearch-service/the-elk-stack/what-is-opensearch/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://opensearch.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/opensearch-project/opensearch-ruby/security/advisories/GHSA-977c-63xq-cgw3"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/opensearch-project/opensearch-ruby/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:opensearch:2.0.0:*:*:*:*:ruby:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:digitalinspiration:google_xml_sitemap_for_mobile:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Digital Inspiration Google XML Sitemap For Mobile 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/google-mobile-sitemap/wordpress-google-xml-sitemap-for-mobile-plugin-1-6-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.trac.wordpress.org/log/google-mobile-sitemap?format=changelog&rev=2937878&limit=100&mode=stop_on_copy"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://digitalinspiration.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:digitalinspiration:google_xml_sitemap_for_mobile:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

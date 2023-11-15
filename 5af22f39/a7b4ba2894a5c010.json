@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:cisco:prime_infrastructure:3.0.0",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T17:46:15.370Z",
+  "title": [
+    {
+      "text": "Cisco Prime Infrastructure 3.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.cisco.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160302-cpi1"
+    },
+    {
+      "text": "Version",
+      "href": "https://software.cisco.com/download/navigator.html?mdfid=284145020"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:prime_infrastructure:3.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T13:46:15.370-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:prime_infrastructure:3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

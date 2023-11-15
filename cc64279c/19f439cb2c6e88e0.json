@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:arm:mbed-mqtt:2017-11-02",
+  "title": [
+    {
+      "text": "Arm Mbed MQTT 2017-11-02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ARMmbed/mbed-os/issues/11802"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/eclipse/paho.mqtt.embedded-c"
+    },
+    {
+      "text": "Product",
+      "href": "https://os.mbed.com/teams/mqtt/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.mbed.com/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arm:mbed-mqtt:2017-11-02:*:*:*:*:*:*:*"
+  }
+}

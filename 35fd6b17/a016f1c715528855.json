@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:solarwinds:web_help_desk:12.7.0",
+  "title": [
+    {
+      "text": "Solarwinds Web Help Desk 12.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.solarwinds.com/free-tools/free-help-desk-software"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2019/16xxx/CVE-2019-16956.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.esecforte.com/cross-site-scripting-vulnerability-india-responsible-vulnerability-disclosure/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solarwinds:web_help_desk:12.7.0:*:*:*:*:*:*:*"
+  }
+}

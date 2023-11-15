@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:yubico:yubikey_5_nfc:-",
+  "title": [
+    {
+      "text": "Yubico YubiKey 5 NFC",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.yubico.com/support/security-advisories/ysa-2020-04/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.yubico.com/product/yubikey-5-nfc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:yubico:yubikey_5_nfc:-:*:*:*:*:*:*:*"
+  }
+}

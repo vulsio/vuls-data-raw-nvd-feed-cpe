@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:sophos:united_threat_management:9.702",
+  "deprecated": true,
+  "deprecation_date": "2021-12-10T15:04:15.727Z",
+  "title": [
+    {
+      "text": "Sophos United Threat Management (UTM) 9.702",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sophos.com/en-us/medialibrary/PDFs/factsheets/sophosutmoverviewdsna.pdf"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://community.sophos.com/utm-firewall/b/blog"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sophos:united_threat_management:9.702:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-12-10T10:04:15.727-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sophos:unified_threat_management:9.702:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

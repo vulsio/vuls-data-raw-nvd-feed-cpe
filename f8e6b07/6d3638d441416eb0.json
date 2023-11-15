@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:intel:e7-8850_firmware:-",
+  "title": [
+    {
+      "text": "Intel E7-8850 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/53575/intel-xeon-processor-e7-8850-24m-cache-2-00-ghz-6-40-gt-s-intel-qpi.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/processors/xeon/e7-processors.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:e7-8850_firmware:-:*:*:*:*:*:*:*"
+  }
+}

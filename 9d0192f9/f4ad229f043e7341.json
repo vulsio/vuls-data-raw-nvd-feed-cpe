@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:amazon:open_distro:1.8.0::~~~elasticsearch~~",
+  "title": [
+    {
+      "text": "Amazon Open Distro 1.8.0 for Elasticsearch",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://opendistro.github.io/for-elasticsearch-docs/"
+    },
+    {
+      "text": "Version",
+      "href": "https://opendistro.github.io/for-elasticsearch-docs/version-history/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/opendistro-for-elasticsearch/alerting/pull/353"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:open_distro:1.8.0:*:*:*:*:elasticsearch:*:*"
+  }
+}

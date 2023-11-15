@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:blender:blender:2.78:c",
+  "title": [
+    {
+      "text": "Blender 2.78 C",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/blender/blender/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2017-0406"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.blender.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blender:blender:2.78:c:*:*:*:*:*:*"
+  }
+}

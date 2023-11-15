@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:git-archive_project:git-archive:0.0.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Git-archive Project Git-archive 0.0.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-GITARCHIVE-1050391"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/git-archive"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:git-archive_project:git-archive:0.0.3:*:*:*:*:node.js:*:*"
+  }
+}

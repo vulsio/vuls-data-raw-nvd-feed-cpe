@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:argo_continuous_delivery:2.6.0:rc1:~~~kubernetes~~",
+  "title": [
+    {
+      "text": "The Linux Foundation Argo Continuous Delivery (Argo CD) 2.6.0 Release Candidate 1 for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/argoproj/argo-cd/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://argoproj.github.io/cd"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.6.0:rc1:*:*:*:kubernetes:*:*"
+  }
+}

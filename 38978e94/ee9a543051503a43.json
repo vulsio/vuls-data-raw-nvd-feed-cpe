@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_security_suite:1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:28:18.890Z",
+  "title": [
+    {
+      "text": "Computer Associates etrust Security Suite r1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_security_suite:1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:28:18.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_security_suite:1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

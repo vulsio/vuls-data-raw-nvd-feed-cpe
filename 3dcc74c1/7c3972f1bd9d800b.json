@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:elementor:elementor:1.4.2::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2020-08-25T12:19:54.113Z",
+  "title": [
+    {
+      "text": "Elementor 1.4.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/elementor/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elementor:elementor:1.4.2:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2020-08-25T08:19:54.113-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elementor:elementor_page_builder:1.4.2:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

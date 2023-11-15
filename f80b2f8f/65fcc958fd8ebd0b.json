@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:dameware:mini_remote_control:6.6.0.8",
+  "deprecated": true,
+  "deprecation_date": "2019-10-22T12:41:08.003Z",
+  "title": [
+    {
+      "text": "Dameware Mini Remote Control 6.6.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dameware:mini_remote_control:6.6.0.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-22T08:41:08.003-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:solarwinds:dameware_mini_remote_control:6.6.0.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

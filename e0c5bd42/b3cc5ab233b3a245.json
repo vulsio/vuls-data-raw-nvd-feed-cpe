@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rsa:bsafe_ssl-j:6.2.4.1",
+  "deprecated": true,
+  "deprecation_date": "2021-11-08T15:48:22.727Z",
+  "title": [
+    {
+      "text": "RSA BSAFE SSL-J 6.2.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/docs/DOC-100709"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/security/en-us/details/DOC-106556/DSA-2019-094-RSA-BSAFE&#174;-Crypto-J-Multiple-Security-Vulnerabilities"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsa:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-11-08T10:48:22.727-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe_ssl-j:6.2.4.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

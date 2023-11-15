@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:cloudflare:wrangler:2.1.13::~~~node.js~~",
+  "title": [
+    {
+      "text": "Cloudflare Wrangler 2.1.13 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/wrangler?activeTab=versions"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cloudflare/workers-sdk/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cloudflare/workers-sdk/security/advisories/GHSA-8c93-4hch-xgxp"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudflare.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudflare:wrangler:2.1.13:*:*:*:*:node.js:*:*"
+  }
+}

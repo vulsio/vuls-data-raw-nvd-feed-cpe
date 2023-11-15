@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:transloadit:uppy:0.24.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Transloadit Uppy 0.24.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/uppy"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://transloadit.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/891270"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/transloadit/uppy/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:transloadit:uppy:0.24.0:*:*:*:*:node.js:*:*"
+  }
+}

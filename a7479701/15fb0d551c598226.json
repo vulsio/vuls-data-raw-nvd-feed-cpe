@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2008:-:sp2:x32",
+  "deprecated": true,
+  "deprecation_date": "2012-02-10T19:24:31.563Z",
+  "title": [
+    {
+      "text": "Windows Server 2008 Service Pack 2 for 32-bit systems",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:x32:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-10T14:24:31.563-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:x86:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

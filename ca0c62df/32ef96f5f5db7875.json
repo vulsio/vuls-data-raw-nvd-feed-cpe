@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cern:indico:3.0.3",
+  "title": [
+    {
+      "text": "Cern Indico 3.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/indico/indico/security/advisories/GHSA-fmqq-25x9-c6hm"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/indico/indico/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cern:indico:3.0.3:*:*:*:*:*:*:*"
+  }
+}

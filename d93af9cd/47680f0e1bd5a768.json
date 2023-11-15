@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nodejs:node.js:14.17.5::~~lts~~~",
+  "title": [
+    {
+      "text": "Nodejs Node.js 14.17.5 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://nodejs.org/en/blog/release/v14.17.5/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nodejs.org/en/blog/vulnerability/aug-2021-security-releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:14.17.5:*:*:*:lts:*:*:*"
+  }
+}

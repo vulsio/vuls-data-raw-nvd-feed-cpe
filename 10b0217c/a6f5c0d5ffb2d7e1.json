@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:amd:epyc_embedded_3551_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) Epyc Embedded 3551 Firmware -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/corporate/product-security/bulletin/AMD-SB-1045"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.amd.com/en/products/embedded-epyc-3000-series"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:epyc_embedded_3551_firmware:-:*:*:*:*:*:*:*"
+  }
+}

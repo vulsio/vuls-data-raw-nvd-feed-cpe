@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ibm:cognos_analytics:11.0.0.0",
+  "deprecated": true,
+  "deprecation_date": "2019-09-30T15:39:41.287Z",
+  "title": [
+    {
+      "text": "IBM Cognos Analytics 11.0.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.ibm.com/us-en/?lnk=m"
+    },
+    {
+      "text": "Version",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg24043090"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:cognos_analytics:11.0.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-30T11:39:41.287-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:cognos_analytics:11.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

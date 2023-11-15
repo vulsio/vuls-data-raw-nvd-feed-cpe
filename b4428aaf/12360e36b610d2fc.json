@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:fontforge_project:fontforge:20190317",
+  "deprecated": true,
+  "deprecation_date": "2020-01-13T14:23:38.473Z",
+  "title": [
+    {
+      "text": "Fontforge Project Fontforge 20190317",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fontforge/fontforge/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fontforge_project:fontforge:20190317:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-13T09:23:38.473-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:fontforge:fontforge:20190317:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

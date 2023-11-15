@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:lightbend:akka_discovery:2.8.0",
+  "title": [
+    {
+      "text": "Lightbend Akka Discovery 2.8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://doc.akka.io/docs/akka/current/discovery/index.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.lightbend.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://akka.io/security/akka-async-dns-2023-31442.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lightbend:akka_discovery:2.8.0:*:*:*:*:*:*:*"
+  }
+}

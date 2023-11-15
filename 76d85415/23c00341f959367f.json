@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:alluxio:alluxio:303",
+  "title": [
+    {
+      "text": "Alluxio Alluxio 303",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.alluxio.io/download/releases/alluxio-2-7-3-release/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Alluxio/alluxio/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.alluxio.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Alluxio/alluxio/issues/17766"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Alluxio/alluxio/issues/10552"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alluxio:alluxio:303:*:*:*:*:*:*:*"
+  }
+}

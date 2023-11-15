@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:dell:emc_vmax_embedded_management:1.4",
+  "title": [
+    {
+      "text": "Dell EMC VMAX Embedded Management (eManagement) 1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.emc.com/collateral/TechnicalDocument/docu78884.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/security/research/tra-2018-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dell:emc_vmax_embedded_management:1.4:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:github:pull_requests_and_issues:-::~~~visual_studio~~",
+  "title": [
+    {
+      "text": "Github Pull Requests And Issues - for Visual Studio",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36867"
+    },
+    {
+      "text": "Product",
+      "href": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:github:pull_requests_and_issues:-:*:*:*:*:visual_studio:*:*"
+  }
+}

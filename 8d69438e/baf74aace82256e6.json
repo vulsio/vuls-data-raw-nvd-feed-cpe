@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:dell:km632_wireless_keyboard:-",
+  "title": [
+    {
+      "text": "Dell KM632 Wireless Keyboard",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.dell.com/support/home/en-us/product-support/product/dell-km632-dsktp-wir-kybrd/docs"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BastilleResearch/keyjack/tree/master/doc/advisories"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.bastille.net/research/vulnerabilities/keyjack"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:dell:km632_wireless_keyboard:-:*:*:*:*:*:*:*"
+  }
+}

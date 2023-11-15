@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:roundcube:roundcube_webmail:1.0.8",
+  "deprecated": true,
+  "deprecation_date": "2017-11-28T18:34:57.793Z",
+  "title": [
+    {
+      "text": "RoundCube Webmail 1.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/roundcube/roundcubemail/releases/tag/1.0.8"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/roundcube/roundcubemail/blob/master/CHANGELOG"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:roundcube:roundcube_webmail:1.0.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-11-28T13:34:57.793-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:roundcube:webmail:1.0.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

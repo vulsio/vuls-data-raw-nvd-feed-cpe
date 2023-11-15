@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:tiny-conf_project:tiny-conf:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "tiny-conf Project tiny-conf for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-TINYCONF-598792"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/tiny-conf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tiny-conf_project:tiny-conf:-:*:*:*:*:node.js:*:*"
+  }
+}

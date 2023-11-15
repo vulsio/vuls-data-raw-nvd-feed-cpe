@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:progress:openedge:11.7.16::~~lts~~~",
+  "title": [
+    {
+      "text": "Progress OpenEdge 11.7.16 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.progress.com/bundle/openedge-life-cycle/page/OpenEdge-Life-Cycle.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/34xxx/CVE-2023-34203.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:progress:openedge:11.7.16:*:*:*:lts:*:*:*"
+  }
+}

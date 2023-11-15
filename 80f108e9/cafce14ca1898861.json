@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vm_backups_project:vm_backups:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "VM Backups Project VM Backups for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/vm-backups/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/187e6967-6961-4843-a9d5-866f6ebdb7bc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vm_backups_project:vm_backups:-:*:*:*:*:wordpress:*:*"
+  }
+}

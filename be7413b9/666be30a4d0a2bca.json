@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:e5506:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:50.013Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5506",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:e5506:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:50.013-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5506:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

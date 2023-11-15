@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:solokeys:somu:-",
+  "title": [
+    {
+      "text": "Solokeys Somu",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://solokeys.com/products/somu-tiny-security-key-two-factor-authentication-u2f-and-fido2-usb-a"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://solokeys.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27208.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202238"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:solokeys:somu:-:*:*:*:*:*:*:*"
+  }
+}

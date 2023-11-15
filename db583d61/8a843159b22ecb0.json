@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rsa:authentication_manager:8.2:-",
+  "deprecated": true,
+  "deprecation_date": "2020-03-27T14:07:44.073Z",
+  "title": [
+    {
+      "text": "RSA Authentication Manager 8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/docs/DOC-73369#jive_content_id_RSAAuthentication_Manager_Appliance_8x"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsa:authentication_manager:8.2:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-27T10:07:44.073-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:emc:rsa_authentication_manager:8.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

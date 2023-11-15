@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:freepbx:freepbx:2.11.0.0:beta1.9",
+  "deprecated": true,
+  "deprecation_date": "2019-12-10T16:01:41.860Z",
+  "title": [
+    {
+      "text": "FreePBX 2.11.0.0 Beta1.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/FreePBX/framework"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freepbx:freepbx:2.11.0.0:beta1.9:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-10T11:01:41.860-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sangoma:freepbx:2.11.0.0:beta1.9:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

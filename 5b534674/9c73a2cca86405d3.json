@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rubrik:copy_data_management:5.0.4",
+  "deprecated": true,
+  "deprecation_date": "2021-07-01T14:30:32.613Z",
+  "title": [
+    {
+      "text": "Rubrik Copy Data Management 5.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.rubrik.com/products/cloud-data-management"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubrik:copy_data_management:5.0.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-01T10:30:32.613-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubrik:cdm:5.0.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

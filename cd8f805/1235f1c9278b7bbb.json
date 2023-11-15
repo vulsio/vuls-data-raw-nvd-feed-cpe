@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:altaware:palo_alto_networks_panos:4.1.10",
+  "deprecated": true,
+  "deprecation_date": "2014-07-11T16:37:02.453Z",
+  "title": [
+    {
+      "text": "Altaware Palo Alto Networks PANOS 4.1.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.altaware.com/v/paloalto/release-history/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:altaware:palo_alto_networks_panos:4.1.10:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-07-11T12:37:02.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:paloaltonetworks:pan-os:4.1.10:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

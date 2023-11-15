@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:hp:yoga_520-14ikb_firmware:2.09",
+  "deprecated": true,
+  "deprecation_date": "2019-12-10T16:31:08.567Z",
+  "title": [
+    {
+      "text": "HP Yoga 520-14IKB Firmware 2.09",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:hp:yoga_520-14ikb_firmware:2.09:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-10T11:31:08.567-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:lenovo:yoga_520-14ikb_firmware:2.09:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

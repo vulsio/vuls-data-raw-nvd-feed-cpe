@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:acti:nvr:2.3.04.07::~~professional~~~",
+  "title": [
+    {
+      "text": "ACTi NVR 2.3.04.07 Professional Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www2.acti.com/controller/product/support.asp?PRID=NVR_Professional"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/megamagnus/cve-2020-15956"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acti:nvr:2.3.04.07:*:*:*:professional:*:*:*"
+  }
+}

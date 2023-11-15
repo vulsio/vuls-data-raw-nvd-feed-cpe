@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:synaptics:vfs75xx:-",
+  "title": [
+    {
+      "text": "Synaptics VFS75xx",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.synaptics.com/products/biometrics"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.synaptics.com/sites/default/files/fingerprint-sensor-VFS7500-security-brief-2020-07-14.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:synaptics:vfs75xx:-:*:*:*:*:*:*:*"
+  }
+}

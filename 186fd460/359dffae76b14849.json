@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:themeblvd:tweeple:0.8.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Themeblvd Tweeple 0.8.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/tweeple/wordpress-tweeple-plugin-0-9-5-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/tweeple/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themeblvd:tweeple:0.8.0:*:*:*:*:wordpress:*:*"
+  }
+}

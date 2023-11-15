@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:automattic:vaultpress:1.7.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Automattic VaultPress 1.7.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/vaultpress/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Automattic/jetpack/blob/trunk/projects/plugins/vaultpress/CHANGELOG.md#changelog"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://automattic.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:automattic:vaultpress:1.7.0:*:*:*:*:wordpress:*:*"
+  }
+}

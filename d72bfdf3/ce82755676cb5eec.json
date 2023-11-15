@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:glance:16.0.0:rc3",
+  "title": [
+    {
+      "text": "OpenStack Glance 16.0.0 Release Candidate 3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.openstack.org/glance/latest/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/glance/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:glance:16.0.0:rc3:*:*:*:*:*:*"
+  }
+}

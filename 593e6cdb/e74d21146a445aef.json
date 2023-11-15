@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dell:enterprise_sonic_distribution:4.0.0",
+  "title": [
+    {
+      "text": "Dell Enterprise Sonic Distribution 4.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.dell.com/en-us/shop/povw/sonic"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000203395/dsa-2022-257-dell-emc-enterprise-sonic-security-update-for-ssh-cryptographic-key-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dell:enterprise_sonic_distribution:4.0.0:*:*:*:*:*:*:*"
+  }
+}

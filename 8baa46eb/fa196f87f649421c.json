@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_siteminder:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:29:42.947Z",
+  "title": [
+    {
+      "text": "Computer Associates eTrust SiteMinder",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_siteminder:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:29:42.947-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_siteminder:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

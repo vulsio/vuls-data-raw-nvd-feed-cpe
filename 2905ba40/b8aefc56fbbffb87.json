@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:expressjs:express:4.1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-07-30T16:35:11.583Z",
+  "title": [
+    {
+      "text": "expressjs Express 4.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/expressjs/express/blob/master/History.md#4140--2016-06-16"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:expressjs:express:4.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-30T12:35:11.583-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openjsf:express:4.1.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

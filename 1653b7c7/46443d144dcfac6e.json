@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:libksba_project:libksba:0.9.15",
+  "deprecated": true,
+  "deprecation_date": "2023-05-18T18:08:03.173Z",
+  "title": [
+    {
+      "text": "Libksba Project Libksba 0.9.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://git.gnupg.org/cgi-bin/gitweb.cgi?p=libksba.git;a=tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libksba_project:libksba:0.9.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-18T14:08:03.173-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnupg:libksba:0.9.15:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

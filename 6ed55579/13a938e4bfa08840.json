@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:miniupnp_project:miniupnpd:1.8",
+  "deprecated": true,
+  "deprecation_date": "2019-06-26T16:44:21.327Z",
+  "title": [
+    {
+      "text": "MiniUPnP Project MiniUPnPd 1.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/miniupnp/miniupnp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:miniupnp_project:miniupnpd:1.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-26T12:44:21.327-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:miniupnp_project:miniupnpd:1.8:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

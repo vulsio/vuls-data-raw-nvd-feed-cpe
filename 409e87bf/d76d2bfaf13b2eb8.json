@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:aveva:plant_scada_access_anywhere:-",
+  "title": [
+    {
+      "text": "Aveva Plant Scada Access Anywhere",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/AVEVA-2022-001.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-22-130-05"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.aveva.com/content/dam/aveva/documents/brochures/Brochure_AVEVA_PlantSCADA_AccessAnywhere_21-12.pdf.coredownload.inline.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:aveva:plant_scada_access_anywhere:-:*:*:*:*:*:*:*"
+  }
+}

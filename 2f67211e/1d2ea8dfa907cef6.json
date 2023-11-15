@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:2620_v4",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T11:29:12.700Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 2620 V4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:2620_v4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-05T07:29:12.700-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5_2620_v4:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

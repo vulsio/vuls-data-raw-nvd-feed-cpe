@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:kernel:linux-pam:1.1.8",
+  "deprecated": true,
+  "deprecation_date": "2019-01-03T15:01:45.587Z",
+  "title": [
+    {
+      "text": "kernel pam 1.1.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product information",
+      "href": "https://www.kernel.org/pub/linux/libs/pam/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kernel:linux-pam:1.1.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-01-03T10:01:45.587-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linux-pam:linux-pam:1.1.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

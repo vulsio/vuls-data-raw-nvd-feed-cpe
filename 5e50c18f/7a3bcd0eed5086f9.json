@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:private_only_project:private_only:3.5.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Private Only Project Private Only 3.5.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.dxw.com/advisories/csrfxss-vulnerability-in-private-only-could-allow-an-attacker-to-do-almost-anything-an-admin-user-can/"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/private-only/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:private_only_project:private_only:3.5.1:*:*:*:*:wordpress:*:*"
+  }
+}

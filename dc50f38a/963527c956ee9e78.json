@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:resortdata:internet_reservation_module_next_generation:5.3.2.15",
+  "title": [
+    {
+      "text": "Resort Data Processing Internet Reservation Module (IRM) Next Generation 5.3.2.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.bitdefender.com/blog/labs/check-out-with-extra-charges-vulnerabilities-in-hotel-booking-engine-explained/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/39xxx/CVE-2023-39420.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.resortdata.com/solutions/guest-experience/channel-manager-booking/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:resortdata:internet_reservation_module_next_generation:5.3.2.15:*:*:*:*:*:*:*"
+  }
+}

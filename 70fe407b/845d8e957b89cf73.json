@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:webdesi9:file_manager:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Webdesi9 File Manager for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://webdesi9.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://n4nj0.github.io/advisories/wordpress-plugin-wp-file-manager-i/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-file-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:webdesi9:file_manager:-:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:inoculateit:6.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:00:05.630Z",
+  "title": [
+    {
+      "text": "Computer Associates InoculateIT 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:inoculateit:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:00:05.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:inoculateit:6.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:71note:go-bbs:1.0",
+  "title": [
+    {
+      "text": "71note Go-bbs 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/gobbscom/go-bbs"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/gobbscom/go-bbs/issues/10"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.71note.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/27xxx/CVE-2023-27755.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:71note:go-bbs:1.0:*:*:*:*:*:*:*"
+  }
+}

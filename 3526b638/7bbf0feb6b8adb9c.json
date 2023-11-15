@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:codecabin:wp_google_maps:8.0.30::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-23T20:46:55.447Z",
+  "title": [
+    {
+      "text": "CodeCabin WP Google Maps 8.0.30 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://codecabin.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.wpgmaps.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-google-maps/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:codecabin:wp_google_maps:8.0.30:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-23T16:46:55.447-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:codecabin:wp_go_maps:8.0.30:*:*:*:basic:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

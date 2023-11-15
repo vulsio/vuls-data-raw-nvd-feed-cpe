@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tailscale:tailscale:0.96.1",
+  "title": [
+    {
+      "text": "Tailscale 0.96.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://tailscale.com/changelog/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tailscale/tailscale/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/tailscale/tailscale/security/advisories/GHSA-qccm-wmcq-pwr6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tailscale:tailscale:0.96.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:plex:media_server:1.21",
+  "title": [
+    {
+      "text": "Plex Media Server 1.21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://plex.tv/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.plex.tv/media-server-downloads/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/lixiang957/CVE-2021-33959"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:plex:media_server:1.21:*:*:*:*:*:*:*"
+  }
+}

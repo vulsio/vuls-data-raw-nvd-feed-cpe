@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:adobe:acrobat:8.0.0",
+  "deprecated": true,
+  "deprecation_date": "2011-03-24T16:01:18.500Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat 8.0",
+      "lang": "en-US"
+    },
+    {
+      "text": "アドビシステムズ アクロバット 8.0",
+      "lang": "ja-JP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:acrobat:8.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-03-24T12:01:18.500-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

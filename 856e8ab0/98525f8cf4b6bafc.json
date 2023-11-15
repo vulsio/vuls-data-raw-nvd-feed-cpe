@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:eset:cyber_security:6.8.1.0::~~-~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T13:44:14.757Z",
+  "title": [
+    {
+      "text": "ESET Cyber Security 6.8.1.0 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.eset.com/us/home/cyber-security/download/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eset:cyber_security:6.8.1.0:*:*:*:-:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T09:44:14.757-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:eset:cyber_security:6.8.1.0:*:*:*:-:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

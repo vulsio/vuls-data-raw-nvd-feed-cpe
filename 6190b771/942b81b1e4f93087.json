@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:graphics_driver:25.20.100.6618::~~~windows~~",
+  "title": [
+    {
+      "text": "Intel Graphics Driver 25.20.100.6618 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00242.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://downloadcenter.intel.com/product/80939/Graphics-Drivers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:graphics_driver:25.20.100.6618:*:*:*:*:windows:*:*"
+  }
+}

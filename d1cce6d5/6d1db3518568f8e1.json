@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rocket.chat:rocket.chat:6.0.0:rc1",
+  "title": [
+    {
+      "text": "Rocket.Chat 6.0.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/RocketChat/Rocket.Chat/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1757663"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/23xxx/CVE-2023-23911.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rocket.chat:rocket.chat:6.0.0:rc1:*:*:*:*:*:*"
+  }
+}

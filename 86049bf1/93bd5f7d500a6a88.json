@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:prime_collaboration_provisioning:12.6",
+  "deprecated": true,
+  "deprecation_date": "2020-06-30T19:01:19.880Z",
+  "title": [
+    {
+      "text": "Cisco Prime Collaboration Provisioning 12.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://software.cisco.com/download/home/284255727"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-30T15:01:19.880-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:prime_collaboration_provisioning:12.6:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

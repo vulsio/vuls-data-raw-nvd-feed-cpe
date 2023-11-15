@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:freetype:freetype:2.1.4",
+  "deprecated": true,
+  "deprecation_date": "2021-01-26T12:41:35.043Z",
+  "title": [
+    {
+      "text": "FreeType 2.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freetype:freetype:2.1.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-26T07:41:35.043-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:freetype:freetype:2.1.4:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

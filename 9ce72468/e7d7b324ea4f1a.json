@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:podsfoundation:pods:2.9.11::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Pods Foundation Pods 2.9.11 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://podsfoundation.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://pods.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/pods/wordpress-pods-custom-content-types-and-fields-plugin-2-9-10-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/pods/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:podsfoundation:pods:2.9.11:*:*:*:*:wordpress:*:*"
+  }
+}

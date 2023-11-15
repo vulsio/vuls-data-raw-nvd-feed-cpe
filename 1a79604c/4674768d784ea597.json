@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:silver-peak:vx-1000:-",
+  "deprecated": true,
+  "deprecation_date": "2023-11-07T21:16:03.090Z",
+  "title": [
+    {
+      "text": "Silver Peak VX-1000",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.silver-peak.com/products/wan-optimization/nx-physical-appliances"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:silver-peak:vx-1000:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-07T16:16:03.090-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:arubanetworks:vx-1000:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

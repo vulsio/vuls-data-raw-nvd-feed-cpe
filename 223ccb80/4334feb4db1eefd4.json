@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:nested_view:1.25::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Nested View 1.25 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/nested-view/#releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2768"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:nested_view:1.25:*:*:*:*:jenkins:*:*"
+  }
+}

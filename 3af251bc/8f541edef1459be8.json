@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:blizzard:battle.net:1.27.1.12428",
+  "title": [
+    {
+      "text": "Blizzard Battle.Net 1.27.1.12428",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/FreySolarEye/CVE/blob/master/Battle%20Net%20Launcher%20Local%20Privilege%20Escalation"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.blizzard.com/en-us/apps/battle.net/desktop"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blizzard:battle.net:1.27.1.12428:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:d-link:dcs-5020l_firmware:1.14.09",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DCS-5020L Firmware 1.14.09",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.dlink.com/productinfo.aspx?m=dcs-5020l"
+    },
+    {
+      "text": "Product",
+      "href": "http://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10084"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dcs-5020l_firmware:1.14.09:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

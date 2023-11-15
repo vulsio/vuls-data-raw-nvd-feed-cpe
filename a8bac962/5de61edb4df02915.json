@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:soflyy:wp_all_import:3.4.9::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Soflyy WP All Import 3.4.9 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ansawaf.blogspot.com/2019/04/xss-in-import-any-xml-or-csv-file-for.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wp-all-import/#description"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://soflyy.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:soflyy:wp_all_import:3.4.9:*:*:*:*:wordpress:*:*"
+  }
+}

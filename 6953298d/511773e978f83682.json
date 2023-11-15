@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rsyslog:rsyslog:8.2108.0",
+  "title": [
+    {
+      "text": "Rsyslog Rsyslog 8.2108.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rsyslog/rsyslog/security/advisories/GHSA-ggw7-xr6h-mmr8"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rsyslog/rsyslog/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsyslog:rsyslog:8.2108.0:*:*:*:*:*:*:*"
+  }
+}

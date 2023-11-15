@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mariadb:mariadb:2.13.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "MariaDB 2.13.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/advisories/495/versions"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/mariadb"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://mariadb.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mariadb:mariadb:2.13.0:*:*:*:*:node.js:*:*"
+  }
+}

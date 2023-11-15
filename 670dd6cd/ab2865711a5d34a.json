@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:akka:http_server:10.1.5",
+  "title": [
+    {
+      "text": "Akka HTTP Server 10.1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/akka/akka-http/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://doc.akka.io/docs/akka-http/current/release-notes/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://doc.akka.io/docs/akka-http/10.0/security/2017-05-03-illegal-media-range-in-accept-header-causes-stackoverflowerror.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:akka:http_server:10.1.5:*:*:*:*:*:*:*"
+  }
+}

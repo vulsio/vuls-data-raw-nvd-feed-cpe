@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:microsoft:ie:8.0.6001",
+  "deprecated": true,
+  "deprecation_date": "2021-07-23T15:12:10.117Z",
+  "title": [
+    {
+      "text": "Microsoft Internet Explorer 8.0.6001",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=53313"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:ie:8.0.6001:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-23T11:12:10.117-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:internet_explorer:8.0.6001:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

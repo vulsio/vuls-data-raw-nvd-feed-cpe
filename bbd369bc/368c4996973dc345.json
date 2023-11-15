@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:haxx:curl:4.9",
+  "title": [
+    {
+      "text": "Haxx Curl 4.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1543773"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27774.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:haxx:curl:4.9:*:*:*:*:*:*:*"
+  }
+}

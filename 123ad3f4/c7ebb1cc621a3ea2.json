@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:medtronic:compia_crt-d:-",
+  "title": [
+    {
+      "text": "Medtronic Compia CRT-D",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/crt-systems/crt-d/compia-mri.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.medtronic.com/us-en/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:medtronic:compia_crt-d:-:*:*:*:*:*:*:*"
+  }
+}

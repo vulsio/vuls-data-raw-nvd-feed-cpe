@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:tp-link:smart_plug:-",
+  "title": [
+    {
+      "text": "TP-Link SMART PLUG ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/project-chip/connectedhomeip/issues/28679"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/project-chip/connectedhomeip/issues/28518"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:tp-link:smart_plug:-:*:*:*:*:*:*:*"
+  }
+}

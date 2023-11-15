@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:fluid:0.4.0",
+  "title": [
+    {
+      "text": "Linux Foundation Fluid 0.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://fluid-cloudnative.github.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/fluid-cloudnative/fluid/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fluid-cloudnative/fluid/security/advisories/GHSA-93xx-cvmc-9w3v"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:fluid:0.4.0:*:*:*:*:*:*:*"
+  }
+}

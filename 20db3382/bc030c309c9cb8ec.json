@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gnu:ncurses:6.4",
+  "title": [
+    {
+      "text": "GNU Ncurses 6.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2023/04/13/4"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://ncurses.scripts.mit.edu/?p=ncurses.git;a=commit;h=eb51b1ea1f75a0ec17c9c5937cb28df1e8eeec56"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnu:ncurses:6.4:*:*:*:*:*:*:*"
+  }
+}

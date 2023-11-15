@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openstack:designate:1.0.0:-",
+  "title": [
+    {
+      "text": "OpenStack Designate 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://releases.openstack.org/queens/index.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.openstack.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://lists.openstack.org/pipermail/openstack/2015-July/013548.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:designate:1.0.0:-:*:*:*:*:*:*"
+  }
+}

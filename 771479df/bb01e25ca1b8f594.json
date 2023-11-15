@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zoom:client:3.5.40270.0205::~~~windows~~",
+  "deprecated": true,
+  "deprecation_date": "2020-04-07T19:24:06.147Z",
+  "title": [
+    {
+      "text": "Zoom Client 3.5.40270.0205 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoom:client:3.5.40270.0205:*:*:*:*:windows:*:*",
+    "deprecation": {
+      "date": "2020-04-07T15:24:06.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zoom:zoom:3.5.40270.0205:*:*:*:*:windows:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

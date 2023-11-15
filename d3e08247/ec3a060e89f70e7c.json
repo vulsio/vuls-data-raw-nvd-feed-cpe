@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:td-agent-builder_project:td-agent-builder:-::~~~fluentd~~",
+  "title": [
+    {
+      "text": "Td-agent-builder Project Td-agent-builder for Fluentd",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fluent/fluentd/issues/3201"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/kenhys/td-agent-builder"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:td-agent-builder_project:td-agent-builder:-:*:*:*:*:fluentd:*:*"
+  }
+}

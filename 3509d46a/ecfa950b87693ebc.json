@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:netiq:unix_agent_manager:7.1.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-13T17:44:43.537Z",
+  "title": [
+    {
+      "text": "Netiq Unix Agent Manager 7.1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netiq:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-13T13:44:43.537-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microfocus:unix_agent_manager:7.1.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

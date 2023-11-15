@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:adobe:coldfusion:11.0:update_15",
+  "deprecated": true,
+  "deprecation_date": "2020-09-04T14:05:29.620Z",
+  "title": [
+    {
+      "text": "Adobe ColdFusion 11.0 Update 15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://helpx.adobe.com/in/coldfusion/kb/coldfusion-11-updates.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:coldfusion:11.0:update_15:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-04T10:05:29.620-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:coldfusion:11.0:update15:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:jenkins:jenkins:1.188",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T16:21:58.277Z",
+  "title": [
+    {
+      "text": "Jenkins 1.188",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://jenkins.io/changelog-old/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/jenkinsci/jenkins"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://jenkins.io/changelog/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:jenkins:1.188:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-08T12:21:58.277-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:1.188:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

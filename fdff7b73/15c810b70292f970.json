@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:hp:e42-80_firmware:2wcn38ww",
+  "deprecated": true,
+  "deprecation_date": "2019-12-10T16:30:55.457Z",
+  "title": [
+    {
+      "text": "Hp E42-80 Firmware 2WCN38WW",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:hp:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-10T11:30:55.457-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:lenovo:e42-80_firmware:2wcn38ww:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

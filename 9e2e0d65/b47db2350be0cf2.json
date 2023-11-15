@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:autodesk:design_review_2013:-",
+  "deprecated": true,
+  "deprecation_date": "2015-12-16T17:13:09.287Z",
+  "title": [
+    {
+      "text": "Autodesk Design Review 2013",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://usa.autodesk.com/design-review/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:autodesk:design_review_2013:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-12-16T12:13:09.287-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:autodesk:design_review:2013:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

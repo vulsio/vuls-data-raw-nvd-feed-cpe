@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ubi_reader_project:ubi_reader:0.8.5",
+  "title": [
+    {
+      "text": "Ubi Reader Project Ubi Reader 0.8.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jrspruitt/ubi_reader/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ubi_reader_project:ubi_reader:0.8.5:*:*:*:*:*:*:*"
+  }
+}

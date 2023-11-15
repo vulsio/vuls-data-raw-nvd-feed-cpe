@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:cisco:ios_xe_3.2sg:3.2.2sg",
+  "deprecated": true,
+  "deprecation_date": "2020-09-29T12:13:17.347Z",
+  "title": [
+    {
+      "text": "Cisco IOS XE 3.2SG 3.2.2SG",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/c/en/us/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160928-frag"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios_xe_3.2sg:3.2.2sg:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-29T08:13:17.347-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:ios_xe:3.2.2sg:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

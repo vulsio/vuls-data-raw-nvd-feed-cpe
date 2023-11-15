@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:posthog:posthog:1.0.9",
+  "title": [
+    {
+      "text": "PostHog 1.0.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/PostHog/posthog/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://posthog.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/c13258a2-30e3-4261-9a3b-2f39c49a8bd6/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:posthog:posthog:1.0.9:*:*:*:*:*:*:*"
+  }
+}

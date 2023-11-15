@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:atlassian:sourcetree:1.2.6::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T16:29:54.460Z",
+  "title": [
+    {
+      "text": "Atlassian Sourcetree 1.2.6 for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.sourcetreeapp.com/update/releasenotes/2.7.3.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:sourcetree:1.2.6:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T12:29:54.460-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:sourcetree:1.2.6:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

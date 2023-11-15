@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:nx-os:7.2%280%29zz%2899.1%29::~~~nexus_5000_series~~",
+  "deprecated": true,
+  "deprecation_date": "2022-04-05T15:30:59.380Z",
+  "title": [
+    {
+      "text": "Cisco NX-OS 7.2(0)zz(99.1) for Nexus 5000 Series",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus5500/sw/release/notes/7x/Nexus5500_Release_Notes_7x.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:nx-os:7.2\\(0\\)zz\\(99.1\\):*:*:*:*:nexus_5000_series:*:*",
+    "deprecation": {
+      "date": "2022-04-05T11:30:59.380-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:nx-os:7.2\\(0\\)zz\\(99.1\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

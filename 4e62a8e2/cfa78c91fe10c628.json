@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:paessler_ag:prtg_network_monitor:16.1.22",
+  "deprecated": true,
+  "deprecation_date": "2020-04-02T12:30:00.913Z",
+  "title": [
+    {
+      "text": "Paessler AG PRTG Network Monitor 16.1.22",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.paessler.com/prtg/history"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paessler_ag:prtg_network_monitor:16.1.22:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-02T08:30:00.913-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:paessler:prtg_network_monitor:16.1.22:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

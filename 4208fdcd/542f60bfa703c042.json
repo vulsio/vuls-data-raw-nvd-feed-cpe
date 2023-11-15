@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:visualexpert:-::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins VisualExpert - for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2709"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/visualexpert/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:visualexpert:-:*:*:*:*:jenkins:*:*"
+  }
+}

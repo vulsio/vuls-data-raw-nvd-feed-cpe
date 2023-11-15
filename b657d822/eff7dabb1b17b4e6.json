@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:adaptiva:edge_platform:7.1.903.0",
+  "deprecated": true,
+  "deprecation_date": "2022-08-24T16:58:21.167Z",
+  "title": [
+    {
+      "text": "Adaptiva Edge Platform 7.1.903.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://adaptiva.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://adaptiva.com/release-history/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adaptiva:edge_platform:7.1.903.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-08-24T12:58:21.167-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adaptiva:adaptiva_edge_platform:7.1.903.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:sonar_gerrit:1.0.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Sonar Gerrit 1.0.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/sonar-gerrit"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/sonar-gerrit-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:sonar_gerrit:1.0.1:*:*:*:*:jenkins:*:*"
+  }
+}

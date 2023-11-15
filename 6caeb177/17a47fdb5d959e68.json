@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_kernel-based_virtual_machine:-",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Kernel-based Virtual Machine",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.redhat.com/en/topics/virtualization/what-is-KVM"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5142"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_kernel-based_virtual_machine:-:*:*:*:*:*:*:*"
+  }
+}

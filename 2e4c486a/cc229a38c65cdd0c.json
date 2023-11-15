@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:emc:rsa_bsafe:4.4.0::~~micro_edition_suite~~~",
+  "deprecated": true,
+  "deprecation_date": "2021-11-30T17:23:33.300Z",
+  "title": [
+    {
+      "text": "EMC RSA BSAFE 4.4.0 Micro Edition Suite Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/community/products/bsafe/mes/content?filterID=contentstatus%5Bpublished%5D%7Ecategory%5Brelease-notes%5D"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/security/en-us/details/DOC-107000/DSA-2019-079-RSA-BSAFE&#174;-Crypto-C-Micro-Edition-and-Micro-Edition-Suite-Multiple-Security-Vulnerab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:rsa_bsafe:4.4.0:*:*:*:micro_edition_suite:*:*:*",
+    "deprecation": {
+      "date": "2021-11-30T12:23:33.300-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe:4.4.0:*:*:*:micro_edition_suite:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

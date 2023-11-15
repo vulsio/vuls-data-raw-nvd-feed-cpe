@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:centreon:centreon_web:2.8",
+  "deprecated": true,
+  "deprecation_date": "2021-05-12T17:38:26.863Z",
+  "title": [
+    {
+      "text": "Centreon Web 2.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://documentation.centreon.com/docs/centreon/en/latest/release_notes/centreon-2.8/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:centreon:centreon_web:2.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-12T13:38:26.863-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:centreon:centreon_web:2.8.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

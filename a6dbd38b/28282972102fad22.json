@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:lightning_network_daemon_project:lightning_network_daemon:0.15.4:-",
+  "title": [
+    {
+      "text": "Lightning Network Daemon Project Lightning Network Daemon 0.15.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/lightningnetwork/lnd/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/lightningnetwork/lnd/issues/7096"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/lightningnetwork/lnd/security/advisories/GHSA-hc82-w9v8-83pr"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.15.4:-:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:microsoft:.net:5.0",
+  "deprecated": true,
+  "deprecation_date": "2023-10-15T16:43:04.443Z",
+  "title": [
+    {
+      "text": "Microsoft .NET 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://dotnet.microsoft.com/en-us/download/dotnet"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/dotnet/core/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1721"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:.net:5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-15T12:43:04.443-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:.net:5.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

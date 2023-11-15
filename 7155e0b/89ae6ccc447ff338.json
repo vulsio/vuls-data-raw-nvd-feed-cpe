@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:univention:univention_corporate_server:4.0-4",
+  "deprecated": true,
+  "deprecation_date": "2023-04-19T13:35:07.093Z",
+  "title": [
+    {
+      "text": "Univention Corporate Server (UCS) 4.0-4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.univention.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.univention.com/products/ucs/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/univention/univention-corporate-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:univention:univention_corporate_server:4.0-4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-19T09:35:07.093-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:univention:univention_corporate_server:4.0:4:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

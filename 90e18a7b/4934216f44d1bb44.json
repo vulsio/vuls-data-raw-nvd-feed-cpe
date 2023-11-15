@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:c-ares_project:c-ares:1.18.1",
+  "deprecated": true,
+  "deprecation_date": "2023-09-15T11:42:40.183Z",
+  "title": [
+    {
+      "text": "c-ares Project c-ares 1.18.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://c-ares.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/c-ares/c-ares/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/c-ares/c-ares/issues/496"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/c-ares/c-ares/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:c-ares_project:c-ares:1.18.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-15T07:42:40.183-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:c-ares:c-ares:1.18.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:cimg:cimg:2.6.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-06T00:28:02.620Z",
+  "title": [
+    {
+      "text": "CImg 2.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://cimg.eu/index.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://cimg.eu/download.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cimg:cimg:2.6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-05T20:28:02.620-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cimg:cimg_library:2.6.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

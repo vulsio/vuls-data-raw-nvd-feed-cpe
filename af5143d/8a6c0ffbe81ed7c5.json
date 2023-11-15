@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:info-zip:unzip:6.0",
+  "deprecated": true,
+  "deprecation_date": "2019-12-16T20:24:14.080Z",
+  "title": [
+    {
+      "text": "Info-ZIP UnZip 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.info-zip.org/UnZip.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:info-zip:unzip:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-16T15:24:14.080-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:unzip_project:unzip:6.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

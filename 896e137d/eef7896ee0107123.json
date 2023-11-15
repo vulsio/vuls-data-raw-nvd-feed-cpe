@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:themepoints:accordion:1.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Themepoints Accordion 1.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/accordions-wp/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/accordions-wp/accordion-26-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themepoints:accordion:1.8:*:*:*:*:wordpress:*:*"
+  }
+}

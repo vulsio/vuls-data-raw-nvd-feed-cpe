@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:microsoft:excel:2013::~~~x64~~",
+  "deprecated": true,
+  "deprecation_date": "2014-12-08T18:19:54.090Z",
+  "title": [
+    {
+      "text": "Microsoft Excel 2013 x64 (64-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "ms13-073 bulletin",
+      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-073"
+    },
+    {
+      "text": "MS Bulletin",
+      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-073"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:excel:2013:*:*:*:*:x64:*:*",
+    "deprecation": {
+      "date": "2014-12-08T13:19:54.090-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:excel:2013:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

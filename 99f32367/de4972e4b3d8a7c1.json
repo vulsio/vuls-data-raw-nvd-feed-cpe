@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:clio:clio_grow:1.0.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Clio Grow 1.0.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.clio.com/clio-home/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/clio-grow-form/wordpress-clio-grow-plugin-1-0-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/clio-grow-form/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clio:clio_grow:1.0.2:*:*:*:*:wordpress:*:*"
+  }
+}

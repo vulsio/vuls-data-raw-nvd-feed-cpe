@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hhg-multistore:multistore:4.10.3::~~community~~~",
+  "title": [
+    {
+      "text": "H.H.G Multistore 4.10.3 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/blockomat2100/PoCs/blob/main/hhg_multistore/exploit_hhg_multistore.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.hhg-multistore.com/product/en/Service-Support/Overview.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.hhg-multistore.com/index.php"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hhg-multistore:multistore:4.10.3:*:*:*:community:*:*:*"
+  }
+}

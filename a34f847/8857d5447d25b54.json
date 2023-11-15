@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:square:squalor:-::~~~go~~",
+  "title": [
+    {
+      "text": "Square Squalor - for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/square/squalor/commit/f6f0a47cc344711042eb0970cb423e6950ba3f93"
+    },
+    {
+      "text": "Version",
+      "href": "https://pkg.go.dev/github.com/square/squalor?tab=versions"
+    },
+    {
+      "text": "Product",
+      "href": "https://square.github.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:square:squalor:-:*:*:*:*:go:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:ithemes:2checkout:1.1.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-03-16T13:10:13.400Z",
+  "title": [
+    {
+      "text": "iThemes 2Checkout 1.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ithemes.com/coordinated-wordpress-plugin-security-update/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://ithemes.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://ithemes.com/2checkout-and-cybersource-add-ons-for-exchange-now-available/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ithemes:2checkout:1.1.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-03-16T09:10:13.400-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:2checkout:ithemes_2checkout:1.1.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

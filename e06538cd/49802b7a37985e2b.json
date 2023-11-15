@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:purevpn:purevpn:5.19.4.0::~~~windows~~",
+  "title": [
+    {
+      "text": "PureVPN 5.19.4.0 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://www.defensecode.com/advisories/DC-2018-02-001-PureVPN-Windows-Privilege-Escalation.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.purevpn.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:purevpn:purevpn:5.19.4.0:*:*:*:*:windows:*:*"
+  }
+}

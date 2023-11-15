@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:prismjs:prism:1.10.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "PrismJS Prism 1.10.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://prismjs.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/prismjs"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-PRISMJS-1076581"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/PrismJS/prism/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:prismjs:prism:1.10.0:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:8.0:update_192",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T12:35:28.067Z",
+  "title": [
+    {
+      "text": "Oracle JDK 8.0 Update 192",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.oracle.com/technetwork/java/javase/8u192-relnotes-4479409.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:8.0:update_192:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T08:35:28.067-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update192:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:gnome:gtk:4.0",
+  "deprecated": true,
+  "deprecation_date": "2023-08-03T15:07:16.233Z",
+  "title": [
+    {
+      "text": "GNOME GIMP Toolkit (GTK) 4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/GNOME/gtk/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.gnome.org/GNOME/gtk"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gtk.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnome:gtk:4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-03T11:07:16.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnome:gtk:4.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

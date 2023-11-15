@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:kubernetes_ci:1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Kubernetes CI 1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/kubernetes-ci"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/kubernetes-ci-plugin/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:kubernetes_ci:1.1:*:*:*:*:jenkins:*:*"
+  }
+}

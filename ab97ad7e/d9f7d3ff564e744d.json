@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:php:phorum:-",
+  "deprecated": true,
+  "deprecation_date": "2012-02-10T18:53:07.970Z",
+  "title": [
+    {
+      "text": "Phorum",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:phorum:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-10T13:53:07.970-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phorum:phorum:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

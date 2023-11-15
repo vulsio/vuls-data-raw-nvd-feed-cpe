@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:canonical:ubuntu_linux:14.04::lts",
+  "deprecated": true,
+  "deprecation_date": "2015-03-25T14:30:18.770Z",
+  "title": [
+    {
+      "text": "Canonical Ubuntu Linux 14.04 LTS (Long-Term Support)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Canonical Security Advisory for CVE-2014-0472",
+      "href": "http://www.ubuntu.com/usn/USN-2169-1/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:canonical:ubuntu_linux:14.04:*:lts:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-03-25T10:30:18.770-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:canonical:ubuntu_linux:14.04:*:*:*:lts:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

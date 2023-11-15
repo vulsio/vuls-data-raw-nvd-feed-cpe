@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:avahi:avahi:0.8-5",
+  "title": [
+    {
+      "text": "Avahi Avahi 0.8-5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.avahi.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/lathiat/avahi/issues/338"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1946914"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:avahi:avahi:0.8-5:*:*:*:*:*:*:*"
+  }
+}

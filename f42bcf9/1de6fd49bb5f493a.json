@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ruby-lang:webrick:1.4.0::~~~ruby~~",
+  "deprecated": true,
+  "deprecation_date": "2023-08-05T02:58:39.240Z",
+  "title": [
+    {
+      "text": "Ruby-lang Webrick 1.4.0 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://rubygems.org/gems/webrick/versions/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ruby-lang:webrick:1.4.0:*:*:*:*:ruby:*:*",
+    "deprecation": {
+      "date": "2023-08-04T22:58:39.240-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ruby-lang:webrick:1.4.0:-:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

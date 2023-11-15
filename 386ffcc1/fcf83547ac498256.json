@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gsi-office:winpat_portal:3.2.0.1001",
+  "title": [
+    {
+      "text": "GSI WiNPAT Portal 3.2.0.1001",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gsi-office.de/en/products/winpat-portal"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.gsi-office.de/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bogner.sh/2015/09/winpat-portal-3-unauthenticated-sql-injection-exploit/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gsi-office:winpat_portal:3.2.0.1001:*:*:*:*:*:*:*"
+  }
+}

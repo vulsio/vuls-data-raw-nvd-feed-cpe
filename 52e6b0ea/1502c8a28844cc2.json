@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:sun:jre:1.4.2:update11",
+  "deprecated": true,
+  "deprecation_date": "2012-02-15T01:08:03.730Z",
+  "title": [
+    {
+      "text": "Sun Jre Update11 1.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:jre:1.4.2:update11:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-14T20:08:03.730-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sun:jre:1.4.2_11:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

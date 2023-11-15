@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:abb:microscada_pro_sys600:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:56:47.737Z",
+  "title": [
+    {
+      "text": "ABB MicroSCADA Pro SYS600",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/network-management/network-management/microscada-x/sys600"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:abb:microscada_pro_sys600:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:56:47.737-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hitachienergy:microscada_pro_sys600:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

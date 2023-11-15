@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pcre:pcre:10.31",
+  "deprecated": true,
+  "deprecation_date": "2020-02-26T18:59:20.497Z",
+  "title": [
+    {
+      "text": "PCRE 10.31",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/pcre/files/pcre2/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pcre:pcre:10.31:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-26T13:59:20.497-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pcre:pcre2:10.31:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

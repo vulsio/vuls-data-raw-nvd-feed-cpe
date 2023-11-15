@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:intel:xeon_platinum_processors:-",
+  "title": [
+    {
+      "text": "Intel Xeon Platinum Processors",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/processors/xeon/scalable.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00223.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_platinum_processors:-:*:*:*:*:*:*:*"
+  }
+}

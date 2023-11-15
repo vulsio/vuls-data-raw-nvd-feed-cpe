@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:kindsoft:kind_editor:4.1.12",
+  "deprecated": true,
+  "deprecation_date": "2017-09-27T20:22:36.727Z",
+  "title": [
+    {
+      "text": "Kindsoft Kind Editor 4.1.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.kindsoft.net/"
+    },
+    {
+      "text": "Product",
+      "href": "http://kindeditor.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kindsoft:kind_editor:4.1.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-09-27T16:22:36.727-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:kindsoft:kindeditor:4.1.12:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

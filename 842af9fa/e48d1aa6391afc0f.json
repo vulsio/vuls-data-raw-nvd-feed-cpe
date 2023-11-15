@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_siteminder_policy_server:12.0.102.414:sp1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:37:11.050Z",
+  "title": [
+    {
+      "text": "Ca Etrust Siteminder Policy Server Service Pack 1 12.0.102.414",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:37:11.050-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_siteminder_policy_server:12.0.102.414:sp1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

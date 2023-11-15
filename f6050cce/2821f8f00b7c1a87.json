@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:paloaltonetworks:globalprotect:5.3.1::~~~linux~~",
+  "title": [
+    {
+      "text": "Palo Alto Networks GlobalProtect 5.3.1 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.paloaltonetworks.com/CVE-2021-3057"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.paloaltonetworks.com/globalprotect/5-3/globalprotect-app-release-notes/gp-app-release-information/features-introduced-in-gp-app.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:globalprotect:5.3.1:*:*:*:*:linux:*:*"
+  }
+}

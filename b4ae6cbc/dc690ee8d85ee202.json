@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:supermicro:x11dpt-ps_firmware:1.71.5",
+  "title": [
+    {
+      "text": "Supermicro X11dpt-ps Firmware 1.71.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:supermicro:x11dpt-ps_firmware:1.71.5:*:*:*:*:*:*:*"
+  }
+}

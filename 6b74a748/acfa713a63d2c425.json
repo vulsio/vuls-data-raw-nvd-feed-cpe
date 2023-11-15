@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:netiq:analysis_center:2.5.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:40:15.233Z",
+  "title": [
+    {
+      "text": "Netiq Analysis Center 2.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netiq:analysis_center:2.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:40:15.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microfocus:analysis_center:2.5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

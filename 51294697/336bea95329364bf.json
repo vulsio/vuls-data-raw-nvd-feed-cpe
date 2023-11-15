@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:intercom:intercom:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Intercom for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.intercom.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/intercom/#description"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gist.github.com/fs0c131y/e47035f0493a2f558fccc172ada715ef"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intercom:intercom:-:*:*:*:*:wordpress:*:*"
+  }
+}

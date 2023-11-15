@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:encs5412%2fk9:-",
+  "title": [
+    {
+      "text": "Cisco ENCS5412/K9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp34481"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-iosxe-ctbypass"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/routers/xe-sd-wan-routers/tsd-products-support-series-home.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:encs5412\\/k9:-:*:*:*:*:*:*:*"
+  }
+}

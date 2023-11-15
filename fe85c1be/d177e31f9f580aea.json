@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:tenda:ac1200_v-w15ev2:-",
+  "deprecated": true,
+  "deprecation_date": "2023-01-27T14:24:48.620Z",
+  "title": [
+    {
+      "text": "Tenda AC1200 V-W15EV2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:tenda:ac1200_v-w15ev2:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-27T09:24:48.620-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:tenda:w15e:2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

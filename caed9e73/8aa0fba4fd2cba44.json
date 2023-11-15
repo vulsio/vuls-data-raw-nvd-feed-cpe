@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cryptoleu_project:cryptoleu:-",
+  "title": [
+    {
+      "text": "CryptoLeu Project CryptoLeu",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x80754f5833c606d6443cfa315d933ad599fc3d07#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cryptoleu_project:cryptoleu:-:*:*:*:*:*:*:*"
+  }
+}

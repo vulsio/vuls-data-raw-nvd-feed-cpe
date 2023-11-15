@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:thecus:n4800eco_firmware:-",
+  "title": [
+    {
+      "text": "Thecus N4800Eco Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.unsafe-inline.com/0day/thecus-n4800eco-nas-server-control-panel-comand-injection"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.thecus.com/product?cat=linux_nas&cat_type=smbTower&PROD_ID=83&language_num=1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:thecus:n4800eco_firmware:-:*:*:*:*:*:*:*"
+  }
+}

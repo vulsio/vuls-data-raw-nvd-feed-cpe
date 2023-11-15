@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:eclipse:birt:4.4.2",
+  "deprecated": true,
+  "deprecation_date": "2021-07-14T13:45:00.887Z",
+  "title": [
+    {
+      "text": "Eclipse BIRT 4.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.eclipse.org/birt/"
+    },
+    {
+      "text": "Version",
+      "href": "http://download.eclipse.org/birt/downloads/drops/release.log"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:birt:4.4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-14T09:45:00.887-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:eclipse:business_intelligence_and_reporting_tools:4.4.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

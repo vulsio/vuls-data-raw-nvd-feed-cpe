@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:role_scoper_project:role_scoper:1.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Role Scoper Project Role Scoper 1.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpvulndb.com/vulnerabilities/8347"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/role-scoper/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:role_scoper_project:role_scoper:1.4:*:*:*:*:wordpress:*:*"
+  }
+}

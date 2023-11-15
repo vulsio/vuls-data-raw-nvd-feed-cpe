@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:lru_cache_project:lru_cache:0.4.4::~~~rust~~",
+  "deprecated": true,
+  "deprecation_date": "2022-02-09T13:52:47.330Z",
+  "title": [
+    {
+      "text": "LRU Cache Project LRU Cache 0.4.4 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/lru/versions"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/jeromefroe/lru-rs"
+    },
+    {
+      "text": "Project",
+      "href": "https://crates.io/crates/lru"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lru_cache_project:lru_cache:0.4.4:*:*:*:*:rust:*:*",
+    "deprecation": {
+      "date": "2022-02-09T08:52:47.330-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:lru_project:lru:0.4.4:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

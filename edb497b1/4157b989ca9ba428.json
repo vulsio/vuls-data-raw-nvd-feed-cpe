@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:microsoft:windows_rt_8.1:-::~~~~x86~",
+  "title": [
+    {
+      "text": "Microsoft Windows RT 8.1 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://windows.microsoft.com/en-us/windows/windows-rt-faq"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-42283"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_rt_8.1:-:*:*:*:*:*:x86:*"
+  }
+}

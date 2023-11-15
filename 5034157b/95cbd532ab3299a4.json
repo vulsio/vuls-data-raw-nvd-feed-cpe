@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:agilebits:1password:3.0:-:~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-01-22T14:57:35.800Z",
+  "title": [
+    {
+      "text": "AgileBits 1Password for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:agilebits:1password:3.0:-:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-01-22T09:57:35.800-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:1password:1password:3.0:-:*:*:*:mac_os_x:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:quic_project:quic:0.34.0::~~~go~~",
+  "title": [
+    {
+      "text": "QUIC Project QUIC 0.34.0 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/quic-go/quic-go/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/quic-go/quic-go/pull/4012"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:quic_project:quic:0.34.0:*:*:*:*:go:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ag-grid:ag-grid:5.0.0_alpha_1",
+  "deprecated": true,
+  "deprecation_date": "2023-03-14T16:56:21.330Z",
+  "title": [
+    {
+      "text": "AG-Grid 5.0.0 Alpha 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.ag-grid.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/ag-grid/ag-grid/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ag-grid:ag-grid:5.0.0_alpha_1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-14T12:56:21.330-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ag-grid:ag-grid:5.0.0:alpha1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

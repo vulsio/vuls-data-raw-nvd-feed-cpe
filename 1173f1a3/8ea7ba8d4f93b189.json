@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:dynamic_application_security_testing_analyzer:1.6.50",
+  "title": [
+    {
+      "text": "Gitlab Dynamic Application Security Testing (DAST) Analyzer 1.6.50",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/gitlab/-/issues/388132"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2023/CVE-2023-0326.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:dynamic_application_security_testing_analyzer:1.6.50:*:*:*:*:*:*:*"
+  }
+}

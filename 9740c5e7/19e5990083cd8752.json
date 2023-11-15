@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:doorkeeper_project:doorkeeper:5.5.0:rc2:~~~ruby~~",
+  "title": [
+    {
+      "text": "Doorkeeper Project Doorkeeper 5.5.0 Release Candidate 2 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/doorkeeper-gem/doorkeeper/security/advisories/GHSA-7w2c-w47h-789w"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/doorkeeper-gem/doorkeeper/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:doorkeeper_project:doorkeeper:5.5.0:rc2:*:*:*:ruby:*:*"
+  }
+}

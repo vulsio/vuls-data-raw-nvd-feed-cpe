@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gbgplc:acuant_asureid_sentinel:-",
+  "title": [
+    {
+      "text": "GBC Acuant AsureID Sentinel",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.gbgplc.com/en/identity-data-verification/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackandpwn.com/disclosures/CVE-2022-48227.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gbgplc:acuant_asureid_sentinel:-:*:*:*:*:*:*:*"
+  }
+}

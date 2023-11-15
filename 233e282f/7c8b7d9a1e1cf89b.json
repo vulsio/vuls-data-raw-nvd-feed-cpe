@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:ge:d20me:-",
+  "title": [
+    {
+      "text": "General Electric D20ME",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gegridsolutions.com/multilin/energy/catalog/d20-d200.htm"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gegridsolutions.com/products/manuals/energy/prpi-019-d20-d200-overview-v300-r6.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.rapid7.com/db/modules/auxiliary/gather/d20pass"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:ge:d20me:-:*:*:*:*:*:*:*"
+  }
+}

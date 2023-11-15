@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kibokolabs:chained_quiz:1.1.8.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Kiboko Labs Chained Quiz 1.1.8.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/cve/CVE-2020-7104"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/chained-quiz/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kibokolabs:chained_quiz:1.1.8.1:*:*:*:*:wordpress:*:*"
+  }
+}

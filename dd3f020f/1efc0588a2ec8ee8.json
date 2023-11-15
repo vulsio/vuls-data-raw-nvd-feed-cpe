@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:paulycoin_project:paulycoin:-",
+  "title": [
+    {
+      "text": "PaulyCoin Project PaulyCoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x3a3bd8d493df4245caeed007c664240d757a6298#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paulycoin_project:paulycoin:-:*:*:*:*:*:*:*"
+  }
+}

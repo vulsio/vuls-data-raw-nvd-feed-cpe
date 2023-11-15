@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:vmware:esxi:7.0.0:u1",
+  "deprecated": true,
+  "deprecation_date": "2022-06-02T14:41:45.567Z",
+  "title": [
+    {
+      "text": "VMware ESXi 7.0.0 Update 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.vmware.com/security/advisories/VMSA-2021-0002.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-67u3-release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:vmware:esxi:7.0.0:u1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-02T10:41:45.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:esxi:7.0.0:update_1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:a3rev:page_view_count:2.4.15::~~~wordpress~~",
+  "title": [
+    {
+      "text": "a3rev Page View Count 2.4.15 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/be895016-7365-4ce4-a54f-f36d0ef2d6f1"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://a3rev.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/page-views-count/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:a3rev:page_view_count:2.4.15:*:*:*:*:wordpress:*:*"
+  }
+}

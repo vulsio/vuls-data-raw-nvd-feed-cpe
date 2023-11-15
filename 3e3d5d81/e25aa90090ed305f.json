@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift_service_mesh:2.0",
+  "title": [
+    {
+      "text": "Red Hat OpenShift Service Mesh 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.openshift.com/learn/topics/service-mesh"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2020-27846"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift_service_mesh:2.0:*:*:*:*:*:*:*"
+  }
+}

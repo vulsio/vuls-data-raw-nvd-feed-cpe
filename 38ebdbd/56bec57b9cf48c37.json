@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:2345.cc:security_guard:3.7::~~~~x64~",
+  "title": [
+    {
+      "text": "2345.cc Security Guard 3.7 64 bit",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/anhkgg/poc/tree/master/2345%20security%20guard/2345BdPcSafe.sys-x64-0x002220E4"
+    },
+    {
+      "text": "Product",
+      "href": "http://safe.2345.cc/index.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:2345.cc:security_guard:3.7:*:*:*:*:*:x64:*"
+  }
+}

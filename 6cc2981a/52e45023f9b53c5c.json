@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:argo_continuous_delivery:2.7.12::~~~kubernetes~~",
+  "title": [
+    {
+      "text": "The Linux Foundation Argo Continuous Delivery (Argo CD) 2.7.12 for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.linuxfoundation.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/argoproj/argo-cd/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:2.7.12:*:*:*:*:kubernetes:*:*"
+  }
+}

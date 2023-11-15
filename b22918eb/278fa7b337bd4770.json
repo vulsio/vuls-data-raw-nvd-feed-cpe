@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openldap:openldap:2.5.11",
+  "title": [
+    {
+      "text": "OpenLDAP 2.5.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugs.openldap.org/show_bug.cgi?id=9815"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/openldap/openldap/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openldap:openldap:2.5.11:*:*:*:*:*:*:*"
+  }
+}

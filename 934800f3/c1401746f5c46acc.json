@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:emc:rsa_bsafe-java_toolkits:-",
+  "deprecated": true,
+  "deprecation_date": "2021-11-30T18:26:12.847Z",
+  "title": [
+    {
+      "text": "EMC RSA BSAFE-Java Toolkits (aka Share for Java)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor product information",
+      "href": "http://www.emc.com/security/rsa-bsafe.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:rsa_bsafe-java_toolkits:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-11-30T13:26:12.847-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:java:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

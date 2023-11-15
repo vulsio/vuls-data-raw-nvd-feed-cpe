@@ -1,0 +1,47 @@
+{
+  "name": "cpe:/a:couchbase:couchbase_server:6.0",
+  "deprecated": true,
+  "deprecation_date": "2019-09-11T17:48:43.897Z",
+  "title": [
+    {
+      "text": "Couchbase Server 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.couchbase.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.couchbase.com/server/5.1/release-notes/relnotes.html#release-511"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.couchbase.com/resources/security#SecurityAlerts"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.couchbase.com/server/5.0/release-notes/relnotes.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.couchbase.com/server/current/release-notes/relnotes.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.couchbase.com/products/server"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:couchbase:couchbase_server:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-11T13:48:43.897-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:couchbase:couchbase_server:6.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

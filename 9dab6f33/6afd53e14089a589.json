@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:dex:2.0.2",
+  "title": [
+    {
+      "text": "Linuxfoundation Dex 2.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dexidp/dex/security/advisories/GHSA-m9hp-7r99-94h5"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dexidp/dex/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:dex:2.0.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mozilla:firefox:24.0",
+  "deprecated": true,
+  "deprecation_date": "2020-07-10T18:53:46.147Z",
+  "title": [
+    {
+      "text": "Mozilla Firefox 24.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "https://ftp.mozilla.org/pub/mozilla.org/firefox/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-10T14:53:46.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mozilla:firefox:24.0:*:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

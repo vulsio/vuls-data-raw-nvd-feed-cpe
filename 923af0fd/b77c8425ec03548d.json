@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pivotal:cloud_foundry_healthwatch:1.4.7",
+  "title": [
+    {
+      "text": "Pivotal Cloud Foundry Healthwatch 1.4.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.pivotal.io/pcf-healthwatch/1-5/release-notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-3800"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:cloud_foundry_healthwatch:1.4.7:*:*:*:*:*:*:*"
+  }
+}

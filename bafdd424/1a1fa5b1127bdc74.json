@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bytecodealliance:wasmtime:2.0.0::~~~rust~~",
+  "title": [
+    {
+      "text": "Bytecode Alliance wasmtime 2.0.0 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-h84q-m8rr-3v9q"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bytecodealliance/wasmtime/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bytecodealliance:wasmtime:2.0.0:*:*:*:*:rust:*:*"
+  }
+}

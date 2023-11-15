@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:widevine:trusted_application:5.0.0",
+  "title": [
+    {
+      "text": "Widevine Trusted Application 5.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.widevine.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cyberintel.es/cve/CVE-2022-48331_Buffer_Overflow_in_Widevine_drm_save_keys_0x69b0/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:widevine:trusted_application:5.0.0:*:*:*:*:*:*:*"
+  }
+}

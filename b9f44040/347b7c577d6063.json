@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:libexpat:expat:-",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T15:44:07.007Z",
+  "title": [
+    {
+      "text": "libexpat Expat",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://expat.sourceforge.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libexpat:expat:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T10:44:07.007-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libexpat_project:libexpat:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

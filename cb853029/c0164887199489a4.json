@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rpm:rpm:4.16.0",
+  "deprecated": true,
+  "deprecation_date": "2021-05-28T14:41:07.450Z",
+  "title": [
+    {
+      "text": "RPM Package Manager 4.16.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/rpm-software-management/rpm/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rpm:rpm:4.16.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-28T10:41:07.450-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rpm:rpm:4.16.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

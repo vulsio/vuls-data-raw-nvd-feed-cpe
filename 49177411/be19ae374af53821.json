@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:php:comoblog:1.1",
+  "deprecated": true,
+  "deprecation_date": "2020-03-24T12:49:59.320Z",
+  "title": [
+    {
+      "text": "PHP CoMoblog 1.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:comoblog:1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-24T08:49:59.320-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:comoblog_project:comoblog:1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

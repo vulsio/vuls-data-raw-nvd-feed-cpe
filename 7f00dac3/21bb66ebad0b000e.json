@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:wppopupmaker:popup_maker:1.1.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T14:01:44.117Z",
+  "title": [
+    {
+      "text": "Popup Maker 1.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/popup-maker/"
+    },
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/plugins/popup-maker/#developers"
+    },
+    {
+      "text": "Product",
+      "href": "https://wppopupmaker.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wppopupmaker:popup_maker:1.1.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2019-12-17T09:01:44.117-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:code-atlantic:popup_maker:1.1.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

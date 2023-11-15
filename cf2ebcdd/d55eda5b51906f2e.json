@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:remote_console:10.0.0::~~~linux~~",
+  "title": [
+    {
+      "text": "Vmware Remote Console (VMRC) 10.0.0 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.vmware.com/en/VMware-Remote-Console/10.0/rn/VMware-Remote-Console-1004-Release-Notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:remote_console:10.0.0:*:*:*:*:linux:*:*"
+  }
+}

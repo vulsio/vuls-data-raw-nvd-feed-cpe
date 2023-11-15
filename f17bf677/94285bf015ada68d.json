@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:redhat:ansible:2.10.7:rc1",
+  "title": [
+    {
+      "text": "Red Hat Ansible 2.10.7 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ansible/ansible/blob/v2.9.18/changelogs/CHANGELOG-v2.9.rst"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ansible.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.redhat.com/en/technologies/management/ansible"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/ansible/ansible/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:ansible:2.10.7:rc1:*:*:*:*:*:*"
+  }
+}

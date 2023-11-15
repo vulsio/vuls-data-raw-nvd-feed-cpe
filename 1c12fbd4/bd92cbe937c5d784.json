@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:firefly-iii:flrefly_iii:4.7.17.5",
+  "deprecated": true,
+  "deprecation_date": "2020-12-16T17:00:19.077Z",
+  "title": [
+    {
+      "text": "Flrefly III 4.7.17.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://firefly-iii.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/firefly-iii/firefly-iii/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:firefly-iii:flrefly_iii:4.7.17.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-16T12:00:19.077-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:firefly-iii:firefly_iii:4.7.17.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

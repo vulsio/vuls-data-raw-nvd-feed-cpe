@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:juplink:rx4-1500_firmware:1.0.4",
+  "title": [
+    {
+      "text": "Juplink RX4-1500 Firmware 1.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.240214"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.exodusintel.com/2023/08/23/juplink-rx4-1500-stack-based-buffer-overflow-vulnerability/"
+    },
+    {
+      "text": "Product",
+      "href": "https://images-na.ssl-images-amazon.com/images/I/A1q5aYDVTdL.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juplink:rx4-1500_firmware:1.0.4:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:2004",
+  "deprecated": true,
+  "deprecation_date": "2022-12-02T17:01:42.343Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 2004",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4557957"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1253"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-12-02T12:01:42.343-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:2004:*:*:*:*:*:arm64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

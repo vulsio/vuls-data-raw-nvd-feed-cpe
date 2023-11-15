@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:raspberrypi:raspberry_pi_os_lite:5.10",
+  "title": [
+    {
+      "text": "The Raspberry Pi Foundation Raspberry Pi OS Lite 5.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cnvd.org.cn/flaw/show/CNVD-2021-43968"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-os-32-bit"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.raspberrypi.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:raspberrypi:raspberry_pi_os_lite:5.10:*:*:*:*:*:*:*"
+  }
+}

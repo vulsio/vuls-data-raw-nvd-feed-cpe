@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pivotal_software:concourse:6.7.8",
+  "title": [
+    {
+      "text": "Pivotal Software Concourse 6.7.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/concourse/concourse/security/advisories/GHSA-5jp2-vwrj-99rf"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/concourse/concourse/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:concourse:6.7.8:*:*:*:*:*:*:*"
+  }
+}

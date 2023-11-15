@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dlink:dir-802_firmware:1.00b05",
+  "title": [
+    {
+      "text": "D-Link DIR-802 Firmware 1.00B5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10206"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cool-y.github.io/2021/03/02/DIR-802-OS-Command-Injection/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dir-802_firmware:1.00b05:*:*:*:*:*:*:*"
+  }
+}

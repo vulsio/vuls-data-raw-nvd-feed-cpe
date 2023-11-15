@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:logitech:z120:-",
+  "title": [
+    {
+      "text": "Logitech Z120",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.nassiben.com/glowworm-attack"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38547.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.logitech.com/en-roeu/products/speakers/z120-compact-usb-speakers.980-000513.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:logitech:z120:-:*:*:*:*:*:*:*"
+  }
+}

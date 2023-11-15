@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:suse:wrangler:1.0.0",
+  "title": [
+    {
+      "text": "SUSE Wrangler 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.rancher.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rancher/wrangler/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rancher/wrangler/security/advisories/GHSA-qrg7-hfx7-95c5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:wrangler:1.0.0:*:*:*:*:*:*:*"
+  }
+}

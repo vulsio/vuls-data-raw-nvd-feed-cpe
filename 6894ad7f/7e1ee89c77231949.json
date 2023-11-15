@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:abb:omnicore_c30_firmware:-",
+  "title": [
+    {
+      "text": "ABB OmniCore C30 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://search.abb.com/library/Download.aspx?DocumentID=SI20265&LanguageCode=en&DocumentPartId=&Action=Launch"
+    },
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/products/robotics/controllers/omnicore/omnicore-c30-and-c90xt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:abb:omnicore_c30_firmware:-:*:*:*:*:*:*:*"
+  }
+}

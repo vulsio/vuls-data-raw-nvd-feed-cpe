@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:joomla:joomla%21:2.5.18",
+  "deprecated": true,
+  "deprecation_date": "2020-10-19T12:27:38.890Z",
+  "title": [
+    {
+      "text": "Joomla Joomla! 2.5.18",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.joomla.org"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.joomla.org/Category:Version_History"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:joomla:joomla\\!:2.5.18:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-19T08:27:38.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:joomla:joomla\\!:2.5.18:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

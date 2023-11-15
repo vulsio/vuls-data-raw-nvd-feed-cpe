@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:vega_project:vega:5.0.0:rc5",
+  "deprecated": true,
+  "deprecation_date": "2021-01-06T16:45:50.690Z",
+  "title": [
+    {
+      "text": "Vega Project Vega 5.0.0 Release Candidate 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/vega/vega/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vega_project:vega:5.0.0:rc5:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-06T11:45:50.690-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vega_project:vega:5.0.0:rc5:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

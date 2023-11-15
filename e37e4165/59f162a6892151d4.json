@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:suse:linux:-",
+  "deprecated": true,
+  "deprecation_date": "2013-01-10T19:06:02.303Z",
+  "title": [
+    {
+      "text": "Novell SUSE Linux",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:suse:linux:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-01-10T14:06:02.303-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:novell:suse_linux:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apache:http_server:2.4.47",
+  "title": [
+    {
+      "text": "Apache Software Foundation Http Server 2.4.47",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://httpd.apache.org/security/vulnerabilities_24.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2021/06/10/9"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31618.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:http_server:2.4.47:*:*:*:*:*:*:*"
+  }
+}

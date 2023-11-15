@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:camp_project:camp:2022-07-21",
+  "title": [
+    {
+      "text": "Camp Project Camp 2022-07-21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/patrickfuller/camp"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@elias.hohl/authentication-bypass-vulnerability-in-camp-a-raspberry-pi-camera-server-477e5d270904"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/patrickfuller/camp/commit/bf6af5c2e5cf713e4050c11c52dd4c55e89880b1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:camp_project:camp:2022-07-21:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:inoculateit_agent_for_exchange:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:01:41.320Z",
+  "title": [
+    {
+      "text": "Computer Associates InoculateIT_Agent",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:01:41.320-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:inoculateit_agent_for_exchange:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

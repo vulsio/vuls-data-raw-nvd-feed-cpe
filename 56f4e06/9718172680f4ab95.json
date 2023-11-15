@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_management_lotus_note_domino:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:30:05.453Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Management Lotus Note_Domino",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:30:05.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_management_lotus_note_domino:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

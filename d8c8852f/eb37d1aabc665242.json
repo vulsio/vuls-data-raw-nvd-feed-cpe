@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:onedrive:1.0.0::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Microsoft OneDrive 1.0.0 for iPhone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24890"
+    },
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/24xxx/CVE-2023-24890.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:onedrive:1.0.0:*:*:*:*:iphone_os:*:*"
+  }
+}

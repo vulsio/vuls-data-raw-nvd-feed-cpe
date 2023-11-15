@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:instant-messaging:1.12::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Instant-messaging 1.12 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-03-29/#SECURITY-2161"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/instant-messaging/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/instant-messaging-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:instant-messaging:1.12:*:*:*:*:jenkins:*:*"
+  }
+}

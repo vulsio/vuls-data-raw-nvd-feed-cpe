@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:digi:one_ia_firmware:-",
+  "title": [
+    {
+      "text": "Digi One IA Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/industrial-hardened/digioneia"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:digi:one_ia_firmware:-:*:*:*:*:*:*:*"
+  }
+}

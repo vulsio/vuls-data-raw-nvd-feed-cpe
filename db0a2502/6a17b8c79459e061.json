@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:modpagespeed:mod_pagespeed:0.10.22.6",
+  "deprecated": true,
+  "deprecation_date": "2013-11-12T17:25:36.037Z",
+  "title": [
+    {
+      "text": "modpagespeed mod_pagespeed 0.10.22.6",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-11-12T12:25:36.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:mod_pagespeed:0.10.22.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:knot-resolver:knot_resolver:4.1.0",
+  "deprecated": true,
+  "deprecation_date": "2019-11-06T17:32:11.657Z",
+  "title": [
+    {
+      "text": "Knot Resolver 4.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.knot-resolver.cz/2019-07-10-knot-resolver-4.1.0.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.knot-resolver.cz/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:knot-resolver:knot_resolver:4.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-06T12:32:11.657-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nic:knot_resolver:4.1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

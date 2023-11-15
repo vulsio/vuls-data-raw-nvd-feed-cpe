@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_pestpatrol:8.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T15:30:49.207Z",
+  "title": [
+    {
+      "text": "Computer Associates eTrust PestPatrol 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_pestpatrol:8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T11:30:49.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_pestpatrol:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:square:okhttp:3.1.1",
+  "deprecated": true,
+  "deprecation_date": "2017-11-15T16:54:03.213Z",
+  "title": [
+    {
+      "text": "Square OkHttp 3.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/square/okhttp/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://square.github.io/okhttp/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:square:okhttp:3.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-11-15T11:54:03.213-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:squareup:okhttp3:3.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

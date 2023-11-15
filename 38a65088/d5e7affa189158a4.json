@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:vmware:vcenter_server:5.5:u3b",
+  "deprecated": true,
+  "deprecation_date": "2018-02-22T18:57:03.097Z",
+  "title": [
+    {
+      "text": "VMware vCenter Server 5.5 Update 3b",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.vmware.com/products/vcenter-server.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:vcenter_server:5.5:u3b:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-02-22T13:57:03.097-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:vcenter_server:5.5:3b:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:mruby:mruby:1.4.0",
+  "deprecated": true,
+  "deprecation_date": "2023-01-17T20:29:22.787Z",
+  "title": [
+    {
+      "text": "mruby 1.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mruby/mruby/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/mruby/mruby"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://mruby.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mruby/mruby/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-17T15:29:22.787-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mruby:mruby:1.4.0:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

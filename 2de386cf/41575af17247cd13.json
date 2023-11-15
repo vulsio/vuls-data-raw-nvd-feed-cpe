@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cloudbees:jenkins:2.2",
+  "deprecated": true,
+  "deprecation_date": "2016-06-13T10:55:20.263Z",
+  "title": [
+    {
+      "text": "CloudBees Jenkins 2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://mirrors.jenkins-ci.org/war/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudbees:jenkins:2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-06-13T06:55:20.263-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

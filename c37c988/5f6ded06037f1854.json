@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:okta:active_directory_agent:3.10.0",
+  "title": [
+    {
+      "text": "Okta Active Directory Agent 3.10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://trust.okta.com/security-advisories/okta-active-directory-agent-cve-2022-1697/"
+    },
+    {
+      "text": "Product",
+      "href": "https://help.okta.com/en-us/Content/Topics/Directory/ad-agent-new-integration.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:okta:active_directory_agent:3.10.0:*:*:*:*:*:*:*"
+  }
+}

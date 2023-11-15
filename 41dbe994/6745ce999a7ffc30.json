@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pagerduty:rundeck:3.4.9:-:~~enterprise~~~",
+  "title": [
+    {
+      "text": "Pagerduty Rundeck 3.4.9 - Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rundeck/rundeck/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rundeck/rundeck/security/advisories/GHSA-qxjx-xr2m-hgqx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pagerduty:rundeck:3.4.9:-:*:*:enterprise:*:*:*"
+  }
+}

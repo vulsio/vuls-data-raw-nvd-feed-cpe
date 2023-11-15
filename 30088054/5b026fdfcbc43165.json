@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:nvidia:adsp_firmware:-",
+  "title": [
+    {
+      "text": "NVIDIA ADSP Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://nvidia.custhelp.com/app/answers/detail/a_id/4561"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.nvidia.com/linux-tegra-r214"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:nvidia:adsp_firmware:-:*:*:*:*:*:*:*"
+  }
+}

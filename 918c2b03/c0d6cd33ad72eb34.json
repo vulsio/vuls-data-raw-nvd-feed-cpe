@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:trippay_project:trippay:-",
+  "title": [
+    {
+      "text": "TripPay Project TripPay",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x8b141bc2f7a130d166e0a94331e1c5cc7e9832e2#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trippay_project:trippay:-:*:*:*:*:*:*:*"
+  }
+}

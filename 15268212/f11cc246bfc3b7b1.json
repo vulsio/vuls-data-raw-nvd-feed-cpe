@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:bd:alaris_cc_firmware:2.3.6",
+  "title": [
+    {
+      "text": "BD (Becton Dickinson) Alaris CC Firmware 2.3.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-235-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.bd.com/en-uk/products/infusion/infusion-devices/alaris-plus-platform-with-guardrails-safety-software/alaris-cc-plus-syringe-pump-with-guardrails"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:bd:alaris_cc_firmware:2.3.6:*:*:*:*:*:*:*"
+  }
+}

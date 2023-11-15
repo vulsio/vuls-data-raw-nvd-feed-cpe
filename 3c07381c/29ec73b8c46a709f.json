@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/o:citrix:sd-wan_1100_premium_edition_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-04-22T18:05:51.033Z",
+  "title": [
+    {
+      "text": "Citrix SD-WAN 1100 PREMIUM EDITION FIRMWARE -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/premium-edition/1000-2000-enterprise-edition-appliance/cb-ws-2000-hw-summary-ref.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.citrix.com/en-us/citrix-sd-wan-platforms/premium-edition.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX370550"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.citrix.com/downloads/citrix-sd-wan/standard-premium-edition/appliance-software-release-114127.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:citrix:sd-wan_1100_premium_edition_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-22T14:05:51.033-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:citrix:sd-wan_1100_firmware:-:*:*:*:premium:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

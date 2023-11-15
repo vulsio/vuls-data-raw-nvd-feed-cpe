@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:performance_publisher:8.02::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Performance Publisher 8.02 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/perfpublisher/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-03-21/#SECURITY-2926"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:performance_publisher:8.02:*:*:*:*:jenkins:*:*"
+  }
+}

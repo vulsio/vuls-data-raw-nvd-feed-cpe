@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:stellar:js-stellar-sdk:8.2.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Stellar js-stellar-sdk 8.2.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/stellar/js-stellar-sdk/security/advisories/GHSA-6cgh-hjpw-q3gq"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/stellar/js-stellar-sdk/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.stellar.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:stellar:js-stellar-sdk:8.2.3:*:*:*:*:node.js:*:*"
+  }
+}

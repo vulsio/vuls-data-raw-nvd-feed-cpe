@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:hiby:r3_pro_firmware:1.5",
+  "title": [
+    {
+      "text": "Hiby R3 Pro Firmware 1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/feric/Findings/tree/main/Hiby/Web%20Server/Path%20Traversal"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vext01/hiby-issues/issues/9#issuecomment-907891626"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/44xxx/CVE-2021-44124.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://store.hiby.com/products/hiby-r3-pro"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:hiby:r3_pro_firmware:1.5:*:*:*:*:*:*:*"
+  }
+}

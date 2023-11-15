@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:horde:groupware:1.2.6::webmail",
+  "deprecated": true,
+  "deprecation_date": "2019-06-18T16:40:58.180Z",
+  "title": [
+    {
+      "text": "Horde Groupware 1.2.6 Webmail Edition",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:horde:groupware:1.2.6:*:webmail:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-18T12:40:58.180-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:horde:groupware:1.2.6:*:*:*:webmail:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

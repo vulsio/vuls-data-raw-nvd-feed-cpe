@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nvidia:display_driver:295.53::~~~linux~~",
+  "title": [
+    {
+      "text": "NVIDIA Display Driver 295.53 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugs.launchpad.net/ubuntu/%2Bsource/nvidia-graphics-drivers/%2Bbug/979373"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.nvidia.com/en-us/drivers/linux/295_53/linux-display-amd64-295-53-driver/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:display_driver:295.53:*:*:*:*:linux:*:*"
+  }
+}

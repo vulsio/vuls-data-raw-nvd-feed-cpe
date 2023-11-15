@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:asgaros:asgaros_forum:1.15.19::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Asgaros Asgaros Forum 1.15.19 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/Asgaros/asgaros-forum/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.asgaros.de/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/asgaros-forum/wordpress-asgaros-forum-plugin-2-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/asgaros-forum/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:asgaros:asgaros_forum:1.15.19:*:*:*:*:wordpress:*:*"
+  }
+}

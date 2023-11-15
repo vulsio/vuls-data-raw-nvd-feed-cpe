@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:intel:ethernet_connection_x550:-",
+  "title": [
+    {
+      "text": "Intel Ethernet Connection X550 ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/details/ethernet/500-controllers.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00555.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:ethernet_connection_x550:-:*:*:*:*:*:*:*"
+  }
+}

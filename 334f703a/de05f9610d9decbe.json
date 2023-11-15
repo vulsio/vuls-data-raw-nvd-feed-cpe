@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mit:kerberos:5-1.12",
+  "deprecated": true,
+  "deprecation_date": "2020-01-21T15:46:44.590Z",
+  "title": [
+    {
+      "text": "MIT Kerberos 5 1.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://web.mit.edu/kerberos/krb5-1.12/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mit:kerberos:5-1.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-21T10:46:44.590-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mit:kerberos_5:1.12:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

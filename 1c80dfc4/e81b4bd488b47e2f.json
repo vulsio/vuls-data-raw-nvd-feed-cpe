@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_jasmine:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:29:04.577Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Jasmine",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_jasmine:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:29:04.577-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_jasmine:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

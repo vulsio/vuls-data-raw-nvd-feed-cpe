@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:welcart:e-commerce:1.3.12::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2022-09-13T19:00:50.703Z",
+  "title": [
+    {
+      "text": "Welcart e-Commerce for WordPress 1.3.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product changelog",
+      "href": "https://wordpress.org/plugins/usc-e-shop/changelog/"
+    },
+    {
+      "text": "Vendor website",
+      "href": "http://www.welcart.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:welcart:e-commerce:1.3.12:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2022-09-13T15:00:50.703-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:collne:welcart_e-commerce:1.3.12:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

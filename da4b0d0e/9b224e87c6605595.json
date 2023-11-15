@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ait-pro:bulletproof-security:.48.9",
+  "deprecated": true,
+  "deprecation_date": "2014-12-10T19:15:36.600Z",
+  "title": [
+    {
+      "text": "ait-pro BulletProof Security plugin for Wordpress .48.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor website",
+      "href": "http://www.ait-pro.com/"
+    },
+    {
+      "text": "product changelog",
+      "href": "http://wordpress.org/plugins/bulletproof-security/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ait-pro:bulletproof-security:.48.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-12-10T14:15:36.600-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ait-pro:bulletproof-security:.48.9:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

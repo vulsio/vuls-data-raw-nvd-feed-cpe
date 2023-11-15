@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ncbi:toolbox:2.0.7",
+  "title": [
+    {
+      "text": "NCBI ToolBox 2.0.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/grymer/CVE/blob/master/CVE-2018-16718.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ncbi.nlm.nih.gov/IEB/ToolBox/index.cgi"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ncbi:toolbox:2.0.7:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nvidia:jetpack_sdk:4.2",
+  "deprecated": true,
+  "deprecation_date": "2020-07-14T16:16:17.797Z",
+  "title": [
+    {
+      "text": "NVIDIA JetPack SDK 4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://developer.nvidia.com/embedded/jetpack"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5039"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:jetpack_sdk:4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-14T12:16:17.797-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

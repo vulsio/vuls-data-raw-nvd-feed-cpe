@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kochm:mendeley_plugin:1.1.15::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Kochm Mendeley Plugin 1.1.15 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mendeleyplugin/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/mendeleyplugin/wordpress-mendeley-plugin-plugin-1-3-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kochm:mendeley_plugin:1.1.15:*:*:*:*:wordpress:*:*"
+  }
+}

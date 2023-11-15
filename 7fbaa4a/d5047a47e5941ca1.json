@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:brightstor_arcserve_backup_agent_exchange:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-07T18:12:56.910Z",
+  "title": [
+    {
+      "text": "Computer Associates BrightStor ARCserve Backup Agent Exchange",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-07T14:12:56.910-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_agent_exchange:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

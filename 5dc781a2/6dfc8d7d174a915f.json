@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.851",
+  "deprecated": true,
+  "deprecation_date": "2023-01-24T18:57:10.577Z",
+  "title": [
+    {
+      "text": "CentOS Web Panel 0.9.8.851",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/154216/CentOS-7.6.1810-Control-Web-Panel-0.9.8.837-Cross-Site-Scripting.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.851:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-24T13:57:10.577-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.851:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

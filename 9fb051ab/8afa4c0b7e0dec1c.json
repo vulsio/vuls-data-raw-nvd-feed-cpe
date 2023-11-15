@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:cisco:ios:12.2jk",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:36:42.943Z",
+  "title": [
+    {
+      "text": "Cisco IOS 12.2JK",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:ios:12.2jk:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:36:42.943-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:ios:12.2jk:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

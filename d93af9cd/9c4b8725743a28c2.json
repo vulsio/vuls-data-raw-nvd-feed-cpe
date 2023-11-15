@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nodejs:node.js:16.17.1::~~lts~~~",
+  "title": [
+    {
+      "text": "Nodejs Node.js 16.17.1 Lts Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V16.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:16.17.1:*:*:*:lts:*:*:*"
+  }
+}

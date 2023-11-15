@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e:2174g",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:52:09.037Z",
+  "title": [
+    {
+      "text": "Intel Xeon E 2174g",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://ark.intel.com/products/series/134861/Intel-Xeon-E-Processor"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e:2174g:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:52:09.037-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e-2174g:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

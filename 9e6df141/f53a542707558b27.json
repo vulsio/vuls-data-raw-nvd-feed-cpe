@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pivotal:tc_server:3.1.2",
+  "title": [
+    {
+      "text": "Pivotal Tc Server 3.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-11288"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://tcserver.docs.pivotal.io/3x/docs-tcserver/topics/release-notes-tc-server3.2.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:tc_server:3.1.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fluxcd:helm-controller:0.12.2",
+  "title": [
+    {
+      "text": "Fluxcd Helm-controller 0.12.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fluxcd/flux2/security/advisories/GHSA-vvmq-fwmg-2gjc"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fluxcd/helm-controller/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fluxcd:helm-controller:0.12.2:*:*:*:*:*:*:*"
+  }
+}

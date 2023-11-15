@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:bitcoin:bitcoin-qt:0.4.3",
+  "deprecated": true,
+  "deprecation_date": "2020-03-18T17:28:24.250Z",
+  "title": [
+    {
+      "text": "Bitcoin-Qt 0.4.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bitcoin:bitcoin-qt:0.4.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-18T13:28:24.250-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.4.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

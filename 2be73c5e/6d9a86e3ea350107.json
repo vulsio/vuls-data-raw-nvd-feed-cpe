@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:squid-cache:squid:5.2",
+  "title": [
+    {
+      "text": "squid-cache Squid 5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.squid-cache.org/Versions/v5/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/squid-cache/squid/security/advisories/GHSA-47m4-g3mv-9q5r"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:squid-cache:squid:5.2:*:*:*:*:*:*:*"
+  }
+}

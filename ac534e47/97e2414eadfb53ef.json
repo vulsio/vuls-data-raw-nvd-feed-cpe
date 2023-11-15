@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:edmonsoft:countdown_builder:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Edmonsoft Countdown Builder for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/countdown-builder/wordpress-countdown-clock-plugin-2-3-1-authenticated-stored-cross-site-scripting-xss-vulnerability"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://edmonsoft.com/countdown/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/countdown-builder/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:edmonsoft:countdown_builder:-:*:*:*:*:wordpress:*:*"
+  }
+}

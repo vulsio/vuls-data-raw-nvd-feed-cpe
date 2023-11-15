@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:13.9.6::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 13.9.6 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22205.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:13.9.6:*:*:*:enterprise:*:*:*"
+  }
+}

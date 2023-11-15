@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:abb:relion_670:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:56:47.737Z",
+  "title": [
+    {
+      "text": "ABB Relion 670",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/substation-automation/products/protection-control/relion-product-family/relion-670-series"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.abb.com/cawp/seitp202/671ca6fc7882aa4fc12580b10054cf1e.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:abb:relion_670:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:56:47.737-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hitachienergy:relion_670:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

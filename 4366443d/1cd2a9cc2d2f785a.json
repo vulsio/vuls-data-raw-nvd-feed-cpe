@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:rubyonrails:ruby_on_rails:2.3.0",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T14:38:30.973Z",
+  "title": [
+    {
+      "text": "Ruby on Rails 2.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:2.3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T10:38:30.973-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:2.3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

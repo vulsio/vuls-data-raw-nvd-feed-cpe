@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:lfedge:eve:9.7.0",
+  "title": [
+    {
+      "text": "LF Edge EVE 9.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/43xxx/CVE-2023-43637.json"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/lf-edge/eve/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://asrg.io/security-advisories/debug-functions-unlockable-without-triggering-measured-boot/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.lfedge.org/projects/eve/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:lfedge:eve:9.7.0:*:*:*:*:*:*:*"
+  }
+}

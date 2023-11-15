@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:geoserver:geowebcache:1.8.1",
+  "title": [
+    {
+      "text": "Geoserver Geowebcache 1.8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.geoserver.org/stable/en/user/geowebcache/index.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/GeoWebCache/geowebcache/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/GeoWebCache/geowebcache/security/advisories/GHSA-4v22-v8jp-438r"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:geoserver:geowebcache:1.8.1:*:*:*:*:*:*:*"
+  }
+}

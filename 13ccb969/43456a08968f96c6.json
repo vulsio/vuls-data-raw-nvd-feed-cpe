@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:docker:storm_docker_image:2.1",
+  "title": [
+    {
+      "text": "Docker Storm Docker Image 2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29580"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://hub.docker.com/_/storm?tab=tags&page=1&ordering=last_updated"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker:storm_docker_image:2.1:*:*:*:*:*:*:*"
+  }
+}

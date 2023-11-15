@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:eonweb:eonweb:5.3-1",
+  "deprecated": true,
+  "deprecation_date": "2020-04-29T13:26:07.860Z",
+  "title": [
+    {
+      "text": "eonweb 5.3-1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.eonweb.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/EyesOfNetworkCommunity/eonweb/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eonweb:eonweb:5.3-1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-29T09:26:07.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3-1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

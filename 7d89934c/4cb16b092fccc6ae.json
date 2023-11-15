@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:logitech:k830:-",
+  "title": [
+    {
+      "text": "Logitech K830",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.logitech.com/en-us"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.logitech.com/en-us/product/living-room-keyboard-k830"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BastilleResearch/mousejack/blob/master/doc/advisories/bastille-2.logitech.public.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:logitech:k830:-:*:*:*:*:*:*:*"
+  }
+}

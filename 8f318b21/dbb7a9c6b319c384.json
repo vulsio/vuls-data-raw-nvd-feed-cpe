@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microchip:cryptoauthlib:20180817",
+  "title": [
+    {
+      "text": "Microchip Technology Cryptoauthlib 20180817",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microchip.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://census-labs.com/news/2020/10/21/microchip-cryptoauthlib-atcab_sign_base-buffer-overflow/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/MicrochipTech/cryptoauthlib/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microchip:cryptoauthlib:20180817:*:*:*:*:*:*:*"
+  }
+}

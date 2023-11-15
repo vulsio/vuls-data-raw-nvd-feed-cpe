@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:sun:java_system_messaging_server:6.3:_nil_:sparc",
+  "deprecated": true,
+  "deprecation_date": "2013-02-11T20:14:27.650Z",
+  "title": [
+    {
+      "text": "Sun Java System Messaging Server 6.3 SPARC",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:java_system_messaging_server:6.3:_nil_:sparc:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-02-11T15:14:27.650-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sun:java_system_messaging_server:6.3:-:sparc:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

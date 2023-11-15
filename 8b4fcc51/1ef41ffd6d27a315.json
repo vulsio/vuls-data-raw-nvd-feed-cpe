@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:snowflake:snowflake_connector:1.5.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Snowflake Connector 1.5.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/snowflakedb/snowflake-connector-nodejs/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/snowflakedb/snowflake-connector-nodejs/security/advisories/GHSA-h53w-7qw7-vh5c"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:snowflake:snowflake_connector:1.5.3:*:*:*:*:node.js:*:*"
+  }
+}

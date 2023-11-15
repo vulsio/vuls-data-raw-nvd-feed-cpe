@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:nxp:lpc5516jbd100_firmware:-",
+  "title": [
+    {
+      "text": "NXP LPC5516JBD100 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/lpc5500-cortex-m33:LPC5500_SERIES"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nxp.com/docs/en/nxp/data-sheets/LPC55S1x_PDS.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://oxide.computer/blog/lpc55/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31532.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:nxp:lpc5516jbd100_firmware:-:*:*:*:*:*:*:*"
+  }
+}

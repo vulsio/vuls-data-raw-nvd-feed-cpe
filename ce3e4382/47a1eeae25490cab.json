@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:microsoft:powershell_core:6.1",
+  "deprecated": true,
+  "deprecation_date": "2021-09-30T16:07:29.797Z",
+  "title": [
+    {
+      "text": "Microsoft PowerShell Core 6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tenforums.com/tutorials/126551-install-powershell-core-windows.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1721"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.microsoft.com/en-us/powershell/scripting/whats-new/what-s-new-in-powershell-core-61?view=powershell-6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:powershell_core:6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-30T12:07:29.797-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:powershell_core:6.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

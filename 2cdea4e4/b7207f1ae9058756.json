@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:powershellget:3.0.0:beta7",
+  "title": [
+    {
+      "text": "Microsoft PowerShellGet 3.0.0 Beta 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/PowerShell/PowerShellGet/blob/development/CHANGELOG.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.microsoft.com/en-us/powershell/module/powershellget/?view=powershell-7"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:powershellget:3.0.0:beta7:*:*:*:*:*:*"
+  }
+}

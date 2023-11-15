@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:atlasgondal:export_all_urls:4.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Atlas Gondal Export All URLs 4.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/70840a72-ccdc-4eee-9ad2-874809e5de11"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://atlasgondal.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/export-all-urls/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlasgondal:export_all_urls:4.4:*:*:*:*:wordpress:*:*"
+  }
+}

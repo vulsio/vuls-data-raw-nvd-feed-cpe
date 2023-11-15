@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:elasticsearch:kibana:4.2.0",
+  "deprecated": true,
+  "deprecation_date": "2020-08-14T17:30:35.217Z",
+  "title": [
+    {
+      "text": "Elasticsearch Kibana 4.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.elastic.co/products/kibana"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elasticsearch:kibana:4.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-14T13:30:35.217-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elastic:kibana:4.2.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

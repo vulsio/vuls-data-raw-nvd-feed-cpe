@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:credentials:1111.v35a_307992395::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Credentials 1111.v35a 307992395 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-04-12/#SECURITY-2617"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/credentials/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:credentials:1111.v35a_307992395:*:*:*:*:jenkins:*:*"
+  }
+}

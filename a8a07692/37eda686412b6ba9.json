@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oneidentity:password_manager:5.10.1",
+  "title": [
+    {
+      "text": "One Identity Password Manager 5.10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2023-4003"
+    },
+    {
+      "text": "Version",
+      "href": "https://support.oneidentity.com/password-manager/5.13.0/technical-documents?filterType=Doctype&filterValue=Release%20Notes"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oneidentity.com/products/password-manager/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oneidentity:password_manager:5.10.1:*:*:*:*:*:*:*"
+  }
+}

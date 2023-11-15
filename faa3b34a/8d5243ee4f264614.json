@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:facebook:hhvm:4.56.1",
+  "title": [
+    {
+      "text": "Facebook HHVM 4.56.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/facebook/hhvm/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://hhvm.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://opensource.facebook.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://hhvm.com/blog/2020/06/30/security-update.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:facebook:hhvm:4.56.1:*:*:*:*:*:*:*"
+  }
+}

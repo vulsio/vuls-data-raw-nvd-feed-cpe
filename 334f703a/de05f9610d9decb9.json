@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mit:kerberos:5-1.15",
+  "deprecated": true,
+  "deprecation_date": "2020-01-21T15:47:24.733Z",
+  "title": [
+    {
+      "text": "MIT Kerberos 5-1.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/krb5/krb5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mit:kerberos:5-1.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-21T10:47:24.733-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mit:kerberos_5:1.15:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

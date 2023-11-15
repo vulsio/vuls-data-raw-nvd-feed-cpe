@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_101",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T12:59:32.677Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.7.0 Update 101",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_101:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T08:59:32.677-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update101:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

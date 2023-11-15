@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:erlang:otp:-",
+  "deprecated": true,
+  "deprecation_date": "2022-09-27T12:58:47.787Z",
+  "title": [
+    {
+      "text": "Erlang OTP",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/erlang/otp/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:erlang:otp:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-27T08:58:47.787-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:erlang:erlang\\/otp:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

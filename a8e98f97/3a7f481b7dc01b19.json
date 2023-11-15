@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_2000:-:sp3:datacenter_server",
+  "deprecated": true,
+  "deprecation_date": "2019-04-30T14:27:11.800Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2000 Datacenter Server SP3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:datacenter_server:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-30T10:27:11.800-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:*:*:datacenter_server:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

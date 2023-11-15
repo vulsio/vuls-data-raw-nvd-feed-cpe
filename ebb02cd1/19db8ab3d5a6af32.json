@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:intel:open_cache_acceleration_software:21.6.2::~~~linux~~",
+  "title": [
+    {
+      "text": "Intel Open Cache Acceleration Software (Open CAS) 21.6.2 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/software/intel-cache-acceleration-software-performance.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/Open-CAS/open-cas-linux"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00827.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:open_cache_acceleration_software:21.6.2:*:*:*:*:linux:*:*"
+  }
+}

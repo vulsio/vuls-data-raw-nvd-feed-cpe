@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:testahihi_project:testahihi:-",
+  "title": [
+    {
+      "text": "TESTAhihi Project TESTAhihi",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x9fc54a05f1870e61e00bb6d05f71b614e4e1a68a#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:testahihi_project:testahihi:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:greentreelabs:circles_gallery:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "GREENTREELABS Circles Gallery for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/circles-gallery/#description"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/circles-gallery/wordpress-circles-gallery-plugin-1-0-10-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:greentreelabs:circles_gallery:-:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:nasm:netwide_assembler:12.14.0:rc15_",
+  "deprecated": true,
+  "deprecation_date": "2018-10-31T11:56:55.127Z",
+  "title": [
+    {
+      "text": "NASM Netwide Assembler 12.14.0 Release Candidate 15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.nasm.us/doc/nasmdoc1.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.nasm.us/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/doc/nasmdocc.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/pub/nasm/releasebuilds/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nasm:netwide_assembler:12.14.0:rc15_:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-31T07:56:55.127-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nasm:netwide_assembler:12.14:rc15_:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

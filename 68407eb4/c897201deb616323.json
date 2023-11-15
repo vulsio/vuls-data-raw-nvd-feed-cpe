@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_bronze:3106",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:51:47.473Z",
+  "title": [
+    {
+      "text": "Intel Xeon Bronze 3106",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_bronze:3106:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:51:47.473-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_bronze_3106:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:eggemplo:woocommerce_email_report:2.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Eggemplo WooCommerce Email Report 2.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wooemailreport/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.eggemplo.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wooemailreport/wordpress-woocommerce-email-report-plugin-2-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eggemplo:woocommerce_email_report:2.4:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:service_desk:11.2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:53:53.987Z",
+  "title": [
+    {
+      "text": "Computer Associates Service Desk 11.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:service_desk:11.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:53:53.987-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:service_desk:11.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

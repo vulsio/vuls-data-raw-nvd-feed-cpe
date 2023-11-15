@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nodejs:node.js:6.2.1",
+  "deprecated": true,
+  "deprecation_date": "2020-02-10T17:57:58.450Z",
+  "title": [
+    {
+      "text": "Nodejs Node.js 6.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "text": "Version",
+      "href": "https://nodejs.org/download/docs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:6.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-10T12:57:58.450-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nodejs:node.js:6.2.1:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

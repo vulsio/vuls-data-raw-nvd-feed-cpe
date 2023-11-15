@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_software_delivery:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:42:49.350Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Software Delivery",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_software_delivery:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:42:49.350-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_software_delivery:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

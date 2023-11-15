@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:community_events_project:community_events:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Community Events Project Community Events for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/community-events/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/community-events/wordpress-community-events-plugin-1-4-8-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:community_events_project:community_events:-:*:*:*:*:wordpress:*:*"
+  }
+}

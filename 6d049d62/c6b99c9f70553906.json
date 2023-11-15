@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:soconnect:sowifi_hotspot:-",
+  "title": [
+    {
+      "text": "So Connect SoWIFI Hotspot",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sgtcomms.com.au/wifi/so-wifi/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://soconnect.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.redyops.com/cve-2018-7473-open-url-redirection-vulnerability/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:soconnect:sowifi_hotspot:-:*:*:*:*:*:*:*"
+  }
+}

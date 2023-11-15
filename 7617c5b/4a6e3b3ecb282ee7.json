@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pagerduty:service_broker:1.2.4::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "Pagerduty Service Broker 1.2.4 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-3800"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.pivotal.io/partners/pagerduty/release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pagerduty:service_broker:1.2.4:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:blockonomics:blockonomics:1.7.7::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Blockonomics 1.7.7 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.blockonomics.co/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/blockonomics-bitcoin-payments/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/blockonomics-bitcoin-payments/wordpress-wordpress-bitcoin-payments-blockonomics-plugin-3-5-7-cross-site-scripting-xss?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:blockonomics:blockonomics:1.7.7:*:*:*:*:wordpress:*:*"
+  }
+}

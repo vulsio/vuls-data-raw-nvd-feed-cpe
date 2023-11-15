@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:abb:relion_670_firmware:1.2.3.18",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T21:02:24.420Z",
+  "title": [
+    {
+      "text": "ABB Relion 670 Firmware 1.2.3.18",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/substation-automation/products/protection-control/relion-product-family/relion-670-series"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.abb.com/cawp/seitp202/671ca6fc7882aa4fc12580b10054cf1e.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:relion_670_firmware:1.2.3.18:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T17:02:24.420-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hitachienergy:relion_670_firmware:1.2.3.18:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

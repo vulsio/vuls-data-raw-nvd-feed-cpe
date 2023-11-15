@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:nespresso:prodigo:-",
+  "title": [
+    {
+      "text": "Nespresso Prodigo",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.pentestpartners.com/security-blog/hacking-the-nespresso-prodigio-and-jura-e8-coffee-machines/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nespresso.com/prodigio/experience/desktop/#/en/uk"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nespresso.com/us/en/order/machines/original/nespresso-prodigio-silver"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nespresso:prodigo:-:*:*:*:*:*:*:*"
+  }
+}

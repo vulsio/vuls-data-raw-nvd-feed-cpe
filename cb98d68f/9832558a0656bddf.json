@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:cisco:mds_9148:-",
+  "title": [
+    {
+      "text": "Cisco MDS 9148",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/storage-networking/product-listing.html#:~:text=Cisco%20MDS%209100%20Series%20Multilayer,and%20simple%20configuration%20and%20management"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190828-fxnxos-snmp-dos"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:mds_9148:-:*:*:*:*:*:*:*"
+  }
+}

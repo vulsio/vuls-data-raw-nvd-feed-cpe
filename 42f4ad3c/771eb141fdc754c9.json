@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:iis:5.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-23T16:57:38.493Z",
+  "title": [
+    {
+      "text": "Microsoft IIS 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:iis:5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-23T11:57:38.493-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:internet_information_services:5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:schneider_electric:modbus_serial_driver:-::~~~~x64~",
+  "deprecated": true,
+  "deprecation_date": "2021-06-04T14:15:54.330Z",
+  "title": [
+    {
+      "text": "Schneider Electric Modbus Serial Driver on x64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.se.com/us/en/search/modbus+driver"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider_electric:modbus_serial_driver:-:*:*:*:*:*:x64:*",
+    "deprecation": {
+      "date": "2021-06-04T10:15:54.330-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:modbus_serial_driver:-:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

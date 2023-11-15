@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:arris:tg2492lg-na:-",
+  "deprecated": true,
+  "deprecation_date": "2021-08-23T17:24:41.650Z",
+  "title": [
+    {
+      "text": "Arris TG2492LG-NA",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.commscope.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.arris.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:arris:tg2492lg-na:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-23T13:24:41.650-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:commscope:arris_tg2492lg-na:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

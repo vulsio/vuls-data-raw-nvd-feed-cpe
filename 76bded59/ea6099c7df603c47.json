@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:netiq:privileged_user_manager:2.3.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-13T16:45:59.533Z",
+  "title": [
+    {
+      "text": "Netiq Privileged User Manager 2.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netiq:privileged_user_manager:2.3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-13T12:45:59.533-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microfocus:privileged_user_manager:2.3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

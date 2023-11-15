@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp-appbox_project:wp-appbox:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP-Appbox Project WP-Appbox for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/wp-appbox/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-appbox/wordpress-wp-appbox-plugin-4-3-20-authenticated-stored-cross-site-scripting-xss-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp-appbox_project:wp-appbox:-:*:*:*:*:wordpress:*:*"
+  }
+}

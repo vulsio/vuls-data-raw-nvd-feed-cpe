@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:symantec:proxysg:6.5.10.6",
+  "deprecated": true,
+  "deprecation_date": "2021-06-24T18:54:01.793Z",
+  "title": [
+    {
+      "text": "Symantec Proxysg 6.5.10.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.symantec.com/en_US/product.proxysg-software-sgos.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symantec:proxysg:6.5.10.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-24T14:54:01.793-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:symantec_proxysg:6.5.10.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

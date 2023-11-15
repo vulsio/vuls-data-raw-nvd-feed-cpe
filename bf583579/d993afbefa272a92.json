@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:x:x_server:1.11.2",
+  "deprecated": true,
+  "deprecation_date": "2020-08-24T17:14:34.430Z",
+  "title": [
+    {
+      "text": "X.Org xserver 1.11.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x:x_server:1.11.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-24T13:14:34.430-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:x.org:x_server:1.11.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

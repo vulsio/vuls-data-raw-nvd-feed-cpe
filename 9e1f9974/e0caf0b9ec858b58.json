@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:splunk:1.7.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Splunk 1.7.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2019-08-28/#SECURITY-1294"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/splunk-devops"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:splunk:1.7.0:*:*:*:*:jenkins:*:*"
+  }
+}

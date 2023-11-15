@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:avast:email_server_security:8.0.1606",
+  "title": [
+    {
+      "text": "Avast Email Server Security 8.0.1606",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://labs.nettitude.com/blog/escaping-avast-sandbox-using-single-ioctl-cve-2016-4025/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.avast.com/en-us/index"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:avast:email_server_security:8.0.1606:*:*:*:*:*:*:*"
+  }
+}

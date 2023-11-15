@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:amazon:web_services_simple_notification_service:-",
+  "deprecated": true,
+  "deprecation_date": "2021-05-10T15:58:17.340Z",
+  "title": [
+    {
+      "text": "Amazon Web Services Simple Notification Service",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://aws.amazon.com/sns/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:web_services_simple_notification_service:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-10T11:58:17.340-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:amazon:amazon_simple_notification_service:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:l3406:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:52.593Z",
+  "title": [
+    {
+      "text": "Intel Xeon L3406",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:l3406:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:52.593-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_l3406:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

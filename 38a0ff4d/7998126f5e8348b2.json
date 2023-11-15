@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dlink:dir-619_firmware:1.00",
+  "title": [
+    {
+      "text": "D-Link DIR-619 Firmware 1.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://us.dlink.com/en/consumer"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/skyvast404/IoT_Hunter/blob/main/DIR-619%20Buffer%20Overflow.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dir-619_firmware:1.00:*:*:*:*:*:*:*"
+  }
+}

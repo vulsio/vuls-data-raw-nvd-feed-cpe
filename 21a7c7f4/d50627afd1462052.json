@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pixelgrade:comments_rating:1.1.7::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Pixelgrade Comments Rating 1.1.7 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://pixelgrade.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/comments-ratings/wordpress-comments-ratings-plugin-1-1-6-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/comments-ratings/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pixelgrade:comments_rating:1.1.7:*:*:*:*:wordpress:*:*"
+  }
+}

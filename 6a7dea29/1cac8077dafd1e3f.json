@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:mindsdb:mindsdb:2.35.0",
+  "title": [
+    {
+      "text": "MindsDB 2.35.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mindsdb.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/mindsdb/mindsdb/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-PYTHON-MINDSDB-5351801"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mindsdb/mindsdb/security/advisories/GHSA-7x45-phmr-9wqp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mindsdb:mindsdb:2.35.0:*:*:*:*:*:*:*"
+  }
+}

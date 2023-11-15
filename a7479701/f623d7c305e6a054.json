@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2008:-:sp2:datacenter",
+  "deprecated": true,
+  "deprecation_date": "2019-05-07T18:27:57.440Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2008 Service Pack 2 DataCenter Edition",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:datacenter:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-07T14:27:57.440-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:datacenter:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

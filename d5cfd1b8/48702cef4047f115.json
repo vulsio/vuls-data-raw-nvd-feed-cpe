@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:krzysztof_kowalczyk:sumatrapdf:2.0.1",
+  "deprecated": true,
+  "deprecation_date": "2020-03-11T14:58:40.667Z",
+  "title": [
+    {
+      "text": "Krzysztof J. Kowalczyk SumatraPDF 2.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:krzysztof_kowalczyk:sumatrapdf:2.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-11T10:58:40.667-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sumatrapdfreader:sumatrapdf:2.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

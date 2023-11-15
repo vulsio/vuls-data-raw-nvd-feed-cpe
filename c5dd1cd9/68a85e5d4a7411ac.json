@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:nordicsemi:nrf52840_firmware:-",
+  "title": [
+    {
+      "text": "NORDIC Semiconductor nRF52840 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.aisec.fraunhofer.de/de/das-institut/wissenschaftliche-exzellenz/security-and-trust-in-open-source-security-tokens.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202240"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:nordicsemi:nrf52840_firmware:-:*:*:*:*:*:*:*"
+  }
+}

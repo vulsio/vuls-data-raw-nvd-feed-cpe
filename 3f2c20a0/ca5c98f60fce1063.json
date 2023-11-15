@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nvidia:virtual_gpu_manager:-",
+  "title": [
+    {
+      "text": "NVIDIA Virtual GPU Manager",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4907"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.nvidia.com/grid/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:virtual_gpu_manager:-:*:*:*:*:*:*:*"
+  }
+}

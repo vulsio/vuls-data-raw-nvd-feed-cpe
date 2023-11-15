@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sonicwall:global_management_system:8.4",
+  "title": [
+    {
+      "text": "SonicWall Global Management System (GMS) 8.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2019-0004"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0003"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sonicwall:global_management_system:8.4:*:*:*:*:*:*:*"
+  }
+}

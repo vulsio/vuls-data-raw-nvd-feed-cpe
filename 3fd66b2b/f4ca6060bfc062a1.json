@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:cisco:packet_data_network_gateway:21.27.0",
+  "title": [
+    {
+      "text": "Cisco Packet Data Network Gateway (PGW) 21.27.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/wireless/pgw-packet-data-network-gateway/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwb32089"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cisco-pdng-dos-KmzwEy2Q"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:packet_data_network_gateway:21.27.0:*:*:*:*:*:*:*"
+  }
+}

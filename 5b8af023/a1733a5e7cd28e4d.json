@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:unicorn-engine:unicorn_engine:1.0.3",
+  "title": [
+    {
+      "text": "Unicorn Engine 1.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.unicorn-engine.org/changelog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/oss-fuzz-vulns/blob/main/vulns/unicorn/OSV-2020-837.yaml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.3:*:*:*:*:*:*:*"
+  }
+}

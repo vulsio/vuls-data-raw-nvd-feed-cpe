@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud_mail:3.0.2",
+  "title": [
+    {
+      "text": "Nextcloud Mail 3.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/mail/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8gph-9895-w564"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud_mail:3.0.2:*:*:*:*:*:*:*"
+  }
+}

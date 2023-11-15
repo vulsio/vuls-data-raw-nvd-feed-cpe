@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:percona:xtradb_cluster:8.0.20-11.2",
+  "title": [
+    {
+      "text": "Percona XtraDB Cluster 8.0.20-11.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1894919"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/percona/percona-xtradb-cluster/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.percona.com/blog/2020/10/30/cve-2020-15180-affects-percona-xtradb-cluster/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:percona:xtradb_cluster:8.0.20-11.2:*:*:*:*:*:*:*"
+  }
+}

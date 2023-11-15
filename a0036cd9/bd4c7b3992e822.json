@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:enhancesoft:audit_log:2022-04-21::~~~osticket~~",
+  "title": [
+    {
+      "text": "Enhancesoft Audit Log 2022-04-21 for Osticket",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://enhancesoft.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://osticket.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://checkmarx.com/blog/securing-open-source-solutions-a-study-of-osticket-vulnerabilities/"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.osticket.com/en/latest/Plugins/Audits.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/osTicket/osTicket-plugins/commit/0b59afbd2d4ccd0522552198a9aaf1ec05b5071e"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:enhancesoft:audit_log:2022-04-21:*:*:*:*:osticket:*:*"
+  }
+}

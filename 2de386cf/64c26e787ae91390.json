@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cloudbees:jenkins:1.639",
+  "deprecated": true,
+  "deprecation_date": "2016-06-13T12:10:43.840Z",
+  "title": [
+    {
+      "text": "CloudBees Jenkins 1.636",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/jenkinsci/jenkins"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudbees:jenkins:1.639:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-06-13T08:10:43.840-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:1.639:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

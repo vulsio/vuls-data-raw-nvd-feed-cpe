@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:moxa:nport_5610-8-dt-t_firmware:-",
+  "title": [
+    {
+      "text": "Moxa NPort 5610-8-DT-T Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/general-device-servers/nport-5600-dt-series#models"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:moxa:nport_5610-8-dt-t_firmware:-:*:*:*:*:*:*:*"
+  }
+}

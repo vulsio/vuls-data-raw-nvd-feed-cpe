@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:w3-edge:total_cache:0.9.5.1::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-26T17:46:25.487Z",
+  "title": [
+    {
+      "text": "W3 EDGE Total Cache 0.9.5.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/plugins/w3-total-cache/#developers"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.w3-edge.com/products/w3-total-cache/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.w3-edge.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:w3-edge:total_cache:0.9.5.1:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-26T13:46:25.487-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:boldgrid:w3_total_cache:0.9.5.1:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

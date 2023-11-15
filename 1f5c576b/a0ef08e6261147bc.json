@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:tencent:wechat_pay:-",
+  "title": [
+    {
+      "text": "Tencent WeChat Pay",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/148390/WeChat-Pay-SDK-XXE-Injection.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.tencent.com/en-us/system.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tencent:wechat_pay:-:*:*:*:*:*:*:*"
+  }
+}

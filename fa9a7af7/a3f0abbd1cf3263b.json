@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_workstation:6.0",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Workstation 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://rhn.redhat.com/errata/RHSA-2015-2549.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.redhat.com/apps/store/desktop/"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_workstation:6.0:*:*:*:*:*:*:*"
+  }
+}

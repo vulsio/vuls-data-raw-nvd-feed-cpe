@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:shelly:pro_4pm:-",
+  "title": [
+    {
+      "text": "Shelly Pro 4PM  -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/173954/Shelly-PRO-4PM-0.11.0-Authentication-Bypass.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.shelly.com/en/products/shop/shelly-pro-4-pm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:shelly:pro_4pm:-:*:*:*:*:*:*:*"
+  }
+}

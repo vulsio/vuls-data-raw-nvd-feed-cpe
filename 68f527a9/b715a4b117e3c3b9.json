@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:openjpeg:openjpeg:1.5.2",
+  "deprecated": true,
+  "deprecation_date": "2020-09-09T19:56:57.097Z",
+  "title": [
+    {
+      "text": "OpenJPEG 1.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product information",
+      "href": "https://code.google.com/p/openjpeg/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.openjpeg.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openjpeg:openjpeg:1.5.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-09T15:56:57.097-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:uclouvain:openjpeg:1.5.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

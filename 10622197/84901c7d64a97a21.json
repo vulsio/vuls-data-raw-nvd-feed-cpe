@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:netgear:r6330:-",
+  "title": [
+    {
+      "text": "NETGEAR R6330",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://kb.netgear.com/000062304/Security-Advisory-for-Authentication-Bypass-on-Some-Routers-PSV-2020-0258"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.netgear.com/home/products/networking/wifi-routers/r6330.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:netgear:r6330:-:*:*:*:*:*:*:*"
+  }
+}

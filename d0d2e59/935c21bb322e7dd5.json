@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:ontap_system_manager:9.8:p7",
+  "title": [
+    {
+      "text": "NetApp ONTAP System Manager 9.8 Patch 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/NTAP-20210601-0001/"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.netapp.com/us-en/ontap/system-admin/system-manager-concept.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:ontap_system_manager:9.8:p7:*:*:*:*:*:*"
+  }
+}

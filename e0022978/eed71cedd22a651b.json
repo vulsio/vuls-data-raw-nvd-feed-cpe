@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:owasp:enterprise_security_api:-",
+  "title": [
+    {
+      "text": "OWASP Enterprise Security API -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://securitylab.github.com/advisories/GHSL-2022-008_The_OWASP_Enterprise_Security_API/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ESAPI/esapi-java-legacy/security/advisories/GHSA-8m5h-hrqm-pxm2"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ESAPI/esapi-java-legacy/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:owasp:enterprise_security_api:-:*:*:*:*:*:*:*"
+  }
+}

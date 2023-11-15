@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:crowdfavorite:progressive_license:1.1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Crowd Favorite Progressive License 1.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/11937296-7ecf-4b94-b274-06f7990dbede"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://crowdfavorite.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/progressive-license/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crowdfavorite:progressive_license:1.1.0:*:*:*:*:wordpress:*:*"
+  }
+}

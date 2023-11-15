@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:omron:plc_cj_firmware:-",
+  "title": [
+    {
+      "text": "Omron PLC CJ Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://automation.omron.com/en/us/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.ia.omron.com/products/category/automation-systems/programmable-controllers/cj1/power-supply-units/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-346-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:omron:plc_cj_firmware:-:*:*:*:*:*:*:*"
+  }
+}

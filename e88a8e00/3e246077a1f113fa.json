@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:secure_access_control_server:3.1",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:37:45.630Z",
+  "title": [
+    {
+      "text": "Cisco Secure Access Control Server (ACS) 3.1 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:secure_access_control_server:3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:37:45.630-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:secure_access_control_server:3.1:-:windows:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

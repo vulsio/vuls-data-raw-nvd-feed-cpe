@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:huggingface:transformers:4.12.2",
+  "title": [
+    {
+      "text": "Hugging Face Transformers 4.12.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/huggingface/transformers/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://huggingface.co/docs/transformers/index"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/a3867b4e-6701-4418-8c20-3c6e7084a44a/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:huggingface:transformers:4.12.2:*:*:*:*:*:*:*"
+  }
+}

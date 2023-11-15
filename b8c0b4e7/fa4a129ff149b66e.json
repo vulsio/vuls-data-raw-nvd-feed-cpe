@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:4.16",
+  "deprecated": true,
+  "deprecation_date": "2023-06-05T20:37:24.040Z",
+  "title": [
+    {
+      "text": "Linux Kernel 4.16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.kernel.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.kernel.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/torvalds/linux/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:4.16:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-06-05T16:37:24.040-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:linux:linux_kernel:4.16:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

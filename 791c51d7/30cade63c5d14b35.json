@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:containers-image_project:containers-image:5.5.0",
+  "title": [
+    {
+      "text": "containers-image Project containers-image 5.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1792796"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/containers/image/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:containers-image_project:containers-image:5.5.0:*:*:*:*:*:*:*"
+  }
+}

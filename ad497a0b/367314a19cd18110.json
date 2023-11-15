@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pingidentity:radius_pcv:3.0.2",
+  "title": [
+    {
+      "text": "PingID RADIUS PCV 3.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.pingidentity.com/r/en-us/pingid/pingid_integration_kit_2_19_rn"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/advisories/GHSA-5hwc-8c64-25vm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40723.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pingidentity:radius_pcv:3.0.2:*:*:*:*:*:*:*"
+  }
+}

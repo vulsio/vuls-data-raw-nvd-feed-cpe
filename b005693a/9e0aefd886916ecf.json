@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ca:release_automation:6.1.0-1026",
+  "deprecated": true,
+  "deprecation_date": "2021-04-12T14:13:56.603Z",
+  "title": [
+    {
+      "text": "CA Technologies Release Automation 6.1.0-1026",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.ca.com/us/product-content/recommended-reading/security-notices/ca20160627-01-security-notice-for-release-automation.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:release_automation:6.1.0-1026:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-12T10:13:56.603-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:release_automation:6.1.0-1026:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

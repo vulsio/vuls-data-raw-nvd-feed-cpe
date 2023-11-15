@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:imageboss:imageboss:1.0.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ImageBoss 1.0.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://imageboss.me/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/imageboss/imageboss-wordpress/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/19bffa71-705c-42fc-b2ca-bf62fabb70a0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:imageboss:imageboss:1.0.4:*:*:*:*:wordpress:*:*"
+  }
+}

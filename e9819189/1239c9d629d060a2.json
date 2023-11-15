@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:trend_micro:interscan_web_security_suite:2.5",
+  "deprecated": true,
+  "deprecation_date": "2014-06-16T18:32:55.390Z",
+  "title": [
+    {
+      "text": "Trend Micro InterScan Web Security Suite 2.5",
+      "lang": "en-US"
+    },
+    {
+      "text": "トレンドマイクロ インタースキャン ウェブセキュリティ スイート 2.5",
+      "lang": "ja-JP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trend_micro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-06-16T14:32:55.390-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trendmicro:interscan_web_security_suite:2.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:kangu:kangu:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Kangu Kangu - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.kangu.com.br/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/kangu/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/kangu/wordpress-kangu-para-woocommerce-plugin-2-2-9-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kangu:kangu:-:*:*:*:*:wordpress:*:*"
+  }
+}

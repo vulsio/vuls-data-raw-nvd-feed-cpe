@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:oracle:vm_server:3.4::~~~~sparc~",
+  "title": [
+    {
+      "text": "Oracle VM Server 3.4 for SPARC",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpujan2017.html#AppendixSUNS"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/virtualization/oracle-vm-server-for-sparc/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:oracle:vm_server:3.4:*:*:*:*:*:sparc:*"
+  }
+}

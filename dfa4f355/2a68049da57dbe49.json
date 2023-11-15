@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:johnsoncontrols:entrapass:8.10::~~global~~~",
+  "title": [
+    {
+      "text": "Johnson Controls EntraPass 8.10 Global Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-070-04"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kantech.com/products/software_entrapass_ge.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:johnsoncontrols:entrapass:8.10:*:*:*:global:*:*:*"
+  }
+}

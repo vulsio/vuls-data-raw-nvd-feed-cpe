@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:zyxel:vpn300_firmware:5.20",
+  "title": [
+    {
+      "text": "Zyxel VPN300 FIRMWARE 5.20",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.zyxel.com/us/en/products_services/VPN-Firewall-ZyWALL-VPN300/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-authentication-bypass-vulnerability-of-firewalls.shtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:zyxel:vpn300_firmware:5.20:*:*:*:*:*:*:*"
+  }
+}

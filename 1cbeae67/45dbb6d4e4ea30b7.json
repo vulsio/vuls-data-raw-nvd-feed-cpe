@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:helmholz:rex_250:-",
+  "title": [
+    {
+      "text": "Helmholz REX 250",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert.vde.com/en/advisories/VDE-2023-029/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.helmholz.de/en/products/industrial-remote-solutions/ethernet-router/7/industrial-router?number=700-878-WAN02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:helmholz:rex_250:-:*:*:*:*:*:*:*"
+  }
+}

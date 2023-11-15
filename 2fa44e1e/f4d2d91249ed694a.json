@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:citrix:application_delivery_controller:12.1-55.247",
+  "deprecated": true,
+  "deprecation_date": "2023-09-29T11:33:57.233Z",
+  "title": [
+    {
+      "text": "Citrix Application Delivery Controller (ADC) 12.1-55.247",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX477714/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202324487-cve202324488"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX319135"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-29T07:33:57.233-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-55.247:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

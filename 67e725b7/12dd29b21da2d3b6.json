@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:hp:zhaoyang_k42-80_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2019-12-10T16:31:09.583Z",
+  "title": [
+    {
+      "text": "HP Zhaoyang K42-80 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:hp:zhaoyang_k42-80_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-10T11:31:09.583-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:lenovo:zhaoyang_k42-80_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

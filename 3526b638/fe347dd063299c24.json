@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:codecabin:wp_google_maps:5.38::~~pro~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-05-23T20:30:55.053Z",
+  "title": [
+    {
+      "text": "CodeCabin WP Go Maps 5.38 Pro Edition for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.wpgmaps.com/documentation/pro-changelog/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://codecabin.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.wpgmaps.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:codecabin:wp_google_maps:5.38:*:*:*:pro:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-05-23T16:30:55.053-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:codecabin:wp_go_maps:5.38:*:*:*:pro:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

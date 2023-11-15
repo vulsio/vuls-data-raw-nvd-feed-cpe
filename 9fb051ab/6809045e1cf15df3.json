@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:ios:15.2%283%29ea",
+  "title": [
+    {
+      "text": "Cisco IOS 15.2(3)EA",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/td/docs/switches/connectedgrid/cg-switch-sw-master/software/release/notes/rn-15-2-3e.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sbxss"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvk25852"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios:15.2\\(3\\)ea:*:*:*:*:*:*:*"
+  }
+}

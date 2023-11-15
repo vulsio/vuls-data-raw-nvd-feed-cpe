@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:zulip:zulip:5.5",
+  "title": [
+    {
+      "text": "Zulip 5.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zulip/zulip/security/advisories/GHSA-vg5m-mf9x-j452"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/zulip/zulip/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zulip:zulip:5.5:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:wdc:my_net_firmware:1.05.12",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T15:02:23.590Z",
+  "title": [
+    {
+      "text": "Western Digital My Net Firmware 1.05.12",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:wdc:my_net_firmware:1.05.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-24T10:02:23.590-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:westerndigital:my_net_firmware:1.05.12:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

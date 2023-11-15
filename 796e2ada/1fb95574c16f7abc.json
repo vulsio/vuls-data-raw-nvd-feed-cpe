@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:google_login:1.7::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Google Login 1.7 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-2967"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/google-login/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:google_login:1.7:*:*:*:*:jenkins:*:*"
+  }
+}

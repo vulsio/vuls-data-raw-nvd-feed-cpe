@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:html2csv_project:html2csv:0.1.1::~~~python~~",
+  "deprecated": true,
+  "deprecation_date": "2021-12-20T14:49:07.273Z",
+  "title": [
+    {
+      "text": "Html2csv Project html2csv 0.1.1 for Python",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://pypi.org/project/html-to-csv/#description"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/hanwentao/html2csv/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/hanwentao/html2csv"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:html2csv_project:html2csv:0.1.1:*:*:*:*:python:*:*",
+    "deprecation": {
+      "date": "2021-12-20T09:49:07.273-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:html-to-csv_project:html-to-csv:0.1.1:*:*:*:*:python:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:kubernetes_continuous_deploy:2.0.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Kubernetes Continuous Deploy 2.0.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/kubernetes-cd-plugin/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/jenkinsci/kubernetes-cd-plugin"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:kubernetes_continuous_deploy:2.0.0:*:*:*:*:jenkins:*:*"
+  }
+}

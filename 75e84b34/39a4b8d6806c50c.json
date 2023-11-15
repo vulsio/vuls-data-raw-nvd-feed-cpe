@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ca:ehealth:6.3.2.09",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T13:18:14.527Z",
+  "title": [
+    {
+      "text": "Ca eHealth 6.3.2.09",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.ca.com/us.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:ehealth:6.3.2.09:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T09:18:14.527-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:ehealth:6.3.2.09:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

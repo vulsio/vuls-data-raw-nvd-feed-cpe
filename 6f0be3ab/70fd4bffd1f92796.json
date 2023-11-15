@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift:1.2.7::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Red Hat OpenShift 1.2.7 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2014:0422"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://access.redhat.com/site/documentation/en-US/OpenShift_Enterprise/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift:1.2.7:*:*:*:enterprise:*:*:*"
+  }
+}

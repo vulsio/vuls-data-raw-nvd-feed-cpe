@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:oracle:linux:7.0",
+  "deprecated": true,
+  "deprecation_date": "2019-12-27T16:08:55.693Z",
+  "title": [
+    {
+      "text": "Oracle Linux 7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://www.oracle.com/us/technologies/linux/overview/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:oracle:linux:7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-27T11:08:55.693-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:oracle:linux:7:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:invoiceplane:invoiceplane:1.5.0",
+  "deprecated": true,
+  "deprecation_date": "2019-07-01T17:06:23.553Z",
+  "title": [
+    {
+      "text": "InvoicePlane 1.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://invoiceplane.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/InvoicePlane/InvoicePlane"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/InvoicePlane/InvoicePlane/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:invoiceplane:invoiceplane:1.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-01T13:06:23.553-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:invoiceplane:invoiceplane:1.5.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

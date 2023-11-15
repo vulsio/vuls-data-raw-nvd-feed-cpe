@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:nginx:nginx:1.16.1",
+  "deprecated": true,
+  "deprecation_date": "2022-02-22T19:26:32.967Z",
+  "title": [
+    {
+      "text": "Nginx 1.16.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nginx/nginx/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nginx:nginx:1.16.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-22T14:26:32.967-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:f5:nginx:1.16.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

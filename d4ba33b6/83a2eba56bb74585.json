@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:license_software:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:17:14.747Z",
+  "title": [
+    {
+      "text": "Computer Associates License Software",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:license_software:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:17:14.747-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:license_software:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

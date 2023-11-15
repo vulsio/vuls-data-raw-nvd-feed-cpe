@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:woo:product_vendors:2.1.78::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Woo Product Vendors 2.1.78 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://woo.com/products/product-vendors/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://woo.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/woocommerce-product-vendors/wordpress-woocommerce-product-vendors-plugin-2-1-78-shop-manager-sql-injection-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:woo:product_vendors:2.1.78:*:*:*:*:wordpress:*:*"
+  }
+}

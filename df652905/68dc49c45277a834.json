@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:illumos:illumos:-",
+  "title": [
+    {
+      "text": "Illumos",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/illumos/illumos-gate/commit/1d276e0b382cf066dae93640746d8b4c54d15452"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27678.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:illumos:illumos:-:*:*:*:*:*:*:*"
+  }
+}

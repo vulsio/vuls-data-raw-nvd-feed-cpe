@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:moxa:nport_5232_firmware:2.12",
+  "title": [
+    {
+      "text": "Moxa NPort 5232 Firmware 2.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/general-device-servers/nport-5200-series#models"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:moxa:nport_5232_firmware:2.12:*:*:*:*:*:*:*"
+  }
+}

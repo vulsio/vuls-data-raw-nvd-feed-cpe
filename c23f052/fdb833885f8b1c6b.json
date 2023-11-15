@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:temenos:t24:r15.01",
+  "title": [
+    {
+      "text": "TEMENOS T24 R15.01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.temenos.com/products/t24-transact/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/kmkz/exploit/blob/master/CVE-2019-14251-TEMENOS-T24.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:temenos:t24:r15.01:*:*:*:*:*:*:*"
+  }
+}

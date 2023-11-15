@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:gentoo:libsndfile:-",
+  "deprecated": true,
+  "deprecation_date": "2020-11-20T14:39:41.310Z",
+  "title": [
+    {
+      "text": "Gentoo libsndfile",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gentoo:libsndfile:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-20T09:39:41.310-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libsndfile_project:libsndfile:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

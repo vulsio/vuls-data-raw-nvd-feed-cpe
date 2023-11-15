@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:woocommerce:woocommerce:4.0.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WooCommerce 4.0.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/woocommerce/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Ko-kn3t/CVE-2020-29156"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:woocommerce:woocommerce:4.0.1:*:*:*:*:wordpress:*:*"
+  }
+}

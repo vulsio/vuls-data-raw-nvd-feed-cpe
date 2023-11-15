@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:se:ecostruxure_control_expert:14.0",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:32:59.153Z",
+  "title": [
+    {
+      "text": "Schneider Electric EcoStruxure Control Expert 14.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.se.com/us/en/product-range/548-ecostruxure-control-expert-%28unity-pro%29/#overview"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.se.com/ww/en/download/document/SEVD-2019-344-02/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:ecostruxure_control_expert:14.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:32:59.153-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:ecostruxure_control_expert:14.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

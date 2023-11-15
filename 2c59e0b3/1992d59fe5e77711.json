@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:office:2013:sp1:~~~~x64~",
+  "title": [
+    {
+      "text": "Microsoft Office 2013 Service Pack 1 x64 (64-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://products.office.com/en-us/microsoft-office-2013"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-0845"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:*:x64:*"
+  }
+}

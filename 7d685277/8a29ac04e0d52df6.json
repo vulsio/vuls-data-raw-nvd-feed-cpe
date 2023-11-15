@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octopus:server:3.0.8",
+  "deprecated": true,
+  "deprecation_date": "2022-07-27T17:08:38.673Z",
+  "title": [
+    {
+      "text": "Octopus Server 3.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://octopus.com/downloads/previous"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:server:3.0.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-27T13:08:38.673-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octopus:octopus_server:3.0.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

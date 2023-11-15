@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gradle:test_distribution:-::~~~gradle~~",
+  "title": [
+    {
+      "text": "Gradle Test Distribution for Gradle",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.gradle.com/enterprise/test-distribution-gradle-plugin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.gradle.com/advisory/CVE-2021-26719"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gradle:test_distribution:-:*:*:*:*:gradle:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:mysql:mysql:5.0.87:-",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T20:23:20.533Z",
+  "title": [
+    {
+      "text": "MySQL 5.0.87",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mysql/mysql-server/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/mysql/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysql:mysql:5.0.87:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-17T15:23:20.533-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql:5.0.87:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

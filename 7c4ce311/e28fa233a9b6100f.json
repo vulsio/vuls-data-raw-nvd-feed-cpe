@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:flex_project:flex:2.6.0",
+  "deprecated": true,
+  "deprecation_date": "2023-10-06T17:12:20.950Z",
+  "title": [
+    {
+      "text": "Flex Project Flex 2.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://sourceforge.net/projects/flex/files/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:flex_project:flex:2.6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-06T13:12:20.950-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:westes:flex:2.6.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

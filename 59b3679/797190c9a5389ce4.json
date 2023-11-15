@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:bestwebsoft:user_role:1.6.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "BestWebSoft User Role 1.6.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/b93d9f9d-0fd9-49b8-b465-d32b95351912"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://bestwebsoft.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/user-role/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bestwebsoft:user_role:1.6.3:*:*:*:*:wordpress:*:*"
+  }
+}

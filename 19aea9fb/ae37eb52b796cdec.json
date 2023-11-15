@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jupyter:binderhub:-",
+  "title": [
+    {
+      "text": "Jupyter BinderHub",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jupyter.org/about"
+    },
+    {
+      "text": "Product",
+      "href": "https://binderhub.readthedocs.io/en/latest/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/jupyterhub/binderhub/security/advisories/GHSA-9jjr-qqfp-ppwx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jupyter:binderhub:-:*:*:*:*:*:*:*"
+  }
+}

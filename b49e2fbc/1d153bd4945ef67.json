@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gemalto:sentinel_license_manager:-",
+  "title": [
+    {
+      "text": "Gemalto Sentinel License Manager",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-15492?tab=REFERENCES"
+    },
+    {
+      "text": "Product",
+      "href": "https://sentinel.gemalto.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gemalto:sentinel_license_manager:-:*:*:*:*:*:*:*"
+  }
+}

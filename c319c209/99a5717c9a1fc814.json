@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:honeywell:inncom_inncontrol_firmware:-",
+  "title": [
+    {
+      "text": "Honeywell INNCOM INNControl Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.inncom.com/inncontrol-3-and-the-deep-mesh-network?format=raw&task=download&fid=30"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-049-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:honeywell:inncom_inncontrol_firmware:-:*:*:*:*:*:*:*"
+  }
+}

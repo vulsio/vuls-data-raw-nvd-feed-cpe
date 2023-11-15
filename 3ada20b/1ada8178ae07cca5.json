@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:supermicro:x8sti-f_bios:02.68",
+  "title": [
+    {
+      "text": "Super Micro X8STi-F Bios 02.68",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.supermicro.com/products/motherboard/Xeon3000/X58/X8STi-F.cfm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dark-sec.net/2019/12/supermicro-ipmi-exploitation.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:supermicro:x8sti-f_bios:02.68:*:*:*:*:*:*:*"
+  }
+}

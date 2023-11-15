@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:heartex:label_studio:0.2.2::~~community~~~",
+  "title": [
+    {
+      "text": "Heartex Label Studio 0.2.2 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/heartexlabs/label-studio/pull/2840"
+    },
+    {
+      "text": "Product",
+      "href": "https://labelstud.io/community/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/heartexlabs/label-studio/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:heartex:label_studio:0.2.2:*:*:*:community:*:*:*"
+  }
+}

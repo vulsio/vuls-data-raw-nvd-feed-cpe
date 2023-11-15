@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jellyfin:jellyfin:10.8.9",
+  "title": [
+    {
+      "text": "Jellyfin 10.8.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/jellyfin/jellyfin/security/advisories/GHSA-9p5f-5x8v-x65m"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jellyfin.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jellyfin/jellyfin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jellyfin:jellyfin:10.8.9:*:*:*:*:*:*:*"
+  }
+}

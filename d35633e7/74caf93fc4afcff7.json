@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:ssh_agent:1.12::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins SSH Agent 1.12 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/ssh-agent-plugin/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/ssh-agent"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:ssh_agent:1.12:*:*:*:*:jenkins:*:*"
+  }
+}

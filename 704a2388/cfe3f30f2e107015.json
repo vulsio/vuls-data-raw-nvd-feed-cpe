@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:intel:ethernet_controller_xl710_firmware:-",
+  "title": [
+    {
+      "text": "Intel Ethernet Controller Xl710 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/details/ethernet/700-controllers.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00593.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:ethernet_controller_xl710_firmware:-:*:*:*:*:*:*:*"
+  }
+}

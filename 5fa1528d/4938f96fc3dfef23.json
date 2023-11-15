@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:fiio:m6:-",
+  "title": [
+    {
+      "text": "Fiio M6 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.fiio.com/m6"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://stigward.github.io/posts/fiio-m6-exploit/#overview"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/30xxx/CVE-2023-30257.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:fiio:m6:-:*:*:*:*:*:*:*"
+  }
+}

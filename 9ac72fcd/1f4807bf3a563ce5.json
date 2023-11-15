@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:optipng:optipng:0.6.4",
+  "deprecated": true,
+  "deprecation_date": "2017-12-01T15:02:02.347Z",
+  "title": [
+    {
+      "text": "OptiPNG 0.6.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://optipng.sourceforge.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:optipng:optipng:0.6.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-12-01T10:02:02.347-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:optipng_project:optipng:0.6.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

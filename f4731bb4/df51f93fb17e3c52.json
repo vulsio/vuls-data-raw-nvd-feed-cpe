@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hashicorp:terraform:2.10.0::~~~aws~~",
+  "title": [
+    {
+      "text": "HashiCorp Terraform 2.10.0 for AWS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.hashicorp.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/terraform-providers/terraform-provider-aws/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.terraform.io/docs/providers/aws/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:terraform:2.10.0:*:*:*:*:aws:*:*"
+  }
+}

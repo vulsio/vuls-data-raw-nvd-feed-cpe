@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:apache:http_server:1.2",
+  "deprecated": true,
+  "deprecation_date": "2022-06-30T15:18:54.573Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Apache 1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/httpd"
+    },
+    {
+      "text": "Product",
+      "href": "https://httpd.apache.org/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.apache.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:http_server:1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-30T11:18:54.573-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:http_server:1.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

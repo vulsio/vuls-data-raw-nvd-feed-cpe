@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rubyonrails:ruby_on_rails:4.0.0:beta",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T15:26:41.577Z",
+  "title": [
+    {
+      "text": "Ruby on Rails 4.0.0 Beta",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://rubygems.org/gems/rails/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.0.0:beta:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T11:26:41.577-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:4.0.0:beta:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

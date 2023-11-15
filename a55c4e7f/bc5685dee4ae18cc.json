@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:strapi:strapi:3.0.0:beta.17.6",
+  "deprecated": true,
+  "deprecation_date": "2020-06-24T02:39:48.487Z",
+  "title": [
+    {
+      "text": "Strapi 3.0.0 Beta.17.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/advisories/1424/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:strapi:strapi:3.0.0:beta.17.6:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-23T22:39:48.487-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:strapi:strapi:3.0.0:beta17.6:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

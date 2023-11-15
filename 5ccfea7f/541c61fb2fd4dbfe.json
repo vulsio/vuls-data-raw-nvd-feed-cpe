@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:table_of_contents_plus_project:table_of_contents_plus:1311::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-10-12T15:28:16.630Z",
+  "title": [
+    {
+      "text": "Table of Contents Plus Project Table of Contents Plus 1311 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/table-of-contents-plus/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/table-of-contents-plus/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:table_of_contents_plus_project:table_of_contents_plus:1311:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-10-12T11:28:16.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dublue:table_of_contents_plus:1311:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

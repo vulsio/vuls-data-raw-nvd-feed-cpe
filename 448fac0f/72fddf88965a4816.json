@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:ibm:linux_on_zseries:-::~~~~x86~",
+  "deprecated": true,
+  "deprecation_date": "2023-02-14T15:51:38.130Z",
+  "title": [
+    {
+      "text": "IBM Linux on zSeries 32-bit",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ibm.com/z/linux"
+    },
+    {
+      "text": "Vendor website",
+      "href": "http://www-03.ibm.com/systems/z/os/linux/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:x86:*",
+    "deprecation": {
+      "date": "2023-02-14T10:51:38.130-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

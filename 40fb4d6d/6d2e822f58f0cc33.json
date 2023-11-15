@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:microsoft:yet_another_reverse_proxy:1.1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-10-14T22:13:48.993Z",
+  "title": [
+    {
+      "text": "Microsoft Yet Another Reverse Proxy 1.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://microsoft.github.io/reverse-proxy/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/microsoft/reverse-proxy/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:yet_another_reverse_proxy:1.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-14T18:13:48.993-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:yet_another_reverse_proxy:1.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

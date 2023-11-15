@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bitweaver:bitweaver:3.1.0",
+  "title": [
+    {
+      "text": "Bitweaver 3.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.bitweaver.org/wiki/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/xoffense/POC/blob/main/Multiple%20URI%20Based%20XSS%20in%20Bitweaver%203.1.0.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bitweaver:bitweaver:3.1.0:*:*:*:*:*:*:*"
+  }
+}

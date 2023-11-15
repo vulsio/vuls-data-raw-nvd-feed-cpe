@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:jbl:go_2:-",
+  "title": [
+    {
+      "text": "JBL Go 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.nassiben.com/glowworm-attack"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38548.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.jbl.com/bluetooth-speakers/JBL+GO+2.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:jbl:go_2:-:*:*:*:*:*:*:*"
+  }
+}

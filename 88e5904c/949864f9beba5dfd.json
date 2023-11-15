@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:garmin:connect-iq:2.3.0",
+  "title": [
+    {
+      "text": "Garmin Connect-IQ (CIQ) 2.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.garmin.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.garmin.com/connect-iq/overview/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/23xxx/CVE-2023-23298.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:garmin:connect-iq:2.3.0:*:*:*:*:*:*:*"
+  }
+}

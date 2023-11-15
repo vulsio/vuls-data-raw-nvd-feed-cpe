@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:intel:inet_wireless_daemon:1.7",
+  "title": [
+    {
+      "text": "Intel iNet Wireless Daemon (IWD) 1.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://lists.01.org/hyperkitty/list/iwd@lists.01.org/thread/4GUXL4Z6KZWWZINATGHNJVAEUTS3I7PG/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wiki.archlinux.org/index.php/Iwd"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.kernel.org/pub/scm/network/wireless/iwd.git/refs/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:inet_wireless_daemon:1.7:*:*:*:*:*:*:*"
+  }
+}

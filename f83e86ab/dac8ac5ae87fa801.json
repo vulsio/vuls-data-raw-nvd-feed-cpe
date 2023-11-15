@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:login_with_phone_number_project:login_with_phone_number:1.1.09::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-10-06T14:17:06.313Z",
+  "title": [
+    {
+      "text": "Login with Phone Number Project Login with Phone Number 1.1.09 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/4688d39e-ac9b-47f5-a4c1-f9548b63c68c"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/login-with-phone-number/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:login_with_phone_number_project:login_with_phone_number:1.1.09:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-10-06T10:17:06.313-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:idehweb:login_with_phone_number:1.1.09:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

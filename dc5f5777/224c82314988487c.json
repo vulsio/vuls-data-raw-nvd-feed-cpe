@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:adobe:magento:2.4.5:p4:~~open_source~~~",
+  "title": [
+    {
+      "text": "Adobe Magento 2.4.5 Patch 4 Open Source Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://business.adobe.com/products/magento/magento-commerce.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/magento/apsb21-86.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.adobe.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:magento:2.4.5:p4:*:*:open_source:*:*:*"
+  }
+}

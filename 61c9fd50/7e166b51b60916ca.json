@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ibm:powerkvm:3.1",
+  "title": [
+    {
+      "text": "IBM PowerKVM 3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www-03.ibm.com/systems/power/software/linux/powerkvm/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=isg3T1024168"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:powerkvm:3.1:*:*:*:*:*:*:*"
+  }
+}

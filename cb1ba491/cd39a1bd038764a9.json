@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wordpress_social_login_project:wordpress_social_login:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wordpress Social Login Project Wordpress Social Login - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wordpress-social-login/wordpress-social-login-304-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/wordpress-social-login/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wordpress_social_login_project:wordpress_social_login:-:*:*:*:*:wordpress:*:*"
+  }
+}

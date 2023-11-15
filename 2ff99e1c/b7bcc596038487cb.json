@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:w1.fi:wpa_supplicant:2.10",
+  "title": [
+    {
+      "text": "W1.fi WPA Supplicant 2.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://w1.fi/cgit/hostap/plain/wpa_supplicant/ChangeLog"
+    },
+    {
+      "text": "Product",
+      "href": "https://w1.fi/wpa_supplicant/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2021/02/27/1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:w1.fi:wpa_supplicant:2.10:*:*:*:*:*:*:*"
+  }
+}

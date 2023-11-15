@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:openshift-origin-node-util:-",
+  "title": [
+    {
+      "text": "Red Hat Openshift-origin-node-util",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2014/0xxx/CVE-2014-0068.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1064100"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2014-0068"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift-origin-node-util:-:*:*:*:*:*:*:*"
+  }
+}

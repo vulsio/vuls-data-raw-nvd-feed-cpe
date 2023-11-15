@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:flexense:diskboss:7.4.28::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Flexense DiskBoss 7.4.28 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://blog.n0ipr0cs.io/post/2018/04/29/XSS-Flexense-DiskBoss-Enterprise-all-versions"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.flexense.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:flexense:diskboss:7.4.28:*:*:*:enterprise:*:*:*"
+  }
+}

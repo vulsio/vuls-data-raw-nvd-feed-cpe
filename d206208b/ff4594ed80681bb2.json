@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vanderbilt:redcap:12.5.9",
+  "title": [
+    {
+      "text": "Vanderbilt REDCap 12.5.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://projectredcap.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/uclahs-secops/security-research/tree/main/reports/20221011-recap-xss"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.evms.edu/research/resources_services/redcap/redcap_change_log/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vanderbilt:redcap:12.5.9:*:*:*:*:*:*:*"
+  }
+}

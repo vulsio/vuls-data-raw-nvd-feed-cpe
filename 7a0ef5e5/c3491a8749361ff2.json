@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:testcoin_project:testcoin:-",
+  "title": [
+    {
+      "text": "testcoin Project testcoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x9e41d11ebcef755896c717b93685e97f1a276f8e#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:testcoin_project:testcoin:-:*:*:*:*:*:*:*"
+  }
+}

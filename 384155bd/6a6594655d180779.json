@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:cisco:wireless_lan_controller_firmware:5.0.148.2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-16T15:22:22.637Z",
+  "title": [
+    {
+      "text": "Cisco Wireless LAN Controller (WLC) Firmware 5.0.148.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.cisco.com/c/en/us/products/wireless/virtual-wireless-controller/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170315-wlc-mesh"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:wireless_lan_controller_firmware:5.0.148.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-16T11:22:22.637-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:5.0.148.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

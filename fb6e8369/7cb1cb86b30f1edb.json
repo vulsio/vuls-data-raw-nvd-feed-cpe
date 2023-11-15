@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:logitech:k750:-",
+  "title": [
+    {
+      "text": "Logitech K750",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.logitech.com/en-us"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.logitech.com/en-us/product/k750-keyboard"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BastilleResearch/mousejack/blob/master/doc/advisories/bastille-2.logitech.public.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:logitech:k750:-:*:*:*:*:*:*:*"
+  }
+}

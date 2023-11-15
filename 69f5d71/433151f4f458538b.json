@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:qualcomm:sd_8_gen1_5g:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-19T17:10:54.247Z",
+  "title": [
+    {
+      "text": "Qualcomm SD 8 Gen1 5G ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.qualcomm.com/company/product-security/bulletins/january-2022-bulletin"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.qualcomm.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:qualcomm:sd_8_gen1_5g:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-19T13:10:54.247-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:qualcomm:sm8475:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

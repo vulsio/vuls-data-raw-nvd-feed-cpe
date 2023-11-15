@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ninjaforms:ninjaforms:3.4.17::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-04-08T12:25:07.650Z",
+  "title": [
+    {
+      "text": "Ninja Forms 3.4.17 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/ninja-forms/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://ninjaforms.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ninjaforms:ninjaforms:3.4.17:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-04-08T08:25:07.650-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ninjaforms:ninja_forms:3.4.17:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

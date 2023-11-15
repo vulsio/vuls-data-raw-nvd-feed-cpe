@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:apngdis_project:apngdis:1.2",
+  "deprecated": true,
+  "deprecation_date": "2020-04-29T12:56:31.453Z",
+  "title": [
+    {
+      "text": "APNG Disassembler Project APNG Disassembler 1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/apngdis/files/?source=navbar"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apngdis_project:apngdis:1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-29T08:56:31.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apng_disassembler_project:apng_disassembler:1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

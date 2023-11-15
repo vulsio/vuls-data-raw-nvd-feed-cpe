@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:bazel:-::~~~visual_studio~~",
+  "title": [
+    {
+      "text": "Google Bazel for Visual Studio",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bazelbuild/vscode-bazel/security/advisories/GHSA-2rcw-j8x4-hgcv"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bazelbuild/vscode-bazel/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:bazel:-:*:*:*:*:visual_studio:*:*"
+  }
+}

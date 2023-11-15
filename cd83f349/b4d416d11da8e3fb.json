@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sap:sapcar:721.510",
+  "title": [
+    {
+      "text": "SAP SAPCAR 721.510",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://archive.sap.com/discussions/thread/1882364"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.sap.com/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.coresecurity.com/advisories/sap-sapcar-heap-based-buffer-overflow-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:sapcar:721.510:*:*:*:*:*:*:*"
+  }
+}

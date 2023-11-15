@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:anchorfree:hotspot_shield:-",
+  "title": [
+    {
+      "text": "AnchorFree Hotspot Shield",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/44042"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.hotspotshield.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.anchorfree.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:anchorfree:hotspot_shield:-:*:*:*:*:*:*:*"
+  }
+}

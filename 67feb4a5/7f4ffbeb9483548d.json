@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:silverstripe:silverstripe:2.2.2",
+  "deprecated": true,
+  "deprecation_date": "2020-02-21T20:32:09.303Z",
+  "title": [
+    {
+      "text": "SilverStripe 2.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.silverstripe.org/en/4/changelogs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:silverstripe:silverstripe:2.2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-21T15:32:09.303-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:silverstripe:silverstripe:2.2.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

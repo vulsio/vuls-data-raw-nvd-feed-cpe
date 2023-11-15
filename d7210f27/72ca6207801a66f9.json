@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:prime_data_center_network_manager:6.2%283%29",
+  "title": [
+    {
+      "text": "Cisco Prime Data Center Network Manager (DCNM) 6.2(3)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor security advisory for CVE-2014-3329",
+      "href": "http://tools.cisco.com/security/center/viewAlert.x?alertId=35065"
+    },
+    {
+      "text": "software release information",
+      "href": "http://software.cisco.com/download/release.html?mdfid=281722751&softwareid=282088134&release=6.2%283%29&relind=AVAILABLE&rellifecycle=&reltype=latest&i=rp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:prime_data_center_network_manager:6.2\\(3\\):*:*:*:*:*:*:*"
+  }
+}

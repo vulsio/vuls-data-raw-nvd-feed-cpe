@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:osgeo:geonetwork:2.8.0:rc1",
+  "title": [
+    {
+      "text": "Open Source Geospatial Foundation (OSGeo) GeoNetwork 2.8.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.osgeo.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://geonetwork-opensource.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://geonetwork-opensource.org/manuals/trunk/en/overview/change-log/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/geonetwork/core-geonetwork/security/advisories/GHSA-cf8p-c88c-h9jf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:osgeo:geonetwork:2.8.0:rc1:*:*:*:*:*:*"
+  }
+}

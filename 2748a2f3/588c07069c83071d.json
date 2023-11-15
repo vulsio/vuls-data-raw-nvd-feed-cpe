@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:software_guard_extensions:2.3.1",
+  "title": [
+    {
+      "text": "Intel SGX 2.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00235.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://01.org/intel-software-guard-extensions/downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:software_guard_extensions:2.3.1:*:*:*:*:*:*:*"
+  }
+}

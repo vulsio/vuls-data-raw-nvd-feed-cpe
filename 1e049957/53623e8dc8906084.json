@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nistec_project:nistec:-::~~~go~~",
+  "title": [
+    {
+      "text": "Nistec Project Nistec - for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2023-1595"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/FiloSottile/nistec/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nistec_project:nistec:-:*:*:*:*:go:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:libnbd:1.8.2",
+  "title": [
+    {
+      "text": "Red Hat libnbd 1.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libguestfs/libnbd/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.com/nbdkit/libnbd/-/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2046194"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:libnbd:1.8.2:*:*:*:*:*:*:*"
+  }
+}

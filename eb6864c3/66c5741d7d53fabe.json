@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:siemens:simatic_driver_controller_firmware:2.9.2",
+  "title": [
+    {
+      "text": "Siemens Simatic Driver Controller Firmware 2.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.industry.siemens.com/cs/document/109773914/firmware-update-for-simatic-drive-controller-cpu-1504d-tf-and-cpu-1507d-tf?dti=0&lc=en-WW"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-434534.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:siemens:simatic_driver_controller_firmware:2.9.2:*:*:*:*:*:*:*"
+  }
+}

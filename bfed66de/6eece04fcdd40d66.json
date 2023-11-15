@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:ssh_credentials:1.9::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins SSH Credentials 1.9 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/ssh-credentials-plugin/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/ssh-credentials"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:ssh_credentials:1.9:*:*:*:*:jenkins:*:*"
+  }
+}

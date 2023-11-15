@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:fit2cloud:kubeoperator:3.10.1",
+  "title": [
+    {
+      "text": "FIT2CLOUD KubeOperator 3.10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kubeoperator.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/KubeOperator/KubeOperator/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/KubeOperator/KubeOperator/security/advisories/GHSA-jxgp-jgh3-8jc8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fit2cloud:kubeoperator:3.10.1:*:*:*:*:*:*:*"
+  }
+}

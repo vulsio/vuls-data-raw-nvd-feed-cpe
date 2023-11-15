@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ztoken_project:ztoken:-",
+  "title": [
+    {
+      "text": "ZToken Project ZToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/ZToken"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ztoken_project:ztoken:-:*:*:*:*:*:*:*"
+  }
+}

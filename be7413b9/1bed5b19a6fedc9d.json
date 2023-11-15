@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:l7545",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T20:29:04.453Z",
+  "title": [
+    {
+      "text": "Intel Xeon L7545",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:l7545:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T16:29:04.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon:l7545:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

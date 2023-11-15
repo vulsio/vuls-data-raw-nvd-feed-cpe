@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2008:-:r2:itanium",
+  "deprecated": true,
+  "deprecation_date": "2018-09-19T16:45:10.917Z",
+  "title": [
+    {
+      "text": "Windows Server 2008 R2 for Itanium-based Systems",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:r2:itanium:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-09-19T12:45:10.917-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2008:r2:*:*:*:*:*:itanium:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

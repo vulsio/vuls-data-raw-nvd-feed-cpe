@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:automattic:activitypub:0.2.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Automattic ActivityPub 0.2.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/activitypub/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/activitypub/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/58a63507-f0fd-46f1-a80c-6b1c41dddcf5/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://automattic.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:automattic:activitypub:0.2.1:*:*:*:*:wordpress:*:*"
+  }
+}

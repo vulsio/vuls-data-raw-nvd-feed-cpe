@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:14.6.2::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 14.6.2 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://about.gitlab.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0244.json"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:14.6.2:*:*:*:enterprise:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:cisco:nexus_9504_switch:-",
+  "title": [
+    {
+      "text": "Cisco NEXUS 9504 SWITCH",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-nxapi-cmdinject-ULukNMZ2"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/dam/en/us/products/switches/nexus-9000-series-switches/nexus-9500-chassis-comparison.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:nexus_9504_switch:-:*:*:*:*:*:*:*"
+  }
+}

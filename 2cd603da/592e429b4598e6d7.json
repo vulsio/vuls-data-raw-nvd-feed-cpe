@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:philips:intellivue_patient_monitors_mp50_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2021-05-10T15:07:10.480Z",
+  "title": [
+    {
+      "text": "Philips INTELLIVUE PATIENT MONITORS MP50 FIRMWARE",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-254-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.usa.philips.com/healthcare/solutions/patient-monitoring/all-patient-monitoring-products"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.usa.philips.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:philips:intellivue_patient_monitors_mp50_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-10T11:07:10.480-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:philips:intellivue_mp50_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

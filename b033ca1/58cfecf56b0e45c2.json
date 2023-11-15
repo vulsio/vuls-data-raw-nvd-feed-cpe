@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:python:python:3.5.3",
+  "deprecated": true,
+  "deprecation_date": "2020-07-09T16:19:00.590Z",
+  "title": [
+    {
+      "text": "Python 3.5.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.python.org/downloads/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.python.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:python:python:3.5.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-09T12:19:00.590-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:python:python:3.5.3:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

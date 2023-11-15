@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:amd:ryzen_7_pro_4750g_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) RYZEN 7 PRO 4750G Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://gadgetversus.com/processor/amd-ryzen-4000-processors-list/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cmpxchg8b.com/zenbleed.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:ryzen_7_pro_4750g_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nazgul:nostromo:1.3",
+  "title": [
+    {
+      "text": "Nazgul Nostromo 1.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nazgul.ch/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://nazgul.ch/dev/nostromo_cl.txt"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.soteritsecurity.com/blog/2023/01/nostromo_from_directory_traversal_to_RCE.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nazgul:nostromo:1.3:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_bronze:3104",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:51:44.427Z",
+  "title": [
+    {
+      "text": "Intel Xeon Bronze 3104",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_bronze:3104:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:51:44.427-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_bronze_3104:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wdc:arkeia_virtual_appliance:-",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T15:02:02.650Z",
+  "title": [
+    {
+      "text": "Western Digitial Arkeia Virtual Appliance",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor website",
+      "href": "http://www.wdc.com/en/"
+    },
+    {
+      "text": "product information",
+      "href": "http://www.arkeia.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wdc:arkeia_virtual_appliance:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-24T10:02:02.650-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:westerndigital:arkeia_virtual_appliance:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

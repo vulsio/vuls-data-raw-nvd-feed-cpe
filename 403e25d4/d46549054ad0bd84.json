@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:keetrax:wp_tiles:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Keetrax WP Tiles - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://keetrax.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/wp-tiles/#description"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/fdd79bb4-d434-4635-bb2b-84d079ecc746"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:keetrax:wp_tiles:-:*:*:*:*:wordpress:*:*"
+  }
+}

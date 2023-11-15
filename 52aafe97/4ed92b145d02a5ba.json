@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ffjpeg_project:ffjpeg:2020-07-02",
+  "deprecated": true,
+  "deprecation_date": "2023-08-17T14:09:51.107Z",
+  "title": [
+    {
+      "text": "ffjpeg Project ffjpeg 2020-07-02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rockcarry/ffjpeg/issues/27"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/23xxx/CVE-2020-23851.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ffjpeg_project:ffjpeg:2020-07-02:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-17T10:09:51.107-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rockcarry:ffjpeg:2020-07-02:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

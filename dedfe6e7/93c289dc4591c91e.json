@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:redhat:network_satellite_server:4.1",
+  "deprecated": true,
+  "deprecation_date": "2013-08-01T01:34:10.780Z",
+  "title": [
+    {
+      "text": "Red Hat Network Satellite 4.1 for Enterprise Linux 3, 4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:network_satellite_server:4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2013-07-31T21:34:10.780-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:network_satellite:4.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

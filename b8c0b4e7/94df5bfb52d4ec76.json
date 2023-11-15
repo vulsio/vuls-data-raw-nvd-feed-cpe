@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:3.12.67",
+  "title": [
+    {
+      "text": "Linux Kernel 3.12.67",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/torvalds/linux"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kernel.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://mirrors.edge.kernel.org/pub/linux/kernel/v3.x/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/torvalds/linux/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:3.12.67:*:*:*:*:*:*:*"
+  }
+}

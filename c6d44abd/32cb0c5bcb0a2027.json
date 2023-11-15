@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:django_project:django:2.0.2",
+  "deprecated": true,
+  "deprecation_date": "2018-08-01T18:20:10.600Z",
+  "title": [
+    {
+      "text": "Django Project Django 2.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/django/django"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:django_project:django:2.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-08-01T14:20:10.600-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:djangoproject:django:2.0.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

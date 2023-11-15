@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cookiecutter_project:cookiecutter:1.5.1",
+  "title": [
+    {
+      "text": "Cookiecutter Project Cookiecutter 1.5.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cookiecutter/cookiecutter/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-PYTHON-COOKIECUTTER-2414281"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cookiecutter_project:cookiecutter:1.5.1:*:*:*:*:*:*:*"
+  }
+}

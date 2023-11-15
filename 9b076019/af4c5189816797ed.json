@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pivotal_software:spring_data_rest:3.1.0",
+  "deprecated": true,
+  "deprecation_date": "2019-06-10T13:45:35.817Z",
+  "title": [
+    {
+      "text": "Pivotal Software Spring Data Rest 3.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/spring-projects/spring-data-rest/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:spring_data_rest:3.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-10T09:45:35.817-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pivotal_software:spring_data_rest:3.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

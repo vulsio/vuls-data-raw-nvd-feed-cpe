@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:nexans:gigaswitch_v5_tp%28pse%2b%29_sfp-2vi_54vdc_firmware:-",
+  "title": [
+    {
+      "text": "Nexans GigaSwitch V5 TP(PSE+) SFP-2VI 54VDC Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nexans.de/de/products/Data-Network-Solutions/Industrial-and-office-switches.html?currentPage=1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/vulnerability-lab/advisory/hardcoded-backdoor-user-outdated-software-components-nexans-ftto-gigaswitch/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:nexans:gigaswitch_v5_tp\\(pse\\+\\)_sfp-2vi_54vdc_firmware:-:*:*:*:*:*:*:*"
+  }
+}

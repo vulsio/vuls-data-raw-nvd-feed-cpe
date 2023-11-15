@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gemstonetoken_project:gemstonetoken:-",
+  "title": [
+    {
+      "text": "GemstoneToken Project GemstoneToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x5b6acebad8f9e969d54bbe7c6efdc8674f8c7e76#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gemstonetoken_project:gemstonetoken:-:*:*:*:*:*:*:*"
+  }
+}

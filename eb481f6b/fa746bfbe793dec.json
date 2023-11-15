@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pulsesecure:pulse_secure_desktop_client:5.1:r5.1:~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T18:56:41.217Z",
+  "title": [
+    {
+      "text": "Pulsesecure Pulse Secure Desktop Client 5.1 R5.1 for Mac Os X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www-prev.pulsesecure.net/techpubs/pulse-client/pulse-secure-client-desktop"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pulsesecure:pulse_secure_desktop_client:5.1:r5.1:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T14:56:41.217-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pulsesecure:pulse_secure_desktop_client:5.1:r5.1:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

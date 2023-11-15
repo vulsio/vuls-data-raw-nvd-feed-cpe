@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:alfresco:enterprise:5.2.5",
+  "deprecated": true,
+  "deprecation_date": "2020-02-28T16:02:25.997Z",
+  "title": [
+    {
+      "text": "Alfresco Enterprise 5.2.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.alfresco.com/ecm-software/enterprise-collaboration"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.alfresco.com/5.2/concepts/supported-platforms-ACS.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alfresco:enterprise:5.2.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-28T11:02:25.997-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:alfresco:alfresco:5.2.5:*:*:*:enterprise:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

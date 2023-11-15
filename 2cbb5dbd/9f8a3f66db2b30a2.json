@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:konghq:docker-kong:0.15.0::~~~kong~~",
+  "title": [
+    {
+      "text": "KongHQ Docker-kong 0.15.0 for Kong",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://konghq.com/install/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/Kong/docker-kong/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:konghq:docker-kong:0.15.0:*:*:*:*:kong:*:*"
+  }
+}

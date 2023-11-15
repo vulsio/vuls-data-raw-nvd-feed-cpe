@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vsctoken_project:vsctoken:-",
+  "title": [
+    {
+      "text": "VSCToken Project VSCToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x826020e146be225776a433d1fa301962be6784f5#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vsctoken_project:vsctoken:-:*:*:*:*:*:*:*"
+  }
+}

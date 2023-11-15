@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:tensorflow:2.5.2",
+  "title": [
+    {
+      "text": "Google TensorFlow 2.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tensorflow/tensorflow/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/tensorflow/tensorflow/security/advisories/GHSA-cq76-mxrc-vchh"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:tensorflow:2.5.2:*:*:*:*:*:*:*"
+  }
+}

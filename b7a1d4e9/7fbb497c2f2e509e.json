@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:eaton:intelligent_power_manager:1.6",
+  "title": [
+    {
+      "text": "Eaton Intelligent Power Manager 1.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/EmreOvunc/Eaton-Intelligent-Power-Manager-Local-File-Inclusion"
+    },
+    {
+      "text": "Product",
+      "href": "http://powerquality.eaton.com/products-services/power-management/software-drivers/intelligent-pm.asp?wtredirect=www.eaton.com/intelligentpowermanager"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eaton:intelligent_power_manager:1.6:*:*:*:*:*:*:*"
+  }
+}

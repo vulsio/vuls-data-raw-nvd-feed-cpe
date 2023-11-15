@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:amazon:efs-utils:1.4",
+  "title": [
+    {
+      "text": "Amazon efs-utils 1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/aws/efs-utils/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/aws/efs-utils/security/advisories/GHSA-4fv8-w65m-3932"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:efs-utils:1.4:*:*:*:*:*:*:*"
+  }
+}

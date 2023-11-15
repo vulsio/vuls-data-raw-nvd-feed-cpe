@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpdownloadmanager:download_manager:3.2.59::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WordPress Download Manager Download Manager 3.2.59 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/download-manager/wordpress-download-manager-plugin-3-2-59-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.wpdownloadmanager.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/download-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.59:*:*:*:*:wordpress:*:*"
+  }
+}

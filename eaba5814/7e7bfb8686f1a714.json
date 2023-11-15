@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:enterprise_virtualization_manager:3.4.1",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Virtualization Manager (aka RHEV-M) 3.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor announcement text",
+      "href": "https://rhn.redhat.com/errata/RHSA-2014-1161.html"
+    },
+    {
+      "text": "Vendor documentation",
+      "href": "https://rhn.redhat.com/errata/RHBA-2014-0960.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:enterprise_virtualization_manager:3.4.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:elasticsearch:logstash:1.2.1",
+  "deprecated": true,
+  "deprecation_date": "2019-06-17T15:47:00.990Z",
+  "title": [
+    {
+      "text": "Elasticsearch Logstash 1.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product changelog",
+      "href": "https://github.com/elasticsearch/logstash/blob/master/CHANGELOG"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.elasticsearch.org"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elasticsearch:logstash:1.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-17T11:47:00.990-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elastic:logstash:1.2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

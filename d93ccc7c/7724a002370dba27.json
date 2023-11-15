@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:artiss:plugins_list:2.2.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "David Artiss Plugins List 2.2.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://artiss.blog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/plugins-list/wordpress-plugins-list-plugin-2-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/plugins-list/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:artiss:plugins_list:2.2.2:*:*:*:*:wordpress:*:*"
+  }
+}

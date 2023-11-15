@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:contract_project:contract:1.0",
+  "title": [
+    {
+      "text": "Contract Project Contract 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://etherscan.io/address/0x14ee347f1c49181f36d0784077faca539872e370"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ToolmanInside/CVEs/blob/master/Reentrancy/2019-07-09-01.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:contract_project:contract:1.0:*:*:*:*:*:*:*"
+  }
+}

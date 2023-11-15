@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:12.1.13::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 12.1.13 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/blog/categories/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/692252"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:12.1.13:*:*:*:enterprise:*:*:*"
+  }
+}

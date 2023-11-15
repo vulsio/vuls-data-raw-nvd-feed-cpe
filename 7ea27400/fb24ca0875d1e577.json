@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:asus:as-101_firmware:-",
+  "title": [
+    {
+      "text": "Asus AS-101 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.asus.com/supportonly/AS101/HelpDesk_Warranty/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:asus:as-101_firmware:-:*:*:*:*:*:*:*"
+  }
+}

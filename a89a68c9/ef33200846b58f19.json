@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:d-link:dir-809:a2",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link Dir-809L A2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version Information",
+      "href": "http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10055"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dir-809:a2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dir-809:a2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

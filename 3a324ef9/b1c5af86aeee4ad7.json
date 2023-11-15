@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:onefilecms_project:onefilecms:2.0",
+  "deprecated": true,
+  "deprecation_date": "2020-02-06T14:46:06.667Z",
+  "title": [
+    {
+      "text": "OneFileCMS Project OneFileCMS 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "http://self-evident.github.io/OneFileCMS/changelog.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:onefilecms_project:onefilecms:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-06T09:46:06.667-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:onefilecms:onefilecms:2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

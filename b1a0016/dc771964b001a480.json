@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:supermicro:x11scm-f_firmware:1.23.2",
+  "title": [
+    {
+      "text": "Supermicro X11scm-f Firmware 1.23.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:supermicro:x11scm-f_firmware:1.23.2:*:*:*:*:*:*:*"
+  }
+}

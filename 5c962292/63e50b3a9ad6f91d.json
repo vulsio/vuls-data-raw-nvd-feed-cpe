@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:1703",
+  "deprecated": true,
+  "deprecation_date": "2022-12-02T17:22:34.830Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 1703",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://technet.microsoft.com/en-us/itpro/windows/whats-new/whats-new-windows-10-version-1703"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:1703:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-12-02T12:22:34.830-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:1703:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

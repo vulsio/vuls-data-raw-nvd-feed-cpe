@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:oxilab:accordions:2.1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Oxilab Accordions 2.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/accordions-or-faqs/wordpress-accordions-plugin-2-0-3-authenticated-wordpress-options-change-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/accordions-or-faqs/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oxilab:accordions:2.1.0:*:*:*:*:wordpress:*:*"
+  }
+}

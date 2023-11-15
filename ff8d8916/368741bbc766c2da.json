@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:auth0:auth0.js:9.1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-28T17:32:32.477Z",
+  "title": [
+    {
+      "text": "Auth0 auth0.js 9.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/auth0-js"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/auth0/auth0.js"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://auth0.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:auth0:auth0.js:9.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-28T13:32:32.477-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:auth0:auth0.js:9.1.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

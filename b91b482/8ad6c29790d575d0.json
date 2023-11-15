@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:moxa:nport_ia5250a-iex:-",
+  "title": [
+    {
+      "text": "Moxa NPort IA5250A-IEX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/industrial-device-servers/nport-ia5000a-series#models"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:moxa:nport_ia5250a-iex:-:*:*:*:*:*:*:*"
+  }
+}

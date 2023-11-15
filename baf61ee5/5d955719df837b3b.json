@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:zabbix:zabbix:2.2.11",
+  "deprecated": true,
+  "deprecation_date": "2020-08-06T14:44:02.797Z",
+  "title": [
+    {
+      "text": "ZABBIX 2.2.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.zabbix.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.zabbix.com/documentation/3.0/manual/introduction/whatsnew303#miscellaneous_improvements"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zabbix:zabbix:2.2.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-06T10:44:02.797-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zabbix:zabbix:2.2.11:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

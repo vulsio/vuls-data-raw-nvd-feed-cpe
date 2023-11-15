@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:pheonixcontact-software:proconos_eclr:-",
+  "deprecated": true,
+  "deprecation_date": "2018-11-28T17:31:57.847Z",
+  "title": [
+    {
+      "text": "Pheonix Contact Software ProConOS eCLR",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "https://www.phoenixcontact-software.com/en/iec-61131-control/runtime-systems/proconos-eclr"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-11-28T12:31:57.847-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

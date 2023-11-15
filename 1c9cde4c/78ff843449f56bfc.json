@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:motopress:restaurant_menu:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "MotoPress Restaurant Menu for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://motopress.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/14b29450-2450-4b5f-8630-bb2cbfbd0a83"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/mp-restaurant-menu/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:motopress:restaurant_menu:-:*:*:*:*:wordpress:*:*"
+  }
+}

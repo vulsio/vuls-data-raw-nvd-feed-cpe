@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:adobe:flash_playe_for_linux:9.0.115.0",
+  "deprecated": true,
+  "deprecation_date": "2009-03-05T17:19:19.047Z",
+  "title": [
+    {
+      "text": "Adobe Flash Player 9.0.115.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:flash_playe_for_linux:9.0.115.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-03-05T12:19:19.047-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:flash_player_for_linux:9.0.115.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

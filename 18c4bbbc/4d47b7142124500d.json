@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:elasticsearch:kibana:7.5.1",
+  "deprecated": true,
+  "deprecation_date": "2020-08-14T17:24:33.960Z",
+  "title": [
+    {
+      "text": "Elasticsearch Kibana 7.5.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.elastic.co/t/elastic-stack-6-8-6-and-7-5-1-security-update/212390"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/elastic/kibana/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elasticsearch:kibana:7.5.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-14T13:24:33.960-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elastic:kibana:7.5.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

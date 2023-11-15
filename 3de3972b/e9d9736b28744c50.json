@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gradle:enterprise_cache_node:9.2",
+  "title": [
+    {
+      "text": "Gradle Enterprise Cache Node 9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.gradle.com/advisory/CVE-2020-15768"
+    },
+    {
+      "text": "Version",
+      "href": "https://gradle.com/enterprise/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gradle:enterprise_cache_node:9.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:pocket_internet_explorer:-",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft Pocket Internet Explorer",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:pocket_internet_explorer:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:pocket_ie:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:php:php:7.0.15",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:57:18.940Z",
+  "title": [
+    {
+      "text": "PHP 7.0.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://php.net"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://php.net/ChangeLog-7.php"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:7.0.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:57:18.940-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:7.0.15:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

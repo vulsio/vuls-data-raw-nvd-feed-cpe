@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:d-link:dcs-932l_camera:-",
+  "deprecated": true,
+  "deprecation_date": "2015-03-18T15:04:07.947Z",
+  "title": [
+    {
+      "text": "D-Link DCS-932L Camera",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dcs-932l_camera:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-03-18T11:04:07.947-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:d-link:dcs-932l:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

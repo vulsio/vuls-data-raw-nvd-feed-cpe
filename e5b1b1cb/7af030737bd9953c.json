@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cbr_token_project:cbr_token:-",
+  "title": [
+    {
+      "text": "CBR Token Project CBR Token",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0x7e750348983e17267dfbe939dfa008b25fd07459"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cbr_token_project:cbr_token:-:*:*:*:*:*:*:*"
+  }
+}

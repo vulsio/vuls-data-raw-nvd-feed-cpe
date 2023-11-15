@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ibm:websphere_application_server:8.5",
+  "title": [
+    {
+      "text": "IBM WebSphere Application Server 8.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.ibm.com/support/pages/node/1289194"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/172618"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:websphere_application_server:8.5:*:*:*:*:*:*:*"
+  }
+}

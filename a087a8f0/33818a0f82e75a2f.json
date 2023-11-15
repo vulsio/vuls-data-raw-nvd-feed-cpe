@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:matrix:javascript_sdk:19.3.0:rc2:~~~node.js~~",
+  "title": [
+    {
+      "text": "Matrix Javascript Sdk 19.3.0 Release Candidate 2 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/matrix-org/matrix-js-sdk/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/matrix-org/matrix-js-sdk/security/advisories/GHSA-hvv8-5v86-r45x"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matrix:javascript_sdk:19.3.0:rc2:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:rsa:bsafe_ssl-j_sdk:-",
+  "deprecated": true,
+  "deprecation_date": "2021-11-08T15:48:22.727Z",
+  "title": [
+    {
+      "text": "RSA BSAFE SSL-J SDK",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsa:bsafe_ssl-j_sdk:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-11-08T10:48:22.727-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe_ssl-j:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

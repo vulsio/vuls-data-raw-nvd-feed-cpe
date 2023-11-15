@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2012:r2:-:~-~essentials~~~",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T22:03:15.257Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2012 R2 Essentials Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Microsoft Windows Server 2012 R2 product information",
+      "href": "http://www.microsoft.com/en-us/server-cloud/products/windows-server-2012-r2/default.aspx#fbid=q_BgMNj6UN5"
+    },
+    {
+      "text": "Microsoft Windows Server 2012 R2 Datasheet",
+      "href": "http://download.microsoft.com/download/D/2/C/D2CDA5BA-E440-4A50-A418-5362291156C1/Windows_Server_2012_R2_Datasheet.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:-:-:*:essentials:*:*:*",
+    "deprecation": {
+      "date": "2019-05-08T18:03:15.257-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2012:r2:*:*:*:essentials:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

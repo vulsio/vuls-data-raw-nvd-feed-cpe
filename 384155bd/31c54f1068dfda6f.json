@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:wireless_lan_controller_firmware:8.2.121.0",
+  "title": [
+    {
+      "text": "Cisco Wireless LAN Controller (WLC) Firmware 8.2.121.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/wireless/wireless-lan-controller/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170315-wlc-mesh"
+    },
+    {
+      "text": "Version",
+      "href": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170405-wlc2/cvrf/cisco-sa-20170405-wlc2_cvrf.xml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:wireless_lan_controller_firmware:8.2.121.0:*:*:*:*:*:*:*"
+  }
+}

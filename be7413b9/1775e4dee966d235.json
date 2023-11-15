@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x3450:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:55.750Z",
+  "title": [
+    {
+      "text": "Intel Xeon X3450",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x3450:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:55.750-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_x3450:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

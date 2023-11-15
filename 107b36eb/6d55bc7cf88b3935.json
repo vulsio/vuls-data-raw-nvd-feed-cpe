@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:13.6.1::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 13.6.1 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2020/CVE-2020-26407.json"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/CHANGELOG.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:13.6.1:*:*:*:enterprise:*:*:*"
+  }
+}

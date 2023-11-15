@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:djangoproject:django:3.2:beta1",
+  "title": [
+    {
+      "text": "Django Project Django 3.2 Beta 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.djangoproject.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.djangoproject.com/weblog/2021/may/06/security-releases/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/django/django/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:djangoproject:django:3.2:beta1:*:*:*:*:*:*"
+  }
+}

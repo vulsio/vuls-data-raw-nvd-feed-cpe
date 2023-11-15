@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:soconnect:sowifi_hotspot_firmware:140",
+  "title": [
+    {
+      "text": "So Connect SoWIFI Hotspot Firmware 140",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sgtcomms.com.au/wifi/so-wifi/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.redyops.com/cve-2018-7473-open-url-redirection-vulnerability/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://soconnect.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:soconnect:sowifi_hotspot_firmware:140:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:zyxel:usg_flex_100_firmware:5.01",
+  "title": [
+    {
+      "text": "Zyxel USG FLEX 100 FIRMWARE 5.01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zyxel.com/us/en/homepage.shtml"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35029.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://info.zyxel.com/usgflex"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:zyxel:usg_flex_100_firmware:5.01:*:*:*:*:*:*:*"
+  }
+}

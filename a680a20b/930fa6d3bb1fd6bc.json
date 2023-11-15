@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:tcash_project:tcash:-",
+  "title": [
+    {
+      "text": "TCash Project TCash",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0xf4555ccf9f069366b0a9b847e4f23f978cfe74c0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tcash_project:tcash:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:adaptive_security_appliance:9.4.4.37",
+  "deprecated": true,
+  "deprecation_date": "2023-08-15T18:20:05.553Z",
+  "title": [
+    {
+      "text": "Cisco Adaptive Security Appliance (ASA) 9.4.4.37",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ftd-sip-dos"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:adaptive_security_appliance:9.4.4.37:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-15T14:20:05.553-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.4.4.37:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

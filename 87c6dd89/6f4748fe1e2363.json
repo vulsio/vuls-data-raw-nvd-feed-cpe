@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:1password:connect:1.0.1",
+  "title": [
+    {
+      "text": "1Password Connect 1.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://1password.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://artifacthub.io/packages/helm/onepassword-connect/connect/1.2.0"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.1password.com/connect-api-reference/#list-vaults"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:1password:connect:1.0.1:*:*:*:*:*:*:*"
+  }
+}

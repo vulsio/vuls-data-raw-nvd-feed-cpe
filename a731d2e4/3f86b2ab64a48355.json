@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:siemens:simatic_wincc:7.5:-",
+  "title": [
+    {
+      "text": "Siemens SIMATIC WinCC 7.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-270778.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-312271.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:simatic_wincc:7.5:-:*:*:*:*:*:*"
+  }
+}

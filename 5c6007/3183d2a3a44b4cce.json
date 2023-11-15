@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:uhp:uhp-100_firmware:3.4.2.4",
+  "title": [
+    {
+      "text": "UHP UHP-100 Firmware 3.4.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sku11army.blogspot.com/2020/01/uhp-networks-multiple-reflected-xss-in.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.uhp.net/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.uhp.net/products/routers/uhp-100/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:uhp:uhp-100_firmware:3.4.2.4:*:*:*:*:*:*:*"
+  }
+}

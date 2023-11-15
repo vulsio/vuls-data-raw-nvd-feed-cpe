@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:openid_connect_authentication:2.5::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Openid Connect Authentication 2.5 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2978"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/oic-auth/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:openid_connect_authentication:2.5:*:*:*:*:jenkins:*:*"
+  }
+}

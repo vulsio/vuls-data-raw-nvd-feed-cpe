@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:cisco:nx-os:4.1.%284%29",
+  "deprecated": true,
+  "deprecation_date": "2023-10-18T16:26:00.050Z",
+  "title": [
+    {
+      "text": "Cisco NX-OS 4.1.(4)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/4_1/nx-os/release/notes/41_nx-os_release_note.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:nx-os:4.1.\\(4\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-18T12:26:00.050-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:nx-os:4.1\\(4\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

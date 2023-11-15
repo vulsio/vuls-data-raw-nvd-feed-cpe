@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:phpunit_project:phpunit:3.0.0:alpha23",
+  "deprecated": true,
+  "deprecation_date": "2020-01-08T13:17:34.767Z",
+  "title": [
+    {
+      "text": "PHPUnit Project PHPUnit 3.0.0 Alpha 23",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/sebastianbergmann/phpunit"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpunit_project:phpunit:3.0.0:alpha23:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-08T08:17:34.767-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpunit_project:phpunit:3.0.0:alpha23:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:buddypress:buddypress_plugin:1.7",
+  "deprecated": true,
+  "deprecation_date": "2018-05-14T16:44:26.457Z",
+  "title": [
+    {
+      "text": "buddypress BuddyPress plugin 1.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "version release history",
+      "href": "http://codex.buddypress.org/developer/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:buddypress:buddypress_plugin:1.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-05-14T12:44:26.457-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:buddypress:buddypress:1.7:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

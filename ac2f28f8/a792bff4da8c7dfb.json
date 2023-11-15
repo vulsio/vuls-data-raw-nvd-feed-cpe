@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:dogtagpki:network_security_services_for_java:4.8.1",
+  "title": [
+    {
+      "text": "Dogtagpki Network Security Services for Java 4.8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.dogtagpki.org/wiki/PKI_Main_Page"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2042900"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dogtagpki/jss/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dogtagpki:network_security_services_for_java:4.8.1:*:*:*:*:*:*:*"
+  }
+}

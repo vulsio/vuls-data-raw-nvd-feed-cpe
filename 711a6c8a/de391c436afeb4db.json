@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lexmark:g3_driver:3.2.0.0",
+  "title": [
+    {
+      "text": "Lexmark G3 Driver 3.2.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.lexmark.com/en_us/support/download-search.html?q=G3"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lexmark:g3_driver:3.2.0.0:*:*:*:*:*:*:*"
+  }
+}

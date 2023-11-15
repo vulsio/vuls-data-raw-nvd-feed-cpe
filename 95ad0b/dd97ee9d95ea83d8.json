@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:checkmarx:2022.2.3::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Checkmarx 2022.2.3 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-2869"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/checkmarx/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:checkmarx:2022.2.3:*:*:*:*:jenkins:*:*"
+  }
+}

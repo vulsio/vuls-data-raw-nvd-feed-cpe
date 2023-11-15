@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mingle_forum_project:mingle_forum:1.0.33.3::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2014-04-03T15:22:32.520Z",
+  "title": [
+    {
+      "text": "Mingle Forum Project Mingle Forum plugin for WordPress 1.0.33.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "plugin information",
+      "href": "http://wordpress.org/support/plugin/mingle-forum"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mingle_forum_project:mingle_forum:1.0.33.3:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2014-04-03T11:22:32.520-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cartpauj:mingle-forum:1.0.33:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

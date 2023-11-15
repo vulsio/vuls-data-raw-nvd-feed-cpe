@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:oracle:graalvm:22.3.2::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Oracle GraalVM 22.3.2 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.oracle.com/en/graalvm/enterprise/22/docs/release-notes/#release-notes"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpujul2023.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:graalvm:22.3.2:*:*:*:enterprise:*:*:*"
+  }
+}

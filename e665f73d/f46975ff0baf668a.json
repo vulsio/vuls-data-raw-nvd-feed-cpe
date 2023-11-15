@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:windows_subsystem_for_linux:-",
+  "title": [
+    {
+      "text": "Microsoft Windows Subsystem for Linux (WSL)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/microsoft/WSL2-Linux-Kernel"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38014"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:windows_subsystem_for_linux:-:*:*:*:*:*:*:*"
+  }
+}

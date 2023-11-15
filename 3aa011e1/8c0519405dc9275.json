@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:puppetlabs:puppet:2.8.5::~~enterprise~~~",
+  "deprecated": true,
+  "deprecation_date": "2019-07-10T18:02:52.170Z",
+  "title": [
+    {
+      "text": "Puppetlabs Puppet Enterprise 2.8.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Puppet Enterprise 2.8.x release notes",
+      "href": "http://docs.puppetlabs.com/pe/2.8/appendix.html#release-notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:puppet:2.8.5:*:*:*:enterprise:*:*:*",
+    "deprecation": {
+      "date": "2019-07-10T14:02:52.170-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet_enterprise:2.8.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

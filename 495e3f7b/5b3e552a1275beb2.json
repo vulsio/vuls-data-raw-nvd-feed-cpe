@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:google:perfetto:18.0",
+  "title": [
+    {
+      "text": "Google Perfetto 18.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/google/perfetto/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0343.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://android-review.googlesource.com/c/platform/external/perfetto/+/1999296/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:perfetto:18.0:*:*:*:*:*:*:*"
+  }
+}

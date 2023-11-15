@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:fortinet:forticlient:6.2.1::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T13:44:41.053Z",
+  "title": [
+    {
+      "text": "Fortinet FortiClient 6.2.1 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.fortinet.com/document/forticlient/6.2.1/macos-release-notes/891416/introduction"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://fortiguard.com/psirt/FG-IR-18-100"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fortinet:forticlient:6.2.1:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T09:44:41.053-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:fortinet:forticlient:6.2.1:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_me:-:scd",
+  "deprecated": true,
+  "deprecation_date": "2009-04-30T17:26:45.627Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Millenium Edition SCD",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_me:-:scd:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-04-30T13:26:45.627-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_me:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

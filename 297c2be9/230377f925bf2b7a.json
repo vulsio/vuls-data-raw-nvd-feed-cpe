@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:cncf:modular_open_smart_network:0.25.0",
+  "deprecated": true,
+  "deprecation_date": "2023-03-14T15:35:34.180Z",
+  "title": [
+    {
+      "text": "Cloud Native Computing Foundation Modular Open Smart Network (MOSN) 0.25.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mosn/mosn/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://mosn.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cncf:modular_open_smart_network:0.25.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-14T11:35:34.180-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linuxfoundation:modular_open_smart_network:0.25.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

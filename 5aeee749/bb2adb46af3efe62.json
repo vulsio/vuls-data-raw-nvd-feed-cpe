@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rancher:rancher:2.0.3",
+  "deprecated": true,
+  "deprecation_date": "2022-04-13T23:40:29.773Z",
+  "title": [
+    {
+      "text": "Rancher 2.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://forums.rancher.com/c/announcements"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rancher:rancher:2.0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-13T19:40:29.773-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:suse:rancher:2.0.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

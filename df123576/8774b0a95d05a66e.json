@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:contacts:3.4.1",
+  "title": [
+    {
+      "text": "Nextcloud Contacts 3.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nextcloud.com/security/advisory/?id=NC-SA-2020-044"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/998422"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:contacts:3.4.1:*:*:*:*:*:*:*"
+  }
+}

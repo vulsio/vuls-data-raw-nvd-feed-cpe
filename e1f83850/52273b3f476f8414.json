@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openstack:cinder:17.0.0.0:rc1",
+  "title": [
+    {
+      "text": "OpenStack Cinder 17.0.0.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://opendev.org/openstack/cinder"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/cinder/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.launchpad.net/nova/+bug/1996188"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:cinder:17.0.0.0:rc1:*:*:*:*:*:*"
+  }
+}

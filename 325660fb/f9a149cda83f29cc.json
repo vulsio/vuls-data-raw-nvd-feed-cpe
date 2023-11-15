@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_integrated_threat_management:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T14:31:46.300Z",
+  "title": [
+    {
+      "text": "Computer Associates eTrust Integrated Threat Management",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_integrated_threat_management:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T10:31:46.300-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_integrated_threat_management:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:asus:ts-101:-",
+  "title": [
+    {
+      "text": "Asus TS-101",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.asus.com/supportonly/TS101/HelpDesk_Manual"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:asus:ts-101:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:etrust_ez_antivirus:7.0.2.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T13:54:57.567Z",
+  "title": [
+    {
+      "text": "Computer Associates eTrust EZ Antivirus 7.0.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:etrust_ez_antivirus:7.0.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T09:54:57.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:etrust_ez_antivirus:7.0.2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

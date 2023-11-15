@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:mantisbt:mantisbt:1.2.0:a3",
+  "deprecated": true,
+  "deprecation_date": "2021-01-12T18:05:59.370Z",
+  "title": [
+    {
+      "text": "MantisBT 1.2.0a3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mantisbt:mantisbt:1.2.0:a3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-12T13:05:59.370-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mantisbt:mantisbt:1.2.0:alpha3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

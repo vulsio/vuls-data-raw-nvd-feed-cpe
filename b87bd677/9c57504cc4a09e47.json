@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:git-fastclone_project:git-fastclone:1.1.2",
+  "deprecated": true,
+  "deprecation_date": "2020-06-10T13:06:40.807Z",
+  "title": [
+    {
+      "text": "git-fastclone Project git-fastclone 1.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/square/git-fastclone/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:git-fastclone_project:git-fastclone:1.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-10T09:06:40.807-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:squareup:git-fastclone:1.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

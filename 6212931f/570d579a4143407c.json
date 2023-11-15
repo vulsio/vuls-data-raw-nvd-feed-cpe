@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:shopware:shopware:5.7.12",
+  "title": [
+    {
+      "text": "Shopware 5.7.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.shopware.com/en/shopware-5-en/security-updates/security-update-06-2022"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/shopware/shopware/security/advisories/GHSA-q754-vwc4-p6qj"
+    },
+    {
+      "text": "Version",
+      "href": "https://packagist.org/packages/shopware/shopware"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:shopware:shopware:5.7.12:*:*:*:*:*:*:*"
+  }
+}

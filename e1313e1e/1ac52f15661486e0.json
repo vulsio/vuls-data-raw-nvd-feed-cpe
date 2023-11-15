@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:automattic:jetpack:3.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Automattic JetPack 3.6 WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/Automattic/jetpack"
+    },
+    {
+      "text": "Product",
+      "href": "http://jetpack.me/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://automattic.com"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:automattic:jetpack:3.6:*:*:*:*:wordpress:*:*"
+  }
+}

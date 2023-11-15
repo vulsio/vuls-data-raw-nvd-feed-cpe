@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitblame_project:gitblame:0.1.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "gitblame Project gitblame 0.1.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-GITBLAME-1050430"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/gitblame"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitblame_project:gitblame:0.1.0:*:*:*:*:node.js:*:*"
+  }
+}

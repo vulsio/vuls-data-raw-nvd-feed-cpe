@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pixar:renderman:22.3.0::~~~macos~~",
+  "title": [
+    {
+      "text": "Pixar Renderman 22.3.0 for macOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/157921"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0773"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pixar:renderman:22.3.0:*:*:*:*:macos:*:*"
+  }
+}

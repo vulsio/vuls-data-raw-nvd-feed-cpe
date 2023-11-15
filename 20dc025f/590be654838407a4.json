@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:rsshub:rsshub:2023-03-02::~~~node.js~~",
+  "title": [
+    {
+      "text": "RSSHub 2023-03-02 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/rsshub"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://docs.rsshub.app/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/DIYgod/RSSHub/security/advisories/GHSA-32gr-4cq6-5w5q"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/DIYgod/RSSHub/commit/c910c4d28717fb860fbe064736641f379fab2c91"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsshub:rsshub:2023-03-02:*:*:*:*:node.js:*:*"
+  }
+}

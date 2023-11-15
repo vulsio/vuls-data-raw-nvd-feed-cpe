@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:dlink:dap-1520_firmware:1.0.8",
+  "title": [
+    {
+      "text": "D-Link DAP-1520 Firmware 1.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10169"
+    },
+    {
+      "text": "Version",
+      "href": "http://support.dlink.com.au/Download/download.aspx?product=DAP-1520"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://research.loginsoft.com/vulnerability/classic-stack-based-buffer-overflow-in-dlink-firmware-dap-1520/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dap-1520_firmware:1.0.8:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:chirpstack:network_server:3.9.0",
+  "title": [
+    {
+      "text": "ChirpStack Network Server 3.9.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cyberark.com/resources/threat-research-blog/lorawan-mqtt-what-to-know-when-securing-your-iot-network"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.chirpstack.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/brocaar/chirpstack-network-server"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:chirpstack:network_server:3.9.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:google:chromecast_firmware:-",
+  "title": [
+    {
+      "text": "Google Chromecast Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.google.com/about/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325"
+    },
+    {
+      "text": "Product",
+      "href": "https://store.google.com/product/chromecast_2015?utm_source=chromecast.com"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:google:chromecast_firmware:-:*:*:*:*:*:*:*"
+  }
+}

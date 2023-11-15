@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:tieline:ip_audtio_gateway_firmware:-",
+  "title": [
+    {
+      "text": "Tieline IP Audtio Gateway Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://tieline.com/gateway-support-page/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pratikkhalane91.medium.com/use-of-default-credentials-to-unauthorised-remote-access-of-internal-panel-of-tieline-c1ffe3b3757c"
+    },
+    {
+      "text": "Product",
+      "href": "https://tieline.com/gateway/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tieline:ip_audtio_gateway_firmware:-:*:*:*:*:*:*:*"
+  }
+}

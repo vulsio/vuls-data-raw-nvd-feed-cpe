@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:apple:quicktime:3",
+  "deprecated": true,
+  "deprecation_date": "2009-11-25T19:07:08.870Z",
+  "title": [
+    {
+      "text": "Apple Quicktime 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:quicktime:3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-11-25T14:07:08.870-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apple:quicktime:3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:teradici:pcoip_stnadard_agent:-::~~~windows~~",
+  "deprecated": true,
+  "deprecation_date": "2022-06-06T15:36:16.953Z",
+  "title": [
+    {
+      "text": "Teradici PCoIP Standard Agent - for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://advisory.teradici.com/security-advisories/102/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:teradici:pcoip_stnadard_agent:-:*:*:*:*:windows:*:*",
+    "deprecation": {
+      "date": "2022-06-06T11:36:16.953-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:teradici:pcoip_standard_agent:-:*:*:*:*:windows:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

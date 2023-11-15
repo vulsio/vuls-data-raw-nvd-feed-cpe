@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:claderaform:calderawp_license_manager:1.2.11::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Cladera Form CalderaWP License Manager 1.2.11 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://calderaforms.com/2022/04/caldera-forms-closure/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/CalderaWP/calderawp-license-manager"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/calderawp-license-manager/wordpress-calderawp-license-manager-plugin-1-2-11-cross-site-request-forgery-csrf-vulnerability-leading-to-reflected-cross-site-scripting-xss"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:claderaform:calderawp_license_manager:1.2.11:*:*:*:*:wordpress:*:*"
+  }
+}

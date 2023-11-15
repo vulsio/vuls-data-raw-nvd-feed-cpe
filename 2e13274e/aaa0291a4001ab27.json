@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:gehealthcare:discovery_mi_dr_firmware:-",
+  "title": [
+    {
+      "text": "GE Healthcare Discovery MI DR Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/products/molecular-imaging"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/products/molecular-imaging/pet-ct/discovery-mi-dr"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.gehealthcare.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:gehealthcare:discovery_mi_dr_firmware:-:*:*:*:*:*:*:*"
+  }
+}

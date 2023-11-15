@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:opensuse_project:opensuse:13.2",
+  "deprecated": true,
+  "deprecation_date": "2018-01-25T17:20:52.497Z",
+  "title": [
+    {
+      "text": "OpenSUSE Project OpenSUSE 13.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://lists.opensuse.org/opensuse-updates/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:opensuse_project:opensuse:13.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-25T12:20:52.497-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:opensuse:opensuse:13.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

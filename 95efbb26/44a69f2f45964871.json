@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:mathworks_polyspace:1.0.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins MathWorks Polyspace 1.0.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-07-12/#SECURITY-3124"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/mathworks-polyspace/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:mathworks_polyspace:1.0.0:*:*:*:*:jenkins:*:*"
+  }
+}

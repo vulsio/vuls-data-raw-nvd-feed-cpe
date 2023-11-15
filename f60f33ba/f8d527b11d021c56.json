@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:checkstyle:3.7::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Checkstyle 3.7 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/checkstyle-plugin/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/checkstyle"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:checkstyle:3.7:*:*:*:*:jenkins:*:*"
+  }
+}

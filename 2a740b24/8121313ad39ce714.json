@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:netgear:wnce3001:-",
+  "title": [
+    {
+      "text": "NETGEAR WNCE3001",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.netgear.com/support/product/WNCE3001.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:netgear:wnce3001:-:*:*:*:*:*:*:*"
+  }
+}

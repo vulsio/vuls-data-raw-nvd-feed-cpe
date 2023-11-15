@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:siemens:operation_scheduler:-",
+  "title": [
+    {
+      "text": "Siemens Operation Scheduler ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-257-18"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cve.report/software/siemens/operation_scheduler"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-535380.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://plm.sw.siemens.com/en-US/opcenter/production-planning-scheduling-capabilities/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:operation_scheduler:-:*:*:*:*:*:*:*"
+  }
+}

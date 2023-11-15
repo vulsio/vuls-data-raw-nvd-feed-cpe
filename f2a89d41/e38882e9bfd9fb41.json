@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:se:powerlogic_ion7650:5.0",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:44:14.463Z",
+  "title": [
+    {
+      "text": "Schneider Electric PowerLogic ION7650 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.se.com/us/en/product-subcategory/52520-advanced-power-quality-meters/?filter=business-4-low-voltage-products-and-systems"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:se:powerlogic_ion7650:5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:44:14.463-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:schneider-electric:powerlogic_ion7650:5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

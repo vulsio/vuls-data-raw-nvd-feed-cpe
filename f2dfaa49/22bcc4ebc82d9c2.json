@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netty:netty:4.1.75",
+  "title": [
+    {
+      "text": "Netty 4.1.75",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/netty/netty/security/advisories/GHSA-269q-hmxg-m83q"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/netty/netty/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netty:netty:4.1.75:*:*:*:*:*:*:*"
+  }
+}

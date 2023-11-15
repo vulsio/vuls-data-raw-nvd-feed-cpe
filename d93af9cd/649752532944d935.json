@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:nodejs:node.js:0.12.5",
+  "deprecated": true,
+  "deprecation_date": "2020-02-10T17:42:07.267Z",
+  "title": [
+    {
+      "text": "nodejs Node.js 0.12.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Release History",
+      "href": "http://nodejs.org/dist/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:0.12.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-10T12:42:07.267-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nodejs:node.js:0.12.5:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

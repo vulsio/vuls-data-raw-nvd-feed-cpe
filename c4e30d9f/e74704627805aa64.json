@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:allwaysync:allwaysync:19.0.3.0",
+  "title": [
+    {
+      "text": "Allwaysync Allwaysync 19.0.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.shouldiblockit.com/syncservice.exe-26051.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/IthacaLabs/Botkind/blob/main/Botkind_SyncApp/WeakServicePermissions_InsecureServiceExecutable_CVE-2023-29838.txt"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://allwaysync.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:allwaysync:allwaysync:19.0.3.0:*:*:*:*:*:*:*"
+  }
+}

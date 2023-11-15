@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:apple:watch_os:2.2.2",
+  "deprecated": true,
+  "deprecation_date": "2017-04-05T17:47:22.070Z",
+  "title": [
+    {
+      "text": "Apple Watch OS 2.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.apple.com/watchos/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:apple:watch_os:2.2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-04-05T13:47:22.070-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:watchos:2.2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:abb:fox515t:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:46:58.827Z",
+  "title": [
+    {
+      "text": "ABB FOX515T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://new.abb.com/network-management/communication-networks/optical-networks/fox515"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://search-ext.abb.com/library/Download.aspx?DocumentID=1KHW028693&LanguageCode=en&DocumentPartId=&Action=Launch"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:abb:fox515t:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:46:58.827-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hitachienergy:fox515t:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

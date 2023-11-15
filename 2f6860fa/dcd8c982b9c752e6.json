@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ruby-lang:ruby:3.2.1",
+  "title": [
+    {
+      "text": "Ruby-lang Ruby 3.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.rubyonrails.org/t/cve-2023-22795-possible-redos-based-dos-vulnerability-in-action-dispatch/82118"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.ruby-lang.org/en/downloads/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ruby-lang:ruby:3.2.1:*:*:*:*:*:*:*"
+  }
+}

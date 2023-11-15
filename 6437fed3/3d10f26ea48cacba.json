@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cncf:argo_continuous_delivery:1.5.0:rc2:~~~kubernetes~~",
+  "deprecated": true,
+  "deprecation_date": "2020-04-14T16:07:10.547Z",
+  "title": [
+    {
+      "text": "Cloud Native Computing Foundation Argo Continuous Delivery 1.5.0 Release Candidate 2 for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/argoproj/argo-cd/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cncf:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*",
+    "deprecation": {
+      "date": "2020-04-14T12:07:10.547-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.5.0:rc2:*:*:*:kubernetes:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

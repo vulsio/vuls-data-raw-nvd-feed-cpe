@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:netapp:baseboard_management_controller_500f_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2023-11-09T14:44:32.870Z",
+  "title": [
+    {
+      "text": "NetApp Baseboard Management Controller 500F Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20210205-0004/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:netapp:baseboard_management_controller_500f_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-09T09:44:32.870-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:netapp:500f_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

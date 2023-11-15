@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:oracle:jre:1.6.0:update_22",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:52:46.000Z",
+  "title": [
+    {
+      "text": "Oracle Java Runtime Environment (JRE) 1.6.0 Update 22",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jre:1.6.0:update_22:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:52:46.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jre:1.6.0:update22:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

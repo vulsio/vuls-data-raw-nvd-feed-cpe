@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nodejs:node.js:3.0.0:rc7",
+  "deprecated": true,
+  "deprecation_date": "2020-02-10T17:54:17.973Z",
+  "title": [
+    {
+      "text": "Nodejs Node.js 3.0.0 Release Candidate 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "text": "Version",
+      "href": "https://nodejs.org/en/download/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:3.0.0:rc7:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-10T12:54:17.973-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nodejs:node.js:3.0.0:rc7:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

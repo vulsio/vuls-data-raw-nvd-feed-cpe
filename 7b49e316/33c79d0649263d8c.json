@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:renault:zoe_ev_2021:-",
+  "title": [
+    {
+      "text": "Renault Zoe EV 2021 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.renault.co.uk/electric-vehicles/zoe.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.jhyeon.dev/posts/vuln/202307/renault-zoe/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/39xxx/CVE-2023-39075.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:renault:zoe_ev_2021:-:*:*:*:*:*:*:*"
+  }
+}

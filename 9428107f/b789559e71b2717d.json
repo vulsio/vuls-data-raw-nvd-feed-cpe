@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:processor_identification_utility:-::~~~windows~~",
+  "title": [
+    {
+      "text": "Intel Processor Identification Utility for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00281.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://downloadcenter.intel.com/download/28539/Intel-Processor-Identification-Utility-Windows-Version"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:processor_identification_utility:-:*:*:*:*:windows:*:*"
+  }
+}

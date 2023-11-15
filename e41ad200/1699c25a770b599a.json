@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:officeonline:1.0.0:alpha1",
+  "title": [
+    {
+      "text": "Nextcloud Office Online 1.0.0 Alpha 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-56wm-r6jm-3v9h"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/officeonline/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:officeonline:1.0.0:alpha1:*:*:*:*:*:*"
+  }
+}

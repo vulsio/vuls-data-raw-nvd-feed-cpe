@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:cisco:fxos:2.4.1.122",
+  "deprecated": true,
+  "deprecation_date": "2023-04-20T15:19:09.880Z",
+  "title": [
+    {
+      "text": "Cisco FXOS 2.4.1.122",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190515-nxos-fxos-cmdinj-1780"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:fxos:2.4.1.122:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-20T11:19:09.880-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.4.1.222:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

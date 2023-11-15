@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:apache:directory_studio:1.1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-08-10T12:17:09.860Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Directory Studio 1.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/directory-studio"
+    },
+    {
+      "text": "Product",
+      "href": "https://directory.apache.org/studio/"
+    },
+    {
+      "text": "Version",
+      "href": "https://directory.apache.org/studio/download-old-versions.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:directory_studio:1.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-10T08:17:09.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:directory_studio:1.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

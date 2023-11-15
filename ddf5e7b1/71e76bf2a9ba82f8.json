@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sap:web_dispatcher:kernel_7.91",
+  "title": [
+    {
+      "text": "SAP Web Dispatcher KERNEL 7.91",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://help.sap.com/doc/saphelp_nw74/7.4.16/en-us/48/8fe37933114e6fe10000000a421937/frameset.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2023-35871"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:web_dispatcher:kernel_7.91:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:atlassian:confluence:6.11",
+  "deprecated": true,
+  "deprecation_date": "2021-09-22T15:26:45.230Z",
+  "title": [
+    {
+      "text": "Atlassian Confluence 6.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://confluence.atlassian.com/doc/confluence-release-notes-327.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:confluence:6.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-22T11:26:45.230-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:confluence:6.11.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

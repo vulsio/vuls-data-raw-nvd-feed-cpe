@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mediawiki:createredirect:-::~~~mediawiki~~",
+  "title": [
+    {
+      "text": "MediaWiki CreatereRirect for MediaWiki",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://phabricator.miraheze.org/T9061"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gerrit.wikimedia.org/r/c/mediawiki/extensions/CreateRedirect/+/780567"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mediawiki.org/wiki/Extension:CreateRedirect"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mediawiki:createredirect:-:*:*:*:*:mediawiki:*:*"
+  }
+}

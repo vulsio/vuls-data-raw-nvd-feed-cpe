@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:free_range_routing:7.2",
+  "title": [
+    {
+      "text": "The Linux Foundation Free Range Routing (FRR) 7.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.linuxfoundation.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://frrouting.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/FRRouting/frr/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:free_range_routing:7.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:webberzone:better_search:2.1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WebberZone Better Search 2.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-1/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://webberzone.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/better-search/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:webberzone:better_search:2.1.0:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:paloaltonetworks:bridgecrew_checkov:2.0.16",
+  "title": [
+    {
+      "text": "Palo Alto Networks Bridgecrew Checkov 2.0.16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.paloaltonetworks.com/prisma/cloud"
+    },
+    {
+      "text": "Product",
+      "href": "https://bridgecrew.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bridgecrewio/checkov/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.paloaltonetworks.com/CVE-2021-3035"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3035.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:bridgecrew_checkov:2.0.16:*:*:*:*:*:*:*"
+  }
+}

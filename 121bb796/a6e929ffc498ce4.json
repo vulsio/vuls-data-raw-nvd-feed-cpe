@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:web-dorado:photo_gallery:1.2.103::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2019-07-08T16:24:05.867Z",
+  "title": [
+    {
+      "text": "Web-Dorado Photo Gallery 1.2.103 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/photo-gallery/#developers"
+    },
+    {
+      "text": "Product",
+      "href": "https://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:web-dorado:photo_gallery:1.2.103:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2019-07-08T12:24:05.867-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:10web:photo_gallery:1.2.103:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

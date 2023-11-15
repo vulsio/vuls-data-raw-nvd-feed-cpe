@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:findbugs:4.50::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins FindBugs 4.50 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/findbugs-plugin/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/findbugs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:findbugs:4.50:*:*:*:*:jenkins:*:*"
+  }
+}

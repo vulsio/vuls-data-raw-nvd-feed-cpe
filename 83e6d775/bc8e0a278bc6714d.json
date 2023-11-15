@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mysql:mysql:5.0.25",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T17:13:52.503Z",
+  "title": [
+    {
+      "text": "MySQL 5.0.25",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://ftp.nchu.edu.tw/MySQL/doc/refman/5.0/en/news-5-0-x.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysql:mysql:5.0.25:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-17T12:13:52.503-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql:5.0.25:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

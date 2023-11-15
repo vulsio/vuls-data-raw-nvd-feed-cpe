@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:tendacn:ac15_firmware:15.03.05.18_multi",
+  "title": [
+    {
+      "text": "Tenda AC15 Firmware 15.03.05.18_Multi",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zhlu32/cve/blob/main/tenda/Tenda-ac15-buffer-overflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://down.tendacn.com/uploadfile/AC15/AC15%20Datasheet.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.tendacn.com/en/default.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tendacn:ac15_firmware:15.03.05.18_multi:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:peprodev:peprodev_cf7_database:1.5.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "PeproDev CF7 Database 1.5.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/pepro-cf7-database/wordpress-peprodev-cf7-database-plugin-1-7-0-unauthenticated-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://peprodev.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/pepro-cf7-database/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:peprodev:peprodev_cf7_database:1.5.2:*:*:*:*:wordpress:*:*"
+  }
+}

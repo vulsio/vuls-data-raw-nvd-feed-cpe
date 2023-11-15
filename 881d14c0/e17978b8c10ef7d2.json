@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:schneider_electric:wonderware_intelligence:2014:r3",
+  "deprecated": true,
+  "deprecation_date": "2021-06-04T14:18:53.530Z",
+  "title": [
+    {
+      "text": "Schneider Electric Wonderware Intelligence 2014 R3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://industrial-software.com/wp-content/uploads/Intelligence-2014-R3-ReadMe.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider_electric:wonderware_intelligence:2014:r3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-04T10:18:53.530-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:wonderware_intelligence:2014:r3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

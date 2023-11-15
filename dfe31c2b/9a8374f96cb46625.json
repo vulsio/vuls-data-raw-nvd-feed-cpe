@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:siemens:sicam_pas:8.08",
+  "deprecated": true,
+  "deprecation_date": "2023-10-13T16:45:09.597Z",
+  "title": [
+    {
+      "text": "Siemens SICAM PAS 8.08",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.siemens.com/global/en/home/products/energy/energy-automation-and-smart-grid.html"
+    },
+    {
+      "text": "Product",
+      "href": "http://w3.siemens.com/smartgrid/global/en/products-systems-solutions/substation-automation/substation-automation/pages/sicam-pas.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:sicam_pas:8.08:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-13T12:45:09.597-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:siemens:sicam_pas\\/pqs:8.08:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:unified_computing_system_software:2.0",
+  "deprecated": true,
+  "deprecation_date": "2014-05-27T17:03:44.497Z",
+  "title": [
+    {
+      "text": "Cisco Unified Computing System Software 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:unified_computing_system_software:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-05-27T13:03:44.497-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:2.0\\(1q\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

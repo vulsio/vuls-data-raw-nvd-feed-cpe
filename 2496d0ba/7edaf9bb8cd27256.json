@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mongodb:libmongocrypt:1.1.0:-:~~~node.js~~",
+  "title": [
+    {
+      "text": "MongoDB libmongocrypt 1.1.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mongodb.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/mongodb-client-encryption"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mongodb/libmongocrypt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mongodb:libmongocrypt:1.1.0:-:*:*:*:node.js:*:*"
+  }
+}

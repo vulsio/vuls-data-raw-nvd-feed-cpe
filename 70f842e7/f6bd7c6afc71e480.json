@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:intel:avermedia_capture_card:-",
+  "title": [
+    {
+      "text": "Intel AverMedia Capture Card",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://avermedia.com/professional/product/co513ec/overview"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00543.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.intel.com/content/www/us/en/download/19642/29856/avermedia-capture-card-driver-for-intel-nuc-pro-chassis-element.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:avermedia_capture_card:-:*:*:*:*:*:*:*"
+  }
+}

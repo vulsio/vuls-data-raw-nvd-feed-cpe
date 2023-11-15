@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_service_level_management:3.0.2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-13T20:21:00.100Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Service Level Management 3.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-13T16:21:00.100-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_service_level_management:3.0.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

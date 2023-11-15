@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:google:web_stories:1.32.0:-:~~wordpress~~~",
+  "deprecated": true,
+  "deprecation_date": "2023-11-01T16:58:01.657Z",
+  "title": [
+    {
+      "text": "Google Web Stories 1.32.0 Wordpress Edition for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/GoogleForCreators/web-stories-wp"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/googleforcreators/web-stories-wp/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/web-stories/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:web_stories:1.32.0:-:*:*:wordpress:*:*:*",
+    "deprecation": {
+      "date": "2023-11-01T12:58:01.657-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:google:web_stories:1.32.0:-:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

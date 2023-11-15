@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_2003_server:-:r2:x64-standard",
+  "deprecated": true,
+  "deprecation_date": "2021-07-07T16:08:32.760Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2003 Server R2 x64 (64-bit) Standard Edtion",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_2003_server:-:r2:x64-standard:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-07T12:08:32.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2003:r2:-:*:*:standard:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

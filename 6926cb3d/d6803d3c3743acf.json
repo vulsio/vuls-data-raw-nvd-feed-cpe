@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pjsip:pjsip:0.5.9",
+  "title": [
+    {
+      "text": "PJSIP PJSIP 0.5.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pjsip/pjproject/security/advisories/GHSA-5x45-qp78-g4p4"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/pjsip/pjproject/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pjsip:pjsip:0.5.9:*:*:*:*:*:*:*"
+  }
+}

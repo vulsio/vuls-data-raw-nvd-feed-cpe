@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:cactusvpn:cactusvpn:6.0.0::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T13:43:47.490Z",
+  "title": [
+    {
+      "text": "CactusVPN 6.0.0 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.cactusvpn.com/vpn-software/mac-os-updates/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cactusvpn.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cactusvpn:cactusvpn:6.0.0:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T09:43:47.490-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cactusvpn:cactusvpn:6.0.0:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

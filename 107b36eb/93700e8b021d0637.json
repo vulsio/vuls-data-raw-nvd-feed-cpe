@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:11.6.1::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 11.6.1 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://about.gitlab.com/releases/2018/12/31/security-release-gitlab-11-dot-6-dot-1-released/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG-EE.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:11.6.1:*:*:*:enterprise:*:*:*"
+  }
+}

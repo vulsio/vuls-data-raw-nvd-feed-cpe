@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vim:vim:9.0.1499",
+  "title": [
+    {
+      "text": "Vim 9.0.1499",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/254064"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/3451be4c-91c8-4d08-926b-cbff7396f425/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/vim/vim/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vim:vim:9.0.1499:*:*:*:*:*:*:*"
+  }
+}

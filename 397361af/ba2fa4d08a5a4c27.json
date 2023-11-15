@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:harbor_container_registry:1.7.1::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "VMware Harbor Container Registry 1.7.1 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0016.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://network.pivotal.io/products/harbor-container-registry/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:harbor_container_registry:1.7.1:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

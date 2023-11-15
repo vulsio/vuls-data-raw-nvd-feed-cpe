@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:play-with-docker:play_with_docker:-::~~~go~~",
+  "title": [
+    {
+      "text": "Play-with-docker Play With Docker for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/play-with-docker/play-with-docker/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://pkg.go.dev/github.com/mukul-shaunik/play-with-docker"
+    },
+    {
+      "text": "Product",
+      "href": "https://labs.play-with-docker.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/play-with-docker/play-with-docker/security/advisories/GHSA-vq59-5x26-h639"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:play-with-docker:play_with_docker:-:*:*:*:*:go:*:*"
+  }
+}

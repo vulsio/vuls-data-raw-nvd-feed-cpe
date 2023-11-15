@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:cisco:asa_5515-x_firmware:9.6%284%29",
+  "title": [
+    {
+      "text": "Cisco ASA 5515-X Firmware 9.6(4)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/security/asa-firepower-services/series.html#~tab-models"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/security/asa-5500-series-next-generation-firewalls/series.html#~tab-models"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvr55825"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-path-JE3azWw43"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:asa_5515-x_firmware:9.6\\(4\\):*:*:*:*:*:*:*"
+  }
+}

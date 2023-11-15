@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ovirt:ovirt:4.2.2.6",
+  "deprecated": true,
+  "deprecation_date": "2019-11-06T20:49:58.850Z",
+  "title": [
+    {
+      "text": "oVirt 4.2.2.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://ovirt.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/oVirt/ovirt-engine/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ovirt:ovirt:4.2.2.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-06T15:49:58.850-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:ovirt-engine:4.2.2.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

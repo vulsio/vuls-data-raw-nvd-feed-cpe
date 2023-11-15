@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sap:hana_database:2.00",
+  "title": [
+    {
+      "text": "SAP HANA Database 2.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blogs.sap.com/2017/12/12/sap-security-patch-day-december-2017/"
+    },
+    {
+      "text": "Version",
+      "href": "https://wiki.scn.sap.com/wiki/display/SAPHANA/SAP+HANA+Database+2.0"
+    },
+    {
+      "text": "Version",
+      "href": "https://wiki.scn.sap.com/wiki/display/SAPHANA/SAP+HANA+Database+1.0+Release+Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:hana_database:2.00:*:*:*:*:*:*:*"
+  }
+}

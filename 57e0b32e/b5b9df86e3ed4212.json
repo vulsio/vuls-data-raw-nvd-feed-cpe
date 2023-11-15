@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:prestashop:payplug:3.6.0::~~~prestashop~~",
+  "title": [
+    {
+      "text": "PrestaShop PayPlug 3.6.0 for PrestaShop",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://addons.prestashop.com/en/payment-card-wallet/8795--payplug-accept-customer-payments-wherever-they-are.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.friendsofpresta.org/module/2023/07/18/payplug.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:prestashop:payplug:3.6.0:*:*:*:*:prestashop:*:*"
+  }
+}

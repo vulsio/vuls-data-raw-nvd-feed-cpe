@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:pivotal_software:spring_security:4.1.2",
+  "deprecated": true,
+  "deprecation_date": "2021-06-08T18:20:58.500Z",
+  "title": [
+    {
+      "text": "Pivotal Software Spring Security 4.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://spring.io/docs/reference"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/spring-projects/spring-security/tree/3.2.x"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:spring_security:4.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-08T14:20:58.500-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:spring_security:4.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

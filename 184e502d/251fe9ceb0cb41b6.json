@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:adaptive_security_appliance_software:8.4%284.11%29",
+  "deprecated": true,
+  "deprecation_date": "2023-08-15T14:28:00.460Z",
+  "title": [
+    {
+      "text": "Cisco Adaptive Security Appliance (ASA) Software 8.4(4.11)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/support/security/adaptive-security-appliance-asa-software/products-release-notes-list.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:8.4\\(4.11\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-15T10:28:00.460-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:adaptive_security_appliance_software:8.4\\(4.11\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

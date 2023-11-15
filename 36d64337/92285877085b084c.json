@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:quinn_project:quinn:0.10.4::~~~rust~~",
+  "title": [
+    {
+      "text": "Quinn Project Quinn 0.10.4 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/quinn-rs/quinn"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/quinn-rs/quinn/security/advisories/GHSA-q8wc-j5m9-27w3"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/quinn-rs/quinn/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:quinn_project:quinn:0.10.4:*:*:*:*:rust:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lanproxy_project:lanproxy:0.1",
+  "title": [
+    {
+      "text": "LanProxy Project LanProxy 0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3019.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/ffay/lanproxy"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lanproxy_project:lanproxy:0.1:*:*:*:*:*:*:*"
+  }
+}

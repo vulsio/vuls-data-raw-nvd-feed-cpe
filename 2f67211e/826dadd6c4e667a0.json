@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:2637_v2",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T11:30:01.970Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 2637 V2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:2637_v2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-05T07:30:01.970-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5_2637_v2:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

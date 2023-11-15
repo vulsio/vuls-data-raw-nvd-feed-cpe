@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:sun:mysql_connector%2fj:5.1.8",
+  "deprecated": true,
+  "deprecation_date": "2018-01-19T19:45:48.647Z",
+  "title": [
+    {
+      "text": "Sun MySQL Connector/J 5.1.8",
+      "lang": "en-US"
+    },
+    {
+      "text": "サン・マイクロシステムズ MySQL Connector/J 5.1.8",
+      "lang": "ja-JP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-19T14:45:48.647-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql_connector\\/j:5.1.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

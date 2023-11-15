@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:zap_pipeline:1.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins ZAP Pipeline 1.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/zap-pipeline/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/zap-pipeline-plugin/releases?after=1.4.1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:zap_pipeline:1.0:*:*:*:*:jenkins:*:*"
+  }
+}

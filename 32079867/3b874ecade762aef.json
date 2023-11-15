@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:puma:puma:5.6.5::~~~ruby~~",
+  "title": [
+    {
+      "text": "Puma Puma 5.6.5 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/puma/puma/security/advisories/GHSA-68xg-gqqm-vgj8"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/puma/puma/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puma:puma:5.6.5:*:*:*:*:ruby:*:*"
+  }
+}

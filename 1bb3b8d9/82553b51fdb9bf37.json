@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:mirion:wrm2:-",
+  "title": [
+    {
+      "text": "Mirion WRM2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mirion.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-208-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mirion.com/products/wrm2-wireless-remote-monitoring-system/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:mirion:wrm2:-:*:*:*:*:*:*:*"
+  }
+}

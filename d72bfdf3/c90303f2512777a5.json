@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openstack:glance:24.0.0",
+  "title": [
+    {
+      "text": "OpenStack Glance 24.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/glance/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://docs.openstack.org/developer/glance/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.openstack.org/ossa/OSSA-2016-006.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:glance:24.0.0:*:*:*:*:*:*:*"
+  }
+}

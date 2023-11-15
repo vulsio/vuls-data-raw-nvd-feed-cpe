@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:automattic:woocommerce_payments:0.8.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Automattic WooCommerce Payments 0.8.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/woocommerce-payments/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://developer.woocommerce.com/2023/03/23/critical-vulnerability-detected-in-woocommerce-payments-what-you-need-to-know/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://automattic.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:automattic:woocommerce_payments:0.8.0:*:*:*:*:wordpress:*:*"
+  }
+}

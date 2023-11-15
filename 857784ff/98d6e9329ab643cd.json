@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:zohocorp:manageengine_opmanager:8",
+  "title": [
+    {
+      "text": "ZohoCorp ManageEngine OpManager 8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.manageengine.com/network-monitoring/opmv8_servicepack_upgrade.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pitstop.manageengine.com/portal/kb/articles/vulnerabilities-in-failoverhelperservlet"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:8:*:*:*:*:*:*:*"
+  }
+}

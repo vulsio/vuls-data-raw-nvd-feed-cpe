@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:dotsquares:wp_custom_post_template:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Dotsquares WP Custom Post Template 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-custom-post-template/wordpress-wp-custom-post-template-plugin-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.dotsquares.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-custom-post-template/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dotsquares:wp_custom_post_template:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

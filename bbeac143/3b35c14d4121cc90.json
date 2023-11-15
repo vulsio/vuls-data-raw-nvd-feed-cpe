@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:project-redcap:redcap:4.14.4",
+  "deprecated": true,
+  "deprecation_date": "2021-07-01T16:58:27.423Z",
+  "title": [
+    {
+      "text": "Project -REDCap REDCap (Research Electronic Data Capture) 4.14.4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:project-redcap:redcap:4.14.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-01T12:58:27.423-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vanderbilt:redcap:4.14.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

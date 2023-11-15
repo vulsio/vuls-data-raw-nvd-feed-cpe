@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wpexperts:post_smtp_mailer:2.5.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPExperts Post SMTP 2.5.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/post-smtp/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/post-smtp/post-smtp-257-unauthenticated-stored-cross-site-scripting-via-email"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.5.8:*:*:*:*:wordpress:*:*"
+  }
+}

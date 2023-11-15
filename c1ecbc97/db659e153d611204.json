@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:im_project:im:-::~~~rust~~",
+  "title": [
+    {
+      "text": "Im Project Im for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/bodil/im-rs"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bodil/im-rs/issues/157"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://rustsec.org/advisories/RUSTSEC-2020-0096.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:im_project:im:-:*:*:*:*:rust:*:*"
+  }
+}

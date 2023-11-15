@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:quizandsurveymaster:quiz_and_survey_master:0.8.2::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2019-12-18T15:52:21.170Z",
+  "title": [
+    {
+      "text": "Quiz and Survey Master 0.8.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://quizandsurveymaster.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/quiz-master-next/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:quizandsurveymaster:quiz_and_survey_master:0.8.2:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2019-12-18T10:52:21.170-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:expresstech:quiz_and_survey_master:0.8.2:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

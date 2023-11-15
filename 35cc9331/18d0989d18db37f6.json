@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ttcoin_project:ttcoin:-",
+  "title": [
+    {
+      "text": "TTCoin Project TTCoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xd59b961d5be7ae59486cf4431cbd5534c9ef4f0d#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/TTCoin"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ttcoin_project:ttcoin:-:*:*:*:*:*:*:*"
+  }
+}

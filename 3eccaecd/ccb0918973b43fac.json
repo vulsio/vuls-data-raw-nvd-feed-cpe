@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud_mail:1.4.1:-",
+  "title": [
+    {
+      "text": "Nextcloud Mail 1.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/nextcloud/mail"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://nextcloud.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/mail/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-mxx2-6rg9-v2vc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud_mail:1.4.1:-:*:*:*:*:*:*"
+  }
+}

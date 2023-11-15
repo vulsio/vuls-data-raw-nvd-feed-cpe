@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:keycloak_node.js_adapter:-",
+  "title": [
+    {
+      "text": "Red Hat Keycloak Node.js Adapter -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2097007"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/keycloak/keycloak-nodejs-connect"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:keycloak_node.js_adapter:-:*:*:*:*:*:*:*"
+  }
+}

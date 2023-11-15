@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:themexa:secure_file_manager:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Themexa Secure File Manager for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://themexa.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/authenticated-rce-vulnerability-in-wordpress-secure-file-manager-plugin-unpatched/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/secure-file-manager/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themexa:secure_file_manager:-:*:*:*:*:wordpress:*:*"
+  }
+}

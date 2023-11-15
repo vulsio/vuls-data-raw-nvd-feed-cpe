@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:safe_svg_project:safe_svg:1.9.5::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-10-24T18:41:31.787Z",
+  "title": [
+    {
+      "text": "Safe SVG Project Safe SVG 1.9.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/safe-svg/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:safe_svg_project:safe_svg:1.9.5:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-10-24T14:41:31.787-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:10up:safe_svg:1.9.5:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

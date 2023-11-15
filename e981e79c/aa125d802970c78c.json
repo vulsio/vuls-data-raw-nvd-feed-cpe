@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pypa:pip:23.1",
+  "title": [
+    {
+      "text": "PyPA pip 23.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://mail.python.org/archives/list/security-announce@python.org/thread/F4PL35U6X4VVHZ5ILJU3PWUWN7H7LZXL/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/pypa/pip/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pypa:pip:23.1:*:*:*:*:*:*:*"
+  }
+}

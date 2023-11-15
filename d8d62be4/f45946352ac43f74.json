@@ -1,0 +1,18 @@
+{
+  "name": "cpe:/a:ibm:monitoring_agent_for_unix_logs:6.2.2",
+  "title": [
+    {
+      "text": "IBM Monitoring Agent for UNIX logs 6.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Security Bulletin: Vulnerabilities in IBM Tivoli Monitoring agent and shared library with potential for privilege escalation (CVE-2013-5467)",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21675798"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:monitoring_agent_for_unix_logs:6.2.2:*:*:*:*:*:*:*"
+  }
+}

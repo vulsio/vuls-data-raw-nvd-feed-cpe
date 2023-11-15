@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:open_graph_metabox_project:open_graph_metabox:1.2.5::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-11-03T19:06:52.783Z",
+  "title": [
+    {
+      "text": "Open Graph Metabox Project Open Graph Metabox 1.2.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/open-graph-metabox/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/open-graph-metabox/wordpress-open-graph-metabox-plugin-1-4-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:open_graph_metabox_project:open_graph_metabox:1.2.5:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-11-03T15:06:52.783-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:underdock:open_graph_metabox:1.2.5:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud_server:20.0.14.4",
+  "title": [
+    {
+      "text": "Nextcloud Server 20.0.14.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/server/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-w3h6-p64h-q9jp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud_server:20.0.14.4:*:*:*:*:*:*:*"
+  }
+}

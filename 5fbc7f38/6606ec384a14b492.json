@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:parseplatform:parse-server:6.1.0:alpha13:~~~node.js~~",
+  "title": [
+    {
+      "text": "Parse Platform parse-server 6.1.0 Alpha 13 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/parse-community/parse-server/security/advisories/GHSA-9prm-jqwx-45x9"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/parse-community/parse-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:parseplatform:parse-server:6.1.0:alpha13:*:*:*:node.js:*:*"
+  }
+}

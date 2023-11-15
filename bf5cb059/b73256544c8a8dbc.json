@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp_clictracker_project:wp_clictracker:1.0.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Clictracker Project WP Clictracker 1.0.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/clictracker/wordpress-clictracker-plugin-1-0-5-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/clictracker/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp_clictracker_project:wp_clictracker:1.0.5:*:*:*:*:wordpress:*:*"
+  }
+}

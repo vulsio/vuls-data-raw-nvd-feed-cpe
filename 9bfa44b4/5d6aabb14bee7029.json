@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:abb:rtu500_firmware:13.4.1",
+  "deprecated": true,
+  "deprecation_date": "2023-04-19T15:32:23.947Z",
+  "title": [
+    {
+      "text": "ABB RTU500 Firmware 13.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2022-3353"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:rtu500_firmware:13.4.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-19T11:32:23.947-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hitachienergy:rtu500_firmware:13.4.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

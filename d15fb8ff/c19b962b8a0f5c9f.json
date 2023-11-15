@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:wireless_lan_controller:8.5.140.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-15T19:21:27.983Z",
+  "title": [
+    {
+      "text": "Cisco Wireless Lan Controller 8.5.140.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190417-wlc-iapp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:wireless_lan_controller:8.5.140.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-15T15:21:27.983-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:8.5.140.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

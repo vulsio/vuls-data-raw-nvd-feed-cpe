@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pi-hole:web_interface:2.3",
+  "title": [
+    {
+      "text": "Pi-hole Web Interface 2.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-cwwf-93p7-73j9"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/pi-hole/AdminLTE/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pi-hole:web_interface:2.3:*:*:*:*:*:*:*"
+  }
+}

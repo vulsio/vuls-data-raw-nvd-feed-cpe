@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:suricata-ids:suricata:4.0.0",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T14:59:22.443Z",
+  "title": [
+    {
+      "text": "Suricata-IDS Suricata 4.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://suricata-ids.org"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OISF/suricata/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suricata-ids:suricata:4.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-17T09:59:22.443-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:suricata-ids:suricata:4.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

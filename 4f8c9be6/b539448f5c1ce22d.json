@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:mattermost:server:5.20.0",
+  "deprecated": true,
+  "deprecation_date": "2020-06-19T19:30:24.763Z",
+  "title": [
+    {
+      "text": "Mattermost Server 5.20.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://mattermost.com/security-updates/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.mattermost.com/administration/version-archive.html?src=dl"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mattermost"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mattermost:server:5.20.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-19T15:30:24.763-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mattermost:mattermost_server:5.20.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

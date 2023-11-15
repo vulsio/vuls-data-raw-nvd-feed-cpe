@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:active_directory:2.13::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Active Directory 2.13 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/active-directory-plugin/releases"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/active-directory"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:active_directory:2.13:*:*:*:*:jenkins:*:*"
+  }
+}

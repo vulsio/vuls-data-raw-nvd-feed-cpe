@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ca:network_flow_analysis:10.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:43:30.173Z",
+  "title": [
+    {
+      "text": "CA Network Flow Analysis 10.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/it-operations-management/network-flow-analysis/10-0-0.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docops.ca.com/ca-network-flow-analysis/10-0-0/en/release-notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:network_flow_analysis:10.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:43:30.173-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:network_flow_analysis:10.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

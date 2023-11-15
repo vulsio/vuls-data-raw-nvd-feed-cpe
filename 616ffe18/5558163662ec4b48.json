@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:saleswizard:nsc:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Sales Wizard NSC for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.saleswizard.nl/"
+    },
+    {
+      "text": "Product",
+      "href": "https://themesinfo.com/nsc-wordpress-template-bctfp"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/nsc/nsc-10-prototype-pollution-to-reflected-cross-site-scripting"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:saleswizard:nsc:-:*:*:*:*:wordpress:*:*"
+  }
+}

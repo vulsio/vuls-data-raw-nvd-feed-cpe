@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:cisco:secure_access_control_server:3.2",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:37:46.443Z",
+  "title": [
+    {
+      "text": "Cisco Secure Access Control Server 3.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:secure_access_control_server:3.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:37:46.443-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:secure_access_control_server:3.2:-:windows:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:grafana:google_sheets:1.2.2::~~~grafana~~",
+  "title": [
+    {
+      "text": "Grafana Google Sheets 1.2.2 for Grafana",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://grafana.com/security/security-advisories/cve-2023-4457/"
+    },
+    {
+      "text": "Product",
+      "href": "https://grafana.com/grafana/plugins/grafana-googlesheets-datasource/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/grafana/google-sheets-datasource/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:grafana:google_sheets:1.2.2:*:*:*:*:grafana:*:*"
+  }
+}

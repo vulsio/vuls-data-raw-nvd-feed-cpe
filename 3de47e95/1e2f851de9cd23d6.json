@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:juniper:junos:22.1:r2",
+  "title": [
+    {
+      "text": "Juniper JUNOS 22.1 R2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://supportportal.juniper.net/s/article/2022-10-Security-Bulletin-Junos-OS-Peers-not-configured-for-TCP-AO-can-establish-a-BGP-or-LDP-session-even-if-authentication-is-configured-locally-CVE-2022-22237?language=en_US"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.juniper.net/us/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos:22.1:r2:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dir-878:1.12b01",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link Dir-878 1.12b01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.dlink.com/resource/PRODUCTS/DIR-878/REVA/DIR-878_REVA_RELEASE_NOTES_v1.12B01.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dir-878:1.12b01:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dir-878:1.12b01:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

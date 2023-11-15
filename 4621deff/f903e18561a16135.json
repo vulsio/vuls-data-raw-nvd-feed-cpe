@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:matio_project:matio:1.5.0",
+  "deprecated": true,
+  "deprecation_date": "2019-10-16T13:48:49.813Z",
+  "title": [
+    {
+      "text": "Matio Project Matio 1.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/tbeu/matio/releases"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/tbeu/matio"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matio_project:matio:1.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-16T09:48:49.813-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:matio_project:matio:1.5.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

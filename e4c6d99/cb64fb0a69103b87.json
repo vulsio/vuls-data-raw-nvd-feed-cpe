@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:cisco:vedge_1000_router:-",
+  "title": [
+    {
+      "text": "Cisco vEdge 1000 Router",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/vManage_How-Tos/vmanage-howto-book/m-operation.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://sdwan-docs.cisco.com/Product_Documentation"
+    },
+    {
+      "text": "Product",
+      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-dosmulti-48jJuEUP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:vedge_1000_router:-:*:*:*:*:*:*:*"
+  }
+}

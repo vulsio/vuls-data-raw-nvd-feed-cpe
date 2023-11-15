@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:bluecoat:proxysg:4.2.6",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:36:04.037Z",
+  "title": [
+    {
+      "text": "Blue Coat Systems Proxy Security Gateway OS (SGOS) 4.2.6",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:bluecoat:proxysg:4.2.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:36:04.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:bluecoat:sgos:4.2.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

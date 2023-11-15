@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:flexera:revenera_installshield:2021:r1:~~~windows~~",
+  "title": [
+    {
+      "text": "Flexera Revenera InstallShield 2021 R1 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0011/MNDT-2021-0011.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.revenera.com/installshield27helplib/rn/Content/helplibrary/ReleaseNotes.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:flexera:revenera_installshield:2021:r1:*:*:*:windows:*:*"
+  }
+}

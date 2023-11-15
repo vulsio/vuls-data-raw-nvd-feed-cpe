@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:wavlink:wl-wn533a8-c:-",
+  "title": [
+    {
+      "text": "Wavlink WL-WN533A8-C",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.wavlink.com/en_us/firmware.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/shellpei/WAVLINK-Reset/blob/main/CVE-2023-29708"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:wavlink:wl-wn533a8-c:-:*:*:*:*:*:*:*"
+  }
+}

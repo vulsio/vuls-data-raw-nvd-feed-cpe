@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:github_pull_request_coverage_status:1.1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins GitHub Pull Request Coverage Status 1.1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/github-pr-coverage-status/#releases"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/github-pr-coverage-status-plugin/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2767"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:github_pull_request_coverage_status:1.1.1:*:*:*:*:jenkins:*:*"
+  }
+}

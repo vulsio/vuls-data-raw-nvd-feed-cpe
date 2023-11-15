@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:distributed_fork:1.4.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Distributed Fork 1.4.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2017-03-20/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/distfork"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:distributed_fork:1.4.1:*:*:*:*:jenkins:*:*"
+  }
+}

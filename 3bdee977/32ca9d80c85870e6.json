@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:sparklabs:viscosity:1.4.1::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T19:20:55.037Z",
+  "title": [
+    {
+      "text": "SparkLabs Viscosity 1.4.1 for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/24579"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sparklabs:viscosity:1.4.1:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T15:20:55.037-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sparklabs:viscosity:1.4.1:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

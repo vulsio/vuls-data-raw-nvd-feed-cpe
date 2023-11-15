@@ -1,0 +1,46 @@
+{
+  "name": "cpe:/a:fresenius-kabi:vigilant_mastermed:2.0.1.3",
+  "title": [
+    {
+      "text": "Fresenius-kabi Vigilant Mastermed 2.0.1.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.fresenius-kabi.com/dk/documents/CC10757-1_V2S_SPEC_SYS_brochure_vigilant_insight_211217.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.fresenius-kabi.com/dk/documents/CC13675-1_FK_Master_Med_Brochure_v3_160718_0.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.fresenius-kabi.com/en-ca/products/agilia-software"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.191449"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://scanrepeat.com/vulnerability-database/vigilant-mastermed-cross-site-scripting"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cve.report/software/fresenius-kabi/vigilant_mastermed"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cvedetails.com/cve/CVE-2021-44464/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.fresenius-kabi.com/dk/documents/CC11351-2_SENV1_SPEC_SYS_brochure_vigilant_sentinel_eng_2112.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fresenius-kabi:vigilant_mastermed:2.0.1.3:*:*:*:*:*:*:*"
+  }
+}

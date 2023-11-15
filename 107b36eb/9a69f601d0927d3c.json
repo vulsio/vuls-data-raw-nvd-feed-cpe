@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:15.6.4::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 15.6.4 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-3514.json"
+    },
+    {
+      "text": "Version",
+      "href": "https://about.gitlab.com/releases/categories/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:15.6.4:*:*:*:community:*:*:*"
+  }
+}

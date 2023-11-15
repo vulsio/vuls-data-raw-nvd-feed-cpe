@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:upc:connect_box_eurodocsis:3.0",
+  "title": [
+    {
+      "text": "UPC Connect Box EuroDOCSIS 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.upc.ch/pdf/support/manuals/en/internet/ConnectBox/connect-box-manual.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.upc.ch/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/173544"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/filipi86/ConnectBoxDOCSIS-3.0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:upc:connect_box_eurodocsis:3.0:*:*:*:*:*:*:*"
+  }
+}

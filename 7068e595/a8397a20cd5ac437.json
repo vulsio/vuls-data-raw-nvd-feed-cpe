@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:guidesmiths:worksmith:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "GuideSmiths worksmith for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.guidesmiths.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-WORKSMITH-598798"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/worksmith"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:guidesmiths:worksmith:-:*:*:*:*:node.js:*:*"
+  }
+}

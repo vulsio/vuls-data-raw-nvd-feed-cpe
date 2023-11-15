@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:mysql:mysql:3.22.27",
+  "deprecated": true,
+  "deprecation_date": "2019-10-07T16:38:22.477Z",
+  "title": [
+    {
+      "text": "MySQL MySQL 3.22.27",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysql:mysql:3.22.27:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-07T12:38:22.477-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql:3.22.27:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

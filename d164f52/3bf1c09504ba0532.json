@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:gehealthcare:amx_700:-",
+  "title": [
+    {
+      "text": "GE Healthcare AMX 700",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.gehealthcare.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.somatechnology.com/Portable-X-Ray-Systems/GE-Definium-AMX-700.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:gehealthcare:amx_700:-:*:*:*:*:*:*:*"
+  }
+}

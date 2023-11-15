@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:djv_project:djv:0.0.1:alpha7:~~~node.js~~",
+  "title": [
+    {
+      "text": "djv Project djv (Dynamic JSON-Schema Validator) 0.0.1 Alpha 7 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-DJV-1014545"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/djv"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:djv_project:djv:0.0.1:alpha7:*:*:*:node.js:*:*"
+  }
+}

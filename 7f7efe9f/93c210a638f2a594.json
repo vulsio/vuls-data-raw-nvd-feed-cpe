@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:oracle:mysql:8.0.29",
+  "title": [
+    {
+      "text": "Oracle MySQL 8.0.29",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.oracle.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mysql.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mysql/mysql-server/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2023.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql:8.0.29:*:*:*:*:*:*:*"
+  }
+}

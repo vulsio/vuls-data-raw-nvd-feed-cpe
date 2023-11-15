@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:fortify:21.1.38::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Fortify 21.1.38 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/fortify/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-08-16/#SECURITY-3115"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:fortify:21.1.38:*:*:*:*:jenkins:*:*"
+  }
+}

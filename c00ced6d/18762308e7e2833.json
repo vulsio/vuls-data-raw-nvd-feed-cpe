@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:digitalocean:toxcore:0.0.4",
+  "deprecated": true,
+  "deprecation_date": "2022-02-08T18:54:49.800Z",
+  "title": [
+    {
+      "text": "DigitalOcean Toxcore 0.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/TokTok/c-toxcore/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/TokTok/c-toxcore"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:digitalocean:toxcore:0.0.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-08T13:54:49.800-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:toktok:toxcore:0.0.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:controlmicrosystems:clearscada_2009:2.0",
+  "deprecated": true,
+  "deprecation_date": "2018-11-28T15:13:38.460Z",
+  "title": [
+    {
+      "text": "Control Microsystems ClearSCADA 2009 Release 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:controlmicrosystems:clearscada_2009:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-11-28T10:13:38.460-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:clearscada_2009:r2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:samba:volume_service:1.1.0::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "Samba Volume Service 1.1.0 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-3800"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.pivotal.io/partners/smb-volume-service/release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samba:volume_service:1.1.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

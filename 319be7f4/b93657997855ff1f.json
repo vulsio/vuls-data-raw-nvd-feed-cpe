@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:crypto_api_toolkit_for_intel_sgx:-",
+  "title": [
+    {
+      "text": "Intel Crypto API Toolkit for Intel SGX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/intel/crypto-api-toolkit"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00565.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:crypto_api_toolkit_for_intel_sgx:-:*:*:*:*:*:*:*"
+  }
+}

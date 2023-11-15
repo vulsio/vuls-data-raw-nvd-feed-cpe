@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:catalyst_ie9300:-",
+  "title": [
+    {
+      "text": "Cisco Catalyst IE9300",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/switches/catalyst-ie9300-rugged-series/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy16608"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-yuXQ6hFj"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:catalyst_ie9300:-:*:*:*:*:*:*:*"
+  }
+}

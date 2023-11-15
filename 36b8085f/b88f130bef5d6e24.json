@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ujsoftware:owm_weather:5.6.12::~~~wordpress~~",
+  "title": [
+    {
+      "text": "UJ Software OWM Weather 5.6.12 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/owm-weather/wordpress-owm-weather-plugin-5-6-11-cross-site-request-forgery-csrf?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/owm-weather/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ujsoftware:owm_weather:5.6.12:*:*:*:*:wordpress:*:*"
+  }
+}

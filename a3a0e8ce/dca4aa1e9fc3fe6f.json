@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:miniorange:saml_sp_single_sign_on:20.0.0::~~multisite~wordpress~~",
+  "title": [
+    {
+      "text": "Miniorange SAMP SP Single Sign On 20.0.0 Multisite Edition for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.miniorange.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/e6c4c8c7-1dcd-45bf-8582-f12accca6fac"
+    },
+    {
+      "text": "Version",
+      "href": "https://faq.miniorange.com/knowledgebase/depreciated-versions-of-saml-sso-plugin/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:miniorange:saml_sp_single_sign_on:20.0.0:*:*:*:multisite:wordpress:*:*"
+  }
+}

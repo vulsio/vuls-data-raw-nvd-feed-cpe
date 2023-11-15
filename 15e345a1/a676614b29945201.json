@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:plugin-planet:dashboard_widget_suite:3.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Plugin Planet Dashboard Widget Suite 3.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://plugin-planet.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/dashboard-widgets-suite/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/dashboard-widgets-suite/wordpress-dashboard-widgets-suite-plugin-3-2-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:plugin-planet:dashboard_widget_suite:3.0:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:meinberg:ims-lantime_m500:-",
+  "title": [
+    {
+      "text": "Meinberg IMS-LANTIME M500",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.meinberg.de/german/products/ntp-server-erweiterungsmodule.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-175-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:meinberg:ims-lantime_m500:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:lsoft:listserv:17.0",
+  "title": [
+    {
+      "text": "Lsoft Listserv 17.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/2301-exploits/listserv17-xss.txt"
+    },
+    {
+      "text": "Product",
+      "href": "https://peach.ease.lsoft.com/scripts/wa-PEACH.exe?A0=LSTSRV-L"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/39xxx/CVE-2022-39195.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lsoft:listserv:17.0:*:*:*:*:*:*:*"
+  }
+}

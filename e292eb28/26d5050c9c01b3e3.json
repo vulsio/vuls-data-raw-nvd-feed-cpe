@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:arm:trusted_firmware-a:-",
+  "title": [
+    {
+      "text": "ARM Trusted Firmware-A",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ARM-software/arm-trusted-firmware/wiki/Trusted-Firmware-A-Security-Advisory-TFV-8"
+    },
+    {
+      "text": "Product",
+      "href": "http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dui0928e/CJHIDGJF.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arm:trusted_firmware-a:-:*:*:*:*:*:*:*"
+  }
+}

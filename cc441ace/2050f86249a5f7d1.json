@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jboss:aerogear:1.0.0",
+  "title": [
+    {
+      "text": "Jboss Aerogear 1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/230292"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2014/3xxx/CVE-2014-3648.json"
+    },
+    {
+      "text": "Product",
+      "href": "https://tools.jboss.org/features/aerogear.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jboss:aerogear:1.0.0:*:*:*:*:*:*:*"
+  }
+}

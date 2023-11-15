@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:auto0:lock:11.30.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Auto0 Lock 11.30.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://auth0.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/auth0/lock/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/auth0/lock/security/advisories/GHSA-jr3j-whm4-9wwm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:auto0:lock:11.30.0:*:*:*:*:node.js:*:*"
+  }
+}

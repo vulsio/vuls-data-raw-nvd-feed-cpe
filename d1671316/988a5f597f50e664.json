@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:helecloud:puppet-facter:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Helecloud Puppet-facter - for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-PUPPETFACTER-3175616"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/olindata/node-puppet-facter/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://helecloud.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:helecloud:puppet-facter:-:*:*:*:*:node.js:*:*"
+  }
+}

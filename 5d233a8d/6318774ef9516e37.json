@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:citrix:xenmobile_server:10.9.0",
+  "deprecated": true,
+  "deprecation_date": "2019-09-13T12:20:25.610Z",
+  "title": [
+    {
+      "text": "Citrix XenMobile Server 10.9.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.citrix.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.citrix.com/en-us/xenmobile/server/whats-new/10-8.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:citrix:xenmobile_server:10.9.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-13T08:20:25.610-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:citrix:xenmobile_server:10.9.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

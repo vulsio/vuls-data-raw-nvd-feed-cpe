@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openmage:magento:20.0.20::~~lts~~~",
+  "title": [
+    {
+      "text": "OpenMage Magento 20.0.20 LTS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OpenMage/magento-lts/security/advisories/GHSA-c9q3-r4rv-mjm7"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/OpenMage/magento-lts"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.openmage.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openmage:magento:20.0.20:*:*:*:lts:*:*:*"
+  }
+}

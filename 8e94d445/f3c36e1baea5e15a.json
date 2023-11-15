@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mybiz:myprocurenet:5.0.0",
+  "title": [
+    {
+      "text": "MyBiz MyProcureNet 5.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/en/blog/advisories/arbitrary-file-upload-cross-site-scripting-in-mybiz-myprocurenet/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.mybiz.net/copy-of-procure-to-pay"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.mybiz.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mybiz:myprocurenet:5.0.0:*:*:*:*:*:*:*"
+  }
+}

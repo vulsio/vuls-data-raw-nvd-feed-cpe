@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:debian:overkill:0.16-14.1",
+  "title": [
+    {
+      "text": "Debian Overkill 0.16-14.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security-tracker.debian.org/tracker/CVE-2009-5041"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=549310"
+    },
+    {
+      "text": "Version",
+      "href": "https://sources.debian.org/src/overkill/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:overkill:0.16-14.1:*:*:*:*:*:*:*"
+  }
+}

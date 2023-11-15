@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:private_messages_project:private_messages:2.1.10::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Private Messages Project Private Messages 2.1.10 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/private-messages-for-wordpress/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/private-messages-for-wordpress/wordpress-private-messages-for-wordpress-plugin-2-1-10-sending-messages-via-cross-site-request-forgery-csrf-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:private_messages_project:private_messages:2.1.10:*:*:*:*:wordpress:*:*"
+  }
+}

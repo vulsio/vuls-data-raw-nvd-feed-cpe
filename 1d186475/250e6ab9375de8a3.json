@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:tcpdump:tcpdump:4.99.0",
+  "title": [
+    {
+      "text": "TCPdump 4.99.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/the-tcpdump-group/libpcap/issues/855"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/the-tcpdump-group/tcpdump/blob/master/CHANGES"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tcpdump:tcpdump:4.99.0:*:*:*:*:*:*:*"
+  }
+}

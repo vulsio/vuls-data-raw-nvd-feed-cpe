@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:microsoft:excel:2016::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:13:51.760Z",
+  "title": [
+    {
+      "text": "Microsoft Excel 2016 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.office.com/en-us/article/excel-2016-for-mac-help-2010f16b-aec0-4da7-b381-9cc1b9b47745"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:excel:2016:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:13:51.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:excel:2016:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

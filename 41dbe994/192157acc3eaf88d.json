@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pagerduty:rundeck:3.4.5:rc1:~~community~~~",
+  "title": [
+    {
+      "text": "Pagerduty Rundeck 3.4.5 Release Candidate 1 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rundeck/rundeck/security/advisories/GHSA-qxjx-xr2m-hgqx"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rundeck/rundeck/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pagerduty:rundeck:3.4.5:rc1:*:*:community:*:*:*"
+  }
+}

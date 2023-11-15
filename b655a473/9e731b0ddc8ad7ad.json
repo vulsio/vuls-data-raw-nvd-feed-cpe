@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_eus:6.2",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Extended Update Support (EUS) 6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2013-1943"
+    },
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/discussions/1461143"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_eus:6.2:*:*:*:*:*:*:*"
+  }
+}

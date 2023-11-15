@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:getvera:veralite:-",
+  "title": [
+    {
+      "text": "Vera Veralite",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://getvera.com/products/veraedge-and-veralite-backup-battery-1-amp"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Vera_sec_issues.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:getvera:veralite:-:*:*:*:*:*:*:*"
+  }
+}

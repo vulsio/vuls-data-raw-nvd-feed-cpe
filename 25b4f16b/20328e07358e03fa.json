@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:lucet-runtime-internals_project:lucet-runtime-internals:0.3.0",
+  "deprecated": true,
+  "deprecation_date": "2021-01-06T17:22:00.803Z",
+  "title": [
+    {
+      "text": "lucet-runtime-internals Project lucet-runtime-internals 0.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/lucet-runtime-internals/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lucet-runtime-internals_project:lucet-runtime-internals:0.3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-06T12:22:00.803-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:lucet-runtime-internals_project:lucet-runtime-internals:0.3.0:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:ehealth_livehealth:6.1.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T13:18:14.527Z",
+  "title": [
+    {
+      "text": "Ca Ehealth Livehealth 6.1.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:ehealth_livehealth:6.1.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T09:18:14.527-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:ehealth_livehealth:6.1.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

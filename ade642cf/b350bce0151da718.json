@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:seoscout:seoscout:0.9.83::~~~wordpress~~",
+  "title": [
+    {
+      "text": "SEOScout 0.9.83 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/ab-rankings-testing-tool/wordpress-seo-scout-plugin-0-9-83-cross-site-request-forgery-csrf-vulnerability"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://seoscout.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:seoscout:seoscout:0.9.83:*:*:*:*:wordpress:*:*"
+  }
+}

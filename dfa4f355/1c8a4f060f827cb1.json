@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:johnsoncontrols:entrapass:8.10::~~corporate~~~",
+  "title": [
+    {
+      "text": "Johnson Controls EntraPass 8.10 Corporate Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-070-04"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kantech.com/Products/software_entrapass_ce.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:johnsoncontrols:entrapass:8.10:*:*:*:corporate:*:*:*"
+  }
+}

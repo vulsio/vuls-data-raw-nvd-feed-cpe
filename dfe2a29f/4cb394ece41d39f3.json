@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:isc:bind:9.11.27",
+  "title": [
+    {
+      "text": "ISC BIND 9.11.27",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://gitlab.isc.org/isc-projects/bind9/-/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.isc.org/downloads/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://kb.isc.org/v1/docs/cve-2020-8625"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:isc:bind:9.11.27:*:*:*:*:*:*:*"
+  }
+}

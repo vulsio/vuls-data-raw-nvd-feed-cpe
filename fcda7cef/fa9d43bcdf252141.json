@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:sharp-nec-display:un462a_firmware:r1.300",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T14:11:28.027Z",
+  "title": [
+    {
+      "text": "Sharp NEC Display Solutions UN462A FIRMWARE R1.300",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sharpnecdisplays.eu/p/eeme/en/support/productsupport/t/Large-Format-Displays/Professional-Displays/rp/P654Q.xhtml"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sharp-nec-display:un462a_firmware:r1.300:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T10:11:28.027-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:sharp-nec-displays:un462a_firmware:r1.300:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

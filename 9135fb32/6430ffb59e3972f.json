@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:symantec:advanced_secure_gateway:6.6.3",
+  "deprecated": true,
+  "deprecation_date": "2021-07-08T16:37:16.423Z",
+  "title": [
+    {
+      "text": "Symantec Advanced Secure Gateway (ASG) 6.6.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.symantec.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.symantec.com/content/unifiedweb/en_US/Documentation.html?prodRefKey=1145443&locale=en_US"
+    },
+    {
+      "text": "Version",
+      "href": "https://symwisedownload.symantec.com//resources/sites/SYMWISE/content/live/DOCUMENTATION/10000/DOC10427/en_US/ASG_CPL_Guide.pdf?__gda__=1509787618_529a89e63b970ed37a38552d96783b15"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symantec:advanced_secure_gateway:6.6.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-08T12:37:16.423-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:advanced_secure_gateway:6.6.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

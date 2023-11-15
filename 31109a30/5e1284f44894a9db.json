@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:aescrypt:aes_crypt:3.11::~~~linux~~",
+  "title": [
+    {
+      "text": "AES Crypt 3.11 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://forums.packetizer.com/viewtopic.php?t=685"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.aescrypt.com/linux_aes_crypt.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.aescrypt.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:aescrypt:aes_crypt:3.11:*:*:*:*:linux:*:*"
+  }
+}

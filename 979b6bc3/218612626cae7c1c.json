@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:vmware:esx_server:1.5.2:patch1",
+  "deprecated": true,
+  "deprecation_date": "2012-02-15T20:58:43.457Z",
+  "title": [
+    {
+      "text": "VMWare ESX 1.5.2 patch1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:esx_server:1.5.2:patch1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-15T15:58:43.457-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:esx:1.5.2:patch1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

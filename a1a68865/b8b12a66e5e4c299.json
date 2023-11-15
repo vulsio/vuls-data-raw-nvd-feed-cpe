@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:emlog:emlog:6.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-05-27T16:48:05.560Z",
+  "title": [
+    {
+      "text": "Emlog 6.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/emlog/emlog"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.emlog.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emlog:emlog:6.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-27T12:48:05.560-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:emlog:emlog:6.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

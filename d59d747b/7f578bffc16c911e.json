@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:dlink:dir-819_firmware:1.06",
+  "title": [
+    {
+      "text": "D-Link DIR-819 FIRMWARE 1.06",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.dlink.ca/ProductInfo.aspx?m=DIR-819"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://whokilleddb.github.io/blogs/posts/dlink_dir-819_lfi_and_dos/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dir-819_firmware:1.06:*:*:*:*:*:*:*"
+  }
+}

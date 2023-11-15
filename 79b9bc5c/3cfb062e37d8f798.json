@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:zyxel:nas520:-",
+  "title": [
+    {
+      "text": "Zyxel NAS520",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.zyxel.com/us/en/support/download_landing/product/nas326_13.shtml?c=us&l=en&pid=20150327120001&tab=Firmware&pname=NAS326"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.zyxel.com/ee/et/products_services/2-Bay-Personal-Cloud-Storage-NAS520/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.zyxel.com/us/en/homepage.shtml"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.zyxel.com/support/remote-code-execution-vulnerability-of-NAS-products.shtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:zyxel:nas520:-:*:*:*:*:*:*:*"
+  }
+}

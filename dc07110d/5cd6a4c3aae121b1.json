@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:nxp:ntag_212:-",
+  "title": [
+    {
+      "text": "NXP NTAG 212",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nxp.com/products/rfid-nfc/nfc-hf/ntag-for-tags-labels/ntag210-ntag212-ntag-21x-nfc-forum-type-2-tag-ic-with-multiple-user-memory-sizes:NTAG210_NTAG212"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nxp:ntag_212:-:*:*:*:*:*:*:*"
+  }
+}

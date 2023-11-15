@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:embedded_entitlements_manager:8.4.406",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T13:51:27.590Z",
+  "title": [
+    {
+      "text": "Ca Embedded Entitlements Manager 8.4.406",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T09:51:27.590-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:embedded_entitlements_manager:8.4.406:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

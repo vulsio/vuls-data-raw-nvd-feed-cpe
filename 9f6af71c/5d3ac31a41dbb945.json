@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gitlab:runner:15.5.0",
+  "title": [
+    {
+      "text": "Gitlab Runner 15.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://gitlab.com/gitlab-org/gitlab-runner/-/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27386"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-2251.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:runner:15.5.0:*:*:*:*:*:*:*"
+  }
+}

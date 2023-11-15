@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:redhat:virtualization:4.0",
+  "deprecated": true,
+  "deprecation_date": "2020-10-15T13:28:10.373Z",
+  "title": [
+    {
+      "text": "Red Hat Virtualization 4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_virtualization/4.0/html/package_manifest/rhv-4.0.0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:virtualization:4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-15T09:28:10.373-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:virtualization:4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

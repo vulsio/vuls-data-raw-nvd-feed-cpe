@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:huge-it:huge-it_catalog:1.0.7::~~~joomla~~",
+  "deprecated": true,
+  "deprecation_date": "2017-03-29T17:06:16.937Z",
+  "title": [
+    {
+      "text": "Huge-IT Catalog 1.0.7 for Joomla",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://huge-it.com/joomla-catalog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:huge-it:huge-it_catalog:1.0.7:*:*:*:*:joomla:*:*",
+    "deprecation": {
+      "date": "2017-03-29T13:06:16.937-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:huge-it:huge-it_catalog:1.0.7:*:*:*:*:joomla\\!:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

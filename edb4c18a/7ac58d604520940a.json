@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ruby-i18n:i18n:0.6.5:-:~-~-~ruby~~",
+  "deprecated": true,
+  "deprecation_date": "2021-05-04T09:08:17.517Z",
+  "title": [
+    {
+      "text": "ruby-i18n i18n gem 0.6.5 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor website",
+      "href": "http://ruby-i18n.org"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ruby-i18n:i18n:0.6.5:-:-:*:-:ruby:*:*",
+    "deprecation": {
+      "date": "2021-05-04T05:08:17.517-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:i18n_project:i18n:0.6.5:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

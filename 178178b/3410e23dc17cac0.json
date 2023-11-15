@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:git_client:3.11.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Git Client 3.11.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/git-client/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-1468"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:git_client:3.11.0:*:*:*:*:jenkins:*:*"
+  }
+}

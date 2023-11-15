@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:miraheze:createwiki:2022-04-02",
+  "title": [
+    {
+      "text": "Miraheze CreateWiki 2022-04-02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://miraheze.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/miraheze/CreateWiki/commit/d0ae79843d689832ccac765d6b1721e668d99ab9"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/miraheze/CreateWiki/security/advisories/GHSA-9xvw-w66v-prvg"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:miraheze:createwiki:2022-04-02:*:*:*:*:*:*:*"
+  }
+}

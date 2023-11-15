@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:apple:mac_os:9",
+  "deprecated": true,
+  "deprecation_date": "2021-09-22T14:21:42.207Z",
+  "title": [
+    {
+      "text": "Apple macOS 9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://apple.fandom.com/wiki/Mac_OS_9"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:apple:mac_os:9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-22T10:21:42.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:macos:9:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:portfoliocms_prokect:portfoliocms:1.0.3",
+  "deprecated": true,
+  "deprecation_date": "2020-02-20T14:48:43.053Z",
+  "title": [
+    {
+      "text": "portfolioCMS Project portfolioCMS 1.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/teklynk/portfolioCMS/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:portfoliocms_prokect:portfoliocms:1.0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-20T09:48:43.053-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:portfoliocms_project:portfoliocms:1.0.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

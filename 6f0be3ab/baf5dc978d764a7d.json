@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:openshift:3.2.1.23::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Red Hat OpenShift Enterprise 3.2.1.23",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.redhat.com/en"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.openshift.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.openshift.com/enterprise/3.2/release_notes/ose_3_2_release_notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift:3.2.1.23:*:*:*:enterprise:*:*:*"
+  }
+}

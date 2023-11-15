@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:koha:koha:3.20.00",
+  "deprecated": true,
+  "deprecation_date": "2020-01-31T15:27:54.313Z",
+  "title": [
+    {
+      "text": "Koha 3.20.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Koha-Community/Koha/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:koha:koha:3.20.00:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-31T10:27:54.313-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:koha:koha:3.20.00:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

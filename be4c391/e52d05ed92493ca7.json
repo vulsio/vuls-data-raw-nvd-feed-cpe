@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:atlassian:confluence:2.8",
+  "deprecated": true,
+  "deprecation_date": "2020-07-21T15:32:32.063Z",
+  "title": [
+    {
+      "text": "Atlassian Confluence 2.8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:confluence:2.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-21T11:32:32.063-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:confluence:2.8:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

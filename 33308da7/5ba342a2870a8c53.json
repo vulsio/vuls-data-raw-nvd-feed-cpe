@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:hp:integrated_lights_out:1.27a",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:57.993Z",
+  "title": [
+    {
+      "text": "HP Integrated Lights-Out (iLO) firmware 1.27a",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hp:integrated_lights_out:1.27a:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:57.993-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hp:integrated_lights-out_firmware:1.27a:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

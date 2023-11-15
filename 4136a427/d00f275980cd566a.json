@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:json_project:json:0.0.13::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2020-09-29T13:52:52.297Z",
+  "title": [
+    {
+      "text": "json Project json 0.0.13 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-608931"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:json_project:json:0.0.13:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2020-09-29T09:52:52.297-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:joyent:json:0.0.13:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

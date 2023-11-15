@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gotify:server:2.0.19",
+  "title": [
+    {
+      "text": "Gotify Server 2.0.19",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://gotify.net/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/gotify/server/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/gotify/server/security/advisories/GHSA-xv6x-456v-24xh"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gotify:server:2.0.19:*:*:*:*:*:*:*"
+  }
+}

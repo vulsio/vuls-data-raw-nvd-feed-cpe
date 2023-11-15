@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nodejs:node.js:1.4.2",
+  "deprecated": true,
+  "deprecation_date": "2020-02-10T17:47:21.487Z",
+  "title": [
+    {
+      "text": "Nodejs Node.js 1.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "text": "Version",
+      "href": "https://nodejs.org/en/download/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:1.4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-10T12:47:21.487-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nodejs:node.js:1.4.2:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

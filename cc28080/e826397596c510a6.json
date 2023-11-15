@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:moxa:mgate_mb3180:-",
+  "title": [
+    {
+      "text": "Moxa MGate MB3180",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/protocol-gateways/modbus-tcp-gateways/mgate-mb3180-mb3280-mb3480-series"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2021-33823.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:moxa:mgate_mb3180:-:*:*:*:*:*:*:*"
+  }
+}

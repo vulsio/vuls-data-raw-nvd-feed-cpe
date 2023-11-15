@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:windows-nt:2003",
+  "deprecated": true,
+  "deprecation_date": "2009-09-30T12:39:18.157Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2003 Server",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:windows-nt:2003:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-09-30T08:39:18.157-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

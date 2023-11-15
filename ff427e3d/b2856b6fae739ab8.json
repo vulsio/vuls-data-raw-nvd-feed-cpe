@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:nx-os:5.2%281%29sv3%284.1a%29::~~~vsphere~~",
+  "title": [
+    {
+      "text": "Cisco NX-OS 5.2(1)SV3(4.1a) for vSphere",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp26722"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200226-nexus-1000v-dos"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:nx-os:5.2\\(1\\)sv3\\(4.1a\\):*:*:*:*:vsphere:*:*"
+  }
+}

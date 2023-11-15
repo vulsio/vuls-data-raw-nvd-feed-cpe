@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:open.edx:ironwood:.1",
+  "title": [
+    {
+      "text": "Open.edX Ironwood .1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.netsparker.com/web-applications-advisories/ns-19-014-reflected-cross-site-scripting-in-openedx/"
+    },
+    {
+      "text": "Product",
+      "href": "https://open.edx.org/announcements/release-announcement/ironwood-is-here/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:open.edx:ironwood:.1:*:*:*:*:*:*:*"
+  }
+}

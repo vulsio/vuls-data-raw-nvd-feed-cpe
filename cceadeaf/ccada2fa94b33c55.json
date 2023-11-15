@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:libidn2_project:libidn2:0.13",
+  "deprecated": true,
+  "deprecation_date": "2019-10-21T18:20:58.603Z",
+  "title": [
+    {
+      "text": "Libidn2 Project Libidn2 0.13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libidn/libidn2/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libidn2_project:libidn2:0.13:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-21T14:20:58.603-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnu:libidn2:0.13:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

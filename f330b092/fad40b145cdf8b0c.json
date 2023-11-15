@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:d-link:dir-815_firmware:2.07.b01",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DIR-815 Firmware 2.07.b01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.dlink.com.au/home-solutions"
+    },
+    {
+      "text": "Product",
+      "href": "http://support.dlink.com/ProductInfo.aspx?m=DIR-815"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dir-815_firmware:2.07.b01:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kvmtool_project:kvmtool:-",
+  "title": [
+    {
+      "text": "Kvmtool Project Kvmtool",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://git.kernel.org/pub/scm/linux/kernel/git/will/kvmtool.git/log/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kvmtool_project:kvmtool:-:*:*:*:*:*:*:*"
+  }
+}

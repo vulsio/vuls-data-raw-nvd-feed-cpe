@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:go-macaron:i18n:-::~~~macaron~~",
+  "title": [
+    {
+      "text": "Macron i18n for Macaron",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.216745"
+    },
+    {
+      "text": "Product",
+      "href": "https://go-macaron.com/middlewares/i18n#options"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/go-macaron/i18n/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:go-macaron:i18n:-:*:*:*:*:macaron:*:*"
+  }
+}

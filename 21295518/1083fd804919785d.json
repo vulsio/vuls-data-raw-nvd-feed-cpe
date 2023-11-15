@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:sap:netweaver_as_abap:2011_1_640",
+  "deprecated": true,
+  "deprecation_date": "2022-10-05T14:21:01.480Z",
+  "title": [
+    {
+      "text": "SAP NetWeaver AS ABAP 2011_1_640",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/cc6c05ff45a0d5e0b3e1ec8d385a0b68e4b8e658/2020/26xxx/CVE-2020-26832.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:netweaver_as_abap:2011_1_640:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-10-05T10:21:01.480-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sap:netweaver_application_server_abap:2011_1_640:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

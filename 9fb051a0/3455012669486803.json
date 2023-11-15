@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:iox:-",
+  "title": [
+    {
+      "text": "Cisco IOx",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ioxxss-wc6CqUws"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/support/cloud-systems-management/iox/products-release-notes-list.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:iox:-:*:*:*:*:*:*:*"
+  }
+}

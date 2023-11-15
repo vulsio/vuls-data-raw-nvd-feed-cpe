@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:streamweasels:twitch_player:2.1.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Streamweasels Twitch Player 2.1.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/ttv-easy-embed-player/wordpress-twitch-player-plugin-2-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.streamweasels.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/ttv-easy-embed-player/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:streamweasels:twitch_player:2.1.1:*:*:*:*:wordpress:*:*"
+  }
+}

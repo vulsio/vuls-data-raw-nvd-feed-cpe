@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_service_fulfillment:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:40:52.937Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Service Fulfillment",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_service_fulfillment:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:40:52.937-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_service_fulfillment:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

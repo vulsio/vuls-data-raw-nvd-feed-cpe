@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:objective_development:little_snitch:4.4.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-09T03:03:48.430Z",
+  "title": [
+    {
+      "text": "Objective Development Little Snitch 4.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://obdev.at/cve/2019-13014-MzE24Ify4p.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:objective_development:little_snitch:4.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-08T22:03:48.430-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:obdev:little_snitch:4.4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

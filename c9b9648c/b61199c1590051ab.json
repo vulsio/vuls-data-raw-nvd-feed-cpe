@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:eyesofnetwork:eonweb:5.3-2",
+  "deprecated": true,
+  "deprecation_date": "2021-02-23T15:06:19.033Z",
+  "title": [
+    {
+      "text": "EyesOfNetwork Eonweb 5.3-2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.eyesofnetwork.com/en"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/EyesOfNetworkCommunity/eonweb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3-2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-23T10:06:19.033-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.3-2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

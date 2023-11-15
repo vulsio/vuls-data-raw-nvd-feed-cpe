@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:mappresspro:mappress_maps:2.53.9::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-02-06T21:05:50.670Z",
+  "title": [
+    {
+      "text": "MapPressPro MapPress 2.53.9 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/abfbba70-5158-4990-98e5-f302361db367"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://mappresspro.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mappresspro:mappress_maps:2.53.9:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-02-06T16:05:50.670-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mappresspro:mappress:2.53.9:*:*:*:free:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

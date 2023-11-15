@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wclovers:wcfm_membership:1.0.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WC Lovers WCFM Membership 1.0.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wc-multivendor-membership/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wc-multivendor-membership/wcfm-membership-2100-unauthenticated-privilege-escalation"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wclovers:wcfm_membership:1.0.0:*:*:*:*:wordpress:*:*"
+  }
+}

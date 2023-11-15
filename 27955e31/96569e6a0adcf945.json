@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:micro_focus:service_manager:9.52",
+  "deprecated": true,
+  "deprecation_date": "2020-02-11T18:40:29.910Z",
+  "title": [
+    {
+      "text": "Micro Focus Service Manager 9.52",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://softwaresupport.softwaregrp.com/doc/KM03452977"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:micro_focus:service_manager:9.52:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-11T13:40:29.910-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microfocus:service_manager:9.52:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

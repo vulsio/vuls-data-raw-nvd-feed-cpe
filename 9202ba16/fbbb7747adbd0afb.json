@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:siemens:sppa-t3000_ms3000_migration_server:-",
+  "title": [
+    {
+      "text": "Siemens SPPA-T3000 MS3000 Migration Server",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-451445.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://new.siemens.com/global/en/products/automation/distributed-control-system/sppa-t3000.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:sppa-t3000_ms3000_migration_server:-:*:*:*:*:*:*:*"
+  }
+}

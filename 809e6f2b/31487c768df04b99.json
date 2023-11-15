@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oracle:mysql_server:8.0.0",
+  "title": [
+    {
+      "text": "Oracle MySQL Server 8.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/mysql/mysql-server"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.oracle.com/cd/E17952_01/mysql-8.0-relnotes-en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://blogs.oracle.com/mysql/post/announcing-july-2021-releases-featuring-mysql-8026"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql_server:8.0.0:*:*:*:*:*:*:*"
+  }
+}

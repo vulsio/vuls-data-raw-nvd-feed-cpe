@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:openrobotics:robot_operating_system:-",
+  "title": [
+    {
+      "text": "Open Robotics Robot Operating System (ROS)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ros.org/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.openrobotics.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/aliasrobotics/RVD/issues/2401"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:openrobotics:robot_operating_system:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:msi:app_player:-",
+  "title": [
+    {
+      "text": "MSI App Player",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.msi.com/Landing/appplayer"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://voidsec.com/advisories/cve-2021-44900/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:msi:app_player:-:*:*:*:*:*:*:*"
+  }
+}

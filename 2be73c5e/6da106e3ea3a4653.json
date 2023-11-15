@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:squid-cache:squid:3.0",
+  "deprecated": true,
+  "deprecation_date": "2020-07-07T16:18:31.770Z",
+  "title": [
+    {
+      "text": "squid-cache.org Squid 3.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:squid-cache:squid:3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-07T12:18:31.770-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:squid-cache:squid:3.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

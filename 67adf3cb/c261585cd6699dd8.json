@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:follow-redirects_project:follow-redirects:1.9.0::~~node.js~~~",
+  "deprecated": true,
+  "deprecation_date": "2022-02-09T14:03:25.220Z",
+  "title": [
+    {
+      "text": "follow-redirects Project follow-redirects 1.9.0 Node.js Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/follow-redirects/follow-redirects/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:follow-redirects_project:follow-redirects:1.9.0:*:*:*:node.js:*:*:*",
+    "deprecation": {
+      "date": "2022-02-09T09:03:25.220-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:follow-redirects_project:follow-redirects:1.9.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

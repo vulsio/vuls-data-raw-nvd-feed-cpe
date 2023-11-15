@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kubernetes:aws-iam-authenticator:0.1.0::~~~kubernetes~~",
+  "title": [
+    {
+      "text": "Kubernetes AWS IAM Authenticator 0.1.0 for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kubernetes:aws-iam-authenticator:0.1.0:*:*:*:*:kubernetes:*:*"
+  }
+}

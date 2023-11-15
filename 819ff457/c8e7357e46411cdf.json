@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:zyxel:c1000z:-",
+  "title": [
+    {
+      "text": "Zyxel C1000Z",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zyxel.com/me/en/homepage.shtml"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.zyxel.com/us/en/uploads/images/ds_C1000Z.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.zyxel.com/support/announcement_SSH_private_key_and_certificate_vulnerability.shtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:zyxel:c1000z:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:di-624_firmware:2.42",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DI-624 Firmware 2.42",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://ftp.dlink.ru/pub/Router/DI-624/Description/DI-624_manual_101.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:di-624_firmware:2.42:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:di-624_firmware:2.42:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

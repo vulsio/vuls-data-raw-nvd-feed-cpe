@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:geautomation:proficy:8.0::~~machine~~~",
+  "title": [
+    {
+      "text": "GE Automation Proficy 8.0 Machine Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.geautomation.com/products/machine-edition"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/boofish/GE_Proficy_Machine_Edition_Vuln/blob/master/README.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:geautomation:proficy:8.0:*:*:*:machine:*:*:*"
+  }
+}

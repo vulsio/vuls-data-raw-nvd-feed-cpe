@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:mlink:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:45:27.317Z",
+  "title": [
+    {
+      "text": "Computer Associates CA-MLink",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:mlink:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:45:27.317-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:mlink:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

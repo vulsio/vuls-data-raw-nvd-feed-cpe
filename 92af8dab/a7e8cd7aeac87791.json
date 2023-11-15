@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:opc_ua_stack_project:opc_ua_stack:3.0.3",
+  "title": [
+    {
+      "text": "OPC UA Stack Project OPC UA Stack 3.0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/ASNeG/OpcUaStack/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://asneg.github.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-UNMANAGED-ASNEGOPCUASTACK-2988735"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opc_ua_stack_project:opc_ua_stack:3.0.3:*:*:*:*:*:*:*"
+  }
+}

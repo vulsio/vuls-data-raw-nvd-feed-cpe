@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x5560:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:56.483Z",
+  "title": [
+    {
+      "text": "Intel Xeon X5560",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x5560:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:56.483-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_x5560:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

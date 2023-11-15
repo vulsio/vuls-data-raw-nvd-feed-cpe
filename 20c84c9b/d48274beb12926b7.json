@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:froger:wp_remote_users_sync:1.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Froger WP Remote Users Sync 1.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://froger.me/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-remote-users-sync/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-remote-users-sync/wp-remote-users-sync-1212-authenticated-subscriber-server-side-request-forgery"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:froger:wp_remote_users_sync:1.2:*:*:*:*:wordpress:*:*"
+  }
+}

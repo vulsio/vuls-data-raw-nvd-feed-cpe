@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:vault:1.0.1::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Hashicorp Vault 1.0.1 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.hashicorp.com/blog/products/vault"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/vault/blob/master/CHANGELOG.md#154"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:vault:1.0.1:*:*:*:enterprise:*:*:*"
+  }
+}

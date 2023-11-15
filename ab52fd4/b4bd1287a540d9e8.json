@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gnu:gnutls:3.7.2",
+  "title": [
+    {
+      "text": "GNU GnuTLS 3.7.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2044156"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.com/gnutls/gnutls/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnu:gnutls:3.7.2:*:*:*:*:*:*:*"
+  }
+}

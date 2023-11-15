@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:simon_tatham:putty:0.67:beta",
+  "deprecated": true,
+  "deprecation_date": "2021-08-06T16:56:28.740Z",
+  "title": [
+    {
+      "text": "Simon Tatham PuTTY 0.67 Beta",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simon_tatham:putty:0.67:beta:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-06T12:56:28.740-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:putty:putty:0.67:beta:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

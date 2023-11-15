@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:schneider_electric:sage_1430:-",
+  "deprecated": true,
+  "deprecation_date": "2018-09-24T15:49:06.253Z",
+  "title": [
+    {
+      "text": "Schneider Electric Sage 1430",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.schneider-electric.com/ww/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-070-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:schneider_electric:sage_1430:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-09-24T11:49:06.253-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:schneider-electric:sage_1430:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

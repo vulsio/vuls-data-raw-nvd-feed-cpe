@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:amd:ryzen_7_5700x_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) Ryzen 7 5700x Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1029"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:ryzen_7_5700x_firmware:-:*:*:*:*:*:*:*"
+  }
+}

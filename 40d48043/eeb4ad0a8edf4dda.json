@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:libvips_project:libvips:8.5.2",
+  "deprecated": true,
+  "deprecation_date": "2023-09-29T11:18:01.067Z",
+  "title": [
+    {
+      "text": "libvips Project libvips 8.5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/libvips/libvips"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libvips_project:libvips:8.5.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-29T07:18:01.067-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libvips:libvips:8.5.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

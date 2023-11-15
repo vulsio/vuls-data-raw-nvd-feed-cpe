@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:se:powerlogic_egx300_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T20:07:35.137Z",
+  "title": [
+    {
+      "text": "Schneider Electric PowerLogic EGX300 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-159-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:se:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T15:07:35.137-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:schneider-electric:powerlogic_egx300_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

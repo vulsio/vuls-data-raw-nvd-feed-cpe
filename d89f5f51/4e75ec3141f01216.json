@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:kyocera:net_viewer:-",
+  "title": [
+    {
+      "text": "Kyocera Net Viewer",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.kyoceradocumentsolutions.eu/en/products/software/kyocera-net-viewer.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.rapid7.com/blog/post/2022/03/29/cve-2022-1026-kyocera-net-view-address-book-exposure/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/1xxx/CVE-2022-1026.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kyocera:net_viewer:-:*:*:*:*:*:*:*"
+  }
+}

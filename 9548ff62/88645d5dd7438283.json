@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:rsa:bsafe_crypto-c:6.3",
+  "deprecated": true,
+  "deprecation_date": "2021-12-17T20:00:05.910Z",
+  "title": [
+    {
+      "text": "RSA BSAFE Crypto-C 6.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsa:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-12-17T15:00:05.910-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe_crypto-c:6.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

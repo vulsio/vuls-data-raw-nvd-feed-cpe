@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:comtechefdata:h8_heights_remote_gateway:-",
+  "deprecated": true,
+  "deprecation_date": "2021-05-07T16:47:41.887Z",
+  "title": [
+    {
+      "text": "Comtechefdata H8 Heights Remote Gateway",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.comtechefdata.com/files/ds-h8_h16.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://misteralfa-hack.blogspot.com/2019/10/comtech-stored-xss-heights-remote.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:comtechefdata:h8_heights_remote_gateway:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-07T12:47:41.887-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:comtechtel:h8_heights_remote_gateway:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

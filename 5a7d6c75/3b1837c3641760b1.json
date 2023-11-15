@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:serv-u:serv-u:7.2.0.1",
+  "deprecated": true,
+  "deprecation_date": "2020-07-28T14:40:43.460Z",
+  "title": [
+    {
+      "text": "Serv-U 7.2.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:serv-u:serv-u:7.2.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-28T10:40:43.460-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:solarwinds:serv-u_file_server:7.2.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

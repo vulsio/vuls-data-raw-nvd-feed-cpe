@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:hms-networks:ewon_flexy:-",
+  "title": [
+    {
+      "text": "HMS-Networks eWON Flexy",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-098-03"
+    },
+    {
+      "text": "Product",
+      "href": "https://ewon.biz/products/cosy"
+    },
+    {
+      "text": "Product",
+      "href": "https://ewon.biz/products/ewon-flexy"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.hms-networks.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hms-networks:ewon_flexy:-:*:*:*:*:*:*:*"
+  }
+}

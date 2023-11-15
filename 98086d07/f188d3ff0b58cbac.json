@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:foxitsoftware:reader:6.1",
+  "deprecated": true,
+  "deprecation_date": "2016-11-08T17:54:43.033Z",
+  "title": [
+    {
+      "text": "Foxitsoftware Foxit Reader 6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.foxitsoftware.com/Secure_PDF_Reader/version_history.php"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.foxitsoftware.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:foxitsoftware:reader:6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-11-08T12:54:43.033-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:foxitsoftware:foxit_reader:6.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

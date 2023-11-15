@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:-::~~~~x86~",
+  "deprecated": true,
+  "deprecation_date": "2022-12-13T18:06:14.753Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 32-bit",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/windows/features"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x86:*",
+    "deprecation": {
+      "date": "2022-12-13T13:06:14.753-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_1507:-:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

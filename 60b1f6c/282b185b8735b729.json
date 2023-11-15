@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:microsoft:.net_core:5.0:preview2",
+  "deprecated": true,
+  "deprecation_date": "2023-10-15T16:43:04.443Z",
+  "title": [
+    {
+      "text": "Microsoft .NET Core 5.0 Preview 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://dotnet.microsoft.com/en-us/download/dotnet"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/dotnet/core/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:.net_core:5.0:preview2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-15T12:43:04.443-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:.net:5.0:preview2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

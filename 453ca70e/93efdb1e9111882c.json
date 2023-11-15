@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bmc:control-m:9.0.21",
+  "title": [
+    {
+      "text": "BMC Control-M 9.0.21",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.synacktiv.com/sites/default/files/2023-02/Synacktiv-ControlM-Multiple-Vulnerabilities.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.bmc.com/docs/controlm/control-m-workload-automation-documentation-471556599.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bmc:control-m:9.0.21:*:*:*:*:*:*:*"
+  }
+}

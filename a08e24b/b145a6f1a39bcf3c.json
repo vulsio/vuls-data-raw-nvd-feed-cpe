@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:se:somachine_motion:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:42:54.627Z",
+  "title": [
+    {
+      "text": "Schneider Electric SoMachine Motion",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.se.com/us/en/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.se.com/us/en/download/document/PD_RevSoMachineMotion_us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.se.com/ww/en/product-range/2226-ecostruxure-machine-expert-%28somachine%29/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-105-02_Modicon+M218_M241_M251_M258_M258_Logic_Controllers_SoMachine_SoMachine_Motion_EcoStruxure_Machine_Expert_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-105-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:somachine_motion:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:42:54.627-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:somachine_motion:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

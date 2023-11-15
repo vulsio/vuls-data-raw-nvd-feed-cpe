@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:opencv:opencv:3.4.11",
+  "title": [
+    {
+      "text": "OpenCV 3.4.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/opencv/opencv_contrib/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/opencv/opencv_contrib/pull/3480"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://opencv.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opencv:opencv:3.4.11:*:*:*:*:*:*:*"
+  }
+}

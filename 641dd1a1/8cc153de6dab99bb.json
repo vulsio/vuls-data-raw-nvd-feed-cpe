@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:keyget_project:keyget:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "keyget Project keyget for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/keyget"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-KEYGET-2342624"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:keyget_project:keyget:-:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:metal3:ironic-image:1.4.2",
+  "title": [
+    {
+      "text": "Metal3 Ironic-image 1.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/metal3-io/ironic-image/security/advisories/GHSA-jwpr-9fwh-m4g7"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/metal3-io/ironic-image/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://metal3.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:metal3:ironic-image:1.4.2:*:*:*:*:*:*:*"
+  }
+}

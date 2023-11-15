@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:piwik:piwik:0.4:rc2",
+  "deprecated": true,
+  "deprecation_date": "2019-11-21T13:29:37.820Z",
+  "title": [
+    {
+      "text": "Piwik 0.4 release candidate 2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:piwik:piwik:0.4:rc2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-21T08:29:37.820-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:matomo:matomo:0.4:rc2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

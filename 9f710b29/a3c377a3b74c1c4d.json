@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:xen:xen:4.11.0::~~~x86~~",
+  "deprecated": true,
+  "deprecation_date": "2020-10-28T12:07:08.273Z",
+  "title": [
+    {
+      "text": "Xen Xen 4.11.0 for x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wiki.xenproject.org/wiki/Category:Release_Notes"
+    },
+    {
+      "text": "Version",
+      "href": "https://xenproject.org/xen-project-archives/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.xenproject.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:x86:*:*",
+    "deprecation": {
+      "date": "2020-10-28T08:07:08.273-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:xen:xen:4.11.0:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

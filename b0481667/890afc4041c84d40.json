@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ladatoken_project:ladatoken:-",
+  "title": [
+    {
+      "text": "LadaToken Project LadaToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xb463ffd52534720186eb18b3b90a94bf12d61619#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ladatoken_project:ladatoken:-:*:*:*:*:*:*:*"
+  }
+}

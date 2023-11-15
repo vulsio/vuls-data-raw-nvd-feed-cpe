@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:related_youtube_videos_project:related_youtube_videos:1.4.2::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-06T12:04:57.137Z",
+  "title": [
+    {
+      "text": "Related YouTube Videos Project Related YouTube Videos 1.4.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/related-youtube-videos/"
+    },
+    {
+      "text": "Version",
+      "href": "https://plugins.svn.wordpress.org/related-youtube-videos/tags/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:related_youtube_videos_project:related_youtube_videos:1.4.2:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2020-05-06T08:04:57.137-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:meomundo:related_youtube_videos:1.4.2:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

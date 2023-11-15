@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:svelte:sveltekit:1.15.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Svelte Sveltekit 1.15.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://svelte.dev/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sveltejs/kit/blob/master/packages/kit/CHANGELOG.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sveltejs/kit/security/advisories/GHSA-5p75-vc5g-8rv2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:svelte:sveltekit:1.15.0:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:solarwinds:damewire_mini_remote_control:10.0::~~~~x64~",
+  "deprecated": true,
+  "deprecation_date": "2023-09-18T15:29:00.270Z",
+  "title": [
+    {
+      "text": "SolarWinds Damewire Mini Remote Control 10.0 on X64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.solarwinds.com/dameware-mini-remote-control"
+    },
+    {
+      "text": "Version",
+      "href": "https://support.solarwinds.com/SuccessCenter/s/article/Dameware-Mini-Remote-Control-10-0-Hotfix-6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solarwinds:damewire_mini_remote_control:10.0:*:*:*:*:*:x64:*",
+    "deprecation": {
+      "date": "2023-09-18T11:29:00.270-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:solarwinds:dameware_mini_remote_control:10.0:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

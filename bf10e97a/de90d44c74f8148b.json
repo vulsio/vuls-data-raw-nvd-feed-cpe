@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microstrategy:microstrategy_web:7",
+  "title": [
+    {
+      "text": "MicroStrategy Web 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/150059/Microstrategy-Web-7-Cross-Site-Scripting-Traversal.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www2.microstrategy.com/producthelp/10.7/ProjectDesignGuide/WebHelp/Lang_1033/Content/ProjectDesign/MicroStrategy_Web_and_Web_Universal.htm"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microstrategy.com/us"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microstrategy:microstrategy_web:7:*:*:*:*:*:*:*"
+  }
+}

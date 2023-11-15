@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:canonical:ubuntu_linux:17.10",
+  "title": [
+    {
+      "text": "Canonical Ubuntu Linux 17.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://old-releases.ubuntu.com/releases/17.10/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://usn.ubuntu.com/usn/usn-3476-1/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.canonical.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.ubuntu.com/desktop/1710"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:canonical:ubuntu_linux:17.10:*:*:*:*:*:*:*"
+  }
+}

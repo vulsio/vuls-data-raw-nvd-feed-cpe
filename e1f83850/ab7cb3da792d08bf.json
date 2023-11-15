@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:cinder:2013.2:-",
+  "title": [
+    {
+      "text": "OpenStack Cinder 2013.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/cinder/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.launchpad.net/nova/+bug/1996188"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:cinder:2013.2:-:*:*:*:*:*:*"
+  }
+}

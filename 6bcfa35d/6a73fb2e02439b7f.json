@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:autoupdate:-::~~~macos~~",
+  "title": [
+    {
+      "text": "Microsoft AutoUpdate for MacOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0984"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:autoupdate:-:*:*:*:*:macos:*:*"
+  }
+}

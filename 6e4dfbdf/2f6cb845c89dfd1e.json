@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:pivotal:cf-release:272",
+  "deprecated": true,
+  "deprecation_date": "2021-05-25T11:53:35.090Z",
+  "title": [
+    {
+      "text": "Pivotal cf-release 272",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/cf-release/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/cf-release"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudfoundry.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:cf-release:272:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-25T07:53:35.090-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cloudfoundry:cf-release:272:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

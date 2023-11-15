@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:moodle:moodle:4.1.0:beta",
+  "title": [
+    {
+      "text": "Moodle 4.1.0 Beta",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://moodle.org/mod/forum/discuss.php?d=443272#p1782021"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.moodle.org/gw?p=moodle.git;a=tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:moodle:moodle:4.1.0:beta:*:*:*:*:*:*"
+  }
+}

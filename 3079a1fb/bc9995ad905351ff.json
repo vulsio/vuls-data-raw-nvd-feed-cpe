@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wire:wire_server:2021-02-16",
+  "title": [
+    {
+      "text": "Wire Server 2021-02-16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/wireapp/wire-server/blob/develop/CHANGELOG.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/wireapp/wire-server/security/advisories/GHSA-qx8q-rhq2-rg4j"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wire:wire_server:2021-02-16:*:*:*:*:*:*:*"
+  }
+}

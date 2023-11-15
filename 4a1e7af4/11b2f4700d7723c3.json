@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:yithemes:yith_paypal_express_checkout_for_woocommerce:1.3.7",
+  "deprecated": true,
+  "deprecation_date": "2021-03-18T12:45:17.523Z",
+  "title": [
+    {
+      "text": "Yithemes YITH Paypal Express Checkout for WooCommerce 1.3.7 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.yithemes.com/yith-paypal-express-checkout-for-woocommerce/2018/07/09/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:yithemes:yith_paypal_express_checkout_for_woocommerce:1.3.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-03-18T08:45:17.523-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:yithemes:yith_paypal_express_checkout_for_woocommerce:1.3.7:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

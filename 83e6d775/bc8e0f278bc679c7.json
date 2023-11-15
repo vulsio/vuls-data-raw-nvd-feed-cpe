@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:mysql:mysql:5.0.70",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T19:56:42.933Z",
+  "title": [
+    {
+      "text": "MySQL5.0.70",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysql:mysql:5.0.70:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-17T14:56:42.933-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:mysql:5.0.70:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

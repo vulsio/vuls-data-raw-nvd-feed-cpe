@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10_22h2:10.0.19045.2965",
+  "deprecated": true,
+  "deprecation_date": "2023-10-19T19:02:11.870Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 22H2 10.0.19045.2965",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.2965:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-19T15:02:11.870-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.2965:*:*:*:*:*:arm64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:softonic:eagleget:-",
+  "title": [
+    {
+      "text": "SOFTONIC INTERNATIONAL EagleGet",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://en.softonic.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://eagleget.en.softonic.com/download"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@n1pwn/local-privilege-escalation-in-eagleget-1fde79fe47c0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:softonic:eagleget:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:xen:xen:4.4.2",
+  "deprecated": true,
+  "deprecation_date": "2015-12-18T18:06:07.577Z",
+  "title": [
+    {
+      "text": "Xen 4.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.xenproject.org/"
+    },
+    {
+      "text": "Version information",
+      "href": "http://wiki.xenproject.org/wiki/Xen_4.4_Release_Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:xen:xen:4.4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-12-18T13:06:07.577-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:xen:xen:4.4.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:brocade:fabric_os:8.2.2a1",
+  "deprecated": true,
+  "deprecation_date": "2021-06-22T15:19:11.153Z",
+  "title": [
+    {
+      "text": "Brocade Fabric OS 8.2.2a1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2020-1081"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:brocade:fabric_os:8.2.2a1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-22T11:19:11.153-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:brocade:fabric_operating_system:8.2.2:a1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

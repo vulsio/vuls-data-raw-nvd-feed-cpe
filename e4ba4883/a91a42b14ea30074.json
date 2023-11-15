@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:renjikai:linuxasmcallgraph:-",
+  "title": [
+    {
+      "text": "Renjikai LinuxASMCallGraph -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bjrjk/LinuxASMCallGraph/security/advisories/GHSA-63c3-r9qm-c2wx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bjrjk/LinuxASMCallGraph/commit/20dba06bd1a3cf260612d4f21547c25002121cd5"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://renjikai.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:renjikai:linuxasmcallgraph:-:*:*:*:*:*:*:*"
+  }
+}

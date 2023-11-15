@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:redgate_sql_change_automation:1.0.13::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Redgate SQL Change Automation 1.0.13 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jenkins.io/security/advisory/2019-12-17/#SECURITY-1651"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/redgate-sql-ci-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:redgate_sql_change_automation:1.0.13:*:*:*:*:jenkins:*:*"
+  }
+}

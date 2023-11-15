@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:stop_spam_comments_project:stop_spam_comments:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Stop Spam Comments Project Stop Spam Comments - for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/30820be1-e96a-4ff6-b1ec-efda14069e70"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/stop-spam-comments/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:stop_spam_comments_project:stop_spam_comments:-:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:11.3::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 11.3 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://about.gitlab.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-39876.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:11.3:*:*:*:community:*:*:*"
+  }
+}

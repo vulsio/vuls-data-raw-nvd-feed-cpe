@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:d-link:dap-1360_firmware:2.5.4",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:38:37.263Z",
+  "title": [
+    {
+      "text": "D-Link DAP-1360 Firmware 2.5.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://us.dlink.com/products/access-points-range-extenders-and-bridges/wireless-n-range-extender/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:d-link:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:38:37.263-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dap-1360_firmware:2.5.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

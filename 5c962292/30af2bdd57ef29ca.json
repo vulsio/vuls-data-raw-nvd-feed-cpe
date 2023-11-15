@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:20h2::~~~~x86~",
+  "deprecated": true,
+  "deprecation_date": "2022-12-09T18:15:16.973Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 20H2 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=8eb773b8-808c-4a1d-ae06-fd4de59378fb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:20h2:*:*:*:*:*:x86:*",
+    "deprecation": {
+      "date": "2022-12-09T13:15:16.973-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_20h2:-:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

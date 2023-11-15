@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:libnbd:1.15.9",
+  "title": [
+    {
+      "text": "Red Hat Libnbd 1.15.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2023-5215"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2241041"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/libguestfs/libnbd/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:libnbd:1.15.9:*:*:*:*:*:*:*"
+  }
+}

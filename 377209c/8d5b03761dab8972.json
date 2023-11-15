@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ilia_alshanetsky:fudforum:2.7.1",
+  "deprecated": true,
+  "deprecation_date": "2019-11-13T18:49:59.247Z",
+  "title": [
+    {
+      "text": "Ilia Alshanetsky FUDForum 2.7.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://cvs.prohost.org/index.php/Category:Versions"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://fudforum.org/forum/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ilia_alshanetsky:fudforum:2.7.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-13T13:49:59.247-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:fudforum:fudforum:2.7.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

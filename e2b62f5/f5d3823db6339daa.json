@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:health:covidsafe:1.0.21::~~~android~~",
+  "title": [
+    {
+      "text": "Health COVIDSafe 1.0.21 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/AU-COVIDSafe/mobile-android"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/alwentiu/CVE-2020-14292"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:health:covidsafe:1.0.21:*:*:*:*:android:*:*"
+  }
+}

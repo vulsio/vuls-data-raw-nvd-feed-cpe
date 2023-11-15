@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:tracker-software:pdf-xchange:2.5.0189",
+  "deprecated": true,
+  "deprecation_date": "2018-10-23T16:32:38.010Z",
+  "title": [
+    {
+      "text": "Tracker-software PDF-XChange 2.5.0189",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product release notes",
+      "href": "http://www.tracker-software.com/PDFXV_history.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tracker-software:pdf-xchange:2.5.0189:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-23T12:32:38.010-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tracker-software:pdf-xchange_viewer:2.5.189.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

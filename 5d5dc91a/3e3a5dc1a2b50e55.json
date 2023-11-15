@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:nitrokey:fido_u2f_firmware:1.0",
+  "title": [
+    {
+      "text": "Nitrokey FIDO U2F FIRMWARE 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://eprint.iacr.org/2021/640.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nitrokey.com/news/2018/new-nitrokey-fido-u2f"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Nitrokey/nitrokey-fido-u2f-firmware/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:nitrokey:fido_u2f_firmware:1.0:*:*:*:*:*:*:*"
+  }
+}

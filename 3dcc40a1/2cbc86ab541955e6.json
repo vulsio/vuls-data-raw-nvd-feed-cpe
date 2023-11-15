@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:undertow:2.0.33:sp2",
+  "title": [
+    {
+      "text": "Red Hat Undertow 2.0.33 Service Pack 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/undertow-io/undertow/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1901304"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:undertow:2.0.33:sp2:*:*:*:*:*:*"
+  }
+}

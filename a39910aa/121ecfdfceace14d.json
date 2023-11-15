@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oracle:vm_server:3.4",
+  "title": [
+    {
+      "text": "Oracle VM Server 3.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.oracle.com/cd/E64076_01/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.oracle.com/technetwork/server-storage/vm/downloads/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.oracle.com/technetwork/topics/security/ovmbulletinjul2016-3090546.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:vm_server:3.4:*:*:*:*:*:*:*"
+  }
+}

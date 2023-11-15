@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:fnet_project:fnet:4.1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-10-12T18:31:08.720Z",
+  "title": [
+    {
+      "text": "FNET Project FNET 4.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/fnet/files/fnet/"
+    },
+    {
+      "text": "Project",
+      "href": "https://sourceforge.net/projects/fnet/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fnet_project:fnet:4.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-12T14:31:08.720-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:butok:fnet:4.1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:priority-software:priority:22.0",
+  "title": [
+    {
+      "text": "Priority-software Priority 22.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.priority-software.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23172.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/230703"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.gov.il/en/departments/faq/cve_advisories"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:priority-software:priority:22.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:quickjs_project:quickjs:2022-03-06",
+  "title": [
+    {
+      "text": "QuickJS Project QuickJS 2022-03-06",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bellard/quickjs/issues/178"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/bellard/quickjs/commit/2788d71e823b522b178db3b3660ce93689534e6d"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:quickjs_project:quickjs:2022-03-06:*:*:*:*:*:*:*"
+  }
+}

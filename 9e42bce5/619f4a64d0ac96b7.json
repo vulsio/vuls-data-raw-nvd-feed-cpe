@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_2000_terminal_services:-:sp2",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:59.947Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2000 Terminal Services Service Pack 2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_2000_terminal_services:-:sp2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:59.947-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:windows_2000_terminal_services:-:sp2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

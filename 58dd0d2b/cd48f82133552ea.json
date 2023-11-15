@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:konicaminolta:bizhub_c364_firmware:-",
+  "title": [
+    {
+      "text": "Konica Minolta bizhub C364 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kmbs.konicaminolta.us/kmbs/search?query=(fq:(%270%27:(key:category,tag:%27%27,transformer:%27fq:field%27,values:(%270%27:Products))),q:bizhub,rows:10,start:0,wt:json)"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.konicaminolta.us/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.konicaminolta.com/global/newsroom/topics/2021/1224-01-01.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:konicaminolta:bizhub_c364_firmware:-:*:*:*:*:*:*:*"
+  }
+}

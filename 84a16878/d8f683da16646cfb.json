@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:mobotix:mxcontrolcenter:-",
+  "title": [
+    {
+      "text": "MOBOTIX MxControlCenter (MxCC)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/PurplePetrus/MxCC_Credential-Storage_issue/blob/main/MxCC_improper_credential_storage"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.industrialnetworking.com/Manufacturers/MOBOTIX-Video-Management-Software/MOBOTIX-MXControlCenter-Software"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mobotix.com/sites/default/files/2017-10/Mx_ML_MxCC_en_20140429.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.mobotix.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mobotix:mxcontrolcenter:-:*:*:*:*:*:*:*"
+  }
+}

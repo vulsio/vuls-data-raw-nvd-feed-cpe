@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:splunk:nozzle:1.0.2::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "Splunk Nozzle 1.0.2 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pivotal.io/security/cve-2019-3800"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.pivotal.io/partners/splunk/release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:splunk:nozzle:1.0.2:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

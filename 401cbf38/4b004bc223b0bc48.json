@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:suricata-ids:suricata:5.1.0",
+  "title": [
+    {
+      "text": "Suricata-IDS Suricata 5.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://suricata.readthedocs.io/en/suricata-4.1.4/rule-management/suricata-update.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OISF/suricata/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://suricata-ids.org"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suricata-ids:suricata:5.1.0:*:*:*:*:*:*:*"
+  }
+}

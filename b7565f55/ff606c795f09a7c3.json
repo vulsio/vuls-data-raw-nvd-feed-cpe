@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:goldplugins:staff_directory_plugin:3.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Goldplugins Staff Directory Plugin 3.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://goldplugins.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-3/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/staff-directory-pro/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:goldplugins:staff_directory_plugin:3.2:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:pvmg:reservation.studio:1.0.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ProVision Media Group Reservation.Studio 1.0.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://pvmg.co/"
+    },
+    {
+      "text": "Product",
+      "href": "https://reservation.studio/bg/home"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/reservation-studio-widget/wordpress-reservation-studio-widget-plugin-1-0-9-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/reservation-studio-widget/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pvmg:reservation.studio:1.0.3:*:*:*:*:wordpress:*:*"
+  }
+}

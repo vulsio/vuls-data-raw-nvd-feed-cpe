@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:opensuse_project:opensuse:12.1",
+  "deprecated": true,
+  "deprecation_date": "2018-01-25T17:20:52.467Z",
+  "title": [
+    {
+      "text": "OpenSUSE Project OpenSUSE 12.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.opensuse.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://lists.opensuse.org/opensuse-security-announce/2012-08/msg00009.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:opensuse_project:opensuse:12.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-25T12:20:52.467-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:opensuse:opensuse:12.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

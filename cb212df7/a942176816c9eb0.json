@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:libcaca_project:libcaca:-",
+  "title": [
+    {
+      "text": "Libcaca Project Libcaca",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/cacalabs/libcaca"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cacalabs/libcaca/issues/53"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1948675"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libcaca_project:libcaca:-:*:*:*:*:*:*:*"
+  }
+}

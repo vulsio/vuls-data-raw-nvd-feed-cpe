@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:springsource:spring_framework:3.2.4",
+  "deprecated": true,
+  "deprecation_date": "2022-04-11T17:36:08.277Z",
+  "title": [
+    {
+      "text": "SpringSource Spring Framework 3.2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "release information",
+      "href": "http://docs.spring.io/spring/docs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:springsource:spring_framework:3.2.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-11T13:36:08.277-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:spring_framework:3.2.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

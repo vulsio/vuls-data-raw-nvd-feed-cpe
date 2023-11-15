@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:illumina:iseq_100:-",
+  "title": [
+    {
+      "text": "Illumina iSeq 100",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.illumina.com/systems/sequencing-platforms/iseq.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.illumina.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-22-153-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:illumina:iseq_100:-:*:*:*:*:*:*:*"
+  }
+}

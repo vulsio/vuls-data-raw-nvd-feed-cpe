@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:typo3:typo3:10.0.9",
+  "title": [
+    {
+      "text": "TYPO3 10.0.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://typo3.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://get.typo3.org/release-notes/11"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/benjaminkott/bootstrap_package/security/advisories/GHSA-p48w-vf3c-rqjx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://typo3.org/security/advisory/typo3-ext-sa-2021-007"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:typo3:typo3:10.0.9:*:*:*:*:*:*:*"
+  }
+}

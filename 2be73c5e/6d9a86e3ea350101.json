@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:squid-cache:squid:5.4",
+  "title": [
+    {
+      "text": "squid-cache Squid 5.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.squid-cache.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/squid-cache/squid/security/advisories/GHSA-73m6-jm96-c6r3"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/squid-cache/squid/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:squid-cache:squid:5.4:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:cisco:isr1100-lte:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-23T13:55:45.550Z",
+  "title": [
+    {
+      "text": "Cisco ISR1100-LTE",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/routers/1000-series-integrated-services-routers-isr/index.html#~products"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort_filepolbypass-m4X5DgOP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:isr1100-lte:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-23T09:55:45.550-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:cisco:1100-lte_integrated_services_router:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

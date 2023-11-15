@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:baidu:baidunetdisk:-",
+  "title": [
+    {
+      "text": "Baidu Baidunetdisk -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://pan.baidu.com/download#win"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/shigophilo/CVE/blob/main/Baidunetdisk%20Version%207.4.3%20dll%20hijack.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:baidu:baidunetdisk:-:*:*:*:*:*:*:*"
+  }
+}

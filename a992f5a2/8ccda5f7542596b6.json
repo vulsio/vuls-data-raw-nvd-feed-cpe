@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sraoss:pg_ivm:1.5::~~~postgresql~~",
+  "title": [
+    {
+      "text": "Sraoss Pg Ivm 1.5 for PostgreSQL",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.sraoss.co.jp/index_en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sraoss/pg_ivm/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/jp/JVN19872280/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sraoss:pg_ivm:1.5:*:*:*:*:postgresql:*:*"
+  }
+}

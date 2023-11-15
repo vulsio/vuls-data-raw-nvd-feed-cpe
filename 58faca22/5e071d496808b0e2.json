@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wordpress:requests:1.6.1",
+  "title": [
+    {
+      "text": "WordPress Requests 1.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/WordPress/Requests/security/advisories/GHSA-52qp-jpq7-6c54"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/WordPress/Requests/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wordpress:requests:1.6.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:sockjs_project:sockjs:1.0.0:beta.7",
+  "deprecated": true,
+  "deprecation_date": "2020-07-14T15:01:10.583Z",
+  "title": [
+    {
+      "text": "SockJS Project SockJS 1.0.0 Beta.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sockjs/sockjs-client/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sockjs_project:sockjs:1.0.0:beta.7:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-14T11:01:10.583-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sockjs_project:sockjs:1.0.0:beta7:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

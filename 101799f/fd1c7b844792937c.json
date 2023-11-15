@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:ipdgroup:newsplugin:1.0.18::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Internet Product Development Group NewsPlugin 1.0.18 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.ipdgroup.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.newsplugin.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/newsplugin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34631"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ipdgroup:newsplugin:1.0.18:*:*:*:*:wordpress:*:*"
+  }
+}

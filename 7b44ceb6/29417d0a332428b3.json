@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:avast:free_antivirus:11.1.2260",
+  "title": [
+    {
+      "text": "Avast Free Antivirus 11.1.2260",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://labs.nettitude.com/blog/escaping-avast-sandbox-using-single-ioctl-cve-2016-4025/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.avast.com/en-us/index"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:avast:free_antivirus:11.1.2260:*:*:*:*:*:*:*"
+  }
+}

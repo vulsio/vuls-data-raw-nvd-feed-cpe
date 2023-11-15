@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:outsidesource:osd_subscribe:1.2.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Outside Source OSD Subscribe 1.2.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-38351"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/osd-subscribe/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.outsidesource.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:outsidesource:osd_subscribe:1.2.3:*:*:*:*:wordpress:*:*"
+  }
+}

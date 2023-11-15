@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:nx-os:6.0%282%29n2%287%29::~~~nexus_6000_series~~",
+  "deprecated": true,
+  "deprecation_date": "2022-04-05T18:55:00.453Z",
+  "title": [
+    {
+      "text": "Cisco NX-OS 6.0(2)n2(7) for Nexus 6000 Series",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:nx-os:6.0\\(2\\)n2\\(7\\):*:*:*:*:nexus_6000_series:*:*",
+    "deprecation": {
+      "date": "2022-04-05T14:55:00.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:nx-os:6.0\\(2\\)n2\\(7\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

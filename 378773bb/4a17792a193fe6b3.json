@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:glance_project:glance:-::~~~-~~",
+  "title": [
+    {
+      "text": "glance Project glance",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/nlpweb/glance"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nlpweb/glance/issues/7"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31546.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:glance_project:glance:-:*:*:*:*:-:*:*"
+  }
+}

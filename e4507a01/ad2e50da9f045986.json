@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:golang:go:1.17.0",
+  "deprecated": true,
+  "deprecation_date": "2022-03-10T16:54:47.900Z",
+  "title": [
+    {
+      "text": "Golang Go 1.17.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/golang/go/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://golang.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://groups.google.com/g/golang-announce"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:golang:go:1.17.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-10T11:54:47.900-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:golang:go:1.17:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

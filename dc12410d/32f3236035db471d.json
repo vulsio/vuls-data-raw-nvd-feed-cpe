@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:squaredup:squaredup:5.3.1::~~azure~~~",
+  "title": [
+    {
+      "text": "SquaredUp 5.3.1 Azure Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.squaredup.com/hc/en-us/articles/4406754117521-Release-Notes-for-SquaredUp-for-SCOM"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:squaredup:squaredup:5.3.1:*:*:*:azure:*:*:*"
+  }
+}

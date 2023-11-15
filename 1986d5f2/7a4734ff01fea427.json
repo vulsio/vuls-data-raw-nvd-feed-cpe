@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:keycloak:18.0.0",
+  "title": [
+    {
+      "text": "Red Hat Keycloak 18.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.keycloak.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/keycloak/keycloak/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/keycloak/keycloak/security/advisories/GHSA-75p6-52g3-rqc8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:keycloak:18.0.0:*:*:*:*:*:*:*"
+  }
+}

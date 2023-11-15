@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:splashtop:splashtop:-::~~personal~~~",
+  "title": [
+    {
+      "text": "Splashtop Personal Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.splashtop.com/downloads#pers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.splashtop.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0006/MNDT-2022-0006.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:splashtop:splashtop:-:*:*:*:personal:*:*:*"
+  }
+}

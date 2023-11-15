@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:tp-link:tl-wrd741nd_%285.0%29_firmware:141217",
+  "deprecated": true,
+  "deprecation_date": "2015-07-08T15:06:54.350Z",
+  "title": [
+    {
+      "text": "TP-LINK TL-WRD741ND (5.0) Firmware 141217",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Website",
+      "href": "http://www.tp-link.com/en/download/TL-WR741ND_V5.html#Firmware"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tp-link:tl-wrd741nd_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-07-08T11:06:54.350-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:tp-link:tl-wr741nd_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

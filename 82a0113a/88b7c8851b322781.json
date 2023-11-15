@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:turboscript:1.2::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Turboscript 1.2 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-04-12/#SECURITY-2851"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/spoonscript/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:turboscript:1.2:*:*:*:*:jenkins:*:*"
+  }
+}

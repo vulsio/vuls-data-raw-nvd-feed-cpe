@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:symantec:critical_system_protection:8.0",
+  "deprecated": true,
+  "deprecation_date": "2021-08-04T18:55:58.917Z",
+  "title": [
+    {
+      "text": "Symantec Critical System Protection 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.symantec.com/us/en/article.SYMSA1498.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://help.symantec.com/cs/SESCSP_HELP/SESCSP/v128021871_v121007334/What's-new-in-Symantec-Critical-System-Protection-8.0.0?locale=EN_US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symantec:critical_system_protection:8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-04T14:55:58.917-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:symantec_critical_system_protection:8.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

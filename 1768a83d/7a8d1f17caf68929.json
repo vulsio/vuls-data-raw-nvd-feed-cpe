@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:emc:rsa_authentication_manager:8.4:patch2",
+  "deprecated": true,
+  "deprecation_date": "2020-04-01T16:40:33.703Z",
+  "title": [
+    {
+      "text": "EMC RSA Authentication Manager 8.4 Patch 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.rsa.com/en-us/products/rsa-securid-suite/rsa-securid-access/authentication-manager"
+    },
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/docs/DOC-60102#February"
+    },
+    {
+      "text": "Product",
+      "href": "https://community.rsa.com/docs/DOC-101122"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/security/en-us/details/DOC-109297/DSA-2019-168-RSA&#174;-Authentication-Manager-Software-Stored-Cross-Site-Scripting-Vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-01T12:40:33.703-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:p2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

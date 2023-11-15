@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:advanced_cluster_security:3.69::~~~kubernates~~",
+  "title": [
+    {
+      "text": "Red Hat Advanced Cluster Security 3.69 for Kubernates",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2022-1902"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/stackrox/stackrox/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:advanced_cluster_security:3.69:*:*:*:*:kubernates:*:*"
+  }
+}

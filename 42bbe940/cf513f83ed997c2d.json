@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:pion:dtls:2.1.4",
+  "title": [
+    {
+      "text": "Pion DTLS 2.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pion/dtls/security/advisories/GHSA-w45j-f832-hxvh"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/pion/dtls/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pion:dtls:2.1.4:*:*:*:*:*:*:*"
+  }
+}

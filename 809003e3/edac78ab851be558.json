@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kleopatra_project:kleopatra:17.08.0::~~~gnupg~~",
+  "title": [
+    {
+      "text": "Kleopatra Project Kleopatra 17.08.0 for GnuPG",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.gentoo.org/glsa/202008-21"
+    },
+    {
+      "text": "Version",
+      "href": "https://dev.gnupg.org/source/kleo/tags/master/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kleopatra_project:kleopatra:17.08.0:*:*:*:*:gnupg:*:*"
+  }
+}

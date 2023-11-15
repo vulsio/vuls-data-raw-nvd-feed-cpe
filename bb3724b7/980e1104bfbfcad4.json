@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:trendmicro:antivirus:9.0.1379::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:35:29.327Z",
+  "title": [
+    {
+      "text": "Trend Micro Antivirus 9.0.1379 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://esupport.trendmicro.com/en-us/home/pages/technical-support/1124055.aspx"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.trendmicro.com/en_us/forHome/products/antivirus-for-mac.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trendmicro:antivirus:9.0.1379:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:35:29.327-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trendmicro:antivirus:9.0.1379:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

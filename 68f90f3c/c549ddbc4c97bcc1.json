@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:canon:pixma_tr150_firmware:-",
+  "title": [
+    {
+      "text": "Canon PIXMA TR150",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://shop.usa.canon.com/shop/en/catalog/pixma-tr150"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_03.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:canon:pixma_tr150_firmware:-:*:*:*:*:*:*:*"
+  }
+}

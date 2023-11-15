@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:online_banquet_booking_system_project:online_banquet_booking_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-10-04T17:35:33.953Z",
+  "title": [
+    {
+      "text": "Online Banquet Booking System Project Online Banquet Booking System 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://phpgurukul.com/online-banquet-booking-system-using-php-and-mysql/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:online_banquet_booking_system_project:online_banquet_booking_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-04T13:35:33.953-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:online_banquet_booking_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

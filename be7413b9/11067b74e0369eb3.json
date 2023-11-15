@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x5677",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T20:29:07.843Z",
+  "title": [
+    {
+      "text": "Intel Xeon X5677",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x5677:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T16:29:07.843-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon:x5677:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

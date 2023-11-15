@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:w3670:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:54.780Z",
+  "title": [
+    {
+      "text": "Intel Xeon W3670",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:w3670:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:54.780-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_w3670:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

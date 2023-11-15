@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:evm_project:evm:0.19.0::~~~rust~~",
+  "title": [
+    {
+      "text": "EVM Project EVM 0.19.0 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/evm/versions"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rust-blockchain/evm/security/advisories/GHSA-4jwq-572w-4388"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:evm_project:evm:0.19.0:*:*:*:*:rust:*:*"
+  }
+}

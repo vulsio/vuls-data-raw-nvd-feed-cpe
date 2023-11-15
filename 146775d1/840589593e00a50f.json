@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lws:lws_tools:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "LWS Tools 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/lws-tools/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/lws-tools/wordpress-lws-tools-plugin-2-4-1-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lws:lws_tools:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

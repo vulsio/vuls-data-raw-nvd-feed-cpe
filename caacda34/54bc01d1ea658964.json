@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cloudflare:warp:-::~~~android~~",
+  "title": [
+    {
+      "text": "Cloudflare WARP for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cloudflare/advisories/security/advisories/GHSA-23rx-f69w-g75c"
+    },
+    {
+      "text": "Product",
+      "href": "https://developers.cloudflare.com/warp-client/get-started/android/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudflare:warp:-:*:*:*:*:android:*:*"
+  }
+}

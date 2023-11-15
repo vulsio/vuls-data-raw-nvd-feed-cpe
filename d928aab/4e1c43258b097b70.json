@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:calendar:3.0.2",
+  "title": [
+    {
+      "text": "Nextcloud Calendar 3.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/calendar/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8xv5-4855-24qf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:calendar:3.0.2:*:*:*:*:*:*:*"
+  }
+}

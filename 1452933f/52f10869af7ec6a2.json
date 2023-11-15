@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:samsung:text-to-speech:3.0.00.89::~~~android~~",
+  "title": [
+    {
+      "text": "Samsung Text-to-speech (TTS) 3.0.00.89 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/154614/Samsung-Mobile-Android-SamsungTTS-Privilege-Escalation.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://galaxystore.samsung.com/detail/com.samsung.SMT?session_id=W_106bcae481122d4d18f544839fadc13e"
+    },
+    {
+      "text": "Version",
+      "href": "https://samsung-text-to-speech-engine.en.aptoide.com/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samsung:text-to-speech:3.0.00.89:*:*:*:*:android:*:*"
+  }
+}

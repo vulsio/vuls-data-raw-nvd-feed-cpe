@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:simpleledger:slpjs:0.16.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Simple Ledger slpjs 0.16.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/simpleledger/slpjs/security/advisories/GHSA-425c-ccf3-3jrr"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/simpleledger/slpjs/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simpleledger:slpjs:0.16.3:*:*:*:*:node.js:*:*"
+  }
+}

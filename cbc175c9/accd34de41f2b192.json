@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:dexie:dexie:3.0.0:alpha1:~~~node.js~~",
+  "title": [
+    {
+      "text": "Dexie Dexie 3.0.0 Alpha 1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://dexie.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/dexie"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dexie/Dexie.js/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-DEXIE-2607042"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dexie:dexie:3.0.0:alpha1:*:*:*:node.js:*:*"
+  }
+}

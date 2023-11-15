@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:telaxus:epesi:1.8.1.1",
+  "deprecated": true,
+  "deprecation_date": "2020-12-03T16:17:48.403Z",
+  "title": [
+    {
+      "text": "Telaxus EPESI 1.8.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/Telaxus/EPESI"
+    },
+    {
+      "text": "Product",
+      "href": "http://epe.si/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.telaxus.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:telaxus:epesi:1.8.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-03T11:17:48.403-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:epesi:epesi:1.8.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:netty_project:netty:3.9.4",
+  "deprecated": true,
+  "deprecation_date": "2019-09-30T11:44:14.543Z",
+  "title": [
+    {
+      "text": "Netty Project Netty 3.9.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/netty/netty/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netty_project:netty:3.9.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-30T07:44:14.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:netty:netty:3.9.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

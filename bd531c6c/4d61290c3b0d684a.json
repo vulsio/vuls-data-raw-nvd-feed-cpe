@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:browserless:chrome:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Browserless Chrome for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.browserless.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-BROWSERLESSCHROME-1023657"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/browserless-chrome"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:browserless:chrome:-:*:*:*:*:node.js:*:*"
+  }
+}

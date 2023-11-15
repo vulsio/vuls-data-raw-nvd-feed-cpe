@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:cybertrust:miracle_linux:7",
+  "deprecated": true,
+  "deprecation_date": "2021-06-15T13:48:39.530Z",
+  "title": [
+    {
+      "text": "Cybertrust MIRACLE LINUX 7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cybertrust.co.jp/miracle-linux/8/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cybertrust:miracle_linux:7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-15T09:48:39.530-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cybertrust_japan:miracle_linux:7:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

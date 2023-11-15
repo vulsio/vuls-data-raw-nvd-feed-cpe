@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:medhost:connex:-",
+  "title": [
+    {
+      "text": "MEDHOST Connex",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://seclists.org/fulldisclosure/2017/Jul/59"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.medhost.com/wp-content/uploads/2017/09/medhost-edis-2015-r1-sr4-mandatory-disclosure.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.medhost.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:medhost:connex:-:*:*:*:*:*:*:*"
+  }
+}

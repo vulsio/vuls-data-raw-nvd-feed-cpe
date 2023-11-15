@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:redhat:jboss_data_virtualization:6.0.0",
+  "deprecated": true,
+  "deprecation_date": "2020-03-31T12:17:11.240Z",
+  "title": [
+    {
+      "text": "Redhat JBoss Data Virtualization 6.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Advisory",
+      "href": "https://rhn.redhat.com/errata/RHSA-2015-0034.html"
+    },
+    {
+      "text": "Product Information",
+      "href": "http://www.jboss.org/products/datavirt/overview/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:jboss_data_virtualization:6.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-31T08:17:11.240-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:jboss_data_virtualization:6.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

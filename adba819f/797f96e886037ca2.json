@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:se:modicon_m218_firmware:4.3",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:52:26.683Z",
+  "title": [
+    {
+      "text": "Schneider Electric Modicon M218 Firmware 4.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-161-01-Modicon_M218_Logic_Controller_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-161-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Name=Programming+Guide_EN.pdf&p_Doc_Ref=User+Guide_EN_M218"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:se:modicon_m218_firmware:4.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:52:26.683-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:schneider-electric:modicon_m218_firmware:4.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

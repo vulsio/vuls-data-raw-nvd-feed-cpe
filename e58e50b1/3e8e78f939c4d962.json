@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:apache:xerces-c:3.2.2",
+  "deprecated": true,
+  "deprecation_date": "2023-02-05T21:10:01.860Z",
+  "title": [
+    {
+      "text": "Apache Xerces-C 3.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://xerces.apache.org/xerces-c/releases_archive.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.apache.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://marc.info/?l=xerces-c-users&m=157653840106914&w=2"
+    },
+    {
+      "text": "Version",
+      "href": "https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12342890&styleName=Text&projectId=10510"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:xerces-c:3.2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-02-05T16:10:01.860-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:xerces-c\\+\\+:3.2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

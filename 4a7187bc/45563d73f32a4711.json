@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mirantis:lens:0.1",
+  "title": [
+    {
+      "text": "Mirantis Lens 0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mirantis.com/software/lens/"
+    },
+    {
+      "text": "Product",
+      "href": "https://k8slens.dev/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/lensapp/lens/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mirantis:lens:0.1:*:*:*:*:*:*:*"
+  }
+}

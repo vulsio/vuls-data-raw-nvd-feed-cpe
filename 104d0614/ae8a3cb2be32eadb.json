@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:f-secure:email_and_server_security:-::~~~linux_kernel~~",
+  "title": [
+    {
+      "text": "F-Secure Email and Server Security for Linux Kernel",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.f-secure.com/en/business/products/endpoint-protection/business-suite/email-and-server-security"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2020/Feb/33"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f-secure:email_and_server_security:-:*:*:*:*:linux_kernel:*:*"
+  }
+}

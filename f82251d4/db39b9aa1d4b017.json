@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hapifhir:testpage_overlay:5.0.0",
+  "title": [
+    {
+      "text": "HAPI FHIR Testpage Overlay 5.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/jamesagnew/hapi-fhir/issues/2026"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://hapifhir.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://hapifhir.io/hapi-fhir/docs/server_plain/web_testpage_overlay.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hapifhir:testpage_overlay:5.0.0:*:*:*:*:*:*:*"
+  }
+}

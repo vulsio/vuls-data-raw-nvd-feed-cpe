@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:3dprint_project:3dprint:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "3dprint Project 3dprint - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/859c6e7e-2381-4d93-a526-2000b4fb8fee"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jetpack.com/blog/vulnerabilities-found-in-the-3dprint-premium-plugin/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:3dprint_project:3dprint:-:*:*:*:*:wordpress:*:*"
+  }
+}

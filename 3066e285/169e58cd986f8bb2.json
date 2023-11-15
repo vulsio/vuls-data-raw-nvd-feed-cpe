@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vm-memory_project:vm-memory:0.3.0::~~~rust~~",
+  "title": [
+    {
+      "text": "Vm-memory Project Vm-memory 0.3.0 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rust-vmm/vm-memory/security/advisories/GHSA-49hh-fprx-m68g"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rust-vmm/vm-memory/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vm-memory_project:vm-memory:0.3.0:*:*:*:*:rust:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:xrdp:xrdp:0.8.0",
+  "deprecated": true,
+  "deprecation_date": "2020-07-08T15:50:10.603Z",
+  "title": [
+    {
+      "text": "xrdp 0.8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/neutrinolabs/xrdp/tree/master"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:xrdp:xrdp:0.8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-08T11:50:10.603-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:neutrinolabs:xrdp:0.8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:openssh:openssh:-",
+  "deprecated": true,
+  "deprecation_date": "2011-06-22T18:30:32.857Z",
+  "title": [
+    {
+      "text": "OpenBSD OpenSSH",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openssh:openssh:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-06-22T14:30:32.857-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openbsd:openssh:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:openfeature:-::~~~kubernetes~~",
+  "title": [
+    {
+      "text": "The Linux Foundation OpenFeature for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://openfeature.dev/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/open-feature/open-feature-operator/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/open-feature/open-feature-operator/security/advisories/GHSA-cwf6-xj49-wp83"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:openfeature:-:*:*:*:*:kubernetes:*:*"
+  }
+}

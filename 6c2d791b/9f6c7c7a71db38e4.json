@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:telegram:telegram:9.6.3::~~~macos~~",
+  "title": [
+    {
+      "text": "Telegram 9.6.3 for MacOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://telegram.org/apps"
+    },
+    {
+      "text": "Product",
+      "href": "https://macos.telegram.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:telegram:telegram:9.6.3:*:*:*:*:macos:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dir-645_firmware:1.04:b11",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DIR-645 firmware 1.05B11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "DIR-645 - Multiple Security Vulnerabilities: Buffer Overflow and Cross-site (XSS) Scripting - Firmware 1.03B08 and lower",
+      "href": "http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10008"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dir-645_firmware:1.04:b11:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dir-645_firmware:1.04:b11:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

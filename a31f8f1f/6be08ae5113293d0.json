@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dsr-1000n_firmware:1.08b51",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DSR 1000N Firmware 1.08b51",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "D-Link DSR 500/500N/1000/1000N model and firmware release notes",
+      "href": "http://tsd.dlink.com.tw/temp/PMD/12879/DSR-500_500N_1000_1000N_A1_Release_Notes_FW_v1.08B77_WW.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dsr-1000n_firmware:1.08b51:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dsr-1000n_firmware:1.08b51:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

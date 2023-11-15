@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:kubeclient:3.1.1::~~~ruby~~",
+  "title": [
+    {
+      "text": "Red Hat Kubeclient 3.1.1 for Ruby",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ManageIQ/kubeclient/issues/554"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/ManageIQ/kubeclient/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:kubeclient:3.1.1:*:*:*:*:ruby:*:*"
+  }
+}

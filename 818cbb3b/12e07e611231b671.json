@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:202-ecommerce:administrative_mandate:1.7.1::~~~prestashop~~",
+  "title": [
+    {
+      "text": "202 ecommerce Administrative Mandate 1.7.1 for PrestaShop",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/202ecommerce/security-advisories/security/advisories/GHSA-hg7m-23j3-rf56"
+    },
+    {
+      "text": "Product",
+      "href": "https://addons.prestashop.com/en/bank-transfer-payment/6297-administrative-mandate.html#overview"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.202-ecommerce.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:202-ecommerce:administrative_mandate:1.7.1:*:*:*:*:prestashop:*:*"
+  }
+}

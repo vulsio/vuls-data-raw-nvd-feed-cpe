@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dir-816l_firmware:2.05.b02",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DIR-816L Firmware 2.05.B02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product Information",
+      "href": "http://support.dlink.com/ProductInfo.aspx?m=DIR-816L"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dir-816l_firmware:2.05.b02:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dir-816l_firmware:2.05.b02:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

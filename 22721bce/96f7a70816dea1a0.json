@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:eclipse:jetty:10.0.16",
+  "title": [
+    {
+      "text": "Eclipse Jetty 10.0.16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-hmr7-m48g-48f6"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/eclipse/jetty.project/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:jetty:10.0.16:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:rockwellautomation:1756_enbt:-",
+  "deprecated": true,
+  "deprecation_date": "2022-05-02T19:19:54.110Z",
+  "title": [
+    {
+      "text": "Rockwellautomation 1756 Enbt",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ab.rockwellautomation.com/IO/Chassis-Based/1756-ControlLogix-IO#selection"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:rockwellautomation:1756_enbt:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-02T15:19:54.110-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:rockwellautomation:1756-enbt:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:bosch:dip_5000:-",
+  "title": [
+    {
+      "text": "Bosch DIP 5000",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://resources-boschsecurity-cdn.azureedge.net/public/documents/DS_DIP_5000_Data_sheet_enUS_22335876235.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0404bt-cve-2019-6958_security_advisory_improper_access_control.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:bosch:dip_5000:-:*:*:*:*:*:*:*"
+  }
+}

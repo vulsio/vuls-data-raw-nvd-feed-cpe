@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:asosegitim:sobiad:-",
+  "title": [
+    {
+      "text": "Asosegitim SOBIAD",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.usom.gov.tr/bildirim/tr-23-0125"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/0xxx/CVE-2023-0577.json"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.asosegitim.com/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.asosegitim.com/?mod=urun_detay&urun=sobiad"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:asosegitim:sobiad:-:*:*:*:*:*:*:*"
+  }
+}

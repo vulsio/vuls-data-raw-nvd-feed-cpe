@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitsome_project:gitsome:0.2.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "Gitsome Project Gitsome 0.2.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://advisory.checkmarx.net/advisory/CX-2021-4780/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/gitsome"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitsome_project:gitsome:0.2.3:*:*:*:*:node.js:*:*"
+  }
+}

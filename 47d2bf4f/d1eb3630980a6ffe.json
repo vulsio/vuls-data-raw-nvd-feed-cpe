@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:schneider_electric:wonderware_archestra_logger:2017.426.2307.1",
+  "deprecated": true,
+  "deprecation_date": "2021-06-07T15:59:02.573Z",
+  "title": [
+    {
+      "text": "Schneider Electric Wonderware ArchestrA Logger 2017.426.2307.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sw.aveva.com/hubfs/pdf/security-bulletin/LFSec00000116.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.schneider-electric.com/ww/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider_electric:wonderware_archestra_logger:2017.426.2307.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-07T11:59:02.573-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:wonderware_archestra_logger:2017.426.2307.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:facebook:fizz:2022.09.05.00",
+  "title": [
+    {
+      "text": "Facebook Fizz 2022.09.05.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.facebook.com/security/advisories/cve-2023-23759"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/facebookincubator/fizz/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:facebook:fizz:2022.09.05.00:*:*:*:*:*:*:*"
+  }
+}

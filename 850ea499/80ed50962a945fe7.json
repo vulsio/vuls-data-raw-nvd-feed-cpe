@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wmpudev:defender_security:2.5.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WPMU DEV Defender Security 2.5.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-1/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/defender-security/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wpmudev.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wmpudev:defender_security:2.5.0:*:*:*:*:wordpress:*:*"
+  }
+}

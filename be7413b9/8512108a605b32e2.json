@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:ec5539",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T20:29:02.657Z",
+  "title": [
+    {
+      "text": "Intel Xeon EC5539",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:ec5539:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T16:29:02.657-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon:ec5539:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

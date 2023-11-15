@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:hub_project:hub:1.12.0",
+  "deprecated": true,
+  "deprecation_date": "2023-06-05T14:24:03.980Z",
+  "title": [
+    {
+      "text": "hub project hub 1.12.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "project information",
+      "href": "http://hub.github.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hub_project:hub:1.12.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-06-05T10:24:03.980-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:github:hub:1.12.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

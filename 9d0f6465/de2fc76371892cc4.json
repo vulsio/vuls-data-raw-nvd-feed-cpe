@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:watchguard:panda_antivirus:18.0::~~free~~~",
+  "title": [
+    {
+      "text": "WatchGuard Panda Antivirus 18.0 Free Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/41945"
+    },
+    {
+      "text": "Version",
+      "href": "https://softradar.com/panda-free-antivirus/18.0.0/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.pandasecurity.com/en/homeusers/free-antivirus/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.watchguard.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:watchguard:panda_antivirus:18.0:*:*:*:free:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:alfresco:alfresco:5.2.7::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Alfresco 5.2.7 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/48162"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.alfresco.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/snippets/1937042"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alfresco:alfresco:5.2.7:*:*:*:enterprise:*:*:*"
+  }
+}

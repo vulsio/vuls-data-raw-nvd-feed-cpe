@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:unzip_project:unzip:1.0.3-0.20200308084313-2adbaa4891b9::~~~go~~",
+  "title": [
+    {
+      "text": "Unzip Project Unzip 1.0.3-0.20200308084313-2adbaa4891b9 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/yi-ge/unzip/pull/1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0035"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:unzip_project:unzip:1.0.3-0.20200308084313-2adbaa4891b9:*:*:*:*:go:*:*"
+  }
+}

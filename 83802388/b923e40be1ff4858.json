@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:redhat:directory_server:7.1",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:11:02.493Z",
+  "title": [
+    {
+      "text": "Red Hat Directory Server 7.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:directory_server:7.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:11:02.493-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:directory_server:7.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

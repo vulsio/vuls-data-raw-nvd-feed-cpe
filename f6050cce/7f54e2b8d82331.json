@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:paloaltonetworks:globalprotect:5.0.9::~~~windows~~",
+  "title": [
+    {
+      "text": "Palo Alto Networks GlobalProtect 5.0.9 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.paloaltonetworks.com/CVE-2020-2004"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.paloaltonetworks.com/globalprotect/5-0/globalprotect-app-release-notes.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.paloaltonetworks.com/globalprotect/4-0/globalprotect-agent-user-guide/globalprotect-agent-for-windows"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:globalprotect:5.0.9:*:*:*:*:windows:*:*"
+  }
+}

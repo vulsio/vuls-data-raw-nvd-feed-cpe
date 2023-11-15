@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linecorp:line:10.16.3::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Linecorp Line 10.16.3 for iphone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/us/app/line/id443904275"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/988332"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/36xxx/CVE-2021-36214.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linecorp:line:10.16.3:*:*:*:*:iphone_os:*:*"
+  }
+}

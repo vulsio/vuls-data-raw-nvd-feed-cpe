@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:arm:trusted_firmware_m_firmware:-",
+  "title": [
+    {
+      "text": "ARM Trusted Firmware M Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://git.trustedfirmware.org/TF-M/trusted-firmware-m.git/tree/docs/security/security_advisories/svc_caller_sp_fetching_vulnerability.rst"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202569"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.arm.com/tools-and-software/open-source-software/firmware/trusted-firmware/trusted-firmware-m"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:arm:trusted_firmware_m_firmware:-:*:*:*:*:*:*:*"
+  }
+}

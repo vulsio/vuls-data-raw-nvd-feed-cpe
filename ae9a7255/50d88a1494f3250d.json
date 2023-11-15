@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:d-link:dir-867:-",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T18:55:28.543Z",
+  "title": [
+    {
+      "text": "D-Link DIR-867",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.dlink.com/ProductInfo.aspx?m=DIR-867-US"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.zerodayinitiative.com/advisories/ZDI-20-881/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:d-link:dir-867:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T14:55:28.543-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:dlink:dir-867:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:gehealthcare:brightspeed_elite_select_firmware:-",
+  "title": [
+    {
+      "text": "GE Healthcare BrightSpeed Elite Select Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.gehealthcare.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.medwrench.com/equipment/1711/ge-healthcare-brightspeed-series"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:gehealthcare:brightspeed_elite_select_firmware:-:*:*:*:*:*:*:*"
+  }
+}

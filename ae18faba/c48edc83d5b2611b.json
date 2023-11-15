@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:matrix:matrix-appservice-bridge:1.8.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Matrix matrix-appservice-bridge 1.8.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/matrix-appservice-bridge"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/matrix-org/matrix-appservice-bridge/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/matrix-org/matrix-appservice-bridge/security/advisories/GHSA-35g4-qx3c-vjhx"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.matrix.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matrix:matrix-appservice-bridge:1.8.1:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redis:redis:7.0.13",
+  "title": [
+    {
+      "text": "Redis 7.0.13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/redis/redis/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/redis/redis"
+    },
+    {
+      "text": "Product",
+      "href": "https://redis.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redis:redis:7.0.13:*:*:*:*:*:*:*"
+  }
+}

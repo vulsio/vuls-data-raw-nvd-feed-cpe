@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:proxy_project:proxy:2.0.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Proxy Project Proxy 2.0.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://research.jfrog.com/vulnerabilities/undefined-variable-usage-in-proxy-leads-to-remote-denial-of-service-xray-520917/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/proxy?activeTab=versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:proxy_project:proxy:2.0.0:*:*:*:*:node.js:*:*"
+  }
+}

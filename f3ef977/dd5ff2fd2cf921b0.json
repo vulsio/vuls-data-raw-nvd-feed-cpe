@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:archercoin_project:archercoin:-",
+  "title": [
+    {
+      "text": "archercoin Project archercoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x3fcf78f7646f85ceb9344c5ba5a05a0e31a462af#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:archercoin_project:archercoin:-:*:*:*:*:*:*:*"
+  }
+}

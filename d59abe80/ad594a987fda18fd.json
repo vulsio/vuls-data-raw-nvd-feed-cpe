@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:jeff_kreitner:hms-testimonials:2.0.8::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2020-02-03T18:39:33.227Z",
+  "title": [
+    {
+      "text": "Jeff Kreitner HMS-Testimoninals plugin for WordPress 2.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor name",
+      "href": "http://profiles.wordpress.org/kreitje/"
+    },
+    {
+      "text": "version information",
+      "href": "http://wordpress.org/plugins/hms-testimonials/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jeff_kreitner:hms-testimonials:2.0.8:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2020-02-03T13:39:33.227-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hitmyserver:hms_testimonials:2.0.8:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

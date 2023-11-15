@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nvidia:virtual_gpu:13.6",
+  "title": [
+    {
+      "text": "NVIDIA Virtual GPU (vGPU) 13.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.nvidia.com/en-us/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.nvidia.com/grid/get-grid-version.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5415"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:virtual_gpu:13.6:*:*:*:*:*:*:*"
+  }
+}

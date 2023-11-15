@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:ansible_automation_platform:2.0",
+  "title": [
+    {
+      "text": "Red Hat Ansible Automation Platform 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.redhat.com/en/technologies/management/ansible"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2022-2568"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:ansible_automation_platform:2.0:*:*:*:*:*:*:*"
+  }
+}

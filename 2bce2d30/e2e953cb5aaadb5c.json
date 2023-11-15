@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10_21h2:10.0.19045.3087::~~~~x64~",
+  "deprecated": true,
+  "deprecation_date": "2023-10-19T19:24:30.947Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 21h2 10.0.19045.3087 on x64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24938"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19045.3087:*:*:*:*:*:x64:*",
+    "deprecation": {
+      "date": "2023-10-19T15:24:30.947-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.3086:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

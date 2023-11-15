@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:bitcoin:bitcoind:0.6.0:rc1",
+  "deprecated": true,
+  "deprecation_date": "2020-03-18T17:37:57.400Z",
+  "title": [
+    {
+      "text": "bitcoin bitcoind 0.6.0 release candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bitcoin:bitcoind:0.6.0:rc1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-18T13:37:57.400-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0:rc1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

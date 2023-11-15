@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mongodb:mongodb:0.6.7::~~~visual_studio_code~~",
+  "title": [
+    {
+      "text": "MongoDB 0.6.7 for Visual Studio Code",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/mongodb-js/vscode"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.mongodb.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mongodb:mongodb:0.6.7:*:*:*:*:visual_studio_code:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redis:redis:6.2.12",
+  "title": [
+    {
+      "text": "Redis 6.2.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/redis/redis/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/redis/redis/security/advisories/GHSA-hjv8-vjf6-wcr6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redis:redis:6.2.12:*:*:*:*:*:*:*"
+  }
+}

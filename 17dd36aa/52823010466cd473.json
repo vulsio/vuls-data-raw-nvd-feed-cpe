@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:tp-link:tl-wpa4530_kit:v2",
+  "title": [
+    {
+      "text": "TP-Link TL-WPA4530 KIT V2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tp-link.com/us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.tp-link.com/us/home-networking/powerline/tl-wpa4530-kit/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tp-link/postPlcJson/report.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:tp-link:tl-wpa4530_kit:v2:*:*:*:*:*:*:*"
+  }
+}

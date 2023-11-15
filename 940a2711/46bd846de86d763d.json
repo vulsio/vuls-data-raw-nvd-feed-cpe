@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:freebsd:freebsd:5.3:p17",
+  "deprecated": true,
+  "deprecation_date": "2019-03-19T13:18:34.360Z",
+  "title": [
+    {
+      "text": "FreeBSD 5.3 Patch 17",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.freebsd.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:freebsd:freebsd:5.3:p17:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-19T09:18:34.360-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:freebsd:freebsd:5.3:p17:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

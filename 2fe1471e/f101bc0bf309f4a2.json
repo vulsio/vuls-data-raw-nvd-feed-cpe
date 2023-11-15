@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:dell:emc_powerstore_3000:-",
+  "title": [
+    {
+      "text": "Dell EMC PowerStore 3000",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/security/en-us/details/544738/DSA-2020-159-Dell-EMC-PowerStore-Family-Improper-Authorization-Vulnerability"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.delltechnologies.com/en-us/storage/powerstore-storage-appliance.htm#tab0=0&overlay=//www.dellemc.com/en-us/collaterals/unauth/data-sheets/products/storage/h18143-dell-emc-powerstore-family-spec-sheet.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:dell:emc_powerstore_3000:-:*:*:*:*:*:*:*"
+  }
+}

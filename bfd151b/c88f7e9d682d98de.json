@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:swisscom:internet_box_light_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2021-06-28T13:15:58.387Z",
+  "title": [
+    {
+      "text": "Swisscom Internet Box Light Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.swisscom.ch/en/residential.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.swisscom.ch/content/dam/swisscom/de/about/nachhaltigkeit/digitale-schweiz/sicherheit/bug-bounty/files/cve-2020-16134.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:swisscom:internet_box_light_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-28T09:15:58.387-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:swisscom:internet-box_light_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

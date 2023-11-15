@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:suse:yast2-security:-",
+  "title": [
+    {
+      "text": "SUSE Yast2-security",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.suse.com/show_bug.cgi?id=1157541"
+    },
+    {
+      "text": "Version",
+      "href": "https://build.opensuse.org/request/show/750297"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.reddit.com/r/openSUSE/comments/dztn5j/important_for_anyone_who_installed_fresh/"
+    },
+    {
+      "text": "Product",
+      "href": "http://yast.opensuse.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:suse:yast2-security:-:*:*:*:*:*:*:*"
+  }
+}

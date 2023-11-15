@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:telegram:telegram_desktop:2.4.3",
+  "title": [
+    {
+      "text": "Telegram Desktop 2.4.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/soheilsamanabadi/vulnerability/blob/main/Telegram-Desktop-CVE-2020-25824"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://desktop.telegram.org/changelog"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:telegram:telegram_desktop:2.4.3:*:*:*:*:*:*:*"
+  }
+}

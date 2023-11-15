@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cloudfoundry:cloud_controller:1.78.0",
+  "deprecated": true,
+  "deprecation_date": "2021-08-17T15:30:22.483Z",
+  "title": [
+    {
+      "text": "Cloud Foundry Cloud Controller 1.78.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2019-3785/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:cloud_controller:1.78.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-17T11:30:22.483-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cloudfoundry:capi-release:1.78.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

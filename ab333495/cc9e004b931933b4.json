@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:barbican:1.0.0:alpha0",
+  "title": [
+    {
+      "text": "Openstack Barbican 1.0.0 Alpha 0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/openstack/barbican/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2022-23452"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:barbican:1.0.0:alpha0:*:*:*:*:*:*"
+  }
+}

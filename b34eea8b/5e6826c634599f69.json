@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:ui:unifi_protect_g3_flex_camera_firmware:uvc.v4.30.0.67",
+  "title": [
+    {
+      "text": "Ubiquiti UniFi Protect G3 FLEX Camera Firmware UVC.v4.30.0.67",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://store.ui.com/collections/unifi-protect-cameras/products/unifi-video-g3-flex-camera"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Jian-Xian/CVE-POC/blob/master/CVE-2021-33818.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ui.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ui:unifi_protect_g3_flex_camera_firmware:uvc.v4.30.0.67:*:*:*:*:*:*:*"
+  }
+}

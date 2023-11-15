@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:squid-cache:squid:2.7",
+  "deprecated": true,
+  "deprecation_date": "2021-06-28T17:49:37.913Z",
+  "title": [
+    {
+      "text": "squid-cache.org Squid 2.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.squid-cache.org/"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.squid-cache.org/Versions/v2/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:squid-cache:squid:2.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-28T13:49:37.913-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:squid-cache:squid:2.7:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

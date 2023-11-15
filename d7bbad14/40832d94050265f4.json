@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pivotal_software:spring_framework:3.1.0",
+  "deprecated": true,
+  "deprecation_date": "2019-06-05T15:43:49.797Z",
+  "title": [
+    {
+      "text": "Pivotal Software Spring Framework 3.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/spring-projects/spring-framework"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:spring_framework:3.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-05T11:43:49.797-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pivotal_software:spring_framework:3.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

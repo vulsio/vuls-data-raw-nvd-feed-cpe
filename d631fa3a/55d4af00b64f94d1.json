@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gemalto:sentinel_ldk_license_manager:-",
+  "title": [
+    {
+      "text": "Gemalto Sentinel LDK License Manager",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.sentinel.gemalto.com/ldk/LDKdocs/SPNL/LDK_SLnP_Guide/Distributing/License_Manager/020-License_Manager_Type.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-339-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gemalto:sentinel_ldk_license_manager:-:*:*:*:*:*:*:*"
+  }
+}

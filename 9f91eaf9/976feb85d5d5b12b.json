@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:malwarebytes:malwarebytes:3.2::~~windows~~~",
+  "deprecated": true,
+  "deprecation_date": "2023-03-24T14:59:15.890Z",
+  "title": [
+    {
+      "text": "Malwarebytes 3.2 Windows Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.malwarebytes.com/hc/en-us/sections/360005863113"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.malwarebytes.com/premium/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:malwarebytes:malwarebytes:3.2:*:*:*:windows:*:*:*",
+    "deprecation": {
+      "date": "2023-03-24T10:59:15.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:malwarebytes:malwarebytes:3.2:*:*:*:*:windows:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

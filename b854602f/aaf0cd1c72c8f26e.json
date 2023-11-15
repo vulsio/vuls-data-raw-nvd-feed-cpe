@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_10_1809:-",
+  "deprecated": true,
+  "deprecation_date": "2023-10-15T17:02:11.623Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 1809",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://en.wikipedia.org/wiki/Windows_10,_version_1809"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10_1809:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-15T13:02:11.623-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_1809:-:*:*:*:*:*:hololens:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:zkteco:zem800:-",
+  "title": [
+    {
+      "text": "ZKTeco ZEM800",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zkteco.com/en/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.genians.com/dpi-list/?search=zkteco+zem&selected_weeks="
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2022/Oct/23"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/42xxx/CVE-2022-42953.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:zkteco:zem800:-:*:*:*:*:*:*:*"
+  }
+}

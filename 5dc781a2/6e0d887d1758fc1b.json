@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.789",
+  "deprecated": true,
+  "deprecation_date": "2023-01-24T18:57:10.577Z",
+  "title": [
+    {
+      "text": "CentOS Web Panel 0.9.8.789",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.nmmapper.com/st/exploitdetails/46629/41075/centos-web-panel-098789-nameserver-field-persistent-cross-site-scripting/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://centos-webpanel.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.789:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-01-24T13:57:10.577-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.789:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

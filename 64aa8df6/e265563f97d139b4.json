@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:identity_services_engine:3.1:patch4",
+  "title": [
+    {
+      "text": "Cisco Identity Services Engine (ISE) 3.1 Patch 4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-access-contol-EeufSUCx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/20xxx/CVE-2022-20956.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:identity_services_engine:3.1:patch4:*:*:*:*:*:*"
+  }
+}

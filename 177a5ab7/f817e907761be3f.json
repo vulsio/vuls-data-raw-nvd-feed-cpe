@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sitemap_index_project:sitemap_index:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Sitemap Index Project Sitemap Index for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/sitemap-index/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/sitemap-index/wordpress-sitemap-index-plugin-1-2-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sitemap_index_project:sitemap_index:-:*:*:*:*:wordpress:*:*"
+  }
+}

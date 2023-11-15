@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:filezilla-project:filezilla:3.41.1",
+  "deprecated": true,
+  "deprecation_date": "2020-07-28T10:09:35.857Z",
+  "title": [
+    {
+      "text": "FileZilla-project FileZilla 3.41.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://filezilla-project.org/versions.php"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:filezilla-project:filezilla:3.41.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-28T06:09:35.857-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:filezilla-project:filezilla_client:3.41.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

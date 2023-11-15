@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:jgraph:drawio:13.8.6",
+  "deprecated": true,
+  "deprecation_date": "2022-06-07T20:29:45.820Z",
+  "title": [
+    {
+      "text": "JGraph draw.io 13.8.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jgraph/drawio/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.diagrams.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jgraph:drawio:13.8.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-07T16:29:45.820-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:diagrams:drawio:13.8.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

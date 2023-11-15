@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rpm:librepro:1.2.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-09T14:24:04.747Z",
+  "title": [
+    {
+      "text": "RPM librepo 1.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rpm-software-management/librepo/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rpm:librepro:1.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-09T09:24:04.747-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:librepo:1.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

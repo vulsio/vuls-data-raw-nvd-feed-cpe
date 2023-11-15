@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:sg250-24_firmware:-",
+  "title": [
+    {
+      "text": "Cisco SG250-24 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20200122-sbsms-xss"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/switches/250-series-smart-switches/models-comparison.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:sg250-24_firmware:-:*:*:*:*:*:*:*"
+  }
+}

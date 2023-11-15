@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:mcafee:endpoint_security_for_linux_threat_prevention:10.5.2::~~~linux~~",
+  "deprecated": true,
+  "deprecation_date": "2022-08-02T15:22:38.883Z",
+  "title": [
+    {
+      "text": "McAfee Endpoint Security for Linux Threat Prevention (ENSLTP) 10.5.2 for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://kc.mcafee.com/corporate/index?page=content&id=SB10355"
+    },
+    {
+      "text": "Version",
+      "href": "https://kc.mcafee.com/corporate/index?page=content&id=KB87073"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mcafee:endpoint_security_for_linux_threat_prevention:10.5.2:*:*:*:*:linux:*:*",
+    "deprecation": {
+      "date": "2022-08-02T11:22:38.883-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mcafee:endpoint_security_for_linux_threat_prevention:10.5.2:*:*:*:*:linux:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

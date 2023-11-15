@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:profilepress:loginwp:3.0.0.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ProfilePress LoginWP 3.0.0.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://loginwp.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/1a46cfec-24ad-4619-8579-f09bbd8ee748"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:profilepress:loginwp:3.0.0.5:*:*:*:*:wordpress:*:*"
+  }
+}

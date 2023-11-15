@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rubyzip_project:rubyzip:1.2.1",
+  "deprecated": true,
+  "deprecation_date": "2020-05-14T12:31:27.627Z",
+  "title": [
+    {
+      "text": "Rubyzip Project Rubyzip 1.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/rubyzip/rubyzip"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyzip_project:rubyzip:1.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-14T08:31:27.627-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyzip_project:rubyzip:1.2.1:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

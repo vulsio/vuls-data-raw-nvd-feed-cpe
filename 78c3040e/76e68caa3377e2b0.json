@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jpeg:libjpeg:1.63",
+  "title": [
+    {
+      "text": "Jpeg Libjpeg 1.63",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jpeg.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/thorfdbg/libjpeg/issues/71"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31796.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jpeg:libjpeg:1.63:*:*:*:*:*:*:*"
+  }
+}

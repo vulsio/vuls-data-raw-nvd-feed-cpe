@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:scylladb:scylladb:4.3.0:rc1",
+  "title": [
+    {
+      "text": "ScyllaDB 4.3.0 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/scylladb/scylladb/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/scylladb/scylladb/security/advisories/GHSA-ww5v-p45p-3vhq"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.scylladb.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:scylladb:scylladb:4.3.0:rc1:*:*:*:*:*:*"
+  }
+}

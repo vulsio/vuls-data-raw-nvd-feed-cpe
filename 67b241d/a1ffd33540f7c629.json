@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:onnx:1.10.0",
+  "title": [
+    {
+      "text": "Linux Foundation ONNX (Open Neural Network Exchange) 1.10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-PYTHON-ONNX-2395479"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/onnx/onnx/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:onnx:1.10.0:*:*:*:*:*:*:*"
+  }
+}

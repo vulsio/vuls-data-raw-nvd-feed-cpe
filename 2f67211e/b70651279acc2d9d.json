@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:1650",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T11:26:25.057Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 1650",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:1650:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-05T07:26:25.057-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5_1650:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

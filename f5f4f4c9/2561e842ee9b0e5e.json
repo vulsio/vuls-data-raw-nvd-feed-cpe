@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apache:sshd:2.9.2",
+  "title": [
+    {
+      "text": "Apache Software Foundation SSHD (Apache MINA SSHD) 2.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mina.apache.org/downloads-sshd.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/mina-sshd"
+    },
+    {
+      "text": "Product",
+      "href": "https://mina.apache.org/sshd-project/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:sshd:2.9.2:*:*:*:*:*:*:*"
+  }
+}

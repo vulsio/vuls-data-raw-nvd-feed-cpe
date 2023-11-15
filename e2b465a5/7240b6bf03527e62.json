@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:profilepress:user_registration%2c_login_form%2c_user_profile_%26_membership:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ProfilePress User Registration, Login Form, User Profile & Membership for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://profilepress.net/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/54ff0db8-1d9e-4e67-b71a-142a9e5ed851"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:profilepress:user_registration\\,_login_form\\,_user_profile_\\&_membership:-:*:*:*:*:wordpress:*:*"
+  }
+}

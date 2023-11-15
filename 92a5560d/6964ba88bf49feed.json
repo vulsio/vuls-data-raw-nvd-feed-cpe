@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ublock:ublock:1.16.2",
+  "deprecated": true,
+  "deprecation_date": "2021-09-27T18:59:55.390Z",
+  "title": [
+    {
+      "text": "uBlock 1.16.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://ublockorigin.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/gorhill/uBlock"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ublock:ublock:1.16.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-09-27T14:59:55.390-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ublockorigin:ublock_origin:1.16.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

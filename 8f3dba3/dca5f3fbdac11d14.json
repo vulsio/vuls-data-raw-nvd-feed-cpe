@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:loadedcommerce:loaded7:-",
+  "title": [
+    {
+      "text": "Loaded Commerce Loaded7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/95791"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/34552"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/loadedcommerce/loaded7"
+    },
+    {
+      "text": "Product",
+      "href": "https://store.loadedcommerce.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:loadedcommerce:loaded7:-:*:*:*:*:*:*:*"
+  }
+}

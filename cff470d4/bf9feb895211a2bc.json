@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:f-secure:safe_anywhere:-:-:~-~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T17:38:21.083Z",
+  "title": [
+    {
+      "text": "F-Secure Safe Anywhere for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "FSC-2012-2",
+      "href": "http://www.f-secure.com/en/web/labs_global/fsc-2012-2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T13:38:21.083-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:f-secure:safe_anywhere:-:-:-:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

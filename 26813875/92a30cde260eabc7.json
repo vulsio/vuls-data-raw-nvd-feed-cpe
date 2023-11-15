@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:dogtagpki:dogtagpki:10.10.2",
+  "title": [
+    {
+      "text": "Dogtag PKI 10.10.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.dogtagpki.org/wiki/PKI_Main_Page"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1914379"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/dogtagpki/pki/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dogtagpki:dogtagpki:10.10.2:*:*:*:*:*:*:*"
+  }
+}

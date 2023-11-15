@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon_e5:1630_v3",
+  "deprecated": true,
+  "deprecation_date": "2020-05-05T11:26:18.400Z",
+  "title": [
+    {
+      "text": "Intel Xeon E5 1630 V3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_e5:1630_v3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-05T07:26:18.400-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_e5_1630_v3:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

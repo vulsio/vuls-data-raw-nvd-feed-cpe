@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:openstack_cloud:2.39::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins OpenStack Cloud 2.39 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/openstack-cloud-plugin/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/openstack-cloud"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:openstack_cloud:2.39:*:*:*:*:jenkins:*:*"
+  }
+}

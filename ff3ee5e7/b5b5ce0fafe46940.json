@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mitake:smart_stock_selection:-",
+  "title": [
+    {
+      "text": "MITAKE Smart Stock Selection",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mitake.com.tw/Introduction_1.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.twcert.org.tw/tw/cp-132-4625-4ccc6-1.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/28xxx/CVE-2021-28174.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mitake:smart_stock_selection:-:*:*:*:*:*:*:*"
+  }
+}

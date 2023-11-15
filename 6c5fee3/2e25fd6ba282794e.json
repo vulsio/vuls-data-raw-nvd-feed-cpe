@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wp_ulike_project:wp_ulike:2.8::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2022-11-30T19:47:57.507Z",
+  "title": [
+    {
+      "text": "WP ULike Project WP ULike 2.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wpulike.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/plugins/wp-ulike/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp_ulike_project:wp_ulike:2.8:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2022-11-30T14:47:57.507-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wpulike:wp_ulike:2.8:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.6:update_131",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:18:36.443Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.6 Update 131",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.oracle.com/technetwork/middleware/jrockit/overview/index-101826.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/java/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.6:update_131:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:18:36.443-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.6.0:update131:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

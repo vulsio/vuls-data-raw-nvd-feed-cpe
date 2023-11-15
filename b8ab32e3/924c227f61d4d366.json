@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:mitsubishielectric:l02scpu-p_firmware:-",
+  "title": [
+    {
+      "text": "Mitsubishi Electric L02SCPU-P Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mitsubishielectric.com/fa/download/cad/cnt/plc/plcl/cpu/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/vu/JVNVU91553662/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2019-005_en.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mitsubishielectric:l02scpu-p_firmware:-:*:*:*:*:*:*:*"
+  }
+}

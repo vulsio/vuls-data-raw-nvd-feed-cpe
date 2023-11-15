@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:chrome-launcher:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Google Chrome-launcher for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/chrome-launcher"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-CHROMELAUNCHER-537575"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:chrome-launcher:-:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2016:1903",
+  "deprecated": true,
+  "deprecation_date": "2023-05-22T14:36:47.827Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 1903",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3"
+    },
+    {
+      "text": "Product",
+      "href": "https://cloudblogs.microsoft.com/windowsserver/2019/05/21/windows-server-version-1903-now-generally-available/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2016:1903:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-22T10:36:47.827-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_1903:-:*:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

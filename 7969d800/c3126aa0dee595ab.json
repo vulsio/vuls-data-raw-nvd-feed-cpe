@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cloud_foundry:bosh_system_metrics_server:0.1.0",
+  "title": [
+    {
+      "text": "Cloud Foundry Bosh System Metrics Server 0.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/cloudfoundry/bosh-system-metrics-server-release"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2020-5422"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloud_foundry:bosh_system_metrics_server:0.1.0:*:*:*:*:*:*:*"
+  }
+}

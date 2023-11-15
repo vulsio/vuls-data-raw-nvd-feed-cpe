@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_7:-:sp1:x32",
+  "deprecated": true,
+  "deprecation_date": "2012-02-10T19:24:31.330Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 7 32-bit Service Pack 1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_7:-:sp1:x32:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-10T14:24:31.330-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_7:-:sp1:x86:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

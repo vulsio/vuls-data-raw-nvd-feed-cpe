@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ca:api_gateway:8.2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-07T17:53:45.387Z",
+  "title": [
+    {
+      "text": "Computer Associates API Gateway 8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.broadcom.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160405-01-security-notice-for-ca-api-gateway.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:api_gateway:8.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-07T13:53:45.387-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:api_gateway:8.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

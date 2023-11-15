@@ -1,0 +1,18 @@
+{
+  "name": "cpe:/a:hashicorp:boundary:0.10.1",
+  "title": [
+    {
+      "text": "Hashicorp Boundary 0.10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2022017-boundary-allowed-access-to-host-sets-and-credential-sources-for-authorized-users-of-another-scope/43493"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:boundary:0.10.1:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:kronos:web_time_and_attendance:5.0",
+  "title": [
+    {
+      "text": "Kronos Web Time and Attendance (webTA) 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://community.kronos.com/s/feed/0D54M00002gvKPYSA2?language=en_US"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kronos.com/products/kronos-webta"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.nolanbkennedy.com/post/stored-xss-2-in-kronos-web-time-and-attendance-webta"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kronos:web_time_and_attendance:5.0:*:*:*:*:*:*:*"
+  }
+}

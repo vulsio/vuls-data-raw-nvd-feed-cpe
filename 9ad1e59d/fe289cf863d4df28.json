@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:core_i7:965",
+  "deprecated": true,
+  "deprecation_date": "2023-09-25T19:50:28.567Z",
+  "title": [
+    {
+      "text": "Intel Core I7 965",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:core_i7:965:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-25T15:50:28.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:core_i7-965:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

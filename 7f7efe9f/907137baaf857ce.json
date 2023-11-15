@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:oracle:mysql:5.0.16:a",
+  "title": [
+    {
+      "text": "Oracle MySQL 5.0.16 A",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mysql.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mysql/mysql-server/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql:5.0.16:a:*:*:*:*:*:*"
+  }
+}

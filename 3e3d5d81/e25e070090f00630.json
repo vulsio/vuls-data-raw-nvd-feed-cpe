@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift_service_mesh:1.0",
+  "title": [
+    {
+      "text": "Red Hat OpenShift Service Mesh 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2020:0477"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.openshift.com/learn/topics/service-mesh"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift_service_mesh:1.0:*:*:*:*:*:*:*"
+  }
+}

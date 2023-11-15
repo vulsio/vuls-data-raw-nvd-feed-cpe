@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:monospace:directus:9.23.2::~~~node.js~~",
+  "title": [
+    {
+      "text": "Monospace Directus 9.23.2 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/directus/directus/security/advisories/GHSA-8vg2-wf3q-mwv7"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/directus"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://monospace.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://directus.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:monospace:directus:9.23.2:*:*:*:*:node.js:*:*"
+  }
+}

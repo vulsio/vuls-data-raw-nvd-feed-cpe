@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pickplugins:accordion:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "PickPlugins Accordion for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://pickplugins.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/6ccd9990-e15f-4800-b499-f7c74b480051"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/accordions/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pickplugins:accordion:-:*:*:*:*:wordpress:*:*"
+  }
+}

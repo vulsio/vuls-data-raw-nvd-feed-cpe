@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:arangodb:arangodb:3.7.10",
+  "title": [
+    {
+      "text": "ArangoDB 3.7.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/arangodb/arangodb/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.arangodb.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25938"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arangodb:arangodb:3.7.10:*:*:*:*:*:*:*"
+  }
+}

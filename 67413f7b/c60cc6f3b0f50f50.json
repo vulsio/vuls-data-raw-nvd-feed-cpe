@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:dicer_project:dicer:0.1.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Dicer Project Dicer 0.1.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.npmjs.com/package/dicer"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mscdex/dicer/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-2838865"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mscdex/dicer/pull/22"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dicer_project:dicer:0.1.1:*:*:*:*:node.js:*:*"
+  }
+}

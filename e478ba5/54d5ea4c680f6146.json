@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:php:php:7.3.1",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:57:37.643Z",
+  "title": [
+    {
+      "text": "PHP 7.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.php.net/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:7.3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:57:37.643-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:7.3.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

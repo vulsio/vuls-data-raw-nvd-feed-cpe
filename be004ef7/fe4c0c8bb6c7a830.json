@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:billionrewardstoken_project:billionrewardstoken:-",
+  "title": [
+    {
+      "text": "BillionRewardsToken Project BillionRewardsToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xec71870d02ba5c392ec8f64837e314b28afa4222#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:billionrewardstoken_project:billionrewardstoken:-:*:*:*:*:*:*:*"
+  }
+}

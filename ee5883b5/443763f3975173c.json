@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ibm:san_volume_controller:6.3",
+  "deprecated": true,
+  "deprecation_date": "2014-03-31T16:31:23.837Z",
+  "title": [
+    {
+      "text": "IBM SAN Volume Controller 6.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:san_volume_controller:6.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-03-31T12:31:23.837-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:san_volume_controller_software:6.3.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:sun:jre:1.6.0:update1",
+  "deprecated": true,
+  "deprecation_date": "2011-01-20T22:51:50.663Z",
+  "title": [
+    {
+      "text": "Sun JRE 1.6.0 Update 1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:jre:1.6.0:update1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-01-20T17:51:50.663-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sun:jre:1.6.0:update_1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

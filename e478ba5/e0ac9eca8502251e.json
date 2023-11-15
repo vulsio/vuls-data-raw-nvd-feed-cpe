@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:php:php:4.3",
+  "deprecated": true,
+  "deprecation_date": "2010-08-31T01:29:13.843Z",
+  "title": [
+    {
+      "text": "PHP 4.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:4.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-08-30T21:29:13.843-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:4.3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

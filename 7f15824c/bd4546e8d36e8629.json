@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:arm:cortex-a78c_firmware:-",
+  "title": [
+    {
+      "text": "ARM CORTEX-A78C Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.arm.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:arm:cortex-a78c_firmware:-:*:*:*:*:*:*:*"
+  }
+}

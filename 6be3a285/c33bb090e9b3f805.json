@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:openssl:openssl:0.9.6a",
+  "deprecated": true,
+  "deprecation_date": "2022-02-02T13:51:58.427Z",
+  "title": [
+    {
+      "text": "OpenSSL Project OpenSSL 0.9.6a",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/openssl/openssl/tags"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.openssl.org/source/old/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.openssl.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openssl:openssl:0.9.6a:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-02T08:51:58.427-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:openssl:openssl:0.9.6a:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

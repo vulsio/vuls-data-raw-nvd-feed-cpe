@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:acdsee:photo_studio:22.1::~~standard~~~",
+  "title": [
+    {
+      "text": "ACDSee Photo Studio 22.1 Standard Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/apriorit/pentesting/blob/master/bugs/acdsee_std2019/IDE_ACDStd!IEP_ShowPlugInDialog%2B0x000000000023d060.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.acdsee.com/en/products/photo-studio-standard/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acdsee:photo_studio:22.1:*:*:*:standard:*:*:*"
+  }
+}

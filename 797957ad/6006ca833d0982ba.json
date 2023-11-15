@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:raitan:commandcenter_secure_gateway:-",
+  "deprecated": true,
+  "deprecation_date": "2019-11-21T15:59:55.583Z",
+  "title": [
+    {
+      "text": "Raitan Commandcenter Secure Gateway",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.raritan.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.raritan.com/support/product/commandcenter-secure-gateway"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:raitan:commandcenter_secure_gateway:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-21T10:59:55.583-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:raritan:commandcenter_secure_gateway:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

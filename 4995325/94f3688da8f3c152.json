@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ubiou:ubiou:-",
+  "title": [
+    {
+      "text": "Ubiou",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0x8361638cf6ee3d6587f8435523cbeffd23b826ff"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.ubiou.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ubiou:ubiou:-:*:*:*:*:*:*:*"
+  }
+}

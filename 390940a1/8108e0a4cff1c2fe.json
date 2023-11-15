@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:appnitro:machform:4.2.3",
+  "deprecated": true,
+  "deprecation_date": "2021-07-01T12:25:42.800Z",
+  "title": [
+    {
+      "text": "appnitro MachForm 4.2.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.appnitro.com/blog-machform-423-security-release"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:appnitro:machform:4.2.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-01T08:25:42.800-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:machform:machform:4.2.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

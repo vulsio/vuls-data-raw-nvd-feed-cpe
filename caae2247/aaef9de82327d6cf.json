@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:swifty_page_manager_project:swifty_page_manager:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Swifty Page Manager Project Swifty Page Manager for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/swifty-page-manager/swifty-page-manager-301-authenticated-administrator-stored-cross-site-scripting"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/swifty-page-manager/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:swifty_page_manager_project:swifty_page_manager:-:*:*:*:*:wordpress:*:*"
+  }
+}

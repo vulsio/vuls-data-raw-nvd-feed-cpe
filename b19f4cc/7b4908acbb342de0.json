@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:arraynetworks:ag1200:-",
+  "title": [
+    {
+      "text": "Array Networks AG1200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.arraynetworks.net/prx/001/http/supportportal.arraynetworks.net/documentation/FieldNotice/Array_Networks_Security_Advisory_Remote_Injection_Vulnerability_in_Array_VPN_Product_ID-11961_%20V2.1.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.arrayguard.com/products.asp"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://arraynetworks.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:arraynetworks:ag1200:-:*:*:*:*:*:*:*"
+  }
+}

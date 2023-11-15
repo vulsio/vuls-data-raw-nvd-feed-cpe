@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpmanageninja:fluentsmtp:2.0.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Manage Ninja FluentSMTP 2.0.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/8b8d316b-96b2-4cdc-9da5-c9ea6108a85b"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wpmanageninja.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/fluent-smtp/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpmanageninja:fluentsmtp:2.0.0:*:*:*:*:wordpress:*:*"
+  }
+}

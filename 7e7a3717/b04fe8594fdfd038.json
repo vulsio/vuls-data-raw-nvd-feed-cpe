@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fail2ban:fail2ban:0.8.14",
+  "title": [
+    {
+      "text": "Fail2Ban 0.8.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fail2ban/fail2ban/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fail2ban/fail2ban/security/advisories/GHSA-m985-3f3v-cwmm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fail2ban:fail2ban:0.8.14:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:lennart_poettering:systemd:017",
+  "deprecated": true,
+  "deprecation_date": "2022-01-28T19:16:15.687Z",
+  "title": [
+    {
+      "text": "Lennart Poettering systemd 017",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "systemd project information",
+      "href": "http://www.freedesktop.org/wiki/Software/systemd/"
+    },
+    {
+      "text": "version information",
+      "href": "http://cgit.freedesktop.org/systemd/systemd/refs/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lennart_poettering:systemd:017:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-28T14:16:15.687-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:systemd_project:systemd:17:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

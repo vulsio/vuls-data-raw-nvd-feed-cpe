@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:gnupg:gnupg:2.1.0",
+  "deprecated": true,
+  "deprecation_date": "2020-07-14T14:28:06.833Z",
+  "title": [
+    {
+      "text": "GnuPG (GNU Privacy Guard) 2.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://gnupg.org/ftp/gcrypt/gnupg"
+    },
+    {
+      "text": "Product",
+      "href": "http://gnupg.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnupg:gnupg:2.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-14T10:28:06.833-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gnupg:gnupg:2.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:linksys:e2000:-",
+  "title": [
+    {
+      "text": "Linksys E2000",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/D2y6p/CVE/blob/main/Linksys/CVE-2023-31740/Linksys_E2000_RCE.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.linksys.com/support-article?articleNum=139901"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:linksys:e2000:-:*:*:*:*:*:*:*"
+  }
+}

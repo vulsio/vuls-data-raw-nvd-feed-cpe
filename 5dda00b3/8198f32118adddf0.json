@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:joplin_project:joplin:1.0.80",
+  "deprecated": true,
+  "deprecation_date": "2021-08-26T15:51:04.457Z",
+  "title": [
+    {
+      "text": "Joplin Project Joplin 1.0.80",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/joplin"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/laurent22/joplin"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:joplin_project:joplin:1.0.80:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-26T11:51:04.457-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:joplin_project:joplin:1.0.80:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

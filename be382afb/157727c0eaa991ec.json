@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:se:os_loader:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:32:59.153Z",
+  "title": [
+    {
+      "text": "Schneider Electric OS Loader",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-161-02_Unity_Loader_and_OS_Loader_Software_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-161-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=User+guide&p_File_Name=35006156_K01_000_16.pdf&p_Doc_Ref=35006156K01000"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:os_loader:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:32:59.153-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:os_loader:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

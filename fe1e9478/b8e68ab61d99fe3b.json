@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:getbutton:chat_button:1.0.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Getbutton Chat Button 1.0.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/whatshelp-chat-button/wordpress-chat-button-plugin-1-8-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/whatshelp-chat-button/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://getbutton.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:getbutton:chat_button:1.0.3:*:*:*:*:wordpress:*:*"
+  }
+}

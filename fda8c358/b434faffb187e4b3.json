@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:mobileiron:mobile%40work:-::~~~android~~",
+  "title": [
+    {
+      "text": "Mobileiron Mobile@Work for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.mobileiron&hl=en_US&gl=US"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.optiv.com/explore-optiv-insights/source-zero/mobileiron-mdm-contains-static-key-allowing-account-enumeration"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mobileiron:mobile\\@work:-:*:*:*:*:android:*:*"
+  }
+}

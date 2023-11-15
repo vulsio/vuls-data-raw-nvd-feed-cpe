@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:qemu:qemu:0.1",
+  "deprecated": true,
+  "deprecation_date": "2020-11-02T14:39:06.347Z",
+  "title": [
+    {
+      "text": "QEMU  0.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-02T09:39:06.347-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:qemu:qemu:0.1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

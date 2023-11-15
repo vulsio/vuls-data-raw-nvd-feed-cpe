@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:adminer_login_project:adminer_login:1.4.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Adminer Login Project Adminer Login 1.4.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/adminer/#description"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2017/20xxx/CVE-2017-20066.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sumofpwn.nl/advisory/2016/wordpress_adminer_plugin_allows_public__local__database_login.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adminer_login_project:adminer_login:1.4.4:*:*:*:*:wordpress:*:*"
+  }
+}

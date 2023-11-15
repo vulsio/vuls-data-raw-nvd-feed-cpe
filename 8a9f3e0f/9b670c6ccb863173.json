@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:alpinelinux:aports:-::~~~alpine~~",
+  "title": [
+    {
+      "text": "Alpine Linux Aports for Alpine",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.alpinelinux.org/alpine/aports/-/issues/12811"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.alpinelinux.org/aports/refs/tags?h=3.6-stable"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alpinelinux:aports:-:*:*:*:*:alpine:*:*"
+  }
+}

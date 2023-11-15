@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:llhttp:llhttp:2.1.4::~~~node.js~~",
+  "title": [
+    {
+      "text": "llhttp llhttp 2.1.4 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1238709"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nodejs/llhttp/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:llhttp:llhttp:2.1.4:*:*:*:*:node.js:*:*"
+  }
+}

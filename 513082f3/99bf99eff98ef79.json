@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:simple-get_project:simple-get:1.2.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Simple-get Project Simple-get 1.2.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/feross/simple-get/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/simple-get"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-SIMPLEGET-2361683"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/42c79c23-6646-46c4-871d-219c0d4b4e31/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simple-get_project:simple-get:1.2.0:*:*:*:*:node.js:*:*"
+  }
+}

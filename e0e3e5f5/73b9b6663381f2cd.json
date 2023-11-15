@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rubygems:rubygems:2022-08-31",
+  "title": [
+    {
+      "text": "RubyGems 2022-08-31",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rubygems/rubygems.org/security/advisories/GHSA-8qpf-wf2p-25vg"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/235577"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rubygems/rubygems.org/commit/90c9e6aac2d91518b479c51d48275c57de492d4d"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubygems:rubygems:2022-08-31:*:*:*:*:*:*:*"
+  }
+}

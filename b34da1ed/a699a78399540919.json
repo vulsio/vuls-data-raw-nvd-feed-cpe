@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:xerox:freeflow_print_server:8.0",
+  "deprecated": true,
+  "deprecation_date": "2022-11-18T15:23:56.537Z",
+  "title": [
+    {
+      "text": "Xerox FreeFlow Print Server 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://download.support.xerox.com/pub/docs/700_DCP/userdocs/any-os/en_GB/702P00236_Whats_New_80_SP2.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-18T10:23:56.537-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:xerox:freeflow_print_server:8.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

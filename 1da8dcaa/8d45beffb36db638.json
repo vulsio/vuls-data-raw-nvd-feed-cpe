@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:oracle:enterprise_manager:13.2::~~~mysql~~",
+  "title": [
+    {
+      "text": "Oracle Enterprise Manager 13.2 for MySQL",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.mysql.com/products/enterprise/em.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:enterprise_manager:13.2:*:*:*:*:mysql:*:*"
+  }
+}

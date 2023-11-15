@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:ess9300-10x-e:-",
+  "title": [
+    {
+      "text": "Cisco ESS9300-10X-E -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/switches/catalyst-ess9300-embedded-series/index.html#~model"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwd25783"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-priv-escalate-Xg8zkyPk"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:ess9300-10x-e:-:*:*:*:*:*:*:*"
+  }
+}

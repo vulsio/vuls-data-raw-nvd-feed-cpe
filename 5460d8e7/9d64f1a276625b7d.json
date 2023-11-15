@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:linuxfoundation:cups-filters:1.052",
+  "deprecated": true,
+  "deprecation_date": "2018-01-03T13:53:27.493Z",
+  "title": [
+    {
+      "text": "linuxfoundation cups-filters 1.0.52",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.linuxfoundation.org/collaborate/workgroups/openprinting/cups-filters"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:cups-filters:1.052:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-03T08:53:27.493-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linuxfoundation:cups-filters:1.0.52:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

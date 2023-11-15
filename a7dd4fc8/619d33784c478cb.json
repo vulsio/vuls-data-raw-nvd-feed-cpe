@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:zimbra:zimbra_collaboration_suite:8.8.9:p4",
+  "deprecated": true,
+  "deprecation_date": "2020-06-04T12:30:14.923Z",
+  "title": [
+    {
+      "text": "Zimbra Collaboration Suite 8.8.9 Patch 4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zimbra.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/Zimbra/zm-mailbox/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zimbra:zimbra_collaboration_suite:8.8.9:p4:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-04T08:30:14.923-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:synacor:zimbra_collaboration_suite:8.8.9:p4:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

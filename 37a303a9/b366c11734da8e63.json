@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:korenix:jetwave_5810g_firmware:1.1",
+  "title": [
+    {
+      "text": "Korenix JetWave 5810G Firmware 1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.korenix.com/en/product/search.aspx?page=1&kw=JetWave"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/162903/Korenix-CSRF-Backdoor-Accounts-Command-Injection-Missing-Authentication.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2021/Jun/0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:korenix:jetwave_5810g_firmware:1.1:*:*:*:*:*:*:*"
+  }
+}

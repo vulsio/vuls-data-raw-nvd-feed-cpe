@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:ge:invenia_abus_scan_station:-",
+  "title": [
+    {
+      "text": "General Electric Invenia ABUS Scan Station",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/products/ultrasound/abus-breast-imaging/invenia-abus"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gehealthcare.com/-/jssmedia/f328d6d15c4b41e2a215bc2b3bbc439b.pdf?la=en-us"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsma-20-049-02"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:ge:invenia_abus_scan_station:-:*:*:*:*:*:*:*"
+  }
+}

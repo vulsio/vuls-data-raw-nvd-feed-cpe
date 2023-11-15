@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:dell:sonicwall_scrutinizer:9.5.0",
+  "deprecated": true,
+  "deprecation_date": "2018-03-12T15:28:13.973Z",
+  "title": [
+    {
+      "text": "Dell SonicWALL Scrutinizer 9.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dell:sonicwall_scrutinizer:9.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-03-12T11:28:13.973-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sonicwall:scrutinizer:9.5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

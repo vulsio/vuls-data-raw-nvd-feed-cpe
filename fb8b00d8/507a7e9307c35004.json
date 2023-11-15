@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:atlassian:jira_software_data_center:8.8.2",
+  "deprecated": true,
+  "deprecation_date": "2022-03-30T13:17:28.830Z",
+  "title": [
+    {
+      "text": "Atlassian Jira Software Data Center 8.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.atlassian.com/enterprise/data-center/jira"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:jira_software_data_center:8.8.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-30T09:17:28.830-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:jira_data_center:8.8.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

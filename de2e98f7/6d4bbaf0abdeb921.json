@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:hetronic:es-can-hl:-",
+  "title": [
+    {
+      "text": "Hetronic ES-CAN-HL",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.hetronic.com/receivers/field-bus-communication/rx-es-can-hl/#:~:text=The%20RX%20ES%2DCAN%2DHL,on%20two%20independent%20CAN%20buses."
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.hetronic.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-19-003-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hetronic:es-can-hl:-:*:*:*:*:*:*:*"
+  }
+}

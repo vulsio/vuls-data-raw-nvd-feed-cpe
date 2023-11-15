@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:campbellsci:cr800_firmware:-",
+  "title": [
+    {
+      "text": "Campbell Scientific CR800 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.incibe-cert.es/en/early-warning/ics-advisories/disclosure-sensitive-information-campbell-scientific-products"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.campbellsci.com/data-loggers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:campbellsci:cr800_firmware:-:*:*:*:*:*:*:*"
+  }
+}

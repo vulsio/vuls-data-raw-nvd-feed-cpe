@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:office:2016::~~click-to-run~~x64~",
+  "title": [
+    {
+      "text": "Microsoft Office 2016 Click-to-Run (C2R) x64 (64-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/store/b/office?icid=TopNavSoftwareOffice&activetab=tab%3ahomeorpersonal"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-0845"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:click-to-run:*:x64:*"
+  }
+}

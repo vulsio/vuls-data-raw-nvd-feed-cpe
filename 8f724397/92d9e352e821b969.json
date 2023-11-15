@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:organic_groups_project:organic_groups:7.x-1.5",
+  "deprecated": true,
+  "deprecation_date": "2020-05-06T12:51:13.660Z",
+  "title": [
+    {
+      "text": "Organic Groups Project Organic Groups 7.x-1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.drupal.org/project/og/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:organic_groups_project:organic_groups:7.x-1.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-06T08:51:13.660-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:organic_groups_project:organic_groups:7.x-1.5:*:*:*:*:drupal:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

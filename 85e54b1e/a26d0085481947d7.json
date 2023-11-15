@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:ui:edgerouter_x_firmware:2.0.9:hotfix6",
+  "title": [
+    {
+      "text": "Ubiquiti Edgerouter X Firmware 2.0.9 Hotfix6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://dl.ubnt.com/datasheets/edgemax/EdgeRouter_X_DS.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/1xxx/CVE-2023-1456.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ui:edgerouter_x_firmware:2.0.9:hotfix6:*:*:*:*:*:*"
+  }
+}

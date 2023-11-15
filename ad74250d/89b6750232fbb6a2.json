@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sqlite:sqlite:3.37.0",
+  "title": [
+    {
+      "text": "SQLite 3.37.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.sqlite.org/changes.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/guyinatuxedo/sqlite3_record_leaking"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sqlite:sqlite:3.37.0:*:*:*:*:*:*:*"
+  }
+}

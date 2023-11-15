@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:elementor:elementor_pro:3.11.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Elementor Elementor Pro 3.11.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/high-severity-vulnerability-fixed-in-wordpress-elementor-pro-plugin/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/elementor-pro/elementor-pro-3116-authenticatedsubscriber-privilege-escalation-via-update-page-option"
+    },
+    {
+      "text": "Product",
+      "href": "https://elementor.com/pro/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elementor:elementor_pro:3.11.6:*:*:*:*:wordpress:*:*"
+  }
+}

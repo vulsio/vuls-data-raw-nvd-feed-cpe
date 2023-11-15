@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:puppet:puppet_server:7.1.0",
+  "title": [
+    {
+      "text": "Puppet Puppet Server 7.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/puppetlabs/puppetserver/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://puppet.com/security/cve/cve-2021-27023"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppet:puppet_server:7.1.0:*:*:*:*:*:*:*"
+  }
+}

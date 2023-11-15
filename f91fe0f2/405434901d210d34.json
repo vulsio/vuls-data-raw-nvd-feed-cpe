@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:shibboleth:service_provider:2.0",
+  "title": [
+    {
+      "text": "Shibboleth Service Provider 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=571631"
+    },
+    {
+      "text": "Product",
+      "href": "https://tracker.debian.org/pkg/shibboleth-sp2"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.shibboleth.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:shibboleth:service_provider:2.0:*:*:*:*:*:*:*"
+  }
+}

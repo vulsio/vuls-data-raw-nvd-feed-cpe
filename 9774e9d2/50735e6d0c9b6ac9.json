@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:java_se:11.0.14",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T15:02:39.013Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 11.0.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:java_se:11.0.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T11:02:39.013-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:11.0.14:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

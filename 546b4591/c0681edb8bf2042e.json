@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:citrix:linux_virtual_delivery_agent:2203:cu1:~~ltsr~~~",
+  "title": [
+    {
+      "text": "Citrix Linux Virtual Delivery Agent 2203 Cumulative Update 1 LTSR Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.citrix.com/en-us/linux-virtual-delivery-agent/current-release/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.citrix.com/en-us/linux-virtual-delivery-agent/2203-ltsr/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX559370/windows-and-linux-virtual-delivery-agent-for-cvad-and-citrix-daas-security-bulletin-cve202324490"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:citrix:linux_virtual_delivery_agent:2203:cu1:*:*:ltsr:*:*:*"
+  }
+}

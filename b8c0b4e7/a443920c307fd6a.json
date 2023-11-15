@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:6.2.10",
+  "title": [
+    {
+      "text": "Linux Kernel 6.2.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/torvalds/linux/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kernel.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/torvalds/linux"
+    },
+    {
+      "text": "Version",
+      "href": "https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:6.2.10:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:honeywell:hcw2gv:_",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T17:45:07.447Z",
+  "title": [
+    {
+      "text": "Honeywell HCW2GV",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-304-04"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.security.honeywell.com/All-Categories/video-systems/performance-series-ip-cameras"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:honeywell:hcw2gv:_:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T13:45:07.447-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:honeywell:hcw2gv:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

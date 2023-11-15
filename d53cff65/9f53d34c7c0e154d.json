@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:qemu:qemu:1.7.0",
+  "deprecated": true,
+  "deprecation_date": "2020-11-02T14:46:10.943Z",
+  "title": [
+    {
+      "text": "QEMU 1.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.qemu.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/qemu/qemu/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qemu:qemu:1.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-02T09:46:10.943-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:qemu:qemu:1.7.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

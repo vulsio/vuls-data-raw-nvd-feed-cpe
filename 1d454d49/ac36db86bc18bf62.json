@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vim:vim:8.2.4647",
+  "title": [
+    {
+      "text": "Vim 8.2.4647",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/a6f3222d-2472-439d-8881-111138a5694c/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vim/vim/commit/2bdad6126778f907c0b98002bfebf0e611a3f5db"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/vim/vim/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vim:vim:8.2.4647:*:*:*:*:*:*:*"
+  }
+}

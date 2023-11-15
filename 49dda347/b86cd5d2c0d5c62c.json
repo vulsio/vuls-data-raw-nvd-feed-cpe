@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:microsoft:word:2013:-:~-~-~rt~~",
+  "deprecated": true,
+  "deprecation_date": "2018-06-07T13:13:14.890Z",
+  "title": [
+    {
+      "text": "Microsoft Word 2013 for Microsoft Windows RT",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "MS14-001",
+      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms14-001"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:word:2013:-:-:*:-:rt:*:*",
+    "deprecation": {
+      "date": "2018-06-07T09:13:14.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:word:2013:*:*:*:rt:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

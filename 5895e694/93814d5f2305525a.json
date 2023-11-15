@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:amq:2.0",
+  "title": [
+    {
+      "text": "Red Hat AMQ 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-14307"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_amq/7.2/html-single/amq_clients_overview/index#:~:text=in%20this%20release.-,Preface,part%20of%20Red%20Hat%20AMQ."
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2020-14307"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:amq:2.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:samba:rsync:2.6.3",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T17:17:30.043Z",
+  "title": [
+    {
+      "text": "Samba Rsync 2.6.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://git.samba.org/?p=rsync.git;a=tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samba:rsync:2.6.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T13:17:30.043-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:samba:rsync:2.6.3:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

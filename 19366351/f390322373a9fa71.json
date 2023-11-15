@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:neo4j:neo4j:-::~~community~~~",
+  "title": [
+    {
+      "text": "Neo4j Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/neo4j/neo4j/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/50170"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:neo4j:neo4j:-:*:*:*:community:*:*:*"
+  }
+}

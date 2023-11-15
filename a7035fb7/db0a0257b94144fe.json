@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:crasm_project:crasm:1.8-3",
+  "title": [
+    {
+      "text": "Crasm Project Crasm 1.8-3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/WhatTheFuzz/crasm-fuzz/tree/a020ad6ad99a72ca373f7dd1aab3a61a7c87fd66/bug-floating-point-exception"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/colinbourassa/crasm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crasm_project:crasm:1.8-3:*:*:*:*:*:*:*"
+  }
+}

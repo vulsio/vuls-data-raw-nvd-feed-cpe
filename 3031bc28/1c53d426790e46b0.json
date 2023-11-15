@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:vmware:vsphere_esxi:6.5:650-201908001",
+  "deprecated": true,
+  "deprecation_date": "2019-11-22T18:36:06.057Z",
+  "title": [
+    {
+      "text": "Vmware vSphere ESXi 6.5 650-201908001",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://kb.vmware.com/s/article/2143832"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:vmware:vsphere_esxi:6.5:650-201908001:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-22T13:36:06.057-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:esxi:6.5:650-201908001:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

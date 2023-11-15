@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:spip:spip:3.0.0",
+  "deprecated": true,
+  "deprecation_date": "2023-03-06T23:18:47.037Z",
+  "title": [
+    {
+      "text": "SPIP 3.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.spip.net/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/spip/SPIP/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:spip:spip:3.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-03-06T18:18:47.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:spip:spip:3.0.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

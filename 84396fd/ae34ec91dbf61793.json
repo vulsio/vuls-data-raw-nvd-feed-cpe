@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:trendnet:tew-751dr_firmware:1.03",
+  "title": [
+    {
+      "text": "TRENDnet TEW-751DR Firmware 1.03",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fxc233/CVE/blob/main/bufferoverflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.trendnet.com/support/support-detail.asp?prod=165_TEW-751DR"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:trendnet:tew-751dr_firmware:1.03:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:kubernetes:kubernetes:1.8.0:-",
+  "title": [
+    {
+      "text": "Kubernetes 1.8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kubernetes.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.8.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kubernetes:kubernetes:1.8.0:-:*:*:*:*:*:*"
+  }
+}

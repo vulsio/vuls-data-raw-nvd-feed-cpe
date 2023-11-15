@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:digi:realport:4.8.488.0::~~~windows~~",
+  "title": [
+    {
+      "text": "Digi RealPort 4.8.488.0 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.digi.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.digi.com/support/knowledge-base/what-is-realport"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:digi:realport:4.8.488.0:*:*:*:*:windows:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:schneider-electric:clearscada:2010:r3",
+  "deprecated": true,
+  "deprecation_date": "2018-12-31T14:23:13.873Z",
+  "title": [
+    {
+      "text": "Schneider Electric ClearSCADA 2010 R3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Website",
+      "href": "http://www.schneider-electric.com/products/ww/en/6000-telemetry-remote-scada-systems/?xtmc=scada&xtcr=1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider-electric:clearscada:2010:r3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-12-31T09:23:13.873-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:aveva:clearscada:2010:r3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

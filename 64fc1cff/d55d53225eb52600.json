@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:richdocuments:4.2.3",
+  "title": [
+    {
+      "text": "Nextcloud Richdocuments 4.2.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-rjcc-4cgj-6v93"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/richdocuments/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:richdocuments:4.2.3:*:*:*:*:*:*:*"
+  }
+}

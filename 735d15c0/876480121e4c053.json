@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:apache:superset:0.38.0",
+  "deprecated": true,
+  "deprecation_date": "2021-11-16T18:24:09.047Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Superset 0.38.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apache/superset/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://superset.apache.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread.html/r09293fb09f1d617f0d2180c42210e739e2211f8da9bc5c1873bea67a@%3Cdev.superset.apache.org%3E"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:superset:0.38.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-11-16T13:24:09.047-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:superset:0.38.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

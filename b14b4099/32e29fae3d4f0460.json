@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:zulip:zulip_server:5.4",
+  "title": [
+    {
+      "text": "Zulip Server 5.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/zulip/zulip/security/advisories/GHSA-58pm-88xp-7x9m"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/zulip/zulip/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zulip:zulip_server:5.4:*:*:*:*:*:*:*"
+  }
+}

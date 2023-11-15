@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nodebb:nodebb:1.18.7:beta5",
+  "title": [
+    {
+      "text": "NodeBB 1.18.7 Beta 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodebb.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/NodeBB/NodeBB/security/advisories/GHSA-p4cc-w597-6cpm"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/NodeBB/NodeBB/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodebb:nodebb:1.18.7:beta5:*:*:*:*:*:*"
+  }
+}

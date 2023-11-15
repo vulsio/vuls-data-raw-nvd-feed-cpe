@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nethack:nethack:3.6.7",
+  "title": [
+    {
+      "text": "NetHack 3.6.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nethack.org/security/CVE-2023-24809.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/NetHack/NetHack/security/advisories/GHSA-2cqv-5w4v-mgch"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/NetHack/NetHack/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nethack:nethack:3.6.7:*:*:*:*:*:*:*"
+  }
+}

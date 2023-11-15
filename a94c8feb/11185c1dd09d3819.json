@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apache:zookeeper:3.8.3",
+  "title": [
+    {
+      "text": "Apache Software Foundation ZooKeeper 3.8.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://zookeeper.apache.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/zookeeper/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread/wf0yrk84dg1942z1o74kd8nycg6pgm5b"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:zookeeper:3.8.3:*:*:*:*:*:*:*"
+  }
+}

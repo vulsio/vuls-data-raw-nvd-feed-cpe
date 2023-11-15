@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:milesight:ur55_firmware:-",
+  "title": [
+    {
+      "text": "Milesight UR55 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gist.github.com/win3zz/c7eda501edcf5383df32fabe00938d13"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.milesight.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://pdf.directindustry.com/pdf/milesight-iot/ur51-52-55-industrial-router/204565-811171.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:milesight:ur55_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gin-gonic:gin:1.9.1",
+  "title": [
+    {
+      "text": "Gin-gonic Gin 1.9.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://pkg.go.dev/vuln/GO-2023-1737"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/gin-gonic/gin/issues/3555"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/gin-gonic/gin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gin-gonic:gin:1.9.1:*:*:*:*:*:*:*"
+  }
+}

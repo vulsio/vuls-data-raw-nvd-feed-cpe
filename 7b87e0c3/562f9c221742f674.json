@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:lexmark:g4_driver:-",
+  "title": [
+    {
+      "text": "Lexmark G4 Driver",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.lexmark.com/en_us/support/download-search.html?q=G4"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lexmark:g4_driver:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:novel-plus_project:novel-plus:3.6.2",
+  "deprecated": true,
+  "deprecation_date": "2023-09-13T19:33:12.190Z",
+  "title": [
+    {
+      "text": "Novel-plus Project Novel-plus 3.6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.mesec.cn/archives/291"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/201206030/novel-plus/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:novel-plus_project:novel-plus:3.6.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-13T15:33:12.190-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:xxyopen:novel-plus:3.6.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

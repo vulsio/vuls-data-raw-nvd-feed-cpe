@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:netiq:access_manager:4.0.1",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:36:08.170Z",
+  "title": [
+    {
+      "text": "NetIQ Access Manager 4.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product version changelog",
+      "href": "https://www.netiq.com/documentation/netiqaccessmanager4/"
+    },
+    {
+      "text": "Vendor website",
+      "href": "https://www.netiq.com/products/access-manager/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netiq:access_manager:4.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:36:08.170-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microfocus:access_manager:4.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

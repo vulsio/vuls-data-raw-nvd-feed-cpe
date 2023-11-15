@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:xnau:participants_database:2.4.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "xnau Participants Database 2.4.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/participants-database/wordpress-participants-database-plugin-2-4-5-cross-site-request-forgery-csrf?_s_id=cve"
+    },
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/plugins/participants-database/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:xnau:participants_database:2.4.4:*:*:*:*:wordpress:*:*"
+  }
+}

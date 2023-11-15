@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_tng:2.4.2",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:46:23.177Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter TNG 2.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_tng:2.4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:46:23.177-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_tng:2.4.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

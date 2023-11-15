@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wso2:api_manager:4.1.0:-",
+  "title": [
+    {
+      "text": "WSO2 API Manager 4.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wso2.com/api-management/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/adilkhan7/CVE-2023-31664"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/wso2/product-apim/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wso2:api_manager:4.1.0:-:*:*:*:*:*:*"
+  }
+}

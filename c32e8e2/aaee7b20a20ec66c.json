@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:mifos:mifos-mobile:1.0.0::~~~android~~",
+  "title": [
+    {
+      "text": "Mifos Initiative Mifos-Mobile 1.0.0 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mifos.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openMF/mifos-mobile/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/openMF/mifos-mobile/security/advisories/GHSA-9657-33wf-rmvx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/openMF/mifos-mobile/commit/e505f62b92b19292bfdabd6e996ab76abfeaa90d"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mifos:mifos-mobile:1.0.0:*:*:*:*:android:*:*"
+  }
+}

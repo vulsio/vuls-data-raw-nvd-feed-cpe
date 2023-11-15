@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:cisco:sd-wan_firmware:20.1.0",
+  "title": [
+    {
+      "text": "Cisco SD-WAN Firmware 20.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-dosmulti-48jJuEUP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:sd-wan_firmware:20.1.0:*:*:*:*:*:*:*"
+  }
+}

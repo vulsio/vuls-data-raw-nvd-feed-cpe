@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:apple:iphone:1.1.2",
+  "deprecated": true,
+  "deprecation_date": "2022-08-09T13:46:54.997Z",
+  "title": [
+    {
+      "text": "Apple iPhone 1.1.2",
+      "lang": "en-US"
+    },
+    {
+      "text": "アップル iPhone 1.1.2",
+      "lang": "ja-JP"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://apple.fandom.com/wiki/IOS_1"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.apple.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:apple:iphone:1.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-08-09T09:46:54.997-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:iphone_os:1.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

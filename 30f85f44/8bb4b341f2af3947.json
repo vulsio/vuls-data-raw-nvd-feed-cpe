@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:silabs:gecko_bootloader:4.0.1",
+  "title": [
+    {
+      "text": "Silicon Labs Gecko Bootloader 4.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.silabs.com/documents/public/user-guides/ug266-gecko-bootloader-user-guide.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24936.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/SiliconLabs/gecko_sdk/blame/2e82050dc8823c9fe0e8908c1b2666fb83056230/platform/bootloader/core/btl_bootload.c"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:silabs:gecko_bootloader:4.0.1:*:*:*:*:*:*:*"
+  }
+}

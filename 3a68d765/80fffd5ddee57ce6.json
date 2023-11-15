@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:abb:relion_670_firmware:2.2.3",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T21:02:24.420Z",
+  "title": [
+    {
+      "text": "ABB Relion 670 Firmware 2.2.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://search.abb.com/library/Download.aspx?DocumentID=1MRG033151&LanguageCode=en&DocumentPartId=&Action=Launch"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:abb:relion_670_firmware:2.2.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T17:02:24.420-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:hitachienergy:relion_670_firmware:2.2.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

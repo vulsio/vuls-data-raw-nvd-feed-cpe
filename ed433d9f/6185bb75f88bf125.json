@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:citrix:application_gateway:6.0",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:52.633Z",
+  "title": [
+    {
+      "text": "Citrix Broadcast Server (Cisco) 6.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:citrix:application_gateway:6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:52.633-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:citrix:broadcast_server:6.0:*:cisco:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

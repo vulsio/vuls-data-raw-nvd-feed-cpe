@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:spidercontrol:scada_webserver:-",
+  "title": [
+    {
+      "text": "SpiderControl SCADA WebServer",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/ICSA-18-338-02"
+    },
+    {
+      "text": "Product",
+      "href": "http://spidercontrol.net/download/downloadarea/?lang=en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:spidercontrol:scada_webserver:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:canonical:add-apt-repository:0.92.37.0",
+  "title": [
+    {
+      "text": "Canonical add-apt-repository 0.92.37.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://manpages.ubuntu.com/manpages/trusty/man1/add-apt-repository.1.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/76b18a62b78e979c071afabdeb4b2f801f77b2ea/2020/15xxx/CVE-2020-15709.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:canonical:add-apt-repository:0.92.37.0:*:*:*:*:*:*:*"
+  }
+}

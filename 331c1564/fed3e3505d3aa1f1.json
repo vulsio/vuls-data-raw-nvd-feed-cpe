@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:monsterinsights:exactmetrics:7.18::~~~wordpress~~",
+  "title": [
+    {
+      "text": "MonsterInsights ExactMetrics 7.18 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.exactmetrics.com/lite/?utm_source=liteplugin&utm_medium=pluginheader&utm_campaign=authoruri&utm_content=7.0.0"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/google-analytics-dashboard-for-wp/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/google-analytics-dashboard-for-wp/wordpress-exactmetrics-plugin-7-14-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.monsterinsights.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:monsterinsights:exactmetrics:7.18:*:*:*:*:wordpress:*:*"
+  }
+}

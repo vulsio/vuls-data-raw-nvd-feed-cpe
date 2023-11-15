@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:clinical-genomics:scout:-",
+  "title": [
+    {
+      "text": "Clinical Genomics Scout",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://clinical.scilifelab.se/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://huntr.dev/bounties/352b39da-0f2e-415a-9793-5480cae8bd27/"
+    },
+    {
+      "text": "Product",
+      "href": "https://clinical-genomics.github.io/scout/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Clinical-Genomics/scout/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clinical-genomics:scout:-:*:*:*:*:*:*:*"
+  }
+}

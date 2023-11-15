@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wpsocket:automatic_grid_image_listing:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "wpSocket Automatic Grid Image Listing (AGIL) 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/47235989-d9f1-48a5-9799-fdef0889bf8a"
+    },
+    {
+      "text": "Product",
+      "href": "https://wpsocket.com/plugin/automatic-grid-image-listing/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpsocket:automatic_grid_image_listing:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

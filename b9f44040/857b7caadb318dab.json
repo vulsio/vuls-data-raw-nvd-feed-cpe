@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:libexpat:expat:1.95.8",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T15:44:27.037Z",
+  "title": [
+    {
+      "text": "libexpat Expat 1.95.8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libexpat:expat:1.95.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T10:44:27.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libexpat_project:libexpat:1.95.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

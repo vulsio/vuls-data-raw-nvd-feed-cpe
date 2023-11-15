@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:zyzel:nas520:-",
+  "deprecated": true,
+  "deprecation_date": "2022-02-09T16:51:32.607Z",
+  "title": [
+    {
+      "text": "Zyzel NAS520",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-NAS-remote-access-vulnerability.shtml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:zyzel:nas520:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-09T11:51:32.607-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:zyxel:nas520:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:-",
+  "deprecated": true,
+  "deprecation_date": "2022-12-02T17:24:17.207Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://dotnet.microsoft.com/en-us/apps/aspnet/mvc"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/windows-server"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/software-download/windows10"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-12-02T12:24:17.207-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

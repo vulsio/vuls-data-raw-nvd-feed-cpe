@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:trumani:stop_spammers:2021.20::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Trumani Stop Spammers 2021.20 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/e8bb79db-ef77-43be-b449-4c4b5310eedf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://trumani.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://stopspammers.io/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/stop-spammer-registrations-plugin/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trumani:stop_spammers:2021.20:*:*:*:*:wordpress:*:*"
+  }
+}

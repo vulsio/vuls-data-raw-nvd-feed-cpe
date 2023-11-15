@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:netgear:d6000_firmware:1.0.078",
+  "deprecated": true,
+  "deprecation_date": "2022-01-06T17:55:07.620Z",
+  "title": [
+    {
+      "text": "NETGEAR D6000 Firmware 1.0.078",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://kb.netgear.com/000062709/Security-Advisory-for-Pre-Authentication-Stack-Overflow-on-Some-Routers-Range-Extenders-and-WiFi-Systems-PSV-2018-0296"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:netgear:d6000_firmware:1.0.078:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-06T12:55:07.620-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:netgear:d6000_firmware:1.0.0.78:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

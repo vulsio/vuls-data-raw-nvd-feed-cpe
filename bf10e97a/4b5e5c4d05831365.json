@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microstrategy:microstrategy_web:10.4",
+  "title": [
+    {
+      "text": "MicroStrategy Web 10.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://packetstormsecurity.com/files/157068/MicroStrategy-Intelligence-Server-And-Web-10.4-XSS-Disclosure-SSRF-Code-Execution.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microstrategy.com/us"
+    },
+    {
+      "text": "Product",
+      "href": "https://doc-archives.microstrategy.com/producthelp/10.10/Readme/content/web.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microstrategy:microstrategy_web:10.4:*:*:*:*:*:*:*"
+  }
+}

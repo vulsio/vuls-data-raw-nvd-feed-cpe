@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:docker-tester_project:docker-tester:1.0.5::~~~node.js~~",
+  "title": [
+    {
+      "text": "docker-tester Project docker-tester 1.0.5 Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://advisory.checkmarx.net/advisory/CX-2021-4786/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/docker-tester"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker-tester_project:docker-tester:1.0.5:*:*:*:*:node.js:*:*"
+  }
+}

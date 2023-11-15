@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:digi:connectcore_8x:-",
+  "title": [
+    {
+      "text": "Digi ConnectCore 8X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://hub.digi.com/support/products/system-on-modules/digi-connectcore-8x/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:digi:connectcore_8x:-:*:*:*:*:*:*:*"
+  }
+}

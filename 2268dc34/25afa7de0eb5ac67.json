@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:puppetlabs:puppet_enterprise_users:1.2",
+  "deprecated": true,
+  "deprecation_date": "2019-07-11T15:07:56.873Z",
+  "title": [
+    {
+      "text": "Puppet Enterprise (PE) Users 1.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:puppet_enterprise_users:1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-11T11:07:56.873-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet_enterprise:1.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

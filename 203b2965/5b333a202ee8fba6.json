@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tasks:tasks:13.0.0::~~~android~~",
+  "title": [
+    {
+      "text": "Tasks Tasks 13.0.0 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://tasks.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/39xxx/CVE-2022-39349.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/tasks/tasks/security/advisories/GHSA-8x58-cg74-8jg8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tasks:tasks:13.0.0:*:*:*:*:android:*:*"
+  }
+}

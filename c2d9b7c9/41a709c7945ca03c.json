@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:amd:ryzen_3_7320u_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) RYZEN 3 7320U Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors#Vermeer_(5000_series,_Zen_3_based)"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cmpxchg8b.com/zenbleed.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:ryzen_3_7320u_firmware:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:themecheck:enhanced_text_widget:1.5.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Themecheck Enhanced Text Widget 1.5.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/inisev-plugins-various-versions-missing-authorization-on-handle-installation-function"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/enhanced-text-widget/#developers"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://themecheck.info/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themecheck:enhanced_text_widget:1.5.8:*:*:*:*:wordpress:*:*"
+  }
+}

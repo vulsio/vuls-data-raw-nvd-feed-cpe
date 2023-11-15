@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:eclipse:jetty:9.4.14",
+  "deprecated": true,
+  "deprecation_date": "2019-05-10T14:40:58.217Z",
+  "title": [
+    {
+      "text": "Eclipse Jetty 9.4.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/eclipse/jetty.project"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:jetty:9.4.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-10T10:40:58.217-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:eclipse:jetty:9.4.14:20181114:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

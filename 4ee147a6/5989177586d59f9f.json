@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_8.1:-:-:~-~-~-~x86~",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T22:11:29.317Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 8.1 x86 (32-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Microsoft Windows 8.1 Upgrade Information",
+      "href": "http://windows.microsoft.com/en-us/windows-8/update-from-preview"
+    },
+    {
+      "text": "Microsoft Windows 8.1 architecture information",
+      "href": "http://support.microsoft.com/kb/2908279"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_8.1:-:-:-:*:-:-:x86:*",
+    "deprecation": {
+      "date": "2019-05-08T18:11:29.317-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_8.1:-:*:*:*:pro_n:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

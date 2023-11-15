@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:sqlalchemy:mako:0.7.3",
+  "title": [
+    {
+      "text": "SQLAlchemy Mako 0.7.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.makotemplates.org/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.sqlalchemy.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://pyup.io/vulnerabilities/CVE-2022-40023/50870/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sqlalchemy/mako/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sqlalchemy:mako:0.7.3:*:*:*:*:*:*:*"
+  }
+}

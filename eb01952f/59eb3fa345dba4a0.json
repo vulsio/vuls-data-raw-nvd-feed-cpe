@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:docker:desktop:2.2.0.4::~~windows~~~",
+  "title": [
+    {
+      "text": "Docker Desktop 2.2.0.4 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.docker.com/docker-for-windows/release-notes/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-002.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.docker.com/release-notes/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker:desktop:2.2.0.4:*:*:*:windows:*:*:*"
+  }
+}

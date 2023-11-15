@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:sierawireless:airlink_rv55:-",
+  "deprecated": true,
+  "deprecation_date": "2022-02-09T18:44:35.750Z",
+  "title": [
+    {
+      "text": "Sierawireless Airlink RV55",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sierrawireless.com/products-and-solutions/routers-gateways/rv55/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:sierawireless:airlink_rv55:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-09T13:44:35.750-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:sierrawireless:airlink_rv55:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

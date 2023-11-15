@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:hpe:aruba_8325-48y83:-",
+  "deprecated": true,
+  "deprecation_date": "2022-09-27T17:16:44.453Z",
+  "title": [
+    {
+      "text": "HPE Aruba 8325-48Y83",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-004.txt"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.arubanetworks.com/products/switches/core-and-data-center/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.arubanetworks.com/products/switches/access/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hpe:aruba_8325-48y83:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-09-27T13:16:44.453-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hpe:aruba_8325-48y8c:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:f-secure:internet_gatekeeper:-::~~~linux_kernel~~",
+  "title": [
+    {
+      "text": "F-Secure Internet Gatekeeper for Linux Kernel",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.f-secure.com/en/business/downloads/internet-gatekeeper"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2020/Feb/33"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f-secure:internet_gatekeeper:-:*:*:*:*:linux_kernel:*:*"
+  }
+}

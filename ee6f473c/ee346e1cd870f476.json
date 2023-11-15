@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:redhat:satellite:6.8",
+  "deprecated": true,
+  "deprecation_date": "2023-09-22T19:01:23.120Z",
+  "title": [
+    {
+      "text": "Red Hat Satellite 6.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://access.redhat.com/articles/1365633"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_satellite/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:satellite:6.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-22T15:01:23.120-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:satellite:6.8:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

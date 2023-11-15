@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:good:good_messaging_server:_6.3.1.24",
+  "deprecated": true,
+  "deprecation_date": "2019-01-17T17:15:13.100Z",
+  "title": [
+    {
+      "text": "Good Messaging Server  6.3.1.24",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:good:good_messaging_server:_6.3.1.24:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-01-17T12:15:13.100-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gooddomino:mobile_messaging_server:6.3.1.24:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

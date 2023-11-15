@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:mootools:mootools-more:1.6.0",
+  "title": [
+    {
+      "text": "MooTools Mootools-more 1.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/20xxx/CVE-2021-20088.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlackFan/client-side-prototype-pollution/blob/master/pp/mootools-more.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/mootools/mootools-more"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://mootools.net/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mootools:mootools-more:1.6.0:*:*:*:*:*:*:*"
+  }
+}

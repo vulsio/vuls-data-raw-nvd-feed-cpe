@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tcpreplay:tcpreplay:1.4.0",
+  "deprecated": true,
+  "deprecation_date": "2022-04-02T03:29:17.303Z",
+  "title": [
+    {
+      "text": "tcpreplay 1.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://tcpreplay.synfin.net/wiki/Download"
+    },
+    {
+      "text": "Product",
+      "href": "https://sourceforge.net/projects/tcpreplay/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tcpreplay:tcpreplay:1.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-01T23:29:17.303-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:tcpreplay:1.4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

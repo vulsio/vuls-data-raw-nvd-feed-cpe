@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:nx-os:7.3%280%29zn%280.81%29::~~~nexus_9000_series~~",
+  "deprecated": true,
+  "deprecation_date": "2021-12-03T17:15:14.187Z",
+  "title": [
+    {
+      "text": "Cisco NX-OS 7.3(0)ZN(0.81) for Nexus 9000 Series",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/release/notes/70341_nxos_rn.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:nx-os:7.3\\(0\\)zn\\(0.81\\):*:*:*:*:nexus_9000_series:*:*",
+    "deprecation": {
+      "date": "2021-12-03T12:15:14.187-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:nx-os:7.3\\(0\\)zn\\(0.81\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

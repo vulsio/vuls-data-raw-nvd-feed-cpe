@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:schneider-electric:clearscada_2007:r0.1",
+  "deprecated": true,
+  "deprecation_date": "2018-12-31T14:23:14.560Z",
+  "title": [
+    {
+      "text": "Schneider-Electric ClearSCADA 2007 R0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.schneider-electric.com/en/brands/control-microsystems/"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://resourcecenter.controlmicrosystems.com/display/public/CS/ClearSCADA+Releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:schneider-electric:clearscada_2007:r0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-12-31T09:23:14.560-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:aveva:clearscada:2007:r0.1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:terra-master:terramaster_operating_system:-",
+  "title": [
+    {
+      "text": "TerraMaster Operating System (TOS)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.terra-master.com/global/tos/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://octagon.net/blog/2022/03/07/cve-2022-24990-terrmaster-tos-unauthenticated-remote-command-execution-via-php-object-instantiation/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:terra-master:terramaster_operating_system:-:*:*:*:*:*:*:*"
+  }
+}

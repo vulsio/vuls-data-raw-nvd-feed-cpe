@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:medtronic:carelink_monitor:-",
+  "title": [
+    {
+      "text": "Medtronic CareLink Monitor",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.medtronic.com/us-en/patients/treatments-therapies/remote-monitoring/available-monitors.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:medtronic:carelink_monitor:-:*:*:*:*:*:*:*"
+  }
+}

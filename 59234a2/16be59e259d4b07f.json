@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nodejs:undici:5.22.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Nodejs undici 5.22.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nodejs/undici/security/advisories/GHSA-wqq4-5wpv-mx2g"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nodejs/undici/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:undici:5.22.1:*:*:*:*:node.js:*:*"
+  }
+}

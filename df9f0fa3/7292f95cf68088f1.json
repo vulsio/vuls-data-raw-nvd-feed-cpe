@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux:5.0::client",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux 5.0 Client Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/5.0_release_notes/index"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2008:0300"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux:5.0:*:client:*:*:*:*:*"
+  }
+}

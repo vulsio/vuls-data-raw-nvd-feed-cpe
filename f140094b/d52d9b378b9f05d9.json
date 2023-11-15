@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:salesagility:suitcrm:7.10.0",
+  "deprecated": true,
+  "deprecation_date": "2021-07-22T15:50:40.993Z",
+  "title": [
+    {
+      "text": "Salesagility SuitCRM 7.10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://docs.suitecrm.com/admin/releases/7.10.x/#_7_10_11"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:salesagility:suitcrm:7.10.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-22T11:50:40.993-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:salesagility:suitecrm:7.10.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

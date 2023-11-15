@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:cisco:adaptive_security_appliance:-",
+  "deprecated": true,
+  "deprecation_date": "2023-08-15T18:21:34.727Z",
+  "title": [
+    {
+      "text": "Cisco Adaptive Security Appliance",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:adaptive_security_appliance:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-15T14:21:34.727-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:adaptive_security_appliance_software:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

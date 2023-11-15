@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tableau:server:2020.3.2",
+  "deprecated": true,
+  "deprecation_date": "2020-12-01T12:54:02.247Z",
+  "title": [
+    {
+      "text": "Tableau Server 2020.3.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.tableau.com/support/releases/server"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://help.salesforce.com/articleView?id=000355686&type=1&mode=1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tableau:server:2020.3.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-01T07:54:02.247-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tableau:tableau_server:2020.3.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rust-lang:mdbook:0.3.3::~~~rust~~",
+  "title": [
+    {
+      "text": "Rust-lang mdBook 0.3.3 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rust-lang/mdBook/security/advisories/GHSA-gx5w-rrhp-f436"
+    },
+    {
+      "text": "Product",
+      "href": "https://crates.io/crates/mdbook"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/rust-lang/mdBook/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rust-lang:mdbook:0.3.3:*:*:*:*:rust:*:*"
+  }
+}

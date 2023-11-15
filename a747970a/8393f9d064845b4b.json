@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2003:-:sp2:itanium",
+  "deprecated": true,
+  "deprecation_date": "2019-02-26T14:02:15.243Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2003 Service Pack 2 for Itanium",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2003:-:sp2:itanium:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-02-26T09:02:15.243-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2003:-:sp2:*:*:*:*:itanium:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

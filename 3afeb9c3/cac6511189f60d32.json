@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:merchandise_online_store_product:merchandise_online_store:1.0",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T18:02:37.327Z",
+  "title": [
+    {
+      "text": "Merchandise Online Store Product Merchandise Online Store 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.sourcecodester.com/php/14887/merchandise-online-store-php-free-source-code.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:merchandise_online_store_product:merchandise_online_store:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T14:02:37.327-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:merchandise_online_store_project:merchandise_online_store:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

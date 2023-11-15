@@ -1,0 +1,38 @@
+{
+  "name": "cpe:/a:openprinting:cups:2.4.5",
+  "title": [
+    {
+      "text": "OpenPrinting CUPS 2.4.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/5WHEJIYMMAIXU2EC35MGTB5LGGO2FFJE/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/AMYDKIE4PSJDEMC5OWNFCDMHFGLJ57XG/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/OpenPrinting/cups"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://openprinting.github.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OpenPrinting/cups/security/advisories/GHSA-pf5r-86w9-678h"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OpenPrinting/cups/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openprinting:cups:2.4.5:*:*:*:*:*:*:*"
+  }
+}

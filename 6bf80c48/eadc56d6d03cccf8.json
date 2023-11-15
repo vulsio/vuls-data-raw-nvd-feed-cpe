@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:microsoft:visual_studio:2017",
+  "deprecated": true,
+  "deprecation_date": "2021-08-12T14:45:51.127Z",
+  "title": [
+    {
+      "text": "Microsoft Visual Studio 2017",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes-v15.7#15.7.5"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2017-relnotes"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.visualstudio.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:visual_studio:2017:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-12T10:45:51.127-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:visual_studio_2017:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

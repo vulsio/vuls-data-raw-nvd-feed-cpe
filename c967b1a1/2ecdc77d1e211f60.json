@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:getresponse:getresponse:5.5.19::~~~wordpress~~",
+  "title": [
+    {
+      "text": "GetResponse 5.5.19 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.getresponse.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.trac.wordpress.org/log/getresponse-integration/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/fafbf666-b908-48ef-9041-fea653e9bfeb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:getresponse:getresponse:5.5.19:*:*:*:*:wordpress:*:*"
+  }
+}

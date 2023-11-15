@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:d-link:dgs-1100_firmware:1.01.018",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DGS-1100 Firmware 1.01.018",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://us.dlink.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://labs.integrity.pt/advisories/dlink-dgs-1100-hardcoded-keys/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dgs-1100_firmware:1.01.018:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dgs-1100_firmware:1.01.018:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

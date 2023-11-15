@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:php:pear:1.0b1",
+  "deprecated": true,
+  "deprecation_date": "2020-01-23T14:33:44.797Z",
+  "title": [
+    {
+      "text": "PHP PEAR 1.0b1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:pear:1.0b1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-23T09:33:44.797-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:pear:1.0:b1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:socket:engine.io:1.2.1",
+  "deprecated": true,
+  "deprecation_date": "2022-01-19T16:33:28.703Z",
+  "title": [
+    {
+      "text": "Socket Engine.IO 1.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/engine.io"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/socketio/engine.io"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/socketio/engine.io/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://socket.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:socket:engine.io:1.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-19T11:33:28.703-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:socket:engine.io:1.2.1:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

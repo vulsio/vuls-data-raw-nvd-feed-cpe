@@ -1,0 +1,59 @@
+{
+  "name": "cpe:/o:cisco:fxos:2.1.1.86",
+  "deprecated": true,
+  "deprecation_date": "2023-04-20T15:12:06.860Z",
+  "title": [
+    {
+      "text": "Cisco FXOS 2.1.1.86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://software.cisco.com/download/home/281717634?catid=268438303"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-5100-series-blade-server-chassis/data_sheet_c78-524724.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.cisco.com/c/en/us/td/docs/security/firepower/fxos/compatibility/fxos-compatibility.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/servers-unified-computing/ucs-6200-series-fabric-interconnects/tsd-products-support-series-home.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collateral/servers-unified-computing/ucs-6300-series-fabric-interconnects/datasheet-c78-732207.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.cisco.com/c/en/us/td/docs/security/firepower/fxos/roadmap/fxos-roadmap.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/support/security/firepower-9300-security-appliance/model.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collateral/security/firepower-ngfw/datasheet-c78-736661.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180620-nx-os-fabric-dos#fs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:fxos:2.1.1.86:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-20T11:12:06.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.1.1.86:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

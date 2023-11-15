@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp2syslog_project:wp2syslog:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wp2syslog Project Wp2syslog - for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/wp2syslog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp2syslog/wordpress-wp2syslog-plugin-1-0-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp2syslog_project:wp2syslog:-:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:fortinet:fsw-548d:-",
+  "title": [
+    {
+      "text": "Fortinet FSW-548D",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.fortinet.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.fortinet.com/products/ethernet-switches#models-specs"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://fortiguard.com/advisory/fortiswitch-rest-admin-account-exposed-under-specific-conditions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:fortinet:fsw-548d:-:*:*:*:*:*:*:*"
+  }
+}

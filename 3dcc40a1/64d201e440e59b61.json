@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:undertow:2.2.17:sp1",
+  "title": [
+    {
+      "text": "Red Hat Undertow 2.2.17 Service Pack 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://issues.redhat.com/browse/UNDERTOW-2147?jql=project%20%3D%20UNDERTOW%20AND%20fixVersion%20%3D%202.3.0.Final"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://issues.redhat.com/browse/UNDERTOW-2060"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:undertow:2.2.17:sp1:*:*:*:*:*:*"
+  }
+}

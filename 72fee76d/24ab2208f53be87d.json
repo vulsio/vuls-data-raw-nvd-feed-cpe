@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:abb:relion_650:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:56:47.737Z",
+  "title": [
+    {
+      "text": "ABB Relion 650",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://new.abb.com/substation-automation/products/protection-control/relion-product-family/relion-650-series"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://www04.abb.com/global/seitp/seitp202.nsf/0/7de26b11d3ef8d3dc1257b47001e6d96/$file/1MRG011566.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:abb:relion_650:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:56:47.737-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:hitachienergy:relion_650:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:horde:groupware:5.2.22::~~-~~~",
+  "title": [
+    {
+      "text": "Horde Groupware 5.2.22",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2017-16907?tab=REFERENCES"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/starnightcyber/Miscellaneous/blob/master/Horde/README.md"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.horde.org/apps/groupware/docs/RELEASE_NOTES"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.horde.org/apps/groupware"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/horde/groupware/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:horde:groupware:5.2.22:*:*:*:-:*:*:*"
+  }
+}

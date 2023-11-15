@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:ip_phone_8831_firmware:12.0%281%29sr3",
+  "title": [
+    {
+      "text": "Cisco IP Phone 8831 Firmware 12.0(1)SR3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collaboration-endpoints/unified-ip-phone-8800-series/index.html#~models"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2022-20968"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipp-oobwrite-8cMF5r7U#fs"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ip_phone_8831_firmware:12.0\\(1\\)sr3:*:*:*:*:*:*:*"
+  }
+}

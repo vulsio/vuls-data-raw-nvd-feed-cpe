@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:symantec:endpoint_protection_manager:14.2",
+  "deprecated": true,
+  "deprecation_date": "2020-02-19T22:43:09.527Z",
+  "title": [
+    {
+      "text": "Symantec Endpoint Protection Manager 14.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.symantec.com/en_US/article.HOWTO124729.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-19T17:43:09.527-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:symantec:endpoint_protection_manager:14.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

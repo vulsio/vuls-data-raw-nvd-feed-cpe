@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:keystone:18.0.1",
+  "title": [
+    {
+      "text": "Openstack Keystone 18.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.openstack.org/ossa/OSSA-2021-003.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2021/08/10/5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:keystone:18.0.1:*:*:*:*:*:*:*"
+  }
+}

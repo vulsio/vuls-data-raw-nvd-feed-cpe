@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:tokio:tokio:1.18.4::~~~rust~~",
+  "title": [
+    {
+      "text": "Tokio Tokio 1.18.4 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/tokio-rs/tokio/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/tokio-rs/tokio/security/advisories/GHSA-7rrj-xr53-82p7"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tokio:tokio:1.18.4:*:*:*:*:rust:*:*"
+  }
+}

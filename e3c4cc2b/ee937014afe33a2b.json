@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_server_aus:8.2",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Server AUS 8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2020:3216"
+    },
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/8.2_release_notes/index"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_server_aus:8.2:*:*:*:*:*:*:*"
+  }
+}

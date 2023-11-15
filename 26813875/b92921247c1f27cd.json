@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:dogtagpki:dogtagpki:10.8.0:a2",
+  "deprecated": true,
+  "deprecation_date": "2021-05-06T14:37:50.787Z",
+  "title": [
+    {
+      "text": "Dogtag PKI 10.8.0 A2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.dogtagpki.org/wiki/PKI_Main_Page"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/dogtagpki/pki/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dogtagpki:dogtagpki:10.8.0:a2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-06T10:37:50.787-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dogtagpki:dogtagpki:10.8.0:alpha2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

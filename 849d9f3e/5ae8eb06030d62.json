@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:dell:vnx8000:-",
+  "title": [
+    {
+      "text": "Dell VNX8000",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000191155/dsa-2021-164-dell-vnx2-control-station-security-update-for-multiple-vulnerabilities"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.delltechnologies.com/asset/en-us/products/storage/industry-market/h12145-intro-new-vnx-series-wp.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:dell:vnx8000:-:*:*:*:*:*:*:*"
+  }
+}

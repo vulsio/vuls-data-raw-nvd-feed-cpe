@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:threat_manager:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-12T14:30:20.630Z",
+  "title": [
+    {
+      "text": "Computer Associates Threat Manager",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:threat_manager:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-12T10:30:20.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:threat_manager:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

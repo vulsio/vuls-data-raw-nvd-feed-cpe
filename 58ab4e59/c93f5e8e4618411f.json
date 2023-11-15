@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:opendev:virtualbmc:2.0.0::~~~openstack~~",
+  "title": [
+    {
+      "text": "OpenDev VirtualBMC 2.0.0 for OpenStack",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://storyboard.openstack.org/#!/story/2010382"
+    },
+    {
+      "text": "Product",
+      "href": "https://opendev.org/openstack/virtualbmc"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/virtualbmc/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opendev:virtualbmc:2.0.0:*:*:*:*:openstack:*:*"
+  }
+}

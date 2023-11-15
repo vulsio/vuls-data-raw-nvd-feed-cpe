@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:pipeline%3astage_view:2.18::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Pipeline:stage View 2.18 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/pipeline-stage-view/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-10-19/#SECURITY-2828"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:pipeline\\:stage_view:2.18:*:*:*:*:jenkins:*:*"
+  }
+}

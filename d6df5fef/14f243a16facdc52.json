@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:borgbackup:borg:1.1.12",
+  "title": [
+    {
+      "text": "BorgBackup Borg 1.1.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/borgbackup/borg/releases"
+    },
+    {
+      "text": "Version",
+      "href": "https://borgbackup.readthedocs.io/en/stable/changes.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.borgbackup.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:borgbackup:borg:1.1.12:*:*:*:*:*:*:*"
+  }
+}

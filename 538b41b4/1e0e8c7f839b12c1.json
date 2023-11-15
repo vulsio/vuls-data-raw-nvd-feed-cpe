@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:amino:kami7b_firmware:-",
+  "title": [
+    {
+      "text": "Amino KAMI7B Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.amino.tv/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.amino.tv/kamai-7x/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://andre-oudhof.medium.com/pwning-my-isps-stbs-c5e78544274d#dda4"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amino:kami7b_firmware:-:*:*:*:*:*:*:*"
+  }
+}

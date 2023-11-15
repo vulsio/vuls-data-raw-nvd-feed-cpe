@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:schneider-electric:x80_advanced_rtu_module:-",
+  "title": [
+    {
+      "text": "Schneider Electric X80 Advanced RTU Module ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2022-193-01_OPC_UA_X80_Advanced_RTU_Modicon_Communication_Modules+_Security_Notification.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.se.com/ww/en/product/BMENOR2200H/x80-advanced-rtu-module-ethernet-based-1-serial-port-hardened/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.se.com/ww/en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:schneider-electric:x80_advanced_rtu_module:-:*:*:*:*:*:*:*"
+  }
+}

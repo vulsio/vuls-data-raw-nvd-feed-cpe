@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:python:pillow:8.3.2",
+  "title": [
+    {
+      "text": "Python Pillow 8.3.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://pillow.readthedocs.io/en/stable/releasenotes/8.3.2.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-PYTHON-PILLOW-1319443"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:python:pillow:8.3.2:*:*:*:*:*:*:*"
+  }
+}

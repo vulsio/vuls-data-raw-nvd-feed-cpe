@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:f5:big-ip:-",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:55.883Z",
+  "title": [
+    {
+      "text": "F5 Networks BIG-IP 1500 appliance (D39)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:f5:big-ip:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:55.883-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:f5:big-ip_1000:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

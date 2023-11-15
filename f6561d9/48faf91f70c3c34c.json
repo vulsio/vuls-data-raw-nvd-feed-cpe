@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/o:yahama:rtx3000:9.00.31",
+  "deprecated": true,
+  "deprecation_date": "2011-04-20T14:22:21.200Z",
+  "title": [
+    {
+      "text": "Yamaha RTX3000 9.00.31",
+      "lang": "en-US"
+    },
+    {
+      "text": "ヤマハ RTX3000 9.00.31",
+      "lang": "ja-JP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:yahama:rtx3000:9.00.31:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-04-20T10:22:21.200-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:yamaha:rtx3000:9.00.31:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

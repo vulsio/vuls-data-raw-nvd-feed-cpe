@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:1803",
+  "deprecated": true,
+  "deprecation_date": "2022-12-02T17:01:42.343Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 1803",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.microsoft.com/en-us/help/4464619/windows-10-update-history"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-12-02T12:01:42.343-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:1803:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

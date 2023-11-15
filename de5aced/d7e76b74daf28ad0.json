@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:wordpress:wordpress:5.0.2",
+  "deprecated": true,
+  "deprecation_date": "2019-06-10T21:29:26.630Z",
+  "title": [
+    {
+      "text": "WordPress 5.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wordpress.org/news/category/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wordpress:wordpress:5.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-10T17:29:26.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wordpress:wordpress:5.0.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

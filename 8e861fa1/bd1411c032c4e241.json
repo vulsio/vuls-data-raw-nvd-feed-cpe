@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:git:git:2.22.2",
+  "deprecated": true,
+  "deprecation_date": "2021-01-26T14:46:44.977Z",
+  "title": [
+    {
+      "text": "Git 2.22.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://public-inbox.org/git/xmqqr21cqcn9.fsf@gitster-ct.c.googlers.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:git:git:2.22.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-26T09:46:44.977-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:git-scm:git:2.22.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

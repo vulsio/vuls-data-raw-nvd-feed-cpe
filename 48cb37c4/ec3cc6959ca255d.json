@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:intel:xeon_platinum:8180m",
+  "deprecated": true,
+  "deprecation_date": "2023-09-27T20:39:58.280Z",
+  "title": [
+    {
+      "text": "Intel Xeon Platinum 8180m",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/details/processors/xeon/scalable/platinum.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/125191/intel-xeon-scalable-processors.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_platinum:8180m:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-27T16:39:58.280-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_platinum_8180m:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

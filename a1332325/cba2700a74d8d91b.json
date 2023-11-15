@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:search-guard:search_guard:6.1.1-10::~~~kibana~~",
+  "title": [
+    {
+      "text": "Search Guard 6.1.1-10 for Kibana",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://search-guard.com/cve-advisory/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.search-guard.com/6.x-25/changelog-kibana-6.x-12"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/floragunncom/search-guard-kibana-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:search-guard:search_guard:6.1.1-10:*:*:*:*:kibana:*:*"
+  }
+}

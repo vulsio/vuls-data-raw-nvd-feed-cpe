@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:auth0:login_by_auth0:3.11.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Auth0 Login By Auth0 3.11.3 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/auth0/wp-auth0/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://auth0.com/docs/security/bulletins/cve-2019-20173"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:auth0:login_by_auth0:3.11.3:*:*:*:*:wordpress:*:*"
+  }
+}

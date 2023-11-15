@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:single_sign-on_for_pivotal_cloud_foundry:1.4.3",
+  "title": [
+    {
+      "text": "VMware Single Sign-on For Pivotal Cloud Foundry 1.4.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tanzu.vmware.com/security/cve-2017-8040"
+    },
+    {
+      "text": "Version",
+      "href": "https://network.pivotal.io/products/pivotal_single_sign-on_service/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:single_sign-on_for_pivotal_cloud_foundry:1.4.3:*:*:*:*:*:*:*"
+  }
+}

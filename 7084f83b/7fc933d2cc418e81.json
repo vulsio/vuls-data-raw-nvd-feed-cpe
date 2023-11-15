@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:simple_banner_project:simple_banner:2.10.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Simple Banner Project Simple Banner 2.10.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/9adf7022-5108-43b7-bf0e-a42593185b74"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/simple-banner/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simple_banner_project:simple_banner:2.10.0:*:*:*:*:wordpress:*:*"
+  }
+}

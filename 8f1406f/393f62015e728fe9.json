@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wire:wire:3.83::~~~iphone_os~~",
+  "title": [
+    {
+      "text": "Wire 3.83 for iPhone OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/wireapp/wire-ios-transport/security/advisories/GHSA-v8mx-h3vj-w39v"
+    },
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/us/app/wire-secure-messenger/id930944768"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wire:wire:3.83:*:*:*:*:iphone_os:*:*"
+  }
+}

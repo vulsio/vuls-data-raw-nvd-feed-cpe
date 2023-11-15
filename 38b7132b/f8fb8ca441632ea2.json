@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:talk:16.0.4",
+  "title": [
+    {
+      "text": "Nextcloud Talk 16.0.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-7rf8-pqmj-rpqv"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://apps.nextcloud.com/apps/spreed/releases?platform=15"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:talk:16.0.4:*:*:*:*:*:*:*"
+  }
+}

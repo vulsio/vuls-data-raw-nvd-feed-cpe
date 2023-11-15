@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:simpleledger:slp-validate:1.2.2",
+  "title": [
+    {
+      "text": "Simple Ledger slp-validate 1.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/simpleledger/slp-validate.js/security/advisories/GHSA-6jmr-jfh7-xg3h"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/simpleledger/slp-validate/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simpleledger:slp-validate:1.2.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:mysql:mysql:4.1.2",
+  "deprecated": true,
+  "deprecation_date": "2019-12-17T16:06:01.207Z",
+  "title": [
+    {
+      "text": "MySQL MySQL 4.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysql:mysql:4.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-17T11:06:01.207-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mysql:mysql:4.1.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

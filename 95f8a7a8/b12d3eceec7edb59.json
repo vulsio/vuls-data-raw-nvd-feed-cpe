@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:carel:pcoweb_card_boot:5.00",
+  "title": [
+    {
+      "text": "Carel Pcoweb Card Boot 5.00",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sergiusechel.medium.com/insecure-permissions-in-rehau-group-unlimited-polymer-solutions-implementation-of-carel-pcoweb-514c148ae694"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/cybertoxin/CVEs/blob/main/CVE_2020_18329.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:carel:pcoweb_card_boot:5.00:*:*:*:*:*:*:*"
+  }
+}

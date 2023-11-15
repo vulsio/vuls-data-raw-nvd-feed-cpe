@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:lightning_network_daemon_project:lightning_network_daemon:0.12.0:beta_rc3",
+  "title": [
+    {
+      "text": "Lightning Network Daemon Project Lightning Network Daemon 0.12.0 Beta Release Candidate 3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003264.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bitcoinmagazine.com/technical/good-griefing-a-lingering-vulnerability-on-lightning-network-that-still-needs-fixing"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/lightningnetwork/lnd/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lightning_network_daemon_project:lightning_network_daemon:0.12.0:beta_rc3:*:*:*:*:*:*"
+  }
+}

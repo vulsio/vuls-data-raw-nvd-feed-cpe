@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:systemd_project:systemd:248",
+  "deprecated": true,
+  "deprecation_date": "2022-11-28T19:08:06.250Z",
+  "title": [
+    {
+      "text": "systemd Project systemd 248",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/systemd/systemd/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/systemd/systemd"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:systemd_project:systemd:248:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-28T14:08:06.250-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:systemd_project:systemd:248:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

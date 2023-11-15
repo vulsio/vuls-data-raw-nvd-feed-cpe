@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:turdcoin_project:turdcoin:-",
+  "title": [
+    {
+      "text": "TurdCoin Project TurdCoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x28380d4942470c315c2974b934b2080751d35a77#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:turdcoin_project:turdcoin:-:*:*:*:*:*:*:*"
+  }
+}

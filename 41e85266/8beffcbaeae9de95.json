@@ -1,0 +1,38 @@
+{
+  "name": "cpe:/a:kylinsoft:kylin_os:-",
+  "title": [
+    {
+      "text": "KylinSoft Kylin OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.kylinos.cn/scheme/server.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?ctiid.222260"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/i900008/vulndb/blob/main/kylin-activation_vuln.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.kylinos.cn/scheme/desktop.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/i900008/vulndb/blob/main/kylinos_vul1.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.kylinos.cn/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kylinsoft:kylin_os:-:*:*:*:*:*:*:*"
+  }
+}

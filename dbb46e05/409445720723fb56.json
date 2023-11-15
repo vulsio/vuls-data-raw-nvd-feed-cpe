@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:telos:amhs:11.3.0.8",
+  "deprecated": true,
+  "deprecation_date": "2020-01-06T17:00:27.590Z",
+  "title": [
+    {
+      "text": "Telos Amhs 11.3.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:telos:amhs:11.3.0.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-06T12:00:27.590-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:telos:automated_message_handling_system:11.3.0.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

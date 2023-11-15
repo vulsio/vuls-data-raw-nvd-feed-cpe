@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:vmware:esx_server:2.0.2",
+  "deprecated": true,
+  "deprecation_date": "2012-02-15T20:58:44.037Z",
+  "title": [
+    {
+      "text": "VMWare ESX 2.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:esx_server:2.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-02-15T15:58:44.037-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:vmware:esx:2.0.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

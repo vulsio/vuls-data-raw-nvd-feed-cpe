@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:etherty:etherty_token:-",
+  "title": [
+    {
+      "text": "Etherty Token",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dwfault/AirTokens/blob/master/SPXToken/mint%20interger%20overflow.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://etherty.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0x0661f731f7f442a4147b87af5e77a9ecc7ed744e"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:etherty:etherty_token:-:*:*:*:*:*:*:*"
+  }
+}

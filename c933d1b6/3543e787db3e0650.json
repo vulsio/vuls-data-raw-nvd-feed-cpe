@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:cisco:catalyst_8200:-",
+  "title": [
+    {
+      "text": "Cisco Catalyst 8200",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/products/collateral/routers/catalyst-8200-series-edge-platforms/nb-06-cat8200-series-edge-plat-ds-cte-en.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy16608"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-yuXQ6hFj"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:catalyst_8200:-:*:*:*:*:*:*:*"
+  }
+}

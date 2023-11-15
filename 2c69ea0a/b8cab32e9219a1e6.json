@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fastify:fastify-csrf:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Fastify fastify-csrf for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/fastify/fastify-csrf/security/advisories/GHSA-rc4q-9m69-gqp8"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/fastify/fastify-csrf/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fastify:fastify-csrf:-:*:*:*:*:node.js:*:*"
+  }
+}

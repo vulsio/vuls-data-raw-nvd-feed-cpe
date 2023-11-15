@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:bosch:video_security:3.2.4::~~~android~~",
+  "title": [
+    {
+      "text": "Bosch Video Security 3.2.4 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.bosch.onsite"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://psirt.bosch.com/security-advisories/bosch-sa-844050-bt.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/23xxx/CVE-2021-23863.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bosch:video_security:3.2.4:*:*:*:*:android:*:*"
+  }
+}

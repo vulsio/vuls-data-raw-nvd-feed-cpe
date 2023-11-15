@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:secret_manager_provider_for_secret_store_csi_driver:-::~~~kubernetes~~",
+  "title": [
+    {
+      "text": "Google Secret Manager Provider for Secret Store CSI Driver for Kubernetes",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/issues/384"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/GoogleCloudPlatform/secrets-store-csi-driver-provider-gcp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:secret_manager_provider_for_secret_store_csi_driver:-:*:*:*:*:kubernetes:*:*"
+  }
+}

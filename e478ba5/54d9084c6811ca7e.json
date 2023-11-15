@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:php:php:7.0.6",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:57:15.830Z",
+  "title": [
+    {
+      "text": "PHP 7.0.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://secure.php.net/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:7.0.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:57:15.830-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:7.0.6:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:softwareag:terracotta_server_oss:5.4.1",
+  "title": [
+    {
+      "text": "Software AG Terracotta Server OSS 5.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.softwareag.com/en_corporate.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35469"
+    },
+    {
+      "text": "Product",
+      "href": "https://hub.docker.com/_/softwareag-terracotta-server-oss"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:softwareag:terracotta_server_oss:5.4.1:*:*:*:*:*:*:*"
+  }
+}

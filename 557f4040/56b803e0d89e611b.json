@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:community_general_collection:1.2.0::~~~ansible~~",
+  "title": [
+    {
+      "text": "Red Hat Community General Collection 1.2.0 for Ansible",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ansible.com/products/content-collections"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1916813"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ansible-collections/community.general/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:community_general_collection:1.2.0:*:*:*:*:ansible:*:*"
+  }
+}

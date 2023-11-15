@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:browserify-shim_project:_browserify-shim:3.8.15",
+  "deprecated": true,
+  "deprecation_date": "2022-11-15T18:52:08.343Z",
+  "title": [
+    {
+      "text": "browserify-shim Project browserify-shim 3.8.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/thlorenz/browserify-shim"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/browserify-shim"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:browserify-shim_project:_browserify-shim:3.8.15:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-15T13:52:08.343-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:browserify-shim_project:browserify-shim:3.8.15:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

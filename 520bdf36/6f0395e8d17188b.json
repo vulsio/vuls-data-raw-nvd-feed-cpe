@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:pivotal_software:spring_security:3.1.5",
+  "deprecated": true,
+  "deprecation_date": "2021-06-08T18:20:58.500Z",
+  "title": [
+    {
+      "text": "Pivotal Software Spring Security 3.1.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://projects.spring.io/spring-security/"
+    },
+    {
+      "text": "Version",
+      "href": "https://spring.io/blog/2012/08/10/spring-security-3-1-2-released"
+    },
+    {
+      "text": "Version",
+      "href": "https://spring.io/blog/2011/12/07/spring-security-3-1-0-released"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:spring_security:3.1.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-08T14:20:58.500-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:spring_security:3.1.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

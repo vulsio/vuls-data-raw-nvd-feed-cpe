@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:icocontract_project:icocontract:-",
+  "title": [
+    {
+      "text": "IcoContract Project IcoContract",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xaad9c02e937cfc36af78754ce5ca8fa4809f2232#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:icocontract_project:icocontract:-:*:*:*:*:*:*:*"
+  }
+}

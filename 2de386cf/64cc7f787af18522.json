@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cloudbees:jenkins:1.523",
+  "deprecated": true,
+  "deprecation_date": "2016-06-13T10:55:19.857Z",
+  "title": [
+    {
+      "text": "CloudBees Jenkins 1.523",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor website",
+      "href": "http://www.cloudbees.com/promo/java-paas?gclid=CM_r2rLy2rsCFVLxOgodcRsAeA"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudbees:jenkins:1.523:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-06-13T06:55:19.857-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:1.523:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

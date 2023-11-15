@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:bearychat:2.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins BearyChat 2.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/bearychat/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/bearychat-plugin/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2745"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:bearychat:2.1:*:*:*:*:jenkins:*:*"
+  }
+}

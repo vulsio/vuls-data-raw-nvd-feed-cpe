@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:itechnology_igateway:4.0.050413",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T17:41:03.890Z",
+  "title": [
+    {
+      "text": "Computer Associates iTechnology iGateway 4.0.050413",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:itechnology_igateway:4.0.050413:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T13:41:03.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:itechnology_igateway:4.0.050413:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

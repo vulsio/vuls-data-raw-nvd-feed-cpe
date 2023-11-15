@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:cisco:prime_infrastructure:3.0_base",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T17:24:57.337Z",
+  "title": [
+    {
+      "text": "Cisco Prime Infrastructure 3.0 Base",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.cisco.com/c/en/us/support/cloud-systems-management/prime-infrastructure/tsd-products-support-series-home.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:prime_infrastructure:3.0_base:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T13:24:57.337-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:cisco:prime_infrastructure:3.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

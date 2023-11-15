@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:security_essentials:-",
+  "title": [
+    {
+      "text": "Microsoft Security Essentials",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8558"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.microsoft.com/en-us/help/14210/security-essentials-download"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:security_essentials:-:*:*:*:*:*:*:*"
+  }
+}

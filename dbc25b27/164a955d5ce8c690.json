@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:evm_project:evm:0.36.0::~~~rust~~",
+  "title": [
+    {
+      "text": "EVM Project EVM 0.36.0 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/rust-blockchain/evm/security/advisories/GHSA-hhc4-47rh-cr34"
+    },
+    {
+      "text": "Version",
+      "href": "https://crates.io/crates/evm/versions"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:evm_project:evm:0.36.0:*:*:*:*:rust:*:*"
+  }
+}

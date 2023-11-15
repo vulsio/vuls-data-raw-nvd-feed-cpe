@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:concrete5:concrete5:8.1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-07-15T20:42:14.807Z",
+  "title": [
+    {
+      "text": "Concrete5 8.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.concrete5.org/developers/developer-downloads/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.concrete5.org/documentation/background/version_history"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:concrete5:concrete5:8.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-15T16:42:14.807-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:concretecms:concrete_cms:8.1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

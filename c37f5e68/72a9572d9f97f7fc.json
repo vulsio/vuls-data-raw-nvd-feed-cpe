@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:dell:powerstore_500t:-",
+  "title": [
+    {
+      "text": "Dell PowerStore 500T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000201283/dsa-2022-159-dell-powerstore-family-security-update-for-multiple-vulnerabilities"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.dell.com/en-us/dt/storage/powerstore-storage-appliance/powerstore-t-series.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:dell:powerstore_500t:-:*:*:*:*:*:*:*"
+  }
+}

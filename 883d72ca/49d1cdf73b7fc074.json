@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:canonical:accountsservice:0.6.55-0ubuntu12%7e20.04",
+  "title": [
+    {
+      "text": "Canonical AccountsService 0.6.55-0ubuntu12~20.04",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://launchpad.net/ubuntu/+source/accountsservice"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3939.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ubuntu.com/security/notices/USN-5149-1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:canonical:accountsservice:0.6.55-0ubuntu12\\~20.04:*:*:*:*:*:*:*"
+  }
+}

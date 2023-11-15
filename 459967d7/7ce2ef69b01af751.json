@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:designsandcode:forget-about-shorcode-buttons:1.1.1::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2022-04-21T14:32:30.970Z",
+  "title": [
+    {
+      "text": "Designs & Code Forget About Shortcode Buttons 1.1.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.designsandcode.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/forget-about-shortcode-buttons/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:designsandcode:forget-about-shorcode-buttons:1.1.1:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2022-04-21T10:32:30.970-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:designsandcode:forget_about_shortcode_buttons:1.1.1:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

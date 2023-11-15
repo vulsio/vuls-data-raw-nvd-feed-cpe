@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:intel:openmp:2022.1",
+  "title": [
+    {
+      "text": "Intel OpenMP 2022.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00674.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/develop/documentation/oneapi-dpcpp-cpp-compiler-dev-guide-and-reference/top/optimization-and-programming/openmp-support.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intel:openmp:2022.1:*:*:*:*:*:*:*"
+  }
+}

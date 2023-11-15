@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nrhirani:node-qpdf:1.0.2",
+  "title": [
+    {
+      "text": "Nrhirani Node-qpdf 1.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nrhirani/node-qpdf/issues/23"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-NODEQPDF-5747918"
+    },
+    {
+      "text": "Version",
+      "href": "https://security.snyk.io/package/npm/node-qpdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nrhirani:node-qpdf:1.0.2:*:*:*:*:*:*:*"
+  }
+}

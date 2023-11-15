@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:juniper:junos:17.1",
+  "deprecated": true,
+  "deprecation_date": "2019-04-15T13:19:14.163Z",
+  "title": [
+    {
+      "text": "Juniper JUNOS 17.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://kb.juniper.net/JSA10932"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.juniper.net/us/en/products-services/nos/junos/"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.juniper.net/support/eol/junos.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos:17.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-15T09:19:14.163-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junos:17.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:parity:frontier:2021-10-13",
+  "title": [
+    {
+      "text": "Parity Frontier 2021-10-13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.parity.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/paritytech/frontier/security/advisories/GHSA-vj62-g63v-f8mf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/paritytech/frontier/pull/497"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:parity:frontier:2021-10-13:*:*:*:*:*:*:*"
+  }
+}

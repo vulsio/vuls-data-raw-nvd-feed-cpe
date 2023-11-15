@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:siemens:simatic_wincc:7.4:update_1",
+  "title": [
+    {
+      "text": "Siemens SIMATIC WinCC 7.4 Update 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.industry.siemens.com/cs/document/109782634/update-16-for-wincc-v7-4-sp1-and-wincc-v7-4-sp1-asia?dti=0&pnid=14866&lc=en-WW"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-121293.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-192-02"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.securityfocus.com/bid/109127/info"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:simatic_wincc:7.4:update_1:*:*:*:*:*:*"
+  }
+}

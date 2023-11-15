@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:linux:linux_kernel:2021-05-18",
+  "title": [
+    {
+      "text": "Linux Kernel 2021-05-18",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/security-research/commit/d58eb46a990f773b394cde540911fe40c0e866dc"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/security-research/security/advisories/GHSA-7wq5-phmq-m584"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:linux:linux_kernel:2021-05-18:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vmware:spring_cloud_data_flow:2.5.4",
+  "title": [
+    {
+      "text": "VMware Spring Cloud Data Flow 2.5.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/spring-cloud/spring-cloud-dataflow/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://spring.io/projects/spring-cloud-dataflow"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tanzu.vmware.com/security/cve-2020-5427"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:spring_cloud_data_flow:2.5.4:*:*:*:*:*:*:*"
+  }
+}

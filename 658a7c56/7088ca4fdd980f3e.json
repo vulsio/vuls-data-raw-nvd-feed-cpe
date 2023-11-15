@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:f5:big-ip_policy_enforcement_manager:11.5.4:hotfix1",
+  "deprecated": true,
+  "deprecation_date": "2021-05-14T15:37:16.153Z",
+  "title": [
+    {
+      "text": "F5 Big-IP Policy Enforcement Manager 11.5.4 Hotfix1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.f5.com/csp/article/K77671456"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://f5.com/"
+    },
+    {
+      "text": "Project",
+      "href": "https://support.f5.com/csp/knowledge-center/software"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:11.5.4:hotfix1:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-14T11:37:16.153-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:f5:big-ip_policy_enforcement_manager:11.5.4.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:eclipse:paho_java_client:1.2.0",
+  "title": [
+    {
+      "text": "Eclipse Paho Java Client 1.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugs.eclipse.org/bugs/show_bug.cgi?id=549934"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/eclipse/paho.mqtt.java/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:paho_java_client:1.2.0:*:*:*:*:*:*:*"
+  }
+}

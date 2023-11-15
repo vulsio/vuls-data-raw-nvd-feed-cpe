@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:php:php:5.6.18",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:57:09.017Z",
+  "title": [
+    {
+      "text": "PHP 5.6.18",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://php.net/"
+    },
+    {
+      "text": "Version",
+      "href": "https://secure.php.net/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:5.6.18:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:57:09.017-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:5.6.18:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:acronis:true_image:2019",
+  "deprecated": true,
+  "deprecation_date": "2021-02-03T16:47:56.690Z",
+  "title": [
+    {
+      "text": "Acronis True Image 2019",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.acronis.com/en-us/personal/versions-comparison/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acronis:true_image:2019:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-03T11:47:56.690-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:acronis:true_image:2019:*:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

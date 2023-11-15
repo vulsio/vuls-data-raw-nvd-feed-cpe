@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:intel:s2600cw2:-",
+  "title": [
+    {
+      "text": "Intel S2600CW2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.intel.com/content/www/us/en/homepage.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/78561/intel-server-board-s2600cw-family.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://downloadcenter.intel.com/download/28764/Intel-Server-Board-S2600WT-BIOS-and-Firmware-Update-for-Intel-One-Boot-Flash-Update-Intel-OFU-WinPE-?product=78562"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:s2600cw2:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:trustwave:modsecurity:3.0.8",
+  "title": [
+    {
+      "text": "Trustwave ModSecurity 3.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.modsecurity.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://trustwave-umbraco-us.azurewebsites.net/en-us/resources/blogs/spiderlabs-blog/modsecurity-v3-dos-vulnerability-in-four-transformations-cve-2023-38285/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/SpiderLabs/ModSecurity/releases/tag/v2.9.6"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.trustwave.com/en-us/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/SpiderLabs/ModSecurity/releases/tag/v3.0.8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:trustwave:modsecurity:3.0.8:*:*:*:*:*:*:*"
+  }
+}

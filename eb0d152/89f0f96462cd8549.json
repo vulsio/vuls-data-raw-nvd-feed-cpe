@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:protonmail:web_client:-",
+  "title": [
+    {
+      "text": "ProtonMail Web Client",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/ProtonMail/WebClient"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://protonmail.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://securitylab.github.com/advisories/GHSL-2021-027-redos-ProtonMail/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32816.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:protonmail:web_client:-:*:*:*:*:*:*:*"
+  }
+}

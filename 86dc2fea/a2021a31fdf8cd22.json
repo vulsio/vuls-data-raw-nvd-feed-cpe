@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:bluecoat:content_analysis_system:-",
+  "title": [
+    {
+      "text": "BlueCoat Content Analysis System (CAS)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor security advisory for CVE-2014-2565",
+      "href": "https://kb.bluecoat.com/index?page=content&id=SA78&actp=LIST"
+    },
+    {
+      "text": "product information",
+      "href": "http://bluecoat.com/products/content-analysis-system"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:bluecoat:content_analysis_system:-:*:*:*:*:*:*:*"
+  }
+}

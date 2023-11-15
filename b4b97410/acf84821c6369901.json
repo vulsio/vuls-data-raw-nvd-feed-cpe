@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:swift:2.30.0",
+  "title": [
+    {
+      "text": "OpenStack Object Storage (swift) 2.30.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/openstack/swift/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.openstack.org/ossa/OSSA-2023-001.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:swift:2.30.0:*:*:*:*:*:*:*"
+  }
+}

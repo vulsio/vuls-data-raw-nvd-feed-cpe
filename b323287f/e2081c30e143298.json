@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:edeploy:-",
+  "title": [
+    {
+      "text": "Red Hat eDeploy",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/redhat-cip/edeploy"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/cve-2014-3701"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:edeploy:-:*:*:*:*:*:*:*"
+  }
+}

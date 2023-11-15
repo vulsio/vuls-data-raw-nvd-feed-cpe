@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:tenda:ac10_firmware:16.03.10.13",
+  "title": [
+    {
+      "text": "Tenda AC10 Firmware 16.03.10.13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tendacn.com/product/ac10.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/cloudv2_setaccount/README.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tenda:ac10_firmware:16.03.10.13:*:*:*:*:*:*:*"
+  }
+}

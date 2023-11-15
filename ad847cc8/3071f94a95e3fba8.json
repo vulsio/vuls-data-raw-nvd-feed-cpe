@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:amd:amd_link:-::~~~android~~",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) AMD Link for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.amd.link&hl=en_US&gl=US"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.amd.com/en/technologies/amd-link"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1047"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amd:amd_link:-:*:*:*:*:android:*:*"
+  }
+}

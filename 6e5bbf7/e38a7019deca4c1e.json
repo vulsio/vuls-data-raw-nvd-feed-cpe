@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:readstat_project:readstat:1.1.0:-",
+  "deprecated": true,
+  "deprecation_date": "2019-12-02T13:50:09.983Z",
+  "title": [
+    {
+      "text": "ReadStat Project ReadStat 1.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/WizardMac/ReadStat/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:readstat_project:readstat:1.1.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-02T08:50:09.983-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wizardmac:readstat:1.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

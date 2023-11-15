@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:vmware:velero:1.4.1",
+  "title": [
+    {
+      "text": "VMware Velero 1.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vmware-tanzu/velero/security/advisories/GHSA-72xg-3mcq-52v4"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/vmware-tanzu/velero/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:velero:1.4.1:*:*:*:*:*:*:*"
+  }
+}

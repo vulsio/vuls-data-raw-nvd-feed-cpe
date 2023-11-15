@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:amq_broker:7.8.2",
+  "title": [
+    {
+      "text": "Red Hat AMQ Broker 7.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2021-3763"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://issues.redhat.com/browse/ENTMQBR-5372"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:amq_broker:7.8.2:*:*:*:*:*:*:*"
+  }
+}

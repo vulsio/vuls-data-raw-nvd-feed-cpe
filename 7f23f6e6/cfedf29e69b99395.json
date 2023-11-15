@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:abb:ellipse:8.9.0",
+  "deprecated": true,
+  "deprecation_date": "2023-05-16T20:10:12.660Z",
+  "title": [
+    {
+      "text": "Abb Ellipse 8.9.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://library.e.abb.com/public/58baebe707ed43c5ab354f814dcc7be5/Ellipse%208-9_GA%20announcement-transportation_9AKK107045A0101_170523.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://new.abb.com/"
+    },
+    {
+      "text": "Product",
+      "href": "http://new.abb.com/enterprise-software/asset-optimization-management/ellipse-eam"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:abb:ellipse:8.9.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-16T16:10:12.660-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hitachienergy:ellipse:8.9.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

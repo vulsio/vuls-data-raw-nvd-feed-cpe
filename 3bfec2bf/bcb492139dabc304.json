@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cloudfoundry:php-buildpack:4.3.26",
+  "title": [
+    {
+      "text": "Cloud Foundry PHP Buildpack 4.3.26",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.cloudfoundry.org/buildpacks/php/index.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cloudfoundry/php-buildpack/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:php-buildpack:4.3.26:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:imageworsener_project:imageworsener:0.9.5",
+  "deprecated": true,
+  "deprecation_date": "2019-09-16T14:33:25.270Z",
+  "title": [
+    {
+      "text": "Imageworsener Project Imageworsener 0.9.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jsummers/imageworsener"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:imageworsener_project:imageworsener:0.9.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-16T10:33:25.270-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:entropymine:imageworsener:0.9.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

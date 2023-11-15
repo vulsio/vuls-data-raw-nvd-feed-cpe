@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:open_enclave_sdk:0.7.0",
+  "title": [
+    {
+      "text": "Microsoft Open Enclave SDK 0.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1370"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/openenclave/openenclave/releases/tag/v0.7.0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:open_enclave_sdk:0.7.0:*:*:*:*:*:*:*"
+  }
+}

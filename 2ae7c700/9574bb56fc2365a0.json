@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_79",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:38:22.570Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 1.7.0 Update 79",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://java.com/en/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.oracle.com/index.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://java.com/en/download/faq/release7_changes.xml"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_79:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:38:22.570-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update79:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

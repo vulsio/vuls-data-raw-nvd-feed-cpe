@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:adobe:acrobat_reader:17.011.30127::~~classic~~~",
+  "deprecated": true,
+  "deprecation_date": "2019-08-21T16:20:33.523Z",
+  "title": [
+    {
+      "text": "Adobe Acrobat Reader 17.011.30127 Classic Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/acrobat/apsb19-17.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:acrobat_reader:17.011.30127:*:*:*:classic:*:*:*",
+    "deprecation": {
+      "date": "2019-08-21T12:20:33.523-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:acrobat_reader_dc:17.011.30127:*:*:*:classic:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

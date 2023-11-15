@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:advanced_cluster_management_for_kubernetes:2.0",
+  "title": [
+    {
+      "text": "Red Hat Advanced Cluster Management for Kubernetes 2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.0/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2020-25655"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:advanced_cluster_management_for_kubernetes:2.0:*:*:*:*:*:*:*"
+  }
+}

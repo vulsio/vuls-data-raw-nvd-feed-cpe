@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:d-bus_project:d-bus:1.15.2",
+  "title": [
+    {
+      "text": "D-bus Project D-bus 1.15.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2022/10/06/1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.freedesktop.org/dbus/dbus/-/issues/418"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.freedesktop.org/dbus/dbus/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:d-bus_project:d-bus:1.15.2:*:*:*:*:*:*:*"
+  }
+}

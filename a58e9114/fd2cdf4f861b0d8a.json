@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:dry:2.39::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins DRY 2.39 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/dry"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/dry-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:dry:2.39:*:*:*:*:jenkins:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:apple:watchos:2.2.0",
+  "deprecated": true,
+  "deprecation_date": "2016-05-20T15:48:49.207Z",
+  "title": [
+    {
+      "text": "Apple WatchOS 2.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://developer.apple.com/library/watchos/releasenotes/General/RN-watchOSSDK-2.2/index.html#//apple_ref/doc/uid/TP40016678"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:apple:watchos:2.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2016-05-20T11:48:49.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:watchos:2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

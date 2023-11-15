@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:atlassian:jira_service_management_server_and_data_center:4.21.0",
+  "deprecated": true,
+  "deprecation_date": "2022-03-04T14:52:45.610Z",
+  "title": [
+    {
+      "text": "Atlassian Jira Service Management Server And Data Center 4.21.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://confluence.atlassian.com/servicemanagement/jira-service-management-release-notes-780083086.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.atlassian.com/software/jira/service-management"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.atlassian.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:jira_service_management_server_and_data_center:4.21.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-04T09:52:45.610-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:jira_service_management:4.21.0:*:*:*:server:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

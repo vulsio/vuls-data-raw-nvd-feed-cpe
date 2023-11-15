@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:se:ecostruxure_power_build_-_rapsody:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:32:59.153Z",
+  "title": [
+    {
+      "text": "Schneider-Electric EcoStruxure Power Build - Rapsody",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.se.com/ww/en/product-range-presentation/2309-ecostruxure-power-build---rapsody/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.se.com/ww/en/download/document/SEVD-2021-012-02/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:32:59.153-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

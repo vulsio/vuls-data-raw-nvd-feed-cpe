@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nitro:nitro_pro:12.3.0.240",
+  "deprecated": true,
+  "deprecation_date": "2020-08-04T13:57:05.180Z",
+  "title": [
+    {
+      "text": "Nitro Pro 12.3.0.240",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.gonitro.com/nps/product-details/release-notes"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gonitro.com/product"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nitro:nitro_pro:12.3.0.240:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-04T09:57:05.180-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gonitro:nitro_pro:12.3.0.240:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

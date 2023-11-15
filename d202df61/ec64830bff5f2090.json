@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:adaltech:g-ticket:70",
+  "title": [
+    {
+      "text": "Adaltech G-Ticket 70",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.adaltech.com.br/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.gticket.com.br/site/index.php"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lab.insightsecurity.com.br/g-tickets-sql-injection/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adaltech:g-ticket:70:*:*:*:*:*:*:*"
+  }
+}

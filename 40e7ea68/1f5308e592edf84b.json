@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jre:1.8:update_112",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:57:14.333Z",
+  "title": [
+    {
+      "text": "Oracle JRE 1.8 Update 112",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.oracle.com/technetwork/middleware/jrockit/overview/index-101826.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/java/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jre:1.8:update_112:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:57:14.333-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jre:1.8.0:update112:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

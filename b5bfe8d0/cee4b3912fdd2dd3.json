@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tencent:qqbrowser:-",
+  "title": [
+    {
+      "text": "Tencent QQBrowser",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/seqred-s-a/CVE-2020-10551"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.tencent.com/en-us/about.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://browser.qq.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tencent:qqbrowser:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:sharp-nec-display:c651q_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-05-23T14:11:28.027Z",
+  "title": [
+    {
+      "text": "Sharp NEC Display Solutions C651Q FIRMWARE",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sharpnecdisplays.us/products/displays/c651q"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sharp-nec-display:c651q_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-23T10:11:28.027-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:sharp-nec-displays:c651q_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

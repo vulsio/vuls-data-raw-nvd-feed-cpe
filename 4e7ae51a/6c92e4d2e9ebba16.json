@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:grin-tech:grin:0.4.0",
+  "deprecated": true,
+  "deprecation_date": "2020-01-27T16:17:02.567Z",
+  "title": [
+    {
+      "text": "Grin 0.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://grin-tech.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/mimblewimble/grin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:grin-tech:grin:0.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-27T11:17:02.567-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:grin:grin:0.4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

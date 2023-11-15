@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zohocorp:manageengine_password_manager_pro:6.5",
+  "deprecated": true,
+  "deprecation_date": "2019-07-09T15:55:41.157Z",
+  "title": [
+    {
+      "text": "ZohoCorp ManageEngine Password Manager Pro 6.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://www.manageengine.com/products/passwordmanagerpro/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:6.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-09T11:55:41.157-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:6.5:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

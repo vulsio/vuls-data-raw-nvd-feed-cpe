@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:nomad:1.0.0:beta3:~~enterprise~~~",
+  "title": [
+    {
+      "text": "Hashicorp Nomad 1.0.0 Beta 3 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2021-01-nomad-s-exec-and-java-task-drivers-did-not-isolate-processes/20332"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/nomad/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:nomad:1.0.0:beta3:*:*:enterprise:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10_21h2:10.0.19044.2728",
+  "deprecated": true,
+  "deprecation_date": "2023-10-19T19:12:22.300Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 21h2 10.0.19044.2728",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.2728:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-19T15:12:22.300-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.2728:*:*:*:*:*:arm64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

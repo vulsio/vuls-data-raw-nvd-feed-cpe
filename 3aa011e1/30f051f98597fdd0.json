@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:puppetlabs:puppet:0.25.2",
+  "deprecated": true,
+  "deprecation_date": "2019-07-10T14:12:48.350Z",
+  "title": [
+    {
+      "text": "Puppetlabs Puppet 0.25.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:puppet:0.25.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-10T10:12:48.350-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:puppet:0.25.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

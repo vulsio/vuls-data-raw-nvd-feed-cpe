@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:mikrotik:routeros:5.20",
+  "deprecated": true,
+  "deprecation_date": "2019-09-17T12:43:18.730Z",
+  "title": [
+    {
+      "text": "MikroTik RouterOS 5.20",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mikrotik.com/download/archive"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mikrotik:routeros:5.20:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-17T08:43:18.730-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mikrotik:routeros:5.20:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

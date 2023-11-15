@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:wp-contactform_project:wp-contactform:1.5:alpha",
+  "deprecated": true,
+  "deprecation_date": "2023-08-02T19:11:41.313Z",
+  "title": [
+    {
+      "text": "Wp-contactform Project Wp-contactform 1.5 Alpha",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://securityvulns.ru/Sdocument667.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-02T15:11:41.313-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wp-contactform_project:wp-contactform:1.5:alpha:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

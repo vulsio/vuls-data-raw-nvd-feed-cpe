@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netgate:pfblockerng:2.1.4_26::~~~pfsense~~",
+  "title": [
+    {
+      "text": "Netgate PfBlockerG 2.1.4 26 for pfSense",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html#pfblocker-ng-package"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.ihteam.net/advisory/pfblockerng-unauth-rce-vulnerability/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netgate:pfblockerng:2.1.4_26:*:*:*:*:pfsense:*:*"
+  }
+}

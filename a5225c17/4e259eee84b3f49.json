@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:minicms_project:minicms:1.7",
+  "deprecated": true,
+  "deprecation_date": "2018-10-23T15:18:35.043Z",
+  "title": [
+    {
+      "text": "MiniCMS Project MiniCMS 1.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/bg5sbk/MiniCMS/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:minicms_project:minicms:1.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-23T11:18:35.043-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:1234n:minicms:1.7:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

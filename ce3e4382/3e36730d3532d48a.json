@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:powershell_core:6.2",
+  "title": [
+    {
+      "text": "Microsoft PowerShell Core 6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0632"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/PowerShell"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:powershell_core:6.2:*:*:*:*:*:*:*"
+  }
+}

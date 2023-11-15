@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:riverbed:steelcentral_appinternals_dynamic_sampling_agent:11.0.0",
+  "title": [
+    {
+      "text": "Riverbed Steelcentral Appinternals Dynamic Sampling Agent 11.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/42xxx/CVE-2021-42786.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://aternity.force.com/customersuccess/s/article/Remote-Code-Execution-at-AgentControllerServlet-CVE-2021-42786"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:riverbed:steelcentral_appinternals_dynamic_sampling_agent:11.0.0:*:*:*:*:*:*:*"
+  }
+}

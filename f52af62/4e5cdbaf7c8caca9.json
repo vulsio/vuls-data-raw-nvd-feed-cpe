@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:quay.io_trigger:0.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Quay.io Trigger 0.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-04-12/#SECURITY-2849"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/quayio-trigger/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:quay.io_trigger:0.1:*:*:*:*:jenkins:*:*"
+  }
+}

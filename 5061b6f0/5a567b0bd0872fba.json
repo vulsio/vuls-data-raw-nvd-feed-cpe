@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:weintek:cmt3090:-",
+  "title": [
+    {
+      "text": "Weintek cMT3090",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.weintek.com/globalw/Product/Product_speccMT.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-082-01"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://dl.weintek.com/public/Document/TEC/TEC21001E_cMT_EasyWeb_V1_Security_Issues.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:weintek:cmt3090:-:*:*:*:*:*:*:*"
+  }
+}

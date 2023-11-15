@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:gradle:gradle:7.2",
+  "deprecated": true,
+  "deprecation_date": "2022-02-15T18:00:28.290Z",
+  "title": [
+    {
+      "text": "Gradle 7.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/gradle/gradle/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://gradle.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gradle:gradle:7.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-15T13:00:28.290-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gradle:gradle:7.2.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

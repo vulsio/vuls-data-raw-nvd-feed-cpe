@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:expresstech:quiz_and_survey_master:7.1.16::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ExpressTech Quiz and Survey Master 7.1.16 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/7f2fda5b-45a5-4fc6-968f-90bc9674c999"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://expresstech.io/"
+    },
+    {
+      "text": "Product",
+      "href": "https://quizandsurveymaster.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/quiz-master-next/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:expresstech:quiz_and_survey_master:7.1.16:*:*:*:*:wordpress:*:*"
+  }
+}

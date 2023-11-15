@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pgadmin:pgadmin:2.0:rc2:~~~postgresql~~",
+  "title": [
+    {
+      "text": "Pgadmin Pgadmin 2.0 Release Candidate 2 for Postgresql",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/pgadmin-org/pgadmin4/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://jvn.jp/en/jp/JVN03832974/index.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.pgadmin.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pgadmin:pgadmin:2.0:rc2:*:*:*:postgresql:*:*"
+  }
+}

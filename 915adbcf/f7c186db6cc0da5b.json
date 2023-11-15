@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mariadb_project:mariadb:1.0.2::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2020-11-16T14:22:41.790Z",
+  "title": [
+    {
+      "text": "mariadb Project mariadb 1.0.2 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/mariadb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mariadb_project:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2020-11-16T09:22:41.790-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mariadb:mariadb:1.0.2:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

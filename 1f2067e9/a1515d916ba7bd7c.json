@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:dlink:dir-820l_firmware:1.06b02",
+  "title": [
+    {
+      "text": "D-Link DIR-820L Firmware 1.06b02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://us.dlink.com/en/consumer"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.dlinktw.com.tw/techsupport/ProductInfo.aspx?m=DIR-820L"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/migraine-sudo/D_Link_Vuln/tree/main/stackoverflow%20%20in%20reserveDHCP_HostName_1.1.1.0"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dlink:dir-820l_firmware:1.06b02:*:*:*:*:*:*:*"
+  }
+}

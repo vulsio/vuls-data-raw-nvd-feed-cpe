@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:adobe:coldfusion:2016:update_12",
+  "deprecated": true,
+  "deprecation_date": "2020-09-04T14:09:21.473Z",
+  "title": [
+    {
+      "text": "Adobe ColdFusion 2016 Update 12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-2016-updates.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-2018-updates.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:coldfusion:2016:update_12:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-04T10:09:21.473-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adobe:coldfusion:2016:update12:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

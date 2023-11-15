@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:odbc_driver_for_sql_server:18.0.1.1::~~~windows~~",
+  "title": [
+    {
+      "text": "Microsoft ODBC Driver For SQL Server 18.0.1.1 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/?ql=3"
+    },
+    {
+      "text": "Product",
+      "href": "https://learn.microsoft.com/en-us/sql/connect/odbc/microsoft-odbc-driver-for-sql-server?view=sql-server-ver16"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-32026"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:odbc_driver_for_sql_server:18.0.1.1:*:*:*:*:windows:*:*"
+  }
+}

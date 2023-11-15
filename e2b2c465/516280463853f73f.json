@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ipswitch:ws_ftp_server:1.0.1",
+  "deprecated": true,
+  "deprecation_date": "2019-08-13T14:39:15.307Z",
+  "title": [
+    {
+      "text": "Ipswitch WS_FTP Server 1.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ipswitch:ws_ftp_server:1.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-13T10:39:15.307-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:progress:ipswitch_ws_ftp_server:1.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hashicorp:consul:1.16.1::~~-~~~",
+  "title": [
+    {
+      "text": "Hashicorp Consul 1.16.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://discuss.hashicorp.com/t/hcsec-2023-25-consul-jwt-auth-in-l7-intentions-allow-for-mismatched-service-identity-and-jwt-providers/57004"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/hashicorp/consul/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:1.16.1:*:*:*:-:*:*:*"
+  }
+}

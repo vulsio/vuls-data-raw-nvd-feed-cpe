@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:snapcenter_plug-in:-::~~~vmware_vsphere~~",
+  "title": [
+    {
+      "text": "NetApp SnapCenter Plug-in for VMware vSphere",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.netapp.com/ocsc-41/index.jsp?topic=%2Fcom.netapp.doc.ocsc-con%2FGUID-0CC54DEB-2A3B-4E98-8615-C97A225FEB2A.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20210611-0006/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:snapcenter_plug-in:-:*:*:*:*:vmware_vsphere:*:*"
+  }
+}

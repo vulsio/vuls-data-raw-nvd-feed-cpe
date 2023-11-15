@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octopus:octopus_deploy:2021.2.7697",
+  "deprecated": true,
+  "deprecation_date": "2022-07-27T16:57:40.043Z",
+  "title": [
+    {
+      "text": "Octopus Octopus Deploy 2021.2.7697",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://octopus.com/downloads/previous"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:octopus_deploy:2021.2.7697:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-27T12:57:40.043-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octopus:octopus_server:2021.2.7697:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:astra_trident:-",
+  "title": [
+    {
+      "text": "NetApp Astra Trident -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20220325-0010/"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.netapp.com/us-en/netapp-solutions/containers/rh-os-n_overview_trident.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:astra_trident:-:*:*:*:*:*:*:*"
+  }
+}

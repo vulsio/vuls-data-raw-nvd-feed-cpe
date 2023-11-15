@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:abb:power_generation_information_manager:-",
+  "title": [
+    {
+      "text": "ABB Power Generation Information Manager (PGIM)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-318-05"
+    },
+    {
+      "text": "Product",
+      "href": "https://library.e.abb.com/public/8de8d0f13ed57bd0c12572650035aa0b/1KGD%20400132%20PGIM%205.0%20Leaflet.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:abb:power_generation_information_manager:-:*:*:*:*:*:*:*"
+  }
+}

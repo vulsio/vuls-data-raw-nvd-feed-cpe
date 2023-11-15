@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:intel:82599_10_gigabit_ethernet_controller:-",
+  "title": [
+    {
+      "text": "Intel 82599 10 Gigabit Ethernet Controller -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00650.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/support/articles/000005693/ethernet-products/700-series-network-adapters-up-to-40gbe.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:82599_10_gigabit_ethernet_controller:-:*:*:*:*:*:*:*"
+  }
+}

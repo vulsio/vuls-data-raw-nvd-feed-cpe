@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:helloprint:helloprint:1.0.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Helloprint 1.0.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.helloprint.com/company"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/helloprint/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/c44802a0-8cbe-4386-9523-3b6cb44c6505"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:helloprint:helloprint:1.0.2:*:*:*:*:wordpress:*:*"
+  }
+}

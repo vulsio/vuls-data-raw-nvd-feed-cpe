@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:quickjs_project:quickjs:-",
+  "title": [
+    {
+      "text": "QuickJS Project QuickJS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/ldarren/QuickJS"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/22xxx/CVE-2020-22876.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ldarren/QuickJS/issues/11"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:quickjs_project:quickjs:-:*:*:*:*:*:*:*"
+  }
+}

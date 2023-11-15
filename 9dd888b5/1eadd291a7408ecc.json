@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mv:idce:1.0",
+  "title": [
+    {
+      "text": "MV IDCE 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mv.com.br/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/23xxx/CVE-2020-23284.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ifmacedo/mconnect/blob/main/sensitiveDataExposure"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mv:idce:1.0:*:*:*:*:*:*:*"
+  }
+}

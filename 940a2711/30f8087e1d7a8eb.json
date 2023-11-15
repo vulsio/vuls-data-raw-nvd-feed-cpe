@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:freebsd:freebsd:4.11",
+  "deprecated": true,
+  "deprecation_date": "2019-03-18T17:53:37.880Z",
+  "title": [
+    {
+      "text": "FreeBSD 4.11",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:freebsd:freebsd:4.11:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-18T13:53:37.880-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:freebsd:freebsd:4.11:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

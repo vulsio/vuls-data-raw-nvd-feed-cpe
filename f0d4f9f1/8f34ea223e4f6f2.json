@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:mqtt:mqtt:201808021036",
+  "title": [
+    {
+      "text": "MQTT 201808021036",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/257133"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/3xxx/CVE-2023-3028.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mqtt:mqtt:201808021036:*:*:*:*:*:*:*"
+  }
+}

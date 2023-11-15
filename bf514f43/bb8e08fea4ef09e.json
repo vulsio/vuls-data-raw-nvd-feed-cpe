@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:canonical:ubuntu_linux:21.10::~~-~~~",
+  "title": [
+    {
+      "text": "Canonical Ubuntu Linux 21.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/NTAP-20220808-0001/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ubuntu.com/security/notices/USN-5149-1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:canonical:ubuntu_linux:21.10:*:*:*:-:*:*:*"
+  }
+}

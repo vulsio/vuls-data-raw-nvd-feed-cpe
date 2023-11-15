@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:nasm:nasm:2.09.06",
+  "deprecated": true,
+  "deprecation_date": "2018-10-29T16:59:50.567Z",
+  "title": [
+    {
+      "text": "NASM 2.09.06",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/doc/nasmdocc.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.nasm.us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nasm:nasm:2.09.06:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-29T12:59:50.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nasm:netwide_assembler:2.09.06:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:7.0:update_331",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:41:32.140Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 7.0 Update 331",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:7.0:update_331:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:41:32.140-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update331:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:magento:magento:1.14.4.3::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Magento 1.14.4.3 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://devdocs.magento.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/magento/apsb20-02.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:magento:magento:1.14.4.3:*:*:*:enterprise:*:*:*"
+  }
+}

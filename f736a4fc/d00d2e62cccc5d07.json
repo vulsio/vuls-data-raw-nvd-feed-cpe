@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:azure_iot_edge_for_linux:-",
+  "title": [
+    {
+      "text": "Microsoft Azure IoT Edge for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/Azure/iotedge-eflow"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38014"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:azure_iot_edge_for_linux:-:*:*:*:*:*:*:*"
+  }
+}

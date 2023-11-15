@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:easydigitaldownloads:easy_digital_downloads:2.8.15::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-10-26T16:24:48.820Z",
+  "title": [
+    {
+      "text": "Easy Digital Downloads 2.8.15 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://easydigitaldownloads.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/easy-digital-downloads/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:easydigitaldownloads:easy_digital_downloads:2.8.15:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-10-26T12:24:48.820-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:2.8.15:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

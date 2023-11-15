@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:korenix:jetport_5601:-",
+  "title": [
+    {
+      "text": "Korenix Jetport 5601",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.korenix.com/en/product/show.aspx?num=60"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@bertinjoseb/korenix-jetport-web-manager-persistent-xss-6cf7e2a38634"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:korenix:jetport_5601:-:*:*:*:*:*:*:*"
+  }
+}

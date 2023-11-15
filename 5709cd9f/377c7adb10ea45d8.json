@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:eclipse:hudson:-",
+  "title": [
+    {
+      "text": "Eclipse Foundation Hudson",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wiki.eclipse.org/Hudson-ci/alerts/CVE-2015-8031"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.eclipse.org/projects/archives.php#hudson:~:text=Archived%3A%20August%202019-,Hudson,-project.%20Archived%3A%20February"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.eclipse.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:hudson:-:*:*:*:*:*:*:*"
+  }
+}

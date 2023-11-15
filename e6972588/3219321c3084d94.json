@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:docker:composer_docker_image:1.6.5",
+  "title": [
+    {
+      "text": "Docker Composer Docker Image 1.6.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://hub.docker.com/_/composer?tab=tags&page=1&ordering=last_updated"
+    },
+    {
+      "text": "Product",
+      "href": "https://hub.docker.com/_/composer"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35184"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:docker:composer_docker_image:1.6.5:*:*:*:*:*:*:*"
+  }
+}

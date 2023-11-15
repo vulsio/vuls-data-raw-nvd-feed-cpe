@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:intel:microcode:-",
+  "title": [
+    {
+      "text": "Intel Microcode",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:emc:rsa_bsafe_crypto-j:6.2.1",
+  "deprecated": true,
+  "deprecation_date": "2021-11-30T18:56:36.227Z",
+  "title": [
+    {
+      "text": "EMC RSA BSAFE Crypto-J 6.2.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://community.rsa.com/community/products/bsafe/crypto-j-62"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:emc:rsa_bsafe_crypto-j:6.2.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-11-30T13:56:36.227-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:dell:bsafe_crypto-j:6.2.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

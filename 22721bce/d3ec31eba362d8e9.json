@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:eclipse:jetty:10.0.0:beta2",
+  "title": [
+    {
+      "text": "Eclipse Jetty 10.0.0 Beta 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-g3wg-6mcf-8jj6#advisory-comment-63053"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/eclipse/jetty.project/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:eclipse:jetty:10.0.0:beta2:*:*:*:*:*:*"
+  }
+}

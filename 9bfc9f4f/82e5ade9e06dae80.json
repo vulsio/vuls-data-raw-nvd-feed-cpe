@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:monstra:monstra_cms:1.6",
+  "title": [
+    {
+      "text": "Monstra Monstra CMS 1.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://monstra.org/"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/monstra-cms/monstra"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/security-breachlock/CVE-2018-19599/blob/master/monstra-dev_svg.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:monstra:monstra_cms:1.6:*:*:*:*:*:*:*"
+  }
+}

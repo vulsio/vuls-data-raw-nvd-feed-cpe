@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:awseb_deployment:0.3.19::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins AWSEB Deployment 0.3.19 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://jenkins.io/security/advisory/2020-04-07/#SECURITY-1769"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/jenkinsci/awseb-deployment-plugin"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:awseb_deployment:0.3.19:*:*:*:*:jenkins:*:*"
+  }
+}

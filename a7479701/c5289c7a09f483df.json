@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_server_2008:r2:sp1:x64",
+  "deprecated": true,
+  "deprecation_date": "2020-09-28T12:58:30.433Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Server 2008 R2 Service Pack 1 x64 (64-bit)",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:x64:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-28T08:58:30.433-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:*:x64:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

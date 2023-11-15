@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:acrontum:filesystem-template:0.0.2::~~~node.js~~",
+  "title": [
+    {
+      "text": "Acrontum Filesystem-template 0.0.2 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-ACRONTUMFILESYSTEMTEMPLATE-2419071"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/acrontum/filesystem-template/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acrontum:filesystem-template:0.0.2:*:*:*:*:node.js:*:*"
+  }
+}

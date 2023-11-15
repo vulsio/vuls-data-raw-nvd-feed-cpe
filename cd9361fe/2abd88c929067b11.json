@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:qualcomm:qca6584au_firmware:_",
+  "deprecated": true,
+  "deprecation_date": "2021-08-17T17:33:04.890Z",
+  "title": [
+    {
+      "text": "Qualcomm QCA6584AU Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:qualcomm:qca6584au_firmware:_:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-17T13:33:04.890-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:qualcomm:qca6584au_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

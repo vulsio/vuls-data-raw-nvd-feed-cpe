@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:blackbox:icompel_firmware:11.1.4",
+  "title": [
+    {
+      "text": "BlackBox iCompel Firmware 11.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://experiencesofasysadmin.wordpress.com/2019/08/23/cve-2019-15497-default-credentials/"
+    },
+    {
+      "text": "Product",
+      "href": "http://ftp.blackbox.com/manuals/I/iCOMPEL_user_guide_9.2.3.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:blackbox:icompel_firmware:11.1.4:*:*:*:*:*:*:*"
+  }
+}

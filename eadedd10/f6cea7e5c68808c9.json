@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:paloaltonetworks:vm-series_firewall:-",
+  "title": [
+    {
+      "text": "Palo Alto Networks VM-Series Firewall ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.paloaltonetworks.com/vm-series/9-1/vm-series-deployment/about-the-vm-series-firewall.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.paloaltonetworks.com/CVE-2021-3062"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:paloaltonetworks:vm-series_firewall:-:*:*:*:*:*:*:*"
+  }
+}

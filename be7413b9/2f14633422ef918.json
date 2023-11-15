@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x7550:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:58.640Z",
+  "title": [
+    {
+      "text": "Intel Xeon X7550",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x7550:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:58.640-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_x7550:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

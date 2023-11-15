@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:rubyonrails:ruby_on_rails:3.0.7:rc2",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T15:41:52.793Z",
+  "title": [
+    {
+      "text": "Ruby on Rails 3.0.7 release candidate 2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:3.0.7:rc2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T11:41:52.793-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:3.0.7:rc2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

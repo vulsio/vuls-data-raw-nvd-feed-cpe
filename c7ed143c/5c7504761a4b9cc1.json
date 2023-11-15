@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:digi:connectcore_8x_firmware:-",
+  "title": [
+    {
+      "text": "Digi ConnectCore 8x Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://hub.digi.com/support/products/system-on-modules/digi-connectcore-8x/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:digi:connectcore_8x_firmware:-:*:*:*:*:*:*:*"
+  }
+}

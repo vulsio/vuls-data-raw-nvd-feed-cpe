@@ -1,0 +1,46 @@
+{
+  "name": "cpe:/a:alibaba:nacos:1.1.1",
+  "title": [
+    {
+      "text": "Alibaba Nacos 1.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://mvnrepository.com/artifact/com.alibaba.nacos/nacos-client/1.1.1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/171638/Nacos-2.0.3-Access-Control.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/alibaba/nacos/issues/4701"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/alibaba/nacos/pull/4517"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/alibaba/nacos/issues/4463"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/advisories/GHSA-36hp-jr8h-556f"
+    },
+    {
+      "text": "Product",
+      "href": "https://nacos.io/zh-cn/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/alibaba/nacos/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alibaba:nacos:1.1.1:*:*:*:*:*:*:*"
+  }
+}

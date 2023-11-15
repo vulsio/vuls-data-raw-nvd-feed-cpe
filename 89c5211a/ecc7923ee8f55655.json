@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:networkmanager:1.0.8",
+  "title": [
+    {
+      "text": "Red Hat NetworkManager 1.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/Networking_Guide/sec-Installing_NetworkManager.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://download.gnome.org/sources/NetworkManager-vpnc/1.0/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:networkmanager:1.0.8:*:*:*:*:*:*:*"
+  }
+}

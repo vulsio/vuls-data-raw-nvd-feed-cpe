@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:wdc:software_upgrader:1.4.5.5",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T15:02:08.480Z",
+  "title": [
+    {
+      "text": "Wdc Software Upgrader 1.4.5.5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wdc:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-24T10:02:08.480-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:westerndigital:software_upgrader:1.4.5.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

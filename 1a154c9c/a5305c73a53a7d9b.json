@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hivemq:broker_control_center:4.3.2",
+  "title": [
+    {
+      "text": "HiveMQ Broker Control Center 4.3.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.hivemq.com/downloads/download-hivemq/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://payatu.com/advisory/hivemq-mqtt-broker---xss-over-mqtt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hivemq:broker_control_center:4.3.2:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:mytoken_project:mytoken:-",
+  "deprecated": true,
+  "deprecation_date": "2020-02-18T14:25:33.240Z",
+  "title": [
+    {
+      "text": "MyToken Project MyToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xaae6b19867d40aa105c7256b44010d79dbdaa031#code"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mytoken_project:mytoken:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-18T09:25:33.240-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mytokenshr_project:mytokenshr:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

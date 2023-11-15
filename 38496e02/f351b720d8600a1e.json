@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:naver:cloud_explorer:-:-",
+  "title": [
+    {
+      "text": "Naver Cloud Explorer",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cve.naver.com/detail/cve-2022-24077.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.naver.com/"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.ncloud.com/product/networking"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:naver:cloud_explorer:-:-:*:*:*:*:*:*"
+  }
+}

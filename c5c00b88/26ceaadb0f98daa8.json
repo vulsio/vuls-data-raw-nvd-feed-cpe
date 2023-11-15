@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:intel:atom_x3:c3445",
+  "deprecated": true,
+  "deprecation_date": "2023-09-25T20:17:46.647Z",
+  "title": [
+    {
+      "text": "Intel Atom X3 C3445",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/processors/atom/x-series.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00314.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:atom_x3:c3445:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-25T16:17:46.647-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:atom_x3-c3445:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:zohocorp:manageengine_opmanager:12.3:123066",
+  "deprecated": true,
+  "deprecation_date": "2021-05-04T14:54:24.367Z",
+  "title": [
+    {
+      "text": "ZohoCorp ManageEngine OpManager 12.3 123066",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zohocorp.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.manageengine.com/network-monitoring/help/read-me-complete.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.manageengine.com/network-monitoring/?pos=MEhome&loc=ProdMenu&cat=ITOM&prev=AB3"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:123066:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-05-04T10:54:24.367-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:build123066:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

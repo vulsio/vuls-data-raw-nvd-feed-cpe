@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:magento:magento:2.4.1:p1:~~commerce~~~",
+  "title": [
+    {
+      "text": "Magento 2.4.1 Patch 1 Commerce Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://devdocs.magento.com/guides/v2.4/release-notes/commerce-2-4-1.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/magento/devdocs/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://magento.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:magento:magento:2.4.1:p1:*:*:commerce:*:*:*"
+  }
+}

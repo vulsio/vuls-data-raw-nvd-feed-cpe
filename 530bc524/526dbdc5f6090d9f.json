@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:jenkins:vrealize_orchestrator:3.0::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins vRealize Orchestrator 3.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/vmware-vrealize-orchestrator/#releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/vmware-vrealize-orchestrator/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2279"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:vrealize_orchestrator:3.0:*:*:*:*:jenkins:*:*"
+  }
+}

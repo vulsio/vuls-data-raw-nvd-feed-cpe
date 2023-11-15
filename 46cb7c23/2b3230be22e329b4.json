@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:basecamp:easymon:-",
+  "deprecated": true,
+  "deprecation_date": "2019-10-29T13:46:15.867Z",
+  "title": [
+    {
+      "text": "Basecamp Easymon",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/basecamp/easymon"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:basecamp:easymon:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-29T09:46:15.867-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:basecamp:easymon:-:*:*:*:*:ruby:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

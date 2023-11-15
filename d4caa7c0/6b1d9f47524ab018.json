@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:openvas:greenbone_security_assistant:6.0.6",
+  "deprecated": true,
+  "deprecation_date": "2019-06-20T00:19:11.560Z",
+  "title": [
+    {
+      "text": "OpenVAS Greenbone Security Assistant (GSA) 6.0.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://www.openvas.org/src-doc/gsa/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:openvas:greenbone_security_assistant:6.0.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-19T20:19:11.560-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:greenbone:greenbone_security_assistant:6.0.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

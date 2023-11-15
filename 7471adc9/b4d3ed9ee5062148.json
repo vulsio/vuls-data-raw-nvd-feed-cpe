@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pivotal_software:login-server:-",
+  "title": [
+    {
+      "text": "Pivotal Software Login-server",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/cloudfoundry/uaa/tree/2.7.4.1"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/uaa-release"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.pivotal.io/pivotalcf/1-6/concepts/architecture/uaa.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:login-server:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:alpinelinux:alpine_linux:3.8.3",
+  "deprecated": true,
+  "deprecation_date": "2020-03-18T14:53:17.813Z",
+  "title": [
+    {
+      "text": "Alpine Linux 3.8.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://alpinelinux.org/"
+    },
+    {
+      "text": "Version",
+      "href": "http://dl-cdn.alpinelinux.org/alpine/"
+    },
+    {
+      "text": "Version",
+      "href": "https://git.alpinelinux.org/apk-tools/refs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alpinelinux:alpine_linux:3.8.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-18T10:53:17.813-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:alpinelinux:alpine_linux:3.8.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

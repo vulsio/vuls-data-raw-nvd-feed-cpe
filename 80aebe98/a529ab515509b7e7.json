@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:intel:trusted_execution_engine_firmware:4.0.25",
+  "title": [
+    {
+      "text": "Intel Trusted Execution Engine Firmware 4.0.25",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00295.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://downloadcenter.intel.com/download/26435/Intel-Trusted-Execution-Engine-Intel-TXE-Driver-for-NUC6CAY-NUC8CCH"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:trusted_execution_engine_firmware:4.0.25:*:*:*:*:*:*:*"
+  }
+}

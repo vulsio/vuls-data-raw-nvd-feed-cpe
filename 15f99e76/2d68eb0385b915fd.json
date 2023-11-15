@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows:vista:unknown:x64",
+  "deprecated": true,
+  "deprecation_date": "2011-08-18T14:07:07.693Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Vista x64",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows:vista:unknown:x64:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-08-18T10:07:07.693-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

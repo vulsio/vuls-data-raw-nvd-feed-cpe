@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:puppetlabs:facter:1.6.8:-",
+  "deprecated": true,
+  "deprecation_date": "2019-07-11T12:41:57.867Z",
+  "title": [
+    {
+      "text": "Puppet Facter 1.6.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://puppetlabs.com/"
+    },
+    {
+      "text": "Product changelog",
+      "href": "https://github.com/puppetlabs/facter/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppetlabs:facter:1.6.8:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-11T08:41:57.867-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:puppet:facter:1.6.8:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

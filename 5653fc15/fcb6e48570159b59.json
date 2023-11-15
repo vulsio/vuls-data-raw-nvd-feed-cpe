@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:moodle:moodle:3.7",
+  "deprecated": true,
+  "deprecation_date": "2020-12-01T14:50:28.767Z",
+  "title": [
+    {
+      "text": "Moodle 3.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.moodle.org/dev/Releases#Moodle_3.6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:moodle:moodle:3.7:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-01T09:50:28.767-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:moodle:moodle:3.7.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

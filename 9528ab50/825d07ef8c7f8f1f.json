@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:elastic:endpoint_security:7.13.0",
+  "title": [
+    {
+      "text": "Elastic Endpoint Security 7.13.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.elastic.co/security/endpoint-security"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://discuss.elastic.co/t/elastic-8-3-1-8-3-0-and-7-17-5-security-update/308613#kibana-cross-site-scripting-xss-issue-esa-2022-08-1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elastic:endpoint_security:7.13.0:*:*:*:*:*:*:*"
+  }
+}

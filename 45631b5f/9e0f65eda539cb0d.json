@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tang_project:tang:8",
+  "title": [
+    {
+      "text": "Tang Project Tang 8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/4xxx/CVE-2021-4076.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2029814"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/latchset/tang/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tang_project:tang:8:*:*:*:*:*:*:*"
+  }
+}

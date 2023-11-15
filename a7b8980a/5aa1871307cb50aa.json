@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:microsoft:windows_2003_server:-:sp1:storage",
+  "deprecated": true,
+  "deprecation_date": "2021-07-07T16:08:32.760Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2003 Service Pack 1 Storage",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_2003_server:-:sp1:storage:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-07T12:08:32.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:storage:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

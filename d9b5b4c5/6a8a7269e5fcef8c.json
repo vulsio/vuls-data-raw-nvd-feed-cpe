@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:sensiolabs:twig:1.19.0",
+  "deprecated": true,
+  "deprecation_date": "2018-09-06T13:33:56.503Z",
+  "title": [
+    {
+      "text": "SensioLabs Twig 1.19.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Website",
+      "href": "http://twig.sensiolabs.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sensiolabs:twig:1.19.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-09-06T09:33:56.503-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:symfony:twig:1.19.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

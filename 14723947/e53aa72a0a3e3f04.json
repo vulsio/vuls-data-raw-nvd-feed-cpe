@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mobyproject:hyperkit:0.20170519",
+  "title": [
+    {
+      "text": "Mobyproject Hyperkit 0.20170519",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mobyproject.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/moby/hyperkit/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://securitylab.github.com/advisories/GHSL-2021-054_057-moby-hyperkit/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mobyproject:hyperkit:0.20170519:*:*:*:*:*:*:*"
+  }
+}

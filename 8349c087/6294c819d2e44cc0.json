@@ -1,0 +1,43 @@
+{
+  "name": "cpe:/a:mpxj:mpxj:8.0.5",
+  "deprecated": true,
+  "deprecation_date": "2022-11-28T18:20:12.963Z",
+  "title": [
+    {
+      "text": "MPXJ 8.0.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.mpxj.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/joniles/mpxj"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/joniles/mpxj"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.mpxj.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/joniles/mpxj/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mpxj:mpxj:8.0.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-28T13:20:12.963-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mpxj:mpxj:8.0.5:*:*:*:*:-:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

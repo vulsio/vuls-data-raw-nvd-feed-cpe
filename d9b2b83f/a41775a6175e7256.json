@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:pgbouncer_project:pgbouncer:1.0.2",
+  "deprecated": true,
+  "deprecation_date": "2020-11-03T18:15:59.973Z",
+  "title": [
+    {
+      "text": "PgBouncer Project PgBouncer 1.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/pgbouncer/pgbouncer/tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/pgbouncer/pgbouncer"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pgbouncer_project:pgbouncer:1.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-11-03T13:15:59.973-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:pgbouncer:pgbouncer:1.0.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

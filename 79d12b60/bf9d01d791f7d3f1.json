@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:snapmanager:3.4.2::~~~sap~~",
+  "title": [
+    {
+      "text": "NetApp Snapmanager 3.4.2 for Sap",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.netapp.com/us/documentation/snapmanager-snapdrive-snap-creator-resources.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20181014-0001/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:snapmanager:3.4.2:*:*:*:*:sap:*:*"
+  }
+}

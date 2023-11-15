@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:emc:data_domain:5.2",
+  "deprecated": true,
+  "deprecation_date": "2020-12-07T17:25:09.890Z",
+  "title": [
+    {
+      "text": "EMC Data Domain 5.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.emc.com/en-us/data-protection/data-domain.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:emc:data_domain:5.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-12-07T12:25:09.890-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dell:emc_data_domain_os:5.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

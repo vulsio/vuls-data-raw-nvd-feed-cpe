@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:themepalace:tp_education:4.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Theme Palace TP Education 4.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://themepalace.com/downloads/category/wordpress-plugins/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/tp-education/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/tp-education/wordpress-tp-education-plugin-4-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:themepalace:tp_education:4.0:*:*:*:*:wordpress:*:*"
+  }
+}

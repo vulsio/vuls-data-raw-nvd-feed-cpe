@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:libevt_project:libevt:2019-12-21:alpha",
+  "deprecated": true,
+  "deprecation_date": "2020-06-17T13:13:28.567Z",
+  "title": [
+    {
+      "text": "libEVT Project libEVT 2019-12-21 Alpha",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/libyal/libevt/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libevt_project:libevt:2019-12-21:alpha:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-17T09:13:28.567-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:libevt_project:libevt:20191221:alpha:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:belkin:wemo_switch:-",
+  "title": [
+    {
+      "text": "Belkin WeMo Switch",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.belkin.com/us/Products/smarthome-iot/c/wemo/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/24924"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:belkin:wemo_switch:-:*:*:*:*:*:*:*"
+  }
+}

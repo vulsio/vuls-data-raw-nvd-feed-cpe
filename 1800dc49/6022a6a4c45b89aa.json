@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:configuration_automation_server:12.5.0.29",
+  "deprecated": true,
+  "deprecation_date": "2021-04-08T13:06:36.147Z",
+  "title": [
+    {
+      "text": "Ca Configuration Automation Server 12.5.0.29",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-08T09:06:36.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:configuration_automation_server:12.5.0.29:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

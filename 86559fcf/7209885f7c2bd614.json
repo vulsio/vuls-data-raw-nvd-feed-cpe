@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:cisco_nx-os_collection:0.0.1::~~~ansible~~",
+  "title": [
+    {
+      "text": "Red Hat Cisco NX-OS Collection 0.0.1 for Ansible",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ansible.com/products/content-collections"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1916813"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/ansible-collections/cisco.nxos/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:cisco_nx-os_collection:0.0.1:*:*:*:*:ansible:*:*"
+  }
+}

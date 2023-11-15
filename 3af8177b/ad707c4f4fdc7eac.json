@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:hashicorp_vault:354.vdb_858fd6b_f48::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins HashiCorp Vault 354.vdb 858fd6b F48 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/hashicorp-vault-plugin/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.jenkins.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-2593"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:hashicorp_vault:354.vdb_858fd6b_f48:*:*:*:*:jenkins:*:*"
+  }
+}

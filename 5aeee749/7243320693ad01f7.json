@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rancher:rancher:1.4.0:rc8",
+  "deprecated": true,
+  "deprecation_date": "2022-04-13T23:40:29.773Z",
+  "title": [
+    {
+      "text": "Rancher 1.4.0 Release Candidate 8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://rancher.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rancher/rancher/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rancher:rancher:1.4.0:rc8:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-04-13T19:40:29.773-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:suse:rancher:1.4.0:rc8:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

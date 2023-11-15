@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:apache:couchdb:3.3.0",
+  "title": [
+    {
+      "text": "Apache Software Foundation CouchDB 3.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/26xxx/CVE-2023-26268.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread/ldkqs0nhpmho26bdxf4fon7w75hsq5gl"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://docs.couchdb.org/en/stable/cve/2023-26268.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:couchdb:3.3.0:*:*:*:*:*:*:*"
+  }
+}

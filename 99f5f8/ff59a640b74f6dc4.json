@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wp-webhooks:email_encoder:2.1.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Webhooks Email Encoder 2.1.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/625a272f-5c69-4f6a-8eee-32f70cd4a558"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wp-webhooks.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/email-encoder-bundle/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp-webhooks:email_encoder:2.1.2:*:*:*:*:wordpress:*:*"
+  }
+}

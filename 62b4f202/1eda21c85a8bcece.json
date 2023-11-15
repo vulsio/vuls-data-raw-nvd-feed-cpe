@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:adobe:magento_open_source:2.4.5:p1",
+  "title": [
+    {
+      "text": "Adobe Magento Open Source 2.4.5 Patch 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/magento/magento2/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://developer.adobe.com/open/magento"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.adobe.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://helpx.adobe.com/security/products/magento/apsb23-17.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adobe:magento_open_source:2.4.5:p1:*:*:*:*:*:*"
+  }
+}

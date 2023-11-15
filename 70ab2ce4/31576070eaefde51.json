@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:probot:bot:-::~~~discord~~",
+  "title": [
+    {
+      "text": "ProBot Bot for Discord",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://probot.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/161347/Discord-Probot-Arbitrary-File-Upload.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:probot:bot:-:*:*:*:*:discord:*:*"
+  }
+}

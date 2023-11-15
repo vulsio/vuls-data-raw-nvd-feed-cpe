@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:peepso:peepso:6.0.4.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "PeepSo 6.0.4.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/peepso-core/#description"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.peepso.com/changelog/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/peepso-core/wordpress-community-by-peepso-plugin-6-0-2-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:peepso:peepso:6.0.4.0:*:*:*:*:wordpress:*:*"
+  }
+}

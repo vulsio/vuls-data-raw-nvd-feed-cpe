@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:15.4.0::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 15.4.0 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://about.gitlab.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-3726.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:15.4.0:*:*:*:community:*:*:*"
+  }
+}

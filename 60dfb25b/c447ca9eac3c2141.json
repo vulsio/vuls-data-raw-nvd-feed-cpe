@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:simplybook:simplybook:2019-04-23::~~enterprise~~~",
+  "title": [
+    {
+      "text": "SimplyBook 2019-04-23 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://blog.cybrgrade.com/CVE-2019-11489-SimplyBook.me-privesc/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://simplybook.me/en/enterprise-scheduling-software"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simplybook:simplybook:2019-04-23:*:*:*:enterprise:*:*:*"
+  }
+}

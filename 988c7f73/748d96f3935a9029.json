@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:libnotify_project:libnotify:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Libnotify Project Libnotify for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2014/05/15/2"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mytrile/node-libnotify/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:libnotify_project:libnotify:-:*:*:*:*:node.js:*:*"
+  }
+}

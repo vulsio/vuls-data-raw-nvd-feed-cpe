@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:magicwinmail:winmail_server:6.2",
+  "deprecated": true,
+  "deprecation_date": "2020-06-11T15:06:09.660Z",
+  "title": [
+    {
+      "text": "MagicWinmail Winmail Server 6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://www.magicwinmail.net/download.asp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:magicwinmail:winmail_server:6.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-11T11:06:09.660-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:magicwinmail:winmail_server:6.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

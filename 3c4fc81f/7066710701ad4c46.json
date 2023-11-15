@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:d-link:dgs-1500_firmware:2.50.008",
+  "deprecated": true,
+  "deprecation_date": "2023-04-26T19:27:50.760Z",
+  "title": [
+    {
+      "text": "D-Link DGS-1500 Firmware 2.50.008",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.dlink.com/resource/PRODUCTS/DGS-1500-52/REVA/DGS-1500-52_RELEASENOTES_2.50.008_EN.PDF"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:d-link:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-04-26T15:27:50.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:dlink:dgs-1500_firmware:2.50.008:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

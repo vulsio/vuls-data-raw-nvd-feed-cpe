@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:foxitsoftware:pdf_reader:9.0.1.1049",
+  "deprecated": true,
+  "deprecation_date": "2022-02-08T18:30:22.343Z",
+  "title": [
+    {
+      "text": "Foxit Software PDF Reader 9.0.1.1049",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "http://forums.foxitsoftware.com/forum/portable-document-format-pdf-tools/foxit-reader/166408-foxit-reader-version-9-0-1-1049-uac-prompt"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.foxitsoftware.com/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.foxitsoftware.com/pdf-reader/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:foxitsoftware:pdf_reader:9.0.1.1049:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-08T13:30:22.343-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:foxit:pdf_reader:9.0.1.1049:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

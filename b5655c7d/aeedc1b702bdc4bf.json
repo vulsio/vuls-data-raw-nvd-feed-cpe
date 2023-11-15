@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:monkey-project:monkey_http_daemon:1.5.0",
+  "deprecated": true,
+  "deprecation_date": "2020-03-26T14:25:01.867Z",
+  "title": [
+    {
+      "text": "Monkey Project Monkey HTTP Daemon 1.5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor product information",
+      "href": "http://monkey-project.com/downloads"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:monkey-project:monkey_http_daemon:1.5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-03-26T10:25:01.867-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:monkey-project:monkey:1.5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

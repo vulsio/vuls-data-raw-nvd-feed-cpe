@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:mautic:mautic:1.0.0:beta4",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T16:49:55.863Z",
+  "title": [
+    {
+      "text": "Mautic 1.0.0 Beta4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mautic/mautic"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mautic.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mautic:mautic:1.0.0:beta4:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T11:49:55.863-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:acquia:mautic:1.0.0:beta4:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

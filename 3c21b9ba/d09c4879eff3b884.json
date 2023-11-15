@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:wiselyhub:js_help_desk:2.5.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WiselyHub JS Help Desk 2.5.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://wiselyhub.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://jshelpdesk.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/js-support-ticket/wordpress-js-help-desk-plugin-2-7-1-multiple-cross-site-request-forgery-csrf-vulnerabilities?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/js-support-ticket/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wiselyhub:js_help_desk:2.5.0:*:*:*:*:wordpress:*:*"
+  }
+}

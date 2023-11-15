@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:mysqldumper:mysqldumper:1.23_pre-release",
+  "deprecated": true,
+  "deprecation_date": "2012-08-24T19:58:23.973Z",
+  "title": [
+    {
+      "text": "MysqlDumper 1.21b6",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mysqldumper:mysqldumper:1.23_pre-release:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-08-24T15:58:23.973-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mysqldumper:mysqldumper:1.23:pre:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

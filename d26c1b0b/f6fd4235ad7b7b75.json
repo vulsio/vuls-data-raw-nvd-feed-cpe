@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:google:home:-",
+  "title": [
+    {
+      "text": "Google Home",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.google.com/about/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325"
+    },
+    {
+      "text": "Product",
+      "href": "https://store.google.com/product/google_home"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:google:home:-:*:*:*:*:*:*:*"
+  }
+}

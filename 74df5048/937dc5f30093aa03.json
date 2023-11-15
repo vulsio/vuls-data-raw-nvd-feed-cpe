@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:hashicorp:consul:0.1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-09T17:57:59.570Z",
+  "title": [
+    {
+      "text": "Hashicorp Consul 0.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hashicorp/consul/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hashicorp:consul:0.1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-09T12:57:59.570-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hashicorp:consul:0.1.0:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

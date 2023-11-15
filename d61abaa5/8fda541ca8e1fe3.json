@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:amazon:opensearch:1.0.1::~~~docker~~",
+  "title": [
+    {
+      "text": "Amazon OpenSearch 1.0.1 for Docker",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/opensearch-project/security/security/advisories/GHSA-wmx7-x4jp-9jgg"
+    },
+    {
+      "text": "Version",
+      "href": "https://hub.docker.com/r/opensearchproject/opensearch/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://aws.amazon.com/opensearch-service/the-elk-stack/what-is-opensearch/"
+    },
+    {
+      "text": "Product",
+      "href": "https://opensearch.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:opensearch:1.0.1:*:*:*:*:docker:*:*"
+  }
+}

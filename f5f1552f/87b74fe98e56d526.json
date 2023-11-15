@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:chatengine_project:chatengine:1.0",
+  "title": [
+    {
+      "text": "ChatEngine Project ChatEngine 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://payatu.com/advisory/cross-site-scripting-vulnerability-in-username-field-in-chatbox-functionality-in-chatengine-1-0/"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/wliang6/ChatEngine"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:chatengine_project:chatengine:1.0:*:*:*:*:*:*:*"
+  }
+}

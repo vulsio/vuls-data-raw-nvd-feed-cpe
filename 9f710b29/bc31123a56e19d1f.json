@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:xen:xen:4.12.1::~~~~arm~",
+  "title": [
+    {
+      "text": "Xen Xen 4.12.1 on ARM",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://xenbits.xen.org/xsa/advisory-303.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://xenproject.org/xen-project-archives/"
+    },
+    {
+      "text": "Version",
+      "href": "https://xenproject.org/downloads/xen-project-archives/xen-project-4-12-series/xen-project-4-12-1/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:xen:xen:4.12.1:*:*:*:*:*:arm:*"
+  }
+}

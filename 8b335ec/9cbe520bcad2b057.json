@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:ccc_harvest:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-07T18:56:58.900Z",
+  "title": [
+    {
+      "text": "Computer Associates CCC_Harvest",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:ccc_harvest:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-07T14:56:58.900-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:ccc_harvest:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

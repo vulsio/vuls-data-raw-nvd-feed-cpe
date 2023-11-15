@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:amazon:firecracker:-",
+  "title": [
+    {
+      "text": "Amazon Firecracker",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/firecracker-microvm/firecracker/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openwall.com/lists/oss-security/2020/10/23/1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amazon:firecracker:-:*:*:*:*:*:*:*"
+  }
+}

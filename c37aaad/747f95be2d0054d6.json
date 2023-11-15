@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:backstage:0.9.4",
+  "title": [
+    {
+      "text": "The Linux Foundation Backstage 0.9.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/backstage/backstage/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/backstage/backstage/security/advisories/GHSA-pvv8-8fx9-h673"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:backstage:0.9.4:*:*:*:*:*:*:*"
+  }
+}

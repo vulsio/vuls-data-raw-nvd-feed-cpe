@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-::~~on-premises~~~",
+  "title": [
+    {
+      "text": "Aruba Networks Aruba EdgeConnect Enterprise Orchestrator On-premises Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2022-43528"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-021.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arubanetworks:aruba_edgeconnect_enterprise_orchestrator:-:*:*:*:on-premises:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:elasticsearch:kibana:6.0.0:rc2",
+  "deprecated": true,
+  "deprecation_date": "2020-08-14T17:28:16.493Z",
+  "title": [
+    {
+      "text": "Elasticsearch Kibana 6.0.0 Release Candidate 2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/elastic/kibana/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.elastic.co/products/kibana"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:elasticsearch:kibana:6.0.0:rc2:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-14T13:28:16.493-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:elastic:kibana:6.0.0:rc2:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:projectdiscovery:nuclei:2.5.0::~~~go~~",
+  "title": [
+    {
+      "text": "ProjectDiscovery Nuclei 2.5.0 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/projectdiscovery/nuclei/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/projectdiscovery/nuclei/security/advisories/GHSA-2xx4-jj5v-6mff"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://projectdiscovery.io/#/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:projectdiscovery:nuclei:2.5.0:*:*:*:*:go:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:isc:bind:9.9.9:s7",
+  "title": [
+    {
+      "text": "ISC BIND 9.9.9 S7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://kb.isc.org/article/AA-01440/74/CVE-2016-9147"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.isc.org/downloads/dhcp/"
+    },
+    {
+      "text": "Version",
+      "href": "https://ftp.isc.org/isc/dhcp/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:isc:bind:9.9.9:s7:*:*:*:*:*:*"
+  }
+}

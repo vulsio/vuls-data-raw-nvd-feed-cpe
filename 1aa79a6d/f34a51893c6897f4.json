@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:modsecurity:modsecurity:3.0.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-10T15:57:06.707Z",
+  "title": [
+    {
+      "text": "ModSecurity 3.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://hackings8n.blogspot.com/2018/07/cve-2018-13065-modsecurity-300-has-xss.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://modsecurity.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:modsecurity:modsecurity:3.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-10T10:57:06.707-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trustwave:modsecurity:3.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

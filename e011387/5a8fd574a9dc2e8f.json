@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:asmember_project:asmember:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "asMember Project asMember for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/asmember/wordpress-asmember-plugin-1-5-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/asmember/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:asmember_project:asmember:-:*:*:*:*:wordpress:*:*"
+  }
+}

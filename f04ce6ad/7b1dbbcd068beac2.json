@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:mabl:0.0.18::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Mabl 0.0.18 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/mabl-integration/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-07-12/#SECURITY-3127"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:mabl:0.0.18:*:*:*:*:jenkins:*:*"
+  }
+}

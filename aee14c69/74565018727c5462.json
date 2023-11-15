@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:ts-nodash_library_project:ts-nodash_library:1.1.2::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2021-07-06T18:00:45.093Z",
+  "title": [
+    {
+      "text": "TS-NoDash Library Project TS-NoDash Library 1.1.2 for Node.JS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://github.com/BadOPCode/NoDash"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-TSNODASH-1311009"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/ts-nodash"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ts-nodash_library_project:ts-nodash_library:1.1.2:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2021-07-06T14:00:45.093-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ts-nodash_project:ts-nodash:1.1.2:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

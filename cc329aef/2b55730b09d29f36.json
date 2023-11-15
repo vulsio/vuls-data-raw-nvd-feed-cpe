@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:f5:nginx_ingress_controller:0.7.0",
+  "title": [
+    {
+      "text": "F5 NGINX Ingress Controller 0.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nginx.com/products/nginx-ingress-controller/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.nginx.com/blog/guide-to-choosing-ingress-controller-part-4-nginx-ingress-controller-options/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nginxinc/kubernetes-ingress/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.f5.com/csp/article/K01051452"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f5:nginx_ingress_controller:0.7.0:*:*:*:*:*:*:*"
+  }
+}

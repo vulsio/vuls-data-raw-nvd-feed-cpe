@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:snort:snort:2.9.17",
+  "title": [
+    {
+      "text": "Snort Snort 2.9.17",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snort-filepolbypass-67DEwMe2"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.snort.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:snort:snort:2.9.17:*:*:*:*:*:*:*"
+  }
+}

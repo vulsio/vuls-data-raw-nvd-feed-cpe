@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:testquality_updater:1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins TestQuality Updater 1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/testquality-updater-plugin/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2091"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/testquality-updater/#releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:testquality_updater:1.1:*:*:*:*:jenkins:*:*"
+  }
+}

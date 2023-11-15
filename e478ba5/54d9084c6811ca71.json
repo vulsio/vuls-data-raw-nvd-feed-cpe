@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:php:php:7.0.9",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:57:16.877Z",
+  "title": [
+    {
+      "text": "PHP 7.0.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://php.net/"
+    },
+    {
+      "text": "Change Log",
+      "href": "http://www.php.net/ChangeLog-7.php"
+    },
+    {
+      "text": "Version",
+      "href": "http://php.net/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:7.0.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:57:16.877-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:7.0.9:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

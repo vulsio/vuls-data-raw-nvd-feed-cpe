@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gnome:gdk-pixbuf:2.42.4",
+  "title": [
+    {
+      "text": "GNOME GDK-PixBuf 2.42.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pedrib/PoC/blob/master/fuzzing/CVE-2021-46829/CVE-2021-46829.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://gitlab.gnome.org/GNOME/gdk-pixbuf/-/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gnome:gdk-pixbuf:2.42.4:*:*:*:*:*:*:*"
+  }
+}

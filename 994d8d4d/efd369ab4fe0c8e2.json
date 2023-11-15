@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:redhat:policycoreutils:2.2.5",
+  "deprecated": true,
+  "deprecation_date": "2019-01-03T17:08:24.860Z",
+  "title": [
+    {
+      "text": "Red Hat policycoreutils 2.2.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "product information",
+      "href": "https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/5.5_Technical_Notes/policycoreutils.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:policycoreutils:2.2.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-01-03T12:08:24.860-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:selinuxproject:policycoreutils:2.2.5:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

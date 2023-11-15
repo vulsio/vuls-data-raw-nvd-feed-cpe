@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x5570:-",
+  "deprecated": true,
+  "deprecation_date": "2020-04-28T11:38:56.623Z",
+  "title": [
+    {
+      "text": "Intel Xeon X5570",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x5570:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-28T07:38:56.623-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_x5570:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

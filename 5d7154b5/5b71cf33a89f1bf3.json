@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:piwik:piwik:2.14.3",
+  "deprecated": true,
+  "deprecation_date": "2019-11-21T13:31:05.837Z",
+  "title": [
+    {
+      "text": "Piwik Piwik 2.14.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Changelog",
+      "href": "http://piwik.org/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:piwik:piwik:2.14.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-21T08:31:05.837-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:matomo:matomo:2.14.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

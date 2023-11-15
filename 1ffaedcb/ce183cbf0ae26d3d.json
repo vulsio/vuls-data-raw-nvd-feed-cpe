@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:siemens:softnet_pn-io_linux_firmware:-::~~~windows~~",
+  "title": [
+    {
+      "text": "Siemens Softnet PN-IO LINUX Firmware for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-293562.pdf"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-592007.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:siemens:softnet_pn-io_linux_firmware:-:*:*:*:*:windows:*:*"
+  }
+}

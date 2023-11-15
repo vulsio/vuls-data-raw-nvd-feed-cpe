@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:nvidia:tesla:-",
+  "title": [
+    {
+      "text": "NVIDIA Tesla",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4996"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-440-3301/index.html#hardware-software-support"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nvidia:tesla:-:*:*:*:*:*:*:*"
+  }
+}

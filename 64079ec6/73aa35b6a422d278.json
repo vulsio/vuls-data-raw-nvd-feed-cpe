@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cert:vince:1.50.4",
+  "title": [
+    {
+      "text": "CERT/CC VINCE (Vulnerability Information and Coordination Environment) 1.50.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kb.cert.org/vince/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40257.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cert:vince:1.50.4:*:*:*:*:*:*:*"
+  }
+}

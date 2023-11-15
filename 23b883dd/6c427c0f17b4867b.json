@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:comodo:antivirus:12.2.2.8012",
+  "title": [
+    {
+      "text": "Comodo Antivirus 12.2.2.8012",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://antivirus.comodo.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://r0h1rr1m.medium.com/comodo-antivirus-local-privilege-escalation-through-insecure-file-move-476a4601d9b8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:comodo:antivirus:12.2.2.8012:*:*:*:*:*:*:*"
+  }
+}

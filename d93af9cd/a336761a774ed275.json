@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:nodejs:node.js:10.10.0",
+  "deprecated": true,
+  "deprecation_date": "2020-02-10T17:47:26.440Z",
+  "title": [
+    {
+      "text": "Nodejs Node.js 10.10.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nodejs/node"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:10.10.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-02-10T12:47:26.440-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nodejs:node.js:10.10.0:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:octopus:octopus_deploy:3.0.1",
+  "deprecated": true,
+  "deprecation_date": "2022-07-27T15:15:30.977Z",
+  "title": [
+    {
+      "text": "Octopus Octopus Deploy 3.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://octopus.com/downloads/previous"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:octopus_deploy:3.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-07-27T11:15:30.977-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:octopus:octopus_server:3.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

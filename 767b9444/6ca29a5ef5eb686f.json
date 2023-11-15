@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:huawei:emui:9.1.1",
+  "deprecated": true,
+  "deprecation_date": "2021-12-09T17:57:09.680Z",
+  "title": [
+    {
+      "text": "Huawei EMUI 9.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://consumer.huawei.com/en/support/bulletin/2020/12/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-12-09T12:57:09.680-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:huawei:emui:9.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:hyperledger:fabric:2.1.0",
+  "title": [
+    {
+      "text": "Hyperledger Fabric 2.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jira.hyperledger.org/browse/FAB-18529"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.hyperledger.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hyperledger/fabric/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hyperledger:fabric:2.1.0:*:*:*:*:*:*:*"
+  }
+}

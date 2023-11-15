@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:kie-server:7.21.0",
+  "title": [
+    {
+      "text": "Redhat KIE server 7.21.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/kiegroup/droolsjbpm-integration/pull/1273"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/kiegroup/droolsjbpm-integration/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:kie-server:7.21.0:*:*:*:*:*:*:*"
+  }
+}

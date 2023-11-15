@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:controlmicrosystems:clearscada_2007:1.4",
+  "deprecated": true,
+  "deprecation_date": "2018-11-28T15:13:37.757Z",
+  "title": [
+    {
+      "text": "Control Microsystems ClearSCADA 2007 Release 1.4",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:controlmicrosystems:clearscada_2007:1.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-11-28T10:13:37.757-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:clearscada_2007:r1.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

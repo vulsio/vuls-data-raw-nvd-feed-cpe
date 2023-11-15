@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:json-c_project:json-c:0.3",
+  "deprecated": true,
+  "deprecation_date": "2023-09-16T13:05:58.643Z",
+  "title": [
+    {
+      "text": "JSON-C Project JSON-C 0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/json-c/json-c/blob/master/ChangeLog"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:json-c_project:json-c:0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-16T09:05:58.643-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:json-c:json-c:0.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

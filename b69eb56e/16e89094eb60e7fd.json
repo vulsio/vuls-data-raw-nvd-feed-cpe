@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:jboss_keycloak:-",
+  "title": [
+    {
+      "text": "Red Hat JBoss KeyCloak",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2014-3656"
+    },
+    {
+      "text": "Product",
+      "href": "https://hub.docker.com/r/jboss/keycloak/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:jboss_keycloak:-:*:*:*:*:*:*:*"
+  }
+}

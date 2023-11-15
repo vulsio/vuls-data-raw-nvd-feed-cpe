@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:ios_xe:17.11.1",
+  "title": [
+    {
+      "text": "Cisco IOS XE 17.11.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.cisco.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwd25783"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iox-priv-escalate-Xg8zkyPk"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios_xe:17.11.1:*:*:*:*:*:*:*"
+  }
+}

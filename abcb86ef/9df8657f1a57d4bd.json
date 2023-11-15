@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:netatmo:indoor_module:-",
+  "title": [
+    {
+      "text": "Netatmo Indoor Module",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.netatmo.com/en-US/site/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://isc.sans.edu/forums/diary/Did+You+Remove+That+Debug+Code+Netatmo+Weather+Station+Sending+WPA+Passphrase+in+the+Clear/19327"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:netatmo:indoor_module:-:*:*:*:*:*:*:*"
+  }
+}

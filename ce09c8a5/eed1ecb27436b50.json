@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:uniswap:universal_router_firmware:1.2.2",
+  "title": [
+    {
+      "text": "Uniswap Universal Router Firmware 1.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://uniswap.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://media.dedaub.com/uniswap-bug-bounty-1625d8ff04ae"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Uniswap/universal-router/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:uniswap:universal_router_firmware:1.2.2:*:*:*:*:*:*:*"
+  }
+}

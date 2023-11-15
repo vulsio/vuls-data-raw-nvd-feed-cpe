@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_65",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T13:00:34.430Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 1.7.0 Update 65",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://java.com/en/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.oracle.com/index.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://java.com/en/download/faq/release7_changes.xml"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_65:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T09:00:34.430-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update65:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

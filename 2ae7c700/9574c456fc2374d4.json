@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:oracle:jdk:1.7.0:update_80",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T14:38:22.570Z",
+  "title": [
+    {
+      "text": "Oracle JDK 1.7.0 Update 80",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.oracle.com/technetwork/java/javase/7u-relnotes-515228.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.oracle.com/technetwork/java/javaseproducts/documentation/javase7supportreleasenotes-1601161.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_80:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T10:38:22.570-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update80:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

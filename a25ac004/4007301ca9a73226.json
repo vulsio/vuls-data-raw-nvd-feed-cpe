@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:365_apps:-::~~enterprise~~x64~",
+  "title": [
+    {
+      "text": "Microsoft 365 Apps Enterprise Edition on X64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-enterprise-product?activetab=pivot%3aoverviewtab"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:365_apps:-:*:*:*:enterprise:*:x64:*"
+  }
+}

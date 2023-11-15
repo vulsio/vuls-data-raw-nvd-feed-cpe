@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:x-cart:x-cart:5.3.6.1",
+  "deprecated": true,
+  "deprecation_date": "2020-06-29T16:00:25.153Z",
+  "title": [
+    {
+      "text": "X-Cart 5.3.6.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://devs.x-cart.com/changelog/5.4.0.3_-_15_may_2019.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x-cart:x-cart:5.3.6.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-29T12:00:25.153-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:qualiteam:x-cart:5.3.6.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

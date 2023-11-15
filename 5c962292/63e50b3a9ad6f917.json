@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:microsoft:windows_10:1709",
+  "deprecated": true,
+  "deprecation_date": "2022-12-02T17:01:42.343Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 10 1709",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/Microsoft/ChakraCore/wiki/Roadmap#v173"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.microsoft.com/en-us/windows/whats-new/whats-new-windows-10-version-1709"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_10:1709:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-12-02T12:01:42.343-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_10:1709:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

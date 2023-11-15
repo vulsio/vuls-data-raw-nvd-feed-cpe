@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pivotal_software:rabbitmq:3.6.6:milestone5",
+  "deprecated": true,
+  "deprecation_date": "2022-03-17T14:02:43.580Z",
+  "title": [
+    {
+      "text": "Pivotal Software RabbitMQ 3.6.6 Milestone 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/rabbitmq/rabbitmq-server"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.6.6:milestone5:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-17T10:02:43.580-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vmware:rabbitmq:3.6.6:milestone5:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

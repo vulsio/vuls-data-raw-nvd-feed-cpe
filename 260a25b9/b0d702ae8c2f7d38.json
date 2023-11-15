@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:civetweb_project:civetweb:1.13",
+  "title": [
+    {
+      "text": "CivetWeb Project CivetWeb 1.13",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://jfrog.com/blog/cve-2020-27304-rce-via-directory-traversal-in-civetweb-http-server/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/civetweb/civetweb/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:civetweb_project:civetweb:1.13:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:alivecor:kardia:-::~~~android~~",
+  "title": [
+    {
+      "text": "AliveCor Kardia for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cisa.gov/uscert/ics/advisories/icsma-22-298-01"
+    },
+    {
+      "text": "Product",
+      "href": "https://play.google.com/store/apps/details?id=com.alivecor.aliveecg&hl=en_US&gl=US"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.alivecor.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:alivecor:kardia:-:*:*:*:*:android:*:*"
+  }
+}

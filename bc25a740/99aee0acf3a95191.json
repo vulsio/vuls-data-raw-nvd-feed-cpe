@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:suse:linux_enterprise_desktop:12",
+  "deprecated": true,
+  "deprecation_date": "2020-05-22T14:54:32.897Z",
+  "title": [
+    {
+      "text": "SUSE Linux Enterprise Desktop 12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.suse.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://lists.opensuse.org/opensuse-security-announce/2015-05/msg00003.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:suse:linux_enterprise_desktop:12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-22T10:54:32.897-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:suse:linux_enterprise_desktop:12:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

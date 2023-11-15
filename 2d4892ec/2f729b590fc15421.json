@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:lambdatest-automation:1.19::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Lambdatest-automation 1.19 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-10-25/#SECURITY-3222"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/lambdatest-automation/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:lambdatest-automation:1.19:*:*:*:*:jenkins:*:*"
+  }
+}

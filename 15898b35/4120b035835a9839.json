@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apache:airflow:2.6.2",
+  "title": [
+    {
+      "text": "Apache Software Foundation Airflow 2.6.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://lists.apache.org/thread/o4f2cxh0054m9tlxpb81c1yhylor5gjd"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apache/airflow/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:airflow:2.6.2:*:*:*:*:*:*:*"
+  }
+}

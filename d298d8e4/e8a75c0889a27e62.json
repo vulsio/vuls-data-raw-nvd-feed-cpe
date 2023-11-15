@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ivorysearch:ivory_search:4.5.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Ivory Search 4.5.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://ivorysearch.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/ecc620be-8e29-4860-9d32-86b5814a3835"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/add-search-to-menu/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ivorysearch:ivory_search:4.5.6:*:*:*:*:wordpress:*:*"
+  }
+}

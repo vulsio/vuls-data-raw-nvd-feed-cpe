@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:rating-widget:ratingwidget:1.0.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "RatingWidget 1.0.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://rating-widget.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/rating-widget/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/rating-widget/wordpress-rating-widget-star-review-system-plugin-3-1-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rating-widget:ratingwidget:1.0.4:*:*:*:*:wordpress:*:*"
+  }
+}

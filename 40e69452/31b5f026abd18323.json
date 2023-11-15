@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:sun:jdk:1.4.2",
+  "deprecated": true,
+  "deprecation_date": "2019-07-30T16:15:50.413Z",
+  "title": [
+    {
+      "text": "Sun JDK 1.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sun:jdk:1.4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-30T12:15:50.413-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sun:jdk:1.4.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

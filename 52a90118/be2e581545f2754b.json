@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:microsoft:windows_11_22h2:-::~~~~arm64~",
+  "title": [
+    {
+      "text": "Microsoft Windows 11 22H2 on ARM64",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.catalog.update.microsoft.com/Search.aspx?q=WINDOWS+11+22h2+2022-09"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-21525"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_11_22h2:-:*:*:*:*:*:arm64:*"
+  }
+}

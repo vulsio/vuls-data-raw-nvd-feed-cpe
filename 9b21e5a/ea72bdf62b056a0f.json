@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pexlechris:library_viewer:1.1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Pexlechris Library Viewer 1.1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.pexlechris.dev/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/library-viewer/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/library-viewer/wordpress-library-viewer-plugin-2-0-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pexlechris:library_viewer:1.1.0:*:*:*:*:wordpress:*:*"
+  }
+}

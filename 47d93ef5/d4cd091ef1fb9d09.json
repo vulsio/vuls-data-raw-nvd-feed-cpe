@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nextcloud:nextcloud:3.19.1:rc2:~~~android~~",
+  "title": [
+    {
+      "text": "Nextcloud 3.19.1 Release Candidate 2 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1450368"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-32j4-9xf3-h2mg"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/android/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:nextcloud:3.19.1:rc2:*:*:*:android:*:*"
+  }
+}

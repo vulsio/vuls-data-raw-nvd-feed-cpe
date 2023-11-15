@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:hazelcast:hazelcast-jet:0.7::~~-~~~",
+  "title": [
+    {
+      "text": "Hazelcast Hazelcast-jet 0.7 - Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/hazelcast/hazelcast-jet/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/hazelcast/hazelcast/security/advisories/GHSA-c5hg-mr8r-f6jp"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hazelcast:hazelcast-jet:0.7:*:*:*:-:*:*:*"
+  }
+}

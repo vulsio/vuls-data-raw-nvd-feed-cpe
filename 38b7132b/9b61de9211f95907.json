@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:nextcloud:talk:15.0.1::~~~android~~",
+  "title": [
+    {
+      "text": "Nextcloud Talk 15.0.1 for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-wvr4-gc4c-6vmx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://hackerone.com/reports/1784645"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nextcloud/talk-android/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:talk:15.0.1:*:*:*:*:android:*:*"
+  }
+}

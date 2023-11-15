@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:onepeloton:ttr01:-",
+  "title": [
+    {
+      "text": "Onepeloton TTR01",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33887.json"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.onepeloton.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.youtube.com/watch?v=RLjXfvb0ADw"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.mcafee.com/blogs/consumer/mobile-and-iot-security/is-your-peloton-spinning-up-malware/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:onepeloton:ttr01:-:*:*:*:*:*:*:*"
+  }
+}

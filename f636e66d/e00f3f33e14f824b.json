@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:apache:unstructured_information_management_architecture_distributed_uima_cluster_computing:2.1.0-0525",
+  "deprecated": true,
+  "deprecation_date": "2023-05-22T11:21:09.290Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Unstructured Information Management Architecture Distributed Uima Cluster Computing (UIMA DUCC) 2.1.0-0525",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://uima.apache.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apache/uima-ducc/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:unstructured_information_management_architecture_distributed_uima_cluster_computing:2.1.0-0525:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-22T07:21:09.290-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:uimaducc:2.1.0-0525:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

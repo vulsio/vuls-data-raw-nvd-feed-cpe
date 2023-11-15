@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jre:8.0:update_73",
+  "deprecated": true,
+  "deprecation_date": "2020-09-08T12:42:48.817Z",
+  "title": [
+    {
+      "text": "Oracle JRE 8.0 Update 73",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/java/technologies/java-se.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jre:8.0:update_73:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-08T08:42:48.817-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jre:1.8.0:update73:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

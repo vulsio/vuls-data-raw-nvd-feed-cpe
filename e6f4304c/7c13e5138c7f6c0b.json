@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:mikrotik:routeros:6.14",
+  "deprecated": true,
+  "deprecation_date": "2019-09-17T12:43:22.480Z",
+  "title": [
+    {
+      "text": "MikroTik RouterOS 6.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://mikrotik.com/download/archive"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mikrotik:routeros:6.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-17T08:43:22.480-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mikrotik:routeros:6.14:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

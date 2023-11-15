@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fedoraproject:389_directory_server:-",
+  "title": [
+    {
+      "text": "Fedora Project 389 Directory Server",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/CVE-2019-14824"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://pagure.io/389-ds-base/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fedoraproject:389_directory_server:-:*:*:*:*:*:*:*"
+  }
+}

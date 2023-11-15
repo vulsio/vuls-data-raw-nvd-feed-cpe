@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rpi_project:rpi:0.0.3::~~~node.js~~",
+  "title": [
+    {
+      "text": "rpi Project rpi 0.0.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://snyk.io/vuln/SNYK-JS-RPI-548942"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/xseignard/rpi"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rpi_project:rpi:0.0.3:*:*:*:*:node.js:*:*"
+  }
+}

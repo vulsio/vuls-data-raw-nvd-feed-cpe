@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:cloudfoundry:gorouter:0.206.0",
+  "title": [
+    {
+      "text": "Cloud Foundry GoRouter 0.206.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2020-5420/"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.cloudfoundry.org/concepts/architecture/router.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/cloudfoundry/cf-deployment/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudfoundry.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:gorouter:0.206.0:*:*:*:*:*:*:*"
+  }
+}

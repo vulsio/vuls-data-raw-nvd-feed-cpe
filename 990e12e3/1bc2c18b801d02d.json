@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:cisco:integrated_services_router_4451:-",
+  "deprecated": true,
+  "deprecation_date": "2023-05-22T17:08:23.710Z",
+  "title": [
+    {
+      "text": "Cisco Integrated Services Router 4451 -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/models-comparison.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:integrated_services_router_4451:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-22T13:08:23.710-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:cisco:4451_integrated_services_router:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

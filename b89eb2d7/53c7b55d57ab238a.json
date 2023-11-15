@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/h:intel:xeon_silver:4114t",
+  "deprecated": true,
+  "deprecation_date": "2023-09-27T20:43:41.697Z",
+  "title": [
+    {
+      "text": "Intel Xeon Silver 4114T",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.intel.com/content/www/us/en/products/details/processors/xeon/scalable/silver.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon_silver:4114t:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-27T16:43:41.697-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon_silver_4114t:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:php:php:5.2.9",
+  "deprecated": true,
+  "deprecation_date": "2019-06-07T18:56:26.360Z",
+  "title": [
+    {
+      "text": "PHP 5.2.9",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:php:php:5.2.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-07T14:56:26.360-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:php:php:5.2.9:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

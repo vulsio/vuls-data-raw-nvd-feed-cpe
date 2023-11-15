@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/h:fiberhomegroup:fengine_s5800-28t-s-pe:-",
+  "deprecated": true,
+  "deprecation_date": "2021-07-02T20:20:23.580Z",
+  "title": [
+    {
+      "text": "FiberHomeGroup Fengine S5800-28T-S-PE",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.fiberhomegroup.com/en/"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.fiberhomegroup.com/en/Enterprise/181/561.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.nfcwar.com"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:fiberhomegroup:fengine_s5800-28t-s-pe:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-02T16:20:23.580-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:fiberhome:fengine_s5800-28t-s-pe:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

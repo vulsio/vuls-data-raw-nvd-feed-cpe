@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:soapui_pro_functional_testing:1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins SoapUI Pro Functional Testing 1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/soapui-pro-functional-testing/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1631%20(2)"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/soapui-pro-functional-testing-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:soapui_pro_functional_testing:1.1:*:*:*:*:jenkins:*:*"
+  }
+}

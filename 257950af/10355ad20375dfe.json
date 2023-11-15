@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:azure_key_vault:187.va_cd5fecd198a::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Azure Key Vault 187.va Cd5fecd198a for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-04-12/#SECURITY-3075"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/azure-keyvault/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:azure_key_vault:187.va_cd5fecd198a:*:*:*:*:jenkins:*:*"
+  }
+}

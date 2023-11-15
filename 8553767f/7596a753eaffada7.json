@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:get_custom_field_values_project:get_custom_field_values:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Get Custom Field Values Project Get Custom Field Values for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/ec23734a-5ea7-4e46-aba9-3dee4e6dffb6"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/coffee2code/get-custom-field-values/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:get_custom_field_values_project:get_custom_field_values:-:*:*:*:*:wordpress:*:*"
+  }
+}

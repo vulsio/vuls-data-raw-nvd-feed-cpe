@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:cisco:ios_xe:15.2%2807%29e03",
+  "deprecated": true,
+  "deprecation_date": "2022-10-27T15:47:32.590Z",
+  "title": [
+    {
+      "text": "Cisco iOS XE 15.2(07)E03",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwa18093"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-VU855201-J3z8CKTX"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cisco.com/c/en/us/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:ios_xe:15.2\\(07\\)e03:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-10-27T11:47:32.590-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:ios_xe:15.2\\(07\\)e03:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

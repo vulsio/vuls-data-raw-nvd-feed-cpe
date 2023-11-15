@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tp-link:omada_software_controller:4.4.4::~~~windows~~",
+  "title": [
+    {
+      "text": "TP-Link Omada Software Controller 4.4.4 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.tp-link.com/us/support/download/omada-software-controller/v4/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.tp-link.com/us/business-networking/omada-sdn-controller/omada-software-controller/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Orange-Cyberdefense/CVE-repository/blob/master/PoCs/POC_CVE-2021-44032_Kevin.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tp-link:omada_software_controller:4.4.4:*:*:*:*:windows:*:*"
+  }
+}

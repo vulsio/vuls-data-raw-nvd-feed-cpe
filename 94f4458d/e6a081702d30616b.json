@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:implecode:ecommerce_product_catalog:1.9.0",
+  "deprecated": true,
+  "deprecation_date": "2022-11-22T15:52:18.313Z",
+  "title": [
+    {
+      "text": "impleCode eCommerce Product Catalog 1.9.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/ecommerce-product-catalog/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://implecode.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/ecommerce-product-catalog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:implecode:ecommerce_product_catalog:1.9.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-11-22T10:52:18.313-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:implecode:ecommerce_product_catalog:1.9.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

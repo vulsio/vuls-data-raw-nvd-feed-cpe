@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:octocat_project:octocat:1.1.0::~~~node.js~~",
+  "title": [
+    {
+      "text": "Octocat Project Octocat 1.1.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/octocademy/octocat.js/security/advisories/GHSA-r4jg-5v89-9v62"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/octocat"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octocat_project:octocat:1.1.0:*:*:*:*:node.js:*:*"
+  }
+}

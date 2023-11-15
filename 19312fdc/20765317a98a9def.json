@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sonicwall:network_security_manager:2.2.0:r10:~~on-premises~~~",
+  "title": [
+    {
+      "text": "SonicWall Network Security Manager 2.2.0 R10 On-premises Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.sonicwall.com/techdocs/pdf/nsm-system_administration.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0014"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sonicwall:network_security_manager:2.2.0:r10:*:*:on-premises:*:*:*"
+  }
+}

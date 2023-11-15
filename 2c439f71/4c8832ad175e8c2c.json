@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:google:nest_wifi_point_firmware:1.56.1",
+  "title": [
+    {
+      "text": "Google Nest Wifi Point Firmware 1.56.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.google.com/product-documentation/answer/13588832?hl=en&ref_topic=12974021&sjid=7833436865896465963-NA#zippy=%2Cnest-wifi"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/2xxx/CVE-2023-2626.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:google:nest_wifi_point_firmware:1.56.1:*:*:*:*:*:*:*"
+  }
+}

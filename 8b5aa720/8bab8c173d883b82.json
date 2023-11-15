@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ovn:ovn-kubernetes:4.9.27",
+  "title": [
+    {
+      "text": "OVN-Kubernetes 4.9.27",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/ovn-org/ovn-kubernetes"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2053326"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ovn:ovn-kubernetes:4.9.27:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:solana:rbpf:0.2.16",
+  "deprecated": true,
+  "deprecation_date": "2023-09-29T19:00:49.760Z",
+  "title": [
+    {
+      "text": "Solana rBPF 0.2.16",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://solana.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/solana-labs/rbpf/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solana:rbpf:0.2.16:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-29T15:00:49.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:solanalabs:rbpf:0.2.16:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

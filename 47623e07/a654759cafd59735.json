@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jquery_json-viewer_project:jquery_json-viewer:-::~~~node.js~~",
+  "title": [
+    {
+      "text": "Jquery Json-viewer Project Jquery Json-viewer for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-JQUERYJSONVIEWER-2808865"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.npmjs.com/package/jquery.json-viewer"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jquery_json-viewer_project:jquery_json-viewer:-:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:tp-link:tl-wrd841n_%2810.0%29:-",
+  "deprecated": true,
+  "deprecation_date": "2015-07-08T14:53:00.200Z",
+  "title": [
+    {
+      "text": "TP-Link TL-WRD841N (10.0)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://www.tp-link.com/en/download/TL-WR841ND_V10.html#Firmware"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:tp-link:tl-wrd841n_\\(10.0\\):-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-07-08T10:53:00.200-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:tp-link:tl-wr841n_\\(10.0\\):-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

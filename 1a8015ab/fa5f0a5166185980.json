@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:odoo:odoo:15.0::~~community~~~",
+  "title": [
+    {
+      "text": "Odoo 15.0 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/odoo/odoo/tree/15.0"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2021-45071"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:odoo:odoo:15.0:*:*:*:community:*:*:*"
+  }
+}

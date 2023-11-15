@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:eq-3:homematic_ccu2_firmware:2.24.20",
+  "title": [
+    {
+      "text": "eQ-3 HomeMatic CCU2 Firmware 2.24.20",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.eq-3.com/products/homematic.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://psytester.github.io/CVE-2019-18938/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:eq-3:homematic_ccu2_firmware:2.24.20:*:*:*:*:*:*:*"
+  }
+}

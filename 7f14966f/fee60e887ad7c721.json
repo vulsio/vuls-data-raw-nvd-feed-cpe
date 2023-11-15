@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:timescale:timescaledb:2.4.2",
+  "title": [
+    {
+      "text": "Timescale TimescaleDB 2.4.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/timescale/timescaledb/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/timescale/timescaledb/security/advisories/GHSA-fh8v-663w-79w9"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:timescale:timescaledb:2.4.2:*:*:*:*:*:*:*"
+  }
+}

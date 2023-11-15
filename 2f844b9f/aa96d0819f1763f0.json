@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:crossbeam_project:crossbeam:0.8.1::~~~rust~~",
+  "title": [
+    {
+      "text": "Crossbeam Project Crossbeam 0.8.1 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://crates.io/crates/crossbeam/versions"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/crossbeam-rs/crossbeam/security/advisories/GHSA-pqqp-xmhj-wgcw"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crossbeam_project:crossbeam:0.8.1:*:*:*:*:rust:*:*"
+  }
+}

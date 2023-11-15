@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:angrydonuts:ctools:7.x-1.0:dev",
+  "deprecated": true,
+  "deprecation_date": "2015-06-18T16:47:01.230Z",
+  "title": [
+    {
+      "text": "angrydonuts Chaos Tool Suite (aka CTools) 7.x-1.0-dev for Drupal",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:angrydonuts:ctools:7.x-1.0:dev:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-06-18T12:47:01.230-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:chaos_tool_suite_project:ctools:7.x-1.x:dev:*:*:*:drupal:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

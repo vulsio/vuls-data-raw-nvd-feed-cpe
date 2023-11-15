@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:osticket:osticket:1.10.6",
+  "deprecated": true,
+  "deprecation_date": "2019-12-16T15:25:12.760Z",
+  "title": [
+    {
+      "text": "osTicket 1.10.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/osTicket/osTicket/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:osticket:osticket:1.10.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-12-16T10:25:12.760-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:enhancesoft:osticket:1.10.6:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

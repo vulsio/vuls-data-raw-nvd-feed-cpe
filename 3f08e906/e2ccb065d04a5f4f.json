@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:intel:converged_security_management_engine_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2018-11-26T18:17:09.463Z",
+  "title": [
+    {
+      "text": "Intel Converged Security Management Engine",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00142.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:intel:converged_security_management_engine_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-11-26T13:17:09.463-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:intel:converged_security_management_engine_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

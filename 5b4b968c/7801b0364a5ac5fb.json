@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:rubyonrails:rails:3.0.2",
+  "deprecated": true,
+  "deprecation_date": "2019-08-08T15:46:35.133Z",
+  "title": [
+    {
+      "text": "Ruby on Rails Rails 3.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://rubygems.org/gems/rails/versions"
+    },
+    {
+      "text": "Version",
+      "href": "https://rubygems.org/gems/rails/versions"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://rubyonrails.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rails/rails"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rubyonrails:rails:3.0.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-08T11:46:35.133-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rubyonrails:rails:3.0.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

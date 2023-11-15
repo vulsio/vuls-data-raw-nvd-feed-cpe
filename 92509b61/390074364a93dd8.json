@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:openshift_login:1.0.19::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Openshift Login 1.0.19 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/openshift-login/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-07-12/#SECURITY-2998"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:openshift_login:1.0.19:*:*:*:*:jenkins:*:*"
+  }
+}

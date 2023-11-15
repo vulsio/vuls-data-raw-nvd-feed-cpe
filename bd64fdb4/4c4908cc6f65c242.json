@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:intland:codebeamer_application_lifecycle_management:10.1.0:sp3",
+  "deprecated": true,
+  "deprecation_date": "2023-10-18T19:04:16.203Z",
+  "title": [
+    {
+      "text": "Intland codeBeamer Application Lifecycle Management (ALM) 10.1.0 Service Pack 3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://codebeamer.com/cb/wiki/5980694"
+    },
+    {
+      "text": "Version",
+      "href": "https://codebeamer.com/cb/wiki/10600218"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://intland.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://compass-security.com/fileadmin/Research/Advisories/2020-09_CSNC-2020-008_Intland_codeBeamer_ALM_XXE.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:intland:codebeamer_application_lifecycle_management:10.1.0:sp3:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-10-18T15:04:16.203-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:intland:codebeamer:10.1.0:sp3:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

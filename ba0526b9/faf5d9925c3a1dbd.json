@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:f-secure:anti-virus:-:-:~-~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T17:38:15.067Z",
+  "title": [
+    {
+      "text": "F-Secure Anti-Virus for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "FSC-2012-2",
+      "href": "http://www.f-secure.com/en/web/labs_global/fsc-2012-2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f-secure:anti-virus:-:-:-:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T13:38:15.067-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:f-secure:anti-virus:-:-:-:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

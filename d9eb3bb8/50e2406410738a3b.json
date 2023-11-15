@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:unicenter_management:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-14T15:29:45.860Z",
+  "title": [
+    {
+      "text": "Computer Associates Unicenter Management",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:unicenter_management:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-14T11:29:45.860-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:unicenter_management:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

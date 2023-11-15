@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:md4c_project:md4c:0.3.0",
+  "deprecated": true,
+  "deprecation_date": "2020-10-05T13:49:23.693Z",
+  "title": [
+    {
+      "text": "MD4C Project MD4C 0.3.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mity/md4c"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:md4c_project:md4c:0.3.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-05T09:49:23.693-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:md4c_project:md4c:0.3.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

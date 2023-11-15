@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sophos:intercept_x:-::~~opm~macos~~",
+  "title": [
+    {
+      "text": "Sophos Intercept X OPM Edition for MacOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.sophos.com/en-us/products/endpoint-antivirus.aspx"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25264.json"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://community.sophos.com/b/security-blog/posts/resolved-lpe-in-endpoint-for-macos-cve-2021-25264"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sophos:intercept_x:-:*:*:*:opm:macos:*:*"
+  }
+}

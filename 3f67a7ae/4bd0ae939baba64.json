@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:hitachi:microscada_x_sys600:10.1",
+  "deprecated": true,
+  "deprecation_date": "2022-10-05T13:45:55.850Z",
+  "title": [
+    {
+      "text": "Hitachi MicroSCADA X SYS600 10.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.hitachienergy.com/us/en/offering/product-and-system/scada/microscada-x/scada--microscada-x-sys600"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cve.org/CVERecord?id=CVE-2022-29490"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000106&LanguageCode=en&DocumentPartId=&Action=Launch"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hitachi:microscada_x_sys600:10.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-10-05T09:45:55.850-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hitachienergy:microscada_x_sys600:10.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

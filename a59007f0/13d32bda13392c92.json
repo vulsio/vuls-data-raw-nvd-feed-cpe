@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:duo:1.1.1::~~~macos~~",
+  "title": [
+    {
+      "text": "Cisco Duo Two-Factor Authentication 1.1.1 for MacOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://duo.com/docs/macos"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-duo-macOS-bypass-uKZNpXE6"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:duo:1.1.1:*:*:*:*:macos:*:*"
+  }
+}

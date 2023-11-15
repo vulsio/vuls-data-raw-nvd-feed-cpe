@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:samba:samba:1.9.18",
+  "deprecated": true,
+  "deprecation_date": "2020-07-10T16:10:19.113Z",
+  "title": [
+    {
+      "text": "Samba 1.9.18",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:samba:samba:1.9.18:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-10T12:10:19.113-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:samba:samba:1.9.18:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

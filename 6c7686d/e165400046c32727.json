@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:lisperator:uglifyjs:3.1.3::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2021-10-28T15:04:14.310Z",
+  "title": [
+    {
+      "text": "Lisperator UglifyJS 3.1.3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://lisperator.net/"
+    },
+    {
+      "text": "Product",
+      "href": "http://lisperator.net/uglifyjs/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/uglify-js"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/mishoo/UglifyJS2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lisperator:uglifyjs:3.1.3:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2021-10-28T11:04:14.310-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:uglifyjs_project:uglifyjs:3.1.3:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

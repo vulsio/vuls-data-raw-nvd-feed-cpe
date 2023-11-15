@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:typo3:typo3:6.2.32::~~elts~~~",
+  "title": [
+    {
+      "text": "TYPO3 6.2.32 Extended Long Term Support",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.purplemet.com/blog/typo3-xss-vulnerability"
+    },
+    {
+      "text": "Version",
+      "href": "https://typo3versions.felixnagel.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://typo3.com/products/extended-support/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:typo3:typo3:6.2.32:*:*:*:elts:*:*:*"
+  }
+}

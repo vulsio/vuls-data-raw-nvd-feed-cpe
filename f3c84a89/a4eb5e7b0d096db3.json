@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:marc_project:marc:2.0.0::~~~rust~~",
+  "title": [
+    {
+      "text": "Marc Project Marc 2.0.0 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://rustsec.org/advisories/RUSTSEC-2021-0014.html"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/blackbeam/rust-marc/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:marc_project:marc:2.0.0:*:*:*:*:rust:*:*"
+  }
+}

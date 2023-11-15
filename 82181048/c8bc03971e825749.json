@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:.net_install_tool_for_extension_authors:1.1.0::~~~visual_studio_code~~",
+  "title": [
+    {
+      "text": "Microsoft .NET Install Tool for Extension Authors 1.1.0 for Visual Studio Code",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dotnet/vscode-dotnet-runtime/security/advisories/GHSA-wx46-m3p3-whv8"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-34477"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:.net_install_tool_for_extension_authors:1.1.0:*:*:*:*:visual_studio_code:*:*"
+  }
+}

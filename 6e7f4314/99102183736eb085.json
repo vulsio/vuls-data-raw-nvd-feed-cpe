@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:acti:nvr:3.0.12.42::~~standard~~~",
+  "title": [
+    {
+      "text": "ACTi NVR 3.0.12.42 Standard Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.acti.com/product/NVR%203%20Standard"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/megamagnus/cve-2020-15956"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acti:nvr:3.0.12.42:*:*:*:standard:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:perforce:helix_alm:2020.3.1:build_22",
+  "title": [
+    {
+      "text": "Perforce Software Helix ALM 2020.3.1 Build 22",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.perforce.com/products/helix-alm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.compass-security.com/fileadmin/Research/Advisories/2021-01_CSNC-2021-005_Helix_ALM_XXE.txt"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/200118"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:perforce:helix_alm:2020.3.1:build_22:*:*:*:*:*:*"
+  }
+}

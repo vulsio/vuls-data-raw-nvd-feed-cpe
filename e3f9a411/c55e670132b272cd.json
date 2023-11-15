@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:rewardingyourself:rewardingyourself:-::~~~andriod~~",
+  "deprecated": true,
+  "deprecation_date": "2015-05-12T13:45:09.640Z",
+  "title": [
+    {
+      "text": "RewardingYourself RewardingYourself for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://rewardingyourself.com/mobileInfo.action"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:andriod:*:*",
+    "deprecation": {
+      "date": "2015-05-12T09:45:09.640-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rewardingyourself:rewardingyourself:-:*:*:*:*:android:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

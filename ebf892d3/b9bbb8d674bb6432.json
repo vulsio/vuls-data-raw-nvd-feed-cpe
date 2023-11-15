@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:anynines:redis:2.1.1::~~~pivotal_cloud_foundry~~",
+  "title": [
+    {
+      "text": "Anynines Redis 2.1.1 for Pivotal Cloud Foundry",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.pivotal.io/redis/2-3/index.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tanzu.vmware.com/security/cve-2019-3800"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:anynines:redis:2.1.1:*:*:*:*:pivotal_cloud_foundry:*:*"
+  }
+}

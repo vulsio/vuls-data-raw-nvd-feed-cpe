@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wpicalavailability:wp_ical_availability:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP iCal Availability 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-ical-availability/wordpress-wp-ical-availability-plugin-1-0-3-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.wpicalavailability.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-ical-availability/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpicalavailability:wp_ical_availability:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

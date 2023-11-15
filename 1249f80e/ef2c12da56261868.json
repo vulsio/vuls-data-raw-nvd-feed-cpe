@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zephyrproject:zephyr:2.1.0:-",
+  "deprecated": true,
+  "deprecation_date": "2020-05-14T12:12:24.493Z",
+  "title": [
+    {
+      "text": "Zephyrproject Zephyr 2.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/zephyrproject-rtos/zephyr/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zephyrproject:zephyr:2.1.0:-:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-05-14T08:12:24.493-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:zephyrproject:zephyr:2.1.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

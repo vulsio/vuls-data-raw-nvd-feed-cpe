@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:open-xchange:ox_app_suite:7.10.6",
+  "deprecated": true,
+  "deprecation_date": "2023-09-28T14:52:26.760Z",
+  "title": [
+    {
+      "text": "Open-Xchange OX App Suite 7.10.6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.open-xchange.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2022/Jul/11"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-09-28T10:52:26.760-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:open-xchange:ox_app_suite:7.10.6:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

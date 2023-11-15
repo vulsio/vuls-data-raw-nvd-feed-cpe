@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:exagrid:ex21000e:-",
+  "title": [
+    {
+      "text": "ExaGrid EX21000E",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.exagrid.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://community.rapid7.com/community/infosec/blog/2016/04/07/r7-2016-04-exagrid-backdoor-ssh-keys-and-hardcoded-credentials"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.exagrid.com/exagrid-products/product-line/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:exagrid:ex21000e:-:*:*:*:*:*:*:*"
+  }
+}

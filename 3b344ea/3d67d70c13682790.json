@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:juniper:junose:10.3",
+  "deprecated": true,
+  "deprecation_date": "2019-06-27T14:29:33.530Z",
+  "title": [
+    {
+      "text": "Juniper JUNOSe 10.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://support.juniper.net/support/eol/software/junose/#2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junose:10.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-27T10:29:33.530-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junose:10.3.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

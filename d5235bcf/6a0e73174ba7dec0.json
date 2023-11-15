@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:mautic:mautic:2.9.2",
+  "deprecated": true,
+  "deprecation_date": "2021-01-25T16:27:53.547Z",
+  "title": [
+    {
+      "text": "Mautic 2.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/mautic/mautic/tags"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.mautic.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mautic:mautic:2.9.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-25T11:27:53.547-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:mautic:mautic:2.9.2:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

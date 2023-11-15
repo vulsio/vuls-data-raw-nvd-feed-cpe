@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mozilla:bleach:3.1.4",
+  "title": [
+    {
+      "text": "Mozilla Bleach 3.1.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.mozilla.org/show_bug.cgi?id=1623633"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mozilla/bleach/security/advisories/GHSA-vqhp-cxgc-6wmm"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/mozilla/bleach/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mozilla:bleach:3.1.4:*:*:*:*:*:*:*"
+  }
+}

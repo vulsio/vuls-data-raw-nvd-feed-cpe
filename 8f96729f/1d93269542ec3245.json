@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_nt:4.0:sp6:workstation",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T22:04:44.057Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 4.0 sp6 workstation",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_nt:4.0:sp6:workstation:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-08T18:04:44.057-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_nt:4.0:sp6:*:*:workstation:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

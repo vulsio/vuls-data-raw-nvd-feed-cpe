@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:dexie:dexie:2.0.0:beta3:~~~node.js~~",
+  "title": [
+    {
+      "text": "Dexie Dexie 2.0.0 Beta 3 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-JS-DEXIE-2607042"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dexie/Dexie.js/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/dexie"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://dexie.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dexie:dexie:2.0.0:beta3:*:*:*:node.js:*:*"
+  }
+}

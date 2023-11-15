@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:microsoft:sql_server:7.0:-",
+  "title": [
+    {
+      "text": "Microsoft SQL Server 7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/sql-server/sql-server-2016"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://technet.microsoft.com/security/bulletin/MS16-136"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.microsoft.com/en-us/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=42299"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:sql_server:7.0:-:*:*:*:*:*:*"
+  }
+}

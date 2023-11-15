@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:atlassian:saml_single_sign_on:-::~~~jira~~",
+  "title": [
+    {
+      "text": "Atlassian SAML Single Sign On (SSO) for Jira",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso/version-history"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wiki.resolution.de/doc/saml-sso/5.0.x/all/security-advisories/2021-07-29-authentication-bypass-network-attacker-can-login-to-users-accounts-when-usernames-are-known"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:saml_single_sign_on:-:*:*:*:*:jira:*:*"
+  }
+}

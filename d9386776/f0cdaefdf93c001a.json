@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wpsymposium:wp_symposium:14.11::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2018-06-04T14:12:51.730Z",
+  "title": [
+    {
+      "text": "WP Symposium for WordPress 14.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://www.wpsymposium.com/"
+    },
+    {
+      "text": "Product changelog",
+      "href": "http://www.wpsymposium.com/blog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wpsymposium:wp_symposium:14.11:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2018-06-04T10:12:51.730-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wpsymposiumpro:wp_symposium:14.11:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

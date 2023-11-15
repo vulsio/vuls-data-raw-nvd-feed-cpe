@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:sap:netweaver_as_abap:754",
+  "deprecated": true,
+  "deprecation_date": "2022-10-05T14:16:07.773Z",
+  "title": [
+    {
+      "text": "SAP NetWeaver AS ABAP 754",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.sap.com/index.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://help.sap.com/docs/PRODUCT_ID/ff18034f08af4d7bb33894c2047c3b71/f9e2350eca7f4a109eb0a7bc63135e27.html?state=PRODUCTION&version=7.40.16&locale=en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sap:netweaver_as_abap:754:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-10-05T10:16:07.773-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:sap:netweaver_application_server_abap:754:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

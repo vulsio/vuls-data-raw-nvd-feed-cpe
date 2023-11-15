@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:subversion:2.10.3::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Subversion 2.10.3 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/subversion"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/subversion-plugin/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:subversion:2.10.3:*:*:*:*:jenkins:*:*"
+  }
+}

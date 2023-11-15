@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wphive:wordpress_related_posts:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WP Hive WordPress Related Posts for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/37e0a033-3dee-476d-ae86-68354e8f0b1c"
+    },
+    {
+      "text": "Product",
+      "href": "https://wphive.com/plugins/wordpress-23-related-posts-plugin/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wphive:wordpress_related_posts:-:*:*:*:*:wordpress:*:*"
+  }
+}

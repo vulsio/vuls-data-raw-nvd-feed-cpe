@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:7.7.0::~~community~~~",
+  "deprecated": true,
+  "deprecation_date": "2020-03-18T14:21:32.367Z",
+  "title": [
+    {
+      "text": "GitLab 7.7.0 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://gitlab.com"
+    },
+    {
+      "text": "Version",
+      "href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/changelogs/archive.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:7.7.0:*:*:*:community:*:*:*",
+    "deprecation": {
+      "date": "2020-03-18T10:21:32.367-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gitlab:gitlab:7.7.0:-:*:*:community:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

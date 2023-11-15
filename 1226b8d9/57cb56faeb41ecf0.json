@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:callrail:callrail_phone_call_tracking:0.3.7::~~~wordpress~~",
+  "title": [
+    {
+      "text": "CallRail Phone Call Tracking 0.3.7 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/callrail-phone-call-tracking/wordpress-callrail-phone-call-tracking-plugin-0-4-9-cross-site-request-forgery-csrf-vulnerability-leading-to-stored-cross-site-scripting-xss"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.callrail.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/callrail-phone-call-tracking/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:callrail:callrail_phone_call_tracking:0.3.7:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows-nt:2003:r2:x64-datacenter",
+  "deprecated": true,
+  "deprecation_date": "2008-04-15T16:35:00.000Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2003 r2 x64-datacenter",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows-nt:2003:r2:x64-datacenter:*:*:*:*:*",
+    "deprecation": {
+      "date": "2008-04-15T12:35:00.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_2003_server:-:r2:x64-datacenter:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

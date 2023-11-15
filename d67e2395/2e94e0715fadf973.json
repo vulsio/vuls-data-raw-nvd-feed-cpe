@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:anuragdeshmukh:cpt_shortcode_generator:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Anurag Deshmukh CPT Shortcode Generator 1.0 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/cpt-shortcode/wordpress-cpt-shortcode-generator-plugin-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/cpt-shortcode/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:anuragdeshmukh:cpt_shortcode_generator:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

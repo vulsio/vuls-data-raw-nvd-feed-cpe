@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:database-backups_project:database-backups:1.2.2.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Database-backups Project Database-backups 1.2.2.6 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/350c3e9a-bcc2-486a-90e6-d1dc13ce1bd5"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/database-backups/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:database-backups_project:database-backups:1.2.2.6:*:*:*:*:wordpress:*:*"
+  }
+}

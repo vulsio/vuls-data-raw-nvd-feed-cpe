@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:realnetworks:realplayer:12.0.1.1737:-:~-~-~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T19:20:51.973Z",
+  "title": [
+    {
+      "text": "RealNetworks RealPlayer 12.0.1.1737 Mac",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "vendor information",
+      "href": "http://service.real.com/realplayer/security/12202013_player/en/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:realnetworks:realplayer:12.0.1.1737:-:-:*:-:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T15:20:51.973-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:realnetworks:realplayer:12.0.1.1737:-:-:*:-:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

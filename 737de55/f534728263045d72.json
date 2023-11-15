@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:openbsd:openbsd:2.9",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:11:00.900Z",
+  "title": [
+    {
+      "text": "OpenBSD 2.9",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openbsd:openbsd:2.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:11:00.900-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:openbsd:openbsd:2.9:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:jenkins:jenkins:2.135",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T16:31:49.987Z",
+  "title": [
+    {
+      "text": "Jenkins 2.135",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://jenkins.io/changelog/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:jenkins:2.135:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-08T12:31:49.987-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:2.135:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:geekwebsolution:embed_youtube_video:1.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Geek Web Solution Embed YouTube Video 1.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/6cd9ebcf-e78f-4f97-a8f9-b7e4ceab66b7"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://geekwebsolution.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/embed-youtube-video/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:geekwebsolution:embed_youtube_video:1.0:*:*:*:*:wordpress:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:jenkins:jenkins-cloudformation:-::~~~jenkins~~",
+  "deprecated": true,
+  "deprecation_date": "2019-04-08T16:59:13.893Z",
+  "title": [
+    {
+      "text": "Jenkins jenkins-cloudformation for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/jenkins-cloudformation-plugin"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:jenkins-cloudformation:-:*:*:*:*:jenkins:*:*",
+    "deprecation": {
+      "date": "2019-04-08T12:59:13.893-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins-cloudformation-plugin:-:*:*:*:*:jenkins:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

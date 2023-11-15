@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:matio_project:matio:1.5.19",
+  "title": [
+    {
+      "text": "Matio Project Matio 1.5.19",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/oss-fuzz-vulns/blob/main/vulns/matio/OSV-2020-799.yaml"
+    },
+    {
+      "text": "Version",
+      "href": "https://sourceforge.net/projects/matio/files/matio/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matio_project:matio:1.5.19:*:*:*:*:*:*:*"
+  }
+}

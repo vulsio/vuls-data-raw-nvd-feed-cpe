@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:apache:karaf:4.3.1",
+  "title": [
+    {
+      "text": "Apache Software Foundation Karaf 4.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://karaf.apache.org/security/cve-2022-40145.txt"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/apache/karaf/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:karaf:4.3.1:*:*:*:*:*:*:*"
+  }
+}

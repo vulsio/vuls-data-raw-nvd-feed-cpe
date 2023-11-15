@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:pheonixcontact-software:proconos_eclr:-::~~softplc~~~",
+  "deprecated": true,
+  "deprecation_date": "2018-11-28T17:31:57.973Z",
+  "title": [
+    {
+      "text": "Pheonix Contact Software ProConOS eCLR SoftPLC",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "https://www.phoenixcontact-software.com/en/iec-61131-control/runtime-systems/proconos-eclr-softplc"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*",
+    "deprecation": {
+      "date": "2018-11-28T12:31:57.973-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:softplc:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

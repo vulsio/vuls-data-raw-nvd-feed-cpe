@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:foolabs:xpdf:2.01",
+  "deprecated": true,
+  "deprecation_date": "2019-03-06T16:20:31.903Z",
+  "title": [
+    {
+      "text": "foolabs Xpdf 2.01",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:foolabs:xpdf:2.01:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-06T11:20:31.903-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:glyphandcog:xpdfreader:2.01:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

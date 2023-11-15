@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:intel:ethernet_controller_i210-it:-",
+  "title": [
+    {
+      "text": "Intel Ethernet Controller I210-IT",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/64399/intel-ethernet-controller-i210-series.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00318.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:ethernet_controller_i210-it:-:*:*:*:*:*:*:*"
+  }
+}

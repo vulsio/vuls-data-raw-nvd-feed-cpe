@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:snowflake:snowflake_jdbc:3.8.7",
+  "title": [
+    {
+      "text": "Snowflake JDBC 3.8.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.snowflake.com/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/snowflakedb/snowflake-jdbc/security/advisories/GHSA-4g3j-c4wg-6j7x"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/snowflakedb/snowflake-jdbc/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:snowflake:snowflake_jdbc:3.8.7:*:*:*:*:*:*:*"
+  }
+}

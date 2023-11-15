@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:siemens:simatic_s7-1511f-1_pn_cpu:-",
+  "title": [
+    {
+      "text": "Siemens Simatic S7-1511F-1 PN CPU",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-253230.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.industry.siemens.com/cs/document/109478459/firmware-update-s7-1500-cpus-and-displays?dti=0&lc=en-DE"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:siemens:simatic_s7-1511f-1_pn_cpu:-:*:*:*:*:*:*:*"
+  }
+}

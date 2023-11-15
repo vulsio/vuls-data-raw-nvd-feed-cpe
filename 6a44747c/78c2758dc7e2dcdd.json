@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:quectel:ag550qcn_firmware:-",
+  "title": [
+    {
+      "text": "Quectel AG550QCN Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/closethe/AG550QCN_CommandInjection_ql_atfwd/blob/main/README.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.quectel.com/product/5g-c-v2x-ag55xq-automotive-module"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:quectel:ag550qcn_firmware:-:*:*:*:*:*:*:*"
+  }
+}

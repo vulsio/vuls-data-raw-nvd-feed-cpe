@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ublockorigin:ublock_origin:1.36.2",
+  "title": [
+    {
+      "text": "uBlock Origin 1.36.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/vtriolet/writings/blob/main/posts/2021/ublock_origin_and_umatrix_denial_of_service.adoc"
+    },
+    {
+      "text": "Product",
+      "href": "https://ublockorigin.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/gorhill/uBlock"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ublockorigin:ublock_origin:1.36.2:*:*:*:*:*:*:*"
+  }
+}

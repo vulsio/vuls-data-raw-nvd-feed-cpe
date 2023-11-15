@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:raspap:raspap:2.5",
+  "title": [
+    {
+      "text": "RaspAP 2.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://deadb0x.io/lunchb0x/cve-2020-24572/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/billz/raspap-webgui/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://raspap.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:raspap:raspap:2.5:*:*:*:*:*:*:*"
+  }
+}

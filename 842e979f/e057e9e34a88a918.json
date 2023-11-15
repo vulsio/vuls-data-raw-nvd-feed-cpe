@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:feep:libtar:-",
+  "title": [
+    {
+      "text": "Feep Libtar",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/tklauser/libtar/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.openeuler.org/en/security/safety-bulletin/detail.html?id=openEuler-SA-2022-1807"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33643.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:feep:libtar:-:*:*:*:*:*:*:*"
+  }
+}

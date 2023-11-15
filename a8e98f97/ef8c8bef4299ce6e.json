@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_2000:-:sp3:advanced_server",
+  "deprecated": true,
+  "deprecation_date": "2019-04-30T14:27:11.503Z",
+  "title": [
+    {
+      "text": "Microsoft Windows 2000 Advanced Server SP3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:advanced_server:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-30T10:27:11.503-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:*:*:advanced_server:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:nova:20.3.1",
+  "title": [
+    {
+      "text": "Openstack Nova 20.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.openstack.org/releasenotes/nova/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.openstack.org/ossa/OSSA-2020-006.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:nova:20.3.1:*:*:*:*:*:*:*"
+  }
+}

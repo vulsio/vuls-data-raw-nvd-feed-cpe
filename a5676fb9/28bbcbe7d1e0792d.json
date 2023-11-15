@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:designwall:dw_question_%26_answer:1.5.7::~~pro~wordpress~~",
+  "title": [
+    {
+      "text": "Designwall Dw Question & Answer 1.5.7 Pro Edition for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.designwall.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-3/"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/dw-question-answer/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:designwall:dw_question_\\&_answer:1.5.7:*:*:*:pro:wordpress:*:*"
+  }
+}

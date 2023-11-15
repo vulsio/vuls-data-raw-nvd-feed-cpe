@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:redhat:openshift-origin-msg-node-mcollective:-",
+  "title": [
+    {
+      "text": "Red Hat openshift-origin-msg-node-mcollective",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/openshift/origin-server/commit/f1abe972794e35a4bfba597694ce829990f14d39"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2013/4xxx/CVE-2013-4561.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:openshift-origin-msg-node-mcollective:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:x.org:libxfixes:4.0::~~~~x86~",
+  "title": [
+    {
+      "text": "X.Org Foundation LibXfixes 4.0 on x86",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://gitlab.freedesktop.org/xorg/lib/libxfixes/-/tags?sort=updated_desc"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://x.org/wiki/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cgit.freedesktop.org/xorg/lib/libXfixes/commit/?id=61c1039ee23a2d1de712843bed3480654d7ef42e"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cgit.freedesktop.org/xorg/lib/libXfixes/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:x.org:libxfixes:4.0:*:*:*:*:*:x86:*"
+  }
+}

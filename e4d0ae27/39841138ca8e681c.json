@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:lightbend:play_framework:2.7.0",
+  "deprecated": true,
+  "deprecation_date": "2019-11-25T16:54:56.283Z",
+  "title": [
+    {
+      "text": "Lightbend Play Framework 2.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/playframework/playframework/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.lightbend.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:lightbend:play_framework:2.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-25T11:54:56.283-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:lightbend:play_framework:2.7.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openstack:neutron:16.4.1",
+  "title": [
+    {
+      "text": "OpenStack Neutron 16.4.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/neutron/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38598.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:neutron:16.4.1:*:*:*:*:*:*:*"
+  }
+}

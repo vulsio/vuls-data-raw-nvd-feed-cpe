@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ca:client_automation:14.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-08T13:06:36.147Z",
+  "title": [
+    {
+      "text": "CA Technologies Client Automation 14.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ca.com/us/products/ca-client-automation.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ca.com/us.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:client_automation:14.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-08T09:06:36.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:client_automation:14.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

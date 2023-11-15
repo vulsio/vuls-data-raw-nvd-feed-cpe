@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:life_insurance_management_system_project:life_insurance_management_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-01T16:58:01.657Z",
+  "title": [
+    {
+      "text": "Life Insurance Management System Project Life Insurance Management System 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Hanwengao/CVERequests/blob/main/XSS.md"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.sourcecodester.com/php/14665/life-insurance-management-system-php-full-source-code.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/3xxx/CVE-2023-3165.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:life_insurance_management_system_project:life_insurance_management_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-01T12:58:01.657-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:janobe:life_insurance_management_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

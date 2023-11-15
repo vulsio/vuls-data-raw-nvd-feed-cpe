@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:appimage:appimaged:-",
+  "title": [
+    {
+      "text": "AppImage appimaged",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/AppImage/appimaged"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://appimage.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/refi64/CVE-2020-25265-25266"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:appimage:appimaged:-:*:*:*:*:*:*:*"
+  }
+}

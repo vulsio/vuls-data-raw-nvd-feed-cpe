@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ethercash:ethercash:-",
+  "title": [
+    {
+      "text": "ETHERCASH",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/token/0xd7cf04472739aaa2565af739e2e1d08f99ec8981"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://etherecash.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ethercash:ethercash:-:*:*:*:*:*:*:*"
+  }
+}

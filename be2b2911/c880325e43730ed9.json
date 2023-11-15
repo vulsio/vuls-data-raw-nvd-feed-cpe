@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:subversion_release_manager:1.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Subversion Release Manager 1.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://wiki.jenkins.io/display/JENKINS/Subversion+Release+Manager"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/svn-release-mgr-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:subversion_release_manager:1.1:*:*:*:*:jenkins:*:*"
+  }
+}

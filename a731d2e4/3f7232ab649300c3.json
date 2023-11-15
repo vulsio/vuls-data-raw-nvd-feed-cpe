@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:siemens:simatic_wincc:7.3:-",
+  "title": [
+    {
+      "text": "Siemens SIMATIC WinCC 7.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.industry.siemens.com/cs/products?dtp=Download&mfn=ps&pnid=14866&lc=en-WW"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.siemens.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-121293.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-192-02"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.securityfocus.com/bid/109127/info"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:siemens:simatic_wincc:7.3:-:*:*:*:*:*:*"
+  }
+}

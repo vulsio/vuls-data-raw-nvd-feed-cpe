@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pivotal:cloud_foundry_log_cache_release:1.4.0",
+  "title": [
+    {
+      "text": "Pivotal Cloud Foundry Log Cache Release 1.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/cloudfoundry/log-cache-release/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tanzu.vmware.com/security/cve-2019-3800"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:cloud_foundry_log_cache_release:1.4.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:servisnet:tessa:0.0.2",
+  "title": [
+    {
+      "text": "Servisnet Tessa 0.0.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pentest.com.tr/exploits/Servisnet-Tessa-MQTT-Credentials-Dump-Unauthenticated.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/165867/Servisnet-Tessa-MQTT-Credential-Disclosure.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.servisnet.com.tr/en"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:servisnet:tessa:0.0.2:*:*:*:*:*:*:*"
+  }
+}

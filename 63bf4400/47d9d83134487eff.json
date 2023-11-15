@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:ibm:vios:2.2.0.12",
+  "deprecated": true,
+  "deprecation_date": "2021-08-31T15:42:22.903Z",
+  "title": [
+    {
+      "text": "IBM Virtual I/O Server (VIOS) 2.2.0.12",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ibm.com/docs/en/POWER7/p7hb1/iphb1kickoff.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:ibm:vios:2.2.0.12:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-08-31T11:42:22.903-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:vios:2.2.0.12:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:se:tristation_1131:4.0.0",
+  "deprecated": true,
+  "deprecation_date": "2020-06-09T16:58:36.127Z",
+  "title": [
+    {
+      "text": "Schneider Electric TriStation 1131 4.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.se.com/us/en/work/products/industrial-automation-control/triconex-safety-systems/software-tools/tristation.jsp"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SESB-2020-105-01_Legacy_Triconex_Product_Vulnerabilities_Security_Bulletin.pdf&p_Doc_Ref=SESB-2020-105-01"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:tristation_1131:4.0.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-06-09T12:58:36.127-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:tristation_1131:4.0.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linktoken_project:linktoken:-",
+  "title": [
+    {
+      "text": "LinkToken Project LinkToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xe2e6d4be086c6938b53b22144855eef674281639#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dwfault/AirTokens/blob/master/Link_Platform__LNK_/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linktoken_project:linktoken:-:*:*:*:*:*:*:*"
+  }
+}

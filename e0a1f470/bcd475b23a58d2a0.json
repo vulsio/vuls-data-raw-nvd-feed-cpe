@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:z%2fos_connector:1.2.6.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins z/OS Connector 1.2.6.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/zos-connector-plugin/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/zos-connector"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:z\\/os_connector:1.2.6.1:*:*:*:*:jenkins:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:octopus:tentacle:6.0.538",
+  "title": [
+    {
+      "text": "Octopus Tentacle 6.0.538",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://octopus.com/downloads/tentacle"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/OctopusDeploy/OctopusTentacle/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://advisories.octopus.com/adv/2021-11---Local-privilege-escalation-in-Octopus-Tentacle-(CVE-2021-31822).2283732993.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://octopus.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:octopus:tentacle:6.0.538:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:virtual_machine_manager:2007",
+  "deprecated": true,
+  "deprecation_date": "2009-04-03T18:29:33.250Z",
+  "title": [
+    {
+      "text": "Microsoft System Center Virtual Machine Manager 2007",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-04-03T14:29:33.250-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:virtual_machine_manager:2007:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

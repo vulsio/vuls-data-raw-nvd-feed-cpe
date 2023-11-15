@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:debian:trousers:0.3.8",
+  "deprecated": true,
+  "deprecation_date": "2020-08-17T15:55:06.900Z",
+  "title": [
+    {
+      "text": "Debian TrouSerS 0.3.8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:debian:trousers:0.3.8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-17T11:55:06.900-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trustedcomputinggroup:trousers:0.3.8:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

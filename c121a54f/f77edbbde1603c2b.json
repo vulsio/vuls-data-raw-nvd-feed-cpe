@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:kernel:linux-pam:1.1.2",
+  "deprecated": true,
+  "deprecation_date": "2019-01-03T15:01:45.087Z",
+  "title": [
+    {
+      "text": "kernel pam 1.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:kernel:linux-pam:1.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-01-03T10:01:45.087-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linux-pam:linux-pam:1.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

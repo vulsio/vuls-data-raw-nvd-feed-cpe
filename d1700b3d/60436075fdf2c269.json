@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:matrix:synapse:0.34.1",
+  "deprecated": true,
+  "deprecation_date": "2021-07-23T15:02:00.700Z",
+  "title": [
+    {
+      "text": "Matrix Synapse 0.34.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/matrix-org/synapse/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://matrix.org/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/matrix-org/synapse"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://matrix.org/blog/2019/01/10/critical-security-update-synapse-0-34-0-1-synapse-0-34-1-1/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:matrix:synapse:0.34.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-07-23T11:02:00.700-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:matrix:synapse:0.34.1:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

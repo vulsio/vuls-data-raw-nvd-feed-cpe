@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:dectoken_project:dectoken:-",
+  "title": [
+    {
+      "text": "DECToken project DECToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xff9Bce8409df637CD3936bA77f8746bf99a4f80B#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dectoken_project:dectoken:-:*:*:*:*:*:*:*"
+  }
+}

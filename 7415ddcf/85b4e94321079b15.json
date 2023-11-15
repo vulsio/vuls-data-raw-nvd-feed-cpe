@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:jenkins:gerrit_trigger:2.27.1::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Gerrit Trigger 2.27.1 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/gerrit-trigger"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://jenkins.io"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/gerrit-trigger-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:gerrit_trigger:2.27.1:*:*:*:*:jenkins:*:*"
+  }
+}

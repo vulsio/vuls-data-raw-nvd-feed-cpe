@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gopiplus:message_ticker:8.6::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Gopiplus Message Ticker 8.6 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.gopiplus.com/work/2010/07/18/message-ticker/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/message-ticker/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/message-ticker/message-ticker-92-authenticated-subscriber-sql-injection-via-shortcode"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gopiplus:message_ticker:8.6:*:*:*:*:wordpress:*:*"
+  }
+}

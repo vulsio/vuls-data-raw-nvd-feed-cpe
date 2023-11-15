@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:netapp:brocade_fabric_operating_system_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2021-06-22T14:47:55.630Z",
+  "title": [
+    {
+      "text": "NetApp Brocade Fabric Operating System Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20200424-0003/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:netapp:brocade_fabric_operating_system_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-22T10:47:55.630-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:broadcom:fabric_operating_system:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

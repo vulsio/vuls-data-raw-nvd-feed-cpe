@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.1",
+  "title": [
+    {
+      "text": "Red Hat Enterprise Linux Server Update Services For SAP Solutions 8.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2021:3638"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/errata/RHSA-2021:3623"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1988342"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:enterprise_linux_server_update_services_for_sap_solutions:8.1:*:*:*:*:*:*:*"
+  }
+}

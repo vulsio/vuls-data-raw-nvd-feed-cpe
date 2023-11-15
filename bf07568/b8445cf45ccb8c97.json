@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ibm:netezza_performance_portal:2.0.0.1",
+  "title": [
+    {
+      "text": "IBM Netezza Performance Portal 2.0.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "version information",
+      "href": "http://www-933.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~Information%2BManagement&product=ibm/Information+Management/Netezza+Applications&release=PERFPORTAL_2.0&platform=All&function=all"
+    },
+    {
+      "text": "security bulletin for CVE-2014-0848",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21665278"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:netezza_performance_portal:2.0.0.1:*:*:*:*:*:*:*"
+  }
+}

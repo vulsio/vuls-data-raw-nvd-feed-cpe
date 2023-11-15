@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:uclibc-ng_project:uclibc-ng:1.0.40",
+  "title": [
+    {
+      "text": "uClibc-ng Project uClibc-ng 1.0.40",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.nozominetworks.com/blog/nozomi-networks-discovers-unpatched-dns-bug-in-popular-c-standard-library-putting-iot-at-risk/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.kb.cert.org/vuls/id/473698"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/wbx-github/uclibc-ng/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:uclibc-ng_project:uclibc-ng:1.0.40:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:vaadin:vaadin:8.13.0",
+  "deprecated": true,
+  "deprecation_date": "2021-10-15T13:15:48.273Z",
+  "title": [
+    {
+      "text": "Vaadin 8.13.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/vaadin/framework/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://vaadin.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vaadin:vaadin:8.13.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-10-15T09:15:48.273-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:vaadin:vaadin:8.13.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

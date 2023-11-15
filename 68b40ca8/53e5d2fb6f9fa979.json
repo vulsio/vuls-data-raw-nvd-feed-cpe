@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:addify:product_stock_manager:1.0.1::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Addify Product Stock Manager 1.0.1 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/d8005cd0-8232-4d43-a4e4-14728eaf1300"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://addify.co/"
+    },
+    {
+      "text": "Product",
+      "href": "https://woocommerce.com/products/product-stock-manager/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://dzv365zjfbd8v.cloudfront.net/changelogs/addify-product-stock-manager/changelog.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:addify:product_stock_manager:1.0.1:*:*:*:*:wordpress:*:*"
+  }
+}

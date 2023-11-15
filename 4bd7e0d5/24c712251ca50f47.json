@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:wireshark:wireshark:1.10",
+  "deprecated": true,
+  "deprecation_date": "2014-04-24T18:54:32.487Z",
+  "title": [
+    {
+      "text": "Wireshark Wireshark 1.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version information",
+      "href": "http://www.wireshark.org/download/src/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wireshark:wireshark:1.10:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2014-04-24T14:54:32.487-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wireshark:wireshark:1.10.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:nodejs:node.js:14.1.0::~~lts~~~",
+  "title": [
+    {
+      "text": "Nodejs Node.js 14.1.0 LTS Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://nodejs.org/en/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/nodejs/node/blob/master/CHANGELOG.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://nodejs.org/en/blog/vulnerability/february-2021-security-releases/"
+    },
+    {
+      "text": "Version",
+      "href": "https://nodejs.org/docs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nodejs:node.js:14.1.0:*:*:*:lts:*:*:*"
+  }
+}

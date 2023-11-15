@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:linuxfoundation:nats-server:2.9.20",
+  "title": [
+    {
+      "text": "Linux Foundation NATS 2.9.20",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/nats-io/nats-server/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nats-io/nats-server/security/advisories/GHSA-fr2g-9hjm-wr23"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:nats-server:2.9.20:*:*:*:*:*:*:*"
+  }
+}

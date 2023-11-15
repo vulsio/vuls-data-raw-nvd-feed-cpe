@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zoom:client:3.5.6478.1231::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-04-07T19:47:41.820Z",
+  "title": [
+    {
+      "text": "Zoom Client 3.5.6478.1231 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoom:client:3.5.6478.1231:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-04-07T15:47:41.820-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zoom:zoom:3.5.6478.1231:*:*:*:*:mac_os:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

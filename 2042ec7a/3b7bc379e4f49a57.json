@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:rapid7:velociraptor:0.6.7-1",
+  "title": [
+    {
+      "text": "Rapid7 Velociraptor 0.6.7-1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://docs.velociraptor.app/announcements/2023-cves/#:~:text=to%20upgrade%20clients.-,CVE%2D2023%2D0242,-Insufficient%20Permission%20Check"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Velocidex/velociraptor/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rapid7:velociraptor:0.6.7-1:*:*:*:*:*:*:*"
+  }
+}

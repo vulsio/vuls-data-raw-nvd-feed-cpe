@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:snowflake:snowflake_connector:2.7.3::~~~python~~",
+  "title": [
+    {
+      "text": "Snowflake Connector 2.7.3 for Python",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/snowflakedb/snowflake-connector-python/security/advisories/GHSA-5w5m-pfw9-c8fp"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/snowflakedb/snowflake-connector-python/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:snowflake:snowflake_connector:2.7.3:*:*:*:*:python:*:*"
+  }
+}

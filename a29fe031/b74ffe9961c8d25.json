@@ -1,0 +1,18 @@
+{
+  "name": "cpe:/a:pivotal:cloud_foundry_smb_volume:3.1.19",
+  "title": [
+    {
+      "text": "Pivotal Cloud Foundry SMB Volume 3.1.19",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cloudfoundry.org/blog/cve-2023-20885-cf-workflows-leak-credentials-in-system-audit-logs/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pivotal:cloud_foundry_smb_volume:3.1.19:*:*:*:*:*:*:*"
+  }
+}

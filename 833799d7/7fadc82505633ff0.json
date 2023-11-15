@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ssh:tectia_connectsecure:-",
+  "title": [
+    {
+      "text": "SSH Tectia ConnectSecure",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ssh.com/manuals/clientserver-product/61/arch-connectsecure.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://info.ssh.com/tectia-vulnerability-cve-2021-27891"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ssh:tectia_connectsecure:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:entronad:cryptoes:2.0.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Entronad CryptoES 2.0.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/entronad/crypto-es/security/advisories/GHSA-mpj8-q39x-wq5h"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/entronad/crypto-es/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:entronad:cryptoes:2.0.1:*:*:*:*:node.js:*:*"
+  }
+}

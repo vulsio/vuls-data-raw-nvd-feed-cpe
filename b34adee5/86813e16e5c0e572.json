@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:galaxycoin_project:galaxycoin:-",
+  "title": [
+    {
+      "text": "GalaxyCoin project GalaxyCoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xff1642f2ed00d802cc305be21e6dc1d1e4f19a67#code"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:galaxycoin_project:galaxycoin:-:*:*:*:*:*:*:*"
+  }
+}

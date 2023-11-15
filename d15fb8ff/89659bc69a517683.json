@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/h:cisco:wireless_lan_controller:5.0",
+  "deprecated": true,
+  "deprecation_date": "2010-12-28T17:38:46.663Z",
+  "title": [
+    {
+      "text": "Cisco Wireless LAN Controller Software 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:wireless_lan_controller:5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-28T12:38:46.663-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

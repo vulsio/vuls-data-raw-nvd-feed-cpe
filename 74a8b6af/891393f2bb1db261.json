@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:redhat:libvirt:1.0.5",
+  "deprecated": true,
+  "deprecation_date": "2019-10-03T14:18:58.367Z",
+  "title": [
+    {
+      "text": "Red Hat libvirt 1.0.5",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:libvirt:1.0.5:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-10-03T10:18:58.367-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:libvirt:1.0.5:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

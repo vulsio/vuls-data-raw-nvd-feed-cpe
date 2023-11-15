@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:xelerance:openswan:2.4",
+  "deprecated": true,
+  "deprecation_date": "2019-07-29T14:24:46.593Z",
+  "title": [
+    {
+      "text": "Xelerance Openswan 2.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://download.openswan.org/openswan/CHANGES"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.openswan.org/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.xelerance.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/xelerance/Openswan/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:xelerance:openswan:2.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-07-29T10:24:46.593-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:xelerance:openswan:2.4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

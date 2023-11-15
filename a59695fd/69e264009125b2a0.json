@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows_xp:-:sp1:embedded",
+  "deprecated": true,
+  "deprecation_date": "2019-05-07T17:48:13.833Z",
+  "title": [
+    {
+      "text": "Microsoft windows xp_sp1 embedded",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:embedded:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-07T13:48:13.833-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:embedded:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

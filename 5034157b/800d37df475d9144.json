@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:agilebits:1password:-:-:~~~android~~",
+  "deprecated": true,
+  "deprecation_date": "2020-01-22T14:56:33.283Z",
+  "title": [
+    {
+      "text": "AgileBits 1Password for Android",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:agilebits:1password:-:-:*:*:*:android:*:*",
+    "deprecation": {
+      "date": "2020-01-22T09:56:33.283-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:1password:1password:-:-:*:*:*:android:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

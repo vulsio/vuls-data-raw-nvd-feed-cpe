@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:exposure_notification_verification_server:0.33.0",
+  "title": [
+    {
+      "text": "Google Exposure Notification Verification Server 0.33.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/exposure-notifications-verification-server/security/advisories/GHSA-wx8q-rgfr-cf6v"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/google/exposure-notifications-verification-server/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:exposure_notification_verification_server:0.33.0:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:se:unity_loader:-",
+  "deprecated": true,
+  "deprecation_date": "2022-01-31T19:42:54.627Z",
+  "title": [
+    {
+      "text": "Schneider Electric Unity Loader",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-161-02_Unity_Loader_and_OS_Loader_Software_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-161-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.se.com/ww/en/download/document/Unity_Loader_V140/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:se:unity_loader:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-31T14:42:54.627-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:schneider-electric:unity_loader:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

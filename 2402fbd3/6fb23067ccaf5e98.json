@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:simon_tatham:putty:0.49",
+  "deprecated": true,
+  "deprecation_date": "2019-03-21T17:04:56.440Z",
+  "title": [
+    {
+      "text": "PuTTY 0.49",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simon_tatham:putty:0.49:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-21T13:04:56.440-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:putty:putty:0.49:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:atlassian:jira:8.20.1",
+  "deprecated": true,
+  "deprecation_date": "2022-03-25T18:10:52.853Z",
+  "title": [
+    {
+      "text": "Atlassian JIRA 8.20.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:atlassian:jira:8.20.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-03-25T14:10:52.853-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:atlassian:jira_server:8.20.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

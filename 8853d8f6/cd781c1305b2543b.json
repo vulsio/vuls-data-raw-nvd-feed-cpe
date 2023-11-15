@@ -1,0 +1,25 @@
+{
+  "name": "cpe:/a:oracle:database_server:11.1.0.7.0:enterprise",
+  "deprecated": true,
+  "deprecation_date": "2012-07-25T18:26:40.930Z",
+  "title": [
+    {
+      "text": "Oracle Database Server 11g 11.1.0.7.0 Enterprise Edition",
+      "lang": "en-US"
+    },
+    {
+      "text": "オラクル データベースサーバ 11g 11.1.0.7.0 エンタープライズエディション",
+      "lang": "ja-JP"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:database_server:11.1.0.7.0:enterprise:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2012-07-25T14:26:40.930-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:database_server:11.1.0.7.0:*:enterprise:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:wordpress:wordpress:3.3",
+  "deprecated": true,
+  "deprecation_date": "2019-06-10T21:29:20.537Z",
+  "title": [
+    {
+      "text": "WordPress 3.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wordpress:wordpress:3.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-06-10T17:29:20.537-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wordpress:wordpress:3.3:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

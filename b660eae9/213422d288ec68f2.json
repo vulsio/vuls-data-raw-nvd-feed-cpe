@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:backstage:backstage:2021-03-11.1",
+  "deprecated": true,
+  "deprecation_date": "2021-06-21T14:21:06.340Z",
+  "title": [
+    {
+      "text": "Backstage 2021-03-11.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://backstage.io/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/backstage/backstage"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:backstage:backstage:2021-03-11.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-06-21T10:21:06.340-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:linuxfoundation:backstage:2021-03-11.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

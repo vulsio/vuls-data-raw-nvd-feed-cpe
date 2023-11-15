@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:server_protection_suite:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T18:53:53.987Z",
+  "title": [
+    {
+      "text": "Computer Associates Server Protection Suite",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:server_protection_suite:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T14:53:53.987-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:server_protection_suite:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:jenkins:blue_ocean:1.2.0::~~~jenkins~~",
+  "deprecated": true,
+  "deprecation_date": "2019-07-08T14:23:32.000Z",
+  "title": [
+    {
+      "text": "Jenkins Blue Ocean 1.2.0 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://plugins.jenkins.io/blueocean"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:blue_ocean:1.2.0:*:*:*:*:jenkins:*:*",
+    "deprecation": {
+      "date": "2019-07-08T10:23:32.000-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:blue_ocean:1.2.0:-:*:*:*:jenkins:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

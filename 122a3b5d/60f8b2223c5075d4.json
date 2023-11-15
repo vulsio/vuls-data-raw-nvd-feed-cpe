@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:common_services:1.0",
+  "deprecated": true,
+  "deprecation_date": "2021-04-08T13:06:36.147Z",
+  "title": [
+    {
+      "text": "Computer Associates Common Services 1.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:common_services:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-08T09:06:36.147-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:common_services:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

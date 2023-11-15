@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:citrix:gateway:13.0-58.30",
+  "title": [
+    {
+      "text": "Citrix Gateway 13.0-58.30",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://support.citrix.com/article/CTX276688/citrix-application-delivery-controller-citrix-gateway-and-citrix-sdwan-wanop-appliance-security-update"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2019/18xxx/CVE-2019-18177.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:citrix:gateway:13.0-58.30:*:*:*:*:*:*:*"
+  }
+}

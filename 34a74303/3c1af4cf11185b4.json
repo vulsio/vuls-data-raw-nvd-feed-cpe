@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:diytubecoin_project:diytubecoin:-",
+  "title": [
+    {
+      "text": "DIYTubeCoin Project DIYTubeCoin",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x141797bca73ad90844d88105c8fdd8acb4c75b48#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/Tube"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:diytubecoin_project:diytubecoin:-:*:*:*:*:*:*:*"
+  }
+}

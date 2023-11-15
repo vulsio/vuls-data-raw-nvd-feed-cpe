@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:systeminformation:systeminformation:4.33.7::~~~node.js~~",
+  "title": [
+    {
+      "text": "systeminformation 4.33.7 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sebhildebrandt/systeminformation/security/advisories/GHSA-2m8v-572m-ff2v"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.npmjs.com/package/systeminformation"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sebhildebrandt/systeminformation/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:systeminformation:systeminformation:4.33.7:*:*:*:*:node.js:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:nginx:njs:2019-06-27",
+  "title": [
+    {
+      "text": "Nginx NJS 2019-06-27",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nginx/njs/issues/187"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nginx/njs/tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://nginx.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nginx/njs/commit/0feca922f9508f0b21d777387424edf188d4ce65"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nginx:njs:2019-06-27:*:*:*:*:*:*:*"
+  }
+}

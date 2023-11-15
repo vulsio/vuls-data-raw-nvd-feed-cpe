@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:microsoft:works:8",
+  "deprecated": true,
+  "deprecation_date": "2009-03-05T17:19:18.967Z",
+  "title": [
+    {
+      "text": "Microsoft Works 8",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:works:8:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-03-05T12:19:18.967-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:works:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

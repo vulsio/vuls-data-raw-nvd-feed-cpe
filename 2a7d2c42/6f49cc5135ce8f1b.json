@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:arubanetworks:instant:8.7.1.9",
+  "title": [
+    {
+      "text": "Aruba Networks Instant 8.7.1.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-014.txt"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37888.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:arubanetworks:instant:8.7.1.9:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:algernon_project:algernon:1.4.3",
+  "title": [
+    {
+      "text": "Algernon Project Algernon 1.4.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/xyproto/algernon/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.snyk.io/vuln/SNYK-GOLANG-GITHUBCOMXYPROTOALGERNONENGINE-3312111"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:algernon_project:algernon:1.4.3:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:omron:cx-one:4.50",
+  "title": [
+    {
+      "text": "OMRON CX-One 4.50",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-007-02"
+    },
+    {
+      "text": "Product",
+      "href": "https://assets.omron.com/m/2bd685fc5c2eb2ea/original/CX-One-Ver-4-Datasheet.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:omron:cx-one:4.50:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:amd:epyc_9254_firmware:-",
+  "title": [
+    {
+      "text": "Advanced Micro Devices (AMD) EPYC 9254 FIRMWARE ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cpu-monkey.com/en/cpu_family-amd_epyc"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3004.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:amd:epyc_9254_firmware:-:*:*:*:*:*:*:*"
+  }
+}

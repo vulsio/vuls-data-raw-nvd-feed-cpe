@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zoom:zoom:4.1.18796.0103::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T17:49:42.640Z",
+  "title": [
+    {
+      "text": "Zoom 4.1.18796.0103 for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoom:zoom:4.1.18796.0103:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T13:49:42.640-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zoom:zoom:4.1.18796.0103:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

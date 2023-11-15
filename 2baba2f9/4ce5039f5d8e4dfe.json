@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:qdecoder_project:qdecoder:-",
+  "title": [
+    {
+      "text": "qDecoder Project qDecoder",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/228046"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/wolkykim/qdecoder/pull/29"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/wolkykim/qdecoder/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:qdecoder_project:qdecoder:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:arqbackup:arq:4.0:b5:~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T13:05:43.283Z",
+  "title": [
+    {
+      "text": "Arq Backup Arq 4.0 B5 Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://www.arqbackup.com/download/arq5_release_notes.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.arqbackup.com"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arqbackup:arq:4.0:b5:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T09:05:43.283-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:arqbackup:arq:4.0:b5:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

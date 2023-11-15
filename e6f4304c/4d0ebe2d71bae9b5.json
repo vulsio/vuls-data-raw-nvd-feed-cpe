@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:mikrotik:routeros:6.42:rc35",
+  "deprecated": true,
+  "deprecation_date": "2019-09-17T12:43:36.497Z",
+  "title": [
+    {
+      "text": "MikroTik RouterOS 6.42 Release Candidate 35",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://mikrotik.com/download/changelogs/current-release-tree"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://mikrotik.com/download/changelogs/release-candidate-release-tree"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:mikrotik:routeros:6.42:rc35:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-09-17T08:43:36.497-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:mikrotik:routeros:6.42:rc35:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

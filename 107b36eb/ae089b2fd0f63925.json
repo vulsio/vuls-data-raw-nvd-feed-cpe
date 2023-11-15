@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:14.1.5::~~enterprise~~~",
+  "title": [
+    {
+      "text": "GitLab 14.1.5 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-39893.json"
+    },
+    {
+      "text": "Version",
+      "href": "https://about.gitlab.com/releases/categories/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:14.1.5:*:*:*:enterprise:*:*:*"
+  }
+}

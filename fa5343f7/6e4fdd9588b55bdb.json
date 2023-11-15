@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wdc:my_cloud:-::~~~android~~",
+  "deprecated": true,
+  "deprecation_date": "2020-02-24T15:02:05.213Z",
+  "title": [
+    {
+      "text": "WDC My Cloud for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180930-01-mycloud-en"
+    },
+    {
+      "text": "Product",
+      "href": "https://support.wdc.com/knowledgebase/answer.aspx?ID=10462"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wdc:my_cloud:-:*:*:*:*:android:*:*",
+    "deprecation": {
+      "date": "2020-02-24T10:02:05.213-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:westerndigital:my_cloud:-:*:*:*:*:android:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:chaos_tool_suite_project:ctools:6.x-1.0:dev:~~~drupal~~",
+  "deprecated": true,
+  "deprecation_date": "2015-06-18T14:52:38.620Z",
+  "title": [
+    {
+      "text": "Chaos Tool Suite Project ctools for Drupal  6.x-1.0 dev",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://www.drupal.org/project/ctools"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:chaos_tool_suite_project:ctools:6.x-1.0:dev:*:*:*:drupal:*:*",
+    "deprecation": {
+      "date": "2015-06-18T10:52:38.620-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:chaos_tool_suite_project:ctools:6.x-1.x:dev:*:*:*:drupal:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

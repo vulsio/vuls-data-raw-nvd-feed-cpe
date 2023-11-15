@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:ios:16.9.2",
+  "title": [
+    {
+      "text": "Cisco IOS 16.9.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvn02419"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-ftp"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-xe-16/products-release-notes-list.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:ios:16.9.2:*:*:*:*:*:*:*"
+  }
+}

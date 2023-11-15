@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:apple:apple_tv:4.2.2",
+  "deprecated": true,
+  "deprecation_date": "2019-03-08T16:06:26.373Z",
+  "title": [
+    {
+      "text": "Apple TV 4.2.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:apple_tv:4.2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-08T11:06:26.373-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:tvos:4.2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

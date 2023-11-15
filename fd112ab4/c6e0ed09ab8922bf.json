@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:ca:inoculan:-",
+  "deprecated": true,
+  "deprecation_date": "2021-04-09T16:57:16.703Z",
+  "title": [
+    {
+      "text": "Computer Associates Inoculan AV client",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ca:inoculan:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-09T12:57:16.703-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:broadcom:inoculan:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:freebsd:freebsd:12.0:p6",
+  "title": [
+    {
+      "text": "FreeBSD 12.0 Patch 6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-19:11.cd_ioctl.asc"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.freebsd.org/releases/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.freebsd.org/security/advisories.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:freebsd:freebsd:12.0:p6:*:*:*:*:*:*"
+  }
+}

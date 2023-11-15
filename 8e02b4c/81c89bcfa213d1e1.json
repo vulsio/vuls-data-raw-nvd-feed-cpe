@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:medtronic:secura_icd_firmware:-",
+  "title": [
+    {
+      "text": "Medtronic Secura ICD Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "http://wwwp.medtronic.com/productperformance/model/D224DRG-secura-dr.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.medtronic.com/us-en/index.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:medtronic:secura_icd_firmware:-:*:*:*:*:*:*:*"
+  }
+}

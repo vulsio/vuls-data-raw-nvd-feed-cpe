@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:irfanview:irfanview:4.52",
+  "deprecated": true,
+  "deprecation_date": "2020-01-27T13:03:54.780Z",
+  "title": [
+    {
+      "text": "IrfanView 4.52",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/apriorit/pentesting/blob/master/bugs/irfanview/0x00000000000249c6.md"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.irfanview.com/main_download_engl.htm"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:irfanview:irfanview:4.52:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-01-27T08:03:54.780-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:irfanview:irfanview:4.52:*:*:*:*:*:x86:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

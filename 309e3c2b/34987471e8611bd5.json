@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:superjson_project:superjson:1.0.0::~~~node.js~~",
+  "deprecated": true,
+  "deprecation_date": "2022-02-15T18:54:15.253Z",
+  "title": [
+    {
+      "text": "Superjson Project Superjson 1.0.0 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/blitz-js/superjson/releases"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.npmjs.com/package/superjson"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:superjson_project:superjson:1.0.0:*:*:*:*:node.js:*:*",
+    "deprecation": {
+      "date": "2022-02-15T13:54:15.253-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:blitzjs:superjson:1.0.0:*:*:*:*:node.js:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:jenkins:jenkins:2.154",
+  "deprecated": true,
+  "deprecation_date": "2019-05-08T16:31:53.957Z",
+  "title": [
+    {
+      "text": "Jenkins 2.154",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/jenkins/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:jenkins:2.154:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-08T12:31:53.957-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:jenkins:jenkins:2.154:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

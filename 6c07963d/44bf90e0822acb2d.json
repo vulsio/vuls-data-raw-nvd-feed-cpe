@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:apache:guacamole:0.9.14",
+  "deprecated": true,
+  "deprecation_date": "2021-01-22T22:02:46.373Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation Guacamole 0.9.14",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://guacamole.apache.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://guacamole.apache.org/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:guacamole:0.9.14:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-01-22T17:02:46.373-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:guacamole:0.9.14:rc1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

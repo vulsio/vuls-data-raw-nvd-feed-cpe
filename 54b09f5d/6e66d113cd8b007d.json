@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:dell:sonicwall_sonicos:6.2.2.0",
+  "deprecated": true,
+  "deprecation_date": "2018-03-12T13:04:31.643Z",
+  "title": [
+    {
+      "text": "Dell SonicWall SonicOS 6.2.2.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "http://www.sonicwall.com/us/en/products/Network-Security-Platform.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dell:sonicwall_sonicos:6.2.2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-03-12T09:04:31.643-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:sonicwall:sonicos:6.2.2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

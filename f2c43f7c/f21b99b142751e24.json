@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:microsoft:visual_studio_code:1.67.0",
+  "title": [
+    {
+      "text": "Microsoft Visual Studio Code 1.67.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-33144"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/microsoft/vscode/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://code.visualstudio.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:visual_studio_code:1.67.0:*:*:*:*:*:*:*"
+  }
+}

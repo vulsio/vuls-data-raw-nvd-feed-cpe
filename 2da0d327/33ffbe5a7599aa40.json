@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:clouttoken_project:clouttoken:-",
+  "title": [
+    {
+      "text": "CloutToken Project CloutToken",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0xf9ad45ab49ba5583728da619305ad126e4675416#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:clouttoken_project:clouttoken:-:*:*:*:*:*:*:*"
+  }
+}

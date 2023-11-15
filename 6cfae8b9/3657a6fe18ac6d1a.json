@@ -1,0 +1,18 @@
+{
+  "name": "cpe:/a:rackspace:openstack_windows_guest_agent:1.2.6.0:-:~-~-~xen_server~~",
+  "title": [
+    {
+      "text": "Rackspace Openstack Windows Guest Agent for XenServer 1.2.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "version 1.2.6.1 commit",
+      "href": "https://github.com/rackerlabs/openstack-guest-agents-windows-xenserver/commit/ef16f88f20254b8083e361f11707da25f8482401"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rackspace:openstack_windows_guest_agent:1.2.6.0:-:-:*:-:xen_server:*:*"
+  }
+}

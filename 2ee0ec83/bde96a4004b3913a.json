@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:hinet:hicos_natural_person_credential_component_client:3.1.0.00002::~~~windows~~",
+  "title": [
+    {
+      "text": "HiNet (Chunghwa Telecom) HiCOS Natural Person Credential Component Client 3.1.0.00002 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.hinet.net/globe/en/about.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://eca.hinet.net/en/api.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.twcert.org.tw/tw/cp-132-6293-86576-1.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/32xxx/CVE-2022-32961.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hinet:hicos_natural_person_credential_component_client:3.1.0.00002:*:*:*:*:windows:*:*"
+  }
+}

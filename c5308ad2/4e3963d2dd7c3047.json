@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/o:wago:pfc200_firmware:200_03.03.10%2815%29",
+  "deprecated": true,
+  "deprecation_date": "2023-02-07T15:31:17.090Z",
+  "title": [
+    {
+      "text": "WAGO PFC200 Firmware 200 03.03.10(15)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.wago.com/us/pfc200"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2020-1010"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:wago:pfc200_firmware:200_03.03.10\\(15\\):*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-02-07T10:31:17.090-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:wago:pfc200_firmware:03.03.10\\(15\\):*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

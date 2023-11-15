@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:redhat:xnio:3.0.8",
+  "title": [
+    {
+      "text": "Red Hat XNIO 3.0.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://xnio.jboss.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1860218"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/xnio/xnio/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:redhat:xnio:3.0.8:*:*:*:*:*:*:*"
+  }
+}

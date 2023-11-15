@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:digi:connectport_lts_8%2f16%2f32:-",
+  "title": [
+    {
+      "text": "Digi ConnectPort LTS 8/16/32",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/terminal-servers/connectportlts"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:digi:connectport_lts_8\\/16\\/32:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:f5:big-ip:4.2",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:10:53.417Z",
+  "title": [
+    {
+      "text": "F5 Networks Traffic Management Operating System (TMOS) 4.2",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f5:big-ip:4.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:10:53.417-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:f5:tmos:4.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

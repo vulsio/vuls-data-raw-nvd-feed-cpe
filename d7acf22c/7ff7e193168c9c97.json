@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:sonicwall:sma_100_firmware:9.0.0.0",
+  "title": [
+    {
+      "text": "SonicWall SMA 100 Firmware 9.0.0.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "http://software.sonicwall.com/Firmware/Documentation/232-004453-00_RevA_SMA_9.0.0.0_ReleaseNotes.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.tenable.com/cve/CVE-2019-7481"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sonicwall:sma_100_firmware:9.0.0.0:*:*:*:*:*:*:*"
+  }
+}

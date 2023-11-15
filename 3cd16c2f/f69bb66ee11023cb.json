@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:zyxel:nbg-418n_v2_firmware:1.00%28aarp.9%29c0",
+  "title": [
+    {
+      "text": "Zyxel NBG-418N v2 Firmware 1.00(AARP.9)C0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.zyxel.com/us/en/support/download_landing/product/nbg_418n_v2_13.shtml?c=us&l=en&pid=20140210165248&tab=Firmware&pname=NBG-418N%20v2"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.zyxel.com/us/en/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/d0x0/Zyxel-NBG-418N-v2/blob/master/CVE-2019-17354"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:zyxel:nbg-418n_v2_firmware:1.00\\(aarp.9\\)c0:*:*:*:*:*:*:*"
+  }
+}

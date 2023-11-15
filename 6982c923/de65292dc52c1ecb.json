@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:morphisec:unified_threat_prevention_platform:4.0",
+  "title": [
+    {
+      "text": "Morphisec Unified Threat Prevention Platform 4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.morphisec.com/hubfs/Morphisec%20Unified%20Threat%20Prevention%20Platform-WEB.pdf"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://labs.nettitude.com/blog/cve-2020-14418-madcodehook-library-local-privilege-escalation/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:morphisec:unified_threat_prevention_platform:4.0:*:*:*:*:*:*:*"
+  }
+}

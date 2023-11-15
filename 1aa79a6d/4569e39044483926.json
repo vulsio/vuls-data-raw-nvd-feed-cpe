@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:modsecurity:modsecurity:2.7.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-10T15:56:32.280Z",
+  "title": [
+    {
+      "text": "ModSecurity 2.7.0",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:modsecurity:modsecurity:2.7.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-10T10:56:32.280-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:trustwave:modsecurity:2.7.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:openmage:magento:20.0.8::~~lts~~~",
+  "title": [
+    {
+      "text": "OpenMage Magento 20.0.8 LTS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OpenMage/magento-lts/security/advisories/GHSA-fvrf-9428-527m"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OpenMage/magento-lts/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openmage:magento:20.0.8:*:*:*:lts:*:*:*"
+  }
+}

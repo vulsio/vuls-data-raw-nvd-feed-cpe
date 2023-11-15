@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:solarwinds:managed_service_provider_patch_management_engine:1.1.15",
+  "title": [
+    {
+      "text": "SolarWinds Managed Service Provider Patch Management Engine 1.1.15",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "http://packetstormsecurity.com/files/157591/SolarWinds-MSP-PME-Cache-Service-Insecure-File-Permissions-Code-Execution.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://success.solarwindsmsp.com/kb/solarwinds_rmm/RMM-Patch-Management-Engine-Installation-and-Log-File-Locations"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:solarwinds:managed_service_provider_patch_management_engine:1.1.15:*:*:*:*:*:*:*"
+  }
+}

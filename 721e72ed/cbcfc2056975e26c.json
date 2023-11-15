@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:hide:hide.me:2.2::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T18:38:12.770Z",
+  "title": [
+    {
+      "text": "eVenture Limited hide.me 2.2 Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://apps.apple.com/app/hide-me-vpn/id953040671?ls=1"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:hide:hide.me:2.2:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T14:38:12.770-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:hide:hide.me:2.2:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

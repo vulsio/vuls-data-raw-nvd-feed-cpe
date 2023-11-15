@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:novell:leap:42.0",
+  "deprecated": true,
+  "deprecation_date": "2018-01-25T12:51:09.493Z",
+  "title": [
+    {
+      "text": "Novell Leap 42.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://en.opensuse.org/openSUSE:Leap"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:novell:leap:42.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-01-25T07:51:09.493-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:opensuse:leap:42.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

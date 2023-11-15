@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/o:billion:sg600_r2_firmware:3.02:rc6",
+  "title": [
+    {
+      "text": "Billion SG600 R2 Firmware 3.02 Release Candidate 6",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/InnotecSystem/Device-Reversing/wiki/XSS-Injection-via-DHCP-requests"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.billion.com/Energy%20Management/Smart%20Energy%20Gateway%20Series/Billion%20SG600%20R2"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:billion:sg600_r2_firmware:3.02:rc6:*:*:*:*:*:*"
+  }
+}

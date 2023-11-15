@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:rsvpmaker_project:rsvpmaker:9.8.6::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-09-30T03:05:03.850Z",
+  "title": [
+    {
+      "text": "RSVPMaker Project RSVPMaker 9.8.6 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/rsvpmaker/wordpress-rsvpmaker-plugin-10-5-3-sql-injection-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/rsvpmaker/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rsvpmaker_project:rsvpmaker:9.8.6:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-09-29T23:05:03.850-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:carrcommunications:rsvpmaker:9.8.6:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

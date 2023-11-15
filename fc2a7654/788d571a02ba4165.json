@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:tresys:refpolicy:2.20141203",
+  "deprecated": true,
+  "deprecation_date": "2021-04-21T16:55:43.710Z",
+  "title": [
+    {
+      "text": "Tresys refpolicy 2.20141203",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/TresysTechnology/refpolicy"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tresys:refpolicy:2.20141203:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-04-21T12:55:43.710-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:selinuxproject:refpolicy:2.20141203:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:flatpak:flatpak:1.7.2",
+  "title": [
+    {
+      "text": "Flatpak Flatpak 1.7.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://flatpak.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/flatpak/flatpak/security/advisories/GHSA-4ppf-fxf6-vxg2"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/flatpak/flatpak/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:flatpak:flatpak:1.7.2:*:*:*:*:*:*:*"
+  }
+}

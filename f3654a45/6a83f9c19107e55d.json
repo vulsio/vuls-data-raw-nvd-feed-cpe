@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jose_project:jose:4.2.1::~~~node.js~~",
+  "title": [
+    {
+      "text": "Jose Project Jose 4.2.1 for Node.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/panva/jose/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/panva/jose/security/advisories/GHSA-jv3g-j58f-9mq9"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jose_project:jose:4.2.1:*:*:*:*:node.js:*:*"
+  }
+}

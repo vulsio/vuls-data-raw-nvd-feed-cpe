@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:opensis:opensis:7.4",
+  "deprecated": true,
+  "deprecation_date": "2020-09-03T12:05:56.993Z",
+  "title": [
+    {
+      "text": "openSIS 7.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://packetstormsecurity.com/files/158256/openSIS-7.4-Local-File-Inclusion.html"
+    },
+    {
+      "text": "Version",
+      "href": "http://sourceforge.net/projects/opensis-ce/files/?source=navbar"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.opensis.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opensis:opensis:7.4:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-03T08:05:56.993-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:os4ed:opensis:7.4:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

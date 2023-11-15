@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:crossbeam_project:crossbeam:0.8.5::~~~rust~~",
+  "title": [
+    {
+      "text": "Crossbeam Project Crossbeam 0.8.5 for Rust",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/crossbeam-rs/crossbeam/security/advisories/GHSA-qc84-gqf4-9926"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/crossbeam-rs/crossbeam/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crossbeam_project:crossbeam:0.8.5:*:*:*:*:rust:*:*"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:apple:apple_tv:9.1.1",
+  "deprecated": true,
+  "deprecation_date": "2019-03-08T16:06:32.373Z",
+  "title": [
+    {
+      "text": "Apple TV 9.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.apple.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.apple.com/tvos/"
+    },
+    {
+      "text": "Version",
+      "href": "https://support.apple.com/en-us/HT205444"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apple:apple_tv:9.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-03-08T11:06:32.373-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:apple:tvos:9.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:redhat:certificate_server:7.3",
+  "deprecated": true,
+  "deprecation_date": "2010-12-29T17:11:02.227Z",
+  "title": [
+    {
+      "text": "Red Hat Certificate System 7.3",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:redhat:certificate_server:7.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-12-29T12:11:02.227-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:certificate_system:7.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

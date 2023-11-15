@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/o:juniper:junos:18:1:r2-s1",
+  "deprecated": true,
+  "deprecation_date": "2021-10-25T16:21:46.187Z",
+  "title": [
+    {
+      "text": "Juniper Junos 18 1 R2-S1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://kb.juniper.net/InfoCenter/index?page=content&id=TSB17514&cat=SRX_SERIES&actp=LIST"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.juniper.net/documentation/en_US/junos/information-products/topic-collections/release-notes/18.1/junos-release-notes-18.1r2.pdf"
+    },
+    {
+      "text": "Project",
+      "href": "https://kb.juniper.net/InfoCenter/index?page=content&id=KB21476&actp=METADATA"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos:18:1:r2-s1:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-10-25T12:21:46.187-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junos:18.1:r2-s1:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

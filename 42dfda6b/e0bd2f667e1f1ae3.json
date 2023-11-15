@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:imagesourcecontrol:image_source_control:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Image Source Control Image Source Control for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://imagesourcecontrol.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/3550ba54-7786-4ad9-aeb1-1c0750f189d0"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/image-source-control-isc/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:imagesourcecontrol:image_source_control:-:*:*:*:*:wordpress:*:*"
+  }
+}

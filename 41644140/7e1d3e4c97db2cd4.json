@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/h:st:stm32l432:-",
+  "title": [
+    {
+      "text": "STMicroelectronics STM32L432",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.st.com/content/st_com/en.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4x2.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://eprint.iacr.org/2021/640.pdf"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l4-series.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202246"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:st:stm32l432:-:*:*:*:*:*:*:*"
+  }
+}

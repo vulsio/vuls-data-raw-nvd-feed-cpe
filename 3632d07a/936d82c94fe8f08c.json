@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:nxp:mifare_ultralight_c:-",
+  "title": [
+    {
+      "text": "NXP MIFARE Ultralight C",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nxp.com/products/rfid-nfc/mifare-hf/mifare-ultralight/mifare-ultralight-c:MF0ICU2"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.quarkslab.com/rfid-monotonic-counter-anti-tearing-defeated.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nxp:mifare_ultralight_c:-:*:*:*:*:*:*:*"
+  }
+}

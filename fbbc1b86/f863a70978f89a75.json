@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ui:mfi_controller:-",
+  "title": [
+    {
+      "text": "Ubiquiti mFi Controller",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sethsec.blogspot.com/2014/07/cve-2014-2225.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.ui.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://seclists.org/fulldisclosure/2014/Jul/126"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ui:mfi_controller:-:*:*:*:*:*:*:*"
+  }
+}

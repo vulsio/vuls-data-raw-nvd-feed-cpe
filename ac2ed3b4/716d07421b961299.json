@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:f-secure:xfence:-",
+  "title": [
+    {
+      "text": "F-Secure xFence",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://f-secure.com/en/welcome"
+    },
+    {
+      "text": "Product",
+      "href": "https://campaigns.f-secure.com/xfence/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:f-secure:xfence:-:*:*:*:*:*:*:*"
+  }
+}

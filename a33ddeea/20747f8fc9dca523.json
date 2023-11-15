@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:logitec:lan-w300n%2frs_firmware:-",
+  "deprecated": true,
+  "deprecation_date": "2022-02-10T19:47:21.303Z",
+  "title": [
+    {
+      "text": "Logitec LAN-W300N/RS Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.logitec.co.jp/products/lan/lanw300nrsx/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:logitec:lan-w300n\\/rs_firmware:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-02-10T14:47:21.303-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:logitech:lan-w300n\\/rs_firmware:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

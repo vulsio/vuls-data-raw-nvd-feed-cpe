@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:zenmate:zenmate:1.5.4::~~~mac_os_x~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-11T19:23:10.290Z",
+  "title": [
+    {
+      "text": "ZenMate VPN 1.5.4 for Mac OSX",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://zenmate.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/VerSprite/research/blob/master/advisories/VS-2018-016.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zenmate:zenmate:1.5.4:*:*:*:*:mac_os_x:*:*",
+    "deprecation": {
+      "date": "2020-05-11T15:23:10.290-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zenmate:zenmate:1.5.4:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

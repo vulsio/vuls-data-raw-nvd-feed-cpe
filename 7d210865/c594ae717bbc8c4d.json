@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:starkbank:ecdsa-node:1.1.2",
+  "title": [
+    {
+      "text": "Starkbank Elliptic Curve Digital Signature Algorithm Node.js 1.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://starkbank.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/starkbank/ecdsa-node/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:starkbank:ecdsa-node:1.1.2:*:*:*:*:*:*:*"
+  }
+}

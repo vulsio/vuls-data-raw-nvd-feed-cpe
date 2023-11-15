@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:ovirt:ovirt:4.3.0.1",
+  "deprecated": true,
+  "deprecation_date": "2019-11-06T20:55:14.127Z",
+  "title": [
+    {
+      "text": "oVirt 4.3.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/oVirt/ovirt-engine"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://ovirt.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ovirt:ovirt:4.3.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-11-06T15:55:14.127-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:redhat:ovirt-engine:4.3.0.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

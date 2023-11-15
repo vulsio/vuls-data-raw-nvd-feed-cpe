@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:juniper:junos:14.1x51",
+  "deprecated": true,
+  "deprecation_date": "2019-04-15T13:19:13.740Z",
+  "title": [
+    {
+      "text": "Juniper Junos 14.1X51",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product Information",
+      "href": "http://www.juniper.net/techpubs/en_US/junos14.1/information-products/topic-collections/release-notes/14.1/junos-release-notes-14.1r1.pdf"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:juniper:junos:14.1x51:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-15T09:19:13.740-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:juniper:junos:14.1x51:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

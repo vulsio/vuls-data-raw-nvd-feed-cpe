@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:golang:go:1.19.7",
+  "title": [
+    {
+      "text": "Golang Go 1.19.7",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2023-1621"
+    },
+    {
+      "text": "Version",
+      "href": "https://groups.google.com/g/golang-announce/c/3-TpUx48iQY"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:golang:go:1.19.7:*:*:*:*:*:*:*"
+  }
+}

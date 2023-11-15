@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ignitum:sera:1.2::~~~mac_os_x~~",
+  "title": [
+    {
+      "text": "Ignitum Sera 1.2 for Mac OS X",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/43221"
+    },
+    {
+      "text": "Product",
+      "href": "https://itunes.apple.com/us/app/sera-auto-lock-and-auto-unlock-your-mac-using-your-iphone/id955310850?mt=8"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ignitum:sera:1.2:*:*:*:*:mac_os_x:*:*"
+  }
+}

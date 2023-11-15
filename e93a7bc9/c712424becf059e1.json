@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:nvidia:gpu_driver:-::~~~android~~",
+  "title": [
+    {
+      "text": "NVIDIA GPU Driver for Android",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.nvidia.com/en-us/"
+    },
+    {
+      "text": "Version",
+      "href": "http://www.nvidia.com/Download/index.aspx"
+    },
+    {
+      "text": "Version",
+      "href": "https://developer.nvidia.com/gameworksdownload"
+    },
+    {
+      "text": "Version",
+      "href": "https://shield.nvidia.com/support/nvidia-android-tv/release-notes"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nvidia:gpu_driver:-:*:*:*:*:android:*:*"
+  }
+}

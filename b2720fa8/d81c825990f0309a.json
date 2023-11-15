@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:privateoctopus:picoquic:2020-07-03",
+  "title": [
+    {
+      "text": "Private Octopus Picoquic 2020-07-03",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/private-octopus/picoquic/issues/969"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/24xxx/CVE-2020-24944.json"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.privateoctopus.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/private-octopus/picoquic"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:privateoctopus:picoquic:2020-07-03:*:*:*:*:*:*:*"
+  }
+}

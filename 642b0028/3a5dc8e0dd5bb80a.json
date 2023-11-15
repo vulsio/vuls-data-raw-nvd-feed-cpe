@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:microsoft:excel:2019::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:13:54.167Z",
+  "title": [
+    {
+      "text": "Microsoft Excel 2019 for Mac OS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://support.office.com/en-us/article/what-s-new-in-excel-2019-for-mac-5ce129d3-9e5c-417f-9545-fb6f7b72674d"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:13:54.167-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

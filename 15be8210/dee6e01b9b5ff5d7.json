@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openstack:neutron:13.0.0:b1",
+  "title": [
+    {
+      "text": "OpenStack Neutron 13.0.0 B1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://docs.openstack.org/neutron/latest/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/openstack/neutron/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bugs.launchpad.net/neutron/+bug/1734320"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openstack:neutron:13.0.0:b1:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:sun:solaris:5.5.1",
+  "deprecated": true,
+  "deprecation_date": "2010-03-11T17:19:19.047Z",
+  "title": [
+    {
+      "text": "Sun Solaris 5.5.1",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:sun:solaris:5.5.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2010-03-11T12:19:19.047-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:sun:sunos:5.5.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

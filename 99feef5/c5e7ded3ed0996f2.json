@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:pwauth_security_realm:0.3::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins PWauth Security Realm 0.3 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-01-24/#SECURITY-2985"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/pwauth-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:pwauth_security_realm:0.3:*:*:*:*:jenkins:*:*"
+  }
+}

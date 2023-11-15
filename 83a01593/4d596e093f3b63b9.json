@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:exagrid:ex13000e_firmware:4.8",
+  "title": [
+    {
+      "text": "Exagrid EX13000E Firmware 4.8",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.exagrid.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://community.rapid7.com/community/infosec/blog/2016/04/07/r7-2016-04-exagrid-backdoor-ssh-keys-and-hardcoded-credentials"
+    },
+    {
+      "text": "Product",
+      "href": "http://www.exagrid.com/exagrid-products/product-line/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:exagrid:ex13000e_firmware:4.8:*:*:*:*:*:*:*"
+  }
+}

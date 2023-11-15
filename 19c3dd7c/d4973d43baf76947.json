@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:genesis_vision:gvtoken:-",
+  "title": [
+    {
+      "text": "Genesis Vision Gvtoken -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://etherscan.io/address/0x103c3a209da59d3e7c4a89307e66521e081cfdf0#code"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dwfault/AirTokens/blob/master/SPXToken/mint%20interger%20overflow.md"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:genesis_vision:gvtoken:-:*:*:*:*:*:*:*"
+  }
+}

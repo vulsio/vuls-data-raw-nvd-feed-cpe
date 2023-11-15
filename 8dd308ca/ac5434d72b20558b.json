@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:arubanetworks:clearpass_policy_manager:6.8.9",
+  "deprecated": true,
+  "deprecation_date": "2022-05-26T16:05:39.290Z",
+  "title": [
+    {
+      "text": "Aruba Networks ClearPass Policy Manager 6.8.9",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2022-007.txt"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.arubanetworks.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-012.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-26T12:05:39.290-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:arubanetworks:clearpass_policy_manager:6.8.9:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

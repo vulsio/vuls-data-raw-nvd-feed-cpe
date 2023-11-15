@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:wolfcms:wolfcms:0.8.3.1",
+  "deprecated": true,
+  "deprecation_date": "2020-07-29T16:09:01.257Z",
+  "title": [
+    {
+      "text": "Wolf CMS 0.8.3.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.wolfcms.org/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/wolfcms/wolfcms/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wolfcms:wolfcms:0.8.3.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-07-29T12:09:01.257-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:wolfcms:wolf_cms:0.8.3.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:mybb:ban_list:1.0::~~~mybb~~",
+  "title": [
+    {
+      "text": "MyBB Ban List 1.0 for MyBB",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/46347"
+    },
+    {
+      "text": "Project",
+      "href": "https://community.mybb.com/mods.php?action=view&pid=1206"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mybb:ban_list:1.0:*:*:*:*:mybb:*:*"
+  }
+}

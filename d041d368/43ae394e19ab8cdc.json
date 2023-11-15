@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:cloudfoundry:credhub:2.5.10",
+  "title": [
+    {
+      "text": "Cloud Foundry Credhub 2.5.10",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://bosh.io/releases/github.com/pivotal-cf/credhub-release?all=1"
+    },
+    {
+      "text": "Product",
+      "href": "https://docs.cloudfoundry.org/credhub/"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.cloudfoundry.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://bosh.io/releases/github.com/pivotal-cf/credhub-release?version=2.5.10"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cloudfoundry:credhub:2.5.10:*:*:*:*:*:*:*"
+  }
+}

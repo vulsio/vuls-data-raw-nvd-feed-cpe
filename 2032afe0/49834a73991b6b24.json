@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/h:hetronic:bms-hl:-",
+  "title": [
+    {
+      "text": "Hetronic BMS-HL",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.hetronic.com/receivers/proportional/rx-bms-hl/"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.hetronic.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-19-003-03"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:hetronic:bms-hl:-:*:*:*:*:*:*:*"
+  }
+}

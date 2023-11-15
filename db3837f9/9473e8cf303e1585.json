@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:rekor:0.6.0",
+  "title": [
+    {
+      "text": "The Linux Foundation Rekor 0.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sigstore/rekor/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sigstore/rekor/security/advisories/GHSA-2h5h-59f5-c5x9"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.sigstore.dev/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:rekor:0.6.0:*:*:*:*:*:*:*"
+  }
+}

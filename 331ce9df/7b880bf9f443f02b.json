@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:microsoft:internet_information_server:8.0",
+  "deprecated": true,
+  "deprecation_date": "2021-02-05T15:37:24.710Z",
+  "title": [
+    {
+      "text": "Microsoft Internet Information Server 8.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://support.microsoft.com/en-us/help/224609/how-to-obtain-versions-of-internet-information-server-iis"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:internet_information_server:8.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2021-02-05T10:37:24.710-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:microsoft:internet_information_services:8.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

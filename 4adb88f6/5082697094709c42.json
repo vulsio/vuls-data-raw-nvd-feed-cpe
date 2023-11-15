@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:pluggable_authentication_module:1.5::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Pluggable Authentication Module (PAM Authentication) 1.5 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://plugins.jenkins.io/pam-auth"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/jenkinsci/pam-auth-plugin/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:pluggable_authentication_module:1.5:*:*:*:*:jenkins:*:*"
+  }
+}

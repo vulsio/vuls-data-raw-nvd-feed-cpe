@@ -1,0 +1,39 @@
+{
+  "name": "cpe:/a:nasm:netwide_assembler:2.09.0:.02",
+  "deprecated": true,
+  "deprecation_date": "2018-10-31T11:45:26.207Z",
+  "title": [
+    {
+      "text": "NASM Netwide Assembler 2.09.0 .02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.nasm.us/doc/nasmdoc1.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.nasm.us/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/doc/nasmdocc.html"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://www.nasm.us/pub/nasm/releasebuilds/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nasm:netwide_assembler:2.09.0:.02:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-10-31T07:45:26.207-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:nasm:netwide_assembler:2.09:.02:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

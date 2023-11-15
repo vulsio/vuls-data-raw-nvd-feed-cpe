@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wireshark:wireshark:3.2.11:-",
+  "title": [
+    {
+      "text": "Wireshark 3.2.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.wireshark.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22207.json"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/wireshark/wireshark/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wireshark:wireshark:3.2.11:-:*:*:*:*:*:*"
+  }
+}

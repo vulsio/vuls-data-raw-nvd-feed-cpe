@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:fugu:maintenance_switch:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Fugu Maintenance Switch for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/maintenance-switch/wordpress-maintenance-switch-plugin-1-5-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Project",
+      "href": "https://fugu.fr/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:fugu:maintenance_switch:-:*:*:*:*:wordpress:*:*"
+  }
+}

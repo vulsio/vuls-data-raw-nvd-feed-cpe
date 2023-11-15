@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/h:intel:xeon:x5670",
+  "deprecated": true,
+  "deprecation_date": "2020-04-27T20:29:07.423Z",
+  "title": [
+    {
+      "text": "Intel Xeon X5670",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://ark.intel.com/#@Processors"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:intel:xeon:x5670:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-04-27T16:29:07.423-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:h:intel:xeon:x5670:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_ind:-",
+  "title": [
+    {
+      "text": "Nexans GigaSwitch V5 TP SFP-2VI 54VDC IND",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.nexans.de/de/products/Data-Network-Solutions/Industrial-and-office-switches.html?currentPage=1"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/vulnerability-lab/advisory/hardcoded-backdoor-user-outdated-software-components-nexans-ftto-gigaswitch/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:nexans:gigaswitch_v5_tp_sfp-2vi_54vdc_ind:-:*:*:*:*:*:*:*"
+  }
+}

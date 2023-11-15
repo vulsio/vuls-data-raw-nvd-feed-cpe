@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:oracle:database_server:21.11::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Oracle Database Server 21.11 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://docs.oracle.com/en/database/oracle/oracle-database/18/jjdev/index.html"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.oracle.com/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/database/12c-database/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.oracle.com/servers/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:database_server:21.11:*:*:*:enterprise:*:*:*"
+  }
+}

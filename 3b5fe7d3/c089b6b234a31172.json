@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:humhub:humhub:1.11.0",
+  "deprecated": true,
+  "deprecation_date": "2022-06-27T15:02:16.857Z",
+  "title": [
+    {
+      "text": "HumHub 1.11.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/humhub/humhub/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.humhub.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:humhub:humhub:1.11.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-06-27T11:02:16.857-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:humhub:humhub:1.11.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

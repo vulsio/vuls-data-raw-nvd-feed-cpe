@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:apache:netbeans:9.0:incubating",
+  "deprecated": true,
+  "deprecation_date": "2023-05-23T13:31:35.160Z",
+  "title": [
+    {
+      "text": "Apache Software Foundation NetBeans 9.0 incubating",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/apache/netbeans/releases"
+    },
+    {
+      "text": "Product",
+      "href": "https://netbeans.apache.org/download/nb90/nb90.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:apache:netbeans:9.0:incubating:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-05-23T09:31:35.160-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:apache:netbeans:9.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

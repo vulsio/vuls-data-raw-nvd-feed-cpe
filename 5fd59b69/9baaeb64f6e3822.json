@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:tvt:nvms-1000_firmware:-",
+  "title": [
+    {
+      "text": "TVT NVMS-1000 Firmware",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.exploit-db.com/exploits/47774"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201912-1207"
+    },
+    {
+      "text": "Product",
+      "href": "http://en.tvt.net.cn/products/188.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tvt:nvms-1000_firmware:-:*:*:*:*:*:*:*"
+  }
+}

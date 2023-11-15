@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:urllib3:urllib3:0.3",
+  "deprecated": true,
+  "deprecation_date": "2019-04-25T15:59:54.740Z",
+  "title": [
+    {
+      "text": "urllib3 0.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://urllib3.readthedocs.io/en/latest/#"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/urllib3/urllib3/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:urllib3:urllib3:0.3:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-04-25T11:59:54.740-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:python:urllib3:0.3:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

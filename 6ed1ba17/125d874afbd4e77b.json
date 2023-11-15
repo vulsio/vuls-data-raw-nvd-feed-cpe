@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:zoneminder:zoneminder:1.29.0",
+  "deprecated": true,
+  "deprecation_date": "2020-09-17T19:08:47.373Z",
+  "title": [
+    {
+      "text": "ZoneMinder 1.29.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.zoneminder.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-09-17T15:08:47.373-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:zoneminder:zoneminder:1.29.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

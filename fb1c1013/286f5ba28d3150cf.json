@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:adplug:adplug:2.2",
+  "deprecated": true,
+  "deprecation_date": "2019-08-13T12:19:58.380Z",
+  "title": [
+    {
+      "text": "AdPlug 2.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/adplug/adplug/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:adplug:adplug:2.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-08-13T08:19:58.380-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:adplug_project:adplug:2.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

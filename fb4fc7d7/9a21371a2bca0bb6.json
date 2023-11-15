@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:ibm:qradar_security_information_and_event_manager:7.4.0",
+  "deprecated": true,
+  "deprecation_date": "2020-10-19T17:23:25.840Z",
+  "title": [
+    {
+      "text": "IBM QRadar Security Information and Event Manager (SIEM) 7.4.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.ibm.com/support/fixcentral/swg/selectFixes?product=ibm%2FOther+software%2FIBM+Security+QRadar+SIEM&fixids=7.4.0-QRADAR-QRFULL-20200304205308&source=dbluesearch&function=fixId&parent=IBM%20Security"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-10-19T13:23:25.840-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.4.0:-:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

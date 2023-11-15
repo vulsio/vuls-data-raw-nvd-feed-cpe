@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:gog:galaxy:1.2.51::~~~mac_os~~",
+  "deprecated": true,
+  "deprecation_date": "2020-05-04T14:13:36.290Z",
+  "title": [
+    {
+      "text": "GOG Galaxy 1.2.51 for macOS",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.gog.com/forum/general/gog_galaxy_official_discussion_thread"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gog.com/galaxy"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gog:galaxy:1.2.51:*:*:*:*:mac_os:*:*",
+    "deprecation": {
+      "date": "2020-05-04T10:13:36.290-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:gog:galaxy:1.2.51:*:*:*:*:macos:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

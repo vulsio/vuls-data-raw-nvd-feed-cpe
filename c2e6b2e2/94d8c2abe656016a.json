@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:bmc:remedy_it_service_management_suite:20.02",
+  "title": [
+    {
+      "text": "BMC Remedy IT Service Management Suite 20.02",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.bmc.com/it-solutions/remedy-itsm.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/vulnerability-lab/advisory/html-injection-in-bmc-remedy-itsm-suite/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:bmc:remedy_it_service_management_suite:20.02:*:*:*:*:*:*:*"
+  }
+}

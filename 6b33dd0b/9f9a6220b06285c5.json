@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:jeff_sterup:plugin-organizer:2.5.9",
+  "deprecated": true,
+  "deprecation_date": "2017-11-22T15:42:01.030Z",
+  "title": [
+    {
+      "text": "Jeff Sterup Organizer plugin (plugin-organizer) 2.5.9 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jeff_sterup:plugin-organizer:2.5.9:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2017-11-22T10:42:01.030-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:plugin-organizer_project:plugin-organizer:2.5.9:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

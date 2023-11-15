@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:ibm:hardware_management_console:7.3.0:sp5",
+  "title": [
+    {
+      "text": "IBM Hardware Management Console (HMC) 7.3.0 Service Pack 5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.ibm.com/support/knowledgecenter/en/8284-22A/p8hat/p8hat_partitioningwithanhmc.htm"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1021387"
+    },
+    {
+      "text": "Vendor",
+      "href": "http://www.ibm.com/us-en/?lnk=m"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ibm:hardware_management_console:7.3.0:sp5:*:*:*:*:*:*"
+  }
+}

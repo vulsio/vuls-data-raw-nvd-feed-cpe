@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:mainwp:mainwp_child:3.2.4::~~~wordpress~~",
+  "title": [
+    {
+      "text": "MainWP Child 3.2.4 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://mainwp.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/b09fe120-ab9b-44f2-b50d-3b4b299d6d15"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/mainwp-child/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:mainwp:mainwp_child:3.2.4:*:*:*:*:wordpress:*:*"
+  }
+}

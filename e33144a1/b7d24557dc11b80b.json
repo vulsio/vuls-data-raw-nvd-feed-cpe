@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:tiny.cloud:tinymce:4.8.2",
+  "deprecated": true,
+  "deprecation_date": "2020-08-11T15:41:33.307Z",
+  "title": [
+    {
+      "text": "Tiny.cloud TinyMCE 4.8.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tiny.cloud/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/tinymce/tinymce"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tiny.cloud:tinymce:4.8.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2020-08-11T11:41:33.307-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:tiny:tinymce:4.8.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

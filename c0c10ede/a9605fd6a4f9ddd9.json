@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pluginops:mailchimp_subscribe_form:4.0.8.8::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Plugin Ops MailChimp Subscribe Form 4.0.8.8 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/mailchimp-subscribe-sm/wordpress-pluginops-optin-builder-plugin-4-0-9-1-cross-site-scripting-xss?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/mailchimp-subscribe-sm/#developers"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.trac.wordpress.org/log/mailchimp-subscribe-sm?format=changelog&rev=2920272&limit=100&mode=stop_on_copy"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pluginops:mailchimp_subscribe_form:4.0.8.8:*:*:*:*:wordpress:*:*"
+  }
+}

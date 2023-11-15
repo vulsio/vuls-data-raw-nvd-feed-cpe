@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:pheonixcontact-software:multiprog:5.0",
+  "deprecated": true,
+  "deprecation_date": "2018-11-28T17:31:57.503Z",
+  "title": [
+    {
+      "text": "Pheonix Contact Software  MULTIPROG 5.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor website",
+      "href": "https://www.phoenixcontact-software.com/en/iec-61131-control/programming-systems/multiprog-5"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pheonixcontact-software:multiprog:5.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-11-28T12:31:57.503-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phoenixcontact-software:multiprog:5.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

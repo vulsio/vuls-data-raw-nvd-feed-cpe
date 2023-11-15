@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:tencent:gameloop:-",
+  "title": [
+    {
+      "text": "Tencent GameLoop",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.tencent.com/en-us/about.html"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.gameloop.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/mmiszczyk/cve-2021-33879"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:tencent:gameloop:-:*:*:*:*:*:*:*"
+  }
+}

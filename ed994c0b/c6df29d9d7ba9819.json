@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:pytorch:torchserve:0.5.1",
+  "title": [
+    {
+      "text": "PyTorch TorchServe 0.5.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/pytorch/serve/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/pytorch/serve/security/advisories/GHSA-8fxr-qfr9-p34w"
+    },
+    {
+      "text": "Product",
+      "href": "https://pytorch.org/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:pytorch:torchserve:0.5.1:*:*:*:*:*:*:*"
+  }
+}

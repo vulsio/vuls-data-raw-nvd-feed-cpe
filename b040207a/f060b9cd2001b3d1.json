@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/a:real:realplayer:-",
+  "deprecated": true,
+  "deprecation_date": "2009-11-25T18:50:26.263Z",
+  "title": [
+    {
+      "text": "RealNetworks RealPlayer",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:real:realplayer:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2009-11-25T13:50:26.263-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:realnetworks:realplayer:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

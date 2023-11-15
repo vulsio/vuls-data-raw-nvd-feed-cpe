@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:nextcloud:mail:1.13.7:rc1",
+  "title": [
+    {
+      "text": "Nextcloud Mail 1.13.7 Release Candidate 1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-g86r-x755-93f4"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/nextcloud/mail/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:nextcloud:mail:1.13.7:rc1:*:*:*:*:*:*"
+  }
+}

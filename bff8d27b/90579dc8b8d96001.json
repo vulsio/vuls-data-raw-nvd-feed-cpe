@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:safervpn:safervpn:-::~~~windows~~",
+  "title": [
+    {
+      "text": "SaferVPN for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.safervpn.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://thebinary0x1.medium.com/cve-2020-26050-safervpn-for-windows-local-privilege-escalation-da069bb1373c"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:safervpn:safervpn:-:*:*:*:*:windows:*:*"
+  }
+}

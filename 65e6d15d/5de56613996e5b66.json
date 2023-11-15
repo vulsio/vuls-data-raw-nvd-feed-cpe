@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:greenend:putty:0.63",
+  "deprecated": true,
+  "deprecation_date": "2015-09-02T17:14:23.767Z",
+  "title": [
+    {
+      "text": "Putty 0.63",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "http://www.chiark.greenend.org.uk/~sgtatham/putty/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:greenend:putty:0.63:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2015-09-02T13:14:23.767-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:simon_tatham:putty:0.63:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

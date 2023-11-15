@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:ea:origin_client:10.5.86::~~~windows~~",
+  "title": [
+    {
+      "text": "EA Origin Client 10.5.86 for Windows",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.ea.com/security/news/easec-2020-003-cross-site-scripting-vulnerability-in-origin-client"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.origin.com/usa/en-us/store/download"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ea:origin_client:10.5.86:*:*:*:*:windows:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:linuxfoundation:baremetal_operator:-",
+  "title": [
+    {
+      "text": "Linux Foundation Baremetal Operator -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://metal3.io/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/metal3-io/baremetal-operator/security/advisories/GHSA-9wh7-397j-722m"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/metal3-io/baremetal-operator/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:linuxfoundation:baremetal_operator:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/h:qualcomm:sdm6xx:-",
+  "title": [
+    {
+      "text": "Qualcomm SDM6xx",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.qualcomm.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.qualcomm.com/company/product-security/bulletins/february-2021-bulletin"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://geeksim.com/articulos/logs-activaciones/pack-gsm-shield-xiaomi-server-credits/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://security.samsungmobile.com/securityUpdate.smsb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:qualcomm:sdm6xx:-:*:*:*:*:*:*:*"
+  }
+}

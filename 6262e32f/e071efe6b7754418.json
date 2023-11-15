@@ -1,0 +1,31 @@
+{
+  "name": "cpe:/a:plexus-archiver_project:plexus-archiver:2.1.2",
+  "deprecated": true,
+  "deprecation_date": "2023-08-02T16:17:33.807Z",
+  "title": [
+    {
+      "text": "Plexus Archiver Project Plexus Archiver 2.1.2",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sonatype/plexus-archiver/blob/master/ReleaseNotes.md"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/sonatype/plexus-archiver"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:plexus-archiver_project:plexus-archiver:2.1.2:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-08-02T12:17:33.807-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:codehaus-plexus:plexus-archiver:2.1.2:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

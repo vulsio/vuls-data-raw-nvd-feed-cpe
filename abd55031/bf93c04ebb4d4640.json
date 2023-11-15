@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:webtoffee:stripe_payment_plugin_for_woocommerce:1.0.9::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WebToffee Stripe Payment Plugin for WooCommerce 1.0.9 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/payment-gateway-stripe-and-woocommerce-integration/stripe-payment-plugin-for-woocommerce-379-missing-authorization-to-arbitrary-order-status-modification"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/payment-gateway-stripe-and-woocommerce-integration/#developers"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.webtoffee.com/product/woocommerce-stripe-payment-gateway/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:webtoffee:stripe_payment_plugin_for_woocommerce:1.0.9:*:*:*:*:wordpress:*:*"
+  }
+}

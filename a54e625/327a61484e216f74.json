@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:krakend:krakend:2.0.2::~~community~~~",
+  "title": [
+    {
+      "text": "KrakenD 2.0.2 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.krakend.io/docs/overview/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.krakend.io/blog/cve-2022-1561-crafted-backend-urls/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:krakend:krakend:2.0.2:*:*:*:community:*:*:*"
+  }
+}

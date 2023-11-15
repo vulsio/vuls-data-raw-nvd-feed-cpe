@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:tp-link:ue330_firmware:-",
+  "title": [
+    {
+      "text": "TP-Link UE330 FIRMWARE -",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.tp-link.com/us/home-networking/usb-adapter/ue330/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.nassiben.com/glowworm-attack"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38543.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:tp-link:ue330_firmware:-:*:*:*:*:*:*:*"
+  }
+}

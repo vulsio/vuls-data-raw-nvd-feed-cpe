@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vmware:vcenter_server:6.7:update_3o",
+  "title": [
+    {
+      "text": "VMware vCenter Server 6.7 Update 3o",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://customerconnect.vmware.com/downloads/get-download?downloadGroup=VC650"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vCenter/vmware-vcenter-server-datasheet.pdf"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3n-release-notes.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vmware:vcenter_server:6.7:update_3o:*:*:*:*:*:*"
+  }
+}

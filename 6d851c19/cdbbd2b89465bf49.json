@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/o:dell:sonicwall_netextender_firmware:7.5.1.1",
+  "deprecated": true,
+  "deprecation_date": "2018-03-12T13:05:52.330Z",
+  "title": [
+    {
+      "text": "Dell SonicWall NetExtender Firmware 7.5.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor Website",
+      "href": "https://support.software.dell.com/sonicwall-netextender/windows"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:dell:sonicwall_netextender_firmware:7.5.1.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2018-03-12T09:05:52.330-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:sonicwall:netextender_firmware:7.5.1.1:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

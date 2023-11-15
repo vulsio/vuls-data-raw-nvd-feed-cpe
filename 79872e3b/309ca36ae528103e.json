@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:varnish-cache:varnish_cache:6.0.1",
+  "deprecated": true,
+  "deprecation_date": "2022-08-02T19:12:01.060Z",
+  "title": [
+    {
+      "text": "Varnish Cache 6.0.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.varnish-cache.org/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://varnish-cache.org/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/varnishcache/varnish-cache"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:varnish-cache:varnish_cache:6.0.1:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-08-02T15:12:01.060-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:varnish-software:varnish_cache:6.0.1:*:*:*:lts:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

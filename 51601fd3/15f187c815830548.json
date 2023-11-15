@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:jenkins:crap4j:0.7::~~~jenkins~~",
+  "title": [
+    {
+      "text": "Jenkins Crap4J 0.7 for Jenkins",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.jenkins.io/security/advisory/2023-03-21/#SECURITY-2925"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/jenkinsci/crap4j-plugin/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:jenkins:crap4j:0.7:*:*:*:*:jenkins:*:*"
+  }
+}

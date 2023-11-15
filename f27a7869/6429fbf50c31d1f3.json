@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:footer-text_project:footer-text:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Footer Text Project Footer Text for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://plugins.trac.wordpress.org/browser/footer-text/#tags"
+    },
+    {
+      "text": "Project",
+      "href": "https://wordpress.org/plugins/footer-text/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/footer-text/wordpress-footer-text-plugin-2-0-3-cross-site-request-forgery-csrf-leading-to-cross-site-scripting-xss-vulnerability"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:footer-text_project:footer-text:-:*:*:*:*:wordpress:*:*"
+  }
+}

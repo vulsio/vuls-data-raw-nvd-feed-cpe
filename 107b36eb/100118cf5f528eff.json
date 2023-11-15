@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:gitlab:gitlab:16.2.8::~~community~~~",
+  "title": [
+    {
+      "text": "GitLab 16.2.8 Community Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://about.gitlab.com/releases/2023/09/28/security-release-gitlab-16-4-1-released/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/advisories/GHSA-m4hq-98c3-4xmx"
+    },
+    {
+      "text": "Version",
+      "href": "https://about.gitlab.com/releases/categories/releases/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:gitlab:gitlab:16.2.8:*:*:*:community:*:*:*"
+  }
+}

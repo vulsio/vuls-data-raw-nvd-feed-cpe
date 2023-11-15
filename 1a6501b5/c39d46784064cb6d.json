@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:membersonic:membersonic:1.301::~~lite~wordpress~~",
+  "title": [
+    {
+      "text": "MemberSonic 1.301 Lite Edition for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.membersonic.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.pritect.net/blog/membersonic-lite-1-2-unauthenticated-login"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:membersonic:membersonic:1.301:*:*:*:lite:wordpress:*:*"
+  }
+}

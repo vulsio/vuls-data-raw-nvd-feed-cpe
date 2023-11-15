@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:amd:energy_driver_for_linux:-",
+  "title": [
+    {
+      "text": "AMD Energy Driver for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.cybersecurity-help.cz/vdb/SB2020111118"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://support.lenovo.com/lu/uk/product_security/LEN-50481"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://access.redhat.com/security/cve/cve-2020-12912"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:amd:energy_driver_for_linux:-:*:*:*:*:*:*:*"
+  }
+}

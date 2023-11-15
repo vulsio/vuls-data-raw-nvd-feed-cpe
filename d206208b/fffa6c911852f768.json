@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:vanderbilt:redcap:12.0.11",
+  "title": [
+    {
+      "text": "Vanderbilt REDCap 12.0.11",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.vanderbilt.edu/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://labs.nettitude.com/blog/cve-2022-24004-cve-2022-24127-vanderbilt-redcap-stored-cross-site-scripting/"
+    },
+    {
+      "text": "Product",
+      "href": "https://projectredcap.org/about/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:vanderbilt:redcap:12.0.11:*:*:*:*:*:*:*"
+  }
+}

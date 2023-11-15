@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/o:cisco:asa_5525-x_firmware:009.015%28001.016%29",
+  "title": [
+    {
+      "text": "Cisco ASA 5525-X Firmware 009.015(001.016)",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asafdt-webvpn-dos-KSqJAKPA"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy58278"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy89144"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:cisco:asa_5525-x_firmware:009.015\\(001.016\\):*:*:*:*:*:*:*"
+  }
+}

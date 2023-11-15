@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:rusqlite_project:rusqlite:0.6.0",
+  "deprecated": true,
+  "deprecation_date": "2022-01-03T14:59:35.100Z",
+  "title": [
+    {
+      "text": "Rusqlite Project Rusqlite 0.6.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Project",
+      "href": "https://crates.io/crates/rusqlite"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/rusqlite/rusqlite/releases"
+    },
+    {
+      "text": "Project",
+      "href": "https://github.com/rusqlite/rusqlite"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:rusqlite_project:rusqlite:0.6.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-01-03T09:59:35.100-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:rusqlite_project:rusqlite:0.6.0:*:*:*:*:rust:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

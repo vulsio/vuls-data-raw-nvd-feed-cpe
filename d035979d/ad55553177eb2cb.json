@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:grafana:grafana:10.0.0::~~enterprise~~~",
+  "title": [
+    {
+      "text": "Grafana 10.0.0 Enterprise Edition",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://grafana.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://grafana.com/security/security-advisories/cve-2023-4399/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/4xxx/CVE-2023-4399.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:grafana:grafana:10.0.0:*:*:*:enterprise:*:*:*"
+  }
+}

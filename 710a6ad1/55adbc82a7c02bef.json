@@ -1,0 +1,30 @@
+{
+  "name": "cpe:/a:logitech:streamlabs_desktop:1.9.0",
+  "title": [
+    {
+      "text": "Logitech Streamlabs Desktop 1.9.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://github.com/stream-labs/desktop"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/ycdxsb/Vuln/blob/main/Streamlabs-CreateProcessW-API-Misuse-Binary-Hijack/Streamlabs-CreateProcessW-API-Misuse-Binary-Hijack.md"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://www.logitech.com/en-us"
+    },
+    {
+      "text": "Product",
+      "href": "https://streamlabs.com/streamlabs-live-streaming-software"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:logitech:streamlabs_desktop:1.9.0:*:*:*:*:*:*:*"
+  }
+}

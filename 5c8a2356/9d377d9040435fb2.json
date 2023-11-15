@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:cisco:vedge_100m:-",
+  "title": [
+    {
+      "text": "Cisco vEdge 100m",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-vedge-routers-data-sheet-cte-en.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180718-sdwan-cmdinj"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:cisco:vedge_100m:-:*:*:*:*:*:*:*"
+  }
+}

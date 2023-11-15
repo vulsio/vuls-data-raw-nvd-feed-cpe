@@ -1,0 +1,21 @@
+{
+  "name": "cpe:/o:microsoft:windows:vista:sp1:x64",
+  "deprecated": true,
+  "deprecation_date": "2011-08-18T14:07:07.477Z",
+  "title": [
+    {
+      "text": "Microsoft Windows Vista Service Pack 1 x64",
+      "lang": "en-US"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:o:microsoft:windows:vista:sp1:x64:*:*:*:*:*",
+    "deprecation": {
+      "date": "2011-08-18T10:07:07.477-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

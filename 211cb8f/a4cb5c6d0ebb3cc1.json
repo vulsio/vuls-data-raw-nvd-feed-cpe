@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/h:arm:neoverse-e1:-",
+  "title": [
+    {
+      "text": "ARM Neoverse-E1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://www.arm.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:h:arm:neoverse-e1:-:*:*:*:*:*:*:*"
+  }
+}

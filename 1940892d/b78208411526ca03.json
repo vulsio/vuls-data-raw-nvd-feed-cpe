@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:google:exposure_notification_verification_server:0.18.1",
+  "title": [
+    {
+      "text": "Google Exposure Notification Verification Server 0.18.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/google/exposure-notifications-verification-server/security/advisories/GHSA-5v95-v8c8-3rh6"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/google/exposure-notifications-verification-server/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:google:exposure_notification_verification_server:0.18.1:*:*:*:*:*:*:*"
+  }
+}

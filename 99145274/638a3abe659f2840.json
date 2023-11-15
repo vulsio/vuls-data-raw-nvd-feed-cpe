@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:wp-plugins:secure_files:-::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wp-plugins Secure Files - for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://vuldb.com/?id.243804"
+    },
+    {
+      "text": "Product",
+      "href": "https://github.com/wp-plugins/secure-files/blob/master/secure-files.php"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wp-plugins:secure_files:-:*:*:*:*:wordpress:*:*"
+  }
+}

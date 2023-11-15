@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:peter%27s_login_redirect_project:peter%27s_login_redirect:2.5.0::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2021-12-06T19:42:51.600Z",
+  "title": [
+    {
+      "text": "Peter's Login Redirect Project Peter's Login Redirect 2.5.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/peters-login-redirect/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:peter\\'s_login_redirect_project:peter\\'s_login_redirect:2.5.0:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2021-12-06T14:42:51.600-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:profilepress:loginwp:2.5.0:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

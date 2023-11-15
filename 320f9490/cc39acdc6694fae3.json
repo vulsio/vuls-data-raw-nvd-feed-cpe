@@ -1,0 +1,35 @@
+{
+  "name": "cpe:/a:ge:communicator:4.0.517",
+  "deprecated": true,
+  "deprecation_date": "2019-05-16T16:16:31.823Z",
+  "title": [
+    {
+      "text": "GE Communicator 4.0.517",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-19-122-02"
+    },
+    {
+      "text": "Version",
+      "href": "https://www.gegridsolutions.com/app/ViewFiles.aspx?prod=EPM9700&type=7"
+    },
+    {
+      "text": "Advisory",
+      "href": "http://www.isssource.com/ge-releases-new-version-of-communicator/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:ge:communicator:4.0.517:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2019-05-16T12:16:31.823-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:ge:ge_communicator:4.0.517:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

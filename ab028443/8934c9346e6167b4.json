@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:stripe:smokescreen:-",
+  "title": [
+    {
+      "text": "Stripe Smokescreen",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/stripe/smokescreen/security/advisories/GHSA-qwrf-gfpj-qvj6"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://stripe.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://github.com/stripe/smokescreen/tags"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:stripe:smokescreen:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:wow-company:side_menu_lite:2.2::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Wow-Company Side Menu Lite 2.2 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://wpscan.com/vulnerability/27e70507-fd68-4915-88cf-0b96ed55208e"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://wow-company.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/side-menu-lite/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:wow-company:side_menu_lite:2.2:*:*:*:*:wordpress:*:*"
+  }
+}

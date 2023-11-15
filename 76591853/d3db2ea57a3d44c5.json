@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:dell:container_storage_modules:1.1.0",
+  "title": [
+    {
+      "text": "Dell Container Storage Modules (CSM) 1.1.0",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/dell/csm/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.dell.com/support/kbdoc/en-us/000201835/dsa-2022-202-dell-container-storage-modules-security-update-for-multiple-vulnerabilities"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:dell:container_storage_modules:1.1.0:*:*:*:*:*:*:*"
+  }
+}

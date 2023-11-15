@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:opentext:opentext_extended_ecm:22.4",
+  "title": [
+    {
+      "text": "OpenText Extended ECM 22.4",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://www.opentext.com/products/extended-ecm"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://sec-consult.com/vulnerability-lab/advisory/pre-authenticated-remote-code-execution-in-csexe-opentext-server-component/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:opentext:opentext_extended_ecm:22.4:*:*:*:*:*:*:*"
+  }
+}

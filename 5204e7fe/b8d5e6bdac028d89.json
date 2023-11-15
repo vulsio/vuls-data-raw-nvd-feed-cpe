@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:microsoft:defender_for_endpoint:-::~~~linux~~",
+  "title": [
+    {
+      "text": "Microsoft Defender For Endpoint for Linux",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/linux-updates?view=o365-worldwide"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-33637"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:linux:*:*"
+  }
+}

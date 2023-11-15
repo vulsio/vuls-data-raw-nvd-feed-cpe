@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netflix:dispatch:-",
+  "title": [
+    {
+      "text": "Netflix Dispatch",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/Netflix/security-bulletins/blob/master/advisories/nflx-2020-005.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/Netflix/dispatch/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netflix:dispatch:-:*:*:*:*:*:*:*"
+  }
+}

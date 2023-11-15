@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:oracle:mysql:7.4.29",
+  "title": [
+    {
+      "text": "Oracle MySQL 7.4.29",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://dev.mysql.com/doc/relnotes/mysql-cluster/7.4/en/news-7-4-29.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:mysql:7.4.29:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:golf_project:golf:0.2.0::~~~go~~",
+  "title": [
+    {
+      "text": "Golf Project Golf 0.2.0 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://pkg.go.dev/vuln/GO-2020-0045"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/dinever/golf/pull/24"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/dinever/golf/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:golf_project:golf:0.2.0:*:*:*:*:go:*:*"
+  }
+}

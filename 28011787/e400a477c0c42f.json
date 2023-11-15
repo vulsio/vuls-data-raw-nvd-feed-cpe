@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:webberzone:top_10:2.3.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "WebberZone Top 10 2.3.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://webberzone.com/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/top-10/#developers"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:webberzone:top_10:2.3.0:*:*:*:*:wordpress:*:*"
+  }
+}

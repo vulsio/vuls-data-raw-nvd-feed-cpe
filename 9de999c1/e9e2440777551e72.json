@@ -1,0 +1,34 @@
+{
+  "name": "cpe:/a:goprayer:wp_prayer:1.7.0::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Go Prayer WP Prayer 1.7.0 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://plugins.trac.wordpress.org/browser/wp-prayer/#tags"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://goprayer.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/wp-prayer/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/wp-prayer/wordpress-wp-prayer-plugin-1-9-6-cross-site-scripting-xss?_s_id=cve"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://plugins.svn.wordpress.org/wp-prayer/trunk/changelog.txt"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:goprayer:wp_prayer:1.7.0:*:*:*:*:wordpress:*:*"
+  }
+}

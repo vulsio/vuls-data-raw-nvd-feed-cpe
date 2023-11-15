@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:netapp:active_iq:-",
+  "title": [
+    {
+      "text": "Netapp Active IQ",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://security.netapp.com/advisory/ntap-20190125-0002/"
+    },
+    {
+      "text": "Product",
+      "href": "https://www.netapp.com/us/products/data-infrastructure-management/active-iq-predictive-technology.aspx"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:netapp:active_iq:-:*:*:*:*:*:*:*"
+  }
+}

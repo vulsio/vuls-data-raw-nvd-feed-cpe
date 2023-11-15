@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:puppet:puppet_agent:1.3.5",
+  "title": [
+    {
+      "text": "Puppet Agent 1.3.5",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://github.com/puppetlabs/puppetlabs-puppet_agent/releases"
+    },
+    {
+      "text": "Vendor",
+      "href": "https://puppet.com/"
+    },
+    {
+      "text": "Version",
+      "href": "https://docs.puppet.com/puppet/4.3/reference/release_notes_agent.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:puppet:puppet_agent:1.3.5:*:*:*:*:*:*:*"
+  }
+}

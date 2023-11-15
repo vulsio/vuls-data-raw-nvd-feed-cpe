@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:openzeppelin:contracts:0.2.0::~~~cairo~~",
+  "title": [
+    {
+      "text": "Openzeppelin Contracts 0.2.0 for Cairo",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/231327"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/OpenZeppelin/cairo-contracts/releases"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/OpenZeppelin/cairo-contracts/security/advisories/GHSA-8mjr-jr5h-q2xr"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:openzeppelin:contracts:0.2.0:*:*:*:*:cairo:*:*"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:crowcpp:crow:-",
+  "title": [
+    {
+      "text": "CrowCpp Crow",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://crowcpp.org/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/0xhebi/CVE-2022-34970/blob/master/report.md"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/CrowCpp/Crow/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:crowcpp:crow:-:*:*:*:*:*:*:*"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:oracle:jdk:8.0:update_321",
+  "deprecated": true,
+  "deprecation_date": "2022-05-13T12:53:25.693Z",
+  "title": [
+    {
+      "text": "Oracle Java Development Kit (JDK) 8.0 Update 321",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:oracle:jdk:8.0:update_321:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2022-05-13T08:53:25.693-04:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update321:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

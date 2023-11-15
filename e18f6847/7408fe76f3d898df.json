@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:otrs:otrs_itsm:3.2.3",
+  "title": [
+    {
+      "text": "Open Ticket Request System (OTRS) OTRS ITSM 3.2.3",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Version",
+      "href": "https://www.mail-archive.com/announce@otrs.org/msg00243.html"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/83287"
+    },
+    {
+      "text": "Project",
+      "href": "https://www.otrs.com/product.xml"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:otrs:otrs_itsm:3.2.3:*:*:*:*:*:*:*"
+  }
+}

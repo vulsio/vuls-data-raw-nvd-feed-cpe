@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:labstack:echo:1.4.3::~~~go~~",
+  "title": [
+    {
+      "text": "LabStack Echo 1.4.3 for Go",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://echo.labstack.com/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/labstack/echo/tags"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/labstack/echo/pull/1718"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:labstack:echo:1.4.3:*:*:*:*:go:*:*"
+  }
+}
