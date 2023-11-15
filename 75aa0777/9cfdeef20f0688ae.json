@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:bank_locker_management_system_project:bank_locker_management_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T22:28:16.360Z",
   "title": [
     {
       "text": "Bank Locker Management System Project Bank Locker Management System 1.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:bank_locker_management_system_project:bank_locker_management_system:1.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:bank_locker_management_system_project:bank_locker_management_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T17:28:16.360-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:bank_locker_management_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:phpgurukul:daily_expense_tracker_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T17:39:11.430Z",
   "title": [
     {
       "text": "phpgurukul Daily Expense Tracker System 1.0",
@@ -7,6 +9,10 @@
     }
   ],
   "references": [
+    {
+      "text": "Product",
+      "href": "https://products.phpgurukul.com/product/daily-expense-tracker-project-report/"
+    },
     {
       "text": "Advisory",
       "href": "https://frostylabs.net/writeups/cve-2020-10107/"
@@ -17,6 +23,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T12:39:11.430-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:1.0:*:*:*:-:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

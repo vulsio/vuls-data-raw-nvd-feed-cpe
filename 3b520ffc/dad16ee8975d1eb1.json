@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:acfextended:advanced_custom_fields_extended:0.8.9.3::~~~wordpress~~",
+  "title": [
+    {
+      "text": "ACFextended Advanced Custom Fields Extended 0.8.9.3 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/acf-extended/advanced-custom-fields-extended-0893-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+    },
+    {
+      "text": "Product",
+      "href": "https://wordpress.org/plugins/acf-extended/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:acfextended:advanced_custom_fields_extended:0.8.9.3:*:*:*:*:wordpress:*:*"
+  }
+}

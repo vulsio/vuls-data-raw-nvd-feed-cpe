@@ -1,0 +1,27 @@
+{
+  "name": "cpe:/a:phpgurukul:news_portal_project_report:-",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T18:18:40.600Z",
+  "title": [
+    {
+      "text": "PHPGurukul News Portal Project Report",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Product",
+      "href": "https://products.phpgurukul.com/product/news-portal-project-report/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:phpgurukul:news_portal_project_report:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T13:18:40.600-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:news_portal:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
+  }
+}

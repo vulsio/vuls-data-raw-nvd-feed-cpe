@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:teachers_record_management_system_project:teachers_record_management_system:-",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T20:48:59.840Z",
   "title": [
     {
       "text": "Teachers Record Management System Project Teachers Record Management System",
@@ -13,6 +15,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:-:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:teachers_record_management_system_project:teachers_record_management_system:-:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T15:48:59.840-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:teachers_record_management_system:-:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

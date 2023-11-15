@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:hostel_management_system_project:hostel_management_system:2.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T16:36:12.650Z",
   "title": [
     {
       "text": "Hostel Management System Project Hostel Management System 2.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:hostel_management_system_project:hostel_management_system:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T11:36:12.650-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:hostel_management_system:2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

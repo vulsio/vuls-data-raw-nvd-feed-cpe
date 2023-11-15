@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:idoweb:simple_site_verify:1.0.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "I Do Web Simple Site Verify 1.0.5 for Wordpress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://idoweb.work/"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://wordpress.org/plugins/simple-site-verify/#developers"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/simple-site-verify/wordpress-simple-site-verify-plugin-1-0-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:idoweb:simple_site_verify:1.0.5:*:*:*:*:wordpress:*:*"
+  }
+}

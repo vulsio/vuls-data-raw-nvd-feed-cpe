@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T22:38:25.430Z",
   "title": [
     {
       "text": "PHPGurukul Car Rental Project PHPGurukul Car Rental 1.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T17:38:25.430-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:car_rental_portal:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

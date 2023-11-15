@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:amr_users_project:amr_users:4.8::~~~wordpress~~",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T18:04:03.770Z",
   "title": [
     {
       "text": "Amr Users Project Amr Users 4.8 for WordPress",
@@ -13,6 +15,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:amr_users_project:amr_users:4.8:*:*:*:*:wordpress:*:*"
+    "name": "cpe:2.3:a:amr_users_project:amr_users:4.8:*:*:*:*:wordpress:*:*",
+    "deprecation": {
+      "date": "2023-11-14T13:04:03.770-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:anmari:amr_users:4.8:*:*:*:*:wordpress:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

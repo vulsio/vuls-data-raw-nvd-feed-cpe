@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:phpgurukul_dairy_farm_shop_management_system_project:phpgurukul_dairy_farm_shop_management_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T22:34:03.120Z",
   "title": [
     {
       "text": "PHPGurukul Dairy Farm Shop Management System Project PHPGurukul Dairy Farm Shop Management System 1.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul_dairy_farm_shop_management_system_project:phpgurukul_dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:phpgurukul_dairy_farm_shop_management_system_project:phpgurukul_dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T17:34:03.120-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:dairy_farm_shop_management_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

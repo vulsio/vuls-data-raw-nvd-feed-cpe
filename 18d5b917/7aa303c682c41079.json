@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:car_rental_portal_project:car_rental_portal:2.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T16:33:10.263Z",
   "title": [
     {
       "text": "Car Rental Portal Project Car Rental Portal 2.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:car_rental_portal_project:car_rental_portal:2.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:car_rental_portal_project:car_rental_portal:2.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T11:33:10.263-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:car_rental_portal:2.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

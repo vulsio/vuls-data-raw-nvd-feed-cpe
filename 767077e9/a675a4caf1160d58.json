@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:park_ticketing_management_system_project:park_ticketing_management_system:1.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T21:31:53.407Z",
   "title": [
     {
       "text": "Park Ticketing Management System Project Park Ticketing Management System 1.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:park_ticketing_management_system_project:park_ticketing_management_system:1.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:park_ticketing_management_system_project:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T16:31:53.407-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

@@ -1,5 +1,7 @@
 {
   "name": "cpe:/a:phpgurukul:hospital_management_system_in_php:4.0",
+  "deprecated": true,
+  "deprecation_date": "2023-11-14T16:21:39.953Z",
   "title": [
     {
       "text": "PHGurukul Hospital Management System In PHP 4.0",
@@ -17,6 +19,13 @@
     }
   ],
   "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*"
+    "name": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*",
+    "deprecation": {
+      "date": "2023-11-14T11:21:39.953-05:00",
+      "deprecated_by": {
+        "name": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*",
+        "type": "NAME_CORRECTION"
+      }
+    }
   }
 }

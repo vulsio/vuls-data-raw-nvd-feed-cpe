@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:cisco:firepower_threat_defense:6.4.0.17",
+  "title": [
+    {
+      "text": "Cisco Firepower Threat Defense 6.4.0.17",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-fmc-code-inj-wSHrgz8L"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/20xxx/CVE-2023-20063.json"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:cisco:firepower_threat_defense:6.4.0.17:*:*:*:*:*:*:*"
+  }
+}
