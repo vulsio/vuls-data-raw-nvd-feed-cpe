@@ -1,0 +1,22 @@
+{
+  "name": "cpe:/a:sigstore:cosign:2.1.1",
+  "title": [
+    {
+      "text": "Sigstore Cosign 2.1.1",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Advisory",
+      "href": "https://github.com/sigstore/cosign/security/advisories/GHSA-vfp6-jrw2-99g9"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/sigstore/cosign/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sigstore:cosign:2.1.1:*:*:*:*:*:*:*"
+  }
+}

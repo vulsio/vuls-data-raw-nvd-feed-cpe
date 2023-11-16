@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:sentry:sentry_software_development_kit:7.65.0::~~~next.js~~",
+  "title": [
+    {
+      "text": "Sentry Software Development Kit 7.65.0 for Next.js",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Vendor",
+      "href": "https://sentry.io/welcome/"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://github.com/getsentry/sentry-javascript/security/advisories/GHSA-2rmr-xw8m-22q9"
+    },
+    {
+      "text": "Change Log",
+      "href": "https://github.com/getsentry/sentry-javascript/releases"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:sentry:sentry_software_development_kit:7.65.0:*:*:*:*:next.js:*:*"
+  }
+}

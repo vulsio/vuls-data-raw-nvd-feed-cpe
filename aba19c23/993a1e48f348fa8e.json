@@ -1,0 +1,26 @@
+{
+  "name": "cpe:/a:simple-history:simple_history:2.5.5::~~~wordpress~~",
+  "title": [
+    {
+      "text": "Simple History 2.5.5 for WordPress",
+      "lang": "en-US"
+    }
+  ],
+  "references": [
+    {
+      "text": "Change Log",
+      "href": "https://github.com/bonny/WordPress-Simple-History/blob/main/CHANGELOG.md"
+    },
+    {
+      "text": "Advisory",
+      "href": "https://patchstack.com/database/vulnerability/simple-history/wordpress-simple-history-plugin-3-3-1-csv-injection-vulnerability?_s_id=cve"
+    },
+    {
+      "text": "Product",
+      "href": "https://simple-history.com/"
+    }
+  ],
+  "cpe_23_item": {
+    "name": "cpe:2.3:a:simple-history:simple_history:2.5.5:*:*:*:*:wordpress:*:*"
+  }
+}
