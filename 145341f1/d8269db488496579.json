@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:golang:networking:0.8.0::~~~go~~",
-  "title": [
-    {
-      "text": "Golang Networking (net) 0.8.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/golang/net/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://pkg.go.dev/golang.org/x/net"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:networking:0.8.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:golang:networking:0.8.0::~~~go~~",
+	"title": [
+		{
+			"text": "Golang Networking (net) 0.8.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/golang/net/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/golang.org/x/net"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:networking:0.8.0:*:*:*:*:go:*:*"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux_desktop_supplementary:5.0:client",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux Desktop Supplementary 5.0 (Client)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://rhn.redhat.com/errata/RHSA-2015-0813.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux_desktop_supplementary:5.0:client:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux_desktop_supplementary:5.0:client",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux Desktop Supplementary 5.0 (Client)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://rhn.redhat.com/errata/RHSA-2015-0813.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux_desktop_supplementary:5.0:client:*:*:*:*:*:*"
+	}
 }

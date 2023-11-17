@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:d-link:dap-3520_h%2fw_a1:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DAP-3520 H/W A1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://eu.dlink.com/uk/en/products/dap-3520-wireless-n-dual-band-poe-outdoor-access-point"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dap-3520_h\\/w_a1:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dap-3520_h\\/w_a1:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dap-3520_h%2fw_a1:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DAP-3520 H/W A1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://eu.dlink.com/uk/en/products/dap-3520-wireless-n-dual-band-poe-outdoor-access-point"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dap-3520_h\\/w_a1:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dap-3520_h\\/w_a1:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

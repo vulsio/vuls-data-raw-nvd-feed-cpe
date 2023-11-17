@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openam:openam:4.1.0::~~consortium~~~",
-  "title": [
-    {
-      "text": "Openam Openam 4.1.0 Consortium Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/openam-jp/openam"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openam.jp/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/22xxx/CVE-2023-22320.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openam:openam:4.1.0:*:*:*:consortium:*:*:*"
-  }
+	"name": "cpe:/a:openam:openam:4.1.0::~~consortium~~~",
+	"title": [
+		{
+			"text": "Openam Openam 4.1.0 Consortium Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/openam-jp/openam"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openam.jp/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/22xxx/CVE-2023-22320.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openam:openam:4.1.0:*:*:*:consortium:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_xp:-:gold:embedded",
-  "deprecated": true,
-  "deprecation_date": "2019-05-07T17:48:12.613Z",
-  "title": [
-    {
-      "text": "Microsoft windows xp_gold embedded",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_xp:-:gold:embedded:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-07T13:48:12.613-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_xp:-:gold:embedded",
+	"deprecated": true,
+	"deprecation_date": "2019-05-07T17:48:12.613Z",
+	"title": [
+		{
+			"text": "Microsoft windows xp_gold embedded",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_xp:-:gold:embedded:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-07T13:48:12.613-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_xp:-:-:*:*:embedded:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:azure_service_broker:1.3.0::~~~pivotal_cloud_foundry~~",
-  "title": [
-    {
-      "text": "Microsoft Azure Service Broker 1.3.0 for Pivotal Cloud Foundry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/partners/azure-sb/release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_service_broker:1.3.0:*:*:*:*:pivotal_cloud_foundry:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_service_broker:1.3.0::~~~pivotal_cloud_foundry~~",
+	"title": [
+		{
+			"text": "Microsoft Azure Service Broker 1.3.0 for Pivotal Cloud Foundry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/partners/azure-sb/release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_service_broker:1.3.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+	}
 }

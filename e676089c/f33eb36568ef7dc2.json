@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:circutor:sge-plc1000:-",
-  "title": [
-    {
-      "text": "Circutor SGE-PLC1000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.incibe-cert.es/en/early-warning/ics-advisories/circutor-sge-plc1000-os-command-injection"
-    },
-    {
-      "text": "Product",
-      "href": "http://circutor.com/en/products/metering/multi-function-electrical-energy-meters/energy-meters-with-plc-communications-cirwatt-b-series-prime-system/sge-plc1000-rs232-detail"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:circutor:sge-plc1000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:circutor:sge-plc1000:-",
+	"title": [
+		{
+			"text": "Circutor SGE-PLC1000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe-cert.es/en/early-warning/ics-advisories/circutor-sge-plc1000-os-command-injection"
+		},
+		{
+			"text": "Product",
+			"href": "http://circutor.com/en/products/metering/multi-function-electrical-energy-meters/energy-meters-with-plc-communications-cirwatt-b-series-prime-system/sge-plc1000-rs232-detail"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:circutor:sge-plc1000:-:*:*:*:*:*:*:*"
+	}
 }

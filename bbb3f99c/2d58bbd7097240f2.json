@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:arm:neoverse_n1:-",
-  "title": [
-    {
-      "text": "ARM Neoverse N1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.arm.com/products/silicon-ip-cpu"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arm:neoverse_n1:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:arm:neoverse_n1:-",
+	"title": [
+		{
+			"text": "ARM Neoverse N1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.arm.com/products/silicon-ip-cpu"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arm:neoverse_n1:-:*:*:*:*:*:*:*"
+	}
 }

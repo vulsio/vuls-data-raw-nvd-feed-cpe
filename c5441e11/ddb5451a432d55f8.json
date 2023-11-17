@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtx1200:10.01.29",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:25.027Z",
-  "title": [
-    {
-      "text": "ヤマハ RTX1200 10.01.29",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTX1200 10.01.29",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtx1200:10.01.29:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:25.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtx1200:10.01.29:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtx1200:10.01.29",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:25.027Z",
+	"title": [
+		{
+			"text": "ヤマハ RTX1200 10.01.29",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RTX1200 10.01.29",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtx1200:10.01.29:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:25.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtx1200:10.01.29:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

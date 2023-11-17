@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.5.9",
-  "deprecated": true,
-  "deprecation_date": "2019-10-03T19:08:08.733Z",
-  "title": [
-    {
-      "text": "Kubernetes 1.5.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.5.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-03T15:08:08.733-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kubernetes:kubernetes:1.5.9:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.5.9",
+	"deprecated": true,
+	"deprecation_date": "2019-10-03T19:08:08.733Z",
+	"title": [
+		{
+			"text": "Kubernetes 1.5.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.5.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-03T15:08:08.733-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kubernetes:kubernetes:1.5.9:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

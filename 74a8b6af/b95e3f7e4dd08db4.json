@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:redhat:libvirt:0.10.0",
-  "deprecated": true,
-  "deprecation_date": "2019-10-03T14:18:56.990Z",
-  "title": [
-    {
-      "text": "Red Hat libvirt 0.10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "http://libvirt.org/news.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:libvirt:0.10.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-03T10:18:56.990-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:libvirt:0.10.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:libvirt:0.10.0",
+	"deprecated": true,
+	"deprecation_date": "2019-10-03T14:18:56.990Z",
+	"title": [
+		{
+			"text": "Red Hat libvirt 0.10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "http://libvirt.org/news.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:libvirt:0.10.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-03T10:18:56.990-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:libvirt:0.10.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

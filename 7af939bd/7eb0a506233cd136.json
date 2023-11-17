@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:se:ecostruxure_control_expert:15.0:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:32:59.153Z",
-  "title": [
-    {
-      "text": "Schneider Electric EcoStruxure Control Expert 15.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-194-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:ecostruxure_control_expert:15.0:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:32:59.153-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:ecostruxure_control_expert:15.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:ecostruxure_control_expert:15.0:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:32:59.153Z",
+	"title": [
+		{
+			"text": "Schneider Electric EcoStruxure Control Expert 15.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-194-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:ecostruxure_control_expert:15.0:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:32:59.153-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:ecostruxure_control_expert:15.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

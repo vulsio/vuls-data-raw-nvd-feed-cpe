@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:apsystems:ecu-c_firmware:v3.11.4",
-  "title": [
-    {
-      "text": "APSystems ECU-C Firmware V3.11.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cyber-guy.gitbook.io/cyber-guys-blog/pocs/cve-2022-44037"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.invertersupply.com/index.php?main_page=product_info&products_id=194787"
-    },
-    {
-      "text": "Product",
-      "href": "https://usa.apsystems.com/wp-content/uploads/2018/04/US-12-17-rev-1_APsystems-ECU-C-User-manual_Rev1.3_2017-09-21-2.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:apsystems:ecu-c_firmware:v3.11.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:apsystems:ecu-c_firmware:v3.11.4",
+	"title": [
+		{
+			"text": "APSystems ECU-C Firmware V3.11.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cyber-guy.gitbook.io/cyber-guys-blog/pocs/cve-2022-44037"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.invertersupply.com/index.php?main_page=product_info&products_id=194787"
+		},
+		{
+			"text": "Product",
+			"href": "https://usa.apsystems.com/wp-content/uploads/2018/04/US-12-17-rev-1_APsystems-ECU-C-User-manual_Rev1.3_2017-09-21-2.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apsystems:ecu-c_firmware:v3.11.4:*:*:*:*:*:*:*"
+	}
 }

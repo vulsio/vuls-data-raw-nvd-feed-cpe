@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:gehealthcare:brivo_6000_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-30T13:48:17.930Z",
-  "title": [
-    {
-      "text": "GE Healthcare Brivo 6000 Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gehealthcare:brivo_6000_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-30T09:48:17.930-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:gehealthcare:definium_6000_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:gehealthcare:brivo_6000_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-30T13:48:17.930Z",
+	"title": [
+		{
+			"text": "GE Healthcare Brivo 6000 Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gehealthcare:brivo_6000_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-30T09:48:17.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:gehealthcare:definium_6000_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

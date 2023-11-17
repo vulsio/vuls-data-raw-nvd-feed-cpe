@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:golang:go:1.19.8",
-  "title": [
-    {
-      "text": "Golang Go 1.19.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/golang/go/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2023-1705"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://groups.google.com/g/golang-announce/c/Xdv6JL9ENs8"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:go:1.19.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:golang:go:1.19.8",
+	"title": [
+		{
+			"text": "Golang Go 1.19.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/golang/go/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-1705"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://groups.google.com/g/golang-announce/c/Xdv6JL9ENs8"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:go:1.19.8:*:*:*:*:*:*:*"
+	}
 }

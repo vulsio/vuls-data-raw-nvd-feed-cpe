@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amtoken_project:amtoken:-",
-  "title": [
-    {
-      "text": "AMToken project AMToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/AMToken"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amtoken_project:amtoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:amtoken_project:amtoken:-",
+	"title": [
+		{
+			"text": "AMToken project AMToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/AMToken"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amtoken_project:amtoken:-:*:*:*:*:*:*:*"
+	}
 }

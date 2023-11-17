@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cozmoslabs:client_portal:1.1.9::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Cozmoslabs Client Portal 1.1.9 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/client-portal/wordpress-client-portal-plugin-1-1-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cozmoslabs.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/client-portal/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cozmoslabs:client_portal:1.1.9:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:cozmoslabs:client_portal:1.1.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cozmoslabs Client Portal 1.1.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/client-portal/wordpress-client-portal-plugin-1-1-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cozmoslabs.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/client-portal/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cozmoslabs:client_portal:1.1.9:*:*:*:*:wordpress:*:*"
+	}
 }

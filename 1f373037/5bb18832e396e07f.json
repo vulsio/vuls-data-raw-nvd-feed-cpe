@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:buddypress:buddypress_plugin:1.5.2",
-  "deprecated": true,
-  "deprecation_date": "2018-05-14T16:44:26.207Z",
-  "title": [
-    {
-      "text": "buddypress BuddyPress plugin 1.5.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:buddypress:buddypress_plugin:1.5.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-05-14T12:44:26.207-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:buddypress:buddypress:1.5.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:buddypress:buddypress_plugin:1.5.2",
+	"deprecated": true,
+	"deprecation_date": "2018-05-14T16:44:26.207Z",
+	"title": [
+		{
+			"text": "buddypress BuddyPress plugin 1.5.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:buddypress:buddypress_plugin:1.5.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-05-14T12:44:26.207-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:buddypress:buddypress:1.5.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

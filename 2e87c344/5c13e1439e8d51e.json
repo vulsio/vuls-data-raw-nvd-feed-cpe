@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:opensuse_project:suse_linux_enterprise_server:11.0:sp3",
-  "deprecated": true,
-  "deprecation_date": "2017-01-26T19:15:04.623Z",
-  "title": [
-    {
-      "text": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2014-08/msg00012.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.opensuse.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-01-26T14:15:04.623-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:opensuse_project:suse_linux_enterprise_server:11.0:sp3",
+	"deprecated": true,
+	"deprecation_date": "2017-01-26T19:15:04.623Z",
+	"title": [
+		{
+			"text": "OpenSUSE Project SUSE Linux Enterprise Server 11.0 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2014-08/msg00012.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.opensuse.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:opensuse_project:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-01-26T14:15:04.623-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

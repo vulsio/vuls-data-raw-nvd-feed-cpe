@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:miniupnp_project:miniupnp:1.5:-",
-  "deprecated": true,
-  "deprecation_date": "2019-06-17T16:20:09.407Z",
-  "title": [
-    {
-      "text": "miniUPnP Projet miniUPnP 1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "http://miniupnp.free.fr/"
-    },
-    {
-      "text": "Change Log",
-      "href": "http://miniupnp.free.fr/files/changelog.php?file=miniupnpc-2.1.tar.gz"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:miniupnp_project:miniupnp:1.5:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-17T12:20:09.407-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:miniupnp_project:miniupnpc:1.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:miniupnp_project:miniupnp:1.5:-",
+	"deprecated": true,
+	"deprecation_date": "2019-06-17T16:20:09.407Z",
+	"title": [
+		{
+			"text": "miniUPnP Projet miniUPnP 1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "http://miniupnp.free.fr/"
+		},
+		{
+			"text": "Change Log",
+			"href": "http://miniupnp.free.fr/files/changelog.php?file=miniupnpc-2.1.tar.gz"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:miniupnp_project:miniupnp:1.5:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-17T12:20:09.407-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:miniupnp_project:miniupnpc:1.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

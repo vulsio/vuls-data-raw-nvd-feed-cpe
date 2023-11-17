@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tp-link:tl-er5120g_firmware:2.0.0:build_210817",
-  "title": [
-    {
-      "text": "TP-Link TL-ER5120G Firmware 2.0.0 Build 210817",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/7R4C4R/CVE/blob/main/TPLINK-TL-ER5120G/command%20injection/02/command%20injection02.md#tp-link-er5120g-command-injection"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tp-link.com/us/support/download/tl-er5120/v4/#Firmware"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tp-link:tl-er5120g_firmware:2.0.0:build_210817:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tp-link:tl-er5120g_firmware:2.0.0:build_210817",
+	"title": [
+		{
+			"text": "TP-Link TL-ER5120G Firmware 2.0.0 Build 210817",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/7R4C4R/CVE/blob/main/TPLINK-TL-ER5120G/command%20injection/02/command%20injection02.md#tp-link-er5120g-command-injection"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tp-link.com/us/support/download/tl-er5120/v4/#Firmware"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tp-link:tl-er5120g_firmware:2.0.0:build_210817:*:*:*:*:*:*"
+	}
 }

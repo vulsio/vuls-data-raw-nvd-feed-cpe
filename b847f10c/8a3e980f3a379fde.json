@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:ssh_slaves:1.29.0::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins SSH Slaves 1.29.0 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/ssh-slaves-plugin/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/ssh-slaves"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:ssh_slaves:1.29.0:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:ssh_slaves:1.29.0::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins SSH Slaves 1.29.0 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/ssh-slaves-plugin/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/ssh-slaves"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:ssh_slaves:1.29.0:*:*:*:*:jenkins:*:*"
+	}
 }

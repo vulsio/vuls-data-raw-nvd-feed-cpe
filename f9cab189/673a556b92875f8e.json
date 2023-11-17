@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:objectfirst:objectfirst:-",
-  "deprecated": true,
-  "deprecation_date": "2023-05-08T13:40:42.713Z",
-  "title": [
-    {
-      "text": "Object First Objectfirst",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://objectfirst.com/object-storage/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://objectfirst.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:objectfirst:objectfirst:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-08T09:40:42.713-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:objectfirst:ootbi:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:objectfirst:objectfirst:-",
+	"deprecated": true,
+	"deprecation_date": "2023-05-08T13:40:42.713Z",
+	"title": [
+		{
+			"text": "Object First Objectfirst",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://objectfirst.com/object-storage/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://objectfirst.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:objectfirst:objectfirst:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-08T09:40:42.713-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:objectfirst:ootbi:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

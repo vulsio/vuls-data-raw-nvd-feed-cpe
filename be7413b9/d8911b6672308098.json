@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:e5503",
-  "deprecated": true,
-  "deprecation_date": "2020-04-27T20:29:00.033Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5503",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:e5503:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-27T16:29:00.033-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon:e5503:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:e5503",
+	"deprecated": true,
+	"deprecation_date": "2020-04-27T20:29:00.033Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5503",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:e5503:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-27T16:29:00.033-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon:e5503:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

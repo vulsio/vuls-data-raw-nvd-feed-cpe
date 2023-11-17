@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sophos:home:-::~~~macos~~",
-  "title": [
-    {
-      "text": "Sophos Home for MacOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://home.sophos.com/en-us/download-mac-anti-virus.aspx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25264.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://community.sophos.com/b/security-blog/posts/resolved-lpe-in-endpoint-for-macos-cve-2021-25264"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sophos:home:-:*:*:*:*:macos:*:*"
-  }
+	"name": "cpe:/a:sophos:home:-::~~~macos~~",
+	"title": [
+		{
+			"text": "Sophos Home for MacOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://home.sophos.com/en-us/download-mac-anti-virus.aspx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25264.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://community.sophos.com/b/security-blog/posts/resolved-lpe-in-endpoint-for-macos-cve-2021-25264"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sophos:home:-:*:*:*:*:macos:*:*"
+	}
 }

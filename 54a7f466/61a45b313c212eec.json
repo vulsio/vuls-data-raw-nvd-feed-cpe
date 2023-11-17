@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:workstation_player:15.0.2",
-  "title": [
-    {
-      "text": "VMware Workstation Player 15.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/152213/VMware-Host-VMX-Process-Impersonation-Hijack-Privilege-Escalation.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:workstation_player:15.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:workstation_player:15.0.2",
+	"title": [
+		{
+			"text": "VMware Workstation Player 15.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/152213/VMware-Host-VMX-Process-Impersonation-Hijack-Privilege-Escalation.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:workstation_player:15.0.2:*:*:*:*:*:*:*"
+	}
 }

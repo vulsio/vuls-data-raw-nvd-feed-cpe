@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:d-link:dir-2640-us:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link Dir-2640-us",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://us.dlink.com/en/products/dir-2640-smart-ac2600-high-power-wi-fi-gigabit-router"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dir-2640-us:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dir-2640-us:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dir-2640-us:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link Dir-2640-us",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://us.dlink.com/en/products/dir-2640-smart-ac2600-high-power-wi-fi-gigabit-router"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dir-2640-us:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dir-2640-us:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

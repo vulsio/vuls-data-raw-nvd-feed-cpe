@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:jdk:8.0:update_121",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T12:35:27.880Z",
-  "title": [
-    {
-      "text": "Oracle JDK 8.0 Update 121",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://www.oracle.com/technetwork/java/javase/emb8u121-relnotes-3338527.html"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.oracle.com/technetwork/java/javase/documentation/javase7supportreleasenotes-1601161.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:8.0:update_121:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T08:35:27.880-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update121:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:8.0:update_121",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T12:35:27.880Z",
+	"title": [
+		{
+			"text": "Oracle JDK 8.0 Update 121",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://www.oracle.com/technetwork/java/javase/emb8u121-relnotes-3338527.html"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.oracle.com/technetwork/java/javase/documentation/javase7supportreleasenotes-1601161.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:8.0:update_121:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T08:35:27.880-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.8.0:update121:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:schneider_electric:wonderware_intouch_2014:7.1:sp3:~~machine~~~",
-  "deprecated": true,
-  "deprecation_date": "2018-09-24T16:21:37.837Z",
-  "title": [
-    {
-      "text": "Schneider Electric Wonderware inTouch 2014 Machine Edition 7.1 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://software.invensys.com/products/wonderware/hmi-and-supervisory-control/intouch-machine-edition/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:schneider_electric:wonderware_intouch_2014:7.1:sp3:*:*:machine:*:*:*",
-    "deprecation": {
-      "date": "2018-09-24T12:21:37.837-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:wonderware_intouch_2014:7.1:sp3:*:*:machine:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:schneider_electric:wonderware_intouch_2014:7.1:sp3:~~machine~~~",
+	"deprecated": true,
+	"deprecation_date": "2018-09-24T16:21:37.837Z",
+	"title": [
+		{
+			"text": "Schneider Electric Wonderware inTouch 2014 Machine Edition 7.1 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://software.invensys.com/products/wonderware/hmi-and-supervisory-control/intouch-machine-edition/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:schneider_electric:wonderware_intouch_2014:7.1:sp3:*:*:machine:*:*:*",
+		"deprecation": {
+			"date": "2018-09-24T12:21:37.837-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:wonderware_intouch_2014:7.1:sp3:*:*:machine:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

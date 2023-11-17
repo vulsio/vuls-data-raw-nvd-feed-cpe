@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:denx:u-boot:2022.01:-",
-  "title": [
-    {
-      "text": "DENX Software Engineering U-boot 2022.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.denx.de/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.denx.de/wiki/U-Boot/WebHome"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/u-boot/u-boot/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://research.nccgroup.com/2022/06/03/technical-advisory-multiple-vulnerabilities-in-u-boot-cve-2022-30790-cve-2022-30552/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:denx:u-boot:2022.01:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:denx:u-boot:2022.01:-",
+	"title": [
+		{
+			"text": "DENX Software Engineering U-boot 2022.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.denx.de/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.denx.de/wiki/U-Boot/WebHome"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/u-boot/u-boot/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://research.nccgroup.com/2022/06/03/technical-advisory-multiple-vulnerabilities-in-u-boot-cve-2022-30790-cve-2022-30552/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:denx:u-boot:2022.01:-:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pivotal:elastic_runtime:1.6.13",
-  "title": [
-    {
-      "text": "Pivotal Elastic Runtime 1.6.13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudfoundry.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2016-0732"
-    },
-    {
-      "text": "Version",
-      "href": "https://network.pivotal.io/products/elastic-runtime"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:elastic_runtime:1.6.13:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pivotal:elastic_runtime:1.6.13",
+	"title": [
+		{
+			"text": "Pivotal Elastic Runtime 1.6.13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudfoundry.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2016-0732"
+		},
+		{
+			"text": "Version",
+			"href": "https://network.pivotal.io/products/elastic-runtime"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:elastic_runtime:1.6.13:*:*:*:*:*:*:*"
+	}
 }

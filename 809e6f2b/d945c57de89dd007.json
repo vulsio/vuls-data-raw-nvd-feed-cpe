@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:oracle:mysql_server:5.7.28",
-  "title": [
-    {
-      "text": "Oracle MySQL Server 5.7.28",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/mysql/mysql-server"
-    },
-    {
-      "text": "Version",
-      "href": "https://downloads.mysql.com/archives/community/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpuapr2020.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql_server:5.7.28:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql_server:5.7.28",
+	"title": [
+		{
+			"text": "Oracle MySQL Server 5.7.28",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/mysql/mysql-server"
+		},
+		{
+			"text": "Version",
+			"href": "https://downloads.mysql.com/archives/community/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2020.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql_server:5.7.28:*:*:*:*:*:*:*"
+	}
 }

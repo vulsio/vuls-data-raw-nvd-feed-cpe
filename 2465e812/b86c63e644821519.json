@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:snowflake:snowflake-connector-python:-",
-  "title": [
-    {
-      "text": "Snowflake Snowflake-connector-python -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.snowflake.com/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://pypi.org/project/snowflake-connector-python/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://research.jfrog.com/vulnerabilities/snowflake-connector-python-redos-xray-257185/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:snowflake:snowflake-connector-python:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:snowflake:snowflake-connector-python:-",
+	"title": [
+		{
+			"text": "Snowflake Snowflake-connector-python -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.snowflake.com/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://pypi.org/project/snowflake-connector-python/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://research.jfrog.com/vulnerabilities/snowflake-connector-python-redos-xray-257185/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:snowflake:snowflake-connector-python:-:*:*:*:*:*:*:*"
+	}
 }

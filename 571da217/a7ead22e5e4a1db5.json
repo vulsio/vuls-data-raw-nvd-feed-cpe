@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wp_glossary_project:wp_glossary:3.7.41::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WP Glossary Project WP Glossary 3.7.41 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-glossary/wordpress-wp-glossary-plugin-3-1-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-glossary/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp_glossary_project:wp_glossary:3.7.41:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wp_glossary_project:wp_glossary:3.7.41::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Glossary Project WP Glossary 3.7.41 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-glossary/wordpress-wp-glossary-plugin-3-1-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-glossary/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp_glossary_project:wp_glossary:3.7.41:*:*:*:*:wordpress:*:*"
+	}
 }

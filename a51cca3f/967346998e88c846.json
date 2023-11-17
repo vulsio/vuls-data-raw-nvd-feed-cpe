@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/a:sixapart:movabletype:3.2",
-  "deprecated": true,
-  "deprecation_date": "2012-03-01T00:57:25.253Z",
-  "title": [
-    {
-      "text": "Six Apart MovableType Open Source 3.2",
-      "lang": "en-US"
-    },
-    {
-      "text": "シックス・アパート Movable Type Open Source 3.2",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sixapart:movabletype:3.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2012-02-29T19:57:25.253-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sixapart:movable_type:3.2:*:open_source:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sixapart:movabletype:3.2",
+	"deprecated": true,
+	"deprecation_date": "2012-03-01T00:57:25.253Z",
+	"title": [
+		{
+			"text": "シックス・アパート Movable Type Open Source 3.2",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Six Apart MovableType Open Source 3.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sixapart:movabletype:3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2012-02-29T19:57:25.253-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sixapart:movable_type:3.2:*:open_source:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

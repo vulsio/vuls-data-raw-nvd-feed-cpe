@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:apache:log4j:2.7",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T15:27:19.310Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Log4j 2.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://logging.apache.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://logging.apache.org/log4j/2.0/changes-report.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:log4j:2.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-04T11:27:19.310-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:log4j:2.7:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:log4j:2.7",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T15:27:19.310Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Log4j 2.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://logging.apache.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://logging.apache.org/log4j/2.0/changes-report.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:log4j:2.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-04T11:27:19.310-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:log4j:2.7:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

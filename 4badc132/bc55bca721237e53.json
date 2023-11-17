@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:osgeo:geoserver:2.19.7",
-  "title": [
-    {
-      "text": "Osgeo Geoserver 2.19.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/geoserver/geoserver/security/advisories/GHSA-7g5f-wrx8-5ccf"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/geoserver/geoserver/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:osgeo:geoserver:2.19.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:osgeo:geoserver:2.19.7",
+	"title": [
+		{
+			"text": "Osgeo Geoserver 2.19.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/geoserver/geoserver/security/advisories/GHSA-7g5f-wrx8-5ccf"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/geoserver/geoserver/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:osgeo:geoserver:2.19.7:*:*:*:*:*:*:*"
+	}
 }

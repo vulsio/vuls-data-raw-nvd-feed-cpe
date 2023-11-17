@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:csaf_provider_project:csaf_provider:0.3.0:alpha",
-  "title": [
-    {
-      "text": "CSAF Provider Project CSAF Provider 0.3.0 Alpha",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/csaf-poc/csaf_distribution/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wid.cert-bund.de/.well-known/csaf/white/2022/bsi-2022-0003.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:csaf_provider_project:csaf_provider:0.3.0:alpha:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:csaf_provider_project:csaf_provider:0.3.0:alpha",
+	"title": [
+		{
+			"text": "CSAF Provider Project CSAF Provider 0.3.0 Alpha",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/csaf-poc/csaf_distribution/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wid.cert-bund.de/.well-known/csaf/white/2022/bsi-2022-0003.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:csaf_provider_project:csaf_provider:0.3.0:alpha:*:*:*:*:*:*"
+	}
 }

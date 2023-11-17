@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tdengine:grafana:3.1.4::~~~tdengine~~",
-  "title": [
-    {
-      "text": "TDengine Grafana 3.1.4 for TDengine",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/taosdata/grafanaplugin/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://tdengine.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/taosdata/grafanaplugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tdengine:grafana:3.1.4:*:*:*:*:tdengine:*:*"
-  }
+	"name": "cpe:/a:tdengine:grafana:3.1.4::~~~tdengine~~",
+	"title": [
+		{
+			"text": "TDengine Grafana 3.1.4 for TDengine",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/taosdata/grafanaplugin/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://tdengine.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/taosdata/grafanaplugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tdengine:grafana:3.1.4:*:*:*:*:tdengine:*:*"
+	}
 }

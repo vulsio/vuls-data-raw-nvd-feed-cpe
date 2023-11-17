@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pivotal:pivotal_cloud_foundry_service_broker:1.4.13::~~~aws~~",
-  "title": [
-    {
-      "text": "Pivotal Pivotal Cloud Foundry Service Broker 1.4.13 for Aws",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/aws-services/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:1.4.13:*:*:*:*:aws:*:*"
-  }
+	"name": "cpe:/a:pivotal:pivotal_cloud_foundry_service_broker:1.4.13::~~~aws~~",
+	"title": [
+		{
+			"text": "Pivotal Pivotal Cloud Foundry Service Broker 1.4.13 for Aws",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/aws-services/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:pivotal_cloud_foundry_service_broker:1.4.13:*:*:*:*:aws:*:*"
+	}
 }

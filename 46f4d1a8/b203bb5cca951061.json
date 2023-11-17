@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cisco:sd-wan_vmanage:20.9",
-  "deprecated": true,
-  "deprecation_date": "2023-10-16T16:35:23.810Z",
-  "title": [
-    {
-      "text": "Cisco SD-WAN vManage 20.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/site/us/en/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanage-msg-serv-AqTup7vs"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-16T12:35:23.810-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:sd-wan_vmanage:20.9",
+	"deprecated": true,
+	"deprecation_date": "2023-10-16T16:35:23.810Z",
+	"title": [
+		{
+			"text": "Cisco SD-WAN vManage 20.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/site/us/en/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanage-msg-serv-AqTup7vs"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-16T12:35:23.810-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2008:sp2::~~~itanium~~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 Service Pack 2 for Itanium",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8393"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=5023"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=51899"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2008:sp2:*:*:*:*:itanium:*:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2008:sp2::~~~itanium~~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 Service Pack 2 for Itanium",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8393"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=5023"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=51899"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2008:sp2:*:*:*:*:itanium:*:*"
+	}
 }

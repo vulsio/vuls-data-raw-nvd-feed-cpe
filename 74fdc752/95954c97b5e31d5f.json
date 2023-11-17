@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sap:customer_relationship_management:731",
-  "title": [
-    {
-      "text": "SAP Customer Relationship Management 731",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sap.com/products/crm.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.sap.com/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://erpscan.com/advisories/erpscan-17-036-csrf-sap-java-crm/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:customer_relationship_management:731:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sap:customer_relationship_management:731",
+	"title": [
+		{
+			"text": "SAP Customer Relationship Management 731",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sap.com/products/crm.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sap.com/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://erpscan.com/advisories/erpscan-17-036-csrf-sap-java-crm/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:customer_relationship_management:731:*:*:*:*:*:*:*"
+	}
 }

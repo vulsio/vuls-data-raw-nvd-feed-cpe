@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:terser:terser:3.4.7::~~~node.js~~",
-  "title": [
-    {
-      "text": "Terser 3.4.7 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/terser/terser/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://terser.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/terser"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-2949722"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:terser:terser:3.4.7:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:terser:terser:3.4.7::~~~node.js~~",
+	"title": [
+		{
+			"text": "Terser 3.4.7 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/terser/terser/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://terser.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/terser"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-2949722"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:terser:terser:3.4.7:*:*:*:*:node.js:*:*"
+	}
 }

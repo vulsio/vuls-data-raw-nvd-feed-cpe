@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:xamarin.forms:-",
-  "title": [
-    {
-      "text": "Microsoft Xamarin.forms",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nuget.org/packages/Xamarin.Forms"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16873"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:xamarin.forms:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:xamarin.forms:-",
+	"title": [
+		{
+			"text": "Microsoft Xamarin.forms",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nuget.org/packages/Xamarin.Forms"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16873"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:xamarin.forms:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:jgroups:-",
-  "title": [
-    {
-      "text": "Red Hat JGroups",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.1/html/performance_tuning_guide/jgroups_tuning"
-    },
-    {
-      "text": "Product",
-      "href": "http://jgroups.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jgroups:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jgroups:-",
+	"title": [
+		{
+			"text": "Red Hat JGroups",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.1/html/performance_tuning_guide/jgroups_tuning"
+		},
+		{
+			"text": "Product",
+			"href": "http://jgroups.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jgroups:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:7.0:d",
-  "title": [
-    {
-      "text": "VMWare vCenter Server 7.0d",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u1c-release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2021-0002.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:7.0:d:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:vcenter_server:7.0:d",
+	"title": [
+		{
+			"text": "VMWare vCenter Server 7.0d",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u1c-release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2021-0002.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:7.0:d:*:*:*:*:*:*"
+	}
 }

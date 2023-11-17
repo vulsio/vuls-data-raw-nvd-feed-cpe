@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:haproxy:haproxy:2.2.29",
-  "title": [
-    {
-      "text": "HAProxy 2.2.29",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://git.haproxy.org/?p=haproxy-2.7.git;a=commit;h=a0e561ad7f29ed50c473f5a9da664267b60d1112"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.haproxy.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:haproxy:haproxy:2.2.29:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:haproxy:haproxy:2.2.29",
+	"title": [
+		{
+			"text": "HAProxy 2.2.29",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://git.haproxy.org/?p=haproxy-2.7.git;a=commit;h=a0e561ad7f29ed50c473f5a9da664267b60d1112"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.haproxy.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:haproxy:haproxy:2.2.29:*:*:*:*:*:*:*"
+	}
 }

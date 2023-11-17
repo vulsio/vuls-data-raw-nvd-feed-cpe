@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:citrix:cloud_connector:6.31.0.62192",
-  "title": [
-    {
-      "text": "Citrix Cloud Connector 6.31.0.62192",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.citrix.com/en-us/citrix-cloud/citrix-cloud-resource-locations/citrix-cloud-connector.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/22xxx/CVE-2021-22914.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX316690"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:cloud_connector:6.31.0.62192:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:citrix:cloud_connector:6.31.0.62192",
+	"title": [
+		{
+			"text": "Citrix Cloud Connector 6.31.0.62192",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.citrix.com/en-us/citrix-cloud/citrix-cloud-resource-locations/citrix-cloud-connector.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/22xxx/CVE-2021-22914.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX316690"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:cloud_connector:6.31.0.62192:*:*:*:*:*:*:*"
+	}
 }

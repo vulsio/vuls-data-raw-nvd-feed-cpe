@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:momentjs:luxon:1.4.6::~~~node.js~~",
-  "title": [
-    {
-      "text": "Momentjs Luxon 1.4.6 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://momentjs.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/moment/luxon/security/advisories/GHSA-3xq5-wjfh-ppjc"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/moment/luxon/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:momentjs:luxon:1.4.6:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:momentjs:luxon:1.4.6::~~~node.js~~",
+	"title": [
+		{
+			"text": "Momentjs Luxon 1.4.6 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://momentjs.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/moment/luxon/security/advisories/GHSA-3xq5-wjfh-ppjc"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/moment/luxon/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:momentjs:luxon:1.4.6:*:*:*:*:node.js:*:*"
+	}
 }

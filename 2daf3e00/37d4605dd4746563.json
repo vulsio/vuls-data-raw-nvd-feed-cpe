@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:samsung:exynos_fimg2d_driver:-",
-  "title": [
-    {
-      "text": "Samsung Exynos FIMG2D Driver",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.samsung.com/us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://android.googlesource.com/kernel/exynos/+/6438dc30ae9a62e02b86c5f01616fba1364a2e5c/drivers/media/video/exynos/fimg2d/fimg2d_drv.c"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samsung:exynos_fimg2d_driver:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:samsung:exynos_fimg2d_driver:-",
+	"title": [
+		{
+			"text": "Samsung Exynos FIMG2D Driver",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.samsung.com/us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://android.googlesource.com/kernel/exynos/+/6438dc30ae9a62e02b86c5f01616fba1364a2e5c/drivers/media/video/exynos/fimg2d/fimg2d_drv.c"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samsung:exynos_fimg2d_driver:-:*:*:*:*:*:*:*"
+	}
 }

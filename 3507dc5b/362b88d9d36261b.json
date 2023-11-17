@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:playsms_project:playsms:0.9.7",
-  "deprecated": true,
-  "deprecation_date": "2020-07-06T17:38:22.513Z",
-  "title": [
-    {
-      "text": "playSMS 0.9.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/antonraharja/playSMS/"
-    },
-    {
-      "text": "Product",
-      "href": "https://playsms.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:playsms_project:playsms:0.9.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-06T13:38:22.513-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:playsms_project:playsms:0.9.7:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:playsms_project:playsms:0.9.7",
+	"deprecated": true,
+	"deprecation_date": "2020-07-06T17:38:22.513Z",
+	"title": [
+		{
+			"text": "playSMS 0.9.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/antonraharja/playSMS/"
+		},
+		{
+			"text": "Product",
+			"href": "https://playsms.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:playsms_project:playsms:0.9.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-06T13:38:22.513-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:playsms_project:playsms:0.9.7:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

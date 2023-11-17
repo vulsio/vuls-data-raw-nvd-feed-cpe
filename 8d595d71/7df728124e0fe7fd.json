@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:java:1.0.0:beta3",
-  "title": [
-    {
-      "text": "Kubernetes Java 1.0.0 Beta 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes-client/java/issues/1491"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes-client/java/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:java:1.0.0:beta3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:java:1.0.0:beta3",
+	"title": [
+		{
+			"text": "Kubernetes Java 1.0.0 Beta 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes-client/java/issues/1491"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes-client/java/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:java:1.0.0:beta3:*:*:*:*:*:*"
+	}
 }

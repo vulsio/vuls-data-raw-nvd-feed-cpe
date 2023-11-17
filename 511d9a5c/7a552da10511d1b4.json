@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:okfn:ckan:2.9.9",
-  "title": [
-    {
-      "text": "Open Knowledge Foundation CKAN 2.9.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ckan/ckan-docker-base/security/advisories/GHSA-c74x-xfvr-x5wg"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:okfn:ckan:2.9.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:okfn:ckan:2.9.9",
+	"title": [
+		{
+			"text": "Open Knowledge Foundation CKAN 2.9.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ckan/ckan-docker-base/security/advisories/GHSA-c74x-xfvr-x5wg"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:okfn:ckan:2.9.9:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:codologic:codoforum:5.1",
-  "title": [
-    {
-      "text": "Codologic Codoforum 5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://vikaran101.medium.com/codoforum-v5-1-authenticated-rce-my-first-cve-f49e19b8bc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Vikaran101/CVE-2022-31854/blob/main/exploit.py"
-    },
-    {
-      "text": "Product",
-      "href": "https://codoforum.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:codologic:codoforum:5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:codologic:codoforum:5.1",
+	"title": [
+		{
+			"text": "Codologic Codoforum 5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vikaran101.medium.com/codoforum-v5-1-authenticated-rce-my-first-cve-f49e19b8bc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Vikaran101/CVE-2022-31854/blob/main/exploit.py"
+		},
+		{
+			"text": "Product",
+			"href": "https://codoforum.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:codologic:codoforum:5.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openstack:os-vif:1.16.0",
-  "title": [
-    {
-      "text": "OpenStack os-vif 1.16.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.openstack.org/ossa/OSSA-2019-004.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.openstack.org/os-vif/latest/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/os-vif"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:os-vif:1.16.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:os-vif:1.16.0",
+	"title": [
+		{
+			"text": "OpenStack os-vif 1.16.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.openstack.org/ossa/OSSA-2019-004.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.openstack.org/os-vif/latest/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/os-vif"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:os-vif:1.16.0:*:*:*:*:*:*:*"
+	}
 }

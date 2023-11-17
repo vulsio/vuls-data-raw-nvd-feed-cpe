@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_service_delivery:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-13T20:13:03.943Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Service Delivery",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_service_delivery:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-13T16:13:03.943-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_service_delivery:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_service_delivery:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-13T20:13:03.943Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Service Delivery",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_service_delivery:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-13T16:13:03.943-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_service_delivery:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

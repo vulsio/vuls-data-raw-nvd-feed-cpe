@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:shapeshift:keepkey_firmware:-",
-  "title": [
-    {
-      "text": "ShapeShift KeepKey Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://shapeshift.io/#/coins"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/keepkey/keepkey-firmware/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:shapeshift:keepkey_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:shapeshift:keepkey_firmware:-",
+	"title": [
+		{
+			"text": "ShapeShift KeepKey Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://shapeshift.io/#/coins"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/keepkey/keepkey-firmware/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:shapeshift:keepkey_firmware:-:*:*:*:*:*:*:*"
+	}
 }

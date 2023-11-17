@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:connman:1.40",
-  "title": [
-    {
-      "text": "Intel Connman 1.40",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2022/01/25/1"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://git.kernel.org/pub/scm/network/connman/connman.git/commit/?id=25479cf866e60b0101cda0d80e825cd8128bb4eb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:connman:1.40:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:connman:1.40",
+	"title": [
+		{
+			"text": "Intel Connman 1.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2022/01/25/1"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://git.kernel.org/pub/scm/network/connman/connman.git/commit/?id=25479cf866e60b0101cda0d80e825cd8128bb4eb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:connman:1.40:*:*:*:*:*:*:*"
+	}
 }

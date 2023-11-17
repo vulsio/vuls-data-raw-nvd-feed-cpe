@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sparro:outbound_link_manager:1.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Sparro Outbound Link Manager 1.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://sparro.com.au/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/outbound-link-manager/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/outbound-link-manager/wordpress-outbound-link-manager-plugin-1-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sparro:outbound_link_manager:1.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:sparro:outbound_link_manager:1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sparro Outbound Link Manager 1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://sparro.com.au/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/outbound-link-manager/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/outbound-link-manager/wordpress-outbound-link-manager-plugin-1-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sparro:outbound_link_manager:1.1:*:*:*:*:wordpress:*:*"
+	}
 }

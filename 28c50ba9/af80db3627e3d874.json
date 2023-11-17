@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:loadbalancer:enterprise_va_max:8.3.8",
-  "title": [
-    {
-      "text": "Loadbalancer Enterprise VA Max 8.3.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://inf0seq.github.io/cve/2020/04/21/OS.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.loadbalancer.org/products/virtual/enterprise-va-max/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:loadbalancer:enterprise_va_max:8.3.8",
+	"title": [
+		{
+			"text": "Loadbalancer Enterprise VA Max 8.3.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://inf0seq.github.io/cve/2020/04/21/OS.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.loadbalancer.org/products/virtual/enterprise-va-max/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:loadbalancer:enterprise_va_max:8.3.8:*:*:*:*:*:*:*"
+	}
 }

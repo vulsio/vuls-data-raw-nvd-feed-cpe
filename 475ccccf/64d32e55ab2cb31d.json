@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hbs_project:hbs:-::~~~node.js~~",
-  "title": [
-    {
-      "text": "hbs Project hbs for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/hbs"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://securitylab.github.com/advisories/GHSL-2021-020-pillarjs-hbs/"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/pillarjs/hbs"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hbs_project:hbs:-:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:hbs_project:hbs:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "hbs Project hbs for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/hbs"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://securitylab.github.com/advisories/GHSL-2021-020-pillarjs-hbs/"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/pillarjs/hbs"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hbs_project:hbs:-:*:*:*:*:node.js:*:*"
+	}
 }

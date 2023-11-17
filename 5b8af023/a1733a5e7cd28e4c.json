@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:unicorn-engine:unicorn_engine:1.0.2",
-  "deprecated": true,
-  "deprecation_date": "2022-10-31T17:45:52.620Z",
-  "title": [
-    {
-      "text": "Unicorn Engine 1.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/unicorn-engine/unicorn/tags"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.unicorn-engine.org/changelog/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.unicorn-engine.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-31T13:45:52.620-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:unicorn-engine:unicorn_engine:1.0.2",
+	"deprecated": true,
+	"deprecation_date": "2022-10-31T17:45:52.620Z",
+	"title": [
+		{
+			"text": "Unicorn Engine 1.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/unicorn-engine/unicorn/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.unicorn-engine.org/changelog/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.unicorn-engine.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-31T13:45:52.620-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:unicorn-engine:unicorn_engine:1.0.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

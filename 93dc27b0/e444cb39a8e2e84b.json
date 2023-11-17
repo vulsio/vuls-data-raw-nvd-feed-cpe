@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:e3-1276_firmware:-",
-  "title": [
-    {
-      "text": "Intel Xeon E3-1276 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00247.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/78581/intel-xeon-processor-e3-v3-family.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:e3-1276_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:e3-1276_firmware:-",
+	"title": [
+		{
+			"text": "Intel Xeon E3-1276 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00247.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/78581/intel-xeon-processor-e3-v3-family.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:e3-1276_firmware:-:*:*:*:*:*:*:*"
+	}
 }

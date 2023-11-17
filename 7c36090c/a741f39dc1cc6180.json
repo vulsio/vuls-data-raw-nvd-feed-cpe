@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:link_layer_discovery_protocol:r231",
-  "title": [
-    {
-      "text": "Cisco Link Layer Discovery Protocol (LLDP) R231",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/td/docs/ios/cether/configuration/guide/ce_lldp-med.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvf23367"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:link_layer_discovery_protocol:r231:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:link_layer_discovery_protocol:r231",
+	"title": [
+		{
+			"text": "Cisco Link Layer Discovery Protocol (LLDP) R231",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/td/docs/ios/cether/configuration/guide/ce_lldp-med.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvf23367"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:link_layer_discovery_protocol:r231:*:*:*:*:*:*:*"
+	}
 }

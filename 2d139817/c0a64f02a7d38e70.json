@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:virustotal:virustotal:-",
-  "title": [
-    {
-      "text": "VirusTotal",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.virustotal.com/#/home/upload"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:virustotal:virustotal:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:virustotal:virustotal:-",
+	"title": [
+		{
+			"text": "VirusTotal",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.okta.com/security-blog/2018/06/issues-around-third-party-apple-code-signing-checks/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.virustotal.com/#/home/upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:virustotal:virustotal:-:*:*:*:*:*:*:*"
+	}
 }

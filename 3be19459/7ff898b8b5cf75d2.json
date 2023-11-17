@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zohocorp:manageengine_it360:10.3.3",
-  "deprecated": true,
-  "deprecation_date": "2019-07-15T17:46:01.257Z",
-  "title": [
-    {
-      "text": "ZohoCorp ManageEngine IT360 10.3.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://www.manageengine.com/it360/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zohocorp:manageengine_it360:10.3.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-15T13:46:01.257-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zohocorp:manageengine_it360:10.3.3:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zohocorp:manageengine_it360:10.3.3",
+	"deprecated": true,
+	"deprecation_date": "2019-07-15T17:46:01.257Z",
+	"title": [
+		{
+			"text": "ZohoCorp ManageEngine IT360 10.3.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://www.manageengine.com/it360/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zohocorp:manageengine_it360:10.3.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-15T13:46:01.257-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_it360:10.3.3:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

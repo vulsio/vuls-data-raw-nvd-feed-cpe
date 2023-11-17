@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:phillip_lougher:squashfs:4.1",
-  "deprecated": true,
-  "deprecation_date": "2019-10-21T16:53:22.720Z",
-  "title": [
-    {
-      "text": "Phillip Lougher Squashfs 4.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phillip_lougher:squashfs:4.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-21T12:53:22.720-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:squashfs_project:squashfs:4.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phillip_lougher:squashfs:4.1",
+	"deprecated": true,
+	"deprecation_date": "2019-10-21T16:53:22.720Z",
+	"title": [
+		{
+			"text": "Phillip Lougher Squashfs 4.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phillip_lougher:squashfs:4.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-21T12:53:22.720-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:squashfs_project:squashfs:4.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

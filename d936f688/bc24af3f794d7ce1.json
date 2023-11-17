@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:identity_manger:2.1.0",
-  "title": [
-    {
-      "text": "VMware Identity Manger 2.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.vmware.com/"
-    },
-    {
-      "text": "Version",
-      "href": "http://pubs.vmware.com/vidm-24/topic/com.vmware.ICbase/PDF/wsp-24-upgrade.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.vmware.com/security/advisories/VMSA-2016-0013.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:identity_manger:2.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:identity_manger:2.1.0",
+	"title": [
+		{
+			"text": "VMware Identity Manger 2.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.vmware.com/"
+		},
+		{
+			"text": "Version",
+			"href": "http://pubs.vmware.com/vidm-24/topic/com.vmware.ICbase/PDF/wsp-24-upgrade.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.vmware.com/security/advisories/VMSA-2016-0013.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:identity_manger:2.1.0:*:*:*:*:*:*:*"
+	}
 }

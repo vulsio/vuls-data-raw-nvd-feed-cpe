@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:netgear:mbr1517v2_firmware:-",
-  "title": [
-    {
-      "text": "NETGEAR MBR1517v2 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.manualslib.com/manual/757623/Netgear-Mbr1517v2.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netgear:mbr1517v2_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netgear:mbr1517v2_firmware:-",
+	"title": [
+		{
+			"text": "NETGEAR MBR1517v2 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.manualslib.com/manual/757623/Netgear-Mbr1517v2.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netgear:mbr1517v2_firmware:-:*:*:*:*:*:*:*"
+	}
 }

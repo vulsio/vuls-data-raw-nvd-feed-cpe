@@ -1,34 +1,34 @@
 {
-  "name": "cpe:/a:otrs:faq:2.0.8",
-  "title": [
-    {
-      "text": "Open Ticket Request System (OTRS) Faq 2.0.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.mail-archive.com/announce@otrs.org/msg00243.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/83287"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.otrs.com/product.xml"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.otrs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/OTRS/FAQ"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:otrs:faq:2.0.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:otrs:faq:2.0.8",
+	"title": [
+		{
+			"text": "Open Ticket Request System (OTRS) Faq 2.0.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.mail-archive.com/announce@otrs.org/msg00243.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/83287"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.otrs.com/product.xml"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.otrs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/OTRS/FAQ"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:otrs:faq:2.0.8:*:*:*:*:*:*:*"
+	}
 }

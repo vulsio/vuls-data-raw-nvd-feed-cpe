@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1",
-  "deprecated": true,
-  "deprecation_date": "2018-09-24T16:21:37.897Z",
-  "title": [
-    {
-      "text": "Schneider Electric Telvent Rtu Firmware C3414-500-s02j1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.schneider-electric.com/ww/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-070-01"
-    },
-    {
-      "text": "Version",
-      "href": "https://infrastructurecommunity.schneider-electric.com/message/364537#364537"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-09-24T12:21:37.897-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1",
+	"deprecated": true,
+	"deprecation_date": "2018-09-24T16:21:37.897Z",
+	"title": [
+		{
+			"text": "Schneider Electric Telvent Rtu Firmware C3414-500-s02j1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.schneider-electric.com/ww/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-070-01"
+		},
+		{
+			"text": "Version",
+			"href": "https://infrastructurecommunity.schneider-electric.com/message/364537#364537"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:schneider_electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-09-24T12:21:37.897-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:schneider-electric:telvent_rtu_firmware:c3414-500-s02j1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

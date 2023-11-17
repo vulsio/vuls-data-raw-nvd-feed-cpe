@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:projects_world_travel_management_system_project:projects_world_travel_management_system:1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-05-24T15:02:15.253Z",
-  "title": [
-    {
-      "text": "Projects World Travel Management System Project Projects World Travel Management System 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://projectworlds.in/free-projects/php-projects/travel-management-system-project-in-php-mysql/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:projects_world_travel_management_system_project:projects_world_travel_management_system:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-24T11:02:15.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:projectworlds:travel_management_system:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:projects_world_travel_management_system_project:projects_world_travel_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-05-24T15:02:15.253Z",
+	"title": [
+		{
+			"text": "Projects World Travel Management System Project Projects World Travel Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://projectworlds.in/free-projects/php-projects/travel-management-system-project-in-php-mysql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:projects_world_travel_management_system_project:projects_world_travel_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-24T11:02:15.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:projectworlds:travel_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

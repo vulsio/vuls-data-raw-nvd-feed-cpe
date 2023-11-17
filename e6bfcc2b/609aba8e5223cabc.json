@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dropbox:merou:-",
-  "title": [
-    {
-      "text": "Dropbox Merou",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/243305"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/dropbox/merou/commit/d93087973afa26bc0a2d0a5eb5c0fde748bdd107"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dropbox:merou:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dropbox:merou:-",
+	"title": [
+		{
+			"text": "Dropbox Merou",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/243305"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/dropbox/merou/commit/d93087973afa26bc0a2d0a5eb5c0fde748bdd107"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dropbox:merou:-:*:*:*:*:*:*:*"
+	}
 }

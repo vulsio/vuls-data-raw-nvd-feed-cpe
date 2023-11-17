@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:sony:srs-xb43:-",
-  "title": [
-    {
-      "text": "Sony SRS-XB43",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.nassiben.com/glowworm-attack"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.sony.com/ug/electronics/wireless-speakers/srs-xb43"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38544.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sony:srs-xb43:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:sony:srs-xb43:-",
+	"title": [
+		{
+			"text": "Sony SRS-XB43",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.nassiben.com/glowworm-attack"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sony.com/ug/electronics/wireless-speakers/srs-xb43"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38544.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sony:srs-xb43:-:*:*:*:*:*:*:*"
+	}
 }

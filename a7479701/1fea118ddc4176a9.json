@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2008:-::itanium",
-  "deprecated": true,
-  "deprecation_date": "2020-09-28T12:58:57.230Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 Itanium",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:itanium:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-28T08:58:57.230-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:-:*:itanium:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2008:-::itanium",
+	"deprecated": true,
+	"deprecation_date": "2020-09-28T12:58:57.230Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 Itanium",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:itanium:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-28T08:58:57.230-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:-:*:itanium:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

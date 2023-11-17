@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:netatalk_project:netatalk:2.2.2",
-  "deprecated": true,
-  "deprecation_date": "2023-09-29T11:15:00.340Z",
-  "title": [
-    {
-      "text": "Netatalk Project Netatalk 2.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/netatalk/files/netatalk/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netatalk_project:netatalk:2.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-29T07:15:00.340-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:netatalk:netatalk:2.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netatalk_project:netatalk:2.2.2",
+	"deprecated": true,
+	"deprecation_date": "2023-09-29T11:15:00.340Z",
+	"title": [
+		{
+			"text": "Netatalk Project Netatalk 2.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/netatalk/files/netatalk/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netatalk_project:netatalk:2.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-29T07:15:00.340-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:netatalk:netatalk:2.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

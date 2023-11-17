@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:puppet:facter:3.14.12",
-  "title": [
-    {
-      "text": "Puppet Facter 3.14.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://puppet.com/docs/pe/2021.2/osp/release_notes_facter.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/puppetlabs/facter/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://puppet.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppet:facter:3.14.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:puppet:facter:3.14.12",
+	"title": [
+		{
+			"text": "Puppet Facter 3.14.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://puppet.com/docs/pe/2021.2/osp/release_notes_facter.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/puppetlabs/facter/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://puppet.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppet:facter:3.14.12:*:*:*:*:*:*:*"
+	}
 }

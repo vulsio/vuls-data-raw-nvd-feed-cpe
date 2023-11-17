@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ntp:ntp:4.0",
-  "title": [
-    {
-      "text": "NTP 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/15406"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.ntp.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ntp:ntp:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ntp:ntp:4.0",
+	"title": [
+		{
+			"text": "NTP 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/15406"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.ntp.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ntp:ntp:4.0:*:*:*:*:*:*:*"
+	}
 }

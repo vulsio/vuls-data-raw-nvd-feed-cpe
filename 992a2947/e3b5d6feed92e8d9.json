@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gradle:enterprise:2020.2.4",
-  "title": [
-    {
-      "text": "Gradle Enterprise 2020.2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.gradle.com/advisory/CVE-2020-15772"
-    },
-    {
-      "text": "Version",
-      "href": "https://gradle.com/enterprise/releases/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gradle:enterprise:2020.2.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gradle:enterprise:2020.2.4",
+	"title": [
+		{
+			"text": "Gradle Enterprise 2020.2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.gradle.com/advisory/CVE-2020-15772"
+		},
+		{
+			"text": "Version",
+			"href": "https://gradle.com/enterprise/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gradle:enterprise:2020.2.4:*:*:*:*:*:*:*"
+	}
 }

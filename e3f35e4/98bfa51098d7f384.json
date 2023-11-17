@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:java_sdk:5.0.16.11::~~technology~~~",
-  "title": [
-    {
-      "text": "IBM Java SDK 5.0.16.11 Technology Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/apar/IV75182"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/security-bulletin-multiple-vulnerabilities-current-releases-ibm%C2%AE-sdk-java%E2%84%A2-technology-edition-9"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:java_sdk:5.0.16.11:*:*:*:technology:*:*:*"
-  }
+	"name": "cpe:/a:ibm:java_sdk:5.0.16.11::~~technology~~~",
+	"title": [
+		{
+			"text": "IBM Java SDK 5.0.16.11 Technology Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/apar/IV75182"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-multiple-vulnerabilities-current-releases-ibm%C2%AE-sdk-java%E2%84%A2-technology-edition-9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:java_sdk:5.0.16.11:*:*:*:technology:*:*:*"
+	}
 }

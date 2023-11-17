@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:ethernet_controller_xl710-am2:-",
-  "title": [
-    {
-      "text": "Intel ETHERNET CONTROLLER XL710-AM2 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/24586/700-series-controllers-up-to-40gbe.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00554.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:ethernet_controller_xl710-am2:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:ethernet_controller_xl710-am2:-",
+	"title": [
+		{
+			"text": "Intel ETHERNET CONTROLLER XL710-AM2 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/24586/700-series-controllers-up-to-40gbe.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00554.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:ethernet_controller_xl710-am2:-:*:*:*:*:*:*:*"
+	}
 }

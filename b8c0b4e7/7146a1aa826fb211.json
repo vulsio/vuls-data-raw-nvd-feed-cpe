@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.11:rc6",
-  "title": [
-    {
-      "text": "Linux Kernel 5.11 Release Candidate 6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/torvalds/linux/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.11:rc6:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.11:rc6",
+	"title": [
+		{
+			"text": "Linux Kernel 5.11 Release Candidate 6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/torvalds/linux/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.11:rc6:*:*:*:*:*:*"
+	}
 }

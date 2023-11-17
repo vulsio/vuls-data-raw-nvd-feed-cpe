@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:stripe:stripe_cli:1.4.2",
-  "title": [
-    {
-      "text": "Stripe CLI 1.4.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://stripe.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/stripe/stripe-cli/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/stripe/stripe-cli/security/advisories/GHSA-4cx6-fj7j-pjx9"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:stripe:stripe_cli:1.4.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:stripe:stripe_cli:1.4.2",
+	"title": [
+		{
+			"text": "Stripe CLI 1.4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://stripe.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/stripe/stripe-cli/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/stripe/stripe-cli/security/advisories/GHSA-4cx6-fj7j-pjx9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stripe:stripe_cli:1.4.2:*:*:*:*:*:*:*"
+	}
 }

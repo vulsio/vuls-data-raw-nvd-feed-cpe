@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:vmware:spring:2.8.2::~~~apache_kafka~~",
-  "deprecated": true,
-  "deprecation_date": "2023-10-18T17:45:52.183Z",
-  "title": [
-    {
-      "text": "VMware Spring for Apache Kafka 2.8.2 for Apache Kafka",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://spring.io/projects/spring-kafka"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-kafka/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/spring-projects/spring-kafka"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:spring:2.8.2:*:*:*:*:apache_kafka:*:*",
-    "deprecation": {
-      "date": "2023-10-18T13:45:52.183-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:spring_for_apache_kafka:2.8.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:spring:2.8.2::~~~apache_kafka~~",
+	"deprecated": true,
+	"deprecation_date": "2023-10-18T17:45:52.183Z",
+	"title": [
+		{
+			"text": "VMware Spring for Apache Kafka 2.8.2 for Apache Kafka",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-kafka"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-kafka/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/spring-projects/spring-kafka"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring:2.8.2:*:*:*:*:apache_kafka:*:*",
+		"deprecation": {
+			"date": "2023-10-18T13:45:52.183-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:spring_for_apache_kafka:2.8.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

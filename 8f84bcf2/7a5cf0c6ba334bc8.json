@@ -1,16 +1,16 @@
 {
-  "name": "cpe:/a:justsystems:atok_subscription_service:-:windows",
-  "title": [
-    {
-      "text": "ジャストシステム ATOK 定額制サービス (Windows)",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "JustSystems ATOK subscription service (Windows)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:justsystems:atok_subscription_service:-:windows:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:justsystems:atok_subscription_service:-:windows",
+	"title": [
+		{
+			"text": "JustSystems ATOK subscription service (Windows)",
+			"lang": "en-US"
+		},
+		{
+			"text": "ジャストシステム ATOK 定額制サービス (Windows)",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:justsystems:atok_subscription_service:-:windows:*:*:*:*:*:*"
+	}
 }

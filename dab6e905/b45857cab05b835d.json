@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:debian:apt:1.0.3",
-  "deprecated": true,
-  "deprecation_date": "2020-01-08T15:13:06.397Z",
-  "title": [
-    {
-      "text": "Debian APT 1.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor product information",
-      "href": "https://packages.debian.org/search?keywords=apt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:apt:1.0.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-08T10:13:06.397-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:debian:advanced_package_tool:1.0.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:apt:1.0.3",
+	"deprecated": true,
+	"deprecation_date": "2020-01-08T15:13:06.397Z",
+	"title": [
+		{
+			"text": "Debian APT 1.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor product information",
+			"href": "https://packages.debian.org/search?keywords=apt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:apt:1.0.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-08T10:13:06.397-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:debian:advanced_package_tool:1.0.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

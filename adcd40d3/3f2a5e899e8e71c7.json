@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:dell:sonicwall_analyzer:8.0",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T13:11:33.687Z",
-  "title": [
-    {
-      "text": "Dell SonicWALL Analyzer 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.software.dell.com/sonicwall-analyzer/release-notes-guides"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:sonicwall_analyzer:8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T09:11:33.687-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sonicwall:analyzer:8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:sonicwall_analyzer:8.0",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T13:11:33.687Z",
+	"title": [
+		{
+			"text": "Dell SonicWALL Analyzer 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.software.dell.com/sonicwall-analyzer/release-notes-guides"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:sonicwall_analyzer:8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T09:11:33.687-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sonicwall:analyzer:8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

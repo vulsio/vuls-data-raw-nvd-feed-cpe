@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:google:protobuf:3.6.0",
-  "deprecated": true,
-  "deprecation_date": "2021-01-27T16:42:23.517Z",
-  "title": [
-    {
-      "text": "Google Protobuf 3.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://developers.google.com/protocol-buffers/docs/overview"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/protocolbuffers/protobuf/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:protobuf:3.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-27T11:42:23.517-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:protobuf:3.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:google:protobuf:3.6.0",
+	"deprecated": true,
+	"deprecation_date": "2021-01-27T16:42:23.517Z",
+	"title": [
+		{
+			"text": "Google Protobuf 3.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developers.google.com/protocol-buffers/docs/overview"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/protocolbuffers/protobuf/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:protobuf:3.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-27T11:42:23.517-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:protobuf:3.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

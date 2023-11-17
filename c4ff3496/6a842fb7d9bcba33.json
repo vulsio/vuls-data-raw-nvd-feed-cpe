@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:apache:soap:2.3",
-  "title": [
-    {
-      "text": "Apache Software Foundation SOAP 2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://svn.apache.org/repos/asf/webservices/archive/soap/trunk/java/docs/intro.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45378.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread/g4l64s283njhnph2otx7q4gs2j952d31"
-    },
-    {
-      "text": "Version",
-      "href": "http://svn.apache.org/repos/asf/webservices/archive/soap/tags/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:soap:2.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:soap:2.3",
+	"title": [
+		{
+			"text": "Apache Software Foundation SOAP 2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://svn.apache.org/repos/asf/webservices/archive/soap/trunk/java/docs/intro.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45378.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/g4l64s283njhnph2otx7q4gs2j952d31"
+		},
+		{
+			"text": "Version",
+			"href": "http://svn.apache.org/repos/asf/webservices/archive/soap/tags/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:soap:2.3:*:*:*:*:*:*:*"
+	}
 }

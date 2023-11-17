@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:welcart:e-commerce:1.8.2::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-09-13T19:00:50.707Z",
-  "title": [
-    {
-      "text": "Welcart e-Commerce for WordPress 1.8.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/usc-e-shop/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:welcart:e-commerce:1.8.2:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-09-13T15:00:50.707-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:collne:welcart_e-commerce:1.8.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:welcart:e-commerce:1.8.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-09-13T19:00:50.707Z",
+	"title": [
+		{
+			"text": "Welcart e-Commerce for WordPress 1.8.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/usc-e-shop/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:welcart:e-commerce:1.8.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-09-13T15:00:50.707-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:collne:welcart_e-commerce:1.8.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

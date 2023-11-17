@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:git-promise_project:git-promise:1.0.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Git-promise Project Git-promise 1.0.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gist.github.com/lirantal/9da1fceb32f5279eb76a5fc1cb9707dd"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-GITPROMISE-2434310"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/git-promise"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git-promise_project:git-promise:1.0.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:git-promise_project:git-promise:1.0.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Git-promise Project Git-promise 1.0.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gist.github.com/lirantal/9da1fceb32f5279eb76a5fc1cb9707dd"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-GITPROMISE-2434310"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/git-promise"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git-promise_project:git-promise:1.0.0:*:*:*:*:node.js:*:*"
+	}
 }

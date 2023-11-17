@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mariadb:mariadb:2.2.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "MariaDB 2.2.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/mariadb"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mariadb-corporation/mariadb-connector-nodejs"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://mariadb.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mariadb:mariadb:2.2.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:mariadb:mariadb:2.2.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "MariaDB 2.2.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/mariadb"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mariadb-corporation/mariadb-connector-nodejs"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mariadb.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mariadb:mariadb:2.2.0:*:*:*:*:node.js:*:*"
+	}
 }

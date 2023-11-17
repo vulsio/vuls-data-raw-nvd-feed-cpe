@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:python:python:3.4.8",
-  "deprecated": true,
-  "deprecation_date": "2020-07-09T16:18:59.480Z",
-  "title": [
-    {
-      "text": "Python 3.4.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.python.org/doc/versions/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python:python:3.4.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-09T12:18:59.480-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:python:python:3.4.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:python:python:3.4.8",
+	"deprecated": true,
+	"deprecation_date": "2020-07-09T16:18:59.480Z",
+	"title": [
+		{
+			"text": "Python 3.4.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.python.org/doc/versions/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python:python:3.4.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-09T12:18:59.480-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:python:3.4.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

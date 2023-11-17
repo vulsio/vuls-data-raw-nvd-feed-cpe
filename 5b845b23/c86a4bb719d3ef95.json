@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:messaging:1.7",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T18:25:54.233Z",
-  "title": [
-    {
-      "text": "Computer Associates CAM 1.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:messaging:1.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T14:25:54.233-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:messaging:1.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:messaging:1.7",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T18:25:54.233Z",
+	"title": [
+		{
+			"text": "Computer Associates CAM 1.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:messaging:1.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T14:25:54.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:messaging:1.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

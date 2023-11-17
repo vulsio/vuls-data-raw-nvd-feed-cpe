@@ -1,54 +1,54 @@
 {
-  "name": "cpe:/a:c-ares:c-ares:1.7.3",
-  "title": [
-    {
-      "text": "c-ares 1.7.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://lists.debian.org/debian-lts-announce/2023/06/msg00034.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.debian.org/security/2023/dsa-5419"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UBFWILTA33LOSV23P44FGTQQIDRJHIY7/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/B5Z5XFNXTNPTCBBVXFDNZQVLLIE6VRBY/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/c-ares/c-ares/releases/tag/cares-1_19_1"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/c-ares/c-ares/security/advisories/GHSA-9g78-jv2r-p7vc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/c-ares/c-ares/issues/333"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://c-ares.org/changelog.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://c-ares.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/c-ares/c-ares/issues/496"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:c-ares:c-ares:1.7.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:c-ares:c-ares:1.7.3",
+	"title": [
+		{
+			"text": "c-ares 1.7.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://lists.debian.org/debian-lts-announce/2023/06/msg00034.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.debian.org/security/2023/dsa-5419"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/UBFWILTA33LOSV23P44FGTQQIDRJHIY7/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/B5Z5XFNXTNPTCBBVXFDNZQVLLIE6VRBY/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/c-ares/c-ares/releases/tag/cares-1_19_1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/c-ares/c-ares/security/advisories/GHSA-9g78-jv2r-p7vc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/c-ares/c-ares/issues/333"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://c-ares.org/changelog.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://c-ares.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/c-ares/c-ares/issues/496"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:c-ares:c-ares:1.7.3:*:*:*:*:*:*:*"
+	}
 }

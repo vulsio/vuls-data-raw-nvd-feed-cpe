@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bitpark_project:bitpark:-",
-  "title": [
-    {
-      "text": "Bitpark Project Bitpark",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x38c04d415f6740c7700185533a64b5f44cbf684c#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitpark_project:bitpark:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bitpark_project:bitpark:-",
+	"title": [
+		{
+			"text": "Bitpark Project Bitpark",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x38c04d415f6740c7700185533a64b5f44cbf684c#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitpark_project:bitpark:-:*:*:*:*:*:*:*"
+	}
 }

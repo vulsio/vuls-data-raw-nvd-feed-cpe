@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:dynamics_365:9.0::~~on-premises~~~",
-  "title": [
-    {
-      "text": "Microsoft Dynamics 365 9.0 (on-premises)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16878"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=100410"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:dynamics_365:9.0:*:*:*:on-premises:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:dynamics_365:9.0::~~on-premises~~~",
+	"title": [
+		{
+			"text": "Microsoft Dynamics 365 9.0 (on-premises)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-16878"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=100410"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:dynamics_365:9.0:*:*:*:on-premises:*:*:*"
+	}
 }

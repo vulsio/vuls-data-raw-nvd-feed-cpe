@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:docker_enterprise:2.0.0",
-  "title": [
-    {
-      "text": "Docker Enterprise 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.docker.com/install/overview/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.docker.com/products/docker-enterprise"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker_enterprise:2.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:docker_enterprise:2.0.0",
+	"title": [
+		{
+			"text": "Docker Enterprise 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.docker.com/install/overview/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.docker.com/products/docker-enterprise"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker_enterprise:2.0.0:*:*:*:*:*:*:*"
+	}
 }

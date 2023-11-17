@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:joomla:joomla%21:3.8.12",
-  "deprecated": true,
-  "deprecation_date": "2020-10-19T12:27:46.973Z",
-  "title": [
-    {
-      "text": "Joomla! 3.8.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.joomla.org/announcements/release-news.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://downloads.joomla.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:joomla:joomla\\!:3.8.12:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-19T08:27:46.973-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:joomla:joomla\\!:3.8.12:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:joomla:joomla%21:3.8.12",
+	"deprecated": true,
+	"deprecation_date": "2020-10-19T12:27:46.973Z",
+	"title": [
+		{
+			"text": "Joomla! 3.8.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.joomla.org/announcements/release-news.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://downloads.joomla.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joomla:joomla\\!:3.8.12:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-19T08:27:46.973-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:joomla:joomla\\!:3.8.12:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

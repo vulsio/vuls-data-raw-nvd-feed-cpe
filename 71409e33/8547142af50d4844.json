@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:freebsd:libfetch:-",
-  "title": [
-    {
-      "text": "FreeBSD libfetch",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/freebsd/freebsd-src/tree/main/lib/libfetch"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.alpinelinux.org/alpine/apk-tools/-/issues/10749"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/36xxx/CVE-2021-36159.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freebsd:libfetch:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:freebsd:libfetch:-",
+	"title": [
+		{
+			"text": "FreeBSD libfetch",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/freebsd/freebsd-src/tree/main/lib/libfetch"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.alpinelinux.org/alpine/apk-tools/-/issues/10749"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/36xxx/CVE-2021-36159.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freebsd:libfetch:-:*:*:*:*:*:*:*"
+	}
 }

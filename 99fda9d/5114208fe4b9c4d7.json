@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:asa_5505_firmware:099.017%28015.050%29",
-  "title": [
-    {
-      "text": "Cisco ASA 5505 Firmware 099.017(015.050)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-dos-Unk689XY"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvx79526"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:asa_5505_firmware:099.017\\(015.050\\):*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:asa_5505_firmware:099.017%28015.050%29",
+	"title": [
+		{
+			"text": "Cisco ASA 5505 Firmware 099.017(015.050)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-dos-Unk689XY"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvx79526"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:asa_5505_firmware:099.017\\(015.050\\):*:*:*:*:*:*:*"
+	}
 }

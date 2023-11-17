@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:adobe:coldfusion:2018:update_2",
-  "deprecated": true,
-  "deprecation_date": "2020-09-04T14:21:49.597Z",
-  "title": [
-    {
-      "text": "Adobe ColdFusion 2018 Update 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-2018-update-3.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:coldfusion:2018:update_2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-04T10:21:49.597-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:coldfusion:2018:update2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:coldfusion:2018:update_2",
+	"deprecated": true,
+	"deprecation_date": "2020-09-04T14:21:49.597Z",
+	"title": [
+		{
+			"text": "Adobe ColdFusion 2018 Update 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-2018-update-3.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:coldfusion:2018:update_2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-04T10:21:49.597-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:coldfusion:2018:update2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

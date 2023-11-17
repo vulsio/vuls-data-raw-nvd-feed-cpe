@@ -1,46 +1,46 @@
 {
-  "name": "cpe:/h:cisco:vedge-1000:-",
-  "title": [
-    {
-      "text": "Cisco vEdge-1000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-cloud-router-data-sheet-cte-en.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-vedge-routers-data-sheet-cte-en.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180718-sdwan-cmdinj"
-    },
-    {
-      "text": "Product",
-      "href": "https://software.cisco.com/download/home/286320999"
-    },
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
-    },
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/06Deploy_the_vSmart_Controller/03Configure_the_vSmart_Controller"
-    },
-    {
-      "text": "Product",
-      "href": "https://software.cisco.com/download/home/286320990/type/286321106/release/18.3.1"
-    },
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:vedge-1000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cisco:vedge-1000:-",
+	"title": [
+		{
+			"text": "Cisco vEdge-1000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-cloud-router-data-sheet-cte-en.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/dam/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-vedge-routers-data-sheet-cte-en.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180718-sdwan-cmdinj"
+		},
+		{
+			"text": "Product",
+			"href": "https://software.cisco.com/download/home/286320999"
+		},
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
+		},
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/06Deploy_the_vSmart_Controller/03Configure_the_vSmart_Controller"
+		},
+		{
+			"text": "Product",
+			"href": "https://software.cisco.com/download/home/286320990/type/286321106/release/18.3.1"
+		},
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:vedge-1000:-:*:*:*:*:*:*:*"
+	}
 }

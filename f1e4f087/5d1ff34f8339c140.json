@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:genesys:tftp_server:-",
-  "title": [
-    {
-      "text": "Genesys TFTP Server -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://help.genesys.com/pureconnect/mergedprojects/wh_tr/mergedprojects/wh_tr_polycom_phones/desktop/configuring_the_tftp_server1.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/YSaxon/TFTPlunder"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:genesys:tftp_server:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:genesys:tftp_server:-",
+	"title": [
+		{
+			"text": "Genesys TFTP Server -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://help.genesys.com/pureconnect/mergedprojects/wh_tr/mergedprojects/wh_tr_polycom_phones/desktop/configuring_the_tftp_server1.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/YSaxon/TFTPlunder"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:genesys:tftp_server:-:*:*:*:*:*:*:*"
+	}
 }

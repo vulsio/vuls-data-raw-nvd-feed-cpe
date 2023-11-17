@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nasm:network_assembler:2.15.04:rc3",
-  "deprecated": true,
-  "deprecation_date": "2022-09-02T16:32:16.000Z",
-  "title": [
-    {
-      "text": "NASM Network Assembler 2.15.04 Release Candidate 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.nasm.us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.nasm.us/show_bug.cgi?id=3392712"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nasm:network_assembler:2.15.04:rc3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-02T12:32:16.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nasm:netwide_assembler:2.15.04:rc3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nasm:network_assembler:2.15.04:rc3",
+	"deprecated": true,
+	"deprecation_date": "2022-09-02T16:32:16.000Z",
+	"title": [
+		{
+			"text": "NASM Network Assembler 2.15.04 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nasm.us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.nasm.us/show_bug.cgi?id=3392712"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nasm:network_assembler:2.15.04:rc3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-02T12:32:16.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nasm:netwide_assembler:2.15.04:rc3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

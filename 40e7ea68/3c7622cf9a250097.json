@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jre:1.8.0:update_172",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T14:57:14.333Z",
-  "title": [
-    {
-      "text": "Oracle JRE 1.8.0 Update 172",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/technetwork/java/javase/8u172-relnotes-4308893.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jre:1.8.0:update_172:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T10:57:14.333-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jre:1.8.0:update172:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jre:1.8.0:update_172",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T14:57:14.333Z",
+	"title": [
+		{
+			"text": "Oracle JRE 1.8.0 Update 172",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/technetwork/java/javase/8u172-relnotes-4308893.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jre:1.8.0:update_172:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T10:57:14.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jre:1.8.0:update172:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:oracle:mysql_server:5.7.41",
-  "title": [
-    {
-      "text": "Oracle MySQL Server 5.7.41",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpuapr2023.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql_server:5.7.41:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql_server:5.7.41",
+	"title": [
+		{
+			"text": "Oracle MySQL Server 5.7.41",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2023.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql_server:5.7.41:*:*:*:*:*:*:*"
+	}
 }

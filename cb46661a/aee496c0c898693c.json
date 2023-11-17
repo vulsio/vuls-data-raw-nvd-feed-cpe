@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtx1100:8.03.76",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:37.233Z",
-  "title": [
-    {
-      "text": "Yamaha RTX1100 8.03.76",
-      "lang": "en-US"
-    },
-    {
-      "text": "ヤマハ RTX1100 8.03.76",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtx1100:8.03.76:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:37.233-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtx1100:8.03.76:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtx1100:8.03.76",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:37.233Z",
+	"title": [
+		{
+			"text": "Yamaha RTX1100 8.03.76",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RTX1100 8.03.76",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtx1100:8.03.76:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:37.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtx1100:8.03.76:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

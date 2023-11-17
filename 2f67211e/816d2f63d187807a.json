@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e5:2630l",
-  "deprecated": true,
-  "deprecation_date": "2020-05-05T11:29:45.407Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5 2630L",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e5:2630l:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-05T07:29:45.407-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5_2630l:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e5:2630l",
+	"deprecated": true,
+	"deprecation_date": "2020-05-05T11:29:45.407Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5 2630L",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e5:2630l:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-05T07:29:45.407-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5_2630l:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

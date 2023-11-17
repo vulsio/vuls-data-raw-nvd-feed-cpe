@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:fnl:scientific_linux:5.7",
-  "deprecated": true,
-  "deprecation_date": "2020-03-24T15:35:28.047Z",
-  "title": [
-    {
-      "text": "Fermi National Accelerator Laboratory Scientific Linux 5.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.scientificlinux.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.scientificlinux.org/downloads/sl-versions/sl5/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fnl:scientific_linux:5.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-24T11:35:28.047-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:fnal:scientific_linux:5.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:fnl:scientific_linux:5.7",
+	"deprecated": true,
+	"deprecation_date": "2020-03-24T15:35:28.047Z",
+	"title": [
+		{
+			"text": "Fermi National Accelerator Laboratory Scientific Linux 5.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.scientificlinux.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.scientificlinux.org/downloads/sl-versions/sl5/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fnl:scientific_linux:5.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-24T11:35:28.047-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:fnal:scientific_linux:5.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

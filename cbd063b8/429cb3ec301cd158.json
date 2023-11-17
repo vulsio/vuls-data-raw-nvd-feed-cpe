@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puppetlabs:facter:1.6.6:rc2",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T12:41:53.193Z",
-  "title": [
-    {
-      "text": "Puppet Labs Facter 1.6.6 release candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product changelog",
-      "href": "https://github.com/puppetlabs/facter/releases"
-    },
-    {
-      "text": "Vendor website",
-      "href": "http://puppetlabs.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:facter:1.6.6:rc2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-11T08:41:53.193-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:facter:1.6.6:rc2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:facter:1.6.6:rc2",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T12:41:53.193Z",
+	"title": [
+		{
+			"text": "Puppet Labs Facter 1.6.6 release candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product changelog",
+			"href": "https://github.com/puppetlabs/facter/releases"
+		},
+		{
+			"text": "Vendor website",
+			"href": "http://puppetlabs.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:facter:1.6.6:rc2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-11T08:41:53.193-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:facter:1.6.6:rc2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

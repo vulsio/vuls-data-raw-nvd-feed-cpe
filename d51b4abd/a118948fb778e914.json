@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:tizen:tizen:-",
-  "deprecated": true,
-  "deprecation_date": "2020-02-07T16:02:49.717Z",
-  "title": [
-    {
-      "text": "Tizen",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-07T11:02:49.717-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:tizen:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:tizen:tizen:-",
+	"deprecated": true,
+	"deprecation_date": "2020-02-07T16:02:49.717Z",
+	"title": [
+		{
+			"text": "Tizen",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-07T11:02:49.717-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:tizen:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

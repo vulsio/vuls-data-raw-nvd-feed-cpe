@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:firefly-iii:flrefly_iii:3.3.9",
-  "deprecated": true,
-  "deprecation_date": "2020-12-16T16:53:16.387Z",
-  "title": [
-    {
-      "text": "Firefly III 3.3.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://firefly-iii.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/firefly-iii/firefly-iii/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:firefly-iii:flrefly_iii:3.3.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-16T11:53:16.387-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:firefly-iii:firefly_iii:3.3.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:firefly-iii:flrefly_iii:3.3.9",
+	"deprecated": true,
+	"deprecation_date": "2020-12-16T16:53:16.387Z",
+	"title": [
+		{
+			"text": "Firefly III 3.3.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://firefly-iii.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/firefly-iii/firefly-iii/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:firefly-iii:flrefly_iii:3.3.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-16T11:53:16.387-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:firefly-iii:firefly_iii:3.3.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

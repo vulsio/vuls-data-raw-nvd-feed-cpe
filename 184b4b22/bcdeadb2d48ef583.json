@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:jura:e8_firmware:-",
-  "title": [
-    {
-      "text": "Jura E8 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentestpartners.com/security-blog/hacking-the-nespresso-prodigio-and-jura-e8-coffee-machines/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://us.jura.com/en"
-    },
-    {
-      "text": "Product",
-      "href": "https://us.jura.com/en/homeproducts/machines/E8-NA-15341-Piano-White"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:jura:e8_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:jura:e8_firmware:-",
+	"title": [
+		{
+			"text": "Jura E8 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentestpartners.com/security-blog/hacking-the-nespresso-prodigio-and-jura-e8-coffee-machines/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://us.jura.com/en"
+		},
+		{
+			"text": "Product",
+			"href": "https://us.jura.com/en/homeproducts/machines/E8-NA-15341-Piano-White"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:jura:e8_firmware:-:*:*:*:*:*:*:*"
+	}
 }

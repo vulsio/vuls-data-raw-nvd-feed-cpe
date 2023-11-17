@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:redhat:wildfly:11.0.0",
-  "deprecated": true,
-  "deprecation_date": "2023-02-17T22:06:33.967Z",
-  "title": [
-    {
-      "text": "Red Hat WildFly 11.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://wildfly.org/downloads/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-17T17:06:33.967-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:wildfly:11.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:wildfly:11.0.0",
+	"deprecated": true,
+	"deprecation_date": "2023-02-17T22:06:33.967Z",
+	"title": [
+		{
+			"text": "Red Hat WildFly 11.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://wildfly.org/downloads/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly:11.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-17T17:06:33.967-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:wildfly:11.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nasm:nasm:2.11.01",
-  "deprecated": true,
-  "deprecation_date": "2018-10-29T16:59:52.787Z",
-  "title": [
-    {
-      "text": "NASM 2.11.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.nasm.us/doc/nasmdocc.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.nasm.us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nasm:nasm:2.11.01:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-10-29T12:59:52.787-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nasm:netwide_assembler:2.11.01:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nasm:nasm:2.11.01",
+	"deprecated": true,
+	"deprecation_date": "2018-10-29T16:59:52.787Z",
+	"title": [
+		{
+			"text": "NASM 2.11.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.nasm.us/doc/nasmdocc.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nasm.us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nasm:nasm:2.11.01:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-10-29T12:59:52.787-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nasm:netwide_assembler:2.11.01:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

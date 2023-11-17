@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:canonical:apparmor:-",
-  "title": [
-    {
-      "text": "Canonical AppArmor",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wiki.ubuntu.com/AppArmor"
-    },
-    {
-      "text": "Product",
-      "href": "https://gitlab.com/apparmor/apparmor"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:apparmor:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:canonical:apparmor:-",
+	"title": [
+		{
+			"text": "Canonical AppArmor",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wiki.ubuntu.com/AppArmor"
+		},
+		{
+			"text": "Product",
+			"href": "https://gitlab.com/apparmor/apparmor"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:apparmor:-:*:*:*:*:*:*:*"
+	}
 }

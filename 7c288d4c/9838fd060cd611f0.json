@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:atlassian:crucible:4.6.0",
-  "title": [
-    {
-      "text": "Atlassian Crucible 4.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://jira.atlassian.com/browse/CRUC-8201?jql=project%20%3D%20CRUC%20AND%20fixVersion%20%3D%204.6.0"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.atlassian.com/software/crucible/download-archives"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:crucible:4.6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:atlassian:crucible:4.6.0",
+	"title": [
+		{
+			"text": "Atlassian Crucible 4.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://jira.atlassian.com/browse/CRUC-8201?jql=project%20%3D%20CRUC%20AND%20fixVersion%20%3D%204.6.0"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.atlassian.com/software/crucible/download-archives"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:crucible:4.6.0:*:*:*:*:*:*:*"
+	}
 }

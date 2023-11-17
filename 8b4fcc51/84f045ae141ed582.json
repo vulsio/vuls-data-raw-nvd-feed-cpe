@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:snowflake:snowflake_connector:1.2.5::~~~.net~~",
-  "title": [
-    {
-      "text": "Snowflake Connector 1.2.5 for .Net",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/snowflakedb/snowflake-connector-net/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/snowflakedb/snowflake-connector-net/security/advisories/GHSA-223g-8w3x-98wr"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:snowflake:snowflake_connector:1.2.5:*:*:*:*:.net:*:*"
-  }
+	"name": "cpe:/a:snowflake:snowflake_connector:1.2.5::~~~.net~~",
+	"title": [
+		{
+			"text": "Snowflake Connector 1.2.5 for .Net",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/snowflakedb/snowflake-connector-net/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/snowflakedb/snowflake-connector-net/security/advisories/GHSA-223g-8w3x-98wr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:snowflake:snowflake_connector:1.2.5:*:*:*:*:.net:*:*"
+	}
 }

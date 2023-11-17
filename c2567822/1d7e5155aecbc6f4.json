@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/h:netgear:r8500:-",
-  "title": [
-    {
-      "text": "NETGEAR R8500",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/netgear_cgi_unauthorized_access_vulnerability.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:netgear:r8500:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:netgear:r8500:-",
+	"title": [
+		{
+			"text": "NETGEAR R8500",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/netgear_cgi_unauthorized_access_vulnerability.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netgear:r8500:-:*:*:*:*:*:*:*"
+	}
 }

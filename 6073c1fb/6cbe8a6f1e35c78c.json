@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:qlik:nprinting_designer:-",
-  "title": [
-    {
-      "text": "Qlik Nprinting Designer -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://help.qlik.com/en-US/nprinting/May2022/Content/NPrinting/DeployingQVNprinting/Installing-qlikview-nprinting-designer.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2023/MNDT-2023-0002.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qlik:nprinting_designer:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:qlik:nprinting_designer:-",
+	"title": [
+		{
+			"text": "Qlik Nprinting Designer -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://help.qlik.com/en-US/nprinting/May2022/Content/NPrinting/DeployingQVNprinting/Installing-qlikview-nprinting-designer.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2023/MNDT-2023-0002.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qlik:nprinting_designer:-:*:*:*:*:*:*:*"
+	}
 }

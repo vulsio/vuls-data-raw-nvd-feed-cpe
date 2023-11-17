@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:monospace:directus:9.16.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Monospace Directus 9.16.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/directus"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/directus/directus/security/advisories/GHSA-m5q3-8wgf-x8xf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://monospace.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://directus.io/about/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:monospace:directus:9.16.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:monospace:directus:9.16.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Monospace Directus 9.16.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/directus"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/directus/directus/security/advisories/GHSA-m5q3-8wgf-x8xf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://monospace.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://directus.io/about/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:monospace:directus:9.16.0:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:ecobee:ecobee4_firmware:4.2.0.171",
-  "title": [
-    {
-      "text": "ecobee ecobee4 Firmware 4.2.0.171",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat-with-voice-control/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://garrettmiller.github.io/meross-mss110-vuln/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ecobee:ecobee4_firmware:4.2.0.171:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ecobee:ecobee4_firmware:4.2.0.171",
+	"title": [
+		{
+			"text": "ecobee ecobee4 Firmware 4.2.0.171",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat-with-voice-control/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://garrettmiller.github.io/meross-mss110-vuln/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ecobee:ecobee4_firmware:4.2.0.171:*:*:*:*:*:*:*"
+	}
 }

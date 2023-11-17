@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:abb:microscada_pro_sys600:9.3",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:44:11.547Z",
-  "title": [
-    {
-      "text": "ABB MicroSCADA Pro SYS600 9.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://forum-controlsystems.abb.com/478621/MicroSCADA-SYS600-93"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:44:11.547-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:abb:microscada_pro_sys600:9.3",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:44:11.547Z",
+	"title": [
+		{
+			"text": "ABB MicroSCADA Pro SYS600 9.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://forum-controlsystems.abb.com/478621/MicroSCADA-SYS600-93"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:44:11.547-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:microscada_pro_sys600:9.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

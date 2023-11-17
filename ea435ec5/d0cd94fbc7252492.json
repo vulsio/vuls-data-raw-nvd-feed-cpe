@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nectar_project:nectar:-",
-  "title": [
-    {
-      "text": "Nectar project Nectar",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0x5e0D4C7713914d17989Ff5Bcdfa5583dD714e65F"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nectar_project:nectar:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nectar_project:nectar:-",
+	"title": [
+		{
+			"text": "Nectar project Nectar",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0x5e0D4C7713914d17989Ff5Bcdfa5583dD714e65F"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nectar_project:nectar:-:*:*:*:*:*:*:*"
+	}
 }

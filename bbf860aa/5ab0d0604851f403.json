@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:lucene-search:-::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Lucene-Search for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/lucene-search/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-2812"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:lucene-search:-:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:lucene-search:-::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Lucene-Search for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/lucene-search/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-2812"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:lucene-search:-:*:*:*:*:jenkins:*:*"
+	}
 }

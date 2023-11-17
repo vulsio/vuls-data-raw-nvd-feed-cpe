@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:inverse:sogo:3.1.5",
-  "deprecated": true,
-  "deprecation_date": "2022-12-20T16:52:36.507Z",
-  "title": [
-    {
-      "text": "Inverse SOGo 3.1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://inverse.ca/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/inverse-inc/sogo/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:inverse:sogo:3.1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-20T11:52:36.507-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:alinto:sogo:3.1.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:inverse:sogo:3.1.5",
+	"deprecated": true,
+	"deprecation_date": "2022-12-20T16:52:36.507Z",
+	"title": [
+		{
+			"text": "Inverse SOGo 3.1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://inverse.ca/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/inverse-inc/sogo/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:inverse:sogo:3.1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-20T11:52:36.507-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:alinto:sogo:3.1.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:firepower_threat_defense:9.13.1",
-  "title": [
-    {
-      "text": "Cisco Firepower Threat Defense (FTD) 9.13.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftdios-dhcpv6-cli-Zf3zTv"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwa34291"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:firepower_threat_defense:9.13.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:firepower_threat_defense:9.13.1",
+	"title": [
+		{
+			"text": "Cisco Firepower Threat Defense (FTD) 9.13.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftdios-dhcpv6-cli-Zf3zTv"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwa34291"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:firepower_threat_defense:9.13.1:*:*:*:*:*:*:*"
+	}
 }

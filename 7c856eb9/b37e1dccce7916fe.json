@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:freepbx:freepbx:2.9",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:01:27.347Z",
-  "title": [
-    {
-      "text": "freePBX 2.9",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freepbx:freepbx:2.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:01:27.347-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sangoma:freepbx:2.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freepbx:freepbx:2.9",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:01:27.347Z",
+	"title": [
+		{
+			"text": "freePBX 2.9",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freepbx:freepbx:2.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:01:27.347-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sangoma:freepbx:2.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

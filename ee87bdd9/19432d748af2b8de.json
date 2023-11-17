@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:adobe:xmp_toolkit_sdk:-",
-  "deprecated": true,
-  "deprecation_date": "2021-10-27T01:47:23.063Z",
-  "title": [
-    {
-      "text": "Adobe XMP Toolkit Software Development Kit (SDK) -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/xmpcore/apsb21-65.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:xmp_toolkit_sdk:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-26T21:47:23.063-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:xmp_toolkit_sdk:-",
+	"deprecated": true,
+	"deprecation_date": "2021-10-27T01:47:23.063Z",
+	"title": [
+		{
+			"text": "Adobe XMP Toolkit Software Development Kit (SDK) -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/xmpcore/apsb21-65.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:xmp_toolkit_sdk:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-26T21:47:23.063-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:xmp_toolkit_software_development_kit:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

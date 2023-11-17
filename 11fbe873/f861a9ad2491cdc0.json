@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:ios_xe:16.11",
-  "title": [
-    {
-      "text": "Cisco IOS XE 16.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvk59282"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sd-wan-cred-EVGSF259"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ios_xe:16.11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:ios_xe:16.11",
+	"title": [
+		{
+			"text": "Cisco IOS XE 16.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvk59282"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sd-wan-cred-EVGSF259"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ios_xe:16.11:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:java_se:7u331",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T14:47:07.093Z",
-  "title": [
-    {
-      "text": "Oracle Java SE 7u331",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:java_se:7u331:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T10:47:07.093-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jre:1.7.0:update331:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:java_se:7u331",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T14:47:07.093Z",
+	"title": [
+		{
+			"text": "Oracle Java SE 7u331",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:java_se:7u331:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T10:47:07.093-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jre:1.7.0:update331:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

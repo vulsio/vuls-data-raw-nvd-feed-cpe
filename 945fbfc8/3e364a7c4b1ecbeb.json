@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ceph:civetweb:-",
-  "title": [
-    {
-      "text": "Ceph Civetweb",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://ceph.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/ceph/civetweb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ceph:civetweb:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ceph:civetweb:-",
+	"title": [
+		{
+			"text": "Ceph Civetweb",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://ceph.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/ceph/civetweb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ceph:civetweb:-:*:*:*:*:*:*:*"
+	}
 }

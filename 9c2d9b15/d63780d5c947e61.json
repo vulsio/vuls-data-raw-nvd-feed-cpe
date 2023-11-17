@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:contao:contao:4.9.14",
-  "title": [
-    {
-      "text": "Contao 4.9.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://contao.org/en/security-advisories/cross-site-scripting-in-the-system-log-2021.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/contao/contao/security/advisories/GHSA-h58v-c6rf-g9f7"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/contao/contao/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:contao:contao:4.9.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:contao:contao:4.9.14",
+	"title": [
+		{
+			"text": "Contao 4.9.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://contao.org/en/security-advisories/cross-site-scripting-in-the-system-log-2021.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/contao/contao/security/advisories/GHSA-h58v-c6rf-g9f7"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/contao/contao/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contao:contao:4.9.14:*:*:*:*:*:*:*"
+	}
 }

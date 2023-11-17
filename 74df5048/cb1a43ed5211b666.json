@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:consul:1.7.14::~~-~~~",
-  "title": [
-    {
-      "text": "HashiCorp Consul 1.7.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/hashicorp/consul/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-07-consul-api-kv-endpoint-vulnerable-to-cross-site-scripting/23368"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:consul:1.7.14:*:*:*:-:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:consul:1.7.14::~~-~~~",
+	"title": [
+		{
+			"text": "HashiCorp Consul 1.7.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/hashicorp/consul/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-07-consul-api-kv-endpoint-vulnerable-to-cross-site-scripting/23368"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:consul:1.7.14:*:*:*:-:*:*:*"
+	}
 }

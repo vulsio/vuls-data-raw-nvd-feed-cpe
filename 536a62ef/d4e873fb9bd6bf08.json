@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:netapp:cloud_backup:-",
-  "title": [
-    {
-      "text": "NetApp Cloud Backup",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://cloud.netapp.com/cloud-backup"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.netapp.com/us/products/cloud-storage/cloud-backup.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:cloud_backup:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:netapp:cloud_backup:-",
+	"title": [
+		{
+			"text": "NetApp Cloud Backup",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://cloud.netapp.com/cloud-backup"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.netapp.com/us/products/cloud-storage/cloud-backup.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:cloud_backup:-:*:*:*:*:*:*:*"
+	}
 }

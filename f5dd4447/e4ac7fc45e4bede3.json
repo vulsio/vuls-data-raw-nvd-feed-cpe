@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:arox:school-erp:-::~~pro~~~",
-  "title": [
-    {
-      "text": "AROX School-ERP Pro Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentest.com.tr/exploits/AROX-School-ERP-Pro-Unauthenticated-RCE-Metasploit.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://sourceforge.net/projects/school-management-system-php/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://arox.in/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arox:school-erp:-:*:*:*:pro:*:*:*"
-  }
+	"name": "cpe:/a:arox:school-erp:-::~~pro~~~",
+	"title": [
+		{
+			"text": "AROX School-ERP Pro Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentest.com.tr/exploits/AROX-School-ERP-Pro-Unauthenticated-RCE-Metasploit.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://sourceforge.net/projects/school-management-system-php/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://arox.in/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arox:school-erp:-:*:*:*:pro:*:*:*"
+	}
 }

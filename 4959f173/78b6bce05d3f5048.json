@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:gehealthcare:3.0t_signa_hdxt_firmware:-",
-  "title": [
-    {
-      "text": "GE Healthcare 3.0T Signa HDxt Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gehealthcare.com/products/goldseal---refurbished-systems/goldseal-magnetic-resonance"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gehealthcare:3.0t_signa_hdxt_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:gehealthcare:3.0t_signa_hdxt_firmware:-",
+	"title": [
+		{
+			"text": "GE Healthcare 3.0T Signa HDxt Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gehealthcare.com/products/goldseal---refurbished-systems/goldseal-magnetic-resonance"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gehealthcare:3.0t_signa_hdxt_firmware:-:*:*:*:*:*:*:*"
+	}
 }

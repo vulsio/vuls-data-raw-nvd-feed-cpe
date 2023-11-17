@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:openbsd:libressl:3.0.1",
-  "title": [
-    {
-      "text": "OpenBSD LibreSSL 3.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.openbsdfoundation.org/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openbsd.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.libressl.org/releases.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:libressl:3.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openbsd:libressl:3.0.1",
+	"title": [
+		{
+			"text": "OpenBSD LibreSSL 3.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.openbsdfoundation.org/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openbsd.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://ftp.openbsd.org/pub/OpenBSD/LibreSSL/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.libressl.org/releases.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:libressl:3.0.1:*:*:*:*:*:*:*"
+	}
 }

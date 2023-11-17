@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:rack_project:rack:2.2.3.1",
-  "title": [
-    {
-      "text": "Rack Project Rack 2.2.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.rubyonrails.org/t/cve-2022-30122-denial-of-service-vulnerability-in-rack-multipart-parsing/80729"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rack_project:rack:2.2.3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:rack_project:rack:2.2.3.1",
+	"title": [
+		{
+			"text": "Rack Project Rack 2.2.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.rubyonrails.org/t/cve-2022-30122-denial-of-service-vulnerability-in-rack-multipart-parsing/80729"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rack_project:rack:2.2.3.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:debian:cron:2.0",
-  "title": [
-    {
-      "text": "Debian Cron 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packages.qa.debian.org/c/cron/news/20190311T170403Z.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://salsa.debian.org/debian/cron/blob/master/CHANGES"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:cron:2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:debian:cron:2.0",
+	"title": [
+		{
+			"text": "Debian Cron 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packages.qa.debian.org/c/cron/news/20190311T170403Z.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://salsa.debian.org/debian/cron/blob/master/CHANGES"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:cron:2.0:*:*:*:*:*:*:*"
+	}
 }

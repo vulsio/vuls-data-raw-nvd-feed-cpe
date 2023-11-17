@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:3ds:3dexperience_solidworks:2022:sp5",
-  "title": [
-    {
-      "text": "3DS (Dassault Systèmes) 3dexperience Solidworks 2022 Service Pack 5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.solidworks.com/media/3dexperience-design-apps-solidworks-desktop"
-    },
-    {
-      "text": "Product",
-      "href": "https://hawkridgesys.com/blog/the-differences-between-3dexperience-solidworks-and-solidworks-desktop#:~:text=3DEXPERIENCE%20SOLIDWORKS%20is%20still%20SOLIDWORKS,%2C%20professional%2C%20and%20premium%20package."
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.3ds.com/vulnerability/advisories"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/2xxx/CVE-2023-2762.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:3ds:3dexperience_solidworks:2022:sp5:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:3ds:3dexperience_solidworks:2022:sp5",
+	"title": [
+		{
+			"text": "3DS (Dassault Systèmes) 3dexperience Solidworks 2022 Service Pack 5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.solidworks.com/media/3dexperience-design-apps-solidworks-desktop"
+		},
+		{
+			"text": "Product",
+			"href": "https://hawkridgesys.com/blog/the-differences-between-3dexperience-solidworks-and-solidworks-desktop#:~:text=3DEXPERIENCE%20SOLIDWORKS%20is%20still%20SOLIDWORKS,%2C%20professional%2C%20and%20premium%20package."
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.3ds.com/vulnerability/advisories"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/2xxx/CVE-2023-2762.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:3ds:3dexperience_solidworks:2022:sp5:*:*:*:*:*:*"
+	}
 }

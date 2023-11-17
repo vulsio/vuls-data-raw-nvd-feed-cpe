@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_11_21h2:10.0.22000.2176",
-  "deprecated": true,
-  "deprecation_date": "2023-10-12T18:54:15.797Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 11 21H2 10.0.22000.2176",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.2176:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-12T14:54:15.797-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.2176:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_11_21h2:10.0.22000.2176",
+	"deprecated": true,
+	"deprecation_date": "2023-10-12T18:54:15.797Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 11 21H2 10.0.22000.2176",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.2176:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-12T14:54:15.797-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_11_21h2:10.0.22000.2176:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

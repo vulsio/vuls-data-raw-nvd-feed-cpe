@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:visual_studio_2019:8.10::~~~macos~~",
-  "title": [
-    {
-      "text": "Microsoft Visual Studio 2019 8.10 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://visualstudio.microsoft.com/vs/mac/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21986"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:visual_studio_2019:8.10:*:*:*:*:macos:*:*"
-  }
+	"name": "cpe:/a:microsoft:visual_studio_2019:8.10::~~~macos~~",
+	"title": [
+		{
+			"text": "Microsoft Visual Studio 2019 8.10 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://visualstudio.microsoft.com/vs/mac/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21986"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.microsoft.com/en-us/visualstudio/releasenotes/vs2019-mac-relnotes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:visual_studio_2019:8.10:*:*:*:*:macos:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:apache:derby:10.12.1",
-  "deprecated": true,
-  "deprecation_date": "2017-08-22T16:46:21.887Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Derby 10.12.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.apache.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://svn.apache.org/viewvc/db/derby/code/branches/10.12/releaseSummary.xml?view=log"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:derby:10.12.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-08-22T12:46:21.887-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:derby:10.12.1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:derby:10.12.1",
+	"deprecated": true,
+	"deprecation_date": "2017-08-22T16:46:21.887Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Derby 10.12.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.apache.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://svn.apache.org/viewvc/db/derby/code/branches/10.12/releaseSummary.xml?view=log"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:derby:10.12.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-08-22T12:46:21.887-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:derby:10.12.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

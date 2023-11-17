@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:cordova:2.6.0::~~~iphone_os~~",
-  "deprecated": true,
-  "deprecation_date": "2021-03-04T13:45:54.367Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Cordova 2.6.0 for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/apache/cordova-ios"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.apache.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://cordova.apache.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:cordova:2.6.0:*:*:*:*:iphone_os:*:*",
-    "deprecation": {
-      "date": "2021-03-04T08:45:54.367-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:cordova:2.9.0:-:*:*:*:iphone_os:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:cordova:2.6.0::~~~iphone_os~~",
+	"deprecated": true,
+	"deprecation_date": "2021-03-04T13:45:54.367Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Cordova 2.6.0 for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/cordova-ios"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.apache.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://cordova.apache.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:cordova:2.6.0:*:*:*:*:iphone_os:*:*",
+		"deprecation": {
+			"date": "2021-03-04T08:45:54.367-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:cordova:2.9.0:-:*:*:*:iphone_os:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

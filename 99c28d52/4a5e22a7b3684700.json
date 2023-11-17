@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:nvidia:bluefield_1_firmware:18.24.1000",
-  "title": [
-    {
-      "text": "NVIDIA Bluefield 1 Firmware 18.24.1000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.nvidia.com/networking/display/BlueFieldSWv31011424/NVIDIA+BLUEFIELD+DPU+FAMILY+SOFTWARE+V3.1.0.11424+DOCUMENTATION"
-    },
-    {
-      "text": "Version",
-      "href": "https://network.nvidia.com/support/firmware/firmware-downloads/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5479"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nvidia:bluefield_1_firmware:18.24.1000:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:nvidia:bluefield_1_firmware:18.24.1000",
+	"title": [
+		{
+			"text": "NVIDIA Bluefield 1 Firmware 18.24.1000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.nvidia.com/networking/display/BlueFieldSWv31011424/NVIDIA+BLUEFIELD+DPU+FAMILY+SOFTWARE+V3.1.0.11424+DOCUMENTATION"
+		},
+		{
+			"text": "Version",
+			"href": "https://network.nvidia.com/support/firmware/firmware-downloads/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5479"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:bluefield_1_firmware:18.24.1000:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:intel:pentuim:-",
-  "deprecated": true,
-  "deprecation_date": "2009-10-19T17:46:12.063Z",
-  "title": [
-    {
-      "text": "Intel Pentium",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:pentuim:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2009-10-19T13:46:12.063-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:pentuim:-",
+	"deprecated": true,
+	"deprecation_date": "2009-10-19T17:46:12.063Z",
+	"title": [
+		{
+			"text": "Intel Pentium",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:pentuim:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2009-10-19T13:46:12.063-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:pentium:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

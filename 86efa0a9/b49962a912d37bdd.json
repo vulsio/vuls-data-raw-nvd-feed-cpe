@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:keycloak_operator:8.0.1::~~community~~~",
-  "title": [
-    {
-      "text": "Red Hat Keycloak Operator 8.0.1 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/keycloak/keycloak-operator/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:keycloak_operator:8.0.1:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:redhat:keycloak_operator:8.0.1::~~community~~~",
+	"title": [
+		{
+			"text": "Red Hat Keycloak Operator 8.0.1 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/keycloak/keycloak-operator/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:keycloak_operator:8.0.1:*:*:*:community:*:*:*"
+	}
 }

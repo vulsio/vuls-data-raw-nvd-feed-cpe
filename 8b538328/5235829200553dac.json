@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:data_grid:8.0",
-  "title": [
-    {
-      "text": "Red Hat Data Grid 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/articles/4933551"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2020-25644"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:data_grid:8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:data_grid:8.0",
+	"title": [
+		{
+			"text": "Red Hat Data Grid 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/articles/4933551"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2020-25644"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:data_grid:8.0:*:*:*:*:*:*:*"
+	}
 }

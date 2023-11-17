@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:eset:nod32_antivirus:10.0.337.1::~~~windows~~",
-  "title": [
-    {
-      "text": "ESET Nod32 Antivirus 10.0.337.1 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://help.eset.com/latestVersions/?lang=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:nod32_antivirus:10.0.337.1:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:eset:nod32_antivirus:10.0.337.1::~~~windows~~",
+	"title": [
+		{
+			"text": "ESET Nod32 Antivirus 10.0.337.1 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://help.eset.com/latestVersions/?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:nod32_antivirus:10.0.337.1:*:*:*:*:windows:*:*"
+	}
 }

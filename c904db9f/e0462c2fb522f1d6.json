@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:odbc:17.10.3.1::~~~sql_server~~",
-  "title": [
-    {
-      "text": "Microsoft ODBC 17.10.3.1 for SQL Server",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://learn.microsoft.com/en-us/sql/connect/odbc/windows/release-notes-odbc-sql-server-windows?view=sql-server-ver16#previous-releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28304"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:odbc:17.10.3.1:*:*:*:*:sql_server:*:*"
-  }
+	"name": "cpe:/a:microsoft:odbc:17.10.3.1::~~~sql_server~~",
+	"title": [
+		{
+			"text": "Microsoft ODBC 17.10.3.1 for SQL Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/sql/connect/odbc/windows/release-notes-odbc-sql-server-windows?view=sql-server-ver16#previous-releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28304"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:odbc:17.10.3.1:*:*:*:*:sql_server:*:*"
+	}
 }

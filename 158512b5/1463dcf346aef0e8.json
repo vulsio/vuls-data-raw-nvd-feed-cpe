@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:zyxel:wsq50_firmware:-",
-  "title": [
-    {
-      "text": "Zyxel WSQ50 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.zyxel.com/us/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.zyxel.com/us/en/support/download_landing.shtml"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel_security_advisory_for_pre-configured_password_management_vulnerability_of_home_routers_and_WiFi_systems.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:zyxel:wsq50_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:zyxel:wsq50_firmware:-",
+	"title": [
+		{
+			"text": "Zyxel WSQ50 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/us/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.zyxel.com/us/en/support/download_landing.shtml"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel_security_advisory_for_pre-configured_password_management_vulnerability_of_home_routers_and_WiFi_systems.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zyxel:wsq50_firmware:-:*:*:*:*:*:*:*"
+	}
 }

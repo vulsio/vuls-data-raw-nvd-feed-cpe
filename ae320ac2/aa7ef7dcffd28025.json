@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:open-emr:openemr:2.7.2",
-  "deprecated": true,
-  "deprecation_date": "2020-09-16T12:03:20.550Z",
-  "title": [
-    {
-      "text": "open-emr OpenEMR 2.7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.open-emr.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/openemr/openemr/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:open-emr:openemr:2.7.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-16T08:03:20.550-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:open-emr:openemr:2.7.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:open-emr:openemr:2.7.2",
+	"deprecated": true,
+	"deprecation_date": "2020-09-16T12:03:20.550Z",
+	"title": [
+		{
+			"text": "open-emr OpenEMR 2.7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.open-emr.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openemr/openemr/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:open-emr:openemr:2.7.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-16T08:03:20.550-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:open-emr:openemr:2.7.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

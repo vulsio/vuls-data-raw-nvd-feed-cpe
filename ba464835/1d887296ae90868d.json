@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:3cx:phone_system:-",
-  "title": [
-    {
-      "text": "3CX Phone System ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tesserent.com/insights/blog/how-i-got-root-with-sudo?utm_source=securusglobal.com&utm_medium=301"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.3cx.com/phone-system/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.gosecure.net/blog/2022/05/31/security-advisory-multiple-vulnerabilities-impact-3cx-phone-system/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:3cx:phone_system:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:3cx:phone_system:-",
+	"title": [
+		{
+			"text": "3CX Phone System ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tesserent.com/insights/blog/how-i-got-root-with-sudo?utm_source=securusglobal.com&utm_medium=301"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.3cx.com/phone-system/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.gosecure.net/blog/2022/05/31/security-advisory-multiple-vulnerabilities-impact-3cx-phone-system/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:3cx:phone_system:-:*:*:*:*:*:*:*"
+	}
 }

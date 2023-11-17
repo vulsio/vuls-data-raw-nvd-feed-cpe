@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:act_project:act:0.2.32::~~~go~~",
-  "title": [
-    {
-      "text": "Act Project Act 0.2.32 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://pkg.go.dev/github.com/nektos/act/pkg/model?tab=versions"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nektos/act/security/advisories/GHSA-pc99-qmg4-rcff"
-    },
-    {
-      "text": "Project",
-      "href": "https://pkg.go.dev/github.com/nektos/act/pkg/model"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:act_project:act:0.2.32:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:act_project:act:0.2.32::~~~go~~",
+	"title": [
+		{
+			"text": "Act Project Act 0.2.32 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://pkg.go.dev/github.com/nektos/act/pkg/model?tab=versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nektos/act/security/advisories/GHSA-pc99-qmg4-rcff"
+		},
+		{
+			"text": "Project",
+			"href": "https://pkg.go.dev/github.com/nektos/act/pkg/model"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:act_project:act:0.2.32:*:*:*:*:go:*:*"
+	}
 }

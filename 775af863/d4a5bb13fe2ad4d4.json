@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:canonical:snapd:-",
-  "title": [
-    {
-      "text": "Canonical Snapd",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://snapcraft.io/docs/snapd-release-process"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/snapcore/snapd/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:snapd:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:canonical:snapd:-",
+	"title": [
+		{
+			"text": "Canonical Snapd",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://snapcraft.io/docs/snapd-release-process"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/snapcore/snapd/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:snapd:-:*:*:*:*:*:*:*"
+	}
 }

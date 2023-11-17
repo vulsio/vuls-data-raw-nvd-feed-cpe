@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:samba:samba:4.9.0",
-  "deprecated": true,
-  "deprecation_date": "2019-06-12T18:46:27.217Z",
-  "title": [
-    {
-      "text": "Samba 4.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.samba.org/samba/history/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:samba:4.9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-12T14:46:27.217-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:samba:samba:4.9.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:samba:4.9.0",
+	"deprecated": true,
+	"deprecation_date": "2019-06-12T18:46:27.217Z",
+	"title": [
+		{
+			"text": "Samba 4.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.samba.org/samba/history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:samba:4.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-12T14:46:27.217-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:samba:samba:4.9.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

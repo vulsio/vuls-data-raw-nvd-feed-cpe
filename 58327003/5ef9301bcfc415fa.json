@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:git_credential_manager_core:2.0.289:-:~~~windows~~",
-  "title": [
-    {
-      "text": "Microsoft Git Credential Manager Core 2.0.289 - for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/microsoft/Git-Credential-Manager-Core/security/advisories/GHSA-2gq7-ww4j-3m76"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/microsoft/Git-Credential-Manager-Core/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:git_credential_manager_core:2.0.289:-:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:microsoft:git_credential_manager_core:2.0.289:-:~~~windows~~",
+	"title": [
+		{
+			"text": "Microsoft Git Credential Manager Core 2.0.289 - for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/microsoft/Git-Credential-Manager-Core/security/advisories/GHSA-2gq7-ww4j-3m76"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/Git-Credential-Manager-Core/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:git_credential_manager_core:2.0.289:-:*:*:*:windows:*:*"
+	}
 }

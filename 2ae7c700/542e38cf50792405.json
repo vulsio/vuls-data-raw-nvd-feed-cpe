@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.8.0:update_141",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T12:29:12.397Z",
-  "title": [
-    {
-      "text": "Oracle Java Development Kit (JDK) 1.8.0 Update 141",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://java.com/en/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://java.com/en/download/faq/release_changes.xml"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.8.0:update_141:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T08:29:12.397-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update141:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.8.0:update_141",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T12:29:12.397Z",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 1.8.0 Update 141",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://java.com/en/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://java.com/en/download/faq/release_changes.xml"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.8.0:update_141:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T08:29:12.397-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.8.0:update141:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

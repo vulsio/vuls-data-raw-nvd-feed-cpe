@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.6",
-  "deprecated": true,
-  "deprecation_date": "2020-12-15T15:03:01.800Z",
-  "title": [
-    {
-      "text": "Linux Kernel 5.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.kernel.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-15T10:03:01.800-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:5.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.6",
+	"deprecated": true,
+	"deprecation_date": "2020-12-15T15:03:01.800Z",
+	"title": [
+		{
+			"text": "Linux Kernel 5.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-15T10:03:01.800-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:5.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:openshift_assisted_installer:1.0.19.1",
-  "title": [
-    {
-      "text": "Red Hat OpenShift Assisted Installer 1.0.19.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openshift/assisted-installer/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1985962"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift_assisted_installer:1.0.19.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift_assisted_installer:1.0.19.1",
+	"title": [
+		{
+			"text": "Red Hat OpenShift Assisted Installer 1.0.19.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://cloud.redhat.com/blog/how-to-use-the-openshift-assisted-installer"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openshift/assisted-installer/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1985962"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift_assisted_installer:1.0.19.1:*:*:*:*:*:*:*"
+	}
 }

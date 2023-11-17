@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.6::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "Microsoft Azure Key Vault Provider For Secrets Store CSI Driver 0.0.6 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/issues/384"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/Azure/secrets-store-csi-driver-provider-azure"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.6:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.6::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Microsoft Azure Key Vault Provider For Secrets Store CSI Driver 0.0.6 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/issues/384"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/Azure/secrets-store-csi-driver-provider-azure"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_key_vault_provider_for_secrets_store_csi_driver:0.0.6:*:*:*:*:kubernetes:*:*"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:cloudbees:jenkins:1.466::~~enterprise~~~",
-  "title": [
-    {
-      "text": "CloudBees Jenkins 1.466 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor security advisory re. CVE-2013-2034",
-      "href": "http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-05-02.cb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudbees:jenkins:1.466:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:cloudbees:jenkins:1.466::~~enterprise~~~",
+	"title": [
+		{
+			"text": "CloudBees Jenkins 1.466 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor security advisory re. CVE-2013-2034",
+			"href": "http://www.cloudbees.com/jenkins-advisory/jenkins-security-advisory-2013-05-02.cb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudbees:jenkins:1.466:*:*:*:enterprise:*:*:*"
+	}
 }

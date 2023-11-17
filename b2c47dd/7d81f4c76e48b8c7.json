@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:crossbeam-channel_project:crossbeam-channel:0.4.0::~~~rust~~",
-  "title": [
-    {
-      "text": "crossbeam-channel Project crossbeam-channel 0.4.0 for Rust",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2020-0052.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/crossbeam-rs/crossbeam/pull/533"
-    },
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/crossbeam-channel/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.4.0:*:*:*:*:rust:*:*"
-  }
+	"name": "cpe:/a:crossbeam-channel_project:crossbeam-channel:0.4.0::~~~rust~~",
+	"title": [
+		{
+			"text": "crossbeam-channel Project crossbeam-channel 0.4.0 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2020-0052.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/crossbeam-rs/crossbeam/pull/533"
+		},
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/crossbeam-channel/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:crossbeam-channel_project:crossbeam-channel:0.4.0:*:*:*:*:rust:*:*"
+	}
 }

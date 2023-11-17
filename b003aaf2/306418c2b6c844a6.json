@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:intel:xeon_processor_d-1531:-",
-  "deprecated": true,
-  "deprecation_date": "2021-06-21T14:58:31.467Z",
-  "title": [
-    {
-      "text": "Intel Xeon Processor D-1531 -",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_processor_d-1531:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-21T10:58:31.467-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_d-1531:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_processor_d-1531:-",
+	"deprecated": true,
+	"deprecation_date": "2021-06-21T14:58:31.467Z",
+	"title": [
+		{
+			"text": "Intel Xeon Processor D-1531 -",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_processor_d-1531:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-21T10:58:31.467-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_d-1531:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

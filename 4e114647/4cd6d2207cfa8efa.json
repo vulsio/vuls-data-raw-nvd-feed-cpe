@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_asset_management:3.2:sp1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T14:33:18.253Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Asset Management 3.2 SP1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T10:33:18.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_asset_management:3.2:sp1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T14:33:18.253Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Asset Management 3.2 SP1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T10:33:18.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_asset_management:3.2:sp1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:carel:plantvisorenhanced:-",
-  "deprecated": true,
-  "deprecation_date": "2016-03-02T19:34:45.303Z",
-  "title": [
-    {
-      "text": "Carel PlantVisorEnhanced",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.carelusa.com/local-monitoring-systems-na/-/journal_content/56_INSTANCE_i4q5KIMLInKK/10191/136803"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-021-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:carel:plantvisorenhanced:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-03-02T14:34:45.303-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:carel:plantvisor_enhanced:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:carel:plantvisorenhanced:-",
+	"deprecated": true,
+	"deprecation_date": "2016-03-02T19:34:45.303Z",
+	"title": [
+		{
+			"text": "Carel PlantVisorEnhanced",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.carelusa.com/local-monitoring-systems-na/-/journal_content/56_INSTANCE_i4q5KIMLInKK/10191/136803"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-021-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:carel:plantvisorenhanced:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-03-02T14:34:45.303-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:carel:plantvisor_enhanced:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

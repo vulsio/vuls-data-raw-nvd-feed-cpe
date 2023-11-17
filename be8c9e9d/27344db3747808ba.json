@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir-601_firmware:2.02na",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DIR-601 Firmware 2.02NA",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "ftp://ftp2.dlink.com/PRODUCTS/DIR-601/REVB/DIR-601_REVB_RELEASE_NOTES_v2.02B01_NA.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir-601_firmware:2.02na",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DIR-601 Firmware 2.02NA",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "ftp://ftp2.dlink.com/PRODUCTS/DIR-601/REVB/DIR-601_REVB_RELEASE_NOTES_v2.02B01_NA.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir-601_firmware:2.02na:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

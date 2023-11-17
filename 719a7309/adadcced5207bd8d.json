@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amazon:audible:2.34.0::~~~android~~",
-  "title": [
-    {
-      "text": "Amazon Audible 2.34.0 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://vuldb.com/?id.146743"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pankajupadhyay.in/2019/12/06/audible-and-a-curious-case-of-insecure-by-default-in-adobe-sdks/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:amazon:audible:2.34.0::~~~android~~",
+	"title": [
+		{
+			"text": "Amazon Audible 2.34.0 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.146743"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pankajupadhyay.in/2019/12/06/audible-and-a-curious-case-of-insecure-by-default-in-adobe-sdks/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:audible:2.34.0:*:*:*:*:android:*:*"
+	}
 }

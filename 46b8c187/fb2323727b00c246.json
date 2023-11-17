@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:phpunit_project:phpunit:5.5.7",
-  "deprecated": true,
-  "deprecation_date": "2020-01-08T13:53:23.870Z",
-  "title": [
-    {
-      "text": "PHPUnit Project PHPUnit 5.5.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/sebastianbergmann/phpunit"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpunit_project:phpunit:5.5.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-08T08:53:23.870-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpunit_project:phpunit:5.5.7:*:*:*:*:-:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpunit_project:phpunit:5.5.7",
+	"deprecated": true,
+	"deprecation_date": "2020-01-08T13:53:23.870Z",
+	"title": [
+		{
+			"text": "PHPUnit Project PHPUnit 5.5.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/sebastianbergmann/phpunit"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpunit_project:phpunit:5.5.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-08T08:53:23.870-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpunit_project:phpunit:5.5.7:*:*:*:*:-:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

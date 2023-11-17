@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bouncycastle:bouncy_castle_fips_.net_api:1.0.1.1",
-  "title": [
-    {
-      "text": "Bouncycastle Bouncy Castle FIPS .NET API 1.0.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bcgit/bc-java/wiki/CVE-2020-15522"
-    },
-    {
-      "text": "Version",
-      "href": "https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp2792.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bouncycastle:bouncy_castle_fips_.net_api:1.0.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bouncycastle:bouncy_castle_fips_.net_api:1.0.1.1",
+	"title": [
+		{
+			"text": "Bouncycastle Bouncy Castle FIPS .NET API 1.0.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bcgit/bc-java/wiki/CVE-2020-15522"
+		},
+		{
+			"text": "Version",
+			"href": "https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp2792.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bouncycastle:bouncy_castle_fips_.net_api:1.0.1.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cisco:unified_computing_system_software:1.4",
-  "deprecated": true,
-  "deprecation_date": "2014-05-27T17:02:43.313Z",
-  "title": [
-    {
-      "text": "Cisco Unified Computing System Software 1.4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:unified_computing_system_software:1.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-05-27T13:02:43.313-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:1.4\\(1j\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:unified_computing_system_software:1.4",
+	"deprecated": true,
+	"deprecation_date": "2014-05-27T17:02:43.313Z",
+	"title": [
+		{
+			"text": "Cisco Unified Computing System Software 1.4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:unified_computing_system_software:1.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-05-27T13:02:43.313-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:unified_computing_system_infrastructure_and_unified_computing_system_software:1.4\\(1j\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

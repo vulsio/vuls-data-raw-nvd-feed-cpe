@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bitdefender:endpoint_security_tools:6.2.21.171::~~~linux~~",
-  "title": [
-    {
-      "text": "Bitdefender Endpoint Security Tools 6.2.21.171 for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/support/security-advisories/improper-handling-of-length-parameter-inconsistency-vulnerability-in-bitdefender-update-server-va-10144/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0677.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitdefender:endpoint_security_tools:6.2.21.171:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:bitdefender:endpoint_security_tools:6.2.21.171::~~~linux~~",
+	"title": [
+		{
+			"text": "Bitdefender Endpoint Security Tools 6.2.21.171 for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/support/security-advisories/improper-handling-of-length-parameter-inconsistency-vulnerability-in-bitdefender-update-server-va-10144/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0677.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitdefender:endpoint_security_tools:6.2.21.171:*:*:*:*:linux:*:*"
+	}
 }

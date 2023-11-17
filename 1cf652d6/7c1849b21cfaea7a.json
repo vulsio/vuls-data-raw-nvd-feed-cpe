@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:apache:open_for_business_project:10.04.05",
-  "deprecated": true,
-  "deprecation_date": "2019-07-17T17:46:52.023Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Open For Business Project (aka OFBiz) 10.04.05",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://archive.apache.org/dist/ofbiz/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:open_for_business_project:10.04.05:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-17T13:46:52.023-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:ofbiz:10.04.05:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:open_for_business_project:10.04.05",
+	"deprecated": true,
+	"deprecation_date": "2019-07-17T17:46:52.023Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Open For Business Project (aka OFBiz) 10.04.05",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://archive.apache.org/dist/ofbiz/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:open_for_business_project:10.04.05:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-17T13:46:52.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:ofbiz:10.04.05:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:advantech:webaccess%2fscada:9.0",
-  "title": [
-    {
-      "text": "Advantech WebAccess/SCADA 9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-217-04"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.advantech.tw/support/details/installation?id=1-MS9MJV"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:advantech:webaccess\\/scada:9.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:advantech:webaccess%2fscada:9.0",
+	"title": [
+		{
+			"text": "Advantech WebAccess/SCADA 9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-217-04"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.advantech.tw/support/details/installation?id=1-MS9MJV"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:advantech:webaccess\\/scada:9.0:*:*:*:*:*:*:*"
+	}
 }

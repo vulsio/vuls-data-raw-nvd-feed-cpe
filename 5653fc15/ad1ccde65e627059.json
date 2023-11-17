@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:moodle:moodle:4.2.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-06T18:33:35.603Z",
-  "title": [
-    {
-      "text": "Moodle 4.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://moodle.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/moodle/moodle/tags"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://moodledev.io/general/releases#moodle-42"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moodle:moodle:4.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-06T13:33:35.603-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:moodle:moodle:4.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:moodle:moodle:4.2.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-06T18:33:35.603Z",
+	"title": [
+		{
+			"text": "Moodle 4.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://moodle.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/moodle/moodle/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://moodledev.io/general/releases#moodle-42"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moodle:moodle:4.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-06T13:33:35.603-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:moodle:moodle:4.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ibm:mq:7.5.0.2",
-  "title": [
-    {
-      "text": "IBM MQ 7.5.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.ibm.com/support/pages/readme-websphere-mq-v75-and-its-maintenance"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.ibm.com/support/pages/ibm-mq-websphere-mq-and-mqseries-product-readmes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/162084"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:mq:7.5.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:mq:7.5.0.2",
+	"title": [
+		{
+			"text": "IBM MQ 7.5.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/pages/readme-websphere-mq-v75-and-its-maintenance"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/pages/ibm-mq-websphere-mq-and-mqseries-product-readmes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/162084"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:mq:7.5.0.2:*:*:*:*:*:*:*"
+	}
 }

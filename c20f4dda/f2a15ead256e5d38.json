@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nextcloud:end-to-end_encryption:1.5.0",
-  "title": [
-    {
-      "text": "Nextcloud End-to-end Encryption 1.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://nextcloud.com/endtoend/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-3829-45wm-ww36"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nextcloud/end_to_end_encryption/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:end-to-end_encryption:1.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:end-to-end_encryption:1.5.0",
+	"title": [
+		{
+			"text": "Nextcloud End-to-end Encryption 1.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://nextcloud.com/endtoend/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-3829-45wm-ww36"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextcloud/end_to_end_encryption/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:end-to-end_encryption:1.5.0:*:*:*:*:*:*:*"
+	}
 }

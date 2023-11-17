@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_2000:-:sp3:server",
-  "deprecated": true,
-  "deprecation_date": "2019-04-30T14:27:12.253Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 2000 Server SP3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:server:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-04-30T10:27:12.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:*:*:server:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_2000:-:sp3:server",
+	"deprecated": true,
+	"deprecation_date": "2019-04-30T14:27:12.253Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 2000 Server SP3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:server:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-04-30T10:27:12.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_2000:-:sp3:*:*:server:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

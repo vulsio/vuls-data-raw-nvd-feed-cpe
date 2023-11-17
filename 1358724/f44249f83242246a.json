@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/h:supermicro:b2ss1-cpu:-",
-  "title": [
-    {
-      "text": "Super Micro B2SS1-CPU",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.supermicro.com/en/products/MicroBlade/module/MBI-6119G-C2.cfm"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.supermicro.com/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:supermicro:b2ss1-cpu:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:supermicro:b2ss1-cpu:-",
+	"title": [
+		{
+			"text": "Super Micro B2SS1-CPU",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.supermicro.com/en/products/MicroBlade/module/MBI-6119G-C2.cfm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.supermicro.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:supermicro:b2ss1-cpu:-:*:*:*:*:*:*:*"
+	}
 }

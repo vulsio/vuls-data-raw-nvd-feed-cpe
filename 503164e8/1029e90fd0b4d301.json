@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:eset:smart_security:-::~~business~~~",
-  "title": [
-    {
-      "text": "ESET Smart Security Business Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca7489-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:smart_security:-:*:*:*:business:*:*:*"
-  }
+	"name": "cpe:/a:eset:smart_security:-::~~business~~~",
+	"title": [
+		{
+			"text": "ESET Smart Security Business Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca7489-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:smart_security:-:*:*:*:business:*:*:*"
+	}
 }

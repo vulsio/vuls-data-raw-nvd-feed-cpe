@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:defender_security_intelligence_updates:-",
-  "title": [
-    {
-      "text": "Microsoft Defender Security Intelligence Updates",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21809"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/wdsi/defenderupdates"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:defender_security_intelligence_updates:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:defender_security_intelligence_updates:-",
+	"title": [
+		{
+			"text": "Microsoft Defender Security Intelligence Updates",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21809"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/wdsi/defenderupdates"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:defender_security_intelligence_updates:-:*:*:*:*:*:*:*"
+	}
 }

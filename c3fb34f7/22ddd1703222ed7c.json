@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:agenziaentrate:desktop_telematico:1.0.0",
-  "title": [
-    {
-      "text": "Agenziaentrate Desktop Telematico 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://telematici.agenziaentrate.gov.it/Main/Desktop.jsp"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://fibonhack.github.io/2021/desktop-telematico-mitm-to-rce"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/201532"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:agenziaentrate:desktop_telematico:1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:agenziaentrate:desktop_telematico:1.0.0",
+	"title": [
+		{
+			"text": "Agenziaentrate Desktop Telematico 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://telematici.agenziaentrate.gov.it/Main/Desktop.jsp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://fibonhack.github.io/2021/desktop-telematico-mitm-to-rce"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/201532"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agenziaentrate:desktop_telematico:1.0.0:*:*:*:*:*:*:*"
+	}
 }

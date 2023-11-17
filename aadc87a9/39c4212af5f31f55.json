@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:octopus:octopus_deploy:2020.3.3",
-  "deprecated": true,
-  "deprecation_date": "2022-07-27T16:57:40.043Z",
-  "title": [
-    {
-      "text": "Octopus Deploy 2020.3.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://octopus.com/downloads/previous"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://octopus.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:octopus:octopus_deploy:2020.3.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-07-27T12:57:40.043-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:octopus:octopus_server:2020.3.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:octopus:octopus_deploy:2020.3.3",
+	"deprecated": true,
+	"deprecation_date": "2022-07-27T16:57:40.043Z",
+	"title": [
+		{
+			"text": "Octopus Deploy 2020.3.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://octopus.com/downloads/previous"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://octopus.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:octopus:octopus_deploy:2020.3.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-07-27T12:57:40.043-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:octopus:octopus_server:2020.3.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

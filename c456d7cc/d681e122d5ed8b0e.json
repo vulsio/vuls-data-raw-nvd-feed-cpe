@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:usermeta:user_meta_user_profile_builder_and_user_management:2.4.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-07-11T14:13:45.603Z",
-  "title": [
-    {
-      "text": "User Meta User Profile Builder And User Management 2.4.1 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://user-meta.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/user-meta/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:usermeta:user_meta_user_profile_builder_and_user_management:2.4.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-07-11T10:13:45.603-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:user-meta:user_meta_user_profile_builder_and_user_management:2.4.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:usermeta:user_meta_user_profile_builder_and_user_management:2.4.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-07-11T14:13:45.603Z",
+	"title": [
+		{
+			"text": "User Meta User Profile Builder And User Management 2.4.1 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://user-meta.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/user-meta/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:usermeta:user_meta_user_profile_builder_and_user_management:2.4.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-07-11T10:13:45.603-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:user-meta:user_meta_user_profile_builder_and_user_management:2.4.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

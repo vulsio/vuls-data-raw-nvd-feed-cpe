@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:eyesofnetwork:eyesofnetwork:5.3",
-  "deprecated": true,
-  "deprecation_date": "2020-04-29T13:24:04.073Z",
-  "title": [
-    {
-      "text": "EyesOfNetwork 5.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.eyesofnetwork.com/fr"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-29T09:24:04.073-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eyesofnetwork:eyesofnetwork:5.3",
+	"deprecated": true,
+	"deprecation_date": "2020-04-29T13:24:04.073Z",
+	"title": [
+		{
+			"text": "EyesOfNetwork 5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.eyesofnetwork.com/fr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-29T09:24:04.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:web-argument:google-map-shortcode:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Web-argument Google-map-shortcode - for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://web-argument.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/google-map-shortcode/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/google-map-shortcode/wordpress-google-map-shortcode-plugin-3-1-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:web-argument:google-map-shortcode:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:web-argument:google-map-shortcode:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Web-argument Google-map-shortcode - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://web-argument.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/google-map-shortcode/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/google-map-shortcode/wordpress-google-map-shortcode-plugin-3-1-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:web-argument:google-map-shortcode:-:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:arduino:arduino_firmware:-",
-  "title": [
-    {
-      "text": "Arduino Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://arxiv.org/pdf/1907.00479.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.arduino.cc/en/Main/Software"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arduino:arduino_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:arduino:arduino_firmware:-",
+	"title": [
+		{
+			"text": "Arduino Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://arxiv.org/pdf/1907.00479.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.arduino.cc/en/Main/Software"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arduino:arduino_firmware:-:*:*:*:*:*:*:*"
+	}
 }

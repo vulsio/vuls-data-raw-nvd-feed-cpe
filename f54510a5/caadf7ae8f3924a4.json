@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:imagelinks_interactive_image_builder_project:imagelinks_interactive_image_builder:1.5.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-13T14:11:25.590Z",
-  "title": [
-    {
-      "text": "ImageLinks Interactive Image Builder Project ImageLinks Interactive Image Builder 1.5.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/imagelinks-interactive-image-builder-lite/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/imagelinks-interactive-image-builder-lite/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:imagelinks_interactive_image_builder_project:imagelinks_interactive_image_builder:1.5.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-13T09:11:25.590-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:avirtum:imagelinks:1.5.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:imagelinks_interactive_image_builder_project:imagelinks_interactive_image_builder:1.5.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-13T14:11:25.590Z",
+	"title": [
+		{
+			"text": "ImageLinks Interactive Image Builder Project ImageLinks Interactive Image Builder 1.5.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/imagelinks-interactive-image-builder-lite/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/imagelinks-interactive-image-builder-lite/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:imagelinks_interactive_image_builder_project:imagelinks_interactive_image_builder:1.5.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-13T09:11:25.590-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:avirtum:imagelinks:1.5.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

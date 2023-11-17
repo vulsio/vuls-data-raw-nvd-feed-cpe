@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:netapp:hci_baseboard_management_controller:h615c",
-  "deprecated": true,
-  "deprecation_date": "2023-11-09T13:59:45.620Z",
-  "title": [
-    {
-      "text": "NetApp HCI Baseboard Management Controller (BMC) H615C",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.netapp.com/us/index.aspx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20220121-0006/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h615c:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-09T08:59:45.620-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:netapp:h615c:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netapp:hci_baseboard_management_controller:h615c",
+	"deprecated": true,
+	"deprecation_date": "2023-11-09T13:59:45.620Z",
+	"title": [
+		{
+			"text": "NetApp HCI Baseboard Management Controller (BMC) H615C",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.netapp.com/us/index.aspx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20220121-0006/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h615c:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-09T08:59:45.620-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:netapp:h615c:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

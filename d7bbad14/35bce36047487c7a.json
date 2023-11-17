@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pivotal_software:spring_framework:5.0.18",
-  "deprecated": true,
-  "deprecation_date": "2022-04-11T17:21:03.713Z",
-  "title": [
-    {
-      "text": "Pivotal Software Spring Framework 5.0.18",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://spring.io/projects/spring-framework"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-framework/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.vmware.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:spring_framework:5.0.18:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-11T13:21:03.713-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:spring_framework:5.0.18:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:spring_framework:5.0.18",
+	"deprecated": true,
+	"deprecation_date": "2022-04-11T17:21:03.713Z",
+	"title": [
+		{
+			"text": "Pivotal Software Spring Framework 5.0.18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-framework"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-framework/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.vmware.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:spring_framework:5.0.18:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-11T13:21:03.713-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:spring_framework:5.0.18:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

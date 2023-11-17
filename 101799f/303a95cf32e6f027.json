@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:ipdgroup:newsplugin:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Internet Product Development Group NewsPlugin for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.ipdgroup.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.newsplugin.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/newsplugin/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34631"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ipdgroup:newsplugin:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:ipdgroup:newsplugin:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Internet Product Development Group NewsPlugin for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.ipdgroup.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.newsplugin.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/newsplugin/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34631"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ipdgroup:newsplugin:-:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:equeshome:elf_smart_plug:-",
-  "title": [
-    {
-      "text": "Equeshome elf Smart Plug",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ckn.io/blog/2019/08/27/exploiting-the-eques-elf-smart-plug-part-one/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/iamckn/eques"
-    },
-    {
-      "text": "Product",
-      "href": "https://equeshome.com/products/elf-smart-plug"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:equeshome:elf_smart_plug:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:equeshome:elf_smart_plug:-",
+	"title": [
+		{
+			"text": "Equeshome elf Smart Plug",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ckn.io/blog/2019/08/27/exploiting-the-eques-elf-smart-plug-part-one/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/iamckn/eques"
+		},
+		{
+			"text": "Product",
+			"href": "https://equeshome.com/products/elf-smart-plug"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:equeshome:elf_smart_plug:-:*:*:*:*:*:*:*"
+	}
 }

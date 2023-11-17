@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:aerospike:aerospike_java_client:4.4.19",
-  "title": [
-    {
-      "text": "Aerospike Aerospike Java Client 4.4.19",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/aerospike/aerospike-client-java/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.aerospike.com/s/article/CVE-2023-36480-Aerospike-Java-Client-vulnerable-to-unsafe-deserialization-of-server-responses"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/aerospike/aerospike-client-java/security/advisories/GHSA-jj95-55cr-9597"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:aerospike:aerospike_java_client:4.4.19:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:aerospike:aerospike_java_client:4.4.19",
+	"title": [
+		{
+			"text": "Aerospike Aerospike Java Client 4.4.19",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/aerospike/aerospike-client-java/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.aerospike.com/s/article/CVE-2023-36480-Aerospike-Java-Client-vulnerable-to-unsafe-deserialization-of-server-responses"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aerospike/aerospike-client-java/security/advisories/GHSA-jj95-55cr-9597"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aerospike:aerospike_java_client:4.4.19:*:*:*:*:*:*:*"
+	}
 }

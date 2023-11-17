@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:sap:netweaver_as_abap:7.50::developer",
-  "deprecated": true,
-  "deprecation_date": "2022-10-05T14:17:50.747Z",
-  "title": [
-    {
-      "text": "SAP NetWeaver AS for ABAP 7.50 Developer Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://search.sap.com/search.html?t=sap%20netweaver%20as%20abap&n=1&s=boost&src=defaultSourceGroup"
-    },
-    {
-      "text": "Product",
-      "href": "https://search.sap.com/search.html?t=sap%20netweaver%20as%20abap&n=2&s=boost&src=defaultSourceGroup"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:netweaver_as_abap:7.50:*:developer:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-05T10:17:50.747-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sap:netweaver_application_server_abap:7.50:*:*:*:developer:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sap:netweaver_as_abap:7.50::developer",
+	"deprecated": true,
+	"deprecation_date": "2022-10-05T14:17:50.747Z",
+	"title": [
+		{
+			"text": "SAP NetWeaver AS for ABAP 7.50 Developer Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://search.sap.com/search.html?t=sap%20netweaver%20as%20abap&n=1&s=boost&src=defaultSourceGroup"
+		},
+		{
+			"text": "Product",
+			"href": "https://search.sap.com/search.html?t=sap%20netweaver%20as%20abap&n=2&s=boost&src=defaultSourceGroup"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:netweaver_as_abap:7.50:*:developer:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-05T10:17:50.747-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sap:netweaver_application_server_abap:7.50:*:*:*:developer:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

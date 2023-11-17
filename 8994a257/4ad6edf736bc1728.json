@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:m_chart_project:m_chart:1.7.11::~~~wordpress~~",
-  "title": [
-    {
-      "text": "M Chart Project M Chart 1.7.11 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/m-chart/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/m-chart/wordpress-m-chart-plugin-1-9-4-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:m_chart_project:m_chart:1.7.11:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:m_chart_project:m_chart:1.7.11::~~~wordpress~~",
+	"title": [
+		{
+			"text": "M Chart Project M Chart 1.7.11 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/m-chart/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/m-chart/wordpress-m-chart-plugin-1-9-4-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:m_chart_project:m_chart:1.7.11:*:*:*:*:wordpress:*:*"
+	}
 }

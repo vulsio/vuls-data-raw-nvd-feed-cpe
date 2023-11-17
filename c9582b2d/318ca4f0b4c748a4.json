@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:azure_ad_pod_identity:1.5.4:-",
-  "title": [
-    {
-      "text": "Microsoft Azure AD Pod Identity 1.5.4 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://azure.github.io/aad-pod-identity/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/Azure/aad-pod-identity/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Azure/aad-pod-identity/security/advisories/GHSA-p82q-rxpm-hjpc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_ad_pod_identity:1.5.4:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_ad_pod_identity:1.5.4:-",
+	"title": [
+		{
+			"text": "Microsoft Azure AD Pod Identity 1.5.4 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://azure.github.io/aad-pod-identity/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Azure/aad-pod-identity/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Azure/aad-pod-identity/security/advisories/GHSA-p82q-rxpm-hjpc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_ad_pod_identity:1.5.4:-:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:zope:zope:5.0",
-  "deprecated": true,
-  "deprecation_date": "2023-09-12T17:30:38.513Z",
-  "title": [
-    {
-      "text": "Zope 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/zopefoundation/Zope/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/zopefoundation/Zope"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.zope.dev/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zope:zope:5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-12T13:30:38.513-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zope:zope:5.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zope:zope:5.0",
+	"deprecated": true,
+	"deprecation_date": "2023-09-12T17:30:38.513Z",
+	"title": [
+		{
+			"text": "Zope 5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/zopefoundation/Zope/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/zopefoundation/Zope"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zope.dev/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zope:zope:5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-12T13:30:38.513-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zope:zope:5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

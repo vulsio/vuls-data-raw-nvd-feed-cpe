@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:dmtf:libspdm:2.2.0",
-  "title": [
-    {
-      "text": "DMTF (Distributed Management Task Force) libspdm 2.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/DMTF/libspdm/security/advisories/GHSA-qw76-4v8p-xq9f"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dmtf.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/DMTF/libspdm/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dmtf:libspdm:2.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dmtf:libspdm:2.2.0",
+	"title": [
+		{
+			"text": "DMTF (Distributed Management Task Force) libspdm 2.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/DMTF/libspdm/security/advisories/GHSA-qw76-4v8p-xq9f"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dmtf.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/DMTF/libspdm/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dmtf:libspdm:2.2.0:*:*:*:*:*:*:*"
+	}
 }

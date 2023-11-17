@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:rabbitmq:jms_client:1.6.0:rc1:~~~rabbitmq~~",
-  "title": [
-    {
-      "text": "RabbitMQ JMS Client 1.6.0 Release Candidate 1 for RabbitMQ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://rabbitmq.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/rabbitmq/rabbitmq-jms-client/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rabbitmq:jms_client:1.6.0:rc1:*:*:*:rabbitmq:*:*"
-  }
+	"name": "cpe:/a:rabbitmq:jms_client:1.6.0:rc1:~~~rabbitmq~~",
+	"title": [
+		{
+			"text": "RabbitMQ JMS Client 1.6.0 Release Candidate 1 for RabbitMQ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://rabbitmq.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rabbitmq/rabbitmq-jms-client/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rabbitmq:jms_client:1.6.0:rc1:*:*:*:rabbitmq:*:*"
+	}
 }

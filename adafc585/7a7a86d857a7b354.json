@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:mediatek:mt6625:-::~~~android~~",
-  "title": [
-    {
-      "text": "Mediatek MT6625 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.mediatek.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/andr3jx/MTK6577/blob/238012ebf18e3751397884d1742ff7ab6417e80d/mediatek/platform/mt6577/external/meta/emmc/meta_clr_emmc.c#L302-L305"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://dojo.bullguard.com/dojo-by-bullguard/blog/gaining-rooting-primitives-for-android-mediatek-chips/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:mediatek:mt6625:-:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/h:mediatek:mt6625:-::~~~android~~",
+	"title": [
+		{
+			"text": "Mediatek MT6625 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.mediatek.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/andr3jx/MTK6577/blob/238012ebf18e3751397884d1742ff7ab6417e80d/mediatek/platform/mt6577/external/meta/emmc/meta_clr_emmc.c#L302-L305"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://dojo.bullguard.com/dojo-by-bullguard/blog/gaining-rooting-primitives-for-android-mediatek-chips/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:mediatek:mt6625:-:*:*:*:*:android:*:*"
+	}
 }

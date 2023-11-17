@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudfoundry:staticfile_buildpack:1.5.14",
-  "title": [
-    {
-      "text": "Cloud Foundry Staticfile Buildpack 1.5.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cloudfoundry.org/blog/cve-2017-4970/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudfoundry.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/staticfile-buildpack/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.5.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudfoundry:staticfile_buildpack:1.5.14",
+	"title": [
+		{
+			"text": "Cloud Foundry Staticfile Buildpack 1.5.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cloudfoundry.org/blog/cve-2017-4970/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudfoundry.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/staticfile-buildpack/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudfoundry:staticfile_buildpack:1.5.14:*:*:*:*:*:*:*"
+	}
 }

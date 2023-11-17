@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:wildfly:10.1.2",
-  "title": [
-    {
-      "text": "Red Hat WildFly 10.1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt"
-    },
-    {
-      "text": "Version",
-      "href": "https://wildfly.org/downloads/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wildfly.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:wildfly:10.1.2",
+	"title": [
+		{
+			"text": "Red Hat WildFly 10.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kmkz/exploit/blob/master/CVE-2018-10682-CVE-2018-10683.txt"
+		},
+		{
+			"text": "Version",
+			"href": "https://wildfly.org/downloads/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wildfly.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly:10.1.2:*:*:*:*:*:*:*"
+	}
 }

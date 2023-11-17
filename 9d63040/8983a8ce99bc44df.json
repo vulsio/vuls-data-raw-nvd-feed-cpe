@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:lionscripts:ip_blocker_lite:4.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Lion Scripts IP Blocker Lite 4.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ip-address-blocker/wordpress-lionscripts-ip-blocker-lite-plugin-11-1-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/ip-address-blocker/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lionscripts:ip_blocker_lite:4.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:lionscripts:ip_blocker_lite:4.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Lion Scripts IP Blocker Lite 4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ip-address-blocker/wordpress-lionscripts-ip-blocker-lite-plugin-11-1-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ip-address-blocker/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lionscripts:ip_blocker_lite:4.0:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:rust_sgx_sdk:0.9.7",
-  "title": [
-    {
-      "text": "Apache Software Foundation Rust SGX SDK 0.9.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/wssgcsc58/CVEs/tree/master/baidurustsgxsdk_enclaveid_race/poc"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/apache/incubator-teaclave-sgx-sdk/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:rust_sgx_sdk:0.9.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:rust_sgx_sdk:0.9.7",
+	"title": [
+		{
+			"text": "Apache Software Foundation Rust SGX SDK 0.9.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/wssgcsc58/CVEs/tree/master/baidurustsgxsdk_enclaveid_race/poc"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/apache/incubator-teaclave-sgx-sdk/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:rust_sgx_sdk:0.9.7:*:*:*:*:*:*:*"
+	}
 }

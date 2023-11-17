@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:communications_service_broker:6.0::~~engineered_system~~~",
-  "title": [
-    {
-      "text": "Oracle Communications Service Broker 6.0 Engineered System Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.oracle.com/cd/E23521_01/index.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:communications_service_broker:6.0:*:*:*:engineered_system:*:*:*"
-  }
+	"name": "cpe:/a:oracle:communications_service_broker:6.0::~~engineered_system~~~",
+	"title": [
+		{
+			"text": "Oracle Communications Service Broker 6.0 Engineered System Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/cd/E23521_01/index.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:communications_service_broker:6.0:*:*:*:engineered_system:*:*:*"
+	}
 }

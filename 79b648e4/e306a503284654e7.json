@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt105p:6.02.03",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:40.967Z",
-  "title": [
-    {
-      "text": "Yamaha RT105p 6.02.03",
-      "lang": "en-US"
-    },
-    {
-      "text": "ヤマハ RT105p 6.02.03",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt105p:6.02.03:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:40.967-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt105p:6.02.03:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt105p:6.02.03",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:40.967Z",
+	"title": [
+		{
+			"text": "Yamaha RT105p 6.02.03",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RT105p 6.02.03",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt105p:6.02.03:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:40.967-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt105p:6.02.03:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

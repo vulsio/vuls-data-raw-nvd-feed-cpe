@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:btpcoin_project:btpcoin:-",
-  "title": [
-    {
-      "text": "BTPCoin Project BTPCoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/BTPCoin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:btpcoin_project:btpcoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:btpcoin_project:btpcoin:-",
+	"title": [
+		{
+			"text": "BTPCoin Project BTPCoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/BTPCoin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:btpcoin_project:btpcoin:-:*:*:*:*:*:*:*"
+	}
 }

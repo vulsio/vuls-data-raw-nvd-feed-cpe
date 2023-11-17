@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:timelybills:timelybills:-::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "TimelyBills for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.timelybills.app/"
-    },
-    {
-      "text": "Product",
-      "href": "https://apps.apple.com/us/app/timelybills-money-manager/id1454624499"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://beefaaubee.medium.com/cve-2021-26833-cleartext-storage-in-a-file-or-on-disk-in-timelybills-1-7-0-5760dc461bd0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:timelybills:timelybills:-:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:timelybills:timelybills:-::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "TimelyBills for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.timelybills.app/"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/timelybills-money-manager/id1454624499"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://beefaaubee.medium.com/cve-2021-26833-cleartext-storage-in-a-file-or-on-disk-in-timelybills-1-7-0-5760dc461bd0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:timelybills:timelybills:-:*:*:*:*:iphone_os:*:*"
+	}
 }

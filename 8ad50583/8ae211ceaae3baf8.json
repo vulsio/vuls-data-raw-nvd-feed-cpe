@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:huge-it:portfolio_gallery:1.0.6::~~~joomla~~",
-  "deprecated": true,
-  "deprecation_date": "2017-03-29T17:06:02.967Z",
-  "title": [
-    {
-      "text": "Huge-IT Portfolio Gallery 1.0.6 for Joomla",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://huge-it.com/joomla-portfolio-gallery/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.vapidlabs.com/advisory.php?v=170"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huge-it:portfolio_gallery:1.0.6:*:*:*:*:joomla:*:*",
-    "deprecation": {
-      "date": "2017-03-29T13:06:02.967-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:huge-it:portfolio_gallery:1.0.6:*:*:*:*:joomla\\!:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:huge-it:portfolio_gallery:1.0.6::~~~joomla~~",
+	"deprecated": true,
+	"deprecation_date": "2017-03-29T17:06:02.967Z",
+	"title": [
+		{
+			"text": "Huge-IT Portfolio Gallery 1.0.6 for Joomla",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://huge-it.com/joomla-portfolio-gallery/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.vapidlabs.com/advisory.php?v=170"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huge-it:portfolio_gallery:1.0.6:*:*:*:*:joomla:*:*",
+		"deprecation": {
+			"date": "2017-03-29T13:06:02.967-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:huge-it:portfolio_gallery:1.0.6:*:*:*:*:joomla\\!:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

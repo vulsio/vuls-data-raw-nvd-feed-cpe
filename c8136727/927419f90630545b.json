@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pulsesecure:pulse_connect_secure:8.3r6.1",
-  "deprecated": true,
-  "deprecation_date": "2020-04-29T17:33:19.277Z",
-  "title": [
-    {
-      "text": "PulseSecure Pulse Connect Secure (PCS) 8.3R6.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.pulsesecure.net/techpubs/pulse-connect-secure/pcs/8.3rx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.3r6.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-29T13:33:19.277-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.3:r6.1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pulsesecure:pulse_connect_secure:8.3r6.1",
+	"deprecated": true,
+	"deprecation_date": "2020-04-29T17:33:19.277Z",
+	"title": [
+		{
+			"text": "PulseSecure Pulse Connect Secure (PCS) 8.3R6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.pulsesecure.net/techpubs/pulse-connect-secure/pcs/8.3rx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.3r6.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-29T13:33:19.277-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:8.3:r6.1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:yellowyard:yellow_yard_searchbar:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Yellow Yard Searchbar for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/c9a106e1-29ae-47ad-907b-01086af3d3fb"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yellow-yard"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://yellowyard.nl/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yellowyard:yellow_yard_searchbar:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:yellowyard:yellow_yard_searchbar:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Yellow Yard Searchbar for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/c9a106e1-29ae-47ad-907b-01086af3d3fb"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yellow-yard"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://yellowyard.nl/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yellowyard:yellow_yard_searchbar:-:*:*:*:*:wordpress:*:*"
+	}
 }

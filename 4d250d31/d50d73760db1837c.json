@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:spring_data_java_persistence_api:2.1.0",
-  "title": [
-    {
-      "text": "VMware Spring Data Java Persistence Api 2.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3797"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://pivotal.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-data-jpa"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:spring_data_java_persistence_api:2.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:spring_data_java_persistence_api:2.1.0",
+	"title": [
+		{
+			"text": "VMware Spring Data Java Persistence Api 2.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3797"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://pivotal.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-data-jpa"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_data_java_persistence_api:2.1.0:*:*:*:*:*:*:*"
+	}
 }

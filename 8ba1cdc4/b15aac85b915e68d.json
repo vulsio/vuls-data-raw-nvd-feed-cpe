@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:bea:weblogic_portal:8.1:sp5",
-  "deprecated": true,
-  "deprecation_date": "2011-01-18T19:38:15.267Z",
-  "title": [
-    {
-      "text": "Oracle WebLogic Portal 8.1 Service Pack 5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bea:weblogic_portal:8.1:sp5:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-01-18T14:38:15.267-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:weblogic_portal:8.1:sp5:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bea:weblogic_portal:8.1:sp5",
+	"deprecated": true,
+	"deprecation_date": "2011-01-18T19:38:15.267Z",
+	"title": [
+		{
+			"text": "Oracle WebLogic Portal 8.1 Service Pack 5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bea:weblogic_portal:8.1:sp5:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-01-18T14:38:15.267-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:weblogic_portal:8.1:sp5:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

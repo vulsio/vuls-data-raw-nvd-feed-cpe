@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pivotal:cloud_foundry_deployment:7.0.0",
-  "title": [
-    {
-      "text": "Pivotal Cloud Foundry Deployment 7.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/cf-deployment/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:cloud_foundry_deployment:7.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pivotal:cloud_foundry_deployment:7.0.0",
+	"title": [
+		{
+			"text": "Pivotal Cloud Foundry Deployment 7.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/cf-deployment/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:cloud_foundry_deployment:7.0.0:*:*:*:*:*:*:*"
+	}
 }

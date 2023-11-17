@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:netapp:bootstrap_os:-",
-  "title": [
-    {
-      "text": "NetApp Bootstrap OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kb.netapp.com/Advice_and_Troubleshooting/Hybrid_Cloud_Infrastructure/NetApp_HCI/How_to_access_the_bootstrap_OS_on_a_NetApp_HCI_compute_node"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20220429-0006/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netapp:bootstrap_os:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netapp:bootstrap_os:-",
+	"title": [
+		{
+			"text": "NetApp Bootstrap OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kb.netapp.com/Advice_and_Troubleshooting/Hybrid_Cloud_Infrastructure/NetApp_HCI/How_to_access_the_bootstrap_OS_on_a_NetApp_HCI_compute_node"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20220429-0006/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netapp:bootstrap_os:-:*:*:*:*:*:*:*"
+	}
 }

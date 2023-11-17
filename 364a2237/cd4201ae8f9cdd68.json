@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mantisbt:source_integration:1.5.6::~~~mantisbit~~",
-  "deprecated": true,
-  "deprecation_date": "2020-02-19T21:43:03.563Z",
-  "title": [
-    {
-      "text": "MantisBT Source Integration 1.5.6 for MantisBT",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mantisbt-plugins/source-integration/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mantisbt:source_integration:1.5.6:*:*:*:*:mantisbit:*:*",
-    "deprecation": {
-      "date": "2020-02-19T16:43:03.563-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mantisbt:source_integration:1.5.6:*:*:*:*:mantisbt:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mantisbt:source_integration:1.5.6::~~~mantisbit~~",
+	"deprecated": true,
+	"deprecation_date": "2020-02-19T21:43:03.563Z",
+	"title": [
+		{
+			"text": "MantisBT Source Integration 1.5.6 for MantisBT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mantisbt-plugins/source-integration/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mantisbt:source_integration:1.5.6:*:*:*:*:mantisbit:*:*",
+		"deprecation": {
+			"date": "2020-02-19T16:43:03.563-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mantisbt:source_integration:1.5.6:*:*:*:*:mantisbt:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:visio_2007:-:sp1",
-  "deprecated": true,
-  "deprecation_date": "2009-03-05T17:19:19.360Z",
-  "title": [
-    {
-      "text": "Microsoft Office Visio 2007 SP1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:visio_2007:-:sp1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2009-03-05T12:19:19.360-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:visio:2007:sp1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:visio_2007:-:sp1",
+	"deprecated": true,
+	"deprecation_date": "2009-03-05T17:19:19.360Z",
+	"title": [
+		{
+			"text": "Microsoft Office Visio 2007 SP1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:visio_2007:-:sp1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2009-03-05T12:19:19.360-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:visio:2007:sp1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

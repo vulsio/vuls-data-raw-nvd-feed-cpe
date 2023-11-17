@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:abb:relion_630_firmware:1.2.0.b3",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T21:02:24.420Z",
-  "title": [
-    {
-      "text": "ABB Relion 630 Firmware 1.2.0.B3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://new.abb.com/medium-voltage/distribution-automation/relion/relion-630-series"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.securityfocus.com/bid/106641"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:relion_630_firmware:1.2.0.b3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T17:02:24.420-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:hitachienergy:relion_630_firmware:1.2.0.b3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:abb:relion_630_firmware:1.2.0.b3",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T21:02:24.420Z",
+	"title": [
+		{
+			"text": "ABB Relion 630 Firmware 1.2.0.B3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://new.abb.com/medium-voltage/distribution-automation/relion/relion-630-series"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.securityfocus.com/bid/106641"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:relion_630_firmware:1.2.0.b3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T17:02:24.420-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:hitachienergy:relion_630_firmware:1.2.0.b3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.8.0:rc2",
-  "deprecated": true,
-  "deprecation_date": "2023-06-05T20:39:01.240Z",
-  "title": [
-    {
-      "text": "Linux Kernel 5.8.0 Release Candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-rc2-Released"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.8.0:rc2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-05T16:39:01.240-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:5.8:rc2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.8.0:rc2",
+	"deprecated": true,
+	"deprecation_date": "2023-06-05T20:39:01.240Z",
+	"title": [
+		{
+			"text": "Linux Kernel 5.8.0 Release Candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.8-rc2-Released"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.8.0:rc2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-05T16:39:01.240-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:5.8:rc2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

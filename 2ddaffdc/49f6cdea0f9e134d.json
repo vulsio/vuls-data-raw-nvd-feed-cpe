@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:phillips:xcelera:4.1",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T17:45:24.000Z",
-  "title": [
-    {
-      "text": "Phillips Xcelera 4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-226-01"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.usa.philips.com/healthcare/product/HCNOCTN198/intellispace-cardiovascular/overview"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phillips:xcelera:4.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T12:45:24.000-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:philips:xcelera:4.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phillips:xcelera:4.1",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T17:45:24.000Z",
+	"title": [
+		{
+			"text": "Phillips Xcelera 4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-226-01"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.usa.philips.com/healthcare/product/HCNOCTN198/intellispace-cardiovascular/overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phillips:xcelera:4.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T12:45:24.000-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:philips:xcelera:4.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

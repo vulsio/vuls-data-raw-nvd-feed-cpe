@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sentry:sentry:23.3.0",
-  "title": [
-    {
-      "text": "Sentry Sentry 23.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/getsentry/sentry/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/getsentry/sentry/security/advisories/GHSA-m4hc-m2v6-hfw8"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://sentry.io/welcome/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sentry:sentry:23.3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sentry:sentry:23.3.0",
+	"title": [
+		{
+			"text": "Sentry Sentry 23.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/getsentry/sentry/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/getsentry/sentry/security/advisories/GHSA-m4hc-m2v6-hfw8"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://sentry.io/welcome/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sentry:sentry:23.3.0:*:*:*:*:*:*:*"
+	}
 }

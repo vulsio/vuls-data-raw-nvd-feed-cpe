@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:hardware_accelerated_execution_manager:7.5.4",
-  "title": [
-    {
-      "text": "Intel Hardware Accelerated Execution Manager (HAXM) 7.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00544.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/intel/haxm/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:hardware_accelerated_execution_manager:7.5.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:hardware_accelerated_execution_manager:7.5.4",
+	"title": [
+		{
+			"text": "Intel Hardware Accelerated Execution Manager (HAXM) 7.5.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00544.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/intel/haxm/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:hardware_accelerated_execution_manager:7.5.4:*:*:*:*:*:*:*"
+	}
 }

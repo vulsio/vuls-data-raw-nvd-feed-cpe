@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tp-link:eap_controller:2.4.7::~~~windows~~",
-  "title": [
-    {
-      "text": "TP-Link EAP Controller 2.4.7 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.coresecurity.com/core-labs/advisories/tp-link-eap-controller-multiple-vulnerabilities"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tp-link.com/us/support/download/omada-software-controller/v1/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.tp-link.com/us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tp-link:eap_controller:2.4.7:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:tp-link:eap_controller:2.4.7::~~~windows~~",
+	"title": [
+		{
+			"text": "TP-Link EAP Controller 2.4.7 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.coresecurity.com/core-labs/advisories/tp-link-eap-controller-multiple-vulnerabilities"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tp-link.com/us/support/download/omada-software-controller/v1/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.tp-link.com/us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tp-link:eap_controller:2.4.7:*:*:*:*:windows:*:*"
+	}
 }

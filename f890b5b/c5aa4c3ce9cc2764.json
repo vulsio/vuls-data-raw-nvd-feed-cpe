@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:silabs:micrium_uc-http:3.01.01",
-  "title": [
-    {
-      "text": "Silabs Micrium uC-HTTP 3.01.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.silabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.micrium.com/rtos/tcpip/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24942.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silabs:micrium_uc-http:3.01.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:silabs:micrium_uc-http:3.01.01",
+	"title": [
+		{
+			"text": "Silabs Micrium uC-HTTP 3.01.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.silabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.micrium.com/rtos/tcpip/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24942.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silabs:micrium_uc-http:3.01.01:*:*:*:*:*:*:*"
+	}
 }

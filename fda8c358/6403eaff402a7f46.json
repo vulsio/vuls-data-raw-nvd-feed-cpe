@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mobileiron:mobile%40work:-::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "Mobileiron Mobile@Work for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://apps.apple.com/us/app/mobileiron-mobile-work-client/id320659794"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.optiv.com/explore-optiv-insights/source-zero/mobileiron-mdm-contains-static-key-allowing-account-enumeration"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mobileiron:mobile\\@work:-:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:mobileiron:mobile%40work:-::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "Mobileiron Mobile@Work for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/mobileiron-mobile-work-client/id320659794"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.optiv.com/explore-optiv-insights/source-zero/mobileiron-mdm-contains-static-key-allowing-account-enumeration"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mobileiron:mobile\\@work:-:*:*:*:*:iphone_os:*:*"
+	}
 }

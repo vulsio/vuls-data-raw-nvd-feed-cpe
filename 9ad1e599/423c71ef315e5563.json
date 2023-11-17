@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:intel:core_i3:8100",
-  "deprecated": true,
-  "deprecation_date": "2023-09-25T20:35:51.890Z",
-  "title": [
-    {
-      "text": "Intel Core I3 8100",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/122588/8th-generation-intel-core-i3-processors.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:core_i3:8100:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-25T16:35:51.890-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:core_i3-8100:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:core_i3:8100",
+	"deprecated": true,
+	"deprecation_date": "2023-09-25T20:35:51.890Z",
+	"title": [
+		{
+			"text": "Intel Core I3 8100",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/122588/8th-generation-intel-core-i3-processors.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:core_i3:8100:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-25T16:35:51.890-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:core_i3-8100:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ibm:storwize:v7000",
-  "deprecated": true,
-  "deprecation_date": "2014-06-03T18:13:39.147Z",
-  "title": [
-    {
-      "text": "IBM Storwize V7000",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:storwize:v7000:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-06-03T14:13:39.147-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:ibm:storwize_v7000:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:storwize:v7000",
+	"deprecated": true,
+	"deprecation_date": "2014-06-03T18:13:39.147Z",
+	"title": [
+		{
+			"text": "IBM Storwize V7000",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:storwize:v7000:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-06-03T14:13:39.147-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:ibm:storwize_v7000:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

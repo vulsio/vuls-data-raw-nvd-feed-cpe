@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:jenkins:ssh_agent:1.19::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins SSH Agent 1.19 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://plugins.jenkins.io/ssh-agent/#releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:ssh_agent:1.19:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:ssh_agent:1.19::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins SSH Agent 1.19 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/ssh-agent/#releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:ssh_agent:1.19:*:*:*:*:jenkins:*:*"
+	}
 }

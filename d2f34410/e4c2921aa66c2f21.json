@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:tenable:nessus_amazon_machine_image:8.12.0",
-  "title": [
-    {
-      "text": "Tenable Nessus Amazon Machine Image (AMI) 8.12.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/security/tns-2021-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://aws.amazon.com/marketplace/pp/Tenable-Inc-Nessus-BYOL/B01EHYYYRO"
-    },
-    {
-      "text": "Product",
-      "href": "https://community.tenable.com/s/article/Amazon-Machine-Image-Deployment-AMI"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tenable:nessus_amazon_machine_image:8.12.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tenable:nessus_amazon_machine_image:8.12.0",
+	"title": [
+		{
+			"text": "Tenable Nessus Amazon Machine Image (AMI) 8.12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/security/tns-2021-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://aws.amazon.com/marketplace/pp/Tenable-Inc-Nessus-BYOL/B01EHYYYRO"
+		},
+		{
+			"text": "Product",
+			"href": "https://community.tenable.com/s/article/Amazon-Machine-Image-Deployment-AMI"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tenable:nessus_amazon_machine_image:8.12.0:*:*:*:*:*:*:*"
+	}
 }

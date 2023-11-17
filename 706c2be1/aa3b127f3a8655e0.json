@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:prometheus:client_golang:0.3.0::~~~go~~",
-  "title": [
-    {
-      "text": "Prometheus Client Golang 0.3.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/prometheus/client_golang/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/prometheus/client_golang/security/advisories/GHSA-cg3q-j54f-5p7p"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://prometheus.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:prometheus:client_golang:0.3.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:prometheus:client_golang:0.3.0::~~~go~~",
+	"title": [
+		{
+			"text": "Prometheus Client Golang 0.3.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/prometheus/client_golang/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/prometheus/client_golang/security/advisories/GHSA-cg3q-j54f-5p7p"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://prometheus.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:prometheus:client_golang:0.3.0:*:*:*:*:go:*:*"
+	}
 }

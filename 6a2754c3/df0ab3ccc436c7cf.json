@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:trendmicro:password_manager:5.0.1073::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:35:35.907Z",
-  "title": [
-    {
-      "text": "Trend Micro Password Manager 5.0.1073 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://esupport.trendmicro.com/en-us/home/pages/technical-support/1124092.aspx"
-    },
-    {
-      "text": "Product",
-      "href": "https://esupport.trendmicro.com/en-us/home/pages/technical-support/password-manager/1059643.aspx?referral=1105103"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:trendmicro:password_manager:5.0.1073:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:35:35.907-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:trendmicro:password_manager:5.0.1073:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:trendmicro:password_manager:5.0.1073::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:35:35.907Z",
+	"title": [
+		{
+			"text": "Trend Micro Password Manager 5.0.1073 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://esupport.trendmicro.com/en-us/home/pages/technical-support/1124092.aspx"
+		},
+		{
+			"text": "Product",
+			"href": "https://esupport.trendmicro.com/en-us/home/pages/technical-support/password-manager/1059643.aspx?referral=1105103"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:trendmicro:password_manager:5.0.1073:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:35:35.907-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:trendmicro:password_manager:5.0.1073:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

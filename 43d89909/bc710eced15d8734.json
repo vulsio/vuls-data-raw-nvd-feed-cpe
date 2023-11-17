@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:mi:rm1800_firmware:-",
-  "title": [
-    {
-      "text": "Xiaomi RM1800 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://rusvyaz.store/product/router-xiaomi-mi-router-ax1800-rm1800-black"
-    },
-    {
-      "text": "Product",
-      "href": "https://xiaomi-mi.com/wifi-routers/xiaomi-ax1800-wireless-router/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202101-952"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/14xxx/CVE-2020-14098.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:mi:rm1800_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:mi:rm1800_firmware:-",
+	"title": [
+		{
+			"text": "Xiaomi RM1800 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://rusvyaz.store/product/router-xiaomi-mi-router-ax1800-rm1800-black"
+		},
+		{
+			"text": "Product",
+			"href": "https://xiaomi-mi.com/wifi-routers/xiaomi-ax1800-wireless-router/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202101-952"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/14xxx/CVE-2020-14098.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:mi:rm1800_firmware:-:*:*:*:*:*:*:*"
+	}
 }

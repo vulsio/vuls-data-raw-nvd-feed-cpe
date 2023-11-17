@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:docker:desktop:2.1.0.9::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Docker Desktop 2.1.0.9 Enterprise",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/ee/desktop/release-notes/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-002.md"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/release-notes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:desktop:2.1.0.9:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:docker:desktop:2.1.0.9::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Docker Desktop 2.1.0.9 Enterprise",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/ee/desktop/release-notes/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-002.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:desktop:2.1.0.9:*:*:*:enterprise:*:*:*"
+	}
 }

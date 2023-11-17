@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bluez:bluez:5.56",
-  "title": [
-    {
-      "text": "BlueZ 5.56",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.bluez.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/bluez/bluez/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3588.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bluez:bluez:5.56:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bluez:bluez:5.56",
+	"title": [
+		{
+			"text": "BlueZ 5.56",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.bluez.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bluez/bluez/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3588.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bluez:bluez:5.56:*:*:*:*:*:*:*"
+	}
 }

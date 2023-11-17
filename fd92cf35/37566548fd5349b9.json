@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:otrs:otrs:5.0.4::~~community~~~",
-  "title": [
-    {
-      "text": "Open Ticket Request System (OTRS) 5.0.4 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/OTRS/otrs/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://doc.otrs.com/doc/manual/admin/6.0/en/html/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:otrs:otrs:5.0.4:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:otrs:otrs:5.0.4::~~community~~~",
+	"title": [
+		{
+			"text": "Open Ticket Request System (OTRS) 5.0.4 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/OTRS/otrs/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://doc.otrs.com/doc/manual/admin/6.0/en/html/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:otrs:otrs:5.0.4:*:*:*:community:*:*:*"
+	}
 }

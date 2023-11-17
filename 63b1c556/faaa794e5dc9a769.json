@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:arena:guild_wars_2:106916",
-  "title": [
-    {
-      "text": "ARENANET Guild Wars 2 106916",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arena.net/en"
-    },
-    {
-      "text": "Product",
-      "href": "https://account.arena.net/welcome"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/FreySolarEye/CVE/blob/master/Guild%20Wars%202%20-%20Local%20Privilege%20Escalation"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arena:guild_wars_2:106916:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:arena:guild_wars_2:106916",
+	"title": [
+		{
+			"text": "ARENANET Guild Wars 2 106916",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arena.net/en"
+		},
+		{
+			"text": "Product",
+			"href": "https://account.arena.net/welcome"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/FreySolarEye/CVE/blob/master/Guild%20Wars%202%20-%20Local%20Privilege%20Escalation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arena:guild_wars_2:106916:*:*:*:*:*:*:*"
+	}
 }

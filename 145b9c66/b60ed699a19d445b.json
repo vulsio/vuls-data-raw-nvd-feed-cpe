@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:yealink:device_management:3.6.0.20",
-  "title": [
-    {
-      "text": "Yealink Device Management 3.6.0.20",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.yealink.com/products_108.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yealink:device_management:3.6.0.20:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:yealink:device_management:3.6.0.20",
+	"title": [
+		{
+			"text": "Yealink Device Management 3.6.0.20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.yealink.com/products_108.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ssd-disclosure.com/ssd-advisory-yealink-dm-pre-auth-root-level-rce/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yealink:device_management:3.6.0.20:*:*:*:*:*:*:*"
+	}
 }

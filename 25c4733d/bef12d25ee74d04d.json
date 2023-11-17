@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:toaruos:toaruos:0.2",
-  "deprecated": true,
-  "deprecation_date": "2022-09-29T17:54:29.690Z",
-  "title": [
-    {
-      "text": "ToaruOS 0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://toaruos.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/klange/toaruos"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:toaruos:toaruos:0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-29T13:54:29.690-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:toaruos_project:toaruos:0.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:toaruos:toaruos:0.2",
+	"deprecated": true,
+	"deprecation_date": "2022-09-29T17:54:29.690Z",
+	"title": [
+		{
+			"text": "ToaruOS 0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://toaruos.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/klange/toaruos"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:toaruos:toaruos:0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-29T13:54:29.690-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:toaruos_project:toaruos:0.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

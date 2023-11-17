@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:userback:userback:1.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Userback Userback 1.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://userback.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/userback/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/userback/wordpress-userback-plugin-1-0-13-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:userback:userback:1.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:userback:userback:1.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Userback Userback 1.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://userback.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/userback/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/userback/wordpress-userback-plugin-1-0-13-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:userback:userback:1.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

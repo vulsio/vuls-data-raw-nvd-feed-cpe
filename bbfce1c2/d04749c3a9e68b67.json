@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:efssoft:easy_file_sharing_ftp_server:3.6",
-  "title": [
-    {
-      "text": "efssoft Easy File Sharing (EFS) FTP Server 3.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.rapid7.com/db/modules/auxiliary/scanner/ftp/easy_file_sharing_ftp/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.securityfocus.com/bid/96944"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:efssoft:easy_file_sharing_ftp_server:3.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:efssoft:easy_file_sharing_ftp_server:3.6",
+	"title": [
+		{
+			"text": "efssoft Easy File Sharing (EFS) FTP Server 3.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.rapid7.com/db/modules/auxiliary/scanner/ftp/easy_file_sharing_ftp/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.securityfocus.com/bid/96944"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:efssoft:easy_file_sharing_ftp_server:3.6:*:*:*:*:*:*:*"
+	}
 }

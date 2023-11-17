@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:boltbrowser:bolt_browser:1.4::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "Boltbrowser Bolt Browser 1.4 for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.rapid7.com/2020/10/20/vulntober-multiple-mobile-browser-address-bar-spoofing-vulnerabilities/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.boltbrowser.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://apps.apple.com/us/app/bolt-browser-and-documents/id1366502697"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:boltbrowser:bolt_browser:1.4:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:boltbrowser:bolt_browser:1.4::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "Boltbrowser Bolt Browser 1.4 for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.rapid7.com/2020/10/20/vulntober-multiple-mobile-browser-address-bar-spoofing-vulnerabilities/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.boltbrowser.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://apps.apple.com/us/app/bolt-browser-and-documents/id1366502697"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:boltbrowser:bolt_browser:1.4:*:*:*:*:iphone_os:*:*"
+	}
 }

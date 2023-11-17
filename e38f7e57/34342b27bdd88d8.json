@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:vmare:vrealize_operations_manager:8.1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-01T17:45:29.010Z",
-  "title": [
-    {
-      "text": "VMware vRealize Operations 8.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://kb.vmware.com/s/article/2145975"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.vmware.com/products/vrealize-operations.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmare:vrealize_operations_manager:8.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-01T12:45:29.010-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:vrealize_operations_manager:8.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmare:vrealize_operations_manager:8.1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-01T17:45:29.010Z",
+	"title": [
+		{
+			"text": "VMware vRealize Operations 8.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://kb.vmware.com/s/article/2145975"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.vmware.com/products/vrealize-operations.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmare:vrealize_operations_manager:8.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-01T12:45:29.010-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:vrealize_operations_manager:8.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

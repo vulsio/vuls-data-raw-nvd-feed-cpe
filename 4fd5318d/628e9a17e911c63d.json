@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:keybase:keybase:2.12.6::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T18:38:23.757Z",
-  "title": [
-    {
-      "text": "Keybase 2.12.6 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://keybase.io/docs/secadv/kb004"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:keybase:keybase:2.12.6:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T14:38:23.757-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:keybase:keybase:2.12.6:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:keybase:keybase:2.12.6::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T18:38:23.757Z",
+	"title": [
+		{
+			"text": "Keybase 2.12.6 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://keybase.io/docs/secadv/kb004"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:keybase:keybase:2.12.6:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T14:38:23.757-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:keybase:keybase:2.12.6:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

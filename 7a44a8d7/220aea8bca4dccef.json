@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:fluentforms:contact_form:1.7.5::~~wordpress~~~",
-  "deprecated": true,
-  "deprecation_date": "2022-11-07T16:37:07.293Z",
-  "title": [
-    {
-      "text": "Fluent Forms Contact Form 1.7.5 Wordpress Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://fluentforms.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/fluentform/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fluentforms:contact_form:1.7.5:*:*:*:wordpress:*:*:*",
-    "deprecation": {
-      "date": "2022-11-07T11:37:07.293-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:fluentforms:contact_form:1.7.5:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:fluentforms:contact_form:1.7.5::~~wordpress~~~",
+	"deprecated": true,
+	"deprecation_date": "2022-11-07T16:37:07.293Z",
+	"title": [
+		{
+			"text": "Fluent Forms Contact Form 1.7.5 Wordpress Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://fluentforms.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/fluentform/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fluentforms:contact_form:1.7.5:*:*:*:wordpress:*:*:*",
+		"deprecation": {
+			"date": "2022-11-07T11:37:07.293-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fluentforms:contact_form:1.7.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

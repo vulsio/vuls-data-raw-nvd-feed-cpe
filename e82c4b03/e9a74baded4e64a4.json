@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:banking_deposit_and_lines_of_credit_servicing:2.12.0",
-  "deprecated": true,
-  "deprecation_date": "2022-09-12T13:49:31.227Z",
-  "title": [
-    {
-      "text": "Oracle Banking Deposit And Lines Of Credit Servicing 2.12.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujan2022.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:banking_deposit_and_lines_of_credit_servicing:2.12.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-12T09:49:31.227-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:banking_deposits_and_lines_of_credit_servicing:2.12.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:banking_deposit_and_lines_of_credit_servicing:2.12.0",
+	"deprecated": true,
+	"deprecation_date": "2022-09-12T13:49:31.227Z",
+	"title": [
+		{
+			"text": "Oracle Banking Deposit And Lines Of Credit Servicing 2.12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2022.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:banking_deposit_and_lines_of_credit_servicing:2.12.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-12T09:49:31.227-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:banking_deposits_and_lines_of_credit_servicing:2.12.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

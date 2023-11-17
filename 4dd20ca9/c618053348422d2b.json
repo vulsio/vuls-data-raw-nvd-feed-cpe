@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bitdefender:internet_security:26.0.3.29",
-  "title": [
-    {
-      "text": "Bitdefender Internet Security 26.0.3.29",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/support/security-advisories/messaging_ipc-dll-null-pointer-dereference-in-multiple-bitdefender-products-va-10016/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/support/security-advisories/incorrect-permission-assignment-for-critical-resource-vulnerability-in-bdreinit-exe-va-10017/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitdefender:internet_security:26.0.3.29:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bitdefender:internet_security:26.0.3.29",
+	"title": [
+		{
+			"text": "Bitdefender Internet Security 26.0.3.29",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/support/security-advisories/messaging_ipc-dll-null-pointer-dereference-in-multiple-bitdefender-products-va-10016/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/support/security-advisories/incorrect-permission-assignment-for-critical-resource-vulnerability-in-bdreinit-exe-va-10017/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitdefender:internet_security:26.0.3.29:*:*:*:*:*:*:*"
+	}
 }

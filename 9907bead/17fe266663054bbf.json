@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:eq-3:homematic_ccu3_firmware:3.14.11",
-  "title": [
-    {
-      "text": "EQ-3 HomeMatic CCU3 Firmware 3.14.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.eq-3.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.homematic-ip.com/en/products/detail/smart-home-central-control-unit-ccu3.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://noskill1337.github.io/homematic-ccu3-remote-code-execution"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:eq-3:homematic_ccu3_firmware:3.14.11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:eq-3:homematic_ccu3_firmware:3.14.11",
+	"title": [
+		{
+			"text": "EQ-3 HomeMatic CCU3 Firmware 3.14.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.eq-3.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.homematic-ip.com/en/products/detail/smart-home-central-control-unit-ccu3.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://noskill1337.github.io/homematic-ccu3-remote-code-execution"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:eq-3:homematic_ccu3_firmware:3.14.11:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sonicwall:global_management_system:9.3:sp2",
-  "title": [
-    {
-      "text": "SonicWall Global Management System (GMS) 9.3 Service Pack 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://software.sonicwall.com/GMSViewPointVA/Documentation/232-005540-00_RevA_GMS_9.3_ReleaseNotes.pdf"
-    },
-    {
-      "text": "Version",
-      "href": "https://software.sonicwall.com/GMSViewPointVA/Documentation/232-005800-00_RevB_GMS_9.3SP2_ReleaseNotes.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0007"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonicwall:global_management_system:9.3:sp2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sonicwall:global_management_system:9.3:sp2",
+	"title": [
+		{
+			"text": "SonicWall Global Management System (GMS) 9.3 Service Pack 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://software.sonicwall.com/GMSViewPointVA/Documentation/232-005540-00_RevA_GMS_9.3_ReleaseNotes.pdf"
+		},
+		{
+			"text": "Version",
+			"href": "https://software.sonicwall.com/GMSViewPointVA/Documentation/232-005800-00_RevB_GMS_9.3SP2_ReleaseNotes.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0007"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:global_management_system:9.3:sp2:*:*:*:*:*:*"
+	}
 }

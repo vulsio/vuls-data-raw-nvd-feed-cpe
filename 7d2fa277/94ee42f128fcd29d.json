@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:universal_star_rating_project:universal_star_rating:2.1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Universal Star Rating Project Universal Star Rating 2.1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/universal-star-rating/wordpress-universal-star-rating-plugin-2-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/universal-star-rating/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:universal_star_rating_project:universal_star_rating:2.1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:universal_star_rating_project:universal_star_rating:2.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Universal Star Rating Project Universal Star Rating 2.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/universal-star-rating/wordpress-universal-star-rating-plugin-2-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/universal-star-rating/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:universal_star_rating_project:universal_star_rating:2.1.0:*:*:*:*:wordpress:*:*"
+	}
 }

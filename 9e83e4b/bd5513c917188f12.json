@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:zzinc:keymouse_firmware:3.05::~~~windows~~",
-  "title": [
-    {
-      "text": "ZZ Inc KeyMouse Firmware 3.05 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://keymouse.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.zzinc.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/gerr-re/cve-2022-24644/blob/main/cve-2022-24644_public-advisory.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:zzinc:keymouse_firmware:3.05:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/o:zzinc:keymouse_firmware:3.05::~~~windows~~",
+	"title": [
+		{
+			"text": "ZZ Inc KeyMouse Firmware 3.05 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://keymouse.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zzinc.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gerr-re/cve-2022-24644/blob/main/cve-2022-24644_public-advisory.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zzinc:keymouse_firmware:3.05:*:*:*:*:windows:*:*"
+	}
 }

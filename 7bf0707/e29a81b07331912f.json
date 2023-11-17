@@ -1,38 +1,38 @@
 {
-  "name": "cpe:/o:dlink:dsl-3782_firmware:1.03",
-  "title": [
-    {
-      "text": "D-Link DSL-3782 Firmware 1.03",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/1160300418/Vuls/blob/main/D-Link/DSL-3782/BOF_in_D-Link%20DSL-3782.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/1160300418/Vuls/blob/main/D-Link/DSL-3782/CMDi_in_D-Link%20DSL-3782.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dlink.com/en/security-bulletin"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lessonsec.com/cve/cve-2023-27216/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10245"
-    },
-    {
-      "text": "Product",
-      "href": "https://eu.dlink.com/pt/pt/products/dsl-3782-wireless-ac1200-dual-band-vdsl-adsl-modem-router"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dsl-3782_firmware:1.03:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dsl-3782_firmware:1.03",
+	"title": [
+		{
+			"text": "D-Link DSL-3782 Firmware 1.03",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/1160300418/Vuls/blob/main/D-Link/DSL-3782/BOF_in_D-Link%20DSL-3782.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/1160300418/Vuls/blob/main/D-Link/DSL-3782/CMDi_in_D-Link%20DSL-3782.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dlink.com/en/security-bulletin"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lessonsec.com/cve/cve-2023-27216/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10245"
+		},
+		{
+			"text": "Product",
+			"href": "https://eu.dlink.com/pt/pt/products/dsl-3782-wireless-ac1200-dual-band-vdsl-adsl-modem-router"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dsl-3782_firmware:1.03:*:*:*:*:*:*:*"
+	}
 }

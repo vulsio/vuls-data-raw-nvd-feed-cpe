@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpdevart:gallery:2.0.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WpDevArt Gallery 2.0.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/gallery-album/wordpress-gallery-image-and-video-gallery-with-thumbnails-plugin-2-0-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpdevart.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/gallery-album/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdevart:gallery:2.0.3:*:*:*:*:wordpress:*:*"
+	}
+}

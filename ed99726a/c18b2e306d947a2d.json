@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:netiq:security_manager_log_archive_resource_kit:1.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-13T17:12:48.893Z",
-  "title": [
-    {
-      "text": "Netiq Security Manager Log Archive Resource Kit 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netiq:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-13T13:12:48.893-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microfocus:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netiq:security_manager_log_archive_resource_kit:1.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-13T17:12:48.893Z",
+	"title": [
+		{
+			"text": "Netiq Security Manager Log Archive Resource Kit 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netiq:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-13T13:12:48.893-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microfocus:security_manager_log_archive_resource_kit:1.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

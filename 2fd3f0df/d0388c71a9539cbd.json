@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:sentinel:sentinel_ldk_rte_firmware:7.50",
-  "title": [
-    {
-      "text": "Sentinel LDK RTE Firmware 7.50",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://sentinelcustomer.gemalto.com/sentineldownloads/?s=gemalto&c=all&p=all&o=all&t=all&l=all"
-    },
-    {
-      "text": "Version",
-      "href": "https://ics-cert.kaspersky.com/advisories/2017/07/28/klcert-17-002-sentinel-ldk-rte-language-packs-containing-malformed-filenames-lead-to-remote-code-execution/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sentinel:sentinel_ldk_rte_firmware:7.50:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:sentinel:sentinel_ldk_rte_firmware:7.50",
+	"title": [
+		{
+			"text": "Sentinel LDK RTE Firmware 7.50",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://sentinelcustomer.gemalto.com/sentineldownloads/?s=gemalto&c=all&p=all&o=all&t=all&l=all"
+		},
+		{
+			"text": "Version",
+			"href": "https://ics-cert.kaspersky.com/advisories/2017/07/28/klcert-17-002-sentinel-ldk-rte-language-packs-containing-malformed-filenames-lead-to-remote-code-execution/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sentinel:sentinel_ldk_rte_firmware:7.50:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:ibm:linux_on_zseries:-",
-  "deprecated": true,
-  "deprecation_date": "2023-02-14T15:51:38.130Z",
-  "title": [
-    {
-      "text": "IBM Linux on zSeries",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/z/linux"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-14T10:51:38.130-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:ibm:linux_on_zseries:-",
+	"deprecated": true,
+	"deprecation_date": "2023-02-14T15:51:38.130Z",
+	"title": [
+		{
+			"text": "IBM Linux on zSeries",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/z/linux"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ibm:linux_on_zseries:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-14T10:51:38.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:ibm:linux_on_ibm_z:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:fujitsu:eternus_cs8000_firmware:8.1:-",
-  "title": [
-    {
-      "text": "Fujitsu ETERNUS CS8000 FIRMWARE 8.1 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://research.nccgroup.com/2022/05/27/technical-advisory-fujitsu-centricstor-control-center-v8-1-unauthenticated-command-injection/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.fujitsu.com/us/products/computing/storage/data-protection/cs8000/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2022-050316-Security-Notice-SF.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fujitsu:eternus_cs8000_firmware:8.1:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:fujitsu:eternus_cs8000_firmware:8.1:-",
+	"title": [
+		{
+			"text": "Fujitsu ETERNUS CS8000 FIRMWARE 8.1 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://research.nccgroup.com/2022/05/27/technical-advisory-fujitsu-centricstor-control-center-v8-1-unauthenticated-command-injection/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.fujitsu.com/us/products/computing/storage/data-protection/cs8000/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.ts.fujitsu.com/ProductSecurity/content/Fujitsu-PSIRT-PSS-IS-2022-050316-Security-Notice-SF.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fujitsu:eternus_cs8000_firmware:8.1:-:*:*:*:*:*:*"
+	}
 }

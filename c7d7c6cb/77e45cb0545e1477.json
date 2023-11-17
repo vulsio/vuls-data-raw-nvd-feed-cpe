@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:konicaminolta:bizhub_c759_firmware:gca-y1",
-  "title": [
-    {
-      "text": "Konica Minolta bizhub C759 Firmware GCA-Y1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.konicaminolta.com/global/newsroom/topics/2021/1224-01-01.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.konicaminolta.us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://kmbs.konicaminolta.us/kmbs/search?query=(fq:(%270%27:(key:category,tag:%27%27,transformer:%27fq:field%27,values:(%270%27:Products))),q:bizhub,rows:10,start:0,wt:json)"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:konicaminolta:bizhub_c759_firmware:gca-y1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:konicaminolta:bizhub_c759_firmware:gca-y1",
+	"title": [
+		{
+			"text": "Konica Minolta bizhub C759 Firmware GCA-Y1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.konicaminolta.com/global/newsroom/topics/2021/1224-01-01.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.konicaminolta.us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://kmbs.konicaminolta.us/kmbs/search?query=(fq:(%270%27:(key:category,tag:%27%27,transformer:%27fq:field%27,values:(%270%27:Products))),q:bizhub,rows:10,start:0,wt:json)"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:konicaminolta:bizhub_c759_firmware:gca-y1:*:*:*:*:*:*:*"
+	}
 }

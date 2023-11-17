@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:grafana:enterprise_metrics:1.0.1",
-  "title": [
-    {
-      "text": "Grafana Labs Enterprise Metrics 1.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://grafana.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31231.json"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://grafana.com/docs/metrics-enterprise/latest/downloads/#v113----april-27-2021"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:grafana:enterprise_metrics:1.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:grafana:enterprise_metrics:1.0.1",
+	"title": [
+		{
+			"text": "Grafana Labs Enterprise Metrics 1.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://grafana.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31231.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://grafana.com/docs/metrics-enterprise/latest/downloads/#v113----april-27-2021"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:grafana:enterprise_metrics:1.0.1:*:*:*:*:*:*:*"
+	}
 }

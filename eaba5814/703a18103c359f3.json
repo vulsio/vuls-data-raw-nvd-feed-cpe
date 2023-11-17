@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:enterprise_virtualization_manager:3.4",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Virtualization Manager (aka RHEV-M) 3.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.redhat.com/en"
-    },
-    {
-      "text": "Version",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_virtualization/3.6/html/upgrade_guide/upgrading_to_red_hat_enterprise_virtualization_manager_3.4"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2016:0426"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:enterprise_virtualization_manager:3.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:enterprise_virtualization_manager:3.4",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Virtualization Manager (aka RHEV-M) 3.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.redhat.com/en"
+		},
+		{
+			"text": "Version",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_virtualization/3.6/html/upgrade_guide/upgrading_to_red_hat_enterprise_virtualization_manager_3.4"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2016:0426"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:enterprise_virtualization_manager:3.4:*:*:*:*:*:*:*"
+	}
 }

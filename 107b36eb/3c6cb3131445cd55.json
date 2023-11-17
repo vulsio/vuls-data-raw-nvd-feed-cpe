@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:5.0.1",
-  "title": [
-    {
-      "text": "GitLab 5.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://about.gitlab.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:5.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:5.0.1",
+	"title": [
+		{
+			"text": "GitLab 5.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://about.gitlab.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:5.0.1:*:*:*:*:*:*:*"
+	}
 }

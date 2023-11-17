@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vmware:vsphere_esxi:6.5:650-201712001",
-  "title": [
-    {
-      "text": "VMware vSphere ESXi 6.5 650-201712001",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0013.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.vmware.com/products/esxi-and-esx.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:vsphere_esxi:6.5:650-201712001:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vmware:vsphere_esxi:6.5:650-201712001",
+	"title": [
+		{
+			"text": "VMware vSphere ESXi 6.5 650-201712001",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2019-0013.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.vmware.com/products/esxi-and-esx.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:vsphere_esxi:6.5:650-201712001:*:*:*:*:*:*"
+	}
 }

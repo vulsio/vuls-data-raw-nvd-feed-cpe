@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt56v:4.07.11",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:42.547Z",
-  "title": [
-    {
-      "text": "ヤマハ RT56v 4.07.11",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT56v 4.07.11",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt56v:4.07.11:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:42.547-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt56v:4.07.11:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt56v:4.07.11",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:42.547Z",
+	"title": [
+		{
+			"text": "ヤマハ RT56v 4.07.11",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT56v 4.07.11",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt56v:4.07.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:42.547-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt56v:4.07.11:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

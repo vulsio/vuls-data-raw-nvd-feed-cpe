@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:liferay:liferay_portal:7.4.3.5",
-  "title": [
-    {
-      "text": "Liferay Portal 7.4.3.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.liferay.dev/learn/security/known-vulnerabilities/-/asset_publisher/HbL5mxmVrnXW/content/cve-2022-25146-csrf-token-exfiltration-via-remote-apps"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:liferay:liferay_portal:7.4.3.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:liferay:liferay_portal:7.4.3.5",
+	"title": [
+		{
+			"text": "Liferay Portal 7.4.3.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.liferay.dev/learn/security/known-vulnerabilities/-/asset_publisher/HbL5mxmVrnXW/content/cve-2022-25146-csrf-token-exfiltration-via-remote-apps"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:liferay:liferay_portal:7.4.3.5:*:*:*:*:*:*:*"
+	}
 }

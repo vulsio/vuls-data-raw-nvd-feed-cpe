@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:python-requests:requests:2.4.2",
-  "deprecated": true,
-  "deprecation_date": "2021-03-18T13:18:52.520Z",
-  "title": [
-    {
-      "text": "Python-Requests Requests 2.4.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://docs.python-requests.org/en/latest/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python-requests:requests:2.4.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-03-18T09:18:52.520-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:python:requests:2.4.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:python-requests:requests:2.4.2",
+	"deprecated": true,
+	"deprecation_date": "2021-03-18T13:18:52.520Z",
+	"title": [
+		{
+			"text": "Python-Requests Requests 2.4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://docs.python-requests.org/en/latest/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python-requests:requests:2.4.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-03-18T09:18:52.520-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:requests:2.4.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

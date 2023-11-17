@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:strapi:strapi:4.2.0:beta3",
-  "title": [
-    {
-      "text": "Strapi 4.2.0 Beta 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ghostccamm.com/blog/multi_strapi_vulns/#cve-2023-22621-ssti-to-rce-by-exploiting-email-templates-in-strapi-versions-455"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://strapi.io/blog/security-disclosure-of-vulnerabilities-cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/strapi/strapi/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:strapi:strapi:4.2.0:beta3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:strapi:strapi:4.2.0:beta3",
+	"title": [
+		{
+			"text": "Strapi 4.2.0 Beta 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ghostccamm.com/blog/multi_strapi_vulns/#cve-2023-22621-ssti-to-rce-by-exploiting-email-templates-in-strapi-versions-455"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://strapi.io/blog/security-disclosure-of-vulnerabilities-cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/strapi/strapi/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strapi:strapi:4.2.0:beta3:*:*:*:*:*:*"
+	}
 }

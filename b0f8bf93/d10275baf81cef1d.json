@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:davidsneal:simple_share_buttons_adder:1.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-11-15T17:34:27.920Z",
-  "title": [
-    {
-      "text": "davidsneal Simple Share Buttons Adder plugin for WordPress 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product changelog",
-      "href": "https://wordpress.org/plugins/simple-share-buttons-adder/changelog/"
-    },
-    {
-      "text": "vendor website",
-      "href": "http://www.davidsneal.co.uk/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:davidsneal:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-11-15T12:34:27.920-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sharethis:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:davidsneal:simple_share_buttons_adder:1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-11-15T17:34:27.920Z",
+	"title": [
+		{
+			"text": "davidsneal Simple Share Buttons Adder plugin for WordPress 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product changelog",
+			"href": "https://wordpress.org/plugins/simple-share-buttons-adder/changelog/"
+		},
+		{
+			"text": "vendor website",
+			"href": "http://www.davidsneal.co.uk/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:davidsneal:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-11-15T12:34:27.920-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sharethis:simple_share_buttons_adder:1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

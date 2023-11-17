@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:silabs:emberznet:1.0.0",
-  "title": [
-    {
-      "text": "Silabs Emberznet 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.silabs.com/zigbee/6.6/em35x/group-ember"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24937.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silabs:emberznet:1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:silabs:emberznet:1.0.0",
+	"title": [
+		{
+			"text": "Silabs Emberznet 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.silabs.com/zigbee/6.6/em35x/group-ember"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24937.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silabs:emberznet:1.0.0:*:*:*:*:*:*:*"
+	}
 }

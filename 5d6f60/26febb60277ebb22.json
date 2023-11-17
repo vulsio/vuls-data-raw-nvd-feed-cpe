@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:intel:quartus_prime:22.3::~~pro~~~",
-  "title": [
-    {
-      "text": "Intel Quartus Prime 22.3 Pro Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://fpgasoftware.intel.com/?edition=pro"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00850.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:quartus_prime:22.3:*:*:*:pro:*:*:*"
-  }
+	"name": "cpe:/a:intel:quartus_prime:22.3::~~pro~~~",
+	"title": [
+		{
+			"text": "Intel Quartus Prime 22.3 Pro Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/details/fpga/development-tools/quartus-prime.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://fpgasoftware.intel.com/?edition=pro"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00850.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:quartus_prime:22.3:*:*:*:pro:*:*:*"
+	}
 }

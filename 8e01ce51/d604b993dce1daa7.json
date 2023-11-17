@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:ingress-nginx:2.11.2",
-  "title": [
-    {
-      "text": "Kubernetes Ingress-nginx 2.11.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kubernetes.github.io/ingress-nginx/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/ingress-nginx/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:ingress-nginx:2.11.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:ingress-nginx:2.11.2",
+	"title": [
+		{
+			"text": "Kubernetes Ingress-nginx 2.11.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kubernetes.github.io/ingress-nginx/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/ingress-nginx/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:ingress-nginx:2.11.2:*:*:*:*:*:*:*"
+	}
 }

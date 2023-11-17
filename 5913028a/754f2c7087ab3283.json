@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:umn:mapserver:4.4.0:beta3",
-  "deprecated": true,
-  "deprecation_date": "2021-06-07T15:55:44.947Z",
-  "title": [
-    {
-      "text": "University of Minnesota Mapserver 4.4.0 beta3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "http://www.mapserver.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:umn:mapserver:4.4.0:beta3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-07T11:55:44.947-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:osgeo:mapserver:4.4.0:beta3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:umn:mapserver:4.4.0:beta3",
+	"deprecated": true,
+	"deprecation_date": "2021-06-07T15:55:44.947Z",
+	"title": [
+		{
+			"text": "University of Minnesota Mapserver 4.4.0 beta3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "http://www.mapserver.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:umn:mapserver:4.4.0:beta3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-07T11:55:44.947-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:osgeo:mapserver:4.4.0:beta3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

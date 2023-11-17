@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kernel:kmod:5",
-  "title": [
-    {
-      "text": "Kernel kmod 5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://git.kernel.org/?p=utils/kernel/kmod/kmod.git"
-    },
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/utils/kernel/kmod"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kernel:kmod:5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kernel:kmod:5",
+	"title": [
+		{
+			"text": "Kernel kmod 5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://git.kernel.org/?p=utils/kernel/kmod/kmod.git"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/utils/kernel/kmod"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kernel:kmod:5:*:*:*:*:*:*:*"
+	}
 }

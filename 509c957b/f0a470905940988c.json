@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:memcached_docker_image:-",
-  "title": [
-    {
-      "text": "Docker memcached Docker Image",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35197"
-    },
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/memcached"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:memcached_docker_image:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:memcached_docker_image:-",
+	"title": [
+		{
+			"text": "Docker memcached Docker Image",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35197"
+		},
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/memcached"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:memcached_docker_image:-:*:*:*:*:*:*:*"
+	}
 }

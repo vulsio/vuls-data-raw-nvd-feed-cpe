@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:pepperl-fuchs:es8509-xt_firmware:2.1a",
-  "title": [
-    {
-      "text": "PEPPERL+FUCHS ES8509-XT Firmware 2.1a",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/162903/Korenix-CSRF-Backdoor-Accounts-Command-Injection-Missing-Authentication.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert.vde.com/de/advisories/VDE-2020-040/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.pepperl-fuchs.com/usa/en/comtrol.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:pepperl-fuchs:es8509-xt_firmware:2.1a:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:pepperl-fuchs:es8509-xt_firmware:2.1a",
+	"title": [
+		{
+			"text": "PEPPERL+FUCHS ES8509-XT Firmware 2.1a",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/162903/Korenix-CSRF-Backdoor-Accounts-Command-Injection-Missing-Authentication.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert.vde.com/de/advisories/VDE-2020-040/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.pepperl-fuchs.com/usa/en/comtrol.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:pepperl-fuchs:es8509-xt_firmware:2.1a:*:*:*:*:*:*:*"
+	}
 }

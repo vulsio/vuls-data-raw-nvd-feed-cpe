@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dell:bsafe_crypto-j_jsafe_and_jce:5.0.1",
-  "deprecated": true,
-  "deprecation_date": "2022-11-01T14:25:30.107Z",
-  "title": [
-    {
-      "text": "Dell BSAFE Crypto-J JSAFE and JCE 5.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.dell.com/en-us"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/home/en-us/product-support/product/bsafe-crypto-j/docs"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:bsafe_crypto-j_jsafe_and_jce:5.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-01T10:25:30.107-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe_crypto-j:5.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:bsafe_crypto-j_jsafe_and_jce:5.0.1",
+	"deprecated": true,
+	"deprecation_date": "2022-11-01T14:25:30.107Z",
+	"title": [
+		{
+			"text": "Dell BSAFE Crypto-J JSAFE and JCE 5.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.dell.com/en-us"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/home/en-us/product-support/product/bsafe-crypto-j/docs"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:bsafe_crypto-j_jsafe_and_jce:5.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-01T10:25:30.107-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe_crypto-j:5.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

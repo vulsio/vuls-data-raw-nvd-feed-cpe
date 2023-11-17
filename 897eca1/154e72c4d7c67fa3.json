@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:tenda:m3_firmware:1.0.0.12",
-  "title": [
-    {
-      "text": "Tenda M3 Firmware 1.0.0.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/d1tto/IoT-vuln/tree/main/Tenda/M3/fromDhcpListClient"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.tendacn.com/us/product/download/M3.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tendacn.com/us/product/M3.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tenda:m3_firmware:1.0.0.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tenda:m3_firmware:1.0.0.12",
+	"title": [
+		{
+			"text": "Tenda M3 Firmware 1.0.0.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/d1tto/IoT-vuln/tree/main/Tenda/M3/fromDhcpListClient"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.tendacn.com/us/product/download/M3.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tendacn.com/us/product/M3.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tenda:m3_firmware:1.0.0.12:*:*:*:*:*:*:*"
+	}
 }

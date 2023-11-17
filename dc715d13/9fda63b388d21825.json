@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:brocade:fabric_os:8.0.2",
-  "deprecated": true,
-  "deprecation_date": "2021-06-22T15:19:11.153Z",
-  "title": [
-    {
-      "text": "Brocade Fabric Os 8.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "ftp://public.dhe.ibm.com/storage/san/fos8/v8.0.2c_ReleaseNotes_v1.0.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:brocade:fabric_os:8.0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-22T11:19:11.153-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:broadcom:fabric_operating_system:8.0.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:brocade:fabric_os:8.0.2",
+	"deprecated": true,
+	"deprecation_date": "2021-06-22T15:19:11.153Z",
+	"title": [
+		{
+			"text": "Brocade Fabric Os 8.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "ftp://public.dhe.ibm.com/storage/san/fos8/v8.0.2c_ReleaseNotes_v1.0.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:brocade:fabric_os:8.0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-22T11:19:11.153-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:broadcom:fabric_operating_system:8.0.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

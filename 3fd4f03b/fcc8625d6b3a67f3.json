@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:linuxfoundation:argo-cd:2.3.16",
-  "title": [
-    {
-      "text": "The Linux Foundation Argo CD 2.3.16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/argoproj/argo-cd/security/advisories/GHSA-3jfq-742w-xg8j"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/argoproj/argo-cd/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.16:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:argo-cd:2.3.16",
+	"title": [
+		{
+			"text": "The Linux Foundation Argo CD 2.3.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/argoproj/argo-cd/security/advisories/GHSA-3jfq-742w-xg8j"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/argoproj/argo-cd/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:argo-cd:2.3.16:*:*:*:*:*:*:*"
+	}
 }

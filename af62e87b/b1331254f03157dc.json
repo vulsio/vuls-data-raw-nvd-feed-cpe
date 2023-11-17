@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:simple_video_embedder_project:simple_video_embedder:2.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Simple Video Embedder Project Simple Video Embedder 2.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/simple-video-embedder/wordpress-simple-video-embedder-plugin-2-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/simple-video-embedder/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple_video_embedder_project:simple_video_embedder:2.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:simple_video_embedder_project:simple_video_embedder:2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Simple Video Embedder Project Simple Video Embedder 2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/simple-video-embedder/wordpress-simple-video-embedder-plugin-2-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/simple-video-embedder/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple_video_embedder_project:simple_video_embedder:2.2:*:*:*:*:wordpress:*:*"
+	}
 }

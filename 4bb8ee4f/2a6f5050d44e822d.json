@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:download_manager_project:download_manager:2.7.6::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-05T12:21:08.930Z",
-  "title": [
-    {
-      "text": "Download Manager Project Download Manager 2.7.6 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/download-manager/#developers"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wordpress.org/plugins/download-manager/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:download_manager_project:download_manager:2.7.6:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-05-05T08:21:08.930-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.7.6:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:download_manager_project:download_manager:2.7.6::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-05T12:21:08.930Z",
+	"title": [
+		{
+			"text": "Download Manager Project Download Manager 2.7.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/download-manager/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wordpress.org/plugins/download-manager/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:download_manager_project:download_manager:2.7.6:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-05-05T08:21:08.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wpdownloadmanager:wordpress_download_manager:2.7.6:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

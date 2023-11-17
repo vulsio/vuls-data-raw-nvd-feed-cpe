@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:graalvm:20.3.11::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Oracle GraalVM 20.3.11 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujul2023.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.oracle.com/en/graalvm/enterprise/20/docs/overview/release-notes/#release-notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:graalvm:20.3.11:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:oracle:graalvm:20.3.11::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Oracle GraalVM 20.3.11 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujul2023.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.oracle.com/en/graalvm/enterprise/20/docs/overview/release-notes/#release-notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:graalvm:20.3.11:*:*:*:enterprise:*:*:*"
+	}
 }

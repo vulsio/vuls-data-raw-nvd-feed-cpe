@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:varta:pulse_firmware:-",
-  "title": [
-    {
-      "text": "VARTA Pulse Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.varta-ag.com/fileadmin/varta_storage/downloads/products/energy/varta-pulse/Datasheet_VARTA_pulse_en_17.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert.vde.com/en/advisories/VDE-2022-061/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://varta.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:varta:pulse_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:varta:pulse_firmware:-",
+	"title": [
+		{
+			"text": "VARTA Pulse Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.varta-ag.com/fileadmin/varta_storage/downloads/products/energy/varta-pulse/Datasheet_VARTA_pulse_en_17.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert.vde.com/en/advisories/VDE-2022-061/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://varta.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:varta:pulse_firmware:-:*:*:*:*:*:*:*"
+	}
 }

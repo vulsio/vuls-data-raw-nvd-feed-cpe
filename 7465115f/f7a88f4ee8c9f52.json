@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpbean:wpb_advanced_faq:1.03::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WpBean WPB Advanced FAQ 1.03 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/4f5597f9-ab27-42d2-847c-14455b7d0849"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wpbean.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/wpb-advanced-faq?format=changelog&rev=2885003&limit=100&mode=stop_on_copy"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpbean:wpb_advanced_faq:1.03:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpbean:wpb_advanced_faq:1.03::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WpBean WPB Advanced FAQ 1.03 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/4f5597f9-ab27-42d2-847c-14455b7d0849"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpbean.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/wpb-advanced-faq?format=changelog&rev=2885003&limit=100&mode=stop_on_copy"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpbean:wpb_advanced_faq:1.03:*:*:*:*:wordpress:*:*"
+	}
 }

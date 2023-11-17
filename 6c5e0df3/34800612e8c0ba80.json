@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:huawei:hisuite:-::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:13:36.823Z",
-  "title": [
-    {
-      "text": "Huawei HiSuite for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://consumer.huawei.com/en/support/hisuite/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20190821-01-backup-en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huawei:hisuite:-:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:13:36.823-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:huawei:hisuite:-:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:huawei:hisuite:-::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:13:36.823Z",
+	"title": [
+		{
+			"text": "Huawei HiSuite for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://consumer.huawei.com/en/support/hisuite/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.huawei.com/en/psirt/security-advisories/huawei-sa-20190821-01-backup-en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huawei:hisuite:-:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:13:36.823-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:huawei:hisuite:-:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

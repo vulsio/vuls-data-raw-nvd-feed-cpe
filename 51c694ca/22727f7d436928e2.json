@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nervos:ckb:0.14.0:rc2:~~~rust~~",
-  "title": [
-    {
-      "text": "Nervos Foundation CKB (The Common Knowledge Base) 0.14.0 Release Candidate 2 for Rust",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2021-0107.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.nervos.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/ckb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nervos:ckb:0.14.0:rc2:*:*:*:rust:*:*"
-  }
+	"name": "cpe:/a:nervos:ckb:0.14.0:rc2:~~~rust~~",
+	"title": [
+		{
+			"text": "Nervos Foundation CKB (The Common Knowledge Base) 0.14.0 Release Candidate 2 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2021-0107.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nervos.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/ckb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nervos:ckb:0.14.0:rc2:*:*:*:rust:*:*"
+	}
 }

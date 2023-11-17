@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:gradle:gradle:7.5.0",
-  "deprecated": true,
-  "deprecation_date": "2023-10-12T11:18:57.730Z",
-  "title": [
-    {
-      "text": "Gradle 7.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/gradle/gradle/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/gradle/gradle"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.gradle.org/7.5/release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://docs.gradle.org/7.5/release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gradle:gradle:7.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-12T07:18:57.730-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gradle:gradle:7.5.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gradle:gradle:7.5.0",
+	"deprecated": true,
+	"deprecation_date": "2023-10-12T11:18:57.730Z",
+	"title": [
+		{
+			"text": "Gradle 7.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/gradle/gradle/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/gradle/gradle"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.gradle.org/7.5/release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://docs.gradle.org/7.5/release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gradle:gradle:7.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-12T07:18:57.730-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gradle:gradle:7.5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

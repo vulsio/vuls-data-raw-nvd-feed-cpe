@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:openvz:vzkernel:2.6.32",
-  "title": [
-    {
-      "text": "OpenVZ VZKernel 2.6.32",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "http://wiki.openvz.org/Download/kernel/rhel6-testing/042stab080.2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:openvz:vzkernel:2.6.32",
+	"title": [
+		{
+			"text": "OpenVZ VZKernel 2.6.32",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "http://wiki.openvz.org/Download/kernel/rhel6-testing/042stab080.2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:openvz:vzkernel:2.6.32:*:*:*:*:*:*:*"
+	}
 }

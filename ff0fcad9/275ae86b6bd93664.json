@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:sd-wan_by_velocloud:3.2.2",
-  "title": [
-    {
-      "text": "VMware SD-WAN by VeloCloud 3.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0017.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://my.vmware.com/en/web/vmware/info/slug/networking_security/vmware_sd_wan/3_3_1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:sd-wan_by_velocloud:3.2.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:sd-wan_by_velocloud:3.2.2",
+	"title": [
+		{
+			"text": "VMware SD-WAN by VeloCloud 3.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2019-0017.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://my.vmware.com/en/web/vmware/info/slug/networking_security/vmware_sd_wan/3_3_1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:sd-wan_by_velocloud:3.2.2:*:*:*:*:*:*:*"
+	}
 }

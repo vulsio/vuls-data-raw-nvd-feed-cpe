@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:10.5.1::~~~endpoint_security_linux_threat_prevention~~",
-  "deprecated": true,
-  "deprecation_date": "2020-04-14T19:32:51.693Z",
-  "title": [
-    {
-      "text": "Linux Kernel 10.5.1 for Endpoint Security Linux Threat Prevention",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/27000/PD27967/en_US/ensl-tp_1051_HF1251617_rn_en-us.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:10.5.1:*:*:*:*:endpoint_security_linux_threat_prevention:*:*",
-    "deprecation": {
-      "date": "2020-04-14T15:32:51.693-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:mcafee:endpoint_security_for_linux_threat_prevention:10.5.1:*:*:*:*:linux:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:10.5.1::~~~endpoint_security_linux_threat_prevention~~",
+	"deprecated": true,
+	"deprecation_date": "2020-04-14T19:32:51.693Z",
+	"title": [
+		{
+			"text": "Linux Kernel 10.5.1 for Endpoint Security Linux Threat Prevention",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://kc.mcafee.com/resources/sites/MCAFEE/content/live/PRODUCT_DOCUMENTATION/27000/PD27967/en_US/ensl-tp_1051_HF1251617_rn_en-us.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:10.5.1:*:*:*:*:endpoint_security_linux_threat_prevention:*:*",
+		"deprecation": {
+			"date": "2020-04-14T15:32:51.693-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:mcafee:endpoint_security_for_linux_threat_prevention:10.5.1:*:*:*:*:linux:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

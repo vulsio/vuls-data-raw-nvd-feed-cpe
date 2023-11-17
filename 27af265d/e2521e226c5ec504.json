@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:mod_jk:2.0.1",
-  "title": [
-    {
-      "text": "Apache mod_jk 2.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://tomcat.apache.org/connectors-doc/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/5330"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:mod_jk:2.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:mod_jk:2.0.1",
+	"title": [
+		{
+			"text": "Apache mod_jk 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://tomcat.apache.org/connectors-doc/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/5330"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:mod_jk:2.0.1:*:*:*:*:*:*:*"
+	}
 }

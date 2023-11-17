@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:wdc:drive_manager:2.93",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:02:04.713Z",
-  "title": [
-    {
-      "text": "Wdc Drive Manager 2.93",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wdc:drive_manager:2.93:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:02:04.713-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:westerndigital:drive_manager:2.93:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wdc:drive_manager:2.93",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:02:04.713Z",
+	"title": [
+		{
+			"text": "Wdc Drive Manager 2.93",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wdc:drive_manager:2.93:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:02:04.713-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:westerndigital:drive_manager:2.93:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

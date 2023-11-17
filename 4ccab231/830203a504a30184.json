@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:st:stm32l0_firmware:-",
-  "title": [
-    {
-      "text": "STMicroelectronics STM32L0 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.st.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0-series.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.usenix.org/system/files/woot19-paper_schink.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:st:stm32l0_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:st:stm32l0_firmware:-",
+	"title": [
+		{
+			"text": "STMicroelectronics STM32L0 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.st.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l0-series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.usenix.org/system/files/woot19-paper_schink.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:st:stm32l0_firmware:-:*:*:*:*:*:*:*"
+	}
 }

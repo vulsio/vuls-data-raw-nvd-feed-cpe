@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:keyidentity:linotp:2.10.1:-",
-  "title": [
-    {
-      "text": "KeyIdentity LinOTP 2.10.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.linotp.org/CVE-2019-12887.txt"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.keyidentity.com/en.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/LinOTP/LinOTP/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:keyidentity:linotp:2.10.1:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:keyidentity:linotp:2.10.1:-",
+	"title": [
+		{
+			"text": "KeyIdentity LinOTP 2.10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.linotp.org/CVE-2019-12887.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.keyidentity.com/en.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/LinOTP/LinOTP/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:keyidentity:linotp:2.10.1:-:*:*:*:*:*:*"
+	}
 }

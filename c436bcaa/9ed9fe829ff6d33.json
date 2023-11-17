@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:citrix:sharefile_mobile:2.4::~~~android~~",
-  "title": [
-    {
-      "text": "Citrix ShareFile Mobile for Android OS 2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information on Google Play",
-      "href": "https://play.google.com/store/apps/details?id=com.sharefile.mobile"
-    },
-    {
-      "text": "vendor advisory CTX140303",
-      "href": "http://support.citrix.com/article/CTX140303"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:sharefile_mobile:2.4:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:citrix:sharefile_mobile:2.4::~~~android~~",
+	"title": [
+		{
+			"text": "Citrix ShareFile Mobile for Android OS 2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information on Google Play",
+			"href": "https://play.google.com/store/apps/details?id=com.sharefile.mobile"
+		},
+		{
+			"text": "vendor advisory CTX140303",
+			"href": "http://support.citrix.com/article/CTX140303"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:sharefile_mobile:2.4:*:*:*:*:android:*:*"
+	}
 }

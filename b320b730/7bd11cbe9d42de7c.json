@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:qcp:qcp200w_firmware:-::~~~windows~~",
-  "title": [
-    {
-      "text": "QCP QCP200W Firmware for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.krcert.or.kr/krcert/secNoticeView.do?bulletin_writing_sequence=66663"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.qcp.co.kr/product_detail.php?model=qcp200w"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/o:qcp:qcp200w_firmware:-::~~~windows~~",
+	"title": [
+		{
+			"text": "QCP QCP200W Firmware for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.krcert.or.kr/krcert/secNoticeView.do?bulletin_writing_sequence=66663"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.qcp.co.kr/product_detail.php?model=qcp200w"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:qcp:qcp200w_firmware:-:*:*:*:*:windows:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nodejs:node.js:4.4.3",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T17:54:27.663Z",
-  "title": [
-    {
-      "text": "Nodejs Node.js 4.4.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://nodejs.org/en/"
-    },
-    {
-      "text": "Version",
-      "href": "https://nodejs.org/download/docs/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:4.4.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-10T12:54:27.663-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nodejs:node.js:4.4.3:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nodejs:node.js:4.4.3",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T17:54:27.663Z",
+	"title": [
+		{
+			"text": "Nodejs Node.js 4.4.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nodejs.org/en/"
+		},
+		{
+			"text": "Version",
+			"href": "https://nodejs.org/download/docs/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:4.4.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-10T12:54:27.663-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:4.4.3:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

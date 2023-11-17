@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wink:wink:6.1.0.19::~~~android~~",
-  "title": [
-    {
-      "text": "Wink 6.1.0.19 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.wink.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink&hl=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.rapid7.com/2017/09/22/multiple-vulnerabilities-in-wink-and-insteon-smart-home-systems/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wink:wink:6.1.0.19:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:wink:wink:6.1.0.19::~~~android~~",
+	"title": [
+		{
+			"text": "Wink 6.1.0.19 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.wink.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.quirky.android.wink.wink&hl=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.rapid7.com/2017/09/22/multiple-vulnerabilities-in-wink-and-insteon-smart-home-systems/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wink:wink:6.1.0.19:*:*:*:*:android:*:*"
+	}
 }

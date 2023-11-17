@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linuxfoundation:tekton_pipelines:0.28.3::~~~go~~",
-  "title": [
-    {
-      "text": "Linux Foundation Tekton Pipelines 0.28.3 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://tekton.dev/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/tektoncd/pipeline/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/tektoncd/pipeline/security/advisories/GHSA-w2h3-vvvq-3m53"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:tekton_pipelines:0.28.3:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:tekton_pipelines:0.28.3::~~~go~~",
+	"title": [
+		{
+			"text": "Linux Foundation Tekton Pipelines 0.28.3 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://tekton.dev/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tektoncd/pipeline/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tektoncd/pipeline/security/advisories/GHSA-w2h3-vvvq-3m53"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:tekton_pipelines:0.28.3:*:*:*:*:go:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:vmware:spring_amqp:1.6.0:m1",
-  "deprecated": true,
-  "deprecation_date": "2020-05-28T17:41:50.677Z",
-  "title": [
-    {
-      "text": "VMware Spring AMQP 1.6.0 M1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://spring.io/projects/spring-amqp"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-amqp"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:spring_amqp:1.6.0:m1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-28T13:41:50.677-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:1.6.0:m1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:spring_amqp:1.6.0:m1",
+	"deprecated": true,
+	"deprecation_date": "2020-05-28T17:41:50.677Z",
+	"title": [
+		{
+			"text": "VMware Spring AMQP 1.6.0 M1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-amqp"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-amqp"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_amqp:1.6.0:m1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-28T13:41:50.677-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:spring_advanced_message_queuing_protocol:1.6.0:m1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

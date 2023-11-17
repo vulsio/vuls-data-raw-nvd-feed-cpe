@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux_computer_node:1",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux Computer Node 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2021:3638"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2021:3623"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1988342"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux_computer_node:1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux_computer_node:1",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux Computer Node 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2021:3638"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2021:3623"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1988342"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux_computer_node:1:*:*:*:*:*:*:*"
+	}
 }

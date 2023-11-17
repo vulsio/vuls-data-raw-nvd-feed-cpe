@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:comtechefdata:h8_heights_remote_gateway_firmware:2.5.1",
-  "deprecated": true,
-  "deprecation_date": "2021-06-23T16:07:16.823Z",
-  "title": [
-    {
-      "text": "Comtechefdata H8 Heights Remote Gateway Firmware 2.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.comtechefdata.com/files/ds-h8_h16.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:comtechefdata:h8_heights_remote_gateway_firmware:2.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-23T12:07:16.823-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:comtechtel:h8_heights_remote_gateway_firmware:2.5.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:comtechefdata:h8_heights_remote_gateway_firmware:2.5.1",
+	"deprecated": true,
+	"deprecation_date": "2021-06-23T16:07:16.823Z",
+	"title": [
+		{
+			"text": "Comtechefdata H8 Heights Remote Gateway Firmware 2.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.comtechefdata.com/files/ds-h8_h16.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:comtechefdata:h8_heights_remote_gateway_firmware:2.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-23T12:07:16.823-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:comtechtel:h8_heights_remote_gateway_firmware:2.5.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

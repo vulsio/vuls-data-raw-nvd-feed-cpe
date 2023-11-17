@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:e5520",
-  "deprecated": true,
-  "deprecation_date": "2020-04-27T20:29:00.517Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5520",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:e5520:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-27T16:29:00.517-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon:e5520:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:e5520",
+	"deprecated": true,
+	"deprecation_date": "2020-04-27T20:29:00.517Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5520",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:e5520:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-27T16:29:00.517-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon:e5520:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:juniper:qfk5200:-",
-  "title": [
-    {
-      "text": "Juniper QFK5200",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.juniper.net/us/en.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportportal.juniper.net/s/article/2023-10-Security-Bulletin-Junos-OS-QFX5k-l2-loop-in-the-overlay-impacts-the-stability-in-a-EVPN-VXLAN-environment-CVE-2023-44181?language=en_US"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.juniper.net/us/en/products/switches/qfx-series.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:juniper:qfk5200:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:juniper:qfk5200:-",
+	"title": [
+		{
+			"text": "Juniper QFK5200",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.juniper.net/us/en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2023-10-Security-Bulletin-Junos-OS-QFX5k-l2-loop-in-the-overlay-impacts-the-stability-in-a-EVPN-VXLAN-environment-CVE-2023-44181?language=en_US"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.juniper.net/us/en/products/switches/qfx-series.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:juniper:qfk5200:-:*:*:*:*:*:*:*"
+	}
 }

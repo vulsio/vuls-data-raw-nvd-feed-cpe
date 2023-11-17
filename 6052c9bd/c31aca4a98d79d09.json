@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:extendwings:opcache_dashboard:0.2.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Extend Wings OPcache Dashboard 0.2.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/opcache/wordpress-opcache-dashboard-plugin-0-3-1-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.extendwings.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/opcache/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:extendwings:opcache_dashboard:0.2.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:extendwings:opcache_dashboard:0.2.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Extend Wings OPcache Dashboard 0.2.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/opcache/wordpress-opcache-dashboard-plugin-0-3-1-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.extendwings.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/opcache/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:extendwings:opcache_dashboard:0.2.3:*:*:*:*:wordpress:*:*"
+	}
 }

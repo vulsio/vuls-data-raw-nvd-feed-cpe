@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:hp:v510-14ikb_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:31:04.847Z",
-  "title": [
-    {
-      "text": "HP V510-14IKB Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:hp:v510-14ikb_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:31:04.847-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:lenovo:v510-14ikb_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:hp:v510-14ikb_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:31:04.847Z",
+	"title": [
+		{
+			"text": "HP V510-14IKB Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:hp:v510-14ikb_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:31:04.847-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:lenovo:v510-14ikb_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

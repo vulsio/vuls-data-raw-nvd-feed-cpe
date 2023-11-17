@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:auth0:aspnet:-",
-  "title": [
-    {
-      "text": "Auth0 ASP.NET",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://auth0.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://auth0.com/docs/quickstart/backend/webapi-owin/01-authorization"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:auth0:aspnet:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:auth0:aspnet:-",
+	"title": [
+		{
+			"text": "Auth0 ASP.NET",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://auth0.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://auth0.com/docs/quickstart/backend/webapi-owin/01-authorization"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:auth0:aspnet:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sample_token_project:sample_token:-",
-  "title": [
-    {
-      "text": "Sample Token Project Sample Token",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0xb5bfe2803e37525ac9f16a60f208b1c33c878347"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sample_token_project:sample_token:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sample_token_project:sample_token:-",
+	"title": [
+		{
+			"text": "Sample Token Project Sample Token",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0xb5bfe2803e37525ac9f16a60f208b1c33c878347"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sample_token_project:sample_token:-:*:*:*:*:*:*:*"
+	}
 }

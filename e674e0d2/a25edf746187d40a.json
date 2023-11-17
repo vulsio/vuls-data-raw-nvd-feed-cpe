@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:adobe:campaign:7.2.1::~~classic~~~",
-  "title": [
-    {
-      "text": "Adobe Campaign 7.2.1 Classic Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/campaign/apsb22-58.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:campaign:7.2.1:*:*:*:classic:*:*:*"
-  }
+	"name": "cpe:/a:adobe:campaign:7.2.1::~~classic~~~",
+	"title": [
+		{
+			"text": "Adobe Campaign 7.2.1 Classic Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/campaign/apsb22-58.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:campaign:7.2.1:*:*:*:classic:*:*:*"
+	}
 }

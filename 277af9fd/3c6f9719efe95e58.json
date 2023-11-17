@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:serenityos:serenity:2021-03-27",
-  "deprecated": true,
-  "deprecation_date": "2022-12-08T18:55:40.097Z",
-  "title": [
-    {
-      "text": "Serenityos Serenity 2021-03-27",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Fire30/CTF-WRITEUPS/tree/master/36c3_ctf/wisdom"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:serenityos:serenity:2021-03-27:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-08T13:55:40.097-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:serenityos:serenityos:2021-03-27:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:serenityos:serenity:2021-03-27",
+	"deprecated": true,
+	"deprecation_date": "2022-12-08T18:55:40.097Z",
+	"title": [
+		{
+			"text": "Serenityos Serenity 2021-03-27",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Fire30/CTF-WRITEUPS/tree/master/36c3_ctf/wisdom"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:serenityos:serenity:2021-03-27:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-08T13:55:40.097-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:serenityos:serenityos:2021-03-27:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

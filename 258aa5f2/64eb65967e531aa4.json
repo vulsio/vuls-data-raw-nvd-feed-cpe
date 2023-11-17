@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:vtiger:vtiger_crm:5.1.0",
-  "deprecated": true,
-  "deprecation_date": "2019-10-23T14:32:05.963Z",
-  "title": [
-    {
-      "text": "Vtiger CRM 5.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-23T10:32:05.963-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vtiger:vtiger_crm:5.1.0",
+	"deprecated": true,
+	"deprecation_date": "2019-10-23T14:32:05.963Z",
+	"title": [
+		{
+			"text": "Vtiger CRM 5.1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-23T10:32:05.963-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vtiger:vtiger_crm:5.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:polycom:hdx_8000:-",
-  "title": [
-    {
-      "text": "Polycom HDX 8000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://web.archive.org/web/20130317232013/http://blog.tempest.com.br/joao-paulo-campello/polycom-web-management-interface-os-command-injection.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://seclists.org/fulldisclosure/2012/Mar/18"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.polycom.com/content/support/cala/cala/en/support/video/hdx-series.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:polycom:hdx_8000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:polycom:hdx_8000:-",
+	"title": [
+		{
+			"text": "Polycom HDX 8000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://web.archive.org/web/20130317232013/http://blog.tempest.com.br/joao-paulo-campello/polycom-web-management-interface-os-command-injection.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2012/Mar/18"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.polycom.com/content/support/cala/cala/en/support/video/hdx-series.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:polycom:hdx_8000:-:*:*:*:*:*:*:*"
+	}
 }

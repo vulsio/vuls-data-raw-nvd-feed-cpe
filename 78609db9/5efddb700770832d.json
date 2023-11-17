@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:symantec:proxysg:6.5.10.15",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T18:54:01.793Z",
-  "title": [
-    {
-      "text": "Symantec ProxySG 6.5.10.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.symantec.com/us/en/product.proxysg-software-sgos.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.symantec.com/us/en/article.SYMSA1472.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:proxysg:6.5.10.15:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-24T14:54:01.793-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:symantec_proxysg:6.5.10.15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symantec:proxysg:6.5.10.15",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T18:54:01.793Z",
+	"title": [
+		{
+			"text": "Symantec ProxySG 6.5.10.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.symantec.com/us/en/product.proxysg-software-sgos.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.symantec.com/us/en/article.SYMSA1472.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:proxysg:6.5.10.15:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-24T14:54:01.793-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:symantec_proxysg:6.5.10.15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

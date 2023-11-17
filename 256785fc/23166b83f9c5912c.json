@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:d-link:dgs-1100-26:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DGS-1100-26",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://us.dlink.com/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.dlink.com/-/media/business_products/dgs/dgs-1100/datasheet/dgs_1100_series_datasheet_en_eu.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dgs-1100-26:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dgs-1100-26:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dgs-1100-26:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DGS-1100-26",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://us.dlink.com/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.dlink.com/-/media/business_products/dgs/dgs-1100/datasheet/dgs_1100_series_datasheet_en_eu.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dgs-1100-26:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dgs-1100-26:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

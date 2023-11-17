@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sourcegraph:sourcegraph:3.35.2:rc1",
-  "title": [
-    {
-      "text": "Sourcegraph 3.35.2 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-xqv2-x6f2-w3pf"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/sourcegraph/sourcegraph/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sourcegraph:sourcegraph:3.35.2:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sourcegraph:sourcegraph:3.35.2:rc1",
+	"title": [
+		{
+			"text": "Sourcegraph 3.35.2 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sourcegraph/sourcegraph/security/advisories/GHSA-xqv2-x6f2-w3pf"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/sourcegraph/sourcegraph/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sourcegraph:sourcegraph:3.35.2:rc1:*:*:*:*:*:*"
+	}
 }

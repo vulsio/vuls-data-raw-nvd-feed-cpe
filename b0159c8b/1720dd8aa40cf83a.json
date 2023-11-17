@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:covid19_testing_management_system_project:covid19_testing_management_system:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T17:10:54.137Z",
-  "title": [
-    {
-      "text": "Covid19 Testing Management System Project Covid19 Testing Management System 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/163014/COVID-19-Testing-Management-System-1.0-SQL-Injection.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:covid19_testing_management_system_project:covid19_testing_management_system:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T12:10:54.137-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:covid19_testing_management_system:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:covid19_testing_management_system_project:covid19_testing_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T17:10:54.137Z",
+	"title": [
+		{
+			"text": "Covid19 Testing Management System Project Covid19 Testing Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/163014/COVID-19-Testing-Management-System-1.0-SQL-Injection.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:covid19_testing_management_system_project:covid19_testing_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T12:10:54.137-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:covid19_testing_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

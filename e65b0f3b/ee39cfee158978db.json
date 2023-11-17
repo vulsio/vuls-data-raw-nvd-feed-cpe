@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:bolt:bolt:2.2.22",
-  "deprecated": true,
-  "deprecation_date": "2021-01-04T17:43:35.813Z",
-  "title": [
-    {
-      "text": "Bolt 2.2.22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/bolt/bolt/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bolt:bolt:2.2.22:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-04T12:43:35.813-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:boltcms:bolt:2.2.22:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bolt:bolt:2.2.22",
+	"deprecated": true,
+	"deprecation_date": "2021-01-04T17:43:35.813Z",
+	"title": [
+		{
+			"text": "Bolt 2.2.22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/bolt/bolt/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bolt:bolt:2.2.22:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-04T12:43:35.813-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:boltcms:bolt:2.2.22:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

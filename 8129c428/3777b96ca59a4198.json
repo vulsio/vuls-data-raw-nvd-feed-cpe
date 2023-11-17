@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:verint:desktop_and_process_analytics:15.2",
-  "title": [
-    {
-      "text": "Verint Desktop and Process Analytics 15.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/12xxx/CVE-2020-12744.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bwiltse/cve/blob/master/Verint/Verint-CVE-2020-12744.txt"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.verint.com/desktop-and-process-analytics/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:verint:desktop_and_process_analytics:15.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:verint:desktop_and_process_analytics:15.2",
+	"title": [
+		{
+			"text": "Verint Desktop and Process Analytics 15.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/12xxx/CVE-2020-12744.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bwiltse/cve/blob/master/Verint/Verint-CVE-2020-12744.txt"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.verint.com/desktop-and-process-analytics/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:verint:desktop_and_process_analytics:15.2:*:*:*:*:*:*:*"
+	}
 }

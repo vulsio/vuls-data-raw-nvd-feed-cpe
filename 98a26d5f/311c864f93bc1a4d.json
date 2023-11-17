@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:fmt_project:fmt:5.1.0",
-  "deprecated": true,
-  "deprecation_date": "2019-11-06T16:08:26.803Z",
-  "title": [
-    {
-      "text": "fmt Project fmt 5.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/fmtlib/fmt/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://fmtlib.net/latest/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fmt_project:fmt:5.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-06T11:08:26.803-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:fmt:fmt:5.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:fmt_project:fmt:5.1.0",
+	"deprecated": true,
+	"deprecation_date": "2019-11-06T16:08:26.803Z",
+	"title": [
+		{
+			"text": "fmt Project fmt 5.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/fmtlib/fmt/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://fmtlib.net/latest/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fmt_project:fmt:5.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-06T11:08:26.803-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fmt:fmt:5.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

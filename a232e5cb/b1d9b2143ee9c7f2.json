@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:power_bi_report_server:15.0.1107.165",
-  "title": [
-    {
-      "text": "Microsoft Power BI Report Server 15.0.1107.165",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-41372"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.microsoft.com/en-us/topic/escalation-of-privilege-possible-in-power-bi-report-server-september-2021-november-9-2021-kb5007903-f0fdda32-18c9-4167-8bfe-58fcc62aebe5"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:power_bi_report_server:15.0.1107.165:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:power_bi_report_server:15.0.1107.165",
+	"title": [
+		{
+			"text": "Microsoft Power BI Report Server 15.0.1107.165",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-41372"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.microsoft.com/en-us/topic/escalation-of-privilege-possible-in-power-bi-report-server-september-2021-november-9-2021-kb5007903-f0fdda32-18c9-4167-8bfe-58fcc62aebe5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:power_bi_report_server:15.0.1107.165:*:*:*:*:*:*:*"
+	}
 }

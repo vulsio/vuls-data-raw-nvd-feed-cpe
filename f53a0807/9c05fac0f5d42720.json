@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:c3_token_project:c3_token:-",
-  "title": [
-    {
-      "text": "C3 Token Project C3 Token",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0x2d1fbbd6f82738ca00b09024a81e12a8816a22bc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:c3_token_project:c3_token:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:c3_token_project:c3_token:-",
+	"title": [
+		{
+			"text": "C3 Token Project C3 Token",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0x2d1fbbd6f82738ca00b09024a81e12a8816a22bc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:c3_token_project:c3_token:-:*:*:*:*:*:*:*"
+	}
 }

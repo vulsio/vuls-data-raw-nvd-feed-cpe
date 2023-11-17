@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:openmicroscopy:omero-web:5.11.0",
-  "deprecated": true,
-  "deprecation_date": "2021-10-18T12:49:09.570Z",
-  "title": [
-    {
-      "text": "Open Microscopy OMERO.web 5.11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.openmicroscopy.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ome/omero-web/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.openmicroscopy.org/security/advisories/2021-SV3/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openmicroscopy:omero-web:5.11.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-18T08:49:09.570-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openmicroscopy:omero-web:5.11.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openmicroscopy:omero-web:5.11.0",
+	"deprecated": true,
+	"deprecation_date": "2021-10-18T12:49:09.570Z",
+	"title": [
+		{
+			"text": "Open Microscopy OMERO.web 5.11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.openmicroscopy.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ome/omero-web/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openmicroscopy.org/security/advisories/2021-SV3/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openmicroscopy:omero-web:5.11.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-18T08:49:09.570-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openmicroscopy:omero-web:5.11.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

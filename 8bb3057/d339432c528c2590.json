@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kmctoken_project:kmctoken:-",
-  "title": [
-    {
-      "text": "KMCToken Project KMCToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x3ddd6a5dc87798285d43515832c17cbff141ad28#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kmctoken_project:kmctoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kmctoken_project:kmctoken:-",
+	"title": [
+		{
+			"text": "KMCToken Project KMCToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x3ddd6a5dc87798285d43515832c17cbff141ad28#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kmctoken_project:kmctoken:-:*:*:*:*:*:*:*"
+	}
 }

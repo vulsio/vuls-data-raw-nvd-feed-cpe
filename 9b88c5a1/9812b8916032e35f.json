@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:knot-resolver:knot_resolver:1.2.1",
-  "deprecated": true,
-  "deprecation_date": "2019-11-06T17:32:03.253Z",
-  "title": [
-    {
-      "text": "Knot Resolver 1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://secure.nic.cz/files/knot-resolver/?C=N;O=D"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.knot-resolver.cz/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:knot-resolver:knot_resolver:1.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-06T12:32:03.253-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nic:knot_resolver:1.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:knot-resolver:knot_resolver:1.2.1",
+	"deprecated": true,
+	"deprecation_date": "2019-11-06T17:32:03.253Z",
+	"title": [
+		{
+			"text": "Knot Resolver 1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://secure.nic.cz/files/knot-resolver/?C=N;O=D"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.knot-resolver.cz/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:knot-resolver:knot_resolver:1.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-06T12:32:03.253-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nic:knot_resolver:1.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

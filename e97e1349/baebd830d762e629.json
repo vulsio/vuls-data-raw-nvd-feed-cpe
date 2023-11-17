@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:nginx:nginx:0.8.22",
-  "deprecated": true,
-  "deprecation_date": "2021-11-10T15:51:45.780Z",
-  "title": [
-    {
-      "text": "Nginx 0.8.22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://nginx.org/en/download.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nginx:nginx:0.8.22:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-10T10:51:45.780-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:f5:nginx:0.8.22:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nginx:nginx:0.8.22",
+	"deprecated": true,
+	"deprecation_date": "2021-11-10T15:51:45.780Z",
+	"title": [
+		{
+			"text": "Nginx 0.8.22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://nginx.org/en/download.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nginx:nginx:0.8.22:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-10T10:51:45.780-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:f5:nginx:0.8.22:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

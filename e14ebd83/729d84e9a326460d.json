@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:amr_users_project:amr_users:3.5.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T18:04:03.770Z",
-  "title": [
-    {
-      "text": "Amr Users Project Amr Users 3.5.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/amr-users/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amr_users_project:amr_users:3.5.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-14T13:04:03.770-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:anmari:amr_users:3.5.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:amr_users_project:amr_users:3.5.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T18:04:03.770Z",
+	"title": [
+		{
+			"text": "Amr Users Project Amr Users 3.5.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/amr-users/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amr_users_project:amr_users:3.5.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-14T13:04:03.770-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:anmari:amr_users:3.5.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

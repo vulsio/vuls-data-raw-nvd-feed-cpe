@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cert:vince:-",
-  "title": [
-    {
-      "text": "CERT/CC VINCE (Vulnerability Information and Coordination Environment)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kb.cert.org/vince/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/CERTCC/VINCE/blob/main/CHANGELOG.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cert:vince:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cert:vince:-",
+	"title": [
+		{
+			"text": "CERT/CC VINCE (Vulnerability Information and Coordination Environment)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kb.cert.org/vince/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/CERTCC/VINCE/blob/main/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cert:vince:-:*:*:*:*:*:*:*"
+	}
 }

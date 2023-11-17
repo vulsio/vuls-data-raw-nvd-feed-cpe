@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WP Dummy Content Generator Project WP Dummy Content Generator 2.3.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-dummy-content-generator/wordpress-wp-dummy-content-generator-plugin-2-3-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-dummy-content-generator/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Dummy Content Generator Project WP Dummy Content Generator 2.3.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-dummy-content-generator/wordpress-wp-dummy-content-generator-plugin-2-3-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-dummy-content-generator/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp_dummy_content_generator_project:wp_dummy_content_generator:2.3.0:*:*:*:*:wordpress:*:*"
+	}
 }

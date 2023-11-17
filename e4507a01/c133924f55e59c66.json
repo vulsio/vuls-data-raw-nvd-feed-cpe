@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:golang:go:2018-09-25",
-  "deprecated": true,
-  "deprecation_date": "2022-11-08T19:40:01.140Z",
-  "title": [
-    {
-      "text": "Golang Go 2018-09-25",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-17846?tab=REFERENCES"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://golang.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:go:2018-09-25:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-08T14:40:01.140-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:golang:net:2018-09-25:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:golang:go:2018-09-25",
+	"deprecated": true,
+	"deprecation_date": "2022-11-08T19:40:01.140Z",
+	"title": [
+		{
+			"text": "Golang Go 2018-09-25",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-17846?tab=REFERENCES"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://golang.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:go:2018-09-25:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-08T14:40:01.140-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:golang:net:2018-09-25:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

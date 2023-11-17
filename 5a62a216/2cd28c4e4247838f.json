@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gnome:gnome-shell:-",
-  "title": [
-    {
-      "text": "GNOME gnome-shell -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2006285"
-    },
-    {
-      "text": "Product",
-      "href": "https://wiki.gnome.org/Projects/GnomeShell"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnome:gnome-shell:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnome:gnome-shell:-",
+	"title": [
+		{
+			"text": "GNOME gnome-shell -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2006285"
+		},
+		{
+			"text": "Product",
+			"href": "https://wiki.gnome.org/Projects/GnomeShell"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnome:gnome-shell:-:*:*:*:*:*:*:*"
+	}
 }

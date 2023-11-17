@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:sd-wan_vmanage:20.12",
-  "title": [
-    {
-      "text": "Cisco SD-WAN vManage 20.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-vman-sc-LRLfu2z"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/site/us/en/products/networking/wan/vmanage/index.html#tabs-9cfa4a460b-item-b8ba101fed-tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:sd-wan_vmanage:20.12",
+	"title": [
+		{
+			"text": "Cisco SD-WAN vManage 20.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-vman-sc-LRLfu2z"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/site/us/en/products/networking/wan/vmanage/index.html#tabs-9cfa4a460b-item-b8ba101fed-tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.12:*:*:*:*:*:*:*"
+	}
 }

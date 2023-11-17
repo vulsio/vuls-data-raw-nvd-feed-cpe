@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:ribboncommunications:edgemarc_firmware:-",
-  "title": [
-    {
-      "text": "Ribbon Communications EdgeMarc Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://depthsecurity.com/blog/cve-2017-6079-blind-command-injection-in-edgewater-edgemarc-devices"
-    },
-    {
-      "text": "Product",
-      "href": "https://ribboncommunications.com/products/service-provider-products/cloud-and-edge/session-border-controllers/session-border-controllers-edge-appliances"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.edgewaternetworks.com/ps/2013/08/edgewater-networks-introduces-edgemarc-7000-series-enterprise-session-border-controllers/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ribboncommunications:edgemarc_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ribboncommunications:edgemarc_firmware:-",
+	"title": [
+		{
+			"text": "Ribbon Communications EdgeMarc Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://depthsecurity.com/blog/cve-2017-6079-blind-command-injection-in-edgewater-edgemarc-devices"
+		},
+		{
+			"text": "Product",
+			"href": "https://ribboncommunications.com/products/service-provider-products/cloud-and-edge/session-border-controllers/session-border-controllers-edge-appliances"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.edgewaternetworks.com/ps/2013/08/edgewater-networks-introduces-edgemarc-7000-series-enterprise-session-border-controllers/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ribboncommunications:edgemarc_firmware:-:*:*:*:*:*:*:*"
+	}
 }

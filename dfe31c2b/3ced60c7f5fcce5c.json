@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:siemens:sicam_pas:-",
-  "deprecated": true,
-  "deprecation_date": "2023-10-13T16:45:09.597Z",
-  "title": [
-    {
-      "text": "Siemens SICAM PAS (Power Automation System)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://w3.siemens.com/smartgrid/global/en/products-systems-solutions/substation-automation/substation-automation/Pages/SICAM-PAS.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:sicam_pas:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-13T12:45:09.597-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:siemens:sicam_pas:-",
+	"deprecated": true,
+	"deprecation_date": "2023-10-13T16:45:09.597Z",
+	"title": [
+		{
+			"text": "Siemens SICAM PAS (Power Automation System)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://w3.siemens.com/smartgrid/global/en/products-systems-solutions/substation-automation/substation-automation/Pages/SICAM-PAS.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:sicam_pas:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-13T12:45:09.597-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siemens:sicam_pas\\/pqs:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

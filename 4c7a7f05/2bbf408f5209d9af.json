@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bitdefender:endpoint_security_tools:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Bitdefender Endpoint Security Tools for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.bitdefender.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/support/security-advisories/improper-authentication-vulnerability-bitdefender-endpoint-security-tools-endpoint-security-sdk-va-8646/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitdefender:endpoint_security_tools:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:bitdefender:endpoint_security_tools:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Bitdefender Endpoint Security Tools for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.bitdefender.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/support/security-advisories/improper-authentication-vulnerability-bitdefender-endpoint-security-tools-endpoint-security-sdk-va-8646/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitdefender:endpoint_security_tools:-:*:*:*:*:windows:*:*"
+	}
 }

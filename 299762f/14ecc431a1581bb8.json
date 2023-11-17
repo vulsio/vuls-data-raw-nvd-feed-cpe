@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:argo_events_project:argo_events:1.6.2",
-  "title": [
-    {
-      "text": "Argo Events Project Argo Events 1.6.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/argoproj/argo-events/security/advisories/GHSA-5q86-62xr-3r57"
-    },
-    {
-      "text": "Project",
-      "href": "https://argoproj.github.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/argoproj/argo-events/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:argo_events_project:argo_events:1.6.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:argo_events_project:argo_events:1.6.2",
+	"title": [
+		{
+			"text": "Argo Events Project Argo Events 1.6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/argoproj/argo-events/security/advisories/GHSA-5q86-62xr-3r57"
+		},
+		{
+			"text": "Project",
+			"href": "https://argoproj.github.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/argoproj/argo-events/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:argo_events_project:argo_events:1.6.2:*:*:*:*:*:*:*"
+	}
 }

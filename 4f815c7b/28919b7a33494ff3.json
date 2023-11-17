@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:opensuse:backports_sle:15.0",
-  "deprecated": true,
-  "deprecation_date": "2020-08-19T19:35:56.877Z",
-  "title": [
-    {
-      "text": "OpenSUSE Backports SLE 15.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2019-12/msg00002.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://build.opensuse.org/project/show/openSUSE:Backports:SLE-15"
-    },
-    {
-      "text": "Version",
-      "href": "https://download.opensuse.org/repositories/openSUSE:/Backports:/SLE-15/standard/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opensuse:backports_sle:15.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-19T15:35:56.877-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:opensuse:backports_sle:15.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:opensuse:backports_sle:15.0",
+	"deprecated": true,
+	"deprecation_date": "2020-08-19T19:35:56.877Z",
+	"title": [
+		{
+			"text": "OpenSUSE Backports SLE 15.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2019-12/msg00002.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://build.opensuse.org/project/show/openSUSE:Backports:SLE-15"
+		},
+		{
+			"text": "Version",
+			"href": "https://download.opensuse.org/repositories/openSUSE:/Backports:/SLE-15/standard/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opensuse:backports_sle:15.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-19T15:35:56.877-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:opensuse:backports_sle:15.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

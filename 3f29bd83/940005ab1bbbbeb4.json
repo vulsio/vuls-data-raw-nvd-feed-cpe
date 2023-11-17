@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:espressif:esp8266_rtos_sdk:1.4.0",
-  "title": [
-    {
-      "text": "Espressif ESP8266 RTOS SDK 1.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.espressif.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.espressif.com/sites/default/files/advisory_downloads/Security%20advisory_%20authentication%20bypass.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lbsfilm.at/blog/wpa2-authenticationmode-downgrade-in-espressif-microprocessors"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/espressif/ESP8266_RTOS_SDK/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:espressif:esp8266_rtos_sdk:1.4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:espressif:esp8266_rtos_sdk:1.4.0",
+	"title": [
+		{
+			"text": "Espressif ESP8266 RTOS SDK 1.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.espressif.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.espressif.com/sites/default/files/advisory_downloads/Security%20advisory_%20authentication%20bypass.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lbsfilm.at/blog/wpa2-authenticationmode-downgrade-in-espressif-microprocessors"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/espressif/ESP8266_RTOS_SDK/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:espressif:esp8266_rtos_sdk:1.4.0:*:*:*:*:*:*:*"
+	}
 }

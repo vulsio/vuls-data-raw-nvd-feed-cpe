@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:garo:wallbox_gtb_firmware:-",
-  "title": [
-    {
-      "text": "GARO Wallbox GTB Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.garo.se/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.garoemobility.se/media/ejoflno3/gtb-se-twin-full-manual-380231-1-1.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/delikely/advisory/tree/main/GARO"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:garo:wallbox_gtb_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:garo:wallbox_gtb_firmware:-",
+	"title": [
+		{
+			"text": "GARO Wallbox GTB Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.garo.se/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.garoemobility.se/media/ejoflno3/gtb-se-twin-full-manual-380231-1-1.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/delikely/advisory/tree/main/GARO"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:garo:wallbox_gtb_firmware:-:*:*:*:*:*:*:*"
+	}
 }

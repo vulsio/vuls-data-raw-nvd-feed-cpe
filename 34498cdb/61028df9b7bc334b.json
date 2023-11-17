@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:netapp:baseboard_management_controller_h615c:-",
-  "deprecated": true,
-  "deprecation_date": "2023-11-09T13:57:19.497Z",
-  "title": [
-    {
-      "text": "NetApp Baseboard Management Controller H615c -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20220114-0003/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:netapp:baseboard_management_controller_h615c:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-09T08:57:19.497-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:netapp:h615c:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:netapp:baseboard_management_controller_h615c:-",
+	"deprecated": true,
+	"deprecation_date": "2023-11-09T13:57:19.497Z",
+	"title": [
+		{
+			"text": "NetApp Baseboard Management Controller H615c -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20220114-0003/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netapp:baseboard_management_controller_h615c:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-09T08:57:19.497-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:netapp:h615c:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

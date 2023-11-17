@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:medtronic:secura_icd:-",
-  "title": [
-    {
-      "text": "Medtronic Secura ICD",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://wwwp.medtronic.com/productperformance/model/D224DRG-secura-dr.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:medtronic:secura_icd:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:medtronic:secura_icd:-",
+	"title": [
+		{
+			"text": "Medtronic Secura ICD",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://wwwp.medtronic.com/productperformance/model/D224DRG-secura-dr.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:medtronic:secura_icd:-:*:*:*:*:*:*:*"
+	}
 }

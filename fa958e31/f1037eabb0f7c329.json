@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:frappe:erpnext:11.0.3:beta1",
-  "title": [
-    {
-      "text": "Frappe ERPNext 11.0.3 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/frappe/erpnext/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23055.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.mend.io/vulnerability-database/CVE-2022-23055"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:frappe:erpnext:11.0.3:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:frappe:erpnext:11.0.3:beta1",
+	"title": [
+		{
+			"text": "Frappe ERPNext 11.0.3 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/frappe/erpnext/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23055.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.mend.io/vulnerability-database/CVE-2022-23055"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:frappe:erpnext:11.0.3:beta1:*:*:*:*:*:*"
+	}
 }

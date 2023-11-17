@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:broadcom:widcomm_bluetooth:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:05.100Z",
-  "title": [
-    {
-      "text": "Broadcom Widcomm Bluetooth",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:05.100-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:broadcom:widcomm_bluetooth:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:05.100Z",
+	"title": [
+		{
+			"text": "Broadcom Widcomm Bluetooth",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:05.100-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:widcomm_bluetooth:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:terraform_provider:2.11.0::~~~vault~~",
-  "title": [
-    {
-      "text": "Hashicorp Terraform Provider 2.11.0 for Vault",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-11-terraform-s-vault-provider-did-not-correctly-configure-bound-labels-for-gcp-auth/23464"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/hashicorp/terraform-provider-vault/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:terraform_provider:2.11.0:*:*:*:*:vault:*:*"
-  }
+	"name": "cpe:/a:hashicorp:terraform_provider:2.11.0::~~~vault~~",
+	"title": [
+		{
+			"text": "Hashicorp Terraform Provider 2.11.0 for Vault",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-11-terraform-s-vault-provider-did-not-correctly-configure-bound-labels-for-gcp-auth/23464"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hashicorp/terraform-provider-vault/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:terraform_provider:2.11.0:*:*:*:*:vault:*:*"
+	}
 }

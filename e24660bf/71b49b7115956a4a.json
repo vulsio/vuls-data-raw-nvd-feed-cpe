@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:gifsicle_project:gifsicle:1.80",
-  "deprecated": true,
-  "deprecation_date": "2023-10-24T16:06:22.270Z",
-  "title": [
-    {
-      "text": "Gifsicle Project Gifsicle 1.80",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kohler/gifsicle/releases"
-    },
-    {
-      "text": "Project",
-      "href": "http://www.lcdf.org/gifsicle/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gifsicle_project:gifsicle:1.80:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-24T12:06:22.270-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:lcdf:gifsicle:1.80:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gifsicle_project:gifsicle:1.80",
+	"deprecated": true,
+	"deprecation_date": "2023-10-24T16:06:22.270Z",
+	"title": [
+		{
+			"text": "Gifsicle Project Gifsicle 1.80",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kohler/gifsicle/releases"
+		},
+		{
+			"text": "Project",
+			"href": "http://www.lcdf.org/gifsicle/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gifsicle_project:gifsicle:1.80:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-24T12:06:22.270-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:lcdf:gifsicle:1.80:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:slf4j:slf4j:1.6.0",
-  "deprecated": true,
-  "deprecation_date": "2021-02-05T15:42:21.143Z",
-  "title": [
-    {
-      "text": "SLF4J 1.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.slf4j.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.slf4j.org/dist/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:slf4j:slf4j:1.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-05T10:42:21.143-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qos:slf4j:1.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:slf4j:slf4j:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2021-02-05T15:42:21.143Z",
+	"title": [
+		{
+			"text": "SLF4J 1.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.slf4j.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.slf4j.org/dist/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:slf4j:slf4j:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-05T10:42:21.143-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qos:slf4j:1.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

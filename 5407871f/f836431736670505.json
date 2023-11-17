@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:hardware_management_console:9.1.910.0",
-  "title": [
-    {
-      "text": "IBM Hardware Management Console 9.1.910.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/docs/en/power8/8335-GTA?topic=HW4M4/p8hat/p8hat_partitioningwithanhmc.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/node/6473347"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:hardware_management_console:9.1.910.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:hardware_management_console:9.1.910.0",
+	"title": [
+		{
+			"text": "IBM Hardware Management Console 9.1.910.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/docs/en/power8/8335-GTA?topic=HW4M4/p8hat/p8hat_partitioningwithanhmc.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/node/6473347"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:hardware_management_console:9.1.910.0:*:*:*:*:*:*:*"
+	}
 }

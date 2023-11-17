@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:starkbank:ecdsa-java:1.0.0",
-  "title": [
-    {
-      "text": "Starkbank Elliptic Curve Digital Signature Algorithm Java 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://starkbank.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/starkbank/ecdsa-java/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:starkbank:ecdsa-java:1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:starkbank:ecdsa-java:1.0.0",
+	"title": [
+		{
+			"text": "Starkbank Elliptic Curve Digital Signature Algorithm Java 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://starkbank.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/starkbank/ecdsa-java/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:starkbank:ecdsa-java:1.0.0:*:*:*:*:*:*:*"
+	}
 }

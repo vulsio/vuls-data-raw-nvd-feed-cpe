@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:cisco:fxos:r231",
-  "deprecated": true,
-  "deprecation_date": "2023-04-20T17:17:58.770Z",
-  "title": [
-    {
-      "text": "Cisco FXOS R231",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvf23367"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:fxos:r231:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-20T13:17:58.770-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:r231:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:fxos:r231",
+	"deprecated": true,
+	"deprecation_date": "2023-04-20T17:17:58.770Z",
+	"title": [
+		{
+			"text": "Cisco FXOS R231",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvf23367"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:fxos:r231:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-20T13:17:58.770-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:r231:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:siemens:ccms2025_firmware:-",
-  "title": [
-    {
-      "text": "Siemens CCMS025 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-284765.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "http://w3.usa.siemens.com/buildingtechnologies/us/en/security-solutions/video-surveillance-cctv/Pages/video-surveillance-cctv.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:ccms2025_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:ccms2025_firmware:-",
+	"title": [
+		{
+			"text": "Siemens CCMS025 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-284765.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "http://w3.usa.siemens.com/buildingtechnologies/us/en/security-solutions/video-surveillance-cctv/Pages/video-surveillance-cctv.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:ccms2025_firmware:-:*:*:*:*:*:*:*"
+	}
 }

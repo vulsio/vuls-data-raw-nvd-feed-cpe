@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:datadoghq:application_monitoring:1.5.0::~~~pivotal_cloud_foundry~~",
-  "title": [
-    {
-      "text": "Datadoghq Application Monitoring 1.5.0 for Pivotal Cloud Foundry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/partners/datadog-application-monitoring/release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:datadoghq:application_monitoring:1.5.0:*:*:*:*:pivotal_cloud_foundry:*:*"
-  }
+	"name": "cpe:/a:datadoghq:application_monitoring:1.5.0::~~~pivotal_cloud_foundry~~",
+	"title": [
+		{
+			"text": "Datadoghq Application Monitoring 1.5.0 for Pivotal Cloud Foundry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/partners/datadog-application-monitoring/release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:datadoghq:application_monitoring:1.5.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+	}
 }

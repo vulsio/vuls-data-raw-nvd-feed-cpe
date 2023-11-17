@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:bea:weblogic_portal:-",
-  "deprecated": true,
-  "deprecation_date": "2011-01-18T19:38:14.690Z",
-  "title": [
-    {
-      "text": "Oracle WebLogic Portal",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bea:weblogic_portal:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-01-18T14:38:14.690-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:weblogic_portal:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bea:weblogic_portal:-",
+	"deprecated": true,
+	"deprecation_date": "2011-01-18T19:38:14.690Z",
+	"title": [
+		{
+			"text": "Oracle WebLogic Portal",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bea:weblogic_portal:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-01-18T14:38:14.690-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:weblogic_portal:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

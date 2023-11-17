@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:unity_express:2.2.2",
-  "deprecated": true,
-  "deprecation_date": "2013-02-07T14:59:29.610Z",
-  "title": [
-    {
-      "text": "Cisco Unity Express Software 2.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:unity_express:2.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-02-07T09:59:29.610-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:unity_express_software:2.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:unity_express:2.2.2",
+	"deprecated": true,
+	"deprecation_date": "2013-02-07T14:59:29.610Z",
+	"title": [
+		{
+			"text": "Cisco Unity Express Software 2.2.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:unity_express:2.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-02-07T09:59:29.610-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:unity_express_software:2.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

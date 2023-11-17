@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:trend_micro:endpoint_sensor:1.6",
-  "deprecated": true,
-  "deprecation_date": "2021-08-09T13:23:08.067Z",
-  "title": [
-    {
-      "text": "TREND Micro Endpoint Sensor 1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://downloadcenter.trendmicro.com/index.php?regs=NABU&clk=latest&clkval=4906&lang_loc=1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:trend_micro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-09T09:23:08.067-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:trendmicro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:trend_micro:endpoint_sensor:1.6",
+	"deprecated": true,
+	"deprecation_date": "2021-08-09T13:23:08.067Z",
+	"title": [
+		{
+			"text": "TREND Micro Endpoint Sensor 1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://downloadcenter.trendmicro.com/index.php?regs=NABU&clk=latest&clkval=4906&lang_loc=1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:trend_micro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-09T09:23:08.067-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:trendmicro:endpoint_sensor:1.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jsonpointer_project:jsonpointer:4.1.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "JSON Pointer Project JSON Pointer 4.1.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/jsonpointer"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/janl/node-jsonpointer"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-1577288"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jsonpointer_project:jsonpointer:4.1.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:jsonpointer_project:jsonpointer:4.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "JSON Pointer Project JSON Pointer 4.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/jsonpointer"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/janl/node-jsonpointer"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-JSONPOINTER-1577288"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jsonpointer_project:jsonpointer:4.1.0:*:*:*:*:node.js:*:*"
+	}
 }

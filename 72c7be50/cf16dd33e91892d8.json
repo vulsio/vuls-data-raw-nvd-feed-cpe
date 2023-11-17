@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vmware:cloud_foundation:3.10.2",
-  "title": [
-    {
-      "text": "VMware Cloud Foundation 3.10.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.vmware.com/en/VMware-Cloud-Foundation/3.10.2/rn/vmware-cloud-foundation-3102-release-notes/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2021-0014.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:cloud_foundation:3.10.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vmware:cloud_foundation:3.10.2",
+	"title": [
+		{
+			"text": "VMware Cloud Foundation 3.10.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.vmware.com/en/VMware-Cloud-Foundation/3.10.2/rn/vmware-cloud-foundation-3102-release-notes/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2021-0014.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:cloud_foundation:3.10.2:*:*:*:*:*:*:*"
+	}
 }

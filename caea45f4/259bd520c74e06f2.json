@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:selinuxproject:libsepol:2.8",
-  "deprecated": true,
-  "deprecation_date": "2021-01-06T15:27:21.507Z",
-  "title": [
-    {
-      "text": "SELinux Project Libsepol 2.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/SELinuxProject/selinux/releases"
-    },
-    {
-      "text": "Product",
-      "href": "http://selinuxproject.org/page/Main_Page"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:selinuxproject:libsepol:2.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-06T10:27:21.507-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:selinuxproject:libsepol:2.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:selinuxproject:libsepol:2.8",
+	"deprecated": true,
+	"deprecation_date": "2021-01-06T15:27:21.507Z",
+	"title": [
+		{
+			"text": "SELinux Project Libsepol 2.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/SELinuxProject/selinux/releases"
+		},
+		{
+			"text": "Product",
+			"href": "http://selinuxproject.org/page/Main_Page"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:selinuxproject:libsepol:2.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-06T10:27:21.507-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:selinuxproject:libsepol:2.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

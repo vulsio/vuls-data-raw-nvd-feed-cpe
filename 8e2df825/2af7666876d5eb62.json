@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:bundler:bundler:1.0.0:rc.1",
-  "deprecated": true,
-  "deprecation_date": "2019-07-02T14:53:27.073Z",
-  "title": [
-    {
-      "text": "Bundler 1.0.0 Release Candidate.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/bundler/bundler/blob/master/CHANGELOG.md#100beta1"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://bundler.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bundler:bundler:1.0.0:rc.1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-02T10:53:27.073-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bundler:bundler:1.0.0:rc1:*:*:*:ruby:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bundler:bundler:1.0.0:rc.1",
+	"deprecated": true,
+	"deprecation_date": "2019-07-02T14:53:27.073Z",
+	"title": [
+		{
+			"text": "Bundler 1.0.0 Release Candidate.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/bundler/bundler/blob/master/CHANGELOG.md#100beta1"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://bundler.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bundler:bundler:1.0.0:rc.1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-02T10:53:27.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bundler:bundler:1.0.0:rc1:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

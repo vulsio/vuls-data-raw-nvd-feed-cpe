@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freepbx:freepbx:13.0.119.5",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:45:20.807Z",
-  "title": [
-    {
-      "text": "FreePBX 13.0.119.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/FreePBX/core"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freepbx.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freepbx:freepbx:13.0.119.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:45:20.807-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sangoma:freepbx:13.0.119.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freepbx:freepbx:13.0.119.5",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:45:20.807Z",
+	"title": [
+		{
+			"text": "FreePBX 13.0.119.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/FreePBX/core"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freepbx.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freepbx:freepbx:13.0.119.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:45:20.807-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sangoma:freepbx:13.0.119.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

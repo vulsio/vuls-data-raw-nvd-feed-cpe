@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:arris:nvg599:-",
-  "deprecated": true,
-  "deprecation_date": "2021-08-23T17:24:41.650Z",
-  "title": [
-    {
-      "text": "Arris NVG599",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.commscope.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.arris.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arris:nvg599:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-23T13:24:41.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:commscope:arris_nvg599:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:arris:nvg599:-",
+	"deprecated": true,
+	"deprecation_date": "2021-08-23T17:24:41.650Z",
+	"title": [
+		{
+			"text": "Arris NVG599",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.commscope.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arris.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arris:nvg599:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-23T13:24:41.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:commscope:arris_nvg599:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

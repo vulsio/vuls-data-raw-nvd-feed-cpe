@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ibm:websphere_mq_jms:9.0",
-  "title": [
-    {
-      "text": "IBM Websphere MQ JMS 9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.5.0/com.ibm.mq.dev.doc/q031500_.htm"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ibm.com/us-en/?lnk=m"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/111930?cm_mc_uid=11860666561814870086683&cm_mc_sid_50200000=1487775005"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:websphere_mq_jms:9.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:websphere_mq_jms:9.0",
+	"title": [
+		{
+			"text": "IBM Websphere MQ JMS 9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.5.0/com.ibm.mq.dev.doc/q031500_.htm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ibm.com/us-en/?lnk=m"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/111930?cm_mc_uid=11860666561814870086683&cm_mc_sid_50200000=1487775005"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:websphere_mq_jms:9.0:*:*:*:*:*:*:*"
+	}
 }

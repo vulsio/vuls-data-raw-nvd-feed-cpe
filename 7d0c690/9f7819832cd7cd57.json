@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:intel:graphics_drivers:15.45",
-  "deprecated": true,
-  "deprecation_date": "2020-03-23T11:42:08.057Z",
-  "title": [
-    {
-      "text": "Intel Graphics Drivers 15.45",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00315.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:graphics_drivers:15.45:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-23T07:42:08.057-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:intel:graphics_driver:15.45:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:intel:graphics_drivers:15.45",
+	"deprecated": true,
+	"deprecation_date": "2020-03-23T11:42:08.057Z",
+	"title": [
+		{
+			"text": "Intel Graphics Drivers 15.45",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00315.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:graphics_drivers:15.45:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-23T07:42:08.057-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:intel:graphics_driver:15.45:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

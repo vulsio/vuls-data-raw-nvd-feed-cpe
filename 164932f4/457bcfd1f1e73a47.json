@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:gehealthcare:discovery_nm%2fct_d570c_firmware:-",
-  "title": [
-    {
-      "text": "GE Healthcare Discovery NM/CT D570c Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gehealthcare.com/products/molecular-imaging"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gehealthcare.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gehealthcare:discovery_nm\\/ct_d570c_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:gehealthcare:discovery_nm%2fct_d570c_firmware:-",
+	"title": [
+		{
+			"text": "GE Healthcare Discovery NM/CT D570c Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gehealthcare.com/products/molecular-imaging"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gehealthcare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gehealthcare:discovery_nm\\/ct_d570c_firmware:-:*:*:*:*:*:*:*"
+	}
 }

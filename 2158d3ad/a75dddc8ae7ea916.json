@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:dovecot:dovecot:2.2:-",
-  "title": [
-    {
-      "text": "Dovecot 2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/dovecot/core"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://dovecot.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/30xxx/CVE-2022-30550.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dovecot:dovecot:2.2:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dovecot:dovecot:2.2:-",
+	"title": [
+		{
+			"text": "Dovecot 2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/dovecot/core"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://dovecot.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/30xxx/CVE-2022-30550.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dovecot:dovecot:2.2:-:*:*:*:*:*:*"
+	}
 }

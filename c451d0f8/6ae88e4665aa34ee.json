@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/h:supermicro:b11qpi:-",
-  "title": [
-    {
-      "text": "Super Micro B11QPi",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.supermicro.com/en/products/SuperBlade/module/SBI-8149P-T8N.cfm"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.supermicro.com/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:supermicro:b11qpi:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:supermicro:b11qpi:-",
+	"title": [
+		{
+			"text": "Super Micro B11QPi",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.supermicro.com/en/products/SuperBlade/module/SBI-8149P-T8N.cfm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.supermicro.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:supermicro:b11qpi:-:*:*:*:*:*:*:*"
+	}
 }

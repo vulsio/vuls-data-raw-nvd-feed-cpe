@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gnome:gdk-pixbuf:2.30.8",
-  "title": [
-    {
-      "text": "GNOME GDK-PixBuf 2.30.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/cve-2011-2897"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.gnome.org/GNOME/gdk-pixbuf/blob/master/NEWS"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnome:gdk-pixbuf:2.30.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnome:gdk-pixbuf:2.30.8",
+	"title": [
+		{
+			"text": "GNOME GDK-PixBuf 2.30.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/cve-2011-2897"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.gnome.org/GNOME/gdk-pixbuf/blob/master/NEWS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnome:gdk-pixbuf:2.30.8:*:*:*:*:*:*:*"
+	}
 }

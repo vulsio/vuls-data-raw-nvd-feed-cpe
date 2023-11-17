@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:pivotal_software:concourse:6.3.1",
-  "title": [
-    {
-      "text": "Pivotal Software Concourse 6.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/concourse/concourse/security/advisories/GHSA-627p-rr78-99rj"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/concourse/concourse/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:concourse:6.3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pivotal_software:concourse:6.3.1",
+	"title": [
+		{
+			"text": "Pivotal Software Concourse 6.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/concourse/concourse/security/advisories/GHSA-627p-rr78-99rj"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/concourse/concourse/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:concourse:6.3.1:*:*:*:*:*:*:*"
+	}
 }

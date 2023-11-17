@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:goharbor:harbor:1.8.3:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-01T15:04:51.603Z",
-  "title": [
-    {
-      "text": "Goharbor Harbor 1.8.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://goharbor.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/goharbor/harbor"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:goharbor:harbor:1.8.3:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-01T11:04:51.603-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:harbor:1.8.3:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:goharbor:harbor:1.8.3:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-01T15:04:51.603Z",
+	"title": [
+		{
+			"text": "Goharbor Harbor 1.8.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://goharbor.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/goharbor/harbor"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:goharbor:harbor:1.8.3:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-01T11:04:51.603-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:harbor:1.8.3:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

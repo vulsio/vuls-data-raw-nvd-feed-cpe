@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tp-link:tl-wr902ac_firmware:-",
-  "title": [
-    {
-      "text": "TP-Link TL-WR902AC FIRMWARE -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.tp-link.com/us/support/download/tl-wr902ac/v3/#Firmware"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/otsmr/internet-of-vulnerable-things/blob/main/exploits/CVE-2022-48194.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tp-link:tl-wr902ac_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tp-link:tl-wr902ac_firmware:-",
+	"title": [
+		{
+			"text": "TP-Link TL-WR902AC FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.tp-link.com/us/support/download/tl-wr902ac/v3/#Firmware"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/otsmr/internet-of-vulnerable-things/blob/main/exploits/CVE-2022-48194.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tp-link:tl-wr902ac_firmware:-:*:*:*:*:*:*:*"
+	}
 }

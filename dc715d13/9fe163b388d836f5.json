@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:brocade:fabric_os:8.2.0",
-  "deprecated": true,
-  "deprecation_date": "2021-06-22T15:19:11.153Z",
-  "title": [
-    {
-      "text": "Brocade Fabric Os 8.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2018-525"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:brocade:fabric_os:8.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-22T11:19:11.153-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:brocade:fabric_os:8.2.0",
+	"deprecated": true,
+	"deprecation_date": "2021-06-22T15:19:11.153Z",
+	"title": [
+		{
+			"text": "Brocade Fabric Os 8.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.broadcom.com/support/fibre-channel-networking/security-advisories/brocade-security-advisory-2018-525"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:brocade:fabric_os:8.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-22T11:19:11.153-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:broadcom:fabric_operating_system:8.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

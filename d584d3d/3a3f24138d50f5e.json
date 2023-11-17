@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:boot2docker:boot2docker:18.06.0:-:~~community~~~",
-  "title": [
-    {
-      "text": "Boot2docker 18.06.0 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/boot2docker/boot2docker/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://boot2docker.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:boot2docker:boot2docker:18.06.0:-:*:*:community:*:*:*"
-  }
+	"name": "cpe:/o:boot2docker:boot2docker:18.06.0:-:~~community~~~",
+	"title": [
+		{
+			"text": "Boot2docker 18.06.0 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/boot2docker/boot2docker/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://boot2docker.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:boot2docker:boot2docker:18.06.0:-:*:*:community:*:*:*"
+	}
 }

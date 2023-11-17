@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:adobe:coldfusion:10.0:update_7",
-  "deprecated": true,
-  "deprecation_date": "2020-09-04T13:56:10.157Z",
-  "title": [
-    {
-      "text": "Adobe ColdFusion 10.0 Update 7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-10-updates.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:coldfusion:10.0:update_7:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-04T09:56:10.157-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:coldfusion:10.0:update7:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:coldfusion:10.0:update_7",
+	"deprecated": true,
+	"deprecation_date": "2020-09-04T13:56:10.157Z",
+	"title": [
+		{
+			"text": "Adobe ColdFusion 10.0 Update 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://helpx.adobe.com/coldfusion/kb/coldfusion-10-updates.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:coldfusion:10.0:update_7:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-04T09:56:10.157-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:coldfusion:10.0:update7:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

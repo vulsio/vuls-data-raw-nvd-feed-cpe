@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:golang:image:0.1.0::~~~go~~",
-  "title": [
-    {
-      "text": "Golang Image 0.1.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://pkg.go.dev/golang.org/x/image"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2023-1571"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:image:0.1.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:golang:image:0.1.0::~~~go~~",
+	"title": [
+		{
+			"text": "Golang Image 0.1.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://pkg.go.dev/golang.org/x/image"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-1571"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:image:0.1.0:*:*:*:*:go:*:*"
+	}
 }

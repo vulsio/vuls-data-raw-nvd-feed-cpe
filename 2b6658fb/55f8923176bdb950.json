@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:atlassian:jira:7.0.10_",
-  "deprecated": true,
-  "deprecation_date": "2019-09-24T16:06:43.257Z",
-  "title": [
-    {
-      "text": "Atlassian Jira 7.0.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://confluence.atlassian.com/jira/production-releases-11505.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:jira:7.0.10_:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-24T12:06:43.257-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:atlassian:jira:7.0.10:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:atlassian:jira:7.0.10_",
+	"deprecated": true,
+	"deprecation_date": "2019-09-24T16:06:43.257Z",
+	"title": [
+		{
+			"text": "Atlassian Jira 7.0.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://confluence.atlassian.com/jira/production-releases-11505.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:jira:7.0.10_:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-24T12:06:43.257-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:atlassian:jira:7.0.10:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:zyxel:wsr30:-",
-  "title": [
-    {
-      "text": "Zyxel WSR30",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.zyxel.com/us/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel_security_advisory_for_pre-configured_password_management_vulnerability_of_home_routers_and_WiFi_systems.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:zyxel:wsr30:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:zyxel:wsr30:-",
+	"title": [
+		{
+			"text": "Zyxel WSR30",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/us/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel_security_advisory_for_pre-configured_password_management_vulnerability_of_home_routers_and_WiFi_systems.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:zyxel:wsr30:-:*:*:*:*:*:*:*"
+	}
 }

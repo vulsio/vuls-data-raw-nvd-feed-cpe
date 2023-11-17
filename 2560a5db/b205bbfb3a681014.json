@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:keystone:15.0.1",
-  "title": [
-    {
-      "text": "Openstack Keystone 15.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2020/05/07/1"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/openstack/keystone/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:keystone:15.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:keystone:15.0.1",
+	"title": [
+		{
+			"text": "Openstack Keystone 15.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2020/05/07/1"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openstack/keystone/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:keystone:15.0.1:*:*:*:*:*:*:*"
+	}
 }

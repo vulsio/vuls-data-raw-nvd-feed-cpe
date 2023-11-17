@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:viessmann:vitogate_300_firmware:-",
-  "title": [
-    {
-      "text": "Viessmann Vitogate 300 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://connectivity.viessmann.com/gb/mp-fp/vitogate/vitogate-300-bn-mb.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Push3AX/vul/blob/main/viessmann/Vitogate300_HardcodedPassword.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:viessmann:vitogate_300_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:viessmann:vitogate_300_firmware:-",
+	"title": [
+		{
+			"text": "Viessmann Vitogate 300 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://connectivity.viessmann.com/gb/mp-fp/vitogate/vitogate-300-bn-mb.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Push3AX/vul/blob/main/viessmann/Vitogate300_HardcodedPassword.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:viessmann:vitogate_300_firmware:-:*:*:*:*:*:*:*"
+	}
 }

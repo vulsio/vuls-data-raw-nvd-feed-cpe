@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cisco:identity_services_engine:2.7%280.207%29",
-  "title": [
-    {
-      "text": "Cisco Identity Services Engine 2.7(0.207)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp98851"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190904-ise-xss"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:identity_services_engine:2.7\\(0.207\\):*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:identity_services_engine:2.7%280.207%29",
+	"title": [
+		{
+			"text": "Cisco Identity Services Engine 2.7(0.207)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp98851"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190904-ise-xss"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/security/identity-services-engine/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:identity_services_engine:2.7\\(0.207\\):*:*:*:*:*:*:*"
+	}
 }

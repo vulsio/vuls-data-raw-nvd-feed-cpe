@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:huawei:wear_app:-",
-  "title": [
-    {
-      "text": "Huawei Wear",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.huawei.bone&hl=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20160419-01-wear-en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huawei:wear_app:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:huawei:wear_app:-",
+	"title": [
+		{
+			"text": "Huawei Wear",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.huawei.bone&hl=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20160419-01-wear-en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huawei:wear_app:-:*:*:*:*:*:*:*"
+	}
 }

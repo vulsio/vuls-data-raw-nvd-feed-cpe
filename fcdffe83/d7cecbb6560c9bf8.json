@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:hamilton-medical:hamilton-t1_firmware:2.2.3",
-  "title": [
-    {
-      "text": "Hamilton-Medical Hamilton-T1 Firmware 2.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.hamilton-medical.com/en_US/Products/Mechanical-ventilators/HAMILTON-T1.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-21-047-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:2.2.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:hamilton-medical:hamilton-t1_firmware:2.2.3",
+	"title": [
+		{
+			"text": "Hamilton-Medical Hamilton-T1 Firmware 2.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.hamilton-medical.com/en_US/Products/Mechanical-ventilators/HAMILTON-T1.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-21-047-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:hamilton-medical:hamilton-t1_firmware:2.2.3:*:*:*:*:*:*:*"
+	}
 }

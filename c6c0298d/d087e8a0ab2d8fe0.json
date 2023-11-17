@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:apple:iphone_os:1.0.0:-:iphone",
-  "deprecated": true,
-  "deprecation_date": "2021-05-23T00:52:44.290Z",
-  "title": [
-    {
-      "text": "Apple iPhone OS 1.0.0 iPhone",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.apple.com/iphone/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:apple:iphone_os:1.0.0:-:iphone:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-22T20:52:44.290-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:apple:iphone_os:1.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:apple:iphone_os:1.0.0:-:iphone",
+	"deprecated": true,
+	"deprecation_date": "2021-05-23T00:52:44.290Z",
+	"title": [
+		{
+			"text": "Apple iPhone OS 1.0.0 iPhone",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.apple.com/iphone/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apple:iphone_os:1.0.0:-:iphone:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-22T20:52:44.290-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:iphone_os:1.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

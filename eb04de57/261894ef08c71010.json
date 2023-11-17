@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:qt:qt:5.13.0",
-  "deprecated": true,
-  "deprecation_date": "2020-08-19T12:29:25.497Z",
-  "title": [
-    {
-      "text": "Qt 5.13.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://download.qt.io/archive/qt/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qt:qt:5.13.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-19T08:29:25.497-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qt:qt:5.13.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:qt:qt:5.13.0",
+	"deprecated": true,
+	"deprecation_date": "2020-08-19T12:29:25.497Z",
+	"title": [
+		{
+			"text": "Qt 5.13.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://download.qt.io/archive/qt/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qt:qt:5.13.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-19T08:29:25.497-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qt:qt:5.13.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

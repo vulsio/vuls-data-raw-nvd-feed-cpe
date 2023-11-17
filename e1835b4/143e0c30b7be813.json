@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:tecrail:responsive_filemanger:9.7.3",
-  "deprecated": true,
-  "deprecation_date": "2023-02-21T19:09:46.910Z",
-  "title": [
-    {
-      "text": "Tecrail Responsive FileManager 9.7.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.responsivefilemanager.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.tecrail.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://seclists.org/fulldisclosure/2017/Feb/19"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tecrail:responsive_filemanger:9.7.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-21T14:09:46.910-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tecrail:responsive_filemanager:9.7.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tecrail:responsive_filemanger:9.7.3",
+	"deprecated": true,
+	"deprecation_date": "2023-02-21T19:09:46.910Z",
+	"title": [
+		{
+			"text": "Tecrail Responsive FileManager 9.7.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.responsivefilemanager.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.tecrail.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2017/Feb/19"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tecrail:responsive_filemanger:9.7.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-21T14:09:46.910-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tecrail:responsive_filemanager:9.7.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

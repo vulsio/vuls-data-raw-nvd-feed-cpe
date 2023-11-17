@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mozilla:thunderbird:1.5",
-  "deprecated": true,
-  "deprecation_date": "2019-06-24T16:00:51.580Z",
-  "title": [
-    {
-      "text": "Mozilla Thunderbird 1.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:thunderbird:1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-24T12:00:51.580-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mozilla:thunderbird:1.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mozilla:thunderbird:1.5",
+	"deprecated": true,
+	"deprecation_date": "2019-06-24T16:00:51.580Z",
+	"title": [
+		{
+			"text": "Mozilla Thunderbird 1.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:thunderbird:1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-24T12:00:51.580-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:thunderbird:1.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

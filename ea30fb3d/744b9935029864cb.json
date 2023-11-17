@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtv700:8.00.86",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:56.403Z",
-  "title": [
-    {
-      "text": "ヤマハ RTV700 8.00.86",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTV700 8.00.86",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtv700:8.00.86:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:56.403-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtv700:8.00.86:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtv700:8.00.86",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:56.403Z",
+	"title": [
+		{
+			"text": "Yamaha RTV700 8.00.86",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RTV700 8.00.86",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtv700:8.00.86:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:56.403-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtv700:8.00.86:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

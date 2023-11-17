@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:zimbra:zimbra:8.7.11:p7",
-  "title": [
-    {
-      "text": "Zimbra Zimbra 8.7.11 Patch 7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37393.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://attackerkb.com/topics/92AeLOE1M1/cve-2022-37393/rapid7-analysis"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Zimbra/zm-build/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zimbra:zimbra:8.7.11:p7:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zimbra:zimbra:8.7.11:p7",
+	"title": [
+		{
+			"text": "Zimbra Zimbra 8.7.11 Patch 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37393.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://attackerkb.com/topics/92AeLOE1M1/cve-2022-37393/rapid7-analysis"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Zimbra/zm-build/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zimbra:zimbra:8.7.11:p7:*:*:*:*:*:*"
+	}
 }

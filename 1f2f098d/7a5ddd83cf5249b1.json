@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:flexense:diskboss:9.1.16::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Flexense DiskBoss 9.1.16 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://blog.n0ipr0cs.io/post/2018/04/29/XSS-Flexense-DiskBoss-Enterprise-all-versions"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.flexense.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:flexense:diskboss:9.1.16:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:flexense:diskboss:9.1.16::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Flexense DiskBoss 9.1.16 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://blog.n0ipr0cs.io/post/2018/04/29/XSS-Flexense-DiskBoss-Enterprise-all-versions"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.flexense.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:flexense:diskboss:9.1.16:*:*:*:enterprise:*:*:*"
+	}
 }

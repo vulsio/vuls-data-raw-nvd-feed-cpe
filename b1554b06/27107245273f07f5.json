@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:etrust_audit_client:1.5:sp2",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T13:54:57.567Z",
-  "title": [
-    {
-      "text": "Computer Associates eTrust Audit Client 1.5 SP2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:etrust_audit_client:1.5:sp2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T09:54:57.567-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:etrust_audit_client:1.5:sp2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:etrust_audit_client:1.5:sp2",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T13:54:57.567Z",
+	"title": [
+		{
+			"text": "Computer Associates eTrust Audit Client 1.5 SP2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:etrust_audit_client:1.5:sp2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T09:54:57.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:etrust_audit_client:1.5:sp2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

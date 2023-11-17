@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:automattic:w3_super_cache:1.5.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T19:23:35.363Z",
-  "title": [
-    {
-      "text": "Automattic W3 Super Cache 1.5.0 WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/Automattic/wp-super-cache/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:automattic:w3_super_cache:1.5.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-02-10T14:23:35.363-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:automattic:wp_super_cache:1.5.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:automattic:w3_super_cache:1.5.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T19:23:35.363Z",
+	"title": [
+		{
+			"text": "Automattic W3 Super Cache 1.5.0 WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Automattic/wp-super-cache/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:w3_super_cache:1.5.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-02-10T14:23:35.363-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:automattic:wp_super_cache:1.5.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

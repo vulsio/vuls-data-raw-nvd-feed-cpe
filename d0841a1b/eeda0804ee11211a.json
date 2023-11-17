@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:supermicro:x11ssl-nf_firmware:-",
-  "title": [
-    {
-      "text": "Supermicro X11SSL-NF Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.supermicro.com/en/products/x11/motherboards"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/en/support/security_VRM_Jan_2023"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:supermicro:x11ssl-nf_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:supermicro:x11ssl-nf_firmware:-",
+	"title": [
+		{
+			"text": "Supermicro X11SSL-NF Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.supermicro.com/en/products/x11/motherboards"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/en/support/security_VRM_Jan_2023"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:x11ssl-nf_firmware:-:*:*:*:*:*:*:*"
+	}
 }

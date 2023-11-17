@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtx3000:9.00.22",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:20.247Z",
-  "title": [
-    {
-      "text": "ヤマハ RTX3000 9.00.22",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTX3000 9.00.22",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtx3000:9.00.22:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:20.247-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtx3000:9.00.22:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtx3000:9.00.22",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:20.247Z",
+	"title": [
+		{
+			"text": "Yamaha RTX3000 9.00.22",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RTX3000 9.00.22",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtx3000:9.00.22:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:20.247-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtx3000:9.00.22:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

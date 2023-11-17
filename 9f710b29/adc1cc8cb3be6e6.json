@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:xen:xen:4.5.0",
-  "deprecated": true,
-  "deprecation_date": "2015-12-18T18:06:07.563Z",
-  "title": [
-    {
-      "text": "Xen Xen 4.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://www.xenproject.org/downloads/xen-archives.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.xenproject.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xen:xen:4.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2015-12-18T13:06:07.563-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xen:xen:4.5.0",
+	"deprecated": true,
+	"deprecation_date": "2015-12-18T18:06:07.563Z",
+	"title": [
+		{
+			"text": "Xen Xen 4.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://www.xenproject.org/downloads/xen-archives.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.xenproject.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xen:xen:4.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2015-12-18T13:06:07.563-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:xen:xen:4.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

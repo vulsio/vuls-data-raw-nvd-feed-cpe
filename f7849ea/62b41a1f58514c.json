@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:neetcables:airstream_nas_firmware:1.1",
-  "title": [
-    {
-      "text": "Neetcables Airstream Nas Firmware 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentestpartners.com/security-blog/a-neet-csrf-to-reverse-shell-in-wi-fi-music-streamer/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.amazon.co.uk/Neet%C2%AE-Wireless-Receiver-wireless-streaming/dp/B00O0U37HO"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.neetcables.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:neetcables:airstream_nas_firmware:1.1",
+	"title": [
+		{
+			"text": "Neetcables Airstream Nas Firmware 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentestpartners.com/security-blog/a-neet-csrf-to-reverse-shell-in-wi-fi-music-streamer/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.amazon.co.uk/Neet%C2%AE-Wireless-Receiver-wireless-streaming/dp/B00O0U37HO"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.neetcables.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*"
+	}
 }

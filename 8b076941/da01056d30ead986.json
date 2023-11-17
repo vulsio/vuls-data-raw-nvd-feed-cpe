@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:symantec:pgp_desktop_for_windows:-",
-  "deprecated": true,
-  "deprecation_date": "2013-02-27T17:42:42.587Z",
-  "title": [
-    {
-      "text": "Symantec PGP Desktop for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:pgp_desktop_for_windows:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-02-27T12:42:42.587-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:symantec:pgp_desktop:-:-:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symantec:pgp_desktop_for_windows:-",
+	"deprecated": true,
+	"deprecation_date": "2013-02-27T17:42:42.587Z",
+	"title": [
+		{
+			"text": "Symantec PGP Desktop for Windows",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:pgp_desktop_for_windows:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-02-27T12:42:42.587-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:symantec:pgp_desktop:-:-:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:coraza:coraza:3.0.0::~~~go~~",
-  "title": [
-    {
-      "text": "Coraza Coraza 3.0.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://coraza.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/corazawaf/coraza/security/advisories/GHSA-c2pj-v37r-2p6h"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:coraza:coraza:3.0.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:coraza:coraza:3.0.0::~~~go~~",
+	"title": [
+		{
+			"text": "Coraza Coraza 3.0.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://coraza.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/corazawaf/coraza/security/advisories/GHSA-c2pj-v37r-2p6h"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:coraza:coraza:3.0.0:*:*:*:*:go:*:*"
+	}
 }

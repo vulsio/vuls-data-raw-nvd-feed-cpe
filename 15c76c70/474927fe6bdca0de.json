@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:hashicorp:vault:1.0.1",
-  "deprecated": true,
-  "deprecation_date": "2020-10-07T11:22:43.183Z",
-  "title": [
-    {
-      "text": "HashiCorp Vault 1.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/hashicorp/vault/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.hashicorp.com/products/vault/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:vault:1.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-07T07:22:43.183-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hashicorp:vault:1.0.1:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:hashicorp:vault:1.0.1",
+	"deprecated": true,
+	"deprecation_date": "2020-10-07T11:22:43.183Z",
+	"title": [
+		{
+			"text": "HashiCorp Vault 1.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/hashicorp/vault/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/products/vault/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault:1.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-07T07:22:43.183-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hashicorp:vault:1.0.1:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

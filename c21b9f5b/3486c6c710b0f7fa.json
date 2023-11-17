@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:ukg:vault-cli:0.7.0::~~~python~~",
-  "deprecated": true,
-  "deprecation_date": "2022-02-08T18:48:36.587Z",
-  "title": [
-    {
-      "text": "UKG vault-cli 0.7.0 for Python",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://pypi.org/project/vault-cli/#history"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ukg.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/peopledoc/vault-cli/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ukg:vault-cli:0.7.0:*:*:*:*:python:*:*",
-    "deprecation": {
-      "date": "2022-02-08T13:48:36.587-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vault-cli_project:vault-cli:0.7.0:*:*:*:*:python:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ukg:vault-cli:0.7.0::~~~python~~",
+	"deprecated": true,
+	"deprecation_date": "2022-02-08T18:48:36.587Z",
+	"title": [
+		{
+			"text": "UKG vault-cli 0.7.0 for Python",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://pypi.org/project/vault-cli/#history"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ukg.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/peopledoc/vault-cli/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ukg:vault-cli:0.7.0:*:*:*:*:python:*:*",
+		"deprecation": {
+			"date": "2022-02-08T13:48:36.587-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vault-cli_project:vault-cli:0.7.0:*:*:*:*:python:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

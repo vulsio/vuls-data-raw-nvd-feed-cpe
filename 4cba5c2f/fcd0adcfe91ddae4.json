@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:employee_record_management_system_project:employee_record_management_system:1.2",
-  "deprecated": true,
-  "deprecation_date": "2023-09-25T16:46:19.030Z",
-  "title": [
-    {
-      "text": "Employee Record Management System Project Employee Record Management System 1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/164742/Employee-Record-Management-System-1.2-SQL-Injection.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-25T12:46:19.030-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:employee_record_management_system_project:employee_record_management_system:1.2",
+	"deprecated": true,
+	"deprecation_date": "2023-09-25T16:46:19.030Z",
+	"title": [
+		{
+			"text": "Employee Record Management System Project Employee Record Management System 1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/164742/Employee-Record-Management-System-1.2-SQL-Injection.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:employee_record_management_system_project:employee_record_management_system:1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-25T12:46:19.030-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:employee_record_management_system:1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:threadfix:1.5.4::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins ThreadFix 1.5.4 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/threadfix/#releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.jenkins.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2249"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:threadfix:1.5.4:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:threadfix:1.5.4::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins ThreadFix 1.5.4 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/threadfix/#releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.jenkins.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2249"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:threadfix:1.5.4:*:*:*:*:jenkins:*:*"
+	}
 }

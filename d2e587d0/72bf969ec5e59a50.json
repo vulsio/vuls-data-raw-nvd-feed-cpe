@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:your_phone_companion:-::~~~android~~",
-  "title": [
-    {
-      "text": "Microsoft Your Phone Companion for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0943"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en_US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:your_phone_companion:-:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:microsoft:your_phone_companion:-::~~~android~~",
+	"title": [
+		{
+			"text": "Microsoft Your Phone Companion for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0943"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:your_phone_companion:-:*:*:*:*:android:*:*"
+	}
 }

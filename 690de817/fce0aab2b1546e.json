@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:optane_ssd_900p_firmware:-",
-  "title": [
-    {
-      "text": "Intel Optane SSD 900P Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/data-center-ssds/optane-dc-ssd-series.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00362.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:optane_ssd_900p_firmware:-",
+	"title": [
+		{
+			"text": "Intel Optane SSD 900P Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/data-center-ssds/optane-dc-ssd-series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00362.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:optane_ssd_900p_firmware:-:*:*:*:*:*:*:*"
+	}
 }

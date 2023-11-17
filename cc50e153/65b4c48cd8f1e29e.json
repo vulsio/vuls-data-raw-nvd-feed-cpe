@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:logicaldoc:logicaldoc:8.7.3::~~community~~~",
-  "title": [
-    {
-      "text": "LogicalDOC 8.7.3 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.rapid7.com/blog/post/2023/02/07/multiple-dms-xss-cve-2022-47412-through-cve-20222-47419/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.logicaldoc.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.logicaldoc.com/download-logicaldoc-community"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:logicaldoc:logicaldoc:8.7.3:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:logicaldoc:logicaldoc:8.7.3::~~community~~~",
+	"title": [
+		{
+			"text": "LogicalDOC 8.7.3 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/blog/post/2023/02/07/multiple-dms-xss-cve-2022-47412-through-cve-20222-47419/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.logicaldoc.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.logicaldoc.com/download-logicaldoc-community"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:logicaldoc:logicaldoc:8.7.3:*:*:*:community:*:*:*"
+	}
 }

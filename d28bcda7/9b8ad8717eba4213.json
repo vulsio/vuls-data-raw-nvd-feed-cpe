@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:passport_project:passport:0.5.2::~~~node.js~~",
-  "title": [
-    {
-      "text": "Passport Project Passport 0.5.2 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/jaredhanson/passport"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/passport"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-PASSPORT-2840631"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:passport_project:passport:0.5.2:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:passport_project:passport:0.5.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "Passport Project Passport 0.5.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/jaredhanson/passport"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/passport"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-PASSPORT-2840631"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:passport_project:passport:0.5.2:*:*:*:*:node.js:*:*"
+	}
 }

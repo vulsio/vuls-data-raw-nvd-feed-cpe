@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:dell:bsafe_crypto-c:4.0.5.4::~~micro~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-12-09T18:17:10.287Z",
-  "title": [
-    {
-      "text": "Dell BSAFE Crypto-C Micro Edition 4.0.5.4 Micro Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000181945/dell-bsafe-product-version-life-cycle"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:bsafe_crypto-c:4.0.5.4:*:*:*:micro:*:*:*",
-    "deprecation": {
-      "date": "2021-12-09T13:17:10.287-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe_crypto-c-micro-edition:4.0.5.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:bsafe_crypto-c:4.0.5.4::~~micro~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-12-09T18:17:10.287Z",
+	"title": [
+		{
+			"text": "Dell BSAFE Crypto-C Micro Edition 4.0.5.4 Micro Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000181945/dell-bsafe-product-version-life-cycle"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:bsafe_crypto-c:4.0.5.4:*:*:*:micro:*:*:*",
+		"deprecation": {
+			"date": "2021-12-09T13:17:10.287-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe_crypto-c-micro-edition:4.0.5.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

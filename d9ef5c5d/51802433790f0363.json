@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dataease:dataease:1.1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-10-05T13:49:46.413Z",
-  "title": [
-    {
-      "text": "DataEase 1.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://dataease.io/docs/changelog/"
-    },
-    {
-      "text": "Product",
-      "href": "https://dataease.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dataease:dataease:1.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-05T09:49:46.413-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dataease:dataease:1.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dataease:dataease:1.1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-10-05T13:49:46.413Z",
+	"title": [
+		{
+			"text": "DataEase 1.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://dataease.io/docs/changelog/"
+		},
+		{
+			"text": "Product",
+			"href": "https://dataease.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dataease:dataease:1.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-05T09:49:46.413-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dataease:dataease:1.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

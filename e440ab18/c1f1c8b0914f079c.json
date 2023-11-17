@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:plex:plex_media_server:1.19.3",
-  "deprecated": true,
-  "deprecation_date": "2021-12-10T16:58:35.190Z",
-  "title": [
-    {
-      "text": "Plex Media Server 1.19.3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plex:plex_media_server:1.19.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-10T11:58:35.190-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:plex:media_server:1.19.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:plex:plex_media_server:1.19.3",
+	"deprecated": true,
+	"deprecation_date": "2021-12-10T16:58:35.190Z",
+	"title": [
+		{
+			"text": "Plex Media Server 1.19.3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plex:plex_media_server:1.19.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-10T11:58:35.190-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:plex:media_server:1.19.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

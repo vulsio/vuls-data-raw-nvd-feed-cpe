@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sap:solution_manager:7.1:sp14",
-  "title": [
-    {
-      "text": "SAP Solution Manager (Solman) 7.1 Service Pack 14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://erpscan.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://wiki.scn.sap.com/wiki/display/SM/Version+History"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://erpscan.com/advisories/erpscan-16-035-sap-solman-user-accounts-dislosure/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:solution_manager:7.1:sp14:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sap:solution_manager:7.1:sp14",
+	"title": [
+		{
+			"text": "SAP Solution Manager (Solman) 7.1 Service Pack 14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://erpscan.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://wiki.scn.sap.com/wiki/display/SM/Version+History"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://erpscan.com/advisories/erpscan-16-035-sap-solman-user-accounts-dislosure/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:solution_manager:7.1:sp14:*:*:*:*:*:*"
+	}
 }

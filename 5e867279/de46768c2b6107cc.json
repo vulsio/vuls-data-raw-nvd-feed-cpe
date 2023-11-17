@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:oracle:graalvm:19.3.3::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Oracle Graalvm 19.3.3 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:graalvm:19.3.3:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:oracle:graalvm:19.3.3::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Oracle Graalvm 19.3.3 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:graalvm:19.3.3:*:*:*:enterprise:*:*:*"
+	}
 }

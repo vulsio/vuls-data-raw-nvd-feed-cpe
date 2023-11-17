@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:nexus_5548p_switch:-",
-  "deprecated": true,
-  "deprecation_date": "2014-08-19T15:21:34.237Z",
-  "title": [
-    {
-      "text": "Cisco Nexus 5548P switch (Nexus 5000 series)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:nexus_5548p_switch:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-08-19T11:21:34.237-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:nexus_5548p:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:nexus_5548p_switch:-",
+	"deprecated": true,
+	"deprecation_date": "2014-08-19T15:21:34.237Z",
+	"title": [
+		{
+			"text": "Cisco Nexus 5548P switch (Nexus 5000 series)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:nexus_5548p_switch:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-08-19T11:21:34.237-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:nexus_5548p:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

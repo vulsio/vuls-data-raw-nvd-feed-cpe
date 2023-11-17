@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:media_library_assistant_project:media_library_assistant:3.01::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-08-07T18:11:23.407Z",
-  "title": [
-    {
-      "text": "Media Library Assistant Project Media Library Assistant 3.01 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/media-library-assistant/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:media_library_assistant_project:media_library_assistant:3.01:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-08-07T14:11:23.407-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:davidlingren:media_library_assistant:3.01:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:media_library_assistant_project:media_library_assistant:3.01::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-08-07T18:11:23.407Z",
+	"title": [
+		{
+			"text": "Media Library Assistant Project Media Library Assistant 3.01 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/media-library-assistant/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:media_library_assistant_project:media_library_assistant:3.01:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-08-07T14:11:23.407-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:davidlingren:media_library_assistant:3.01:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

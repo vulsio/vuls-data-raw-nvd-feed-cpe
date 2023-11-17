@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtx1000:7.00.30",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:28.733Z",
-  "title": [
-    {
-      "text": "ヤマハ RTX1000 7.00.30",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTX1000 7.00.30",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtx1000:7.00.30:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:28.733-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtx1000:7.00.30:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtx1000:7.00.30",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:28.733Z",
+	"title": [
+		{
+			"text": "Yamaha RTX1000 7.00.30",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RTX1000 7.00.30",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtx1000:7.00.30:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:28.733-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtx1000:7.00.30:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

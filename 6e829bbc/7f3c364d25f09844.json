@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:yaycommerce:yaysmtp:2.2.5::~~~wordpress~~",
-  "title": [
-    {
-      "text": "YayCommerce YaySMTP 2.2.5 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yaysmtp/yaysmtp-245-unauthenticated-stored-cross-site-scripting-via-email"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/yaysmtp/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yaycommerce:yaysmtp:2.2.5:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:yaycommerce:yaysmtp:2.2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "YayCommerce YaySMTP 2.2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yaysmtp/yaysmtp-245-unauthenticated-stored-cross-site-scripting-via-email"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/yaysmtp/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yaycommerce:yaysmtp:2.2.5:*:*:*:*:wordpress:*:*"
+	}
 }

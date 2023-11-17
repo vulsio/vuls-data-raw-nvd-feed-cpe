@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:cisco:ios_xe:3.13.9s",
-  "title": [
-    {
-      "text": "Cisco IOS XE 3.13.9S",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-xe/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv91356"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-privesc3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ios_xe:3.13.9s:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:ios_xe:3.13.9s",
+	"title": [
+		{
+			"text": "Cisco IOS XE 3.13.9S",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-xe/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv91356"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180328-privesc3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ios_xe:3.13.9s:*:*:*:*:*:*:*"
+	}
 }

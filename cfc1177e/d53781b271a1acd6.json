@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:digium:certified_asterisk:13.1:cert2:~~lts~~~",
-  "title": [
-    {
-      "text": "Digium Certified Asterisk 13.1 cert2 LTS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://downloads.asterisk.org/pub/telephony/certified-asterisk/ChangeLog-certified-13.1-current"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.digium.com/products/asterisk/software"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digium:certified_asterisk:13.1:cert2:*:*:lts:*:*:*"
-  }
+	"name": "cpe:/a:digium:certified_asterisk:13.1:cert2:~~lts~~~",
+	"title": [
+		{
+			"text": "Digium Certified Asterisk 13.1 cert2 LTS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://downloads.asterisk.org/pub/telephony/certified-asterisk/ChangeLog-certified-13.1-current"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.digium.com/products/asterisk/software"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digium:certified_asterisk:13.1:cert2:*:*:lts:*:*:*"
+	}
 }

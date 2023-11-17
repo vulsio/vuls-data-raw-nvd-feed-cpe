@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:silver-peak:ecos:8.3.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-07T20:49:24.733Z",
-  "title": [
-    {
-      "text": "Silver Peak ECOS 8.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.silver-peak.com/sites/default/files/UserDocuments/disclosures/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silver-peak:ecos:8.3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-07T15:49:24.733-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arubanetworks:edgeconnect_enterprise:8.3.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:silver-peak:ecos:8.3.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-07T20:49:24.733Z",
+	"title": [
+		{
+			"text": "Silver Peak ECOS 8.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.silver-peak.com/sites/default/files/UserDocuments/disclosures/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silver-peak:ecos:8.3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-07T15:49:24.733-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arubanetworks:edgeconnect_enterprise:8.3.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

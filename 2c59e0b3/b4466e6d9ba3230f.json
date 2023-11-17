@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:microsoft:office:2013:sp1:~~~rt~~",
-  "deprecated": true,
-  "deprecation_date": "2018-06-07T13:12:54.043Z",
-  "title": [
-    {
-      "text": "Microsoft Office 2013 RT SP1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Microsoft Security Bulletin MS14-024",
-      "href": "https://technet.microsoft.com/library/security/ms14-024"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:rt:*:*",
-    "deprecation": {
-      "date": "2018-06-07T09:12:54.043-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:office:2013:sp1:~~~rt~~",
+	"deprecated": true,
+	"deprecation_date": "2018-06-07T13:12:54.043Z",
+	"title": [
+		{
+			"text": "Microsoft Office 2013 RT SP1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Microsoft Security Bulletin MS14-024",
+			"href": "https://technet.microsoft.com/library/security/ms14-024"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:*:rt:*:*",
+		"deprecation": {
+			"date": "2018-06-07T09:12:54.043-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:office:2013:sp1:*:*:rt:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

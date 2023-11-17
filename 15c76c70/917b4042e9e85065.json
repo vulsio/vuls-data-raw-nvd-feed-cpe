@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:vault:1.11.3::~~-~~~",
-  "title": [
-    {
-      "text": "HashiCorp Vault 1.11.3 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.hashicorp.com/products/vault/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2022-18-vault-entity-alias-metadata-may-leak-between-aliases-with-the-same-name-assigned-to-the-same-entity/44550"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:vault:1.11.3:*:*:*:-:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:vault:1.11.3::~~-~~~",
+	"title": [
+		{
+			"text": "HashiCorp Vault 1.11.3 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/products/vault/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2022-18-vault-entity-alias-metadata-may-leak-between-aliases-with-the-same-name-assigned-to-the-same-entity/44550"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault:1.11.3:*:*:*:-:*:*:*"
+	}
 }

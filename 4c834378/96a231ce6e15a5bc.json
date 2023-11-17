@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:workload_automation:9.5",
-  "title": [
-    {
-      "text": "IBM Workload Automation 9.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.ibm.com/support/knowledgecenter/SSGSPN_9.5.0/twa_landing.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/186286"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:workload_automation:9.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:workload_automation:9.5",
+	"title": [
+		{
+			"text": "IBM Workload Automation 9.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/knowledgecenter/SSGSPN_9.5.0/twa_landing.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/186286"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:workload_automation:9.5:*:*:*:*:*:*:*"
+	}
 }

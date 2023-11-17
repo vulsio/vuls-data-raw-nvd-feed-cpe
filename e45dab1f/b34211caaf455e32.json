@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zoom:zoom:3.5.33823.1130::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-04-07T19:34:13.193Z",
-  "title": [
-    {
-      "text": "Zoom 3.5.33823.1130 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:zoom:3.5.33823.1130:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-04-07T15:34:13.193-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zoom:zoom:3.5.33823.1130:*:*:*:*:mac_os:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zoom:zoom:3.5.33823.1130::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-04-07T19:34:13.193Z",
+	"title": [
+		{
+			"text": "Zoom 3.5.33823.1130 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://support.zoom.us/hc/en-us/articles/201361963-New-Updates-for-Mac-OS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:zoom:3.5.33823.1130:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-04-07T15:34:13.193-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zoom:zoom:3.5.33823.1130:*:*:*:*:mac_os:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

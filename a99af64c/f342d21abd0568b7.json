@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:kaspersky:security_center:-",
-  "title": [
-    {
-      "text": "Kaspersky Security Center",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/cve/CVE-2020-25045"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kaspersky:security_center:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kaspersky:security_center:-",
+	"title": [
+		{
+			"text": "Kaspersky Security Center",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/cve/CVE-2020-25045"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kaspersky:security_center:-:*:*:*:*:*:*:*"
+	}
 }

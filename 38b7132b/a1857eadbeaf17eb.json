@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:talk:17.1.1",
-  "title": [
-    {
-      "text": "Nextcloud Talk 17.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-7rf8-pqmj-rpqv"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://apps.nextcloud.com/apps/spreed/releases?platform=15"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:talk:17.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:talk:17.1.1",
+	"title": [
+		{
+			"text": "Nextcloud Talk 17.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-7rf8-pqmj-rpqv"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://apps.nextcloud.com/apps/spreed/releases?platform=15"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:talk:17.1.1:*:*:*:*:*:*:*"
+	}
 }

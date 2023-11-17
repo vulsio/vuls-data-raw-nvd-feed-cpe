@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:f5:big-ip_service_proxy:1.5.2::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "F5 BIG-IP Service Proxy (SPK)  1.5.2 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://clouddocs.f5.com/service-proxy/1.5.2/spk-software-releases.html?highlight=spk"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://my.f5.com/manage/s/article/K24572686"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:f5:big-ip_service_proxy:1.5.2:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:f5:big-ip_service_proxy:1.5.2::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "F5 BIG-IP Service Proxy (SPK)  1.5.2 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://clouddocs.f5.com/service-proxy/1.5.2/spk-software-releases.html?highlight=spk"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://my.f5.com/manage/s/article/K24572686"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f5:big-ip_service_proxy:1.5.2:*:*:*:*:kubernetes:*:*"
+	}
 }

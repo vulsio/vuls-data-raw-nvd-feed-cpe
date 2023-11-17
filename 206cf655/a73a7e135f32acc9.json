@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dlink:dir-868l_firmware:3.01",
-  "title": [
-    {
-      "text": "D-Link DIR-868L Firmware 3.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dlink.com/en/products/dir-868l-wireless-ac1750-dual-band-gigabit-cloud-router"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cybersecurityworks.com/zerodays/cve-2020-29321-telnet-hardcoded-credentials.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dir-868l_firmware:3.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dir-868l_firmware:3.01",
+	"title": [
+		{
+			"text": "D-Link DIR-868L Firmware 3.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dlink.com/en/products/dir-868l-wireless-ac1750-dual-band-gigabit-cloud-router"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cybersecurityworks.com/zerodays/cve-2020-29321-telnet-hardcoded-credentials.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dir-868l_firmware:3.01:*:*:*:*:*:*:*"
+	}
 }

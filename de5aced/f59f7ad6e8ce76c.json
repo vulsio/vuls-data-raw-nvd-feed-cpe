@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:wordpress:wordpress:4.4.30",
-  "title": [
-    {
-      "text": "WordPress 4.4.30",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-621-directory-traversal?asset_slug=wordpress"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wordpress:wordpress:4.4.30:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:wordpress:wordpress:4.4.30",
+	"title": [
+		{
+			"text": "WordPress 4.4.30",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-621-directory-traversal?asset_slug=wordpress"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wordpress:wordpress:4.4.30:*:*:*:*:*:*:*"
+	}
 }

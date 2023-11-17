@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.7.0:update_191",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T13:00:02.477Z",
-  "title": [
-    {
-      "text": "Oracle Java Development Kit (JDK) 1.7.0 Update 191",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://java.com/en/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_191:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T09:00:02.477-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update191:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.7.0:update_191",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T13:00:02.477Z",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 1.7.0 Update 191",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://java.com/en/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2018-4428296.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.7.0:update_191:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T09:00:02.477-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.7.0:update191:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

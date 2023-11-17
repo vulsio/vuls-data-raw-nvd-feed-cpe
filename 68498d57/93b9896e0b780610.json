@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:bearftp_project:bearftp:-",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T14:34:07.277Z",
-  "title": [
-    {
-      "text": "BearFTP Project BearFTP",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kolya5544/BearFTP/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bearftp_project:bearftp:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T09:34:07.277-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:iktm:bearftp:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bearftp_project:bearftp:-",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T14:34:07.277Z",
+	"title": [
+		{
+			"text": "BearFTP Project BearFTP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kolya5544/BearFTP/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bearftp_project:bearftp:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T09:34:07.277-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:iktm:bearftp:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

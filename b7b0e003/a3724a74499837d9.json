@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:d-link:dir-604m:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DIR-604M",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://fortiguard.com/zeroday/FG-VD-18-061"
-    },
-    {
-      "text": "Product",
-      "href": "http://mydlink.co.kr/2013/support/product_detail.php?type=router&no=183&model=DIR-604M"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dir-604m:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dir-604m:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dir-604m:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DIR-604M",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://fortiguard.com/zeroday/FG-VD-18-061"
+		},
+		{
+			"text": "Product",
+			"href": "http://mydlink.co.kr/2013/support/product_detail.php?type=router&no=183&model=DIR-604M"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dir-604m:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dir-604m:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

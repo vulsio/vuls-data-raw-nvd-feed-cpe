@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:d-link:dir-825%2fac:e1a",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DIR-825/AC E1A",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://us.dlink.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://us.dlink.com/en/consumer"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dir-825\\/ac:e1a:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dir-825\\/ac:e1a:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dir-825%2fac:e1a",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DIR-825/AC E1A",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://us.dlink.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://us.dlink.com/en/consumer"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dir-825\\/ac:e1a:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dir-825\\/ac:e1a:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

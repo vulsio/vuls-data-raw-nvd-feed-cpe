@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:weblogic_server:8.1:sp1:~~~sun~~",
-  "title": [
-    {
-      "text": "Oracle WebLogic Server 8.1 Service Pack 1 for Sun",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://jvn.jp/en/jp/JVN81667751/index.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.oracle.com/cd/E13222_01/wls/docs81/notes/new.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:weblogic_server:8.1:sp1:*:*:*:sun:*:*"
-  }
+	"name": "cpe:/a:oracle:weblogic_server:8.1:sp1:~~~sun~~",
+	"title": [
+		{
+			"text": "Oracle WebLogic Server 8.1 Service Pack 1 for Sun",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://jvn.jp/en/jp/JVN81667751/index.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.oracle.com/cd/E13222_01/wls/docs81/notes/new.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:weblogic_server:8.1:sp1:*:*:*:sun:*:*"
+	}
 }

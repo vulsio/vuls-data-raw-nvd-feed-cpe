@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redislabs:redis:2.4.8",
-  "title": [
-    {
-      "text": "Redis Labs Redis 2.4.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/antirez/redis/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redis:2.4.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redislabs:redis:2.4.8",
+	"title": [
+		{
+			"text": "Redis Labs Redis 2.4.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/antirez/redis/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redis:2.4.8:*:*:*:*:*:*:*"
+	}
 }

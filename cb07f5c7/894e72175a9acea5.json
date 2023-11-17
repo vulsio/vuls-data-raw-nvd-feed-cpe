@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:npmjs:arborist:-::~~~node.js~~",
-  "title": [
-    {
-      "text": "Npmjs Arborist for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/npm/arborist"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/@npmcli/arborist"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/npm/arborist/security/advisories/GHSA-2h3h-q99f-3fhc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:npmjs:arborist:-:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:npmjs:arborist:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "Npmjs Arborist for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/npm/arborist"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/@npmcli/arborist"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/npm/arborist/security/advisories/GHSA-2h3h-q99f-3fhc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:npmjs:arborist:-:*:*:*:*:node.js:*:*"
+	}
 }

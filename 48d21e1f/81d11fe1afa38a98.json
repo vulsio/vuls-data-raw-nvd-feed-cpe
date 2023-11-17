@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:semaintoken_project:semaintoken:-",
-  "title": [
-    {
-      "text": "SemainToken Project SemainToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x668921a4d40ca5204b5f2a0dbf8a88d842a0d62f#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:semaintoken_project:semaintoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:semaintoken_project:semaintoken:-",
+	"title": [
+		{
+			"text": "SemainToken Project SemainToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x668921a4d40ca5204b5f2a0dbf8a88d842a0d62f#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:semaintoken_project:semaintoken:-:*:*:*:*:*:*:*"
+	}
 }

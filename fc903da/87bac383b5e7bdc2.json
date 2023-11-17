@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amazon:echo_dot_firmware:2021-07-02",
-  "title": [
-    {
-      "text": "Amazon Echo Dot Firmware 2021-07-02",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cve.ics-csirt.io/cve?cvss=medium&vendor=amazon&product=echo_dot_firmware"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amazon:echo_dot_firmware:2021-07-02:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amazon:echo_dot_firmware:2021-07-02",
+	"title": [
+		{
+			"text": "Amazon Echo Dot Firmware 2021-07-02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cve.ics-csirt.io/cve?cvss=medium&vendor=amazon&product=echo_dot_firmware"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amazon:echo_dot_firmware:2021-07-02:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_2003_server:-",
-  "deprecated": true,
-  "deprecation_date": "2019-02-26T13:53:59.940Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2003",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-02-26T08:53:59.940-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_2003_server:-",
+	"deprecated": true,
+	"deprecation_date": "2019-02-26T13:53:59.940Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2003",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_2003_server:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-02-26T08:53:59.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

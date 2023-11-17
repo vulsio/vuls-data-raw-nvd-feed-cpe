@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:apache:tapestry:5.4.0",
-  "deprecated": true,
-  "deprecation_date": "2020-12-11T15:00:35.347Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Tapestry 5.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread.html/6e8f42c88da7be3c60aafe3f6a85eb00b4f8b444de26b38d36233a43@%3Cusers.tapestry.apache.org%3E"
-    },
-    {
-      "text": "Version",
-      "href": "https://tapestry.apache.org/release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:tapestry:5.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-11T10:00:35.347-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:tapestry:5.4.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:tapestry:5.4.0",
+	"deprecated": true,
+	"deprecation_date": "2020-12-11T15:00:35.347Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Tapestry 5.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread.html/6e8f42c88da7be3c60aafe3f6a85eb00b4f8b444de26b38d36233a43@%3Cusers.tapestry.apache.org%3E"
+		},
+		{
+			"text": "Version",
+			"href": "https://tapestry.apache.org/release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:tapestry:5.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-11T10:00:35.347-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:tapestry:5.4.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

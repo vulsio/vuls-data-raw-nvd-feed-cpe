@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:auth0:auth0.js:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-28T17:12:36.147Z",
-  "title": [
-    {
-      "text": "Auth0 auth0.js 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://auth0.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/auth0/auth0.js/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:auth0:auth0.js:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-28T13:12:36.147-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:auth0:auth0.js:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:auth0:auth0.js:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-28T17:12:36.147Z",
+	"title": [
+		{
+			"text": "Auth0 auth0.js 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://auth0.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/auth0/auth0.js/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:auth0:auth0.js:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-28T13:12:36.147-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:auth0:auth0.js:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

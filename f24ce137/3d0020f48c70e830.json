@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:libpulse-binding_project:libpulse-binding:2.2.5",
-  "deprecated": true,
-  "deprecation_date": "2021-12-27T18:20:40.297Z",
-  "title": [
-    {
-      "text": "libpulse-binding Project libpulse-binding 2.2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/jnqnfe/pulse-binding-rust"
-    },
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/libpulse-binding/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libpulse-binding_project:libpulse-binding:2.2.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-27T13:20:40.297-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libpulse-binding_project:libpulse-binding:2.2.5:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libpulse-binding_project:libpulse-binding:2.2.5",
+	"deprecated": true,
+	"deprecation_date": "2021-12-27T18:20:40.297Z",
+	"title": [
+		{
+			"text": "libpulse-binding Project libpulse-binding 2.2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/jnqnfe/pulse-binding-rust"
+		},
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/libpulse-binding/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libpulse-binding_project:libpulse-binding:2.2.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-27T13:20:40.297-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libpulse-binding_project:libpulse-binding:2.2.5:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sucuri:security:1.8.10::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Sucuri Security 1.8.10 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://sucuri.net/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/sucuri-scanner/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/sucuri-scanner/wordpress-sucuri-security-plugin-1-8-33-cross-site-request-forgery-csrf-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sucuri:security:1.8.10:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:sucuri:security:1.8.10::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sucuri Security 1.8.10 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://sucuri.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/sucuri-scanner/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sucuri-scanner/wordpress-sucuri-security-plugin-1-8-33-cross-site-request-forgery-csrf-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sucuri:security:1.8.10:*:*:*:*:wordpress:*:*"
+	}
 }

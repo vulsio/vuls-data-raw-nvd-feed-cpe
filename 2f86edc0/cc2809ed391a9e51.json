@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:debian:shadow-utils:4.0.7",
-  "deprecated": true,
-  "deprecation_date": "2020-08-11T17:09:47.520Z",
-  "title": [
-    {
-      "text": "Debian shadow 4.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:shadow-utils:4.0.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-11T13:09:47.520-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:debian:shadow:4.0.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:shadow-utils:4.0.7",
+	"deprecated": true,
+	"deprecation_date": "2020-08-11T17:09:47.520Z",
+	"title": [
+		{
+			"text": "Debian shadow 4.0.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:shadow-utils:4.0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-11T13:09:47.520-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:debian:shadow:4.0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:apc:2200:-",
-  "deprecated": true,
-  "deprecation_date": "2016-03-30T14:19:32.267Z",
-  "title": [
-    {
-      "text": "APC 2200 KvA",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:apc:2200:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-03-30T10:19:32.267-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:apc:smart-ups_2200:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:apc:2200:-",
+	"deprecated": true,
+	"deprecation_date": "2016-03-30T14:19:32.267Z",
+	"title": [
+		{
+			"text": "APC 2200 KvA",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:apc:2200:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-03-30T10:19:32.267-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:apc:smart-ups_2200:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

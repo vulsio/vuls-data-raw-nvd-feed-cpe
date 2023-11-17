@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:xwiki:xwiki:9.5",
-  "deprecated": true,
-  "deprecation_date": "2021-03-24T14:31:10.113Z",
-  "title": [
-    {
-      "text": "XWiki 9.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/xwiki/xwiki-platform"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.xwiki.org/xwiki/bin/view/Main/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xwiki:xwiki:9.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-03-24T10:31:10.113-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xwiki:xwiki:9.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xwiki:xwiki:9.5",
+	"deprecated": true,
+	"deprecation_date": "2021-03-24T14:31:10.113Z",
+	"title": [
+		{
+			"text": "XWiki 9.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/xwiki/xwiki-platform"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.xwiki.org/xwiki/bin/view/Main/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xwiki:xwiki:9.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-03-24T10:31:10.113-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xwiki:xwiki:9.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

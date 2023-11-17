@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mozilla:thunderbird:17.0.9",
-  "deprecated": true,
-  "deprecation_date": "2013-12-12T19:39:50.413Z",
-  "title": [
-    {
-      "text": "Mozilla Thunderbird 17.0.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://wiki.mozilla.org/Releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:thunderbird:17.0.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-12-12T14:39:50.413-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mozilla:thunderbird_esr:17.0.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mozilla:thunderbird:17.0.9",
+	"deprecated": true,
+	"deprecation_date": "2013-12-12T19:39:50.413Z",
+	"title": [
+		{
+			"text": "Mozilla Thunderbird 17.0.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://wiki.mozilla.org/Releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:thunderbird:17.0.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-12-12T14:39:50.413-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:thunderbird_esr:17.0.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:ffjpeg_project:ffjpeg:-",
-  "deprecated": true,
-  "deprecation_date": "2023-08-17T14:09:51.107Z",
-  "title": [
-    {
-      "text": "ffjpeg Project ffjpeg",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/rockcarry/ffjpeg"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/rockcarry/ffjpeg/commit/4ab404eb87fe039d6cfba121d2ba572fb060e623"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/rockcarry/ffjpeg/issues/36"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ffjpeg_project:ffjpeg:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-08-17T10:09:51.107-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rockcarry:ffjpeg:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ffjpeg_project:ffjpeg:-",
+	"deprecated": true,
+	"deprecation_date": "2023-08-17T14:09:51.107Z",
+	"title": [
+		{
+			"text": "ffjpeg Project ffjpeg",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/rockcarry/ffjpeg"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/rockcarry/ffjpeg/commit/4ab404eb87fe039d6cfba121d2ba572fb060e623"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/rockcarry/ffjpeg/issues/36"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ffjpeg_project:ffjpeg:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-08-17T10:09:51.107-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rockcarry:ffjpeg:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

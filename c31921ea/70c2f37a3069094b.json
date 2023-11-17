@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:siemens:sinumerik_pcu_base_win10_software%2fipc:14.00",
-  "title": [
-    {
-      "text": "Siemens SINUMERIK PCU base Win10 software/IPC 14.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-927095.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-161-06"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:sinumerik_pcu_base_win10_software\\/ipc:14.00:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:siemens:sinumerik_pcu_base_win10_software%2fipc:14.00",
+	"title": [
+		{
+			"text": "Siemens SINUMERIK PCU base Win10 software/IPC 14.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-927095.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-161-06"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:sinumerik_pcu_base_win10_software\\/ipc:14.00:*:*:*:*:*:*:*"
+	}
 }

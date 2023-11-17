@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:netiq:appmanager_web_management_server:7.0.41039.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T17:18:16.250Z",
-  "title": [
-    {
-      "text": "Netiq Appmanager Web Management Server 7.0.41039.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netiq:appmanager_web_management_server:7.0.41039.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T13:18:16.250-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microfocus:appmanager_web_management_server:7.0.41039.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netiq:appmanager_web_management_server:7.0.41039.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T17:18:16.250Z",
+	"title": [
+		{
+			"text": "Netiq Appmanager Web Management Server 7.0.41039.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netiq:appmanager_web_management_server:7.0.41039.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T13:18:16.250-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microfocus:appmanager_web_management_server:7.0.41039.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:park_ticketing_management_system_project:park_ticketing_management_system:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T21:31:53.407Z",
-  "title": [
-    {
-      "text": "Park Ticketing Management System Project Park Ticketing Management System 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://phpgurukul.com/park-ticketing-management-system-using-php-and-mysql/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@shiva.infocop/stored-xss-park-ticketing-management-system-phpgurukul-893583dc2e20"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:park_ticketing_management_system_project:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T16:31:53.407-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:park_ticketing_management_system_project:park_ticketing_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T21:31:53.407Z",
+	"title": [
+		{
+			"text": "Park Ticketing Management System Project Park Ticketing Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://phpgurukul.com/park-ticketing-management-system-using-php-and-mysql/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@shiva.infocop/stored-xss-park-ticketing-management-system-phpgurukul-893583dc2e20"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:park_ticketing_management_system_project:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T16:31:53.407-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:park_ticketing_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

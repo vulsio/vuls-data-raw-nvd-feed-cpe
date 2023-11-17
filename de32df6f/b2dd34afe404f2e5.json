@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mozilla:convict:0.4.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Mozilla Convict 0.4.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mozilla/node-convict/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/convict"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-CONVICT-2340604"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:convict:0.4.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:mozilla:convict:0.4.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Mozilla Convict 0.4.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mozilla/node-convict/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/convict"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-CONVICT-2340604"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:convict:0.4.1:*:*:*:*:node.js:*:*"
+	}
 }

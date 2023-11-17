@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpcentral:wpcentral:1.5.7::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Wpcentral Wpcentral 1.5.7 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-central/wordpress-wpcentral-plugin-1-5-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wpcentral.co/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-central/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpcentral:wpcentral:1.5.7:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpcentral:wpcentral:1.5.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Wpcentral Wpcentral 1.5.7 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-central/wordpress-wpcentral-plugin-1-5-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpcentral.co/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-central/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpcentral:wpcentral:1.5.7:*:*:*:*:wordpress:*:*"
+	}
 }

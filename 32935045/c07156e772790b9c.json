@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:cyber_cafe_management_system_project:cyber_cafe_management_system:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-10-04T17:35:33.953Z",
-  "title": [
-    {
-      "text": "Cyber Cafe Management System Project Cyber Cafe Management System 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/cyber-cafe-management-system-using-php-mysql/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/50355"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cyber_cafe_management_system_project:cyber_cafe_management_system:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-04T13:35:33.953-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:cyber_cafe_management_system:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cyber_cafe_management_system_project:cyber_cafe_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-10-04T17:35:33.953Z",
+	"title": [
+		{
+			"text": "Cyber Cafe Management System Project Cyber Cafe Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/cyber-cafe-management-system-using-php-mysql/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/50355"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyber_cafe_management_system_project:cyber_cafe_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-04T13:35:33.953-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:cyber_cafe_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

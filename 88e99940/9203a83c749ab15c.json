@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:horizon:10.0.0:b3",
-  "title": [
-    {
-      "text": "OpenStack Horizon 10.0.0 Beta 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://docs.openstack.org/developer/horizon/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/horizon/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:horizon:10.0.0:b3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:horizon:10.0.0:b3",
+	"title": [
+		{
+			"text": "OpenStack Horizon 10.0.0 Beta 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://docs.openstack.org/developer/horizon/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/horizon/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:horizon:10.0.0:b3:*:*:*:*:*:*"
+	}
 }

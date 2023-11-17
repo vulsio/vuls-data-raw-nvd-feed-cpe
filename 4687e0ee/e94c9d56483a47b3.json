@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:unified_ip_phone_7970g:8.0%284%29:sr1",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:38:01.367Z",
-  "title": [
-    {
-      "text": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4) SR1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:unified_ip_phone_7970g:8.0\\(4\\):sr1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:38:01.367-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):sr1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:unified_ip_phone_7970g:8.0%284%29:sr1",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:38:01.367Z",
+	"title": [
+		{
+			"text": "Cisco Skinny Client Control Protocol (SCCP) Software 8.0(4) SR1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:unified_ip_phone_7970g:8.0\\(4\\):sr1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:38:01.367-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:skinny_client_control_protocol_software:8.0\\(4\\):sr1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

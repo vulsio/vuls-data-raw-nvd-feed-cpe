@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:rabbitmq:3.8.18:rc1",
-  "title": [
-    {
-      "text": "VMware RabbitMQ 3.8.18 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.vmware.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.rabbitmq.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/rabbitmq/rabbitmq-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:rabbitmq:3.8.18:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:rabbitmq:3.8.18:rc1",
+	"title": [
+		{
+			"text": "VMware RabbitMQ 3.8.18 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.vmware.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.rabbitmq.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/rabbitmq/rabbitmq-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:rabbitmq:3.8.18:rc1:*:*:*:*:*:*"
+	}
 }

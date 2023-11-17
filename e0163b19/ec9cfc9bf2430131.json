@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_performance_management:2.4:sp3:openvms",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:38:55.600Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Performance Management for OpenVMS 2.4 SP3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:38:55.600-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_performance_management:2.4:sp3:openvms",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:38:55.600Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Performance Management for OpenVMS 2.4 SP3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:38:55.600-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_performance_management:2.4:sp3:openvms:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

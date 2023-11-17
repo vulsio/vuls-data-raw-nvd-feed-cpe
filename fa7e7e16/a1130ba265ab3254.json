@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:se:c-bus_toolkit:1.15.9",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:32:59.153Z",
-  "title": [
-    {
-      "text": "Schneider Electric C-Bus Toolkit 1.15.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.se.com/ww/en/product-range/2216-spacelogic-c-bus-home-automation-system/?parent-subcategory-id=88010&filter=business-5-residential-and-small-business#software-and-firmware"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-194-04"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:32:59.153-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:c-bus_toolkit:1.15.9",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:32:59.153Z",
+	"title": [
+		{
+			"text": "Schneider Electric C-Bus Toolkit 1.15.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.se.com/ww/en/product-range/2216-spacelogic-c-bus-home-automation-system/?parent-subcategory-id=88010&filter=business-5-residential-and-small-business#software-and-firmware"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-194-04"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:32:59.153-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:c-bus_toolkit:1.15.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

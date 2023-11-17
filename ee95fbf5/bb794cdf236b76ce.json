@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:hp:720s-14ikbr_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:30:53.737Z",
-  "title": [
-    {
-      "text": "HP 720s-14IKBR Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:hp:720s-14ikbr_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:30:53.737-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:lenovo:720s-14ikbr_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:hp:720s-14ikbr_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:30:53.737Z",
+	"title": [
+		{
+			"text": "HP 720s-14IKBR Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:hp:720s-14ikbr_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:30:53.737-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:lenovo:720s-14ikbr_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

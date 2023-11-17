@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:database_server:18c",
-  "title": [
-    {
-      "text": "Oracle Database Server 18c",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.oracle.com/en/database/oracle/oracle-database/18/jjdev/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:database_server:18c:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:database_server:18c",
+	"title": [
+		{
+			"text": "Oracle Database Server 18c",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.oracle.com/en/database/oracle/oracle-database/18/jjdev/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:database_server:18c:*:*:*:*:*:*:*"
+	}
 }

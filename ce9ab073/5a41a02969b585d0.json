@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:accellion:file_transfer_appliance:8_0_540",
-  "title": [
-    {
-      "text": "Accellion File Transfer Appliance 8 0 540",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/cve/CVE-2019-5623"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.accellion.com/products/fta/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.rapid7.com/db/modules/exploit/linux/misc/accellion_fta_mpipe2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:accellion:file_transfer_appliance:8_0_540:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:accellion:file_transfer_appliance:8_0_540",
+	"title": [
+		{
+			"text": "Accellion File Transfer Appliance 8 0 540",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/cve/CVE-2019-5623"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.accellion.com/products/fta/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/db/modules/exploit/linux/misc/accellion_fta_mpipe2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:accellion:file_transfer_appliance:8_0_540:*:*:*:*:*:*:*"
+	}
 }

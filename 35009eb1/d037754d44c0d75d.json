@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:eyesofnetwork:eyesofnetwork:5.1",
-  "deprecated": true,
-  "deprecation_date": "2021-02-23T15:09:49.477Z",
-  "title": [
-    {
-      "text": "EyesOfNetwork (EON) 5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.eyesofnetwork.com/fr"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.eyesofnetwork.com/en"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/EyesOfNetworkCommunity/eonweb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-23T10:09:49.477-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.1-0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eyesofnetwork:eyesofnetwork:5.1",
+	"deprecated": true,
+	"deprecation_date": "2021-02-23T15:09:49.477Z",
+	"title": [
+		{
+			"text": "EyesOfNetwork (EON) 5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.eyesofnetwork.com/fr"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.eyesofnetwork.com/en"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/EyesOfNetworkCommunity/eonweb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-23T10:09:49.477-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.1-0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

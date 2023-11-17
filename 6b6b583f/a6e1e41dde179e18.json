@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:controlit:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-08T13:21:07.127Z",
-  "title": [
-    {
-      "text": "Computer Associates ControlIT",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:controlit:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-08T09:21:07.127-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:controlit:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:controlit:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-08T13:21:07.127Z",
+	"title": [
+		{
+			"text": "Computer Associates ControlIT",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:controlit:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-08T09:21:07.127-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:controlit:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

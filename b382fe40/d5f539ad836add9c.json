@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mystenlabs:sui:1.2.1",
-  "title": [
-    {
-      "text": "Mystenlabs Sui 1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@Beosin_com/critical-vulnerability-in-move-vm-can-cause-total-network-shutdown-and-potential-hard-fork-in-sui-49d0d942801c"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://mystenlabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://sui.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mystenlabs:sui:1.2.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mystenlabs:sui:1.2.1",
+	"title": [
+		{
+			"text": "Mystenlabs Sui 1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@Beosin_com/critical-vulnerability-in-move-vm-can-cause-total-network-shutdown-and-potential-hard-fork-in-sui-49d0d942801c"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mystenlabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://sui.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mystenlabs:sui:1.2.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freebsd:freebsd:9.3:p21",
-  "deprecated": true,
-  "deprecation_date": "2019-03-19T13:42:24.923Z",
-  "title": [
-    {
-      "text": "FreeBSD 9.3 Patch 21",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freebsd.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freebsd:freebsd:9.3:p21:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-19T09:42:24.923-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:freebsd:freebsd:9.3:p21:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freebsd:freebsd:9.3:p21",
+	"deprecated": true,
+	"deprecation_date": "2019-03-19T13:42:24.923Z",
+	"title": [
+		{
+			"text": "FreeBSD 9.3 Patch 21",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freebsd.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freebsd:freebsd:9.3:p21:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-19T09:42:24.923-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:freebsd:freebsd:9.3:p21:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

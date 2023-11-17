@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gnupg:libgcrypt:1.9.1",
-  "title": [
-    {
-      "text": "GnuPG Libgcrypt 1.9.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugs.gentoo.org/767814"
-    },
-    {
-      "text": "Version",
-      "href": "https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=shortlog;h=refs/heads/master"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnupg:libgcrypt:1.9.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnupg:libgcrypt:1.9.1",
+	"title": [
+		{
+			"text": "GnuPG Libgcrypt 1.9.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugs.gentoo.org/767814"
+		},
+		{
+			"text": "Version",
+			"href": "https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=shortlog;h=refs/heads/master"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnupg:libgcrypt:1.9.1:*:*:*:*:*:*:*"
+	}
 }

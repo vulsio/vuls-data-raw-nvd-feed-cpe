@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:c%23_driver:2.14.0:beta1:~~~mongodb~~",
-  "title": [
-    {
-      "text": "MongoDB C# Driver 2.14.0 Beta 1 for MongoDB",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mongodb/mongo-csharp-driver/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jira.mongodb.org/browse/CSHARP-4475"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:c\\#_driver:2.14.0:beta1:*:*:*:mongodb:*:*"
-  }
+	"name": "cpe:/a:mongodb:c%23_driver:2.14.0:beta1:~~~mongodb~~",
+	"title": [
+		{
+			"text": "MongoDB C# Driver 2.14.0 Beta 1 for MongoDB",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mongodb/mongo-csharp-driver/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jira.mongodb.org/browse/CSHARP-4475"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:c\\#_driver:2.14.0:beta1:*:*:*:mongodb:*:*"
+	}
 }

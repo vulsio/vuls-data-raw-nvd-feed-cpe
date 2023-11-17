@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:chshcms:mccms:2.6.5",
-  "title": [
-    {
-      "text": "Chshcms Mccms 2.6.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/chshcms/mccms/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.chshcms.net/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/HuBenLab/HuBenVulList/blob/main/MCCMS%20is%20vulnerable%20to%20Server-side%20request%20forgery%20(SSRF)%201.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:chshcms:mccms:2.6.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:chshcms:mccms:2.6.5",
+	"title": [
+		{
+			"text": "Chshcms Mccms 2.6.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/chshcms/mccms/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.chshcms.net/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/HuBenLab/HuBenVulList/blob/main/MCCMS%20is%20vulnerable%20to%20Server-side%20request%20forgery%20(SSRF)%201.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:chshcms:mccms:2.6.5:*:*:*:*:*:*:*"
+	}
 }

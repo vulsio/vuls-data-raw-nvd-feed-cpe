@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sun:jdk:1.3.0_02::~~~windows~~",
-  "title": [
-    {
-      "text": "\tSun JDK 1.3.0 02 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nvd.nist.gov/vuln/detail/CVE-2003-1229#match-8323437"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/java/technologies/java-archive-javase5-downloads.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sun:jdk:1.3.0_02:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:sun:jdk:1.3.0_02::~~~windows~~",
+	"title": [
+		{
+			"text": "\tSun JDK 1.3.0 02 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvd.nist.gov/vuln/detail/CVE-2003-1229#match-8323437"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/java/technologies/java-archive-javase5-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sun:jdk:1.3.0_02:*:*:*:*:windows:*:*"
+	}
 }

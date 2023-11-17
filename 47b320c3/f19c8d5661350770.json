@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cisco:spark:2015-07-04",
-  "deprecated": true,
-  "deprecation_date": "2016-03-02T19:34:11.023Z",
-  "title": [
-    {
-      "text": "Cisco Spark 2015-07-04",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160210-sp1"
-    },
-    {
-      "text": "Product",
-      "href": "https://web.ciscospark.com/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/dam/en/us/products/collateral/conferencing/webex-meetings/product-overview-c78-734154.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:spark:2015-07-04:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-03-02T14:34:11.023-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:spark:2015-07-04",
+	"deprecated": true,
+	"deprecation_date": "2016-03-02T19:34:11.023Z",
+	"title": [
+		{
+			"text": "Cisco Spark 2015-07-04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160210-sp1"
+		},
+		{
+			"text": "Product",
+			"href": "https://web.ciscospark.com/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/dam/en/us/products/collateral/conferencing/webex-meetings/product-overview-c78-734154.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:spark:2015-07-04:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-03-02T14:34:11.023-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:spark:2015-07-04_base:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

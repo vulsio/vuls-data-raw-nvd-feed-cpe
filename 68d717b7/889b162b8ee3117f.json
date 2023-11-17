@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sedlex:traffic_manager:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Sedlex Traffic Manager - for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.sedlex.fr/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/traffic-manager/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/traffic-manager/wordpress-traffic-manager-plugin-1-4-5-broken-access-control-vulnerability-leading-to-stored-cross-site-scripting-xss?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sedlex:traffic_manager:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:sedlex:traffic_manager:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sedlex Traffic Manager - for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.sedlex.fr/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/traffic-manager/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/traffic-manager/wordpress-traffic-manager-plugin-1-4-5-broken-access-control-vulnerability-leading-to-stored-cross-site-scripting-xss?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sedlex:traffic_manager:-:*:*:*:*:wordpress:*:*"
+	}
 }

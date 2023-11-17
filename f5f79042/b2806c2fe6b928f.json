@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:epyc_5552_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) EPYC 5552 FIRMWARE ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cpu-monkey.com/en/cpu_family-amd_epyc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3004.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:epyc_5552_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:epyc_5552_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 5552 FIRMWARE ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cpu-monkey.com/en/cpu_family-amd_epyc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3004.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_5552_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sigstore:gitsign:0.7.1::~~~go~~",
+	"title": [
+		{
+			"text": "Sigstore Gitsign 0.7.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/sigstore/gitsign/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/sigstore/gitsign"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sigstore.dev/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sigstore:gitsign:0.7.1:*:*:*:*:go:*:*"
+	}
+}

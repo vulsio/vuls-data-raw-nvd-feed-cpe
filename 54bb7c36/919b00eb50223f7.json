@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:avira:phantom_vpn:2.23.1::~~~macos~~",
-  "title": [
-    {
-      "text": "Avira Phantom VPN 2.23.1 for MacOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/36xxx/CVE-2023-36673.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tunnelcrack.mathyvanhoef.com/details.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.avira.com/en/free-vpn"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:avira:phantom_vpn:2.23.1:*:*:*:*:macos:*:*"
-  }
+	"name": "cpe:/a:avira:phantom_vpn:2.23.1::~~~macos~~",
+	"title": [
+		{
+			"text": "Avira Phantom VPN 2.23.1 for MacOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/36xxx/CVE-2023-36673.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tunnelcrack.mathyvanhoef.com/details.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.avira.com/en/free-vpn"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:avira:phantom_vpn:2.23.1:*:*:*:*:macos:*:*"
+	}
 }

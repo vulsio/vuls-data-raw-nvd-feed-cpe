@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sonicwall:global_management_system:8.2",
-  "title": [
-    {
-      "text": "SonicWALL Global Management System (GMS) 8.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0003"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.sonicwall.com/en-us/support/product-notification/sonicwall-gms-analyzer-general-release-notific"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonicwall:global_management_system:8.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sonicwall:global_management_system:8.2",
+	"title": [
+		{
+			"text": "SonicWALL Global Management System (GMS) 8.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0003"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.sonicwall.com/en-us/support/product-notification/sonicwall-gms-analyzer-general-release-notific"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:global_management_system:8.2:*:*:*:*:*:*:*"
+	}
 }

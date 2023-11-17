@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hasthemes:ht_feed:1.0.8::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Has Themes HT Feed 1.0.8 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ht-instagram/wordpress-ht-feed-plugin-1-2-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/ht-instagram/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hasthemes:ht_feed:1.0.8:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:hasthemes:ht_feed:1.0.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Has Themes HT Feed 1.0.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ht-instagram/wordpress-ht-feed-plugin-1-2-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ht-instagram/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hasthemes:ht_feed:1.0.8:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows-9x:98:scd",
-  "deprecated": true,
-  "deprecation_date": "2008-04-15T16:35:00.000Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 98 Security CD",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows-9x:98:scd:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2008-04-15T12:35:00.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_98:-:scd:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows-9x:98:scd",
+	"deprecated": true,
+	"deprecation_date": "2008-04-15T16:35:00.000Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 98 Security CD",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows-9x:98:scd:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2008-04-15T12:35:00.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_98:-:scd:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

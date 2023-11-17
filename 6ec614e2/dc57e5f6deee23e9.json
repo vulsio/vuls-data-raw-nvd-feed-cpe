@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:sql_server_management_studio:18.8",
-  "title": [
-    {
-      "text": "Microsoft SQL Server Management Studio (SSMS) 18.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver15"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:sql_server_management_studio:18.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:sql_server_management_studio:18.8",
+	"title": [
+		{
+			"text": "Microsoft SQL Server Management Studio (SSMS) 18.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-ver15"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver15"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:sql_server_management_studio:18.8:*:*:*:*:*:*:*"
+	}
 }

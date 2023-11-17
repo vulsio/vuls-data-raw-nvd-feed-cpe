@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:sockjs_project:sockjs:3.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-14T15:01:12.800Z",
-  "title": [
-    {
-      "text": "SockJS Project SockJS 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/theyiyibest/Reflected-XSS-on-SockJS"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sockjs_project:sockjs:3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-14T11:01:12.800-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sockjs_project:sockjs:3.0:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sockjs_project:sockjs:3.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-14T15:01:12.800Z",
+	"title": [
+		{
+			"text": "SockJS Project SockJS 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/theyiyibest/Reflected-XSS-on-SockJS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sockjs_project:sockjs:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-14T11:01:12.800-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sockjs_project:sockjs:3.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

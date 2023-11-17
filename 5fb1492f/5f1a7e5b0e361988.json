@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:3com:tippingpoint_ips:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:35:59.023Z",
-  "title": [
-    {
-      "text": "3Com TippingPoint IPS",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:35:59.023-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:3com:tippingpoint_ips:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:35:59.023Z",
+	"title": [
+		{
+			"text": "3Com TippingPoint IPS",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:35:59.023-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:3com:tippingpoint_ips:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

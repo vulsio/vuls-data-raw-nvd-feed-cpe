@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:garo:wallbox_gtb:-",
-  "title": [
-    {
-      "text": "GARO Wallbox GTB",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.garo.se/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.garoemobility.se/media/ejoflno3/gtb-se-twin-full-manual-380231-1-1.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/delikely/advisory/tree/main/GARO"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:garo:wallbox_gtb:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:garo:wallbox_gtb:-",
+	"title": [
+		{
+			"text": "GARO Wallbox GTB",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.garo.se/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.garoemobility.se/media/ejoflno3/gtb-se-twin-full-manual-380231-1-1.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/delikely/advisory/tree/main/GARO"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:garo:wallbox_gtb:-:*:*:*:*:*:*:*"
+	}
 }

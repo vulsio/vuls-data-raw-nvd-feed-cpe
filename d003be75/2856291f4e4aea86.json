@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:necta:wifi_mouse_server:1.7.8.5",
-  "title": [
-    {
-      "text": "Necta WiFi Mouse Server 1.7.8.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://necta.us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/H4rk3nz0/PenTesting/blob/main/Exploits/wifi%20mouse/wifi-mouse-server-rce.py"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:necta:wifi_mouse_server:1.7.8.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:necta:wifi_mouse_server:1.7.8.5",
+	"title": [
+		{
+			"text": "Necta WiFi Mouse Server 1.7.8.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://necta.us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/H4rk3nz0/PenTesting/blob/main/Exploits/wifi%20mouse/wifi-mouse-server-rce.py"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:necta:wifi_mouse_server:1.7.8.5:*:*:*:*:*:*:*"
+	}
 }

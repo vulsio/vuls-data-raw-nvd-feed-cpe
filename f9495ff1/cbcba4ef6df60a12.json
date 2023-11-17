@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:siemens:simatic_cp_443-1_firmware:-",
-  "title": [
-    {
-      "text": "Siemens SIMATIC CP 443-1 Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-549234.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/system-interfacing.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:simatic_cp_443-1_firmware:-",
+	"title": [
+		{
+			"text": "Siemens SIMATIC CP 443-1 Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-549234.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/system-interfacing.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:simatic_cp_443-1_firmware:-:*:*:*:*:*:*:*"
+	}
 }

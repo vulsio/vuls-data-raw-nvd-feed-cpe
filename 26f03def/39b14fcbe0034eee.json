@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:fujitsu:gps_firmware:-",
-  "title": [
-    {
-      "text": "Fujitsu GPS Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.fujitsu.com/downloads/MICRO/fme/agps/Fujitsu_GPS-AGPS_Navigation-Telematics_factsheets.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.fujitsu.com/jp/products/software/resources/condition/security/products-fujitsu/solution/interstage-systemwalker-tls-202001.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fujitsu:gps_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:fujitsu:gps_firmware:-",
+	"title": [
+		{
+			"text": "Fujitsu GPS Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.fujitsu.com/downloads/MICRO/fme/agps/Fujitsu_GPS-AGPS_Navigation-Telematics_factsheets.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.fujitsu.com/jp/products/software/resources/condition/security/products-fujitsu/solution/interstage-systemwalker-tls-202001.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fujitsu:gps_firmware:-:*:*:*:*:*:*:*"
+	}
 }

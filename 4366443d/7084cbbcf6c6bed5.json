@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:rubyonrails:ruby_on_rails:4.2.4",
-  "deprecated": true,
-  "deprecation_date": "2019-08-08T14:57:08.437Z",
-  "title": [
-    {
-      "text": "Ruby on Rails 4.2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://rubyonrails.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.2.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-08T10:57:08.437-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rubyonrails:rails:4.2.4:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rubyonrails:ruby_on_rails:4.2.4",
+	"deprecated": true,
+	"deprecation_date": "2019-08-08T14:57:08.437Z",
+	"title": [
+		{
+			"text": "Ruby on Rails 4.2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://rubyonrails.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.2.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-08T10:57:08.437-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rubyonrails:rails:4.2.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:arduino:create_agent:1.2.2:rc5:~~~go~~",
-  "title": [
-    {
-      "text": "Arduino Create Agent 1.2.2 Release Candidate 5 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/arduino/arduino-create-agent/security/advisories/GHSA-75j7-w798-cwwx"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/arduino/arduino-create-agent/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arduino:create_agent:1.2.2:rc5:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:arduino:create_agent:1.2.2:rc5:~~~go~~",
+	"title": [
+		{
+			"text": "Arduino Create Agent 1.2.2 Release Candidate 5 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/arduino/arduino-create-agent/security/advisories/GHSA-75j7-w798-cwwx"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/arduino/arduino-create-agent/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arduino:create_agent:1.2.2:rc5:*:*:*:go:*:*"
+	}
 }

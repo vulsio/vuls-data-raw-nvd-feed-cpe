@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:consul:1.13.3::~~enterprise~~~",
-  "title": [
-    {
-      "text": "HashiCorp Consul 1.13.3 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.hashicorp.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2022-28-consul-cluster-peering-leaks-imported-nodes-services-information/46946"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:consul:1.13.3:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:consul:1.13.3::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Consul 1.13.3 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.hashicorp.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2022-28-consul-cluster-peering-leaks-imported-nodes-services-information/46946"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:consul:1.13.3:*:*:*:enterprise:*:*:*"
+	}
 }

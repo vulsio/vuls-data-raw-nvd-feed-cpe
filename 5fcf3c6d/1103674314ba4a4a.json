@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:publisher:2010:sp3",
-  "title": [
-    {
-      "text": "Microsoft Publisher 2010 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8725"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/help/2121559/how-to-determine-the-service-pack-level-of-your-office-2010-suite"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:publisher:2010:sp3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:publisher:2010:sp3",
+	"title": [
+		{
+			"text": "Microsoft Publisher 2010 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8725"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/help/2121559/how-to-determine-the-service-pack-level-of-your-office-2010-suite"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:publisher:2010:sp3:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:gehealthcare:brightspeed_edge:-",
-  "title": [
-    {
-      "text": "GE Healthcare BrightSpeed Edge",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.gehealthcare.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.medwrench.com/equipment/1711/ge-healthcare-brightspeed-series"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:gehealthcare:brightspeed_edge:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:gehealthcare:brightspeed_edge:-",
+	"title": [
+		{
+			"text": "GE Healthcare BrightSpeed Edge",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gehealthcare.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.medwrench.com/equipment/1711/ge-healthcare-brightspeed-series"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:gehealthcare:brightspeed_edge:-:*:*:*:*:*:*:*"
+	}
 }

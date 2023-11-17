@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:socket:engine.io:1.7.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Socket Engine.IO 1.7.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/engine.io"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/socketio/engine.io"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/socketio/engine.io/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://socket.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:socket:engine.io:1.7.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:socket:engine.io:1.7.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Socket Engine.IO 1.7.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/engine.io"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/socketio/engine.io"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/socketio/engine.io/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://socket.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:socket:engine.io:1.7.0:*:*:*:*:node.js:*:*"
+	}
 }

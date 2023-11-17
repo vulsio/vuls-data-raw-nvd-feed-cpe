@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:signal:messenger:4.28.1::~~~android~~",
-  "deprecated": true,
-  "deprecation_date": "2022-04-07T17:31:29.133Z",
-  "title": [
-    {
-      "text": "Signal Messenger 4.28.1 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DNav"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/signalapp/Signal-Android"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://signal.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:signal:messenger:4.28.1:*:*:*:*:android:*:*",
-    "deprecation": {
-      "date": "2022-04-07T13:31:29.133-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:signal:private_messenger:4.28.1:*:*:*:*:android:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:signal:messenger:4.28.1::~~~android~~",
+	"deprecated": true,
+	"deprecation_date": "2022-04-07T17:31:29.133Z",
+	"title": [
+		{
+			"text": "Signal Messenger 4.28.1 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&referrer=utm_source%3DOWS%26utm_medium%3DWeb%26utm_campaign%3DNav"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/signalapp/Signal-Android"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://signal.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:signal:messenger:4.28.1:*:*:*:*:android:*:*",
+		"deprecation": {
+			"date": "2022-04-07T13:31:29.133-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:signal:private_messenger:4.28.1:*:*:*:*:android:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

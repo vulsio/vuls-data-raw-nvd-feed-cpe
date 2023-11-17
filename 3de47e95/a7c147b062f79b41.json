@@ -1,43 +1,43 @@
 {
-  "name": "cpe:/o:juniper:junos:18.1r4",
-  "deprecated": true,
-  "deprecation_date": "2021-10-25T16:19:14.073Z",
-  "title": [
-    {
-      "text": "Juniper JUNOS 18.1r4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.juniper.net/us/en/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.juniper.net/us/en/products-services/nos/junos/"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.juniper.net/support/eol/junos.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.juniper.net/us/en/products-services/switching/ex-series/compare?p=EX4300"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.juniper.net/us/en/products-services/switching/qfx-series/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos:18.1r4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-25T12:19:14.073-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:juniper:junos:18.1:r4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:juniper:junos:18.1r4",
+	"deprecated": true,
+	"deprecation_date": "2021-10-25T16:19:14.073Z",
+	"title": [
+		{
+			"text": "Juniper JUNOS 18.1r4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.juniper.net/us/en/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.juniper.net/us/en/products-services/nos/junos/"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.juniper.net/support/eol/junos.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.juniper.net/us/en/products-services/switching/ex-series/compare?p=EX4300"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.juniper.net/us/en/products-services/switching/qfx-series/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:18.1r4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-25T12:19:14.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:juniper:junos:18.1:r4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:juniper:junos:14.1x53",
-  "deprecated": true,
-  "deprecation_date": "2019-04-15T13:19:13.817Z",
-  "title": [
-    {
-      "text": "Juniper JunOS 14.1x53",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.juniper.net/us/en/products-services/nos/junos/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos:14.1x53:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-04-15T09:19:13.817-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:juniper:junos:14.1x53:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:juniper:junos:14.1x53",
+	"deprecated": true,
+	"deprecation_date": "2019-04-15T13:19:13.817Z",
+	"title": [
+		{
+			"text": "Juniper JunOS 14.1x53",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.juniper.net/us/en/products-services/nos/junos/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:14.1x53:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-04-15T09:19:13.817-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:juniper:junos:14.1x53:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

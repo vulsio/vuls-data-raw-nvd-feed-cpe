@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dell:x1052%2fp_firmware:3.0.1.8",
-  "title": [
-    {
-      "text": "Dell X1052/P FIRMWARE 3.0.1.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/Dell_Networking_X-Series_Spec_Sheet.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000185252/dsa-2020-080-dell-emc-poweredge-vrtx-security-update-for-a-vrtx-switch-module-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:x1052\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:x1052%2fp_firmware:3.0.1.8",
+	"title": [
+		{
+			"text": "Dell X1052/P FIRMWARE 3.0.1.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/Dell_Networking_X-Series_Spec_Sheet.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000185252/dsa-2020-080-dell-emc-poweredge-vrtx-security-update-for-a-vrtx-switch-module-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:x1052\\/p_firmware:3.0.1.8:*:*:*:*:*:*:*"
+	}
 }

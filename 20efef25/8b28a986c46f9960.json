@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mobyproject:buildkit:0.10.2",
-  "title": [
-    {
-      "text": "Moby Project BuildKit 0.10.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://mobyproject.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/moby/buildkit/security/advisories/GHSA-gc89-7gcr-jxqc"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/moby/buildkit/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mobyproject:buildkit:0.10.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mobyproject:buildkit:0.10.2",
+	"title": [
+		{
+			"text": "Moby Project BuildKit 0.10.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mobyproject.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/moby/buildkit/security/advisories/GHSA-gc89-7gcr-jxqc"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/moby/buildkit/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mobyproject:buildkit:0.10.2:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:intel:server_platform_services_firmware:4.0",
-  "title": [
-    {
-      "text": "Intel Server Platform Services Firmware 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00086&languageid=en-fr"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/content/www/us/en/homepage.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/dam/support/us/en/documents/motherboards/server/sb/s2600xxv3_errata_02242015_final.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:server_platform_services_firmware:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:server_platform_services_firmware:4.0",
+	"title": [
+		{
+			"text": "Intel Server Platform Services Firmware 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00086&languageid=en-fr"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/content/www/us/en/homepage.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/dam/support/us/en/documents/motherboards/server/sb/s2600xxv3_errata_02242015_final.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:server_platform_services_firmware:4.0:*:*:*:*:*:*:*"
+	}
 }

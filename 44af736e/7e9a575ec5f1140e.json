@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:puma_7:-",
-  "title": [
-    {
-      "text": "Intel Puma 7 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/puma-development-kit-brief.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/processors-affected-consolidated-product-cpu-model.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:puma_7:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:puma_7:-",
+	"title": [
+		{
+			"text": "Intel Puma 7 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/puma-development-kit-brief.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/processors-affected-consolidated-product-cpu-model.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:puma_7:-:*:*:*:*:*:*:*"
+	}
 }

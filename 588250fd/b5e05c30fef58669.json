@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cyberchimps:ifeature_slider:1.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "CyberChimps iFeature Slider 1.2 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ifeature-slider/wordpress-ifeature-slider-plugin-1-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://cyberchimps.com/plugins/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/ifeature-slider/#description"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cyberchimps:ifeature_slider:1.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:cyberchimps:ifeature_slider:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CyberChimps iFeature Slider 1.2 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ifeature-slider/wordpress-ifeature-slider-plugin-1-2-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cyberchimps.com/plugins/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/ifeature-slider/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyberchimps:ifeature_slider:1.2:*:*:*:*:wordpress:*:*"
+	}
 }

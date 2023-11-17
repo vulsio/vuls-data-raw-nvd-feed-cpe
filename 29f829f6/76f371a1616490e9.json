@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:hitachi:unem:r15a",
-  "deprecated": true,
-  "deprecation_date": "2023-01-23T19:36:49.820Z",
-  "title": [
-    {
-      "text": "Hitachi UNEM R15A",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.hitachienergy.com/us/en/products-and-solutions/communication-networks/xmc20-multiservice-communication-portfolios/unem---network-management-system-"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000084&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hitachi:unem:r15a:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-01-23T14:36:49.820-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:unem:r15a:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:hitachi:unem:r15a",
+	"deprecated": true,
+	"deprecation_date": "2023-01-23T19:36:49.820Z",
+	"title": [
+		{
+			"text": "Hitachi UNEM R15A",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.hitachienergy.com/us/en/products-and-solutions/communication-networks/xmc20-multiservice-communication-portfolios/unem---network-management-system-"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000084&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hitachi:unem:r15a:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-01-23T14:36:49.820-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:unem:r15a:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

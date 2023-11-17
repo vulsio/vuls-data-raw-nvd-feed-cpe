@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:tp-link:tl-wrd741nd_%285.0%29:-",
-  "deprecated": true,
-  "deprecation_date": "2015-07-08T15:05:41.917Z",
-  "title": [
-    {
-      "text": "TP-LINK TL-WDR741ND (5.0)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor Website",
-      "href": "http://www.tp-link.com/en/download/TL-WR741ND_V5.html#Firmware"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:tp-link:tl-wrd741nd_\\(5.0\\):-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2015-07-08T11:05:41.917-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:tp-link:tl-wr741nd_\\(5.0\\):-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:tp-link:tl-wrd741nd_%285.0%29:-",
+	"deprecated": true,
+	"deprecation_date": "2015-07-08T15:05:41.917Z",
+	"title": [
+		{
+			"text": "TP-LINK TL-WDR741ND (5.0)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor Website",
+			"href": "http://www.tp-link.com/en/download/TL-WR741ND_V5.html#Firmware"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tp-link:tl-wrd741nd_\\(5.0\\):-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2015-07-08T11:05:41.917-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:tp-link:tl-wr741nd_\\(5.0\\):-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

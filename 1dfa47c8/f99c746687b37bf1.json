@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:redhat:jboss-remoting:5.0.14:-",
-  "title": [
-    {
-      "text": "Red Hat JBoss-remoting 5.0.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://jbossremoting.jboss.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jboss-remoting/jboss-remoting/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://mvnrepository.com/artifact/org.jboss.remoting/jboss-remoting"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1780445"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jboss-remoting:5.0.14:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jboss-remoting:5.0.14:-",
+	"title": [
+		{
+			"text": "Red Hat JBoss-remoting 5.0.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://jbossremoting.jboss.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jboss-remoting/jboss-remoting/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://mvnrepository.com/artifact/org.jboss.remoting/jboss-remoting"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1780445"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jboss-remoting:5.0.14:-:*:*:*:*:*:*"
+	}
 }

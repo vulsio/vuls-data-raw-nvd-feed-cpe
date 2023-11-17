@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.7.0:update_291",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T14:41:32.140Z",
-  "title": [
-    {
-      "text": "Oracle Java Development Kit (JDK) 1.7.0 Update 291",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_291:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T10:41:32.140-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update291:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.7.0:update_291",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T14:41:32.140Z",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 1.7.0 Update 291",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.7.0:update_291:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T10:41:32.140-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.7.0:update291:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

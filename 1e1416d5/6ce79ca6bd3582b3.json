@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:18.3:beta0",
-  "deprecated": true,
-  "deprecation_date": "2020-12-15T16:03:23.410Z",
-  "title": [
-    {
-      "text": "Kubernetes 18.3 Beta 0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes/kubernetes/issues/92914"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/kubernetes/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:18.3:beta0:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-15T11:03:23.410-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kubernetes:kubernetes:1.18.3:beta0:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:18.3:beta0",
+	"deprecated": true,
+	"deprecation_date": "2020-12-15T16:03:23.410Z",
+	"title": [
+		{
+			"text": "Kubernetes 18.3 Beta 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes/kubernetes/issues/92914"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/kubernetes/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:18.3:beta0:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-15T11:03:23.410-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kubernetes:kubernetes:1.18.3:beta0:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

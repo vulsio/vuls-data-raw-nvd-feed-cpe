@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:secure-endpoints:kerberised_netcat:1.11-1",
-  "title": [
-    {
-      "text": "Secure Endpoints Kerberised Netcat (KNC) 1.11-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://oskt.secure-endpoints.com/knc.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/irsl/knc-memory-exhaustion/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:secure-endpoints:kerberised_netcat:1.11-1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:secure-endpoints:kerberised_netcat:1.11-1",
+	"title": [
+		{
+			"text": "Secure Endpoints Kerberised Netcat (KNC) 1.11-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://oskt.secure-endpoints.com/knc.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/irsl/knc-memory-exhaustion/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:secure-endpoints:kerberised_netcat:1.11-1:*:*:*:*:*:*:*"
+	}
 }

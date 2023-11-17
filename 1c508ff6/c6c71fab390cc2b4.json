@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tendacn:ac10u_firmware:15.03.06.49_multi",
-  "title": [
-    {
-      "text": "Tenda AC10U Firmware 15.03.06.49_Multi",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Quadron-Research-Lab/Hardware-IoT/blob/main/Tenda_AC10U_command_injection_RCE.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tendacn.com/product/download/AC10U.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tendacn:ac10u_firmware:15.03.06.49_multi:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tendacn:ac10u_firmware:15.03.06.49_multi",
+	"title": [
+		{
+			"text": "Tenda AC10U Firmware 15.03.06.49_Multi",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Quadron-Research-Lab/Hardware-IoT/blob/main/Tenda_AC10U_command_injection_RCE.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tendacn.com/product/download/AC10U.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tendacn:ac10u_firmware:15.03.06.49_multi:*:*:*:*:*:*:*"
+	}
 }

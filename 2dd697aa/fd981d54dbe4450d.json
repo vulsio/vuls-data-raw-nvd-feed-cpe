@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:supermicro:x13sei-f_firmware:-",
-  "title": [
-    {
-      "text": "Supermicro X13SEI-F FIRMWARE -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35861.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/en/support/security_SMTP_Jun_2023"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.supermicro.com/en/products/motherboards/matrix"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:supermicro:x13sei-f_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:supermicro:x13sei-f_firmware:-",
+	"title": [
+		{
+			"text": "Supermicro X13SEI-F FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35861.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/en/support/security_SMTP_Jun_2023"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.supermicro.com/en/products/motherboards/matrix"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:x13sei-f_firmware:-:*:*:*:*:*:*:*"
+	}
 }

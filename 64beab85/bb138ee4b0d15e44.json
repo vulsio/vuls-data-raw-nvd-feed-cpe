@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:creative:pebble_plus_firmware:-",
-  "title": [
-    {
-      "text": "Creative Pebble Plus Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.nassiben.com/glowworm-attack"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38546.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://us.creative.com/p/speakers/creative-pebble"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:creative:pebble_plus_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:creative:pebble_plus_firmware:-",
+	"title": [
+		{
+			"text": "Creative Pebble Plus Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.nassiben.com/glowworm-attack"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38546.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://us.creative.com/p/speakers/creative-pebble"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:creative:pebble_plus_firmware:-:*:*:*:*:*:*:*"
+	}
 }

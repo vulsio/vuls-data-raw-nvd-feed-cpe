@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:hoyoverse:mhyprot2:1.0.0.0",
-  "title": [
-    {
-      "text": "HoYoVerse Mhyprot2 1.0.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/36xxx/CVE-2020-36603.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vice.com/en/article/y3p35w/hackers-are-using-anti-cheat-in-genshin-impact-to-ransom-victims"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.hoyoverse.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hoyoverse:mhyprot2:1.0.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hoyoverse:mhyprot2:1.0.0.0",
+	"title": [
+		{
+			"text": "HoYoVerse Mhyprot2 1.0.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/36xxx/CVE-2020-36603.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vice.com/en/article/y3p35w/hackers-are-using-anti-cheat-in-genshin-impact-to-ransom-victims"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.trendmicro.com/en_us/research/22/h/ransomware-actor-abuses-genshin-impact-anti-cheat-driver-to-kill-antivirus.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.hoyoverse.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hoyoverse:mhyprot2:1.0.0.0:*:*:*:*:*:*:*"
+	}
 }

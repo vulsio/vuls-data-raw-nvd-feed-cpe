@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:tekon:kio-2ms:-",
-  "title": [
-    {
-      "text": "Tekon KIO-2MS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://tekon.ru/"
-    },
-    {
-      "text": "Product",
-      "href": "http://wiki.tekon.ru/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%90%D0%A1%D0%A3%D0%94"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@bertinjoseb/post-auth-rce-based-in-malicious-lua-plugin-script-upload-scada-controllers-located-in-russia-57044425ac38"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:tekon:kio-2ms:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:tekon:kio-2ms:-",
+	"title": [
+		{
+			"text": "Tekon KIO-2MS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tekon.ru/"
+		},
+		{
+			"text": "Product",
+			"href": "http://wiki.tekon.ru/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%90%D0%A1%D0%A3%D0%94"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@bertinjoseb/post-auth-rce-based-in-malicious-lua-plugin-script-upload-scada-controllers-located-in-russia-57044425ac38"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tekon:kio-2ms:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:schedmd:slurm:15.08.12",
-  "title": [
-    {
-      "text": "SchedMD Slurm 15.08.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.schedmd.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/SchedMD/slurm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:schedmd:slurm:15.08.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:schedmd:slurm:15.08.12",
+	"title": [
+		{
+			"text": "SchedMD Slurm 15.08.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.schedmd.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/SchedMD/slurm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:schedmd:slurm:15.08.12:*:*:*:*:*:*:*"
+	}
 }

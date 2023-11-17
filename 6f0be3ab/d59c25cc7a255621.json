@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:openshift:3.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "RedHat OpenShift 3.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.openshift.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift:3.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift:3.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "RedHat OpenShift 3.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.openshift.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift:3.0:*:*:*:enterprise:*:*:*"
+	}
 }

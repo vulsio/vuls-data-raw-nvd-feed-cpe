@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:aimstack:aim:2.7.1::~~~python~~",
-  "title": [
-    {
-      "text": "AimStack Aim 2.7.1 for Python",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/aimhubio/aim/security/advisories/GHSA-8phj-f9w2-cjcc"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/aimhubio/aim/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/aimhubio/aim"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://aimstack.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:aimstack:aim:2.7.1:*:*:*:*:python:*:*"
-  }
+	"name": "cpe:/a:aimstack:aim:2.7.1::~~~python~~",
+	"title": [
+		{
+			"text": "AimStack Aim 2.7.1 for Python",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aimhubio/aim/security/advisories/GHSA-8phj-f9w2-cjcc"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/aimhubio/aim/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/aimhubio/aim"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://aimstack.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aimstack:aim:2.7.1:*:*:*:*:python:*:*"
+	}
 }

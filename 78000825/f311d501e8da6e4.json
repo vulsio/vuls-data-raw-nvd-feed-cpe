@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:wdc:smartware:1.4.5.5",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:02:08.307Z",
-  "title": [
-    {
-      "text": "Wdc Smartware 1.4.5.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wdc:smartware:1.4.5.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:02:08.307-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:westerndigital:smartware:1.4.5.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wdc:smartware:1.4.5.5",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:02:08.307Z",
+	"title": [
+		{
+			"text": "Wdc Smartware 1.4.5.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wdc:smartware:1.4.5.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:02:08.307-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:westerndigital:smartware:1.4.5.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:postgresql:postgresql:9.4-0.5.3.1",
-  "title": [
-    {
-      "text": "PostgreSQL 9.4-0.5.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/45184"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.postgresql.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postgresql:postgresql:9.4-0.5.3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:postgresql:postgresql:9.4-0.5.3.1",
+	"title": [
+		{
+			"text": "PostgreSQL 9.4-0.5.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/45184"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.postgresql.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgresql:postgresql:9.4-0.5.3.1:*:*:*:*:*:*:*"
+	}
 }

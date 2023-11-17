@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:timg_project:timg:1.4.4",
-  "deprecated": true,
-  "deprecation_date": "2023-09-05T11:43:00.327Z",
-  "title": [
-    {
-      "text": "timg Project timg 1.4.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/hzeller/timg"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/hzeller/timg/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:timg_project:timg:1.4.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-05T07:43:00.327-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hzeller:timg:1.4.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:timg_project:timg:1.4.4",
+	"deprecated": true,
+	"deprecation_date": "2023-09-05T11:43:00.327Z",
+	"title": [
+		{
+			"text": "timg Project timg 1.4.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/hzeller/timg"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/hzeller/timg/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:timg_project:timg:1.4.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-05T07:43:00.327-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hzeller:timg:1.4.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

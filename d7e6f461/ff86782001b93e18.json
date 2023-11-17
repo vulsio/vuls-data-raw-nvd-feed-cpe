@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:conversations:conversations:1.2.0",
-  "deprecated": true,
-  "deprecation_date": "2019-09-26T17:25:10.927Z",
-  "title": [
-    {
-      "text": "Conversations 1.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/siacs/Conversations/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://conversations.im/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:conversations:conversations:1.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-26T13:25:10.927-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:conversations:conversations:1.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:conversations:conversations:1.2.0",
+	"deprecated": true,
+	"deprecation_date": "2019-09-26T17:25:10.927Z",
+	"title": [
+		{
+			"text": "Conversations 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/siacs/Conversations/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://conversations.im/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:conversations:conversations:1.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-26T13:25:10.927-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:conversations:conversations:1.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

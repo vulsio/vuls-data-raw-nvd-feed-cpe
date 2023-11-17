@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2008:-:gold:standard",
-  "deprecated": true,
-  "deprecation_date": "2019-05-07T18:27:57.377Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 (gold) Standard Edition",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:gold:standard:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-07T14:27:57.377-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:standard:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2008:-:gold:standard",
+	"deprecated": true,
+	"deprecation_date": "2019-05-07T18:27:57.377Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 (gold) Standard Edition",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2008:-:gold:standard:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-07T14:27:57.377-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2008:-:-:*:*:standard:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

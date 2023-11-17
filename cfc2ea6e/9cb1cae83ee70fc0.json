@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:wdc:my_net_n750:-",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:02:12.793Z",
-  "title": [
-    {
-      "text": "Western Digital My Net N750",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:wdc:my_net_n750:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:02:12.793-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:westerndigital:my_net_n750:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:wdc:my_net_n750:-",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:02:12.793Z",
+	"title": [
+		{
+			"text": "Western Digital My Net N750",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:wdc:my_net_n750:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:02:12.793-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:westerndigital:my_net_n750:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

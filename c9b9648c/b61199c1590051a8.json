@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:eyesofnetwork:eonweb:5.3-1",
-  "deprecated": true,
-  "deprecation_date": "2021-02-23T15:06:18.907Z",
-  "title": [
-    {
-      "text": "EyesOfNetwork Eonweb 5.3-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.eyesofnetwork.com/en"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/EyesOfNetworkCommunity/eonweb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3-1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-23T10:06:18.907-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.3-1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eyesofnetwork:eonweb:5.3-1",
+	"deprecated": true,
+	"deprecation_date": "2021-02-23T15:06:18.907Z",
+	"title": [
+		{
+			"text": "EyesOfNetwork Eonweb 5.3-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.eyesofnetwork.com/en"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/EyesOfNetworkCommunity/eonweb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eyesofnetwork:eonweb:5.3-1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-23T10:06:18.907-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eyesofnetwork:eyesofnetwork:5.3-1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

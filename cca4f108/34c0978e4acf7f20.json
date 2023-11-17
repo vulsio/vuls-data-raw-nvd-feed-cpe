@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:genexis:platinum:-",
-  "title": [
-    {
-      "text": "Genexis Platinum",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://hackerworld.home.blog/2021/03/19/rce-in-genexis-router/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/162174/Genexis-PLATINUM-4410-2.1-P4410-V2-1.28-Remote-Command-Execution.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://genexis.eu/product/platinum#:~:text=The%20Platinum%20series%20combines%20high,that%20deserves%20to%20be%20seen."
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:genexis:platinum:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:genexis:platinum:-",
+	"title": [
+		{
+			"text": "Genexis Platinum",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://hackerworld.home.blog/2021/03/19/rce-in-genexis-router/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/162174/Genexis-PLATINUM-4410-2.1-P4410-V2-1.28-Remote-Command-Execution.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://genexis.eu/product/platinum#:~:text=The%20Platinum%20series%20combines%20high,that%20deserves%20to%20be%20seen."
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:genexis:platinum:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:realtimelogic:fuguhub:-::~~~windows~~",
-  "title": [
-    {
-      "text": "RealTimeLogic FuguHub for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ojan2021/Fuguhub-8.1-RCE/blob/main/Fuguhub-8-1-RCE-Report.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://fuguhub.com/download.lsp"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:realtimelogic:fuguhub:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:realtimelogic:fuguhub:-::~~~windows~~",
+	"title": [
+		{
+			"text": "RealTimeLogic FuguHub for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ojan2021/Fuguhub-8.1-RCE/blob/main/Fuguhub-8-1-RCE-Report.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://fuguhub.com/download.lsp"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:realtimelogic:fuguhub:-:*:*:*:*:windows:*:*"
+	}
 }

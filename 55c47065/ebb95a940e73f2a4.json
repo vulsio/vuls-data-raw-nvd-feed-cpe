@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:redhat:linux:9.0",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:03.320Z",
-  "title": [
-    {
-      "text": "Red Hat Linux 9.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:linux:9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:03.320-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:redhat:linux:9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:linux:9.0",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:03.320Z",
+	"title": [
+		{
+			"text": "Red Hat Linux 9.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:linux:9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:03.320-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:redhat:linux:9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

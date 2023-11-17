@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gluu:gluu_server:4.0",
-  "title": [
-    {
-      "text": "Gluu Server 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.gluu.org/other/7992/reflected-cross-site-scripting-on-import-people/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gluu.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://gluu.org/docs/ce/4.0/release-notes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gluu:gluu_server:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gluu:gluu_server:4.0",
+	"title": [
+		{
+			"text": "Gluu Server 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.gluu.org/other/7992/reflected-cross-site-scripting-on-import-people/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gluu.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://gluu.org/docs/ce/4.0/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gluu:gluu_server:4.0:*:*:*:*:*:*:*"
+	}
 }

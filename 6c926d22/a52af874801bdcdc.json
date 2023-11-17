@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zohocorp:manageengine_servicedesk_plus:11.0",
-  "deprecated": true,
-  "deprecation_date": "2020-05-19T18:04:48.217Z",
-  "title": [
-    {
-      "text": "Zoho Corp ManageEngine ServiceDesk Plus 11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.manageengine.com/products/service-desk/readme.html#11010%20-%20SD-83959"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus:11.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-19T14:04:48.217-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus:11.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zohocorp:manageengine_servicedesk_plus:11.0",
+	"deprecated": true,
+	"deprecation_date": "2020-05-19T18:04:48.217Z",
+	"title": [
+		{
+			"text": "Zoho Corp ManageEngine ServiceDesk Plus 11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.manageengine.com/products/service-desk/readme.html#11010%20-%20SD-83959"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus:11.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-19T14:04:48.217-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_servicedesk_plus:11.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

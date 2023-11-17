@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:descision_manager:7.0",
-  "title": [
-    {
-      "text": "Red Hat Descision Manager 7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.redhat.com/en/resources/decision-manager-7-datasheet"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-3642"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:descision_manager:7.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:descision_manager:7.0",
+	"title": [
+		{
+			"text": "Red Hat Descision Manager 7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.redhat.com/en/resources/decision-manager-7-datasheet"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-3642"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:descision_manager:7.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:maxum:rumpus_ftp:8.2.9.1::~~~windows~~",
-  "title": [
-    {
-      "text": "Maxum Rumpus FTP 8.2.9.1 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.maxum.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/harshit-shukla/CVE/blob/master/CVE-2019-19661%20(Un-authenticated).md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:maxum:rumpus_ftp:8.2.9.1:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:maxum:rumpus_ftp:8.2.9.1::~~~windows~~",
+	"title": [
+		{
+			"text": "Maxum Rumpus FTP 8.2.9.1 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.maxum.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/harshit-shukla/CVE/blob/master/CVE-2019-19661%20(Un-authenticated).md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:maxum:rumpus_ftp:8.2.9.1:*:*:*:*:windows:*:*"
+	}
 }

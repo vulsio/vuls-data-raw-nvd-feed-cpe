@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:emc:unisphere:8.1::~~~vmax~~",
-  "deprecated": true,
-  "deprecation_date": "2021-08-05T14:45:49.570Z",
-  "title": [
-    {
-      "text": "EMC Unisphere for VMAX 8.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.emc.com/en-us/index.htm?_ga=1.12778034.429797522.1461005580"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:unisphere:8.1:*:*:*:*:vmax:*:*",
-    "deprecation": {
-      "date": "2021-08-05T10:45:49.570-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:emc_unisphere:8.1:*:*:*:*:vmax:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:unisphere:8.1::~~~vmax~~",
+	"deprecated": true,
+	"deprecation_date": "2021-08-05T14:45:49.570Z",
+	"title": [
+		{
+			"text": "EMC Unisphere for VMAX 8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.emc.com/en-us/index.htm?_ga=1.12778034.429797522.1461005580"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:unisphere:8.1:*:*:*:*:vmax:*:*",
+		"deprecation": {
+			"date": "2021-08-05T10:45:49.570-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:emc_unisphere:8.1:*:*:*:*:vmax:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

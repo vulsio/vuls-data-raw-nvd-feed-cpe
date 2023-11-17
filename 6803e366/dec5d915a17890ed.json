@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:jenkins:vsphere:2.16::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins vSphere 2.16 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/vsphere-cloud-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:vsphere:2.16:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:vsphere:2.16::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins vSphere 2.16 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/vsphere-cloud-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:vsphere:2.16:*:*:*:*:jenkins:*:*"
+	}
 }

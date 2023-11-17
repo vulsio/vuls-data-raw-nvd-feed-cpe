@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:intel:e5-4628l_firmware:-",
-  "title": [
-    {
-      "text": "Intel E5-4628L Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/93802/intel-xeon-processor-e5-4628l-v4-35m-cache-1-80-ghz.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/processors/xeon/e5-processors.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:e5-4628l_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:e5-4628l_firmware:-",
+	"title": [
+		{
+			"text": "Intel E5-4628L Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/93802/intel-xeon-processor-e5-4628l-v4-35m-cache-1-80-ghz.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/processors/xeon/e5-processors.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:e5-4628l_firmware:-:*:*:*:*:*:*:*"
+	}
 }

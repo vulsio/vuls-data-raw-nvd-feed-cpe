@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:symantec:endpoint_detection_and_response:4.7.0",
-  "title": [
-    {
-      "text": "Symantec Endpoint Detection And Response 4.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37015.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://vuldb.com/?id.213183#:~:text=This%20vulnerability%20is%20uniquely%20identified,4.7.0%20eliminates%20this%20vulnerability."
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:endpoint_detection_and_response:4.7.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:symantec:endpoint_detection_and_response:4.7.0",
+	"title": [
+		{
+			"text": "Symantec Endpoint Detection And Response 4.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/37xxx/CVE-2022-37015.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.213183#:~:text=This%20vulnerability%20is%20uniquely%20identified,4.7.0%20eliminates%20this%20vulnerability."
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:endpoint_detection_and_response:4.7.0:*:*:*:*:*:*:*"
+	}
 }

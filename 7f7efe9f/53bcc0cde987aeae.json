@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:mysql:5.4.2",
-  "title": [
-    {
-      "text": "Oracle MySQL 5.4.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mysql/mysql-server/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql:5.4.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql:5.4.2",
+	"title": [
+		{
+			"text": "Oracle MySQL 5.4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mysql/mysql-server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql:5.4.2:*:*:*:*:*:*:*"
+	}
 }

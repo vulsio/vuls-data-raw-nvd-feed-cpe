@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sap:infrabox:1.1.5",
-  "title": [
-    {
-      "text": "SAP InfraBox 1.1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/SAP/InfraBox/security/advisories/GHSA-gw7h-9xvm-83qh"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/SAP/InfraBox/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:infrabox:1.1.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sap:infrabox:1.1.5",
+	"title": [
+		{
+			"text": "SAP InfraBox 1.1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/SAP/InfraBox/security/advisories/GHSA-gw7h-9xvm-83qh"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/SAP/InfraBox/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:infrabox:1.1.5:*:*:*:*:*:*:*"
+	}
 }

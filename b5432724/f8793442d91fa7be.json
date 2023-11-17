@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:15.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T13:05:19.230Z",
-  "title": [
-    {
-      "text": "Pivotal Software Cloud Foundry (PCF) UAA BOSH 15.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2016-6637"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:15.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T09:05:19.230-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:15.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T13:05:19.230Z",
+	"title": [
+		{
+			"text": "Pivotal Software Cloud Foundry (PCF) UAA BOSH 15.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2016-6637"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:15.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T09:05:19.230-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

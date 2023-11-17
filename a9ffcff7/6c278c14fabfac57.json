@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redis-store:redis-store:1.1.0:rc1",
-  "title": [
-    {
-      "text": "redis-store 1.1.0 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/redis-store/redis-store/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://redis-store.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis-store:redis-store:1.1.0:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redis-store:redis-store:1.1.0:rc1",
+	"title": [
+		{
+			"text": "redis-store 1.1.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/redis-store/redis-store/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://redis-store.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis-store:redis-store:1.1.0:rc1:*:*:*:*:*:*"
+	}
 }

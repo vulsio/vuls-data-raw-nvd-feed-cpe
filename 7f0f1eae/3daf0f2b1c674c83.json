@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:typed-rest-client:1.5.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Microsoft Typed-rest-client 1.5.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/microsoft/typed-rest-client/security/advisories/GHSA-558p-m34m-vpmq"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/microsoft/typed-rest-client/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:typed-rest-client:1.5.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:microsoft:typed-rest-client:1.5.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Microsoft Typed-rest-client 1.5.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/microsoft/typed-rest-client/security/advisories/GHSA-558p-m34m-vpmq"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/typed-rest-client/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:typed-rest-client:1.5.0:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:maileon:maileon:2.3.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Maileon Maileon 2.3.1 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://maileon.com/more-maileon/about-us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/xqueue-maileon/wordpress-maileon-plugin-2-16-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/xqueue-maileon/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:maileon:maileon:2.3.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:maileon:maileon:2.3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Maileon Maileon 2.3.1 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://maileon.com/more-maileon/about-us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/xqueue-maileon/wordpress-maileon-plugin-2-16-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/xqueue-maileon/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:maileon:maileon:2.3.1:*:*:*:*:wordpress:*:*"
+	}
 }

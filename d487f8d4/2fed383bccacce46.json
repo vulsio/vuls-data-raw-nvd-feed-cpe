@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:redhat:fedora_core:6",
-  "deprecated": true,
-  "deprecation_date": "2022-02-03T17:19:40.583Z",
-  "title": [
-    {
-      "text": "Fedora Core 6",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:fedora_core:6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-03T12:19:40.583-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:fedoraproject:fedora_core:6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:redhat:fedora_core:6",
+	"deprecated": true,
+	"deprecation_date": "2022-02-03T17:19:40.583Z",
+	"title": [
+		{
+			"text": "Fedora Core 6",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:fedora_core:6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-03T12:19:40.583-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:fedoraproject:fedora_core:6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

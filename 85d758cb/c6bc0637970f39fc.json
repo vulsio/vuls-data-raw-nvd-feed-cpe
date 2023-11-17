@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:device42:remote_collector:-",
-  "title": [
-    {
-      "text": "Device42 Remote Collector (RC)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.device42.com/auto-discovery/remote-collector-rc/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.device42.com/2021/09/critical-fixes-in-17-05-01/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:device42:remote_collector:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:device42:remote_collector:-",
+	"title": [
+		{
+			"text": "Device42 Remote Collector (RC)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.device42.com/auto-discovery/remote-collector-rc/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.device42.com/2021/09/critical-fixes-in-17-05-01/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:device42:remote_collector:-:*:*:*:*:*:*:*"
+	}
 }

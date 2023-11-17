@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:4.19:-",
-  "title": [
-    {
-      "text": "Linux Kernel 4.19 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.kernel.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/torvalds/linux/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:4.19:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:4.19:-",
+	"title": [
+		{
+			"text": "Linux Kernel 4.19 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/torvalds/linux/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:4.19:-:*:*:*:*:*:*"
+	}
 }

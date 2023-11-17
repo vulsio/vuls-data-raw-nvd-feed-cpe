@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:weave.works:gitops:0.6.2:patch2:~~enterprise~~~",
-  "title": [
-    {
-      "text": "Weave.works Gitops 0.6.2 Patch 2 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/weaveworks/weave-gitops/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://docs.gitops.weave.works/security/cve/enterprise/CVE-2022-38790/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:weave.works:gitops:0.6.2:patch2:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:weave.works:gitops:0.6.2:patch2:~~enterprise~~~",
+	"title": [
+		{
+			"text": "Weave.works Gitops 0.6.2 Patch 2 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/weaveworks/weave-gitops/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://docs.gitops.weave.works/security/cve/enterprise/CVE-2022-38790/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:weave.works:gitops:0.6.2:patch2:*:*:enterprise:*:*:*"
+	}
 }

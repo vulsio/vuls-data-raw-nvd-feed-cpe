@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:zitadel:zitadel:2.31.8:rc2",
+	"title": [
+		{
+			"text": "Zitadel Zitadel 2.31.8 Release Candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://zitadel.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zitadel/zitadel/security/advisories/GHSA-7h8m-vrxx-vr4m"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/zitadel/zitadel/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zitadel:zitadel:2.31.8:rc2:*:*:*:*:*:*"
+	}
+}

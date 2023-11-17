@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:eset:endpoint_antivirus:6.7.900.0::~~-~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:44:31.790Z",
-  "title": [
-    {
-      "text": "ESET Endpoint Antivirus 6.7.900.0 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.eset.com/us/business/endpoint-security/mac-antivirus/download/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:endpoint_antivirus:6.7.900.0:*:*:*:-:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:44:31.790-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eset:endpoint_antivirus:6.7.900.0:*:*:*:-:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eset:endpoint_antivirus:6.7.900.0::~~-~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:44:31.790Z",
+	"title": [
+		{
+			"text": "ESET Endpoint Antivirus 6.7.900.0 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.eset.com/us/business/endpoint-security/mac-antivirus/download/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:endpoint_antivirus:6.7.900.0:*:*:*:-:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:44:31.790-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eset:endpoint_antivirus:6.7.900.0:*:*:*:-:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

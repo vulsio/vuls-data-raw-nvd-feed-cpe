@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:freedesktop:systemd:38",
-  "deprecated": true,
-  "deprecation_date": "2022-01-28T19:09:42.747Z",
-  "title": [
-    {
-      "text": "freedesktop Systemd 38",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/systemd/systemd"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freedesktop.org/wiki/Software/systemd/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/systemd/systemd/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freedesktop:systemd:38:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-28T14:09:42.747-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:systemd_project:systemd:38:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freedesktop:systemd:38",
+	"deprecated": true,
+	"deprecation_date": "2022-01-28T19:09:42.747Z",
+	"title": [
+		{
+			"text": "freedesktop Systemd 38",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/systemd/systemd"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freedesktop.org/wiki/Software/systemd/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/systemd/systemd/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freedesktop:systemd:38:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-28T14:09:42.747-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:systemd_project:systemd:38:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

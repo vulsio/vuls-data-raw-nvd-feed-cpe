@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:office:2016::~-~-~~-~",
-  "title": [
-    {
-      "text": "Microsoft Office 2016",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://technet.microsoft.com/library/security/ms16-004"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2016"
-    },
-    {
-      "text": "Product",
-      "href": "https://products.office.com/en-US/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*"
-  }
+	"name": "cpe:/a:microsoft:office:2016::~-~-~~-~",
+	"title": [
+		{
+			"text": "Microsoft Office 2016",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://technet.microsoft.com/library/security/ms16-004"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2016"
+		},
+		{
+			"text": "Product",
+			"href": "https://products.office.com/en-US/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_7:-:-:x64",
-  "deprecated": true,
-  "deprecation_date": "2016-08-04T13:30:32.480Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 7 64-bit (intial release)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_7:-:-:x64:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-08-04T09:30:32.480-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_7:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_7:-:-:x64",
+	"deprecated": true,
+	"deprecation_date": "2016-08-04T13:30:32.480Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 7 64-bit (intial release)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_7:-:-:x64:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-08-04T09:30:32.480-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_7:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

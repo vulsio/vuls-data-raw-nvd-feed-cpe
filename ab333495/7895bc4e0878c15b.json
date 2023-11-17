@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:barbican:3.0.0:beta3",
-  "title": [
-    {
-      "text": "Openstack Barbican 3.0.0 Beta 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/barbican/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2022-23452"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:barbican:3.0.0:beta3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:barbican:3.0.0:beta3",
+	"title": [
+		{
+			"text": "Openstack Barbican 3.0.0 Beta 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/barbican/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2022-23452"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:barbican:3.0.0:beta3:*:*:*:*:*:*"
+	}
 }

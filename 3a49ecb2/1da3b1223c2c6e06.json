@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:lightbend:akka_actor:2.5.14",
-  "title": [
-    {
-      "text": "Lightbend Akka Actor 2.5.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://developer.lightbend.com/docs/akka-guide/concepts/akka-actor.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.lightbend.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://akka.io/security/akka-async-dns-2023-31442.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lightbend:akka_actor:2.5.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:lightbend:akka_actor:2.5.14",
+	"title": [
+		{
+			"text": "Lightbend Akka Actor 2.5.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.lightbend.com/docs/akka-guide/concepts/akka-actor.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.lightbend.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://akka.io/security/akka-async-dns-2023-31442.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lightbend:akka_actor:2.5.14:*:*:*:*:*:*:*"
+	}
 }

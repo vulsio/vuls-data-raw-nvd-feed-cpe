@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:pingidentity:pingfederate:-",
-  "title": [
-    {
-      "text": "Ping Identity PingFederate",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pingidentity.com/r/en-us/pingfederate-110/pingfed-releasenotes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40724.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pingidentity:pingfederate:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pingidentity:pingfederate:-",
+	"title": [
+		{
+			"text": "Ping Identity PingFederate",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pingidentity.com/r/en-us/pingfederate-110/pingfed-releasenotes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40724.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pingidentity:pingfederate:-:*:*:*:*:*:*:*"
+	}
 }

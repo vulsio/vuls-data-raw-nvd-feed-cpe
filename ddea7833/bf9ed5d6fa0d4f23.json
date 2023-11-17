@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:heiglandreas:authldap:2.3.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Andreas Heigl (heiglandreas) authLdap 2.3.0 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/heiglandreas/authLdap"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/authldap/wordpress-authldap-plugin-2-5-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/authldap/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:heiglandreas:authldap:2.3.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:heiglandreas:authldap:2.3.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Andreas Heigl (heiglandreas) authLdap 2.3.0 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/heiglandreas/authLdap"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/authldap/wordpress-authldap-plugin-2-5-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/authldap/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:heiglandreas:authldap:2.3.0:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:security_manager:4.14:sp2",
-  "title": [
-    {
-      "text": "Cisco Security Manager 4.14 Service Pack 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190619-csm-xml"
-    },
-    {
-      "text": "Version",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp33120"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:security_manager:4.14:sp2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:security_manager:4.14:sp2",
+	"title": [
+		{
+			"text": "Cisco Security Manager 4.14 Service Pack 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190619-csm-xml"
+		},
+		{
+			"text": "Version",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp33120"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:security_manager:4.14:sp2:*:*:*:*:*:*"
+	}
 }

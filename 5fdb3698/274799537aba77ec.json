@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:fiberhome:an5506-04-fa_firmware:rp2631",
-  "title": [
-    {
-      "text": "FiberHome AN5506-04-FA Firmware RP2631",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.fiberhome.com/en/default.aspx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pierrekim.github.io/blog/2021-01-12-fiberhome-ont-0day-vulnerabilities.html#telnet-cli-hardcoded-credentials"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/27xxx/CVE-2021-27169.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fiberhome:an5506-04-fa_firmware:rp2631:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:fiberhome:an5506-04-fa_firmware:rp2631",
+	"title": [
+		{
+			"text": "FiberHome AN5506-04-FA Firmware RP2631",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.fiberhome.com/en/default.aspx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pierrekim.github.io/blog/2021-01-12-fiberhome-ont-0day-vulnerabilities.html#telnet-cli-hardcoded-credentials"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/27xxx/CVE-2021-27169.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fiberhome:an5506-04-fa_firmware:rp2631:*:*:*:*:*:*:*"
+	}
 }

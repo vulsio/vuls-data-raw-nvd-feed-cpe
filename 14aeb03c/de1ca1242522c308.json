@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:cisco:isrv:-",
-  "title": [
-    {
-      "text": "Cisco Isrv -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/enterprise-network-functions-virtualization-nfv/datasheet-c78-736768.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvn65912"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-alg"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:isrv:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cisco:isrv:-",
+	"title": [
+		{
+			"text": "Cisco Isrv -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/enterprise-network-functions-virtualization-nfv/datasheet-c78-736768.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvn65912"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-sip-alg"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:isrv:-:*:*:*:*:*:*:*"
+	}
 }

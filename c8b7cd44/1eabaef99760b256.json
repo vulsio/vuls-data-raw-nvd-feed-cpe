@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:go-vela:worker:0.10.1",
-  "title": [
-    {
-      "text": "Vela Worker 0.10.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/go-vela/worker/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/go-vela/server/security/advisories/GHSA-5m7g-pj8w-7593"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:go-vela:worker:0.10.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:go-vela:worker:0.10.1",
+	"title": [
+		{
+			"text": "Vela Worker 0.10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/go-vela/worker/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/go-vela/server/security/advisories/GHSA-5m7g-pj8w-7593"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:go-vela:worker:0.10.1:*:*:*:*:*:*:*"
+	}
 }

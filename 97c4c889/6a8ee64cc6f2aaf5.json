@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:wp-social-bookmarking-light_project:wp-social-bookmarking-light:1.7.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2019-10-03T18:14:11.087Z",
-  "title": [
-    {
-      "text": "Wp-social-bookmarking-light Project Wp-social-bookmarking-light 1.7.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpvulndb.com/vulnerabilities/8252"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-social-bookmarking-light/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp-social-bookmarking-light_project:wp-social-bookmarking-light:1.7.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2019-10-03T14:14:11.087-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wp_social_bookmarking_light_project:wp_social_bookmarking_light:1.7.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wp-social-bookmarking-light_project:wp-social-bookmarking-light:1.7.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2019-10-03T18:14:11.087Z",
+	"title": [
+		{
+			"text": "Wp-social-bookmarking-light Project Wp-social-bookmarking-light 1.7.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpvulndb.com/vulnerabilities/8252"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-social-bookmarking-light/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-social-bookmarking-light_project:wp-social-bookmarking-light:1.7.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2019-10-03T14:14:11.087-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wp_social_bookmarking_light_project:wp_social_bookmarking_light:1.7.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

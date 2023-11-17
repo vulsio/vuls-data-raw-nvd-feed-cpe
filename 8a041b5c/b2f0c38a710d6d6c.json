@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:emc:vplex_geosynchrony:5.5",
-  "title": [
-    {
-      "text": "EMC VPLEX GeoSynchrony 5.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.emc.com/collateral/hardware/white-papers/h8232-vplex-architecture-wp.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://seclists.org/bugtraq/2015/Dec/att-130/ESA-2015-179.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:vplex_geosynchrony:5.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:emc:vplex_geosynchrony:5.5",
+	"title": [
+		{
+			"text": "EMC VPLEX GeoSynchrony 5.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.emc.com/collateral/hardware/white-papers/h8232-vplex-architecture-wp.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://seclists.org/bugtraq/2015/Dec/att-130/ESA-2015-179.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:vplex_geosynchrony:5.5:*:*:*:*:*:*:*"
+	}
 }

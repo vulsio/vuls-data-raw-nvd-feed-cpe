@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:go-vela:compiler:0.2.0:rc2",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T18:48:45.350Z",
-  "title": [
-    {
-      "text": "Go-vela Compiler 0.2.0 Release Candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://go-vela.github.io/docs/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/go-vela/compiler/security/advisories/GHSA-gv2h-gf8m-r68j"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/go-vela/compiler/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:go-vela:compiler:0.2.0:rc2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T14:48:45.350-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:target:compiler:0.2.0:rc2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:go-vela:compiler:0.2.0:rc2",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T18:48:45.350Z",
+	"title": [
+		{
+			"text": "Go-vela Compiler 0.2.0 Release Candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://go-vela.github.io/docs/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/go-vela/compiler/security/advisories/GHSA-gv2h-gf8m-r68j"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/go-vela/compiler/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:go-vela:compiler:0.2.0:rc2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T14:48:45.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:target:compiler:0.2.0:rc2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

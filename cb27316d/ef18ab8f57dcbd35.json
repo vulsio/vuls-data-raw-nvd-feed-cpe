@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jobconfighistory_project:jobconfighistory:1.12::~~~jenkins~~",
-  "title": [
-    {
-      "text": "JobConfigHistory Project JobConfigHistory 1.12 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wiki.jenkins.io/display/JENKINS/JobConfigHistory+Plugin"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/jobConfigHistory-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jobconfighistory_project:jobconfighistory:1.12:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jobconfighistory_project:jobconfighistory:1.12::~~~jenkins~~",
+	"title": [
+		{
+			"text": "JobConfigHistory Project JobConfigHistory 1.12 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wiki.jenkins.io/display/JENKINS/JobConfigHistory+Plugin"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/jobConfigHistory-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jobconfighistory_project:jobconfighistory:1.12:*:*:*:*:jenkins:*:*"
+	}
 }

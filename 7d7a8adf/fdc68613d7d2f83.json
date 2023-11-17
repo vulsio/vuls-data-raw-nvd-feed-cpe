@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:starwindsoftware:starwind_virtual_san:v18r13:14338",
-  "deprecated": true,
-  "deprecation_date": "2022-10-24T13:05:23.460Z",
-  "title": [
-    {
-      "text": "StarWind Virtual SAN (VSAN) V8 R13 build 14338",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.starwindsoftware.com/security/sw-20220829-0001/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.starwindsoftware.com/starwind-virtual-san"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.starwindsoftware.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.starwindsoftware.com/release-notes-build-vsan-for-vmware-vsphere"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v18r13:14338:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-24T09:05:23.460-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8r13:14338:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:starwindsoftware:starwind_virtual_san:v18r13:14338",
+	"deprecated": true,
+	"deprecation_date": "2022-10-24T13:05:23.460Z",
+	"title": [
+		{
+			"text": "StarWind Virtual SAN (VSAN) V8 R13 build 14338",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.starwindsoftware.com/security/sw-20220829-0001/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.starwindsoftware.com/starwind-virtual-san"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.starwindsoftware.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.starwindsoftware.com/release-notes-build-vsan-for-vmware-vsphere"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v18r13:14338:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-24T09:05:23.460-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:starwindsoftware:starwind_virtual_san:v8r13:14338:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

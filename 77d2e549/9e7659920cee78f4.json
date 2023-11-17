@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:abb:asset_suite:9.6.0",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:06:08.790Z",
-  "title": [
-    {
-      "text": "ABB Asset Suite 9.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://new.abb.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107492A9962&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:asset_suite:9.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:06:08.790-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:asset_suite:9.6.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:abb:asset_suite:9.6.0",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:06:08.790Z",
+	"title": [
+		{
+			"text": "ABB Asset Suite 9.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://new.abb.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107492A9962&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:asset_suite:9.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:06:08.790-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:asset_suite:9.6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

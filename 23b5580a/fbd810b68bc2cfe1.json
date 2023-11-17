@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:freebsd:advanced_intrusion_detection_environment:-",
-  "title": [
-    {
-      "text": "FreeBSD Advanced Intrusion Detection Environment (AIDE)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.freebsd.org/cgi/man.cgi?query=aide&manpath=ports&sektion=1"
-    },
-    {
-      "text": "Product",
-      "href": "https://aide.github.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2002/2xxx/CVE-2002-2199.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freebsd:advanced_intrusion_detection_environment:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:freebsd:advanced_intrusion_detection_environment:-",
+	"title": [
+		{
+			"text": "FreeBSD Advanced Intrusion Detection Environment (AIDE)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.freebsd.org/cgi/man.cgi?query=aide&manpath=ports&sektion=1"
+		},
+		{
+			"text": "Product",
+			"href": "https://aide.github.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2002/2xxx/CVE-2002-2199.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freebsd:advanced_intrusion_detection_environment:-:*:*:*:*:*:*:*"
+	}
 }

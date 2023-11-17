@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mysqljs:mysql:2.2.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "MySqlJS MySQL 2.2.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.npmjs.com/package/mysql"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.mysqljs.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mysqljs/mysql/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mysqljs:mysql:2.2.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:mysqljs:mysql:2.2.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "MySqlJS MySQL 2.2.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.npmjs.com/package/mysql"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.mysqljs.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mysqljs/mysql/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mysqljs:mysql:2.2.0:*:*:*:*:node.js:*:*"
+	}
 }

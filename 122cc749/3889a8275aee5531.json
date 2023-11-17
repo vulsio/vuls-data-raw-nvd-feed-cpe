@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:dji:zenmuse_x7:-",
-  "title": [
-    {
-      "text": "DJI ZENMUSE X7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.dji.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.theverge.com/2022/4/28/23046916/dji-aeroscope-signals-not-encrypted-drone-tracking"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/29xxx/CVE-2022-29945.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dji:zenmuse_x7:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dji:zenmuse_x7:-",
+	"title": [
+		{
+			"text": "DJI ZENMUSE X7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.dji.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.theverge.com/2022/4/28/23046916/dji-aeroscope-signals-not-encrypted-drone-tracking"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/29xxx/CVE-2022-29945.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dji:zenmuse_x7:-:*:*:*:*:*:*:*"
+	}
 }

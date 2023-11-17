@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jupyter:jupyterhub:1.5.0",
-  "title": [
-    {
-      "text": "Jupyter JupyterHub 1.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jupyter.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://jupyterhub.readthedocs.io/en/stable/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jupyterhub/jupyterhub/security/advisories/GHSA-cw7p-q79f-m2v7"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jupyter:jupyterhub:1.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:jupyter:jupyterhub:1.5.0",
+	"title": [
+		{
+			"text": "Jupyter JupyterHub 1.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jupyter.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://jupyterhub.readthedocs.io/en/stable/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jupyterhub/jupyterhub/security/advisories/GHSA-cw7p-q79f-m2v7"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jupyter:jupyterhub:1.5.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:x.org:x_server:1.20.11",
-  "title": [
-    {
-      "text": "X.Org X Server 1.20.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.x.org/releases/individual/xserver/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zerodayinitiative.com/advisories/ZDI-21-463/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2021/04/13/1"
-    },
-    {
-      "text": "Version",
-      "href": "https://gitlab.freedesktop.org/xorg/xserver/-/tree/xorg-server-1.20.11"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:x.org:x_server:1.20.11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:x.org:x_server:1.20.11",
+	"title": [
+		{
+			"text": "X.Org X Server 1.20.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.x.org/releases/individual/xserver/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zerodayinitiative.com/advisories/ZDI-21-463/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/04/13/1"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitlab.freedesktop.org/xorg/xserver/-/tree/xorg-server-1.20.11"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:x.org:x_server:1.20.11:*:*:*:*:*:*:*"
+	}
 }

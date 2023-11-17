@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:paolo_bacchilega:file_roller:3.6.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-26T14:56:10.083Z",
-  "title": [
-    {
-      "text": "Paolo Bacchilega File Roller 3.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paolo_bacchilega:file_roller:3.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-26T10:56:10.083-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:file_roller_project:file_roller:3.6.0:*:*:*:*:gnome:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:paolo_bacchilega:file_roller:3.6.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-26T14:56:10.083Z",
+	"title": [
+		{
+			"text": "Paolo Bacchilega File Roller 3.6.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paolo_bacchilega:file_roller:3.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-26T10:56:10.083-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:file_roller_project:file_roller:3.6.0:*:*:*:*:gnome:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

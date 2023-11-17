@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:tar_project:tar:-",
-  "title": [
-    {
-      "text": "Tar Project Tar -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2018-0002.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/alexcrichton/tar-rs/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tar_project:tar:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:tar_project:tar:-",
+	"title": [
+		{
+			"text": "Tar Project Tar -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2018-0002.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/alexcrichton/tar-rs/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tar_project:tar:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:identity_manager:12.0.7.441",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T16:53:11.850Z",
-  "title": [
-    {
-      "text": "Ca Identity Manager 12.0.7.441",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T12:53:11.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:identity_manager:12.0.7.441",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T16:53:11.850Z",
+	"title": [
+		{
+			"text": "Ca Identity Manager 12.0.7.441",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T12:53:11.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:identity_manager:12.0.7.441:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

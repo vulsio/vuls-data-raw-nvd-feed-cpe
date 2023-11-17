@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:docker:registry:2.5.1",
-  "title": [
-    {
-      "text": "Docker Registry 2.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/docker/distribution/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:registry:2.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:registry:2.5.1",
+	"title": [
+		{
+			"text": "Docker Registry 2.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/docker/distribution/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:registry:2.5.1:*:*:*:*:*:*:*"
+	}
 }

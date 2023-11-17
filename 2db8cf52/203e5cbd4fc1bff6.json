@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:midgard-project:midguard2:10.05.7.1",
-  "deprecated": true,
-  "deprecation_date": "2015-01-27T18:17:24.137Z",
-  "title": [
-    {
-      "text": "Midgard-project Midguard2 10.05.7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product version information",
-      "href": "https://github.com/midgardproject/midgard-core/releases"
-    },
-    {
-      "text": "Vendor Website",
-      "href": "http://midgard-project.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:midgard-project:midguard2:10.05.7.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2015-01-27T13:17:24.137-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:midgard-project:midgard2:10.05.7.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:midgard-project:midguard2:10.05.7.1",
+	"deprecated": true,
+	"deprecation_date": "2015-01-27T18:17:24.137Z",
+	"title": [
+		{
+			"text": "Midgard-project Midguard2 10.05.7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product version information",
+			"href": "https://github.com/midgardproject/midgard-core/releases"
+		},
+		{
+			"text": "Vendor Website",
+			"href": "http://midgard-project.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:midgard-project:midguard2:10.05.7.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2015-01-27T13:17:24.137-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:midgard-project:midgard2:10.05.7.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

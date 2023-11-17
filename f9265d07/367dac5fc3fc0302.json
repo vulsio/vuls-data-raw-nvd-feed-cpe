@@ -1,34 +1,34 @@
 {
-  "name": "cpe:/a:siemens:desigo_cc:5.0",
-  "title": [
-    {
-      "text": "Siemens Desigo CC 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://signin.siemens.com/regpublic/Login.aspx?layer=false&lang=en&regionKey=ww&app=SIOS&ret=https%3A%2F%2Fsupport.industry.siemens.com%2Fcs%2Fdocument%2F109799908%2F%3Flc%3Den-ww%26_nct%3D1694782231%26si%3Dtrue"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-257-18"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-535380.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-453715.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.siemens.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:desigo_cc:5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:siemens:desigo_cc:5.0",
+	"title": [
+		{
+			"text": "Siemens Desigo CC 5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://signin.siemens.com/regpublic/Login.aspx?layer=false&lang=en&regionKey=ww&app=SIOS&ret=https%3A%2F%2Fsupport.industry.siemens.com%2Fcs%2Fdocument%2F109799908%2F%3Flc%3Den-ww%26_nct%3D1694782231%26si%3Dtrue"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-257-18"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-535380.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-453715.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.siemens.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:desigo_cc:5.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:cisco:wireless_lan_controller_software:8.0.72.140",
-  "deprecated": true,
-  "deprecation_date": "2016-01-19T15:02:50.947Z",
-  "title": [
-    {
-      "text": "Cisco Wireless LAN Controller (WLC) Software 8.0.72.140",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/en/us/products/wireless/wireless-lan-controller/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:wireless_lan_controller_software:8.0.72.140:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-01-19T10:02:50.947-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:wireless_lan_controller_software:8.0.72.140:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:wireless_lan_controller_software:8.0.72.140",
+	"deprecated": true,
+	"deprecation_date": "2016-01-19T15:02:50.947Z",
+	"title": [
+		{
+			"text": "Cisco Wireless LAN Controller (WLC) Software 8.0.72.140",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/en/us/products/wireless/wireless-lan-controller/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:wireless_lan_controller_software:8.0.72.140:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-01-19T10:02:50.947-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:wireless_lan_controller_software:8.0.72.140:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

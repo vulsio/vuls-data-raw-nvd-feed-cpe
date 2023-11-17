@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:elixir_alpine_docker_image:1.6.4",
-  "title": [
-    {
-      "text": "Docker Elixir Alpine Docker Image 1.6.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/elixir"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29575"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:elixir_alpine_docker_image:1.6.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:elixir_alpine_docker_image:1.6.4",
+	"title": [
+		{
+			"text": "Docker Elixir Alpine Docker Image 1.6.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/elixir"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29575"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:elixir_alpine_docker_image:1.6.4:*:*:*:*:*:*:*"
+	}
 }

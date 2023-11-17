@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:freetype:freetype2:2.4.12",
-  "deprecated": true,
-  "deprecation_date": "2021-01-26T12:33:18.657Z",
-  "title": [
-    {
-      "text": "Freetype Freetype2 2.4.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://git.savannah.gnu.org/cgit/freetype/freetype2.git/refs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freetype:freetype2:2.4.12:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-26T07:33:18.657-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:freetype:freetype:2.4.12:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freetype:freetype2:2.4.12",
+	"deprecated": true,
+	"deprecation_date": "2021-01-26T12:33:18.657Z",
+	"title": [
+		{
+			"text": "Freetype Freetype2 2.4.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://git.savannah.gnu.org/cgit/freetype/freetype2.git/refs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freetype:freetype2:2.4.12:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-26T07:33:18.657-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:freetype:freetype:2.4.12:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

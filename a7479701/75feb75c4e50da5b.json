@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~x64~~",
-  "deprecated": true,
-  "deprecation_date": "2020-09-28T12:58:05.713Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 R2 Service Pack 1 for X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8393"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=5023"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:x64:*:*",
-    "deprecation": {
-      "date": "2020-09-28T08:58:05.713-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2008:r2:sp1:~~~x64~~",
+	"deprecated": true,
+	"deprecation_date": "2020-09-28T12:58:05.713Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 R2 Service Pack 1 for X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8393"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=5023"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:x64:*:*",
+		"deprecation": {
+			"date": "2020-09-28T08:58:05.713-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2008:r2:sp1:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

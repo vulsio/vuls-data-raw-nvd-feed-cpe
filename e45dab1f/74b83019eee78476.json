@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:zoom:zoom:0.92.12606.1105::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:35:37.280Z",
-  "title": [
-    {
-      "text": "Zoom 0.92.12606.1105 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://support.zoom.us/hc/en-us/articles/201361953-New-Updates-for-Windows"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:zoom:0.92.12606.1105:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:35:37.280-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zoom:zoom:0.92.12606.1105:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zoom:zoom:0.92.12606.1105::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:35:37.280Z",
+	"title": [
+		{
+			"text": "Zoom 0.92.12606.1105 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://support.zoom.us/hc/en-us/articles/201361953-New-Updates-for-Windows"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:zoom:0.92.12606.1105:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:35:37.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zoom:zoom:0.92.12606.1105:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:broadcom:xcom_data_transport:11.6::~~~windows~~",
-  "title": [
-    {
-      "text": "Broadcom XCOM Data Transport 11.6 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/XCOM-Data-Transport---Windows-and-XCOM-Data-Transport--Linux--UNIX-Vulnerability-CVE-2022-23992/18750"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23992.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:broadcom:xcom_data_transport:11.6:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:broadcom:xcom_data_transport:11.6::~~~windows~~",
+	"title": [
+		{
+			"text": "Broadcom XCOM Data Transport 11.6 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/XCOM-Data-Transport---Windows-and-XCOM-Data-Transport--Linux--UNIX-Vulnerability-CVE-2022-23992/18750"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/23xxx/CVE-2022-23992.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:xcom_data_transport:11.6:*:*:*:*:windows:*:*"
+	}
 }

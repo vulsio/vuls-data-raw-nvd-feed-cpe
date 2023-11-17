@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:rename_wp-login_project:rename_wp-login:2.6.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Rename WP-login Project Rename WP-login 2.6.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/3620a087-032e-4a5f-99c8-f9e7e9c29813"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/rename-wp-login/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rename_wp-login_project:rename_wp-login:2.6.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:rename_wp-login_project:rename_wp-login:2.6.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Rename WP-login Project Rename WP-login 2.6.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/3620a087-032e-4a5f-99c8-f9e7e9c29813"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/rename-wp-login/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rename_wp-login_project:rename_wp-login:2.6.0:*:*:*:*:wordpress:*:*"
+	}
 }

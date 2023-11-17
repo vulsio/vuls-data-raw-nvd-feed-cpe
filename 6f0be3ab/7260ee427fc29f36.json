@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:openshift:3.11.188-4",
-  "title": [
-    {
-      "text": "Red Hat Openshift 3.11.188-4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-19348"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift:3.11.188-4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift:3.11.188-4",
+	"title": [
+		{
+			"text": "Red Hat Openshift 3.11.188-4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2019-19348"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift:3.11.188-4:*:*:*:*:*:*:*"
+	}
 }

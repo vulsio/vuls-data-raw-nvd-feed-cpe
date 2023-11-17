@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:adguard:adguardhome:0.108:beta1",
-  "title": [
-    {
-      "text": "AdGuard AdGuard Home 0.108 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.mend.io/vulnerability-database/CVE-2022-32175"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/AdguardTeam/AdGuardHome/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adguard:adguardhome:0.108:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:adguard:adguardhome:0.108:beta1",
+	"title": [
+		{
+			"text": "AdGuard AdGuard Home 0.108 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.mend.io/vulnerability-database/CVE-2022-32175"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/AdguardTeam/AdGuardHome/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adguard:adguardhome:0.108:beta1:*:*:*:*:*:*"
+	}
 }

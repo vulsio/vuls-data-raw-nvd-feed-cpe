@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:squaredup:squaredup:-::~~~system_center_operations_manager~~",
-  "deprecated": true,
-  "deprecation_date": "2021-12-09T14:09:43.287Z",
-  "title": [
-    {
-      "text": "SquaredUp for System Center Operations Manager (SCOM)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.squaredup.com/hc/en-us/articles/360017568238"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:*:system_center_operations_manager:*:*",
-    "deprecation": {
-      "date": "2021-12-09T09:09:43.287-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:system_center_operations_manager:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:squaredup:squaredup:-::~~~system_center_operations_manager~~",
+	"deprecated": true,
+	"deprecation_date": "2021-12-09T14:09:43.287Z",
+	"title": [
+		{
+			"text": "SquaredUp for System Center Operations Manager (SCOM)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.squaredup.com/hc/en-us/articles/360017568238"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:*:system_center_operations_manager:*:*",
+		"deprecation": {
+			"date": "2021-12-09T09:09:43.287-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:squaredup:squaredup:-:*:*:*:system_center_operations_manager:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

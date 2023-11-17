@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:live555:streaming_media:2012.11.16",
-  "deprecated": true,
-  "deprecation_date": "2019-09-12T12:13:07.080Z",
-  "title": [
-    {
-      "text": "LIVE555 Streaming Media 2012.11.16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://www.live555.com/liveMedia/public/changelog.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:live555:streaming_media:2012.11.16:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-12T08:13:07.080-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:live555:streaming_media:2012-11-16:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:live555:streaming_media:2012.11.16",
+	"deprecated": true,
+	"deprecation_date": "2019-09-12T12:13:07.080Z",
+	"title": [
+		{
+			"text": "LIVE555 Streaming Media 2012.11.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://www.live555.com/liveMedia/public/changelog.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:live555:streaming_media:2012.11.16:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-12T08:13:07.080-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:live555:streaming_media:2012-11-16:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

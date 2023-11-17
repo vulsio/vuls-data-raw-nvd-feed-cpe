@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:docker:1.1.1",
-  "title": [
-    {
-      "text": "Docker 1.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.docker.com/release-notes/docker-engine/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.docker.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker:1.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:docker:1.1.1",
+	"title": [
+		{
+			"text": "Docker 1.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.docker.com/release-notes/docker-engine/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.docker.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker:1.1.1:*:*:*:*:*:*:*"
+	}
 }

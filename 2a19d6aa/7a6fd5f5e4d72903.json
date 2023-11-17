@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:connect2id:nimbus_jose%2bjwt:3.4",
-  "title": [
-    {
-      "text": "Connect2id Nimbus JOSE + JWT 3.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://bitbucket.org/connect2id/nimbus-jose-jwt/src/master/CHANGELOG.txt"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://connect2id.com/products/nimbus-jose-jwt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:connect2id:nimbus_jose\\+jwt:3.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:connect2id:nimbus_jose%2bjwt:3.4",
+	"title": [
+		{
+			"text": "Connect2id Nimbus JOSE + JWT 3.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://bitbucket.org/connect2id/nimbus-jose-jwt/src/master/CHANGELOG.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://connect2id.com/products/nimbus-jose-jwt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:connect2id:nimbus_jose\\+jwt:3.4:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:google:android:12l",
-  "deprecated": true,
-  "deprecation_date": "2023-07-20T15:25:53.757Z",
-  "title": [
-    {
-      "text": "Google Android 12L",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://source.android.com/setup/start/android-12-release"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.android.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:google:android:12l:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-07-20T11:25:53.757-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:google:android:12.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:google:android:12l",
+	"deprecated": true,
+	"deprecation_date": "2023-07-20T15:25:53.757Z",
+	"title": [
+		{
+			"text": "Google Android 12L",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://source.android.com/setup/start/android-12-release"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.android.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:google:android:12l:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-07-20T11:25:53.757-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:google:android:12.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

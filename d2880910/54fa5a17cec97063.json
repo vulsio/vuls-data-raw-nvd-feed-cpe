@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:genua:genuagate:6.3",
-  "title": [
-    {
-      "text": "genua genugate 6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sec-consult.com/vulnerability-lab/advisory/authentication-bypass-genua-genugate/"
-    },
-    {
-      "text": "Version",
-      "href": "https://kunde.genua.de/en/downloads/release-notes.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://kunde.genua.de/en/overview/genugate.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.genua.de/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:genua:genuagate:6.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:genua:genuagate:6.3",
+	"title": [
+		{
+			"text": "genua genugate 6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec-consult.com/vulnerability-lab/advisory/authentication-bypass-genua-genugate/"
+		},
+		{
+			"text": "Version",
+			"href": "https://kunde.genua.de/en/downloads/release-notes.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://kunde.genua.de/en/overview/genugate.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.genua.de/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:genua:genuagate:6.3:*:*:*:*:*:*:*"
+	}
 }

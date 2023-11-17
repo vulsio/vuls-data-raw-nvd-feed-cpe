@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:dynamics_365:9.0.45.11::~~on-premises~~~",
-  "title": [
-    {
-      "text": "Microsoft Dynamics 365 9.0.45.11 On-premises Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.microsoft.com/en-us/topic/service-update-0-45-for-microsoft-dynamics-crm-on-premises-9-0-94db0a32-7b5b-467f-97e2-5d4736371d36"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21570"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:dynamics_365:9.0.45.11:*:*:*:on-premises:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:dynamics_365:9.0.45.11::~~on-premises~~~",
+	"title": [
+		{
+			"text": "Microsoft Dynamics 365 9.0.45.11 On-premises Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.microsoft.com/en-us/topic/service-update-0-45-for-microsoft-dynamics-crm-on-premises-9-0-94db0a32-7b5b-467f-97e2-5d4736371d36"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21570"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:dynamics_365:9.0.45.11:*:*:*:on-premises:*:*:*"
+	}
 }

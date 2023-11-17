@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:netgear:jnr3210_firmware:-",
-  "title": [
-    {
-      "text": "NETGEAR JNR3210 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://kb.netgear.com/000062304/Security-Advisory-for-Authentication-Bypass-on-Some-Routers-PSV-2020-0258"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.netgear.com/support/product/JNR3210.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netgear:jnr3210_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netgear:jnr3210_firmware:-",
+	"title": [
+		{
+			"text": "NETGEAR JNR3210 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://kb.netgear.com/000062304/Security-Advisory-for-Authentication-Bypass-on-Some-Routers-PSV-2020-0258"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.netgear.com/support/product/JNR3210.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netgear:jnr3210_firmware:-:*:*:*:*:*:*:*"
+	}
 }

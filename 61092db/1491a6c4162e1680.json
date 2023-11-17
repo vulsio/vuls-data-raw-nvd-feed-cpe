@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:browserid_project:browserid:7.x-1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-01-27T16:28:37.087Z",
-  "title": [
-    {
-      "text": "Browserid Project Browserid 7.x-1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.drupal.org/node/1596464"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-27T11:28:37.087-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:drupal:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:browserid_project:browserid:7.x-1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-01-27T16:28:37.087Z",
+	"title": [
+		{
+			"text": "Browserid Project Browserid 7.x-1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.drupal.org/node/1596464"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-27T11:28:37.087-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:drupal:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

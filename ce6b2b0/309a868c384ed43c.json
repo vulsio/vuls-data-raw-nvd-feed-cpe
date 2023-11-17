@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:oracle:mysql_cluster:7.2.27",
-  "title": [
-    {
-      "text": "Oracle MySQL Cluster 7.2.27",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html#AppendixMSQL"
-    },
-    {
-      "text": "Version",
-      "href": "https://forums.mysql.com/read.php?3,654345,654345"
-    },
-    {
-      "text": "Version",
-      "href": "https://forums.mysql.com/read.php?3,654343,654343,quote=1"
-    },
-    {
-      "text": "Version",
-      "href": "https://dev.mysql.com/doc/relnotes/mysql-cluster/7.5/en/mysql-cluster-news-7-5-5.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql_cluster:7.2.27:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql_cluster:7.2.27",
+	"title": [
+		{
+			"text": "Oracle MySQL Cluster 7.2.27",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html#AppendixMSQL"
+		},
+		{
+			"text": "Version",
+			"href": "https://forums.mysql.com/read.php?3,654345,654345"
+		},
+		{
+			"text": "Version",
+			"href": "https://forums.mysql.com/read.php?3,654343,654343,quote=1"
+		},
+		{
+			"text": "Version",
+			"href": "https://dev.mysql.com/doc/relnotes/mysql-cluster/7.5/en/mysql-cluster-news-7-5-5.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql_cluster:7.2.27:*:*:*:*:*:*:*"
+	}
 }

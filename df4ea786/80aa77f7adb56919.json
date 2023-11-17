@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:neetcables:airstream_nas1.1_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T13:16:31.117Z",
-  "title": [
-    {
-      "text": "Neetcables Airstream Nas1.1 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentestpartners.com/security-blog/a-neet-csrf-to-reverse-shell-in-wi-fi-music-streamer/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.neetcables.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:neetcables:airstream_nas1.1_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-24T09:16:31.117-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:neetcables:airstream_nas1.1_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T13:16:31.117Z",
+	"title": [
+		{
+			"text": "Neetcables Airstream Nas1.1 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentestpartners.com/security-blog/a-neet-csrf-to-reverse-shell-in-wi-fi-music-streamer/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.neetcables.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:neetcables:airstream_nas1.1_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-24T09:16:31.117-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:neetcables:airstream_nas_firmware:1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

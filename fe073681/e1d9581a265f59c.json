@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:yaml_project:yaml:2.2.3::~~~go~~",
-  "title": [
-    {
-      "text": "YAML Project YAML 2.2.3 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://pkg.go.dev/gopkg.in/yaml.v3"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/go-yaml/yaml"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/go-yaml/yaml/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yaml_project:yaml:2.2.3:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:yaml_project:yaml:2.2.3::~~~go~~",
+	"title": [
+		{
+			"text": "YAML Project YAML 2.2.3 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://pkg.go.dev/gopkg.in/yaml.v3"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/go-yaml/yaml"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/go-yaml/yaml/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yaml_project:yaml:2.2.3:*:*:*:*:go:*:*"
+	}
 }

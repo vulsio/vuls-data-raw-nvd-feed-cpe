@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:krakend:krakend:-::~~enterprise~~~",
-  "title": [
-    {
-      "text": "KrakenD Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.krakend.io/docs/enterprise/overview/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.krakend.io/blog/cve-2022-1561-crafted-backend-urls/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:krakend:krakend:-::~~enterprise~~~",
+	"title": [
+		{
+			"text": "KrakenD Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.krakend.io/docs/enterprise/overview/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.krakend.io/blog/cve-2022-1561-crafted-backend-urls/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:krakend:krakend:-:*:*:*:enterprise:*:*:*"
+	}
 }

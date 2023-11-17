@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:true:idc_chromebook_11:-",
-  "title": [
-    {
-      "text": "True IDC Chromebook 11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.trueidc.com/en/news-detail/42/TrueIDC-Chromebook-11-End-of-Life-and-end-of-Support-Announcement"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sites.google.com/a/chromium.org/dev/chromium-os/tpm_firmware_update"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:true:idc_chromebook_11:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:true:idc_chromebook_11:-",
+	"title": [
+		{
+			"text": "True IDC Chromebook 11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.trueidc.com/en/news-detail/42/TrueIDC-Chromebook-11-End-of-Life-and-end-of-Support-Announcement"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sites.google.com/a/chromium.org/dev/chromium-os/tpm_firmware_update"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:true:idc_chromebook_11:-:*:*:*:*:*:*:*"
+	}
 }

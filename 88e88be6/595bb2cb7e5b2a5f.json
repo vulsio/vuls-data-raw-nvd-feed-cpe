@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:trane:tracer_sc%2b_firmware:5.5:-",
-  "title": [
-    {
-      "text": "Trane Tracer SC+ Firmware 5.5 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.trane.com/WEBCACHE/BAS-PRC087C-EN_04162020.PDF"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-266-02"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:trane:tracer_sc\\+_firmware:5.5:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:trane:tracer_sc%2b_firmware:5.5:-",
+	"title": [
+		{
+			"text": "Trane Tracer SC+ Firmware 5.5 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.trane.com/WEBCACHE/BAS-PRC087C-EN_04162020.PDF"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-266-02"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:trane:tracer_sc\\+_firmware:5.5:-:*:*:*:*:*:*"
+	}
 }

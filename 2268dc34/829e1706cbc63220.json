@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:puppetlabs:puppet_enterprise_users:1.2.1",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T15:07:59.670Z",
-  "title": [
-    {
-      "text": "Puppet Enterprise (PE) Users 1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:puppet_enterprise_users:1.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-11T11:07:59.670-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:puppet_enterprise:1.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:puppet_enterprise_users:1.2.1",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T15:07:59.670Z",
+	"title": [
+		{
+			"text": "Puppet Enterprise (PE) Users 1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:puppet_enterprise_users:1.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-11T11:07:59.670-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:puppet_enterprise:1.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

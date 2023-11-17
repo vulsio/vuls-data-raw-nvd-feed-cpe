@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:ge:s2024:-",
-  "title": [
-    {
-      "text": "General Electric S2024",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ge.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/automation/GEZ-S2024.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-266-02"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ge:s2024:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:ge:s2024:-",
+	"title": [
+		{
+			"text": "General Electric S2024",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ge.com/content/dam/gepower-new/global/en_US/downloads/gas-new-site/resources/automation/GEZ-S2024.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-266-02"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ge:s2024:-:*:*:*:*:*:*:*"
+	}
 }

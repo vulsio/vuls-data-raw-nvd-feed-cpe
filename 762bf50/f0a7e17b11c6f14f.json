@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:openbsd:openssh:1.2.2",
-  "deprecated": true,
-  "deprecation_date": "2020-07-24T16:49:35.017Z",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 1.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:1.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-24T12:49:35.017-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openbsd:openssh:1.2.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openbsd:openssh:1.2.2",
+	"deprecated": true,
+	"deprecation_date": "2020-07-24T16:49:35.017Z",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 1.2.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:1.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-24T12:49:35.017-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openbsd:openssh:1.2.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

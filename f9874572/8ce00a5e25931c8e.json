@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bigbluebutton:greenlight:2.11.2",
-  "title": [
-    {
-      "text": "BigBlueButton Greenlight 2.11.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/bigbluebutton/greenlight/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bigbluebutton/greenlight/blob/master/app/assets/javascripts/room.js#L352"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://bigbluebutton.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bigbluebutton:greenlight:2.11.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bigbluebutton:greenlight:2.11.2",
+	"title": [
+		{
+			"text": "BigBlueButton Greenlight 2.11.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/bigbluebutton/greenlight/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bigbluebutton/greenlight/blob/master/app/assets/javascripts/room.js#L352"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://bigbluebutton.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bigbluebutton:greenlight:2.11.2:*:*:*:*:*:*:*"
+	}
 }

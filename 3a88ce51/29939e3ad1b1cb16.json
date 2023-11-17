@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:finaltoken_project:finaltoken:-",
-  "title": [
-    {
-      "text": "FinalToken  Project FinalToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/FinalToken"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:finaltoken_project:finaltoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:finaltoken_project:finaltoken:-",
+	"title": [
+		{
+			"text": "FinalToken  Project FinalToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/FinalToken"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:finaltoken_project:finaltoken:-:*:*:*:*:*:*:*"
+	}
 }

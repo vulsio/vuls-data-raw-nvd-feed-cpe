@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:realtek:rtl8195am_firmware:-",
-  "title": [
-    {
-      "text": "Realtek RTL8195AM FIRMWARE -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.amebaiot.com/en/security_bulletin/cve-2022-34326/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.realtek.com/en/products/communications-network-ics/item/rtl8195am"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:realtek:rtl8195am_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:realtek:rtl8195am_firmware:-",
+	"title": [
+		{
+			"text": "Realtek RTL8195AM FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amebaiot.com/en/security_bulletin/cve-2022-34326/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.realtek.com/en/products/communications-network-ics/item/rtl8195am"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:realtek:rtl8195am_firmware:-:*:*:*:*:*:*:*"
+	}
 }

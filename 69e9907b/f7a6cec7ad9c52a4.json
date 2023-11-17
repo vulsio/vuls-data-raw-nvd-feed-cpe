@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:user-activation-email_project:user-activation-email:1.3.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "User-activation-email Project User-activation-email 1.3.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/user-activation-email/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-38325"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:user-activation-email_project:user-activation-email:1.3.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:user-activation-email_project:user-activation-email:1.3.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "User-activation-email Project User-activation-email 1.3.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/user-activation-email/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-38325"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:user-activation-email_project:user-activation-email:1.3.0:*:*:*:*:wordpress:*:*"
+	}
 }

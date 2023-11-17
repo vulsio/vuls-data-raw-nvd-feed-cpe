@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt102i:2.01.19",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:25:03.093Z",
-  "title": [
-    {
-      "text": "ヤマハ RT102i 2.01.19",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT102i 2.01.19",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt102i:2.01.19:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:25:03.093-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt102i:2.01.19:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt102i:2.01.19",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:25:03.093Z",
+	"title": [
+		{
+			"text": "ヤマハ RT102i 2.01.19",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT102i 2.01.19",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt102i:2.01.19:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:25:03.093-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt102i:2.01.19:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:telos:amhs:11.4.0.7",
-  "deprecated": true,
-  "deprecation_date": "2020-01-06T17:00:29.963Z",
-  "title": [
-    {
-      "text": "Telos Amhs 11.4.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:telos:amhs:11.4.0.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-06T12:00:29.963-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:telos:automated_message_handling_system:11.4.0.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:telos:amhs:11.4.0.7",
+	"deprecated": true,
+	"deprecation_date": "2020-01-06T17:00:29.963Z",
+	"title": [
+		{
+			"text": "Telos Amhs 11.4.0.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:telos:amhs:11.4.0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-06T12:00:29.963-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:telos:automated_message_handling_system:11.4.0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

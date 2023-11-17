@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:suse:linux_enterprise_desktop:15:-",
-  "title": [
-    {
-      "text": "SUSE Linux Enterprise Desktop 15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.suse.com/releasenotes/x86_64/SUSE-SLED/15/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.suse.com/security/cve/CVE-2020-8016/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:linux_enterprise_desktop:15:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:suse:linux_enterprise_desktop:15:-",
+	"title": [
+		{
+			"text": "SUSE Linux Enterprise Desktop 15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.suse.com/releasenotes/x86_64/SUSE-SLED/15/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.suse.com/security/cve/CVE-2020-8016/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:linux_enterprise_desktop:15:-:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:suse:suse_linux_enterprise_server:11.0:sp3",
-  "deprecated": true,
-  "deprecation_date": "2017-01-25T19:03:31.500Z",
-  "title": [
-    {
-      "text": "Novell Suse Linux Enterprise Server 11.0 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "SUSE-SU-2013:1175-1",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2013-07/msg00014.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-01-25T14:03:31.500-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:suse:suse_linux_enterprise_server:11.0:sp3",
+	"deprecated": true,
+	"deprecation_date": "2017-01-25T19:03:31.500Z",
+	"title": [
+		{
+			"text": "Novell Suse Linux Enterprise Server 11.0 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "SUSE-SU-2013:1175-1",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2013-07/msg00014.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-01-25T14:03:31.500-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:opensuse:suse_linux_enterprise_server:11.0:sp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

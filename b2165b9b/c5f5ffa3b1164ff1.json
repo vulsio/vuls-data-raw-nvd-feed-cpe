@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:irzip_project:irzip:0.631",
-  "deprecated": true,
-  "deprecation_date": "2022-04-14T23:16:40.920Z",
-  "title": [
-    {
-      "text": "Irzip Project Irzip 0.631",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ckolivas/lrzip/issues/164"
-    },
-    {
-      "text": "Version",
-      "href": "http://ck.kolivas.org/apps/lrzip/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:irzip_project:irzip:0.631:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-14T19:16:40.920-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:irzip_project:irzip:0.631",
+	"deprecated": true,
+	"deprecation_date": "2022-04-14T23:16:40.920Z",
+	"title": [
+		{
+			"text": "Irzip Project Irzip 0.631",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ckolivas/lrzip/issues/164"
+		},
+		{
+			"text": "Version",
+			"href": "http://ck.kolivas.org/apps/lrzip/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:irzip_project:irzip:0.631:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-14T19:16:40.920-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

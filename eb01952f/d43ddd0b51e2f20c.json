@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:docker:desktop:2.2.2.0::~~edge~~~",
-  "title": [
-    {
-      "text": "Docker Desktop 2.2.2.0 for Edge",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/docker-for-windows/edge-release-notes/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-002.md"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/release-notes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:desktop:2.2.2.0:*:*:*:edge:*:*:*"
-  }
+	"name": "cpe:/a:docker:desktop:2.2.2.0::~~edge~~~",
+	"title": [
+		{
+			"text": "Docker Desktop 2.2.2.0 for Edge",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/docker-for-windows/edge-release-notes/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/active-labs/Advisories/blob/master/2020/ACTIVE-2020-002.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:desktop:2.2.2.0:*:*:*:edge:*:*:*"
+	}
 }

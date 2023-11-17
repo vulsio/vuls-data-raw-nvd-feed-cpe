@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:google:bindiff:5.0",
-  "title": [
-    {
-      "text": "Google BinDiff 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/22xxx/CVE-2021-22545.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/204674"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.zynamics.com/bindiff/manual/index.html#nyyyy7"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:bindiff:5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:google:bindiff:5.0",
+	"title": [
+		{
+			"text": "Google BinDiff 5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/22xxx/CVE-2021-22545.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/204674"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.zynamics.com/bindiff/manual/index.html#nyyyy7"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:bindiff:5.0:*:*:*:*:*:*:*"
+	}
 }

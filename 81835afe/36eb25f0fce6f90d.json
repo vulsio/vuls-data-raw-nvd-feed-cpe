@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:jabber:12.5%280%29::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:43:52.320Z",
-  "title": [
-    {
-      "text": "Cisco Jabber 12.5(0) for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvq04288"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:jabber:12.5\\(0\\):*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:43:52.320-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:jabber:12.5\\(0\\):*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:jabber:12.5%280%29::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:43:52.320Z",
+	"title": [
+		{
+			"text": "Cisco Jabber 12.5(0) for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvq04288"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:jabber:12.5\\(0\\):*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:43:52.320-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:jabber:12.5\\(0\\):*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

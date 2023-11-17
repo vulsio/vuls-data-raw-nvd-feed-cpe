@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:malwarebytes:endpoint_detection_and_response:1.0.11::~~~linux~~",
-  "title": [
-    {
-      "text": "Malwarebytes Endpoint Detection and Response (EDR) 1.0.11 for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.malwarebytes.com/business/edr"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.malwarebytes.com/secure/cves/cve-2023-29145"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:malwarebytes:endpoint_detection_and_response:1.0.11:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:malwarebytes:endpoint_detection_and_response:1.0.11::~~~linux~~",
+	"title": [
+		{
+			"text": "Malwarebytes Endpoint Detection and Response (EDR) 1.0.11 for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.malwarebytes.com/business/edr"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.malwarebytes.com/secure/cves/cve-2023-29145"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:malwarebytes:endpoint_detection_and_response:1.0.11:*:*:*:*:linux:*:*"
+	}
 }

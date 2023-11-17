@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ibm:application_performance_management:8.1.4::~~advanced_private~~~",
-  "title": [
-    {
-      "text": "IBM Application Performance Management 8.1.4 Advanced Private Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.ibm.com/support/knowledgecenter/en/SSHLNR_8.1.4/com.ibm.pm.doc/welcome.htm"
-    },
-    {
-      "text": "Version",
-      "href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?parent=IBM%20Performance%20Management%20family&product=ibm/Tivoli/IBM+Application+Performance+Management+Advanced&release=All&platform=All&function=fixId&fixids=8.1.4.0-IBM-APM-SERVER-IF0009&includeSupersedes=0&source=fc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/security-bulletin-ibm-application-performance-management-could-allow-remote-attacker-hijack-clicking-action-victim-cve-2019-4086"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:advanced_private:*:*:*"
-  }
+	"name": "cpe:/a:ibm:application_performance_management:8.1.4::~~advanced_private~~~",
+	"title": [
+		{
+			"text": "IBM Application Performance Management 8.1.4 Advanced Private Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.ibm.com/support/knowledgecenter/en/SSHLNR_8.1.4/com.ibm.pm.doc/welcome.htm"
+		},
+		{
+			"text": "Version",
+			"href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?parent=IBM%20Performance%20Management%20family&product=ibm/Tivoli/IBM+Application+Performance+Management+Advanced&release=All&platform=All&function=fixId&fixids=8.1.4.0-IBM-APM-SERVER-IF0009&includeSupersedes=0&source=fc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-ibm-application-performance-management-could-allow-remote-attacker-hijack-clicking-action-victim-cve-2019-4086"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:application_performance_management:8.1.4:*:*:*:advanced_private:*:*:*"
+	}
 }

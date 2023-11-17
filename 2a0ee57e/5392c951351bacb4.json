@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:ui:unifi_meshing_access_point:-",
-  "title": [
-    {
-      "text": "Ui UniFi Meshing Access Point",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://community.ui.com/questions/Possible-authentication-bypass-for-access-into-LAN-CVE-2020-27888/7965adb2-5d70-4410-8467-4c7bec76bc00"
-    },
-    {
-      "text": "Product",
-      "href": "https://store.ui.com/collections/unifi-network-access-points/products/unifi-ac-mesh-ap"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ui:unifi_meshing_access_point:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:ui:unifi_meshing_access_point:-",
+	"title": [
+		{
+			"text": "Ui UniFi Meshing Access Point",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://community.ui.com/questions/Possible-authentication-bypass-for-access-into-LAN-CVE-2020-27888/7965adb2-5d70-4410-8467-4c7bec76bc00"
+		},
+		{
+			"text": "Product",
+			"href": "https://store.ui.com/collections/unifi-network-access-points/products/unifi-ac-mesh-ap"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ui:unifi_meshing_access_point:-:*:*:*:*:*:*:*"
+	}
 }

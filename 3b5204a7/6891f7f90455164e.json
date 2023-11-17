@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openpolicyagent:gatekeeper:2.0.1",
-  "title": [
-    {
-      "text": "Open Policy Agent Gatekeeper 2.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.openpolicyagent.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/open-policy-agent/gatekeeper/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/hkerma/opa-gatekeeper-concurrency-issue"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openpolicyagent:gatekeeper:2.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openpolicyagent:gatekeeper:2.0.1",
+	"title": [
+		{
+			"text": "Open Policy Agent Gatekeeper 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.openpolicyagent.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/open-policy-agent/gatekeeper/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/hkerma/opa-gatekeeper-concurrency-issue"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openpolicyagent:gatekeeper:2.0.1:*:*:*:*:*:*:*"
+	}
 }

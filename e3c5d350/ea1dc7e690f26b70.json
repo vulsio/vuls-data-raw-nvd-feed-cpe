@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:moxa:mgate_mb3180_router_firmware:1.7",
-  "deprecated": true,
-  "deprecation_date": "2021-07-16T14:57:20.373Z",
-  "title": [
-    {
-      "text": "Moxa MGate MB3180 Router Firmware 1.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-16-196-02"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/protocol-gateways/modbus-tcp-gateways/mgate-mb3180-mb3280-mb3480-series#resources"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:moxa:mgate_mb3180_router_firmware:1.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-16T10:57:20.373-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:moxa:mgate_mb3180_firmware:1.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:moxa:mgate_mb3180_router_firmware:1.7",
+	"deprecated": true,
+	"deprecation_date": "2021-07-16T14:57:20.373Z",
+	"title": [
+		{
+			"text": "Moxa MGate MB3180 Router Firmware 1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/ICSA-16-196-02"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-edge-connectivity/protocol-gateways/modbus-tcp-gateways/mgate-mb3180-mb3280-mb3480-series#resources"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:moxa:mgate_mb3180_router_firmware:1.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-16T10:57:20.373-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:moxa:mgate_mb3180_firmware:1.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

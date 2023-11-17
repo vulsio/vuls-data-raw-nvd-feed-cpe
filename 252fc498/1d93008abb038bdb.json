@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:abb:plant_connect:-",
-  "title": [
-    {
-      "text": "ABB Plant Connect",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-318-05"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://new.abb.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:plant_connect:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:abb:plant_connect:-",
+	"title": [
+		{
+			"text": "ABB Plant Connect",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsa-19-318-05"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://new.abb.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:plant_connect:-:*:*:*:*:*:*:*"
+	}
 }

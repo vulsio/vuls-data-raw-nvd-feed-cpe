@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:cri-o:1.18:-",
-  "title": [
-    {
-      "text": "Kubernetes CRI-O 1.18",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cri-o/cri-o/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2051730"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:cri-o:1.18:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:cri-o:1.18:-",
+	"title": [
+		{
+			"text": "Kubernetes CRI-O 1.18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cri-o/cri-o/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2051730"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:cri-o:1.18:-:*:*:*:*:*:*"
+	}
 }

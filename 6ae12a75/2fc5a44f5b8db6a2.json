@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:vedge_cloud_router_platform:-",
-  "title": [
-    {
-      "text": "Cisco vEdge Cloud Router Platform",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180905-sd-wan-injection"
-    },
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation/vEdge_Routers/vEdge_Cloud_Router/01vEdge_Cloud_Router"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:vedge_cloud_router_platform:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:vedge_cloud_router_platform:-",
+	"title": [
+		{
+			"text": "Cisco vEdge Cloud Router Platform",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180905-sd-wan-injection"
+		},
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation/vEdge_Routers/vEdge_Cloud_Router/01vEdge_Cloud_Router"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:vedge_cloud_router_platform:-:*:*:*:*:*:*:*"
+	}
 }

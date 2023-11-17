@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:ceilometer:8.0.1",
-  "title": [
-    {
-      "text": "OpenStack Ceilometer 8.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.openstack.org/ceilometer/latest/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/ceilometer"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:ceilometer:8.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:ceilometer:8.0.1",
+	"title": [
+		{
+			"text": "OpenStack Ceilometer 8.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.openstack.org/ceilometer/latest/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/ceilometer"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:ceilometer:8.0.1:*:*:*:*:*:*:*"
+	}
 }

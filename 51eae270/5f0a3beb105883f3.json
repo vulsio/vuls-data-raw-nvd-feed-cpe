@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:redhat:certificate_server:7.2",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:02.087Z",
-  "title": [
-    {
-      "text": "Red Hat Certificate System 7.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:02.087-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:certificate_system:7.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:redhat:certificate_server:7.2",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:02.087Z",
+	"title": [
+		{
+			"text": "Red Hat Certificate System 7.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:certificate_server:7.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:02.087-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:certificate_system:7.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

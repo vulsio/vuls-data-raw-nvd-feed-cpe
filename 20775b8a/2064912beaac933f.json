@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudflare:golz4:-::~~~go~~",
-  "title": [
-    {
-      "text": "Cloudflare Golz4 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudflare.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0022"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/cloudflare/golz4"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudflare:golz4:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:cloudflare:golz4:-::~~~go~~",
+	"title": [
+		{
+			"text": "Cloudflare Golz4 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0022"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/cloudflare/golz4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:golz4:-:*:*:*:*:go:*:*"
+	}
 }

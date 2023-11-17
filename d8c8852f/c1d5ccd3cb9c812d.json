@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:onedrive:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Microsoft OneDrive for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0935"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:onedrive:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:microsoft:onedrive:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Microsoft OneDrive for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0935"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.office.com/en-us/article/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:onedrive:-:*:*:*:*:windows:*:*"
+	}
 }

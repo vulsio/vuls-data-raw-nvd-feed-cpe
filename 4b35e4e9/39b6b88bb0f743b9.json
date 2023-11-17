@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:esiteq:wp_report_post:2.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Esiteq WP Report Post 2.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.esiteq.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-report-post/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-report-post/wordpress-wp-report-post-plugin-2-1-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:esiteq:wp_report_post:2.1.2:*:*:*:*:wordpress:*:*"
+	}
+}

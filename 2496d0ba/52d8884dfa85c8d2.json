@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mongodb:libmongocrypt:1.2.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "MongoDB Client Encryption 1.2.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/libmongocrypt"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/mongodb-client-encryption"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.mongodb.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:libmongocrypt:1.2.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:mongodb:libmongocrypt:1.2.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "MongoDB Client Encryption 1.2.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/libmongocrypt"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/mongodb-client-encryption"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mongodb.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:libmongocrypt:1.2.0:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freebsd:freebsd:5.3:p6",
-  "deprecated": true,
-  "deprecation_date": "2019-03-19T13:22:21.710Z",
-  "title": [
-    {
-      "text": "FreeBSD 5.3 Patch 6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freebsd.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freebsd:freebsd:5.3:p6:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-19T09:22:21.710-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:freebsd:freebsd:5.3:p6:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freebsd:freebsd:5.3:p6",
+	"deprecated": true,
+	"deprecation_date": "2019-03-19T13:22:21.710Z",
+	"title": [
+		{
+			"text": "FreeBSD 5.3 Patch 6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freebsd.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freebsd:freebsd:5.3:p6:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-19T09:22:21.710-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:freebsd:freebsd:5.3:p6:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:jdk:15",
-  "title": [
-    {
-      "text": "Oracle Java Development Kit (JDK) 15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/java/technologies/javase-downloads.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:15:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:jdk:15",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuoct2020.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/java/technologies/javase-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:15:*:*:*:*:*:*:*"
+	}
 }

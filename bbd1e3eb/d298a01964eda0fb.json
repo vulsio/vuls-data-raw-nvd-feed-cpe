@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:arm:armv8-m:-",
-  "title": [
-    {
-      "text": "Arm Armv8-M",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://developer.arm.com/architectures/cpu-architecture/m-profile"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/191716"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arm:armv8-m:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:arm:armv8-m:-",
+	"title": [
+		{
+			"text": "Arm Armv8-M",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.arm.com/architectures/cpu-architecture/m-profile"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/191716"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arm:armv8-m:-:*:*:*:*:*:*:*"
+	}
 }

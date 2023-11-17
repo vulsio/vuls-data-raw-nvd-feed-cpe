@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.7.0:update_51",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T13:00:26.037Z",
-  "title": [
-    {
-      "text": "Oracle JDK 1.7.0 Update 51",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "April 2014 CPU",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpuapr2014-1972952.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.7.0:update_51:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T09:00:26.037-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.7.0:update51:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.7.0:update_51",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T13:00:26.037Z",
+	"title": [
+		{
+			"text": "Oracle JDK 1.7.0 Update 51",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "April 2014 CPU",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpuapr2014-1972952.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.7.0:update_51:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T09:00:26.037-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.7.0:update51:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

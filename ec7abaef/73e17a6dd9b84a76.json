@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:sonicwall:sonicosv:-",
-  "title": [
-    {
-      "text": "SonicWall SonicOSv",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/support/knowledge-base/sonicwall-nsv-series-faq/180705140131923/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0004"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sonicwall:sonicosv:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:sonicwall:sonicosv:-",
+	"title": [
+		{
+			"text": "SonicWall SonicOSv",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/support/knowledge-base/sonicwall-nsv-series-faq/180705140131923/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0004"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sonicwall:sonicosv:-:*:*:*:*:*:*:*"
+	}
 }

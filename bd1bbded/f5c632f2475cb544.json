@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mahara:mahara:17.10.0",
-  "deprecated": true,
-  "deprecation_date": "2020-03-10T16:59:21.520Z",
-  "title": [
-    {
-      "text": "Mahara 17.10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://mahara.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/MaharaProject/mahara/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mahara:mahara:17.10.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-10T12:59:21.520-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mahara:mahara:17.10.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mahara:mahara:17.10.0",
+	"deprecated": true,
+	"deprecation_date": "2020-03-10T16:59:21.520Z",
+	"title": [
+		{
+			"text": "Mahara 17.10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mahara.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/MaharaProject/mahara/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mahara:mahara:17.10.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-10T12:59:21.520-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mahara:mahara:17.10.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

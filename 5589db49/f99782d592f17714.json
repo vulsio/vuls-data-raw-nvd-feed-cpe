@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:suse:openstack_cloud:5.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-04T16:32:17.533Z",
-  "title": [
-    {
-      "text": "SUSE Openstack Cloud 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ubuntu.com/engage/suse-openstack-webinar"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.suse.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2016-03/msg00060.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:suse:openstack_cloud:5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-04T12:32:17.533-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:suse:openstack_cloud:5.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-04T16:32:17.533Z",
+	"title": [
+		{
+			"text": "SUSE Openstack Cloud 5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ubuntu.com/engage/suse-openstack-webinar"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.suse.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2016-03/msg00060.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:suse:openstack_cloud:5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-04T12:32:17.533-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:suse:openstack_cloud:5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

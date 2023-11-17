@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:wafer:webmatic:3.1.1",
-  "deprecated": true,
-  "deprecation_date": "2018-05-29T13:36:25.180Z",
-  "title": [
-    {
-      "text": "wafer WebMatic 3.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wafer:webmatic:3.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-05-29T09:36:25.180-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:valarsoft:webmatic:3.1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wafer:webmatic:3.1.1",
+	"deprecated": true,
+	"deprecation_date": "2018-05-29T13:36:25.180Z",
+	"title": [
+		{
+			"text": "wafer WebMatic 3.1.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wafer:webmatic:3.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-05-29T09:36:25.180-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:valarsoft:webmatic:3.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

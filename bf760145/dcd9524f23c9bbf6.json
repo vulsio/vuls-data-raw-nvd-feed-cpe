@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:linuxfoundation:software_for_open_networking_in_the_cloud:202111",
-  "title": [
-    {
-      "text": "Linux Foundation Software for Open Networking in the Cloud 202111",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://govtech-csg.github.io/security-advisories/2022/11/14/CVE-2022-0324.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://sonic-net.github.io/SONiC/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sonic-net/sonic-buildimage/security/advisories/GHSA-m4qf-8rrq-mph9"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/sonic-net/SONiC"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:software_for_open_networking_in_the_cloud:202111:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:software_for_open_networking_in_the_cloud:202111",
+	"title": [
+		{
+			"text": "Linux Foundation Software for Open Networking in the Cloud 202111",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://govtech-csg.github.io/security-advisories/2022/11/14/CVE-2022-0324.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://sonic-net.github.io/SONiC/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sonic-net/sonic-buildimage/security/advisories/GHSA-m4qf-8rrq-mph9"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/sonic-net/SONiC"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:software_for_open_networking_in_the_cloud:202111:*:*:*:*:*:*:*"
+	}
 }

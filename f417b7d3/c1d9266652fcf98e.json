@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:huawei:manageone:6.5.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-19T12:27:26.103Z",
-  "title": [
-    {
-      "text": "Huawei ManageOne 6.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://carrier.huawei.com/en/products/IT/cloud-computing/manageone"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huawei:manageone:6.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-19T08:27:26.103-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:huawei:manageone:6.5.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:huawei:manageone:6.5.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-19T12:27:26.103Z",
+	"title": [
+		{
+			"text": "Huawei ManageOne 6.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://carrier.huawei.com/en/products/IT/cloud-computing/manageone"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huawei:manageone:6.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-19T08:27:26.103-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:huawei:manageone:6.5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

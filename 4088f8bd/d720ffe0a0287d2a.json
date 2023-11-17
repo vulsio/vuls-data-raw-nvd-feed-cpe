@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:otakutoken_project:otakutoken:-",
-  "title": [
-    {
-      "text": "OTAKUToken Project OTAKUToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/OTAKUToken"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:otakutoken_project:otakutoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:otakutoken_project:otakutoken:-",
+	"title": [
+		{
+			"text": "OTAKUToken Project OTAKUToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/OTAKUToken"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:otakutoken_project:otakutoken:-:*:*:*:*:*:*:*"
+	}
 }

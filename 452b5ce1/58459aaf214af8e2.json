@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:dbbroadcast:spa_sft_dab_600%2fc_firmware:1.9.3",
-  "deprecated": true,
-  "deprecation_date": "2023-11-01T16:58:01.657Z",
-  "title": [
-    {
-      "text": "Dbbroadcast SPA SFT DAB 600/C Firmware 1.9.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dbbroadcast.com/wp-content/uploads/2022/04/SFT-XE_DAB_Catalogue.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dbbroadcast.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2023-5771.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dbbroadcast:spa_sft_dab_600\\/c_firmware:1.9.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-01T12:58:01.657-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dbbroadcast:sft_dab_600\\/c_firmware:1.9.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:dbbroadcast:spa_sft_dab_600%2fc_firmware:1.9.3",
+	"deprecated": true,
+	"deprecation_date": "2023-11-01T16:58:01.657Z",
+	"title": [
+		{
+			"text": "Dbbroadcast SPA SFT DAB 600/C Firmware 1.9.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dbbroadcast.com/wp-content/uploads/2022/04/SFT-XE_DAB_Catalogue.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dbbroadcast.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zeroscience.mk/en/vulnerabilities/ZSL-2023-5771.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dbbroadcast:spa_sft_dab_600\\/c_firmware:1.9.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-01T12:58:01.657-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dbbroadcast:sft_dab_600\\/c_firmware:1.9.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

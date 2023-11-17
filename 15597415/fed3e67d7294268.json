@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:spirent:testcenter:5.08",
-  "title": [
-    {
-      "text": "Spirent TestCenter 5.08",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gist.github.com/a05110511t/65d07bc776d7c11b4ccf112a09cca4ab"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/a05110511t/CVE/blob/master/CVE-2020-11733.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.spirent.com/products/testcenter-ethernet-ip-cloud-test"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:spirent:testcenter:5.08:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:spirent:testcenter:5.08",
+	"title": [
+		{
+			"text": "Spirent TestCenter 5.08",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gist.github.com/a05110511t/65d07bc776d7c11b4ccf112a09cca4ab"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/a05110511t/CVE/blob/master/CVE-2020-11733.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.spirent.com/products/testcenter-ethernet-ip-cloud-test"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:spirent:testcenter:5.08:*:*:*:*:*:*:*"
+	}
 }

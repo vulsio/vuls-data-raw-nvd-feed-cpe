@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:cujo:smart_firewall:-",
-  "title": [
-    {
-      "text": "CUJO Smart Firewall",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2018-0671"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://cujo.com/about/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cujo:smart_firewall:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cujo:smart_firewall:-",
+	"title": [
+		{
+			"text": "CUJO Smart Firewall",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2018-0671"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cujo.com/about/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cujo:smart_firewall:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2008:-:sp2:~~enterprise~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 Service Pack 2 Enterprise Edition on x64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Version",
-      "href": "https://support.microsoft.com/en-us/help/968849/how-to-obtain-the-latest-service-pack-for-windows-server-2008"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:enterprise:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2008:-:sp2:~~enterprise~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 Service Pack 2 Enterprise Edition on x64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Version",
+			"href": "https://support.microsoft.com/en-us/help/968849/how-to-obtain-the-latest-service-pack-for-windows-server-2008"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2008:-:sp2:*:*:enterprise:*:x64:*"
+	}
 }

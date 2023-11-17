@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bd:alaris_systems_manager:4.33",
-  "title": [
-    {
-      "text": "BD Alaris Systems Manager 4.33",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.bd.com/en-za/our-products/infusion/infusion-software/alaris-systems-manager"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-317-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bd:alaris_systems_manager:4.33:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bd:alaris_systems_manager:4.33",
+	"title": [
+		{
+			"text": "BD Alaris Systems Manager 4.33",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.bd.com/en-za/our-products/infusion/infusion-software/alaris-systems-manager"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-317-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bd:alaris_systems_manager:4.33:*:*:*:*:*:*:*"
+	}
 }

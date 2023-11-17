@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:korenix:jetport_5601f_firmware:-",
-  "title": [
-    {
-      "text": "Korenix Jetport 5601f Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.korenix.com/upload/support/FAQ/UM_JetPort5601f_V1.5.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@bertinjoseb/korenix-jetport-web-manager-persistent-xss-6cf7e2a38634"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:korenix:jetport_5601f_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:korenix:jetport_5601f_firmware:-",
+	"title": [
+		{
+			"text": "Korenix Jetport 5601f Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.korenix.com/upload/support/FAQ/UM_JetPort5601f_V1.5.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@bertinjoseb/korenix-jetport-web-manager-persistent-xss-6cf7e2a38634"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:korenix:jetport_5601f_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:irc:2.19::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins IRC 2.19 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/ircbot"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/ircbot-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:irc:2.19:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:irc:2.19::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins IRC 2.19 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/ircbot"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/ircbot-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:irc:2.19:*:*:*:*:jenkins:*:*"
+	}
 }

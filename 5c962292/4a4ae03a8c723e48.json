@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_10:22h2",
-  "deprecated": true,
-  "deprecation_date": "2022-12-02T17:03:05.560Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 22H2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-02T12:03:05.560-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10:22h2",
+	"deprecated": true,
+	"deprecation_date": "2022-12-02T17:03:05.560Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 22H2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-02T12:03:05.560-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10:22h2:*:*:*:*:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

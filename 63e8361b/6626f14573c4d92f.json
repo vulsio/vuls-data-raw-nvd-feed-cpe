@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:influxdata:chronograf_docker_image:1.6.1",
-  "title": [
-    {
-      "text": "InfluxData Chronograf Docker Image 1.6.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/chronograf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35188"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:influxdata:chronograf_docker_image:1.6.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:influxdata:chronograf_docker_image:1.6.1",
+	"title": [
+		{
+			"text": "InfluxData Chronograf Docker Image 1.6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/chronograf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35188"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:influxdata:chronograf_docker_image:1.6.1:*:*:*:*:*:*:*"
+	}
 }

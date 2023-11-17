@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:octobercms:october_cms:1.0.392",
-  "deprecated": true,
-  "deprecation_date": "2020-08-03T12:15:33.237Z",
-  "title": [
-    {
-      "text": "OctoberCMS 1.0.392",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://octobercms.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://octobercms.com/changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:octobercms:october_cms:1.0.392:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-03T08:15:33.237-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:octobercms:october:1.0.392:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:octobercms:october_cms:1.0.392",
+	"deprecated": true,
+	"deprecation_date": "2020-08-03T12:15:33.237Z",
+	"title": [
+		{
+			"text": "OctoberCMS 1.0.392",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://octobercms.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://octobercms.com/changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:octobercms:october_cms:1.0.392:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-03T08:15:33.237-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:octobercms:october:1.0.392:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

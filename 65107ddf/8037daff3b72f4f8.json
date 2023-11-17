@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:json-c_project:json-c:-",
-  "deprecated": true,
-  "deprecation_date": "2023-09-16T13:09:25.127Z",
-  "title": [
-    {
-      "text": "Json-c Project Json-c -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32292.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/json-c/json-c/issues/654"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:json-c_project:json-c:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-16T09:09:25.127-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:json-c:json-c:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:json-c_project:json-c:-",
+	"deprecated": true,
+	"deprecation_date": "2023-09-16T13:09:25.127Z",
+	"title": [
+		{
+			"text": "Json-c Project Json-c -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32292.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/json-c/json-c/issues/654"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:json-c_project:json-c:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-16T09:09:25.127-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:json-c:json-c:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

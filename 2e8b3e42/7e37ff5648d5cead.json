@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:powerdns:authoritative:4.1.0",
-  "deprecated": true,
-  "deprecation_date": "2019-08-02T12:54:23.270Z",
-  "title": [
-    {
-      "text": "PowerDNS Authoritative 4.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.powerdns.com/auth.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/PowerDNS/pdns/releases"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://doc.powerdns.com/authoritative/changelog/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:powerdns:authoritative:4.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-02T08:54:23.270-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:powerdns:authoritative:4.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:powerdns:authoritative:4.1.0",
+	"deprecated": true,
+	"deprecation_date": "2019-08-02T12:54:23.270Z",
+	"title": [
+		{
+			"text": "PowerDNS Authoritative 4.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.powerdns.com/auth.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/PowerDNS/pdns/releases"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://doc.powerdns.com/authoritative/changelog/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:powerdns:authoritative:4.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-02T08:54:23.270-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:powerdns:authoritative:4.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

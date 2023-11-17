@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ipfire:ipfire:2.25:core_update144",
-  "title": [
-    {
-      "text": "IPFire 2.25 Core Update144",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.ipfire.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ipfire/ipfire-2.x/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/163158/IPFire-2.25-Remote-Code-Execution.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ipfire:ipfire:2.25:core_update144:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ipfire:ipfire:2.25:core_update144",
+	"title": [
+		{
+			"text": "IPFire 2.25 Core Update144",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.ipfire.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ipfire/ipfire-2.x/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/163158/IPFire-2.25-Remote-Code-Execution.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ipfire:ipfire:2.25:core_update144:*:*:*:*:*:*"
+	}
 }

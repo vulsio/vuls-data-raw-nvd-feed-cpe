@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:qemu:qemu:1.1",
-  "deprecated": true,
-  "deprecation_date": "2020-11-02T14:46:09.740Z",
-  "title": [
-    {
-      "text": "QEMU 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qemu:qemu:1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-02T09:46:09.740-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qemu:qemu:1.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:qemu:qemu:1.1",
+	"deprecated": true,
+	"deprecation_date": "2020-11-02T14:46:09.740Z",
+	"title": [
+		{
+			"text": "QEMU 1.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qemu:qemu:1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-02T09:46:09.740-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qemu:qemu:1.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

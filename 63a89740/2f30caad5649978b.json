@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:valgrind:0.14::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Valgrind 0.14 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/valgrind/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1830"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/valgrind-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:valgrind:0.14:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:valgrind:0.14::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Valgrind 0.14 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/valgrind/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1830"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/valgrind-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:valgrind:0.14:*:*:*:*:jenkins:*:*"
+	}
 }

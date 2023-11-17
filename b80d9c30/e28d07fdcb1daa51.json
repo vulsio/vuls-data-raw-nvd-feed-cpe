@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:androidbubble:rss_feed_widget:2.5.3::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-09-03T18:59:38.027Z",
-  "title": [
-    {
-      "text": "Android Bubble RSS Feed Widget 2.5.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.androidbubble.com/#content-plugins"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/rss-feed-widget/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:androidbubble:rss_feed_widget:2.5.3:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-09-03T14:59:38.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:2.5.3:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:androidbubble:rss_feed_widget:2.5.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-09-03T18:59:38.027Z",
+	"title": [
+		{
+			"text": "Android Bubble RSS Feed Widget 2.5.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.androidbubble.com/#content-plugins"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/rss-feed-widget/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:androidbubble:rss_feed_widget:2.5.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-09-03T14:59:38.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rss_feed_widget_project:rss_feed_widget:2.5.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

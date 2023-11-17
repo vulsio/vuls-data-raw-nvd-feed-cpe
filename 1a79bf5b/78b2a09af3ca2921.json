@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:ammonia_project:ammonia:1.0.1",
-  "deprecated": true,
-  "deprecation_date": "2021-12-28T17:56:36.507Z",
-  "title": [
-    {
-      "text": "Ammonia Project Ammonia 1.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/rust-ammonia/ammonia"
-    },
-    {
-      "text": "Project",
-      "href": "https://crates.io/crates/ammonia"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/rust-ammonia/ammonia/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ammonia_project:ammonia:1.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-28T12:56:36.507-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ammonia_project:ammonia:1.0.1:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ammonia_project:ammonia:1.0.1",
+	"deprecated": true,
+	"deprecation_date": "2021-12-28T17:56:36.507Z",
+	"title": [
+		{
+			"text": "Ammonia Project Ammonia 1.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/rust-ammonia/ammonia"
+		},
+		{
+			"text": "Project",
+			"href": "https://crates.io/crates/ammonia"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rust-ammonia/ammonia/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ammonia_project:ammonia:1.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-28T12:56:36.507-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ammonia_project:ammonia:1.0.1:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

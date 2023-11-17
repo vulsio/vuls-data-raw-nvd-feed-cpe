@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linksys:spa2102_firmware:-",
-  "title": [
-    {
-      "text": "Linksys SPA2102 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://resources.enablesecurity.com/resources/sipdigestleak-tut.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.voiptalk.org/products/linksys-spa-2102-voip-phone-setup.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linksys:spa2102_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linksys:spa2102_firmware:-",
+	"title": [
+		{
+			"text": "Linksys SPA2102 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://resources.enablesecurity.com/resources/sipdigestleak-tut.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.voiptalk.org/products/linksys-spa-2102-voip-phone-setup.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linksys:spa2102_firmware:-:*:*:*:*:*:*:*"
+	}
 }

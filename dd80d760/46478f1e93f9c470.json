@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:ithemes:2checkout:-::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-03-16T13:10:13.400Z",
-  "title": [
-    {
-      "text": "iThemes 2Checkout for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://ithemes.com/coordinated-wordpress-plugin-security-update/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://ithemes.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://ithemes.com/2checkout-and-cybersource-add-ons-for-exchange-now-available/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ithemes:2checkout:-:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-03-16T09:10:13.400-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:2checkout:ithemes_2checkout:-:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ithemes:2checkout:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-03-16T13:10:13.400Z",
+	"title": [
+		{
+			"text": "iThemes 2Checkout for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://ithemes.com/coordinated-wordpress-plugin-security-update/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://ithemes.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://ithemes.com/2checkout-and-cybersource-add-ons-for-exchange-now-available/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ithemes:2checkout:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-03-16T09:10:13.400-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:2checkout:ithemes_2checkout:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

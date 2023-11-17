@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:northern.tech:mender:3.2.1::~~-~~~",
-  "title": [
-    {
-      "text": "Northern.tech Mender 3.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://mender.io/blog/cve-2022-32290-mender-client-listening-on-all-the-interfaces"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:northern.tech:mender:3.2.1:*:*:*:-:*:*:*"
-  }
+	"name": "cpe:/a:northern.tech:mender:3.2.1::~~-~~~",
+	"title": [
+		{
+			"text": "Northern.tech Mender 3.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://mender.io/blog/cve-2022-32290-mender-client-listening-on-all-the-interfaces"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:northern.tech:mender:3.2.1:*:*:*:-:*:*:*"
+	}
 }

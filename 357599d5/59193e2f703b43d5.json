@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:dell:emc_powerconnect_7000:-",
-  "title": [
-    {
-      "text": "Dell EMC PowerConnect 7000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/us/en/bsdr/networking/switch-powerconnect-7000/cp.aspx?refid=switch-powerconnect-7000&cs=04S2&s=bsdr"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/article/us/en/04/sln318359/dsa-2019-124-dell-emc-powerconnect-security-vulnerability?lang=en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:emc_powerconnect_7000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dell:emc_powerconnect_7000:-",
+	"title": [
+		{
+			"text": "Dell EMC PowerConnect 7000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/us/en/bsdr/networking/switch-powerconnect-7000/cp.aspx?refid=switch-powerconnect-7000&cs=04S2&s=bsdr"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/article/us/en/04/sln318359/dsa-2019-124-dell-emc-powerconnect-security-vulnerability?lang=en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:emc_powerconnect_7000:-:*:*:*:*:*:*:*"
+	}
 }

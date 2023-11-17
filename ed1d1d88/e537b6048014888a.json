@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:parameterized_remote_trigger:2.43.1::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Parameterized Remote Trigger 2.43.1 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1625"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/Parameterized-Remote-Trigger/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/jenkinsci/parameterized-remote-trigger-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:parameterized_remote_trigger:2.43.1:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:parameterized_remote_trigger:2.43.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Parameterized Remote Trigger 2.43.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1625"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/Parameterized-Remote-Trigger/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jenkinsci/parameterized-remote-trigger-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:parameterized_remote_trigger:2.43.1:*:*:*:*:jenkins:*:*"
+	}
 }

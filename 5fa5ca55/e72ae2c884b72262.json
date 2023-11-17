@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:anuko:time_tracker:-",
-  "title": [
-    {
-      "text": "Anuko Time Tracker",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.anuko.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.anuko.com/time-tracker/index.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/anuko/timetracker/security/advisories/GHSA-prjf-9mgh-8fpv"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:anuko:time_tracker:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:anuko:time_tracker:-",
+	"title": [
+		{
+			"text": "Anuko Time Tracker",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.anuko.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.anuko.com/time-tracker/index.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/anuko/timetracker/security/advisories/GHSA-prjf-9mgh-8fpv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:anuko:time_tracker:-:*:*:*:*:*:*:*"
+	}
 }

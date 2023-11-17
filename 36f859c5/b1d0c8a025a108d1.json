@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:prometheus:prometheus:2.25.0:rc0",
-  "title": [
-    {
-      "text": "Prometheus 2.25.0 Release Candidate 0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://prometheus.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/prometheus/prometheus/security/advisories/GHSA-vx57-7f4q-fpc7"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/prometheus/prometheus/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:prometheus:prometheus:2.25.0:rc0:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:prometheus:prometheus:2.25.0:rc0",
+	"title": [
+		{
+			"text": "Prometheus 2.25.0 Release Candidate 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://prometheus.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/prometheus/prometheus/security/advisories/GHSA-vx57-7f4q-fpc7"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/prometheus/prometheus/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:prometheus:prometheus:2.25.0:rc0:*:*:*:*:*:*"
+	}
 }

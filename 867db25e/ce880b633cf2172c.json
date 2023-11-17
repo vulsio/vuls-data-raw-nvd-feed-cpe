@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freedesktop:systemd:233",
-  "deprecated": true,
-  "deprecation_date": "2022-01-28T19:09:42.747Z",
-  "title": [
-    {
-      "text": "Freedesktop systemd 233",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.freedesktop.org/wiki/Software/systemd/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/systemd/systemd"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freedesktop:systemd:233:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-28T14:09:42.747-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:systemd_project:systemd:233:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freedesktop:systemd:233",
+	"deprecated": true,
+	"deprecation_date": "2022-01-28T19:09:42.747Z",
+	"title": [
+		{
+			"text": "Freedesktop systemd 233",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.freedesktop.org/wiki/Software/systemd/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/systemd/systemd"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freedesktop:systemd:233:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-28T14:09:42.747-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:systemd_project:systemd:233:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

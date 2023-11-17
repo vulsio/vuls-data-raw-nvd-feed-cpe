@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:24.8",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T13:05:19.230Z",
-  "title": [
-    {
-      "text": "Pivotal Software Cloud Foundry Uaa Bosh 24.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://pivotal.io/platform"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudfoundry.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:24.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T09:05:19.230-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:24.8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:24.8",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T13:05:19.230Z",
+	"title": [
+		{
+			"text": "Pivotal Software Cloud Foundry Uaa Bosh 24.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pivotal.io/platform"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudfoundry.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:24.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T09:05:19.230-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:24.8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

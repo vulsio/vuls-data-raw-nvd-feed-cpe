@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:emmanuelgeorjon:eg-attachments:1.4.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-02T15:44:08.810Z",
-  "title": [
-    {
-      "text": "Emmanuel Georjon EG-Attachments 1.4.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://emmanuelgeorjon.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/eg-attachments/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/eg-attachments/wordpress-eg-attachments-plugin-2-1-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emmanuelgeorjon:eg-attachments:1.4.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-02T11:44:08.810-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:egeorjon:eg-attachments:1.4.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emmanuelgeorjon:eg-attachments:1.4.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-02T15:44:08.810Z",
+	"title": [
+		{
+			"text": "Emmanuel Georjon EG-Attachments 1.4.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://emmanuelgeorjon.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/eg-attachments/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/eg-attachments/wordpress-eg-attachments-plugin-2-1-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emmanuelgeorjon:eg-attachments:1.4.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-02T11:44:08.810-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:egeorjon:eg-attachments:1.4.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

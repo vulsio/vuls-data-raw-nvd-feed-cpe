@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:vadimk:extra_user_details:0.4.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Vadimk Extra User Details 0.4.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/extra-user-details/wordpress-extra-user-details-plugin-0-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://vadimk.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/extra-user-details/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vadimk:extra_user_details:0.4.1:*:*:*:*:wordpress:*:*"
+	}
+}

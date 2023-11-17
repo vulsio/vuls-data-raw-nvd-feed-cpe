@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:kernel:linux-pam:0.99.8.0",
-  "deprecated": true,
-  "deprecation_date": "2019-01-03T15:01:43.273Z",
-  "title": [
-    {
-      "text": "kernel pam 0.99.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kernel:linux-pam:0.99.8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-01-03T10:01:43.273-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linux-pam:linux-pam:0.99.8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kernel:linux-pam:0.99.8.0",
+	"deprecated": true,
+	"deprecation_date": "2019-01-03T15:01:43.273Z",
+	"title": [
+		{
+			"text": "kernel pam 0.99.8.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kernel:linux-pam:0.99.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-01-03T10:01:43.273-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linux-pam:linux-pam:0.99.8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

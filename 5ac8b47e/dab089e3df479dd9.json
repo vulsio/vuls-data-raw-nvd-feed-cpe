@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:microsoft:.net:3.5.1",
-  "deprecated": true,
-  "deprecation_date": "2023-10-15T16:18:44.963Z",
-  "title": [
-    {
-      "text": "Microsoft .NET 3.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://dotnet.microsoft.com/en-us/download/dotnet-framework"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-26929"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:.net:3.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-15T12:18:44.963-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:.net_framework:3.5.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:.net:3.5.1",
+	"deprecated": true,
+	"deprecation_date": "2023-10-15T16:18:44.963Z",
+	"title": [
+		{
+			"text": "Microsoft .NET 3.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://dotnet.microsoft.com/en-us/download/dotnet-framework"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-26929"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:.net:3.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-15T12:18:44.963-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:.net_framework:3.5.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

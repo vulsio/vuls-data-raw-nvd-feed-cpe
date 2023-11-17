@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gnu:libssp:-",
-  "title": [
-    {
-      "text": "GNU libssp",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.openwall.com/lists/oss-security/2016/08/17/6"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/gcc-mirror/gcc/tree/master/libssp"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gnu.org/home.en.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnu:libssp:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnu:libssp:-",
+	"title": [
+		{
+			"text": "GNU libssp",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.openwall.com/lists/oss-security/2016/08/17/6"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/gcc-mirror/gcc/tree/master/libssp"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gnu.org/home.en.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnu:libssp:-:*:*:*:*:*:*:*"
+	}
 }

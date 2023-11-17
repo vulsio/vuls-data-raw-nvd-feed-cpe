@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:6.7:update3o",
-  "title": [
-    {
-      "text": "VMware vCenter Server 6.7 Update3o",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3p-release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2022-0009.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:6.7:update3o:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:vcenter_server:6.7:update3o",
+	"title": [
+		{
+			"text": "VMware vCenter Server 6.7 Update3o",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3p-release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2022-0009.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:6.7:update3o:*:*:*:*:*:*"
+	}
 }

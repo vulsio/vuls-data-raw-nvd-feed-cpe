@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:realtime-projects:quixplorer:1.5",
-  "deprecated": true,
-  "deprecation_date": "2021-01-11T15:47:43.130Z",
-  "title": [
-    {
-      "text": "Realtime-projects QuiXplorer 1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/quixplorer/files/quixplorer/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:realtime-projects:quixplorer:1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-11T10:47:43.130-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:quixplorer_project:quixplorer:1.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:realtime-projects:quixplorer:1.5",
+	"deprecated": true,
+	"deprecation_date": "2021-01-11T15:47:43.130Z",
+	"title": [
+		{
+			"text": "Realtime-projects QuiXplorer 1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/quixplorer/files/quixplorer/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:realtime-projects:quixplorer:1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-11T10:47:43.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:quixplorer_project:quixplorer:1.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

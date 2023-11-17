@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:minetime:minetime:1.0.7",
-  "deprecated": true,
-  "deprecation_date": "2020-08-31T17:42:49.510Z",
-  "title": [
-    {
-      "text": "MineTime 1.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://minetime.ai"
-    },
-    {
-      "text": "Product",
-      "href": "https://minetime.ai/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:minetime:minetime:1.0.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-31T13:42:49.510-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ethz:minetime:1.0.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:minetime:minetime:1.0.7",
+	"deprecated": true,
+	"deprecation_date": "2020-08-31T17:42:49.510Z",
+	"title": [
+		{
+			"text": "MineTime 1.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://minetime.ai"
+		},
+		{
+			"text": "Product",
+			"href": "https://minetime.ai/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:minetime:minetime:1.0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-31T13:42:49.510-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ethz:minetime:1.0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

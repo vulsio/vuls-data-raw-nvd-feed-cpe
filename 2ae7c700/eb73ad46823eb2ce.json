@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.8.0:update_74",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T12:30:44.697Z",
-  "title": [
-    {
-      "text": "Oracle JDK 1.8.0 Update 74",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/linuxbulletinapr2016-2952096.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.8.0:update_74:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T08:30:44.697-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update74:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.8.0:update_74",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T12:30:44.697Z",
+	"title": [
+		{
+			"text": "Oracle JDK 1.8.0 Update 74",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/linuxbulletinapr2016-2952096.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.8.0:update_74:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T08:30:44.697-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.8.0:update74:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

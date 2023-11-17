@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:datiac_project:datiac:-",
-  "title": [
-    {
-      "text": "Datiac Project Datiac",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x44e9ea4b8ba286b5fe591fb23d106269378f116e#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:datiac_project:datiac:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:datiac_project:datiac:-",
+	"title": [
+		{
+			"text": "Datiac Project Datiac",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x44e9ea4b8ba286b5fe591fb23d106269378f116e#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:datiac_project:datiac:-:*:*:*:*:*:*:*"
+	}
 }

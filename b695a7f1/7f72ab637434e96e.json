@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:haproxy:haproxy:2.3.0",
-  "title": [
-    {
-      "text": "HAProxy 2.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://www.haproxy.org/download/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.haproxy.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://git.haproxy.org/?p=haproxy.git;a=commit;h=a495e0d94876c9d39763db319f609351907a31e8"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/207698"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:haproxy:haproxy:2.3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:haproxy:haproxy:2.3.0",
+	"title": [
+		{
+			"text": "HAProxy 2.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://www.haproxy.org/download/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.haproxy.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://git.haproxy.org/?p=haproxy.git;a=commit;h=a495e0d94876c9d39763db319f609351907a31e8"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/207698"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:haproxy:haproxy:2.3.0:*:*:*:*:*:*:*"
+	}
 }

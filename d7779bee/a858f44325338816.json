@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:telosalliance:omnia_mpx_node:-",
-  "title": [
-    {
-      "text": "Telos Alliance Omnia MPX Node",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.telosalliance.com/article/nk5v3tilut-mpx-node-v-1-5-0-release-notes-and-update-instructions"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/50996"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cyber-guy.gitbook.io/cyber-guys-blog/pocs/omnia-node-mpx-auth-bypass-via-lfd"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:telosalliance:omnia_mpx_node:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:telosalliance:omnia_mpx_node:-",
+	"title": [
+		{
+			"text": "Telos Alliance Omnia MPX Node",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.telosalliance.com/article/nk5v3tilut-mpx-node-v-1-5-0-release-notes-and-update-instructions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/50996"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cyber-guy.gitbook.io/cyber-guys-blog/pocs/omnia-node-mpx-auth-bypass-via-lfd"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:telosalliance:omnia_mpx_node:-:*:*:*:*:*:*:*"
+	}
 }

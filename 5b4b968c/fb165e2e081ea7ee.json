@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:rubyonrails:rails:2.3.9",
-  "deprecated": true,
-  "deprecation_date": "2019-08-08T14:41:14.060Z",
-  "title": [
-    {
-      "text": "Ruby on Rails Rails 2.3.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://rubygems.org/gems/rails/versions"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/rails/rails"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://rubyonrails.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rubyonrails:rails:2.3.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-08T10:41:14.060-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rubyonrails:rails:2.3.9:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rubyonrails:rails:2.3.9",
+	"deprecated": true,
+	"deprecation_date": "2019-08-08T14:41:14.060Z",
+	"title": [
+		{
+			"text": "Ruby on Rails Rails 2.3.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://rubygems.org/gems/rails/versions"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/rails/rails"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://rubyonrails.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rubyonrails:rails:2.3.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-08T10:41:14.060-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rubyonrails:rails:2.3.9:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

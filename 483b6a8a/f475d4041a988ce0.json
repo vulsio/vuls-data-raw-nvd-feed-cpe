@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:arm:utgard_gpu_kernel_driver:r11p0",
-  "title": [
-    {
-      "text": "ARM Utgard GPU Kernel Driver r11P0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.arm.com/downloads/-/mali-drivers/utgard-kernel"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r11p0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:arm:utgard_gpu_kernel_driver:r11p0",
+	"title": [
+		{
+			"text": "ARM Utgard GPU Kernel Driver r11P0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.arm.com/downloads/-/mali-drivers/utgard-kernel"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:utgard_gpu_kernel_driver:r11p0:*:*:*:*:*:*:*"
+	}
 }

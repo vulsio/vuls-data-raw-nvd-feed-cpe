@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:mds_9000:2.0%280.86%29",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:46.787Z",
-  "title": [
-    {
-      "text": "Cisco SAN-OS 2.0 (0.86)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:mds_9000:2.0\\(0.86\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:46.787-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:mds_9000_san-os:2.0\\(0.86\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:mds_9000:2.0%280.86%29",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:46.787Z",
+	"title": [
+		{
+			"text": "Cisco SAN-OS 2.0 (0.86)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:mds_9000:2.0\\(0.86\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:46.787-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:mds_9000_san-os:2.0\\(0.86\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

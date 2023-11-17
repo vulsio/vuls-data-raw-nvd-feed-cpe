@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:protobuf:protobuf:1.29.0::~~~go~~",
-  "title": [
-    {
-      "text": "Protobuf Protobuf 1.29.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/protocolbuffers/protobuf-go/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/advisories/GHSA-hw7c-3rfg-p46j"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2023-1631"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:protobuf:protobuf:1.29.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:protobuf:protobuf:1.29.0::~~~go~~",
+	"title": [
+		{
+			"text": "Protobuf Protobuf 1.29.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/protocolbuffers/protobuf-go/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-hw7c-3rfg-p46j"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-1631"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:protobuf:protobuf:1.29.0:*:*:*:*:go:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:brightstor_arcserve_backup_aix:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:12:56.910Z",
-  "title": [
-    {
-      "text": "Computer Associates BrightStor ARCServe Backup AIX",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:brightstor_arcserve_backup_aix:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:12:56.910-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_aix:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:brightstor_arcserve_backup_aix:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:12:56.910Z",
+	"title": [
+		{
+			"text": "Computer Associates BrightStor ARCServe Backup AIX",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:brightstor_arcserve_backup_aix:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:12:56.910-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:brightstor_arcserve_backup_aix:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

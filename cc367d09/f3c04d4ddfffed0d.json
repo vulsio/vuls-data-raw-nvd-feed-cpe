@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redis:redis:7.0.9",
-  "title": [
-    {
-      "text": "Redis 7.0.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/redis/redis/security/advisories/GHSA-mvmm-4vq6-vw8c"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/redis/redis/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis:redis:7.0.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redis:redis:7.0.9",
+	"title": [
+		{
+			"text": "Redis 7.0.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/redis/redis/security/advisories/GHSA-mvmm-4vq6-vw8c"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/redis/redis/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redis:7.0.9:*:*:*:*:*:*:*"
+	}
 }

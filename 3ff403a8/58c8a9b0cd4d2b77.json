@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:emc_recoverpoint:5.1.2.1",
-  "title": [
-    {
-      "text": "Dell EMC RecoverPoint 5.1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/security/us/en/04/details/533842/DSA-2019-078-Dell-EMC-RecoverPoint-OS-Command-Injection-Vulnerability"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.emc.com/storage/recoverpoint/recoverpoint.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:emc_recoverpoint:5.1.2.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:emc_recoverpoint:5.1.2.1",
+	"title": [
+		{
+			"text": "Dell EMC RecoverPoint 5.1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/security/us/en/04/details/533842/DSA-2019-078-Dell-EMC-RecoverPoint-OS-Command-Injection-Vulnerability"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.emc.com/storage/recoverpoint/recoverpoint.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:emc_recoverpoint:5.1.2.1:*:*:*:*:*:*:*"
+	}
 }

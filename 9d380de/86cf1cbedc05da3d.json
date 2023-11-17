@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:horizon:4.1.0::~~~linux~~",
-  "title": [
-    {
-      "text": "VMware Horizon 4.1.0 for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.vmware.com/en/VMware-Horizon-Client-for-Linux/2103/rn/horizon-client-linux-2103-release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:horizon:4.1.0:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:vmware:horizon:4.1.0::~~~linux~~",
+	"title": [
+		{
+			"text": "VMware Horizon 4.1.0 for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.vmware.com/en/VMware-Horizon-Client-for-Linux/2103/rn/horizon-client-linux-2103-release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:horizon:4.1.0:*:*:*:*:linux:*:*"
+	}
 }

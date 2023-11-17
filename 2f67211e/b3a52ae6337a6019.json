@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e5:1660_v4",
-  "deprecated": true,
-  "deprecation_date": "2020-05-05T11:26:47.650Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5 1660 V4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e5:1660_v4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-05T07:26:47.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5_1660_v4:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e5:1660_v4",
+	"deprecated": true,
+	"deprecation_date": "2020-05-05T11:26:47.650Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5 1660 V4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e5:1660_v4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-05T07:26:47.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5_1660_v4:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

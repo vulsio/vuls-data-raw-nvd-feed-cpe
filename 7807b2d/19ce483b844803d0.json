@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wampserver:wampserver:3.1.1",
-  "title": [
-    {
-      "text": "WampServer 3.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/44384"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.wampserver.com/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wampserver:wampserver:3.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:wampserver:wampserver:3.1.1",
+	"title": [
+		{
+			"text": "WampServer 3.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/44384"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.wampserver.com/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wampserver:wampserver:3.1.1:*:*:*:*:*:*:*"
+	}
 }

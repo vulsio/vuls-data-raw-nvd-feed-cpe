@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oswald_buddenhagen:isync:1.0.4",
-  "deprecated": true,
-  "deprecation_date": "2021-11-30T21:29:37.493Z",
-  "title": [
-    {
-      "text": "Isync 1.0.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Source control tags",
-      "href": "http://sourceforge.net/p/isync/isync/ref/master/tags/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oswald_buddenhagen:isync:1.0.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-30T16:29:37.493-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:isync_project:isync:1.0.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oswald_buddenhagen:isync:1.0.4",
+	"deprecated": true,
+	"deprecation_date": "2021-11-30T21:29:37.493Z",
+	"title": [
+		{
+			"text": "Isync 1.0.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Source control tags",
+			"href": "http://sourceforge.net/p/isync/isync/ref/master/tags/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oswald_buddenhagen:isync:1.0.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-30T16:29:37.493-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:isync_project:isync:1.0.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

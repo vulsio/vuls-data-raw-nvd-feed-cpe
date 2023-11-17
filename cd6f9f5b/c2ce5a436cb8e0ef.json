@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:supermicro:x9dax-7%2fif-hft:-",
-  "title": [
-    {
-      "text": "Supermicro X9DAX-7/iF-HFT",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=X9#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:supermicro:x9dax-7\\/if-hft:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:supermicro:x9dax-7%2fif-hft:-",
+	"title": [
+		{
+			"text": "Supermicro X9DAX-7/iF-HFT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=X9#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:supermicro:x9dax-7\\/if-hft:-:*:*:*:*:*:*:*"
+	}
 }

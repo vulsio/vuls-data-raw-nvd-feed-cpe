@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:schneider_electric:struxureware_building_operations_automation_server_as:-",
-  "deprecated": true,
-  "deprecation_date": "2018-09-24T15:49:06.333Z",
-  "title": [
-    {
-      "text": "Schneider Electric  Struxureware Building Operations Automation Server 1.7 AS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.schneider-electric.com/ww/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2016-025-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider_electric:struxureware_building_operations_automation_server_as:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-09-24T11:49:06.333-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:struxureware_building_operations_automation_server_as:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:schneider_electric:struxureware_building_operations_automation_server_as:-",
+	"deprecated": true,
+	"deprecation_date": "2018-09-24T15:49:06.333Z",
+	"title": [
+		{
+			"text": "Schneider Electric  Struxureware Building Operations Automation Server 1.7 AS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.schneider-electric.com/ww/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2016-025-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider_electric:struxureware_building_operations_automation_server_as:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-09-24T11:49:06.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:struxureware_building_operations_automation_server_as:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

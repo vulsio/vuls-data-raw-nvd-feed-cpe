@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:dell:sonicwall_scrutinizer_with_flow_analytics_module:9.0.1:-:pay",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T15:28:33.583Z",
-  "title": [
-    {
-      "text": "Dell SonicWALL Scrutinizer with Flow Analytics Module 9.0.1 Pay Edition",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:sonicwall_scrutinizer_with_flow_analytics_module:9.0.1:-:pay:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T11:28:33.583-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sonicwall:scrutinizer:9.0.1:*:*:*:pay:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:sonicwall_scrutinizer_with_flow_analytics_module:9.0.1:-:pay",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T15:28:33.583Z",
+	"title": [
+		{
+			"text": "Dell SonicWALL Scrutinizer with Flow Analytics Module 9.0.1 Pay Edition",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:sonicwall_scrutinizer_with_flow_analytics_module:9.0.1:-:pay:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T11:28:33.583-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sonicwall:scrutinizer:9.0.1:*:*:*:pay:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:eclipse:jetty:9.3.0:maintenance_1",
-  "deprecated": true,
-  "deprecation_date": "2020-10-20T16:13:04.403Z",
-  "title": [
-    {
-      "text": "Eclipse Jetty 9.3.0 Maintenance 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/eclipse/jetty.project"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eclipse:jetty:9.3.0:maintenance_1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-20T12:13:04.403-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eclipse:jetty:9.3.0:maintenance1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eclipse:jetty:9.3.0:maintenance_1",
+	"deprecated": true,
+	"deprecation_date": "2020-10-20T16:13:04.403Z",
+	"title": [
+		{
+			"text": "Eclipse Jetty 9.3.0 Maintenance 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/eclipse/jetty.project"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eclipse:jetty:9.3.0:maintenance_1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-20T12:13:04.403-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eclipse:jetty:9.3.0:maintenance1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

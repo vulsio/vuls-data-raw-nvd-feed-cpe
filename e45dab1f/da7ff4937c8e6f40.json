@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:zoom:zoom:5.15.5::~~~android~~",
-  "title": [
-    {
-      "text": "Zoom 5.15.5 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US&gl=US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://explore.zoom.us/en/trust/security/security-bulletin/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:zoom:5.15.5:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:zoom:zoom:5.15.5::~~~android~~",
+	"title": [
+		{
+			"text": "Zoom 5.15.5 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en_US&gl=US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://explore.zoom.us/en/trust/security/security-bulletin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:zoom:5.15.5:*:*:*:*:android:*:*"
+	}
 }

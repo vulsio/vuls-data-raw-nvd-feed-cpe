@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:basecamp:basecamp:3.26.3::~~~android~~",
-  "title": [
-    {
-      "text": "Basecamp Basecamp 3.26.3 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/1710541"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.safetorun.com/android-security-6-337-vulnerability-in-basecamp-177f5db5ef0e"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.basecamp.bc3&hl=en_US&gl=US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:basecamp:basecamp:3.26.3:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:basecamp:basecamp:3.26.3::~~~android~~",
+	"title": [
+		{
+			"text": "Basecamp Basecamp 3.26.3 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/1710541"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.safetorun.com/android-security-6-337-vulnerability-in-basecamp-177f5db5ef0e"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.basecamp.bc3&hl=en_US&gl=US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:basecamp:basecamp:3.26.3:*:*:*:*:android:*:*"
+	}
 }

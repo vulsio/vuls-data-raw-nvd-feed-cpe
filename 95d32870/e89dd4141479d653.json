@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:rsa:archer:6.1",
-  "deprecated": true,
-  "deprecation_date": "2020-10-07T14:18:03.863Z",
-  "title": [
-    {
-      "text": "RSA Archer 6.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://community.rsa.com"
-    },
-    {
-      "text": "Version",
-      "href": "https://community.rsa.com/docs/DOC-73365"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rsa:archer:6.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-07T10:18:03.863-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rsa:archer:6.1.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rsa:archer:6.1",
+	"deprecated": true,
+	"deprecation_date": "2020-10-07T14:18:03.863Z",
+	"title": [
+		{
+			"text": "RSA Archer 6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://community.rsa.com"
+		},
+		{
+			"text": "Version",
+			"href": "https://community.rsa.com/docs/DOC-73365"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rsa:archer:6.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-07T10:18:03.863-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rsa:archer:6.1.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

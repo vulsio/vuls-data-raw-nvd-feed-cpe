@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:apache:jena:2.11.2",
-  "title": [
-    {
-      "text": "Apache Software Foundation Jena 2.11.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread/h88oh642455wljo0p5jgzs9phk4gj878"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHEJENA-2808937"
-    },
-    {
-      "text": "Version",
-      "href": "https://mvnrepository.com/artifact/org.apache.jena/jena-core"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:jena:2.11.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:jena:2.11.2",
+	"title": [
+		{
+			"text": "Apache Software Foundation Jena 2.11.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/h88oh642455wljo0p5jgzs9phk4gj878"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGAPACHEJENA-2808937"
+		},
+		{
+			"text": "Version",
+			"href": "https://mvnrepository.com/artifact/org.apache.jena/jena-core"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:jena:2.11.2:*:*:*:*:*:*:*"
+	}
 }

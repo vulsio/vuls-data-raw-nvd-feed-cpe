@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gorillatoolkit:handlers:1.4.1::~~~go~~",
-  "title": [
-    {
-      "text": "Gorillatoolkit Handlers 1.4.1 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0020"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/gorilla/handlers/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gorillatoolkit.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gorillatoolkit:handlers:1.4.1:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:gorillatoolkit:handlers:1.4.1::~~~go~~",
+	"title": [
+		{
+			"text": "Gorillatoolkit Handlers 1.4.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0020"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gorilla/handlers/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gorillatoolkit.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gorillatoolkit:handlers:1.4.1:*:*:*:*:go:*:*"
+	}
 }

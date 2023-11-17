@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:binary_project:binary:0.4.1::~~~go~~",
-  "title": [
-    {
-      "text": "Binary Project Binary 0.4.1 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/gagliardetto/binary/security/advisories/GHSA-4p6f-m4f9-ch88"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/gagliardetto/binary/releases"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/gagliardetto/binary"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:binary_project:binary:0.4.1:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:binary_project:binary:0.4.1::~~~go~~",
+	"title": [
+		{
+			"text": "Binary Project Binary 0.4.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gagliardetto/binary/security/advisories/GHSA-4p6f-m4f9-ch88"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gagliardetto/binary/releases"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/gagliardetto/binary"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:binary_project:binary:0.4.1:*:*:*:*:go:*:*"
+	}
 }

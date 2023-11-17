@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cybozu:cybozu_office:9.3.0",
-  "deprecated": true,
-  "deprecation_date": "2016-02-23T19:26:09.823Z",
-  "title": [
-    {
-      "text": "Cybozu Cybozu Office 9.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://products.cybozu.co.jp/office/ver9/download/update/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cybozu:cybozu_office:9.3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-02-23T14:26:09.823-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cybozu:office:9.3.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cybozu:cybozu_office:9.3.0",
+	"deprecated": true,
+	"deprecation_date": "2016-02-23T19:26:09.823Z",
+	"title": [
+		{
+			"text": "Cybozu Cybozu Office 9.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://products.cybozu.co.jp/office/ver9/download/update/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cybozu:cybozu_office:9.3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-02-23T14:26:09.823-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cybozu:office:9.3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

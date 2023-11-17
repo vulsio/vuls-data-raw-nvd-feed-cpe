@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freeipa:freeipa:4.1.0",
-  "deprecated": true,
-  "deprecation_date": "2019-07-03T14:46:10.893Z",
-  "title": [
-    {
-      "text": "FreeIPA 4.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.freeipa.org"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.freeipa.org/page/Downloads"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freeipa:freeipa:4.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-03T10:46:10.893-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:freeipa:freeipa:4.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freeipa:freeipa:4.1.0",
+	"deprecated": true,
+	"deprecation_date": "2019-07-03T14:46:10.893Z",
+	"title": [
+		{
+			"text": "FreeIPA 4.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.freeipa.org"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.freeipa.org/page/Downloads"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freeipa:freeipa:4.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-03T10:46:10.893-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:freeipa:freeipa:4.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

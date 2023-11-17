@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mysql:mysql:4.0.8:gamma",
-  "deprecated": true,
-  "deprecation_date": "2019-10-07T16:41:55.640Z",
-  "title": [
-    {
-      "text": "MySQL MySQL 4.0.8 gamma",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mysql:mysql:4.0.8:gamma:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-07T12:41:55.640-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql:4.0.8:gamma:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mysql:mysql:4.0.8:gamma",
+	"deprecated": true,
+	"deprecation_date": "2019-10-07T16:41:55.640Z",
+	"title": [
+		{
+			"text": "MySQL MySQL 4.0.8 gamma",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mysql:mysql:4.0.8:gamma:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-07T12:41:55.640-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql:4.0.8:gamma:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:adobe:git-server:0.9.19",
-  "title": [
-    {
-      "text": "Adobe git-server 0.9.19",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://adobe.com"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/adobe/git-server/security/advisories/GHSA-cgj4-x2hh-2x93"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/adobe/git-server/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:git-server:0.9.19:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:adobe:git-server:0.9.19",
+	"title": [
+		{
+			"text": "Adobe git-server 0.9.19",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://adobe.com"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adobe/git-server/security/advisories/GHSA-cgj4-x2hh-2x93"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/adobe/git-server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:git-server:0.9.19:*:*:*:*:*:*:*"
+	}
 }

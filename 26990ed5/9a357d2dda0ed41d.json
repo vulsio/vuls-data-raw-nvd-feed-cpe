@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:drupal:web_links:6.x-1.0::~~~drupal~~",
-  "deprecated": true,
-  "deprecation_date": "2019-06-19T17:50:24.577Z",
-  "title": [
-    {
-      "text": "Drupal Web Links 6.x-1.0 for Drupal",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.drupal.org/project/weblinks/releases?api_version%5B%5D=39794"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:drupal:web_links:6.x-1.0:*:*:*:*:drupal:*:*",
-    "deprecation": {
-      "date": "2019-06-19T13:50:24.577-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:web_links_project:web_links:6.x-1.0:-:*:*:*:drupal:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:drupal:web_links:6.x-1.0::~~~drupal~~",
+	"deprecated": true,
+	"deprecation_date": "2019-06-19T17:50:24.577Z",
+	"title": [
+		{
+			"text": "Drupal Web Links 6.x-1.0 for Drupal",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.drupal.org/project/weblinks/releases?api_version%5B%5D=39794"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:drupal:web_links:6.x-1.0:*:*:*:*:drupal:*:*",
+		"deprecation": {
+			"date": "2019-06-19T13:50:24.577-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:web_links_project:web_links:6.x-1.0:-:*:*:*:drupal:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

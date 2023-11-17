@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bose:soundtouch:-::~~~android~~",
-  "title": [
-    {
-      "text": "Bose SoundTouch for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://downloads.bose.com/ced/soundtouch/soundtouch_controller_app/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://aryanitin.com/2017-01-01-CVE-2017-17749/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.bose.com/en_us/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bose:soundtouch:-:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:bose:soundtouch:-::~~~android~~",
+	"title": [
+		{
+			"text": "Bose SoundTouch for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://downloads.bose.com/ced/soundtouch/soundtouch_controller_app/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://aryanitin.com/2017-01-01-CVE-2017-17749/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.bose.com/en_us/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bose:soundtouch:-:*:*:*:*:android:*:*"
+	}
 }

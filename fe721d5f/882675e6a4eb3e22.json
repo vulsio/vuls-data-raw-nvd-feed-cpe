@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sonatype:nexus:2.7.0:04",
-  "title": [
-    {
-      "text": "Sonatype Nexus 2.7.0-04",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor security advisory for CVE-2014-2034",
-      "href": "https://support.sonatype.com/entries/42374566-CVE-2014-2034-Nexus-Security-Advisory-REST-API"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.sonatype.com/entries/21701998-Sonatype-Nexus-Upgrade-and-Compatibility-Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonatype:nexus:2.7.0:04:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sonatype:nexus:2.7.0:04",
+	"title": [
+		{
+			"text": "Sonatype Nexus 2.7.0-04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor security advisory for CVE-2014-2034",
+			"href": "https://support.sonatype.com/entries/42374566-CVE-2014-2034-Nexus-Security-Advisory-REST-API"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.sonatype.com/entries/21701998-Sonatype-Nexus-Upgrade-and-Compatibility-Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonatype:nexus:2.7.0:04:*:*:*:*:*:*"
+	}
 }

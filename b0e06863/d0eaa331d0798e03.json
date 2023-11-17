@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:python-scciclient_project:python-scciclient:0.11.0::~~~python~~",
-  "title": [
-    {
-      "text": "python-scciclient Project python-scciclient (Python ServerView Common Command Interface (SCCI) Client Library) 0.11.0 for Python",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://opendev.org/x/python-scciclient/commit/274dca0344b65b4ac113d3271d21c17e970a636c"
-    },
-    {
-      "text": "Version",
-      "href": "https://pypi.org/project/python-scciclient/#history"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2996.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python-scciclient_project:python-scciclient:0.11.0:*:*:*:*:python:*:*"
-  }
+	"name": "cpe:/a:python-scciclient_project:python-scciclient:0.11.0::~~~python~~",
+	"title": [
+		{
+			"text": "python-scciclient Project python-scciclient (Python ServerView Common Command Interface (SCCI) Client Library) 0.11.0 for Python",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://opendev.org/x/python-scciclient/commit/274dca0344b65b4ac113d3271d21c17e970a636c"
+		},
+		{
+			"text": "Version",
+			"href": "https://pypi.org/project/python-scciclient/#history"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2996.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python-scciclient_project:python-scciclient:0.11.0:*:*:*:*:python:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:analytify:analytify_-_google_analytics_dashboard:2.0.7::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Analytify - Google Analytics Dashboard 2.0.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-analytify/wordpress-analytify-plugin-4-2-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Product",
-      "href": "https://analytify.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-analytify/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:2.0.7:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:analytify:analytify_-_google_analytics_dashboard:2.0.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Analytify - Google Analytics Dashboard 2.0.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-analytify/wordpress-analytify-plugin-4-2-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://analytify.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-analytify/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:analytify:analytify_-_google_analytics_dashboard:2.0.7:*:*:*:*:wordpress:*:*"
+	}
 }

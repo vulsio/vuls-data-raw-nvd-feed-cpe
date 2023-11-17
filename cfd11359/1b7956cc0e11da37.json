@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:thememove:insight_core:1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "ThemeMove Insight Core 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/01d430ea-ef85-4529-9ae4-c1f70016bb75"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/insight-core/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://thememove.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:thememove:insight_core:1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:thememove:insight_core:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ThemeMove Insight Core 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/01d430ea-ef85-4529-9ae4-c1f70016bb75"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/insight-core/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://thememove.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thememove:insight_core:1.0:*:*:*:*:wordpress:*:*"
+	}
 }

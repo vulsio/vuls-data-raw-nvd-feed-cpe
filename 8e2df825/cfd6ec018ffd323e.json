@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bundler:bundler:2.1.0:pre1:~~~ruby~~",
-  "title": [
-    {
-      "text": "Bundler 2.1.0 Pre 1 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://bundler.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2019-3881"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/rubygems/bundler/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bundler:bundler:2.1.0:pre1:*:*:*:ruby:*:*"
-  }
+	"name": "cpe:/a:bundler:bundler:2.1.0:pre1:~~~ruby~~",
+	"title": [
+		{
+			"text": "Bundler 2.1.0 Pre 1 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bundler.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2019-3881"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rubygems/bundler/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bundler:bundler:2.1.0:pre1:*:*:*:ruby:*:*"
+	}
 }

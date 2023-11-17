@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:integration_service_registry:-",
-  "title": [
-    {
-      "text": "Red Hat Integration Service Registry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_integration/2020-q2/html-single/getting_started_with_service_registry/index"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-3536"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:integration_service_registry:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:integration_service_registry:-",
+	"title": [
+		{
+			"text": "Red Hat Integration Service Registry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_integration/2020-q2/html-single/getting_started_with_service_registry/index"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-3536"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:integration_service_registry:-:*:*:*:*:*:*:*"
+	}
 }

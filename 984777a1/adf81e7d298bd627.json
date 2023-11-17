@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:viewvc:viewvc:1.1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-04-07T15:02:44.853Z",
-  "title": [
-    {
-      "text": "ViewVC 1.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:viewvc:viewvc:1.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-07T11:02:44.853-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:viewvc:viewvc:1.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:viewvc:viewvc:1.1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-04-07T15:02:44.853Z",
+	"title": [
+		{
+			"text": "ViewVC 1.1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:viewvc:viewvc:1.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-07T11:02:44.853-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:viewvc:viewvc:1.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:modsecurity:modsecurity:2.5.7",
-  "deprecated": true,
-  "deprecation_date": "2021-02-10T15:55:14.543Z",
-  "title": [
-    {
-      "text": "ModSecurity 2.5.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:modsecurity:modsecurity:2.5.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-10T10:55:14.543-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:trustwave:modsecurity:2.5.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:modsecurity:modsecurity:2.5.7",
+	"deprecated": true,
+	"deprecation_date": "2021-02-10T15:55:14.543Z",
+	"title": [
+		{
+			"text": "ModSecurity 2.5.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:modsecurity:modsecurity:2.5.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-10T10:55:14.543-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:trustwave:modsecurity:2.5.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

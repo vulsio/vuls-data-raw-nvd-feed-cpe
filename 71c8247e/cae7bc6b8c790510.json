@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mailbutler:shimo:4.1.5.1::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T18:38:34.757Z",
-  "title": [
-    {
-      "text": "Mailbutler Shimo 4.1.5.1 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/VerSprite/research/blob/master/advisories/VS-2018-001.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mailbutler:shimo:4.1.5.1:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T14:38:34.757-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mailbutler:shimo:4.1.5.1:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mailbutler:shimo:4.1.5.1::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T18:38:34.757Z",
+	"title": [
+		{
+			"text": "Mailbutler Shimo 4.1.5.1 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/VerSprite/research/blob/master/advisories/VS-2018-001.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mailbutler:shimo:4.1.5.1:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T14:38:34.757-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mailbutler:shimo:4.1.5.1:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:fluxcd:source-controller:0.30.0",
-  "title": [
-    {
-      "text": "Fluxcd Source-controller 0.30.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/fluxcd/source-controller/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/fluxcd/flux2/security/advisories/GHSA-f4p5-x4vc-mh4v"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fluxcd:source-controller:0.30.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:fluxcd:source-controller:0.30.0",
+	"title": [
+		{
+			"text": "Fluxcd Source-controller 0.30.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/fluxcd/source-controller/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fluxcd/flux2/security/advisories/GHSA-f4p5-x4vc-mh4v"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fluxcd:source-controller:0.30.0:*:*:*:*:*:*:*"
+	}
 }

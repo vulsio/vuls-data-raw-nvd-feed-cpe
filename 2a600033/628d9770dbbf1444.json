@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kitodo:kitodo.presentation:3.1.2::~~~typo3~~",
-  "title": [
-    {
-      "text": "Kitodo kitodo.presentation 3.1.2 for TYPO3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://typo3.org/security/advisory/typo3-ext-sa-2020-015"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.kitodo.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/kitodo/kitodo-presentation"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kitodo:kitodo.presentation:3.1.2:*:*:*:*:typo3:*:*"
-  }
+	"name": "cpe:/a:kitodo:kitodo.presentation:3.1.2::~~~typo3~~",
+	"title": [
+		{
+			"text": "Kitodo kitodo.presentation 3.1.2 for TYPO3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://typo3.org/security/advisory/typo3-ext-sa-2020-015"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.kitodo.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/kitodo/kitodo-presentation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kitodo:kitodo.presentation:3.1.2:*:*:*:*:typo3:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:iobit:itop_vpn:3.2",
-  "title": [
-    {
-      "text": "IObit iTop VPN 3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.iobit.com/en/recommend/itopvpn.php"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24140.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:iobit:itop_vpn:3.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:iobit:itop_vpn:3.2",
+	"title": [
+		{
+			"text": "IObit iTop VPN 3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.iobit.com/en/recommend/itopvpn.php"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24140.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:iobit:itop_vpn:3.2:*:*:*:*:*:*:*"
+	}
 }

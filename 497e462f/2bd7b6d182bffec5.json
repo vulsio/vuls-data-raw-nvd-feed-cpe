@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:arm:arm-trusted-firmware:1.2:-",
-  "title": [
-    {
-      "text": "ARM Trusted Firmware 1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ARM-software/arm-trusted-firmware/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arm:arm-trusted-firmware:1.2:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:arm:arm-trusted-firmware:1.2:-",
+	"title": [
+		{
+			"text": "ARM Trusted Firmware 1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arm:arm-trusted-firmware:1.2:-:*:*:*:*:*:*"
+	}
 }

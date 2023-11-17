@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubevirt:kubevirt:0.17.0:-:~~~kubernetes~~",
-  "title": [
-    {
-      "text": "KubeVirt 0.17.0 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://kubevirt.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubevirt/kubevirt/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubevirt:kubevirt:0.17.0:-:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:kubevirt:kubevirt:0.17.0:-:~~~kubernetes~~",
+	"title": [
+		{
+			"text": "KubeVirt 0.17.0 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://kubevirt.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubevirt/kubevirt/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubevirt:kubevirt:0.17.0:-:*:*:*:kubernetes:*:*"
+	}
 }

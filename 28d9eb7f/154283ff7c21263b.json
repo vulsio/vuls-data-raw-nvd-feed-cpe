@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:open_vm_tools:10.3.0",
-  "title": [
-    {
-      "text": "VMware Open VM Tools 10.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/vmware/open-vm-tools/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2023-0019.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:open_vm_tools:10.3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:open_vm_tools:10.3.0",
+	"title": [
+		{
+			"text": "VMware Open VM Tools 10.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/vmware/open-vm-tools/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2023-0019.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:open_vm_tools:10.3.0:*:*:*:*:*:*:*"
+	}
 }

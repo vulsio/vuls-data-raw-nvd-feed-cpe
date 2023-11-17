@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:ishekar:endoscope_camera_firmware:-",
-  "title": [
-    {
-      "text": "iShekar Endoscope Camera Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "http://ishekar.com/en/Products/endoscope/20170711/53.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ishekar:endoscope_camera_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ishekar:endoscope_camera_firmware:-",
+	"title": [
+		{
+			"text": "iShekar Endoscope Camera Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Shekar_boriscope_sec_issues.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "http://ishekar.com/en/Products/endoscope/20170711/53.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ishekar:endoscope_camera_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:digitalocean:golang-nanoauth:-::~~~go~~",
-  "title": [
-    {
-      "text": "DigitalOcean golang-nanoauth for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nanobox-io/golang-nanoauth/pull/5"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.digitalocean.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0004"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digitalocean:golang-nanoauth:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:digitalocean:golang-nanoauth:-::~~~go~~",
+	"title": [
+		{
+			"text": "DigitalOcean golang-nanoauth for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nanobox-io/golang-nanoauth/pull/5"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.digitalocean.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0004"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digitalocean:golang-nanoauth:-:*:*:*:*:go:*:*"
+	}
 }

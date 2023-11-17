@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puppetlabs:puppetlabs-rabbitmq:3.0.0::~~~puppet~~",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T14:35:30.157Z",
-  "title": [
-    {
-      "text": "Puppetlabs RabbitMQ for Puppet 3.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product version information",
-      "href": "https://github.com/puppetlabs/puppetlabs-rabbitmq/releases"
-    },
-    {
-      "text": "Vendor website",
-      "href": "https://forge.puppetlabs.com/puppetlabs/rabbitmq"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.0.0:*:*:*:*:puppet:*:*",
-    "deprecation": {
-      "date": "2019-07-11T10:35:30.157-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:voxpupuli:rabbitmq:3.0.0:-:*:*:*:puppet:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:puppetlabs-rabbitmq:3.0.0::~~~puppet~~",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T14:35:30.157Z",
+	"title": [
+		{
+			"text": "Puppetlabs RabbitMQ for Puppet 3.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product version information",
+			"href": "https://github.com/puppetlabs/puppetlabs-rabbitmq/releases"
+		},
+		{
+			"text": "Vendor website",
+			"href": "https://forge.puppetlabs.com/puppetlabs/rabbitmq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:puppetlabs-rabbitmq:3.0.0:*:*:*:*:puppet:*:*",
+		"deprecation": {
+			"date": "2019-07-11T10:35:30.157-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:voxpupuli:rabbitmq:3.0.0:-:*:*:*:puppet:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

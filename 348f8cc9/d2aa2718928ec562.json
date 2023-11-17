@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:zmartzone:mod_auth_openidc:1.8.8",
-  "deprecated": true,
-  "deprecation_date": "2023-05-25T20:18:45.513Z",
-  "title": [
-    {
-      "text": "ZmartZone mod_auth_openidc 1.8.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/zmartzone/mod_auth_openidc"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.zmartzone.eu/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zmartzone:mod_auth_openidc:1.8.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-25T16:18:45.513-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openidc:mod_auth_openidc:1.8.8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zmartzone:mod_auth_openidc:1.8.8",
+	"deprecated": true,
+	"deprecation_date": "2023-05-25T20:18:45.513Z",
+	"title": [
+		{
+			"text": "ZmartZone mod_auth_openidc 1.8.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/zmartzone/mod_auth_openidc"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zmartzone.eu/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zmartzone:mod_auth_openidc:1.8.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-25T16:18:45.513-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openidc:mod_auth_openidc:1.8.8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

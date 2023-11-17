@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:sharp-nec-display:un552a_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T14:11:28.027Z",
-  "title": [
-    {
-      "text": "Sharp NEC Display Solutions UN552A FIRMWARE",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sharpnecdisplays.eu/p/eeme/en/products/details/t/Large-Format-Displays/Video-Wall-Displays/rp/UN552A.xhtml"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sharp-nec-display:un552a_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T10:11:28.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:sharp-nec-displays:un552a_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:sharp-nec-display:un552a_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T14:11:28.027Z",
+	"title": [
+		{
+			"text": "Sharp NEC Display Solutions UN552A FIRMWARE",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sharpnecdisplays.eu/p/eeme/en/products/details/t/Large-Format-Displays/Video-Wall-Displays/rp/UN552A.xhtml"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sharp-nec-display:un552a_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T10:11:28.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:sharp-nec-displays:un552a_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

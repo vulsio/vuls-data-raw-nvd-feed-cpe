@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:agilebits:1password:-:-:~~~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2020-01-22T14:56:34.080Z",
-  "title": [
-    {
-      "text": "AgileBits 1Password for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:agilebits:1password:-:-:*:*:*:windows:*:*",
-    "deprecation": {
-      "date": "2020-01-22T09:56:34.080-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:1password:1password:-:-:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:agilebits:1password:-:-:~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2020-01-22T14:56:34.080Z",
+	"title": [
+		{
+			"text": "AgileBits 1Password for Windows",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agilebits:1password:-:-:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2020-01-22T09:56:34.080-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:1password:1password:-:-:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

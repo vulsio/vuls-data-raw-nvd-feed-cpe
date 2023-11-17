@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:discourse:discourse_reactions:0.2::~~~discourse~~",
-  "title": [
-    {
-      "text": "Discourse Reactions 0.2 for Discourse",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/discourse/discourse-reactions/security/advisories/GHSA-9358-hwg5-jrmh"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/discourse/discourse-reactions/commit/9175a6543b819c09c2a20672b9dcdf03ffdc49bb"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/discourse/discourse-reactions"
-    },
-    {
-      "text": "Product",
-      "href": "https://meta.discourse.org/t/discourse-reactions-beyond-likes/183261"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:discourse:discourse_reactions:0.2:*:*:*:*:discourse:*:*"
-  }
+	"name": "cpe:/a:discourse:discourse_reactions:0.2::~~~discourse~~",
+	"title": [
+		{
+			"text": "Discourse Reactions 0.2 for Discourse",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/discourse/discourse-reactions/security/advisories/GHSA-9358-hwg5-jrmh"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/discourse/discourse-reactions/commit/9175a6543b819c09c2a20672b9dcdf03ffdc49bb"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/discourse/discourse-reactions"
+		},
+		{
+			"text": "Product",
+			"href": "https://meta.discourse.org/t/discourse-reactions-beyond-likes/183261"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:discourse:discourse_reactions:0.2:*:*:*:*:discourse:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:iongroup:wallstreet_suite:7.4.83::~~~~x64~",
-  "title": [
-    {
-      "text": "ION Wallstreet Suite 7.4.83 on x64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://iongroup.com/treasury/products/wallstreet-suite/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/41xxx/CVE-2021-41320.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://excellium-services.com/cert-xlm-advisory/CVE-2021-41320/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:iongroup:wallstreet_suite:7.4.83:*:*:*:*:*:x64:*"
-  }
+	"name": "cpe:/a:iongroup:wallstreet_suite:7.4.83::~~~~x64~",
+	"title": [
+		{
+			"text": "ION Wallstreet Suite 7.4.83 on x64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://iongroup.com/treasury/products/wallstreet-suite/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/41xxx/CVE-2021-41320.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://excellium-services.com/cert-xlm-advisory/CVE-2021-41320/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:iongroup:wallstreet_suite:7.4.83:*:*:*:*:*:x64:*"
+	}
 }

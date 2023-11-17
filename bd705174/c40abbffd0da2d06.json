@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:remote_desktop:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Microsoft Remote Desktop for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?rtc=1&activetab=pivot:overviewtab"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1669"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:remote_desktop:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:microsoft:remote_desktop:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Microsoft Remote Desktop for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?rtc=1&activetab=pivot:overviewtab"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1669"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:remote_desktop:-:*:*:*:*:windows:*:*"
+	}
 }

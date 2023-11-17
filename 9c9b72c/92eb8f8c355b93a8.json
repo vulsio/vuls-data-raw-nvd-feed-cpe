@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux_hpc_node_eus:7.1",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux HPC Node Extended Update Support (EUS) 7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://access.redhat.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://rhn.redhat.com/errata/RHSA-2015-1890.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux_hpc_node_eus:7.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux_hpc_node_eus:7.1",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux HPC Node Extended Update Support (EUS) 7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://access.redhat.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://rhn.redhat.com/errata/RHSA-2015-1890.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux_hpc_node_eus:7.1:*:*:*:*:*:*:*"
+	}
 }

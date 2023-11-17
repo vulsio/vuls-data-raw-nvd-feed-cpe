@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gnu:inetutils:2.3",
-  "title": [
-    {
-      "text": "GNU Inetutils 2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://git.hadrons.org/cgit/debian/pkgs/inetutils.git/commit/?id=113da8021710d871c7dd72d2a4d5615d42d64289"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/39xxx/CVE-2022-39028.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnu:inetutils:2.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnu:inetutils:2.3",
+	"title": [
+		{
+			"text": "GNU Inetutils 2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://git.hadrons.org/cgit/debian/pkgs/inetutils.git/commit/?id=113da8021710d871c7dd72d2a4d5615d42d64289"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/39xxx/CVE-2022-39028.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnu:inetutils:2.3:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nodejs:node.js:6.11.3",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T17:58:02.907Z",
-  "title": [
-    {
-      "text": "nodejs Node.js 6.11.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://nodejs.org/en/download/releases/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://nodejs.org/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:6.11.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-10T12:58:02.907-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nodejs:node.js:6.11.3:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nodejs:node.js:6.11.3",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T17:58:02.907Z",
+	"title": [
+		{
+			"text": "nodejs Node.js 6.11.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://nodejs.org/en/download/releases/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://nodejs.org/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:6.11.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-10T12:58:02.907-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:6.11.3:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

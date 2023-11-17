@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kingsoft:wps_office:-",
-  "title": [
-    {
-      "text": "Kingsoft WPS Office",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://zeifan.my/security/rce/heap/2020/09/03/wps-rce-heap.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.kingsoft.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.wps.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kingsoft:wps_office:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kingsoft:wps_office:-",
+	"title": [
+		{
+			"text": "Kingsoft WPS Office",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://zeifan.my/security/rce/heap/2020/09/03/wps-rce-heap.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.kingsoft.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.wps.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kingsoft:wps_office:-:*:*:*:*:*:*:*"
+	}
 }

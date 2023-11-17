@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hitachi:storage_plug-in:04.8.0::~~~vmware_vcenter~~",
-  "title": [
-    {
-      "text": "Hitachi Storage Plug-in 04.8.0 for vMware vCenter",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.hitachi.co.jp/Prod/comp/soft1/global/security/info/vuls/hitachi-sec-2022-131/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/VMware/Storage_Plug-in_for_VMware_vCenter/4.8.0/Storage_Plug-in_for_VMware_vCenter_v04.8.0_Release_Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hitachi:storage_plug-in:04.8.0:*:*:*:*:vmware_vcenter:*:*"
-  }
+	"name": "cpe:/a:hitachi:storage_plug-in:04.8.0::~~~vmware_vcenter~~",
+	"title": [
+		{
+			"text": "Hitachi Storage Plug-in 04.8.0 for vMware vCenter",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.hitachi.co.jp/Prod/comp/soft1/global/security/info/vuls/hitachi-sec-2022-131/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://knowledge.hitachivantara.com/Documents/Adapters_and_Drivers/Storage_Adapters_and_Drivers/VMware/Storage_Plug-in_for_VMware_vCenter/4.8.0/Storage_Plug-in_for_VMware_vCenter_v04.8.0_Release_Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hitachi:storage_plug-in:04.8.0:*:*:*:*:vmware_vcenter:*:*"
+	}
 }

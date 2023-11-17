@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:conemu_project:conemu:230724",
-  "deprecated": true,
-  "deprecation_date": "2023-10-03T15:18:33.707Z",
-  "title": [
-    {
-      "text": "Conemu Project Conemu 230724",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Maximus5/ConEmu/commit/60683a186628ffaa7689fcb64b3c38ced69287c1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:conemu_project:conemu:230724:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-03T11:18:33.707-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:maximus5:conemu:23.07.24:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:conemu_project:conemu:230724",
+	"deprecated": true,
+	"deprecation_date": "2023-10-03T15:18:33.707Z",
+	"title": [
+		{
+			"text": "Conemu Project Conemu 230724",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Maximus5/ConEmu/commit/60683a186628ffaa7689fcb64b3c38ced69287c1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:conemu_project:conemu:230724:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-03T11:18:33.707-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:maximus5:conemu:23.07.24:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

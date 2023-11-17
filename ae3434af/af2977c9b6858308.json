@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dhacoin_project:dhacoin:-",
-  "title": [
-    {
-      "text": "DhaCoin Project DhaCoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xaA70bC3e835e12D6902a8E4dA77db4842e519c42#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dhacoin_project:dhacoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dhacoin_project:dhacoin:-",
+	"title": [
+		{
+			"text": "DhaCoin Project DhaCoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xaA70bC3e835e12D6902a8E4dA77db4842e519c42#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dhacoin_project:dhacoin:-:*:*:*:*:*:*:*"
+	}
 }

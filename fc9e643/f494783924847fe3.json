@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:bitcoin:bitcoin-qt:0.6.0.8",
-  "deprecated": true,
-  "deprecation_date": "2020-03-18T17:29:10.080Z",
-  "title": [
-    {
-      "text": "bitcoin Bitcoin-Qt 0.6.0.8",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitcoin:bitcoin-qt:0.6.0.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-18T13:29:10.080-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0.8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bitcoin:bitcoin-qt:0.6.0.8",
+	"deprecated": true,
+	"deprecation_date": "2020-03-18T17:29:10.080Z",
+	"title": [
+		{
+			"text": "bitcoin Bitcoin-Qt 0.6.0.8",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitcoin:bitcoin-qt:0.6.0.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-18T13:29:10.080-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bitcoin:bitcoin_core:0.6.0.8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

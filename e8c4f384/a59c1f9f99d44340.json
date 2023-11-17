@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:nitrokey:fido2:-",
-  "title": [
-    {
-      "text": "Nitrokey FIDO2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nitrokey.com/news/2019/new-nitrokey-fido2-2fa-and-passwordless-login"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202238"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27208.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:nitrokey:fido2:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:nitrokey:fido2:-",
+	"title": [
+		{
+			"text": "Nitrokey FIDO2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nitrokey.com/news/2019/new-nitrokey-fido2-2fa-and-passwordless-login"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202238"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27208.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nitrokey:fido2:-:*:*:*:*:*:*:*"
+	}
 }

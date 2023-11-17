@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:xmldom_project:xmldom:0.1.4::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2022-10-27T15:16:09.700Z",
-  "title": [
-    {
-      "text": "Xmldom Project Xmldom 0.1.4 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/xmldom/xmldom"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/xmldom/xmldom/security/advisories/GHSA-h6q6-9hqw-rwfv"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.npmjs.com/package/xmldom"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xmldom_project:xmldom:0.1.4:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2022-10-27T11:16:09.700-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xmldom_project:xmldom:0.1.4:-:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xmldom_project:xmldom:0.1.4::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2022-10-27T15:16:09.700Z",
+	"title": [
+		{
+			"text": "Xmldom Project Xmldom 0.1.4 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/xmldom/xmldom"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/xmldom/xmldom/security/advisories/GHSA-h6q6-9hqw-rwfv"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.npmjs.com/package/xmldom"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xmldom_project:xmldom:0.1.4:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2022-10-27T11:16:09.700-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xmldom_project:xmldom:0.1.4:-:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

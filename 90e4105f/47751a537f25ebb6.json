@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:open-uri-cached_project:open-uri-cached:2012-01-07",
-  "deprecated": true,
-  "deprecation_date": "2020-11-05T14:55:31.397Z",
-  "title": [
-    {
-      "text": "Open-uri-cached Project Open-uri-cached 2012-01-07",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/tigris/open-uri-cached/commits/master"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:2012-01-07:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-05T09:55:31.397-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:open-uri-cached_project:open-uri-cached:2012-01-07",
+	"deprecated": true,
+	"deprecation_date": "2020-11-05T14:55:31.397Z",
+	"title": [
+		{
+			"text": "Open-uri-cached Project Open-uri-cached 2012-01-07",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/tigris/open-uri-cached/commits/master"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:2012-01-07:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-05T09:55:31.397-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:open-uri-cached_project:open-uri-cached:0.0.5:*:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

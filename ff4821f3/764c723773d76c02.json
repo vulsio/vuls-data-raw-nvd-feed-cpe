@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_20h2:-",
-  "deprecated": true,
-  "deprecation_date": "2023-10-14T21:33:13.750Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 20H2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://learn.microsoft.com/en-us/lifecycle/products/windows-server-semiannual-channel"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-35743"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-14T17:33:13.750-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_20h2:-",
+	"deprecated": true,
+	"deprecation_date": "2023-10-14T21:33:13.750Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 20H2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/lifecycle/products/windows-server-semiannual-channel"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-35743"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-14T17:33:13.750-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_20h2:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

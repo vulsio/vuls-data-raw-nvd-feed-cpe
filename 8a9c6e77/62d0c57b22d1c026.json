@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:debian:trousers:0.2.9",
-  "deprecated": true,
-  "deprecation_date": "2020-08-17T15:54:31.040Z",
-  "title": [
-    {
-      "text": "Debian TrouSerS 0.2.9",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:trousers:0.2.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-17T11:54:31.040-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:trustedcomputinggroup:trousers:0.2.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:trousers:0.2.9",
+	"deprecated": true,
+	"deprecation_date": "2020-08-17T15:54:31.040Z",
+	"title": [
+		{
+			"text": "Debian TrouSerS 0.2.9",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:trousers:0.2.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-17T11:54:31.040-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:trustedcomputinggroup:trousers:0.2.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

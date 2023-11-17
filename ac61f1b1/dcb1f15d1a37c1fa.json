@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:simple_giveaways_project:simple_giveaways:2.28.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-07-12T20:04:55.073Z",
-  "title": [
-    {
-      "text": "Simple Giveaways Project Simple Giveaways 2.28.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/giveasap/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/30aebded-3eb3-4dda-90b5-12de5e622c91"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple_giveaways_project:simple_giveaways:2.28.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-07-12T16:04:55.073-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibenic:simple_giveaways:2.28.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:simple_giveaways_project:simple_giveaways:2.28.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-07-12T20:04:55.073Z",
+	"title": [
+		{
+			"text": "Simple Giveaways Project Simple Giveaways 2.28.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/giveasap/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/30aebded-3eb3-4dda-90b5-12de5e622c91"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple_giveaways_project:simple_giveaways:2.28.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-07-12T16:04:55.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibenic:simple_giveaways:2.28.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

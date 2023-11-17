@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:nodejs:node.js:4.2.4:rc1",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T17:54:23.710Z",
-  "title": [
-    {
-      "text": "Nodejs Node.js 4.2.4 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nodejs/node"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-10T12:54:23.710-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nodejs:node.js:4.2.4:rc1",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T17:54:23.710Z",
+	"title": [
+		{
+			"text": "Nodejs Node.js 4.2.4 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nodejs/node"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-10T12:54:23.710-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:4.2.4:rc1:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

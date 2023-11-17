@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:dlink:dsl-2888a_firmware:-",
-  "title": [
-    {
-      "text": "D-Link DSL-2888A Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.dlink.com/en/products/dsl-2888a-dual-band-wireless-ac1600-gigabit-adsl2vdsl2-modem-router"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/24xxx/CVE-2020-24577.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dsl-2888a_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dsl-2888a_firmware:-",
+	"title": [
+		{
+			"text": "D-Link DSL-2888A Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/d-link-multiple-security-vulnerabilities-leading-to-rce/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.dlink.com/en/products/dsl-2888a-dual-band-wireless-ac1600-gigabit-adsl2vdsl2-modem-router"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/24xxx/CVE-2020-24577.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dsl-2888a_firmware:-:*:*:*:*:*:*:*"
+	}
 }

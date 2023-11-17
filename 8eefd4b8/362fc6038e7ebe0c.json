@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:abb:rtu500:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-19T15:32:23.947Z",
-  "title": [
-    {
-      "text": "ABB RTU500",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8934&LanguageCode=en&DocumentPartId=&Action=Launch"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://global.abb/group/en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:abb:rtu500:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-19T11:32:23.947-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:hitachienergy:rtu500:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:abb:rtu500:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-19T15:32:23.947Z",
+	"title": [
+		{
+			"text": "ABB RTU500",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8934&LanguageCode=en&DocumentPartId=&Action=Launch"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://global.abb/group/en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:abb:rtu500:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-19T11:32:23.947-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:hitachienergy:rtu500:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

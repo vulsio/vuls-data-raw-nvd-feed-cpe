@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:krzysztof_kowalczyk:sumatrapdf:1.2",
-  "deprecated": true,
-  "deprecation_date": "2020-03-11T14:58:23.320Z",
-  "title": [
-    {
-      "text": "Krzysztof J. Kowalczyk SumatraPDF 1.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:krzysztof_kowalczyk:sumatrapdf:1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-11T10:58:23.320-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sumatrapdfreader:sumatrapdf:1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:krzysztof_kowalczyk:sumatrapdf:1.2",
+	"deprecated": true,
+	"deprecation_date": "2020-03-11T14:58:23.320Z",
+	"title": [
+		{
+			"text": "Krzysztof J. Kowalczyk SumatraPDF 1.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:krzysztof_kowalczyk:sumatrapdf:1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-11T10:58:23.320-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sumatrapdfreader:sumatrapdf:1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pfsense:pfsense:2.4.5:p1",
-  "title": [
-    {
-      "text": "pfSense 2.4.5 Patch 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.pfsense.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/pfsense/pfsense/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/pfsense/pfsense/commit/a220a22a8c05c10a7b875ac6b565f2c4fe7b251c"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pfsense:pfsense:2.4.5:p1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pfsense:pfsense:2.4.5:p1",
+	"title": [
+		{
+			"text": "pfSense 2.4.5 Patch 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.pfsense.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pfsense/pfsense/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pfsense/pfsense/commit/a220a22a8c05c10a7b875ac6b565f2c4fe7b251c"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pfsense:pfsense:2.4.5:p1:*:*:*:*:*:*"
+	}
 }

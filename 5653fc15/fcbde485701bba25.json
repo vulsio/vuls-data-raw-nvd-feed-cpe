@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:moodle:moodle:1.9",
-  "deprecated": true,
-  "deprecation_date": "2020-12-01T14:43:52.863Z",
-  "title": [
-    {
-      "text": "Moodle 1.9",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moodle:moodle:1.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-01T09:43:52.863-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:moodle:moodle:1.9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:moodle:moodle:1.9",
+	"deprecated": true,
+	"deprecation_date": "2020-12-01T14:43:52.863Z",
+	"title": [
+		{
+			"text": "Moodle 1.9",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moodle:moodle:1.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-01T09:43:52.863-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:moodle:moodle:1.9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

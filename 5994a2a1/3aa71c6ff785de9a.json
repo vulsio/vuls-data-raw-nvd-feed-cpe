@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kde:paste_applet:4.6.3",
-  "title": [
-    {
-      "text": "KDE Paste Applet 4.6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2013-2120"
-    },
-    {
-      "text": "Version",
-      "href": "https://cgit.kde.org/kdeplasma-addons.git/refs/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://kde.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kde:paste_applet:4.6.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kde:paste_applet:4.6.3",
+	"title": [
+		{
+			"text": "KDE Paste Applet 4.6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2013-2120"
+		},
+		{
+			"text": "Version",
+			"href": "https://cgit.kde.org/kdeplasma-addons.git/refs/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://kde.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kde:paste_applet:4.6.3:*:*:*:*:*:*:*"
+	}
 }

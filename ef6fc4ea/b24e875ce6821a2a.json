@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:jboss_core_services_httpd:2.4.37:sp3",
-  "title": [
-    {
-      "text": "Red Hat JBoss Core Services HTTPd 2.4.37 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1892703"
-    },
-    {
-      "text": "Version",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_core_services/2.4.37/html-single/red_hat_jboss_core_services_apache_http_server_2.4.37_service_pack_3_release_notes/index"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jboss_core_services_httpd:2.4.37:sp3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jboss_core_services_httpd:2.4.37:sp3",
+	"title": [
+		{
+			"text": "Red Hat JBoss Core Services HTTPd 2.4.37 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1892703"
+		},
+		{
+			"text": "Version",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_core_services/2.4.37/html-single/red_hat_jboss_core_services_apache_http_server_2.4.37_service_pack_3_release_notes/index"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jboss_core_services_httpd:2.4.37:sp3:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:opendev:octavia:1.0.0:beta1:~~~openstack~~",
-  "title": [
-    {
-      "text": "Opendev Octavia 1.0.0 Beta 1 for OpenStack",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.openstack.org/ossa/OSSA-2019-005.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/octavia/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opendev:octavia:1.0.0:beta1:*:*:*:openstack:*:*"
-  }
+	"name": "cpe:/a:opendev:octavia:1.0.0:beta1:~~~openstack~~",
+	"title": [
+		{
+			"text": "Opendev Octavia 1.0.0 Beta 1 for OpenStack",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.openstack.org/ossa/OSSA-2019-005.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/octavia/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opendev:octavia:1.0.0:beta1:*:*:*:openstack:*:*"
+	}
 }

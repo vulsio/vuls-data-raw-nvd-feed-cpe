@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dcs-1130_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DCS-1130 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.dlink.com/emulators/dcs1130/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dcs-1130_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dcs-1130_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dcs-1130_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DCS-1130 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.dlink.com/emulators/dcs1130/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dcs-1130_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dcs-1130_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

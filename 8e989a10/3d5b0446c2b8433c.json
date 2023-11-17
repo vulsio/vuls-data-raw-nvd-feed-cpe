@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:pheonixcontact-software:proconos_eclr:-::~~visual_studio~~~",
-  "deprecated": true,
-  "deprecation_date": "2018-11-28T17:31:58.003Z",
-  "title": [
-    {
-      "text": "Pheonix Contact Software ProConOS eCLR Visual Studio",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "https://www.phoenixcontact-software.com/en/iec-61131-control/runtime-systems/proconos-eclr-visual-studio"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
-    "deprecation": {
-      "date": "2018-11-28T12:31:58.003-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:pheonixcontact-software:proconos_eclr:-::~~visual_studio~~~",
+	"deprecated": true,
+	"deprecation_date": "2018-11-28T17:31:58.003Z",
+	"title": [
+		{
+			"text": "Pheonix Contact Software ProConOS eCLR Visual Studio",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "https://www.phoenixcontact-software.com/en/iec-61131-control/runtime-systems/proconos-eclr-visual-studio"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:pheonixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
+		"deprecation": {
+			"date": "2018-11-28T12:31:58.003-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:phoenixcontact-software:proconos_eclr:-:*:*:*:visual_studio:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

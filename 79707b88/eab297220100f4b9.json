@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:shopfiles:ebook_store:5.775::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Shopfiles Ebook Store 5.775 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ebook-store/wordpress-ebook-store-plugin-5-775-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.shopfiles.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://wordpress.com/plugins/ebook-store"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:shopfiles:ebook_store:5.775:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:shopfiles:ebook_store:5.775::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Shopfiles Ebook Store 5.775 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ebook-store/wordpress-ebook-store-plugin-5-775-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.shopfiles.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.com/plugins/ebook-store"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shopfiles:ebook_store:5.775:*:*:*:*:wordpress:*:*"
+	}
 }

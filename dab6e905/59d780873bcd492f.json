@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:debian:apt:0.7.18",
-  "deprecated": true,
-  "deprecation_date": "2020-01-08T15:11:36.047Z",
-  "title": [
-    {
-      "text": "Debian APT 0.7.18",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:apt:0.7.18:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-08T10:11:36.047-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:debian:advanced_package_tool:0.7.18:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:apt:0.7.18",
+	"deprecated": true,
+	"deprecation_date": "2020-01-08T15:11:36.047Z",
+	"title": [
+		{
+			"text": "Debian APT 0.7.18",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:apt:0.7.18:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-08T10:11:36.047-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:debian:advanced_package_tool:0.7.18:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

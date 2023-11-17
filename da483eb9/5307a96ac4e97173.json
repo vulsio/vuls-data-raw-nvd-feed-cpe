@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:otrs:ticket_forms:6.0.40",
-  "title": [
-    {
-      "text": "OTRS Ticket Forms 6.0.40",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://doc.otrs.com/doc/manual/fao/8.0/en/content/ticket-forms.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/1xxx/CVE-2020-1779.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:otrs:ticket_forms:6.0.40:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:otrs:ticket_forms:6.0.40",
+	"title": [
+		{
+			"text": "OTRS Ticket Forms 6.0.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://doc.otrs.com/doc/manual/fao/8.0/en/content/ticket-forms.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/1xxx/CVE-2020-1779.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:otrs:ticket_forms:6.0.40:*:*:*:*:*:*:*"
+	}
 }

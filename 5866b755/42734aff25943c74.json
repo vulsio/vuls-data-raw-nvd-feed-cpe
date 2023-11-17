@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:civicrm:civicrm:4.4:alpha1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-16T18:09:34.480Z",
-  "title": [
-    {
-      "text": "CiviCRM 4.4 alpha1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor website",
-      "href": "https://civicrm.org"
-    },
-    {
-      "text": "version information",
-      "href": "http://sourceforge.net/projects/civicrm/files/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:civicrm:civicrm:4.4:alpha1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-16T14:09:34.480-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:civicrm:civicrm:4.4.0:alpha1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:civicrm:civicrm:4.4:alpha1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-16T18:09:34.480Z",
+	"title": [
+		{
+			"text": "CiviCRM 4.4 alpha1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor website",
+			"href": "https://civicrm.org"
+		},
+		{
+			"text": "version information",
+			"href": "http://sourceforge.net/projects/civicrm/files/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:civicrm:civicrm:4.4:alpha1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-16T14:09:34.480-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:civicrm:civicrm:4.4.0:alpha1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

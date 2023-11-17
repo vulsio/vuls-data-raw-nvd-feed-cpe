@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dell:enterprise_sonic_distribution:3.5.3",
-  "title": [
-    {
-      "text": "Dell Enterprise Sonic Distribution (SONiC OS) 3.5.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/en-us/dt/networking/sonic/index.htm#accordion0"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000208165/dsa-2023-039-dell-emc-enterprise-sonic-security-update-for-an-uncontrolled-resource-consumption-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:enterprise_sonic_distribution:3.5.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:enterprise_sonic_distribution:3.5.3",
+	"title": [
+		{
+			"text": "Dell Enterprise Sonic Distribution (SONiC OS) 3.5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/en-us/dt/networking/sonic/index.htm#accordion0"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000208165/dsa-2023-039-dell-emc-enterprise-sonic-security-update-for-an-uncontrolled-resource-consumption-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:enterprise_sonic_distribution:3.5.3:*:*:*:*:*:*:*"
+	}
 }

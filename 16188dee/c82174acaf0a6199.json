@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:ivanti:mobileiron:11.1.0.0",
-  "title": [
-    {
-      "text": "Ivanti Mobileiron 11.1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://help.ivanti.com/mi/help/en_us/core/11.3.0.0/rn/CoreConnectorReleaseNotes/PreviousReleaseNotes.htm"
-    },
-    {
-      "text": "Product",
-      "href": "https://help.ivanti.com/mi/help/en_US/core/10.7.0.0/gsg/Content/CoreGettingStarted/MobileIron_Core_overview.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.rapid7.com/blog/post/2021/06/02/untitled-cve-2021-3198-and-cve-2021-3540-mobileiron-shell-escape-privilege-escalation-vulnerabilities/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3198.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ivanti:mobileiron:11.1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ivanti:mobileiron:11.1.0.0",
+	"title": [
+		{
+			"text": "Ivanti Mobileiron 11.1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://help.ivanti.com/mi/help/en_us/core/11.3.0.0/rn/CoreConnectorReleaseNotes/PreviousReleaseNotes.htm"
+		},
+		{
+			"text": "Product",
+			"href": "https://help.ivanti.com/mi/help/en_US/core/10.7.0.0/gsg/Content/CoreGettingStarted/MobileIron_Core_overview.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/blog/post/2021/06/02/untitled-cve-2021-3198-and-cve-2021-3540-mobileiron-shell-escape-privilege-escalation-vulnerabilities/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3198.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:mobileiron:11.1.0.0:*:*:*:*:*:*:*"
+	}
 }

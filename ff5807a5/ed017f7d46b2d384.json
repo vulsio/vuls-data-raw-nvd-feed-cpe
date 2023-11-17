@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:relevanssi:relevanssi:1.14.6.1::~~premium~wordpress~~",
-  "title": [
-    {
-      "text": "Relevanssi 1.14.6.1 Premium Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.relevanssi.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://advisories.dxw.com/advisories/sql-injection-and-unserialization-vulnerability-in-relevanssi-premium-could-allow-admins-to-execute-arbitrary-code-in-some-circumstances/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:relevanssi:relevanssi:1.14.6.1:*:*:*:premium:wordpress:*:*"
-  }
+	"name": "cpe:/a:relevanssi:relevanssi:1.14.6.1::~~premium~wordpress~~",
+	"title": [
+		{
+			"text": "Relevanssi 1.14.6.1 Premium Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.relevanssi.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://advisories.dxw.com/advisories/sql-injection-and-unserialization-vulnerability-in-relevanssi-premium-could-allow-admins-to-execute-arbitrary-code-in-some-circumstances/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:relevanssi:relevanssi:1.14.6.1:*:*:*:premium:wordpress:*:*"
+	}
 }

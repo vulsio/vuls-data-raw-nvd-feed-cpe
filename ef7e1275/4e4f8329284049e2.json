@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:proxifier:proxifier:2.19.2::~~~macos~~",
-  "title": [
-    {
-      "text": "Proxifier 2.19.2 for macOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://m4.rkw.io/blog/cve20177690-local-root-privesc-in-proxifier-for-mac-219.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.proxifier.com/changelog/mac.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:proxifier:proxifier:2.19.2:*:*:*:*:macos:*:*"
-  }
+	"name": "cpe:/a:proxifier:proxifier:2.19.2::~~~macos~~",
+	"title": [
+		{
+			"text": "Proxifier 2.19.2 for macOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://m4.rkw.io/blog/cve20177690-local-root-privesc-in-proxifier-for-mac-219.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.proxifier.com/changelog/mac.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:proxifier:proxifier:2.19.2:*:*:*:*:macos:*:*"
+	}
 }

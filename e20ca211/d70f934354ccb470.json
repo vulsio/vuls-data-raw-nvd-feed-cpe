@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:sap:gardener:0.7.0",
-  "deprecated": true,
-  "deprecation_date": "2019-05-29T18:01:40.443Z",
-  "title": [
-    {
-      "text": "SAP Gardener 0.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/gardener/gardener/releases"
-    },
-    {
-      "text": "Project",
-      "href": "https://gardener.cloud/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://landscape.cncf.io/organization=sap"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:gardener:0.7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-29T14:01:40.443-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gardener:gardener:0.7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sap:gardener:0.7.0",
+	"deprecated": true,
+	"deprecation_date": "2019-05-29T18:01:40.443Z",
+	"title": [
+		{
+			"text": "SAP Gardener 0.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/gardener/gardener/releases"
+		},
+		{
+			"text": "Project",
+			"href": "https://gardener.cloud/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://landscape.cncf.io/organization=sap"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:gardener:0.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-29T14:01:40.443-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gardener:gardener:0.7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

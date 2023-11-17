@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:ansible_runner:1.0.4",
-  "title": [
-    {
-      "text": "Red Hat Ansible Runner 1.0.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2028074"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ansible/ansible-runner/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:ansible_runner:1.0.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:ansible_runner:1.0.4",
+	"title": [
+		{
+			"text": "Red Hat Ansible Runner 1.0.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2028074"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ansible/ansible-runner/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:ansible_runner:1.0.4:*:*:*:*:*:*:*"
+	}
 }

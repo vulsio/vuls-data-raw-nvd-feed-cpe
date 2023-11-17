@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:igateway:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T16:53:51.417Z",
-  "title": [
-    {
-      "text": "Computer Associates iGateway",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:igateway:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T12:53:51.417-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:igateway:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T16:53:51.417Z",
+	"title": [
+		{
+			"text": "Computer Associates iGateway",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:igateway:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T12:53:51.417-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:igateway:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:abb:ip_gateway_firmware:3.39",
-  "title": [
-    {
-      "text": "ABB IP Gateway 3.39",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://library.e.abb.com/public/3dbb7cdeb67d408a85bbe2607d902ef5/ABB-Welcome%20system%2083342%20IP%20gateway%20online_EN_V1.2_20170215.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-18-156-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:ip_gateway_firmware:3.39:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:abb:ip_gateway_firmware:3.39",
+	"title": [
+		{
+			"text": "ABB IP Gateway 3.39",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://library.e.abb.com/public/3dbb7cdeb67d408a85bbe2607d902ef5/ABB-Welcome%20system%2083342%20IP%20gateway%20online_EN_V1.2_20170215.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-18-156-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:ip_gateway_firmware:3.39:*:*:*:*:*:*:*"
+	}
 }

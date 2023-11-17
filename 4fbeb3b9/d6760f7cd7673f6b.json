@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:woocommerce:woocommerce:4.7.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-05-21T18:50:50.897Z",
-  "title": [
-    {
-      "text": "WooCommerce 4.7.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/woocommerce/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Ko-kn3t/CVE-2020-29156"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-05-21T14:50:50.897-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:-:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:woocommerce:woocommerce:4.7.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-05-21T18:50:50.897Z",
+	"title": [
+		{
+			"text": "WooCommerce 4.7.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/woocommerce/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Ko-kn3t/CVE-2020-29156"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://raw.githubusercontent.com/woocommerce/woocommerce/master/CHANGELOG.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-05-21T14:50:50.897-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:woocommerce:woocommerce:4.7.0:-:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

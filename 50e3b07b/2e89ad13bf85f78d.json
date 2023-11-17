@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:bitcoin:bitcoind:0.5.6:rc2",
-  "deprecated": true,
-  "deprecation_date": "2020-03-18T17:37:55.027Z",
-  "title": [
-    {
-      "text": "bitcoind 0.5.6 release candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitcoin:bitcoind:0.5.6:rc2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-18T13:37:55.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.5.6:rc2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bitcoin:bitcoind:0.5.6:rc2",
+	"deprecated": true,
+	"deprecation_date": "2020-03-18T17:37:55.027Z",
+	"title": [
+		{
+			"text": "bitcoind 0.5.6 release candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitcoin:bitcoind:0.5.6:rc2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-18T13:37:55.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bitcoin:bitcoin_core:0.5.6:rc2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

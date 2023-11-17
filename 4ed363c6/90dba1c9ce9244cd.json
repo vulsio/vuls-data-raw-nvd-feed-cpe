@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:owasp:coreruleset:3.0.0:rc3",
-  "title": [
-    {
-      "text": "Owasp Coreruleset 3.0.0 Release Candidate 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/38xxx/CVE-2023-38199.json"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/coreruleset/coreruleset/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://coreruleset.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:owasp:coreruleset:3.0.0:rc3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:owasp:coreruleset:3.0.0:rc3",
+	"title": [
+		{
+			"text": "Owasp Coreruleset 3.0.0 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/38xxx/CVE-2023-38199.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/coreruleset/coreruleset/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://coreruleset.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:owasp:coreruleset:3.0.0:rc3:*:*:*:*:*:*"
+	}
 }

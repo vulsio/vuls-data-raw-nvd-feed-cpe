@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:dell:poweredge_c4140_firmware:2.18.1",
-  "title": [
-    {
-      "text": "Dell PowerEdge C4140 Firmware 2.18.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000213550/dsa-2023-098-security-update-for-dell-poweredge-14g-server-bios-for-an-out-of-bounds-write-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:poweredge_c4140_firmware:2.18.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:poweredge_c4140_firmware:2.18.1",
+	"title": [
+		{
+			"text": "Dell PowerEdge C4140 Firmware 2.18.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000213550/dsa-2023-098-security-update-for-dell-poweredge-14g-server-bios-for-an-out-of-bounds-write-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:poweredge_c4140_firmware:2.18.1:*:*:*:*:*:*:*"
+	}
 }

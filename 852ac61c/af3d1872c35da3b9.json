@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:wyze:cam_v2_firmware:-",
-  "title": [
-    {
-      "text": "Wyze Cam V2 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.wyze.com/products/wyze-cam-v2?related_selling_plan=41618559008930"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/blog/labs/vulnerabilities-identified-in-wyze-cam-iot-device/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2019/12xxx/CVE-2019-12266.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:wyze:cam_v2_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:wyze:cam_v2_firmware:-",
+	"title": [
+		{
+			"text": "Wyze Cam V2 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.wyze.com/products/wyze-cam-v2?related_selling_plan=41618559008930"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/blog/labs/vulnerabilities-identified-in-wyze-cam-iot-device/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2019/12xxx/CVE-2019-12266.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:wyze:cam_v2_firmware:-:*:*:*:*:*:*:*"
+	}
 }

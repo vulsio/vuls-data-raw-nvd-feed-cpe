@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gitforwindows:git:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Git for Windows Git for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/0xADY/git_rce"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://gitforwindows.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/git-for-windows/git/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitforwindows:git:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:gitforwindows:git:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Git for Windows Git for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/0xADY/git_rce"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://gitforwindows.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/git-for-windows/git/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitforwindows:git:-:*:*:*:*:windows:*:*"
+	}
 }

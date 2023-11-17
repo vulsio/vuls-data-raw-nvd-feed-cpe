@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:umbraco:umbraco_forms:-",
-  "title": [
-    {
-      "text": "Umbraco Forms",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://snyk.io/vuln/SNYK-DOTNET-UMBRACOFORMS-595765"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.nuget.org/packages/umbracoforms"
-    },
-    {
-      "text": "Product",
-      "href": "https://umbraco.com/products/umbraco-forms/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://umbraco.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:umbraco:umbraco_forms:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:umbraco:umbraco_forms:-",
+	"title": [
+		{
+			"text": "Umbraco Forms",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://snyk.io/vuln/SNYK-DOTNET-UMBRACOFORMS-595765"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.nuget.org/packages/umbracoforms"
+		},
+		{
+			"text": "Product",
+			"href": "https://umbraco.com/products/umbraco-forms/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://umbraco.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:umbraco:umbraco_forms:-:*:*:*:*:*:*:*"
+	}
 }

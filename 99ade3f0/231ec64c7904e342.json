@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:command_%7c_intel_vpro_out_of_band:-",
-  "title": [
-    {
-      "text": "Dell Command | Intel vPro Out of Band -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000135008/dell-command-intel-vpro-out-of-band"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000208331/dsa-2023-029-dell-command-intel-vpro-out-of-band-security-update-for-an-improper-authorization-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:command_\\|_intel_vpro_out_of_band:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:command_%7c_intel_vpro_out_of_band:-",
+	"title": [
+		{
+			"text": "Dell Command | Intel vPro Out of Band -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000135008/dell-command-intel-vpro-out-of-band"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000208331/dsa-2023-029-dell-command-intel-vpro-out-of-band-security-update-for-an-improper-authorization-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:command_\\|_intel_vpro_out_of_band:-:*:*:*:*:*:*:*"
+	}
 }

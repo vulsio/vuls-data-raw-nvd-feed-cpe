@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt107e:8.03.60",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:42.840Z",
-  "title": [
-    {
-      "text": "Yamaha RT107e 8.03.60",
-      "lang": "en-US"
-    },
-    {
-      "text": "ヤマハ RT107e 8.03.60",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt107e:8.03.60:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:42.840-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt107e:8.03.60:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt107e:8.03.60",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:42.840Z",
+	"title": [
+		{
+			"text": "ヤマハ RT107e 8.03.60",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT107e 8.03.60",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt107e:8.03.60:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:42.840-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt107e:8.03.60:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

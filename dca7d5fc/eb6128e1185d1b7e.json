@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:honeywell:hdzp252di_firmware:1.00.hw02.4",
-  "title": [
-    {
-      "text": "Honeywell HDZP252DI Firmware 1.00.HW02.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/39xxx/CVE-2021-39363.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/downloads/Security_Notification_SN_2022-01-26-01_CVE-2021-39363_Command_Injection_HDZP252DI.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:honeywell:hdzp252di_firmware:1.00.hw02.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:honeywell:hdzp252di_firmware:1.00.hw02.4",
+	"title": [
+		{
+			"text": "Honeywell HDZP252DI Firmware 1.00.HW02.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/39xxx/CVE-2021-39363.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://buildings.honeywell.com/content/dam/hbtbt/en/documents/downloads/Security_Notification_SN_2022-01-26-01_CVE-2021-39363_Command_Injection_HDZP252DI.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:honeywell:hdzp252di_firmware:1.00.hw02.4:*:*:*:*:*:*:*"
+	}
 }

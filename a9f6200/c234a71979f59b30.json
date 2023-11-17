@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:amazon_sns_build_notifier:1.9::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Amazon SNS Build Notifier 1.9 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/snsnotify"
-    },
-    {
-      "text": "Product",
-      "href": "https://wiki.jenkins.io/display/JENKINS/Amazon+SNS+Notifier"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/snsnotify-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:amazon_sns_build_notifier:1.9:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:amazon_sns_build_notifier:1.9::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Amazon SNS Build Notifier 1.9 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/snsnotify"
+		},
+		{
+			"text": "Product",
+			"href": "https://wiki.jenkins.io/display/JENKINS/Amazon+SNS+Notifier"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/snsnotify-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:amazon_sns_build_notifier:1.9:*:*:*:*:jenkins:*:*"
+	}
 }

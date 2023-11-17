@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cloudbees:jenkins:1.447.1:-:lts",
-  "deprecated": true,
-  "deprecation_date": "2016-06-13T11:56:39.780Z",
-  "title": [
-    {
-      "text": "CloudBees Jenkins 1.447.1 Long-Term Support (LTS)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudbees:jenkins:1.447.1:-:lts:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-06-13T07:56:39.780-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jenkins:jenkins:1.447.1:*:*:*:lts:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cloudbees:jenkins:1.447.1:-:lts",
+	"deprecated": true,
+	"deprecation_date": "2016-06-13T11:56:39.780Z",
+	"title": [
+		{
+			"text": "CloudBees Jenkins 1.447.1 Long-Term Support (LTS)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudbees:jenkins:1.447.1:-:lts:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-06-13T07:56:39.780-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:jenkins:1.447.1:*:*:*:lts:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

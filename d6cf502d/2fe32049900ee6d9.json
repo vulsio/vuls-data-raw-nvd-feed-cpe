@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:agilebits:knox:1.6.1:-:~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T16:29:17.990Z",
-  "title": [
-    {
-      "text": "AgileBits Knox 1.6.1 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:agilebits:knox:1.6.1:-:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T12:29:17.990-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:agilebits:knox:1.6.1:-:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:agilebits:knox:1.6.1:-:~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T16:29:17.990Z",
+	"title": [
+		{
+			"text": "AgileBits Knox 1.6.1 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agilebits:knox:1.6.1:-:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T12:29:17.990-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:agilebits:knox:1.6.1:-:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

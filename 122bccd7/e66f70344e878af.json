@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:vapor_project:vapor:4.29.4::~~~swift~~",
-  "deprecated": true,
-  "deprecation_date": "2022-06-07T18:11:55.433Z",
-  "title": [
-    {
-      "text": "Vapor Project Vapor 4.29.4 for Swift",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/vapor/vapor/security/advisories/GHSA-vcvg-xgr8-p5gq"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/vapor/vapor"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vapor_project:vapor:4.29.4:*:*:*:*:swift:*:*",
-    "deprecation": {
-      "date": "2022-06-07T14:11:55.433-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vapor:vapor:4.29.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vapor_project:vapor:4.29.4::~~~swift~~",
+	"deprecated": true,
+	"deprecation_date": "2022-06-07T18:11:55.433Z",
+	"title": [
+		{
+			"text": "Vapor Project Vapor 4.29.4 for Swift",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/vapor/vapor/security/advisories/GHSA-vcvg-xgr8-p5gq"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/vapor/vapor"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vapor_project:vapor:4.29.4:*:*:*:*:swift:*:*",
+		"deprecation": {
+			"date": "2022-06-07T14:11:55.433-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vapor:vapor:4.29.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

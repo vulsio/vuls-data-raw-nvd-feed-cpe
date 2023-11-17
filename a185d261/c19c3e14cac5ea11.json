@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:google:tensorflow:1.14.0",
-  "deprecated": true,
-  "deprecation_date": "2020-02-04T13:18:28.880Z",
-  "title": [
-    {
-      "text": "Google TensorFlow 1.14.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/tensorflow/tensorflow/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:tensorflow:1.14.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-04T08:18:28.880-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:tensorflow:1.14.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:google:tensorflow:1.14.0",
+	"deprecated": true,
+	"deprecation_date": "2020-02-04T13:18:28.880Z",
+	"title": [
+		{
+			"text": "Google TensorFlow 1.14.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tensorflow/tensorflow/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:tensorflow:1.14.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-04T08:18:28.880-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:tensorflow:1.14.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

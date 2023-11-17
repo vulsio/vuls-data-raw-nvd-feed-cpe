@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wp-buddy:google_analytics_opt-out:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WP-Buddy Google Analytics Opt-Out for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://wp-buddy.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/google-analytics-opt-out/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/google-analytics-opt-out/wordpress-opt-out-for-google-analytics-plugin-2-3-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp-buddy:google_analytics_opt-out:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wp-buddy:google_analytics_opt-out:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP-Buddy Google Analytics Opt-Out for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wp-buddy.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/google-analytics-opt-out/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/google-analytics-opt-out/wordpress-opt-out-for-google-analytics-plugin-2-3-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-buddy:google_analytics_opt-out:-:*:*:*:*:wordpress:*:*"
+	}
 }

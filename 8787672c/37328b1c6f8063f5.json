@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:atlassian:oauth:1.9.10",
-  "title": [
-    {
-      "text": "Atlassian OAuth 1.9.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.atlassian.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-example-oauth-authentication"
-    },
-    {
-      "text": "Version",
-      "href": "https://ecosystem.atlassian.net/projects/OAUTH/issues/OAUTH-329?filter=allopenissues"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:oauth:1.9.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:atlassian:oauth:1.9.10",
+	"title": [
+		{
+			"text": "Atlassian OAuth 1.9.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.atlassian.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.atlassian.com/jiradev/jira-apis/jira-rest-apis/jira-rest-api-tutorials/jira-rest-api-example-oauth-authentication"
+		},
+		{
+			"text": "Version",
+			"href": "https://ecosystem.atlassian.net/projects/OAUTH/issues/OAUTH-329?filter=allopenissues"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:oauth:1.9.10:*:*:*:*:*:*:*"
+	}
 }

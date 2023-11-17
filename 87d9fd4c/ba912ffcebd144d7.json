@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pivotal:cloud_foundry_smoke_test:-",
-  "title": [
-    {
-      "text": "Pivotal Cloud Foundry Smoke Test -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/cloudfoundry/cf-smoke-tests"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tanzu.vmware.com/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:cloud_foundry_smoke_test:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pivotal:cloud_foundry_smoke_test:-",
+	"title": [
+		{
+			"text": "Pivotal Cloud Foundry Smoke Test -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudfoundry/cf-smoke-tests"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tanzu.vmware.com/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:cloud_foundry_smoke_test:-:*:*:*:*:*:*:*"
+	}
 }

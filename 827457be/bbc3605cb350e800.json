@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:w3-edge:total_cache:-::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-05-26T17:46:25.487Z",
-  "title": [
-    {
-      "text": "W3 EDGE Total Cache for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.w3-edge.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:w3-edge:total_cache:-:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-05-26T13:46:25.487-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:boldgrid:w3_total_cache:-:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:w3-edge:total_cache:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-05-26T17:46:25.487Z",
+	"title": [
+		{
+			"text": "W3 EDGE Total Cache for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.w3-edge.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:w3-edge:total_cache:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-05-26T13:46:25.487-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:boldgrid:w3_total_cache:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

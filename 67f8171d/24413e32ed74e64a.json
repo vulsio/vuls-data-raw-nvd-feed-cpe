@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_application_performance_monitor:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T14:31:55.117Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Application Performance Monitor",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_application_performance_monitor:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T10:31:55.117-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_application_performance_monitor:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_application_performance_monitor:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T14:31:55.117Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Application Performance Monitor",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_application_performance_monitor:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T10:31:55.117-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_application_performance_monitor:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mozilla:firefox:14.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-10T18:53:44.567Z",
-  "title": [
-    {
-      "text": "Mozilla Firefox 14.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-10T14:53:44.567-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:-:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mozilla:firefox:14.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-10T18:53:44.567Z",
+	"title": [
+		{
+			"text": "Mozilla Firefox 14.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-10T14:53:44.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:firefox:14.0:*:*:*:*:-:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

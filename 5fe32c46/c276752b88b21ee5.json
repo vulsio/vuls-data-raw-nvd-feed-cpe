@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:gilles_lamiral:imapsync:1.554",
-  "deprecated": true,
-  "deprecation_date": "2023-06-07T13:59:54.253Z",
-  "title": [
-    {
-      "text": "Gilles Lamiral imapsync 1.554",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://releases.pagure.org/imapsync/"
-    },
-    {
-      "text": "Project",
-      "href": "https://imapsync.lamiral.info/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gilles_lamiral:imapsync:1.554:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-07T09:59:54.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:imapsync_project:imapsync:1.554:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gilles_lamiral:imapsync:1.554",
+	"deprecated": true,
+	"deprecation_date": "2023-06-07T13:59:54.253Z",
+	"title": [
+		{
+			"text": "Gilles Lamiral imapsync 1.554",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://releases.pagure.org/imapsync/"
+		},
+		{
+			"text": "Project",
+			"href": "https://imapsync.lamiral.info/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gilles_lamiral:imapsync:1.554:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-07T09:59:54.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:imapsync_project:imapsync:1.554:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

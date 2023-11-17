@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:openswan:openswan:2.6.25",
-  "deprecated": true,
-  "deprecation_date": "2019-07-29T13:26:10.650Z",
-  "title": [
-    {
-      "text": "Openswan 2.6.25",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openswan:openswan:2.6.25:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-29T09:26:10.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xelerance:openswan:2.6.25:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openswan:openswan:2.6.25",
+	"deprecated": true,
+	"deprecation_date": "2019-07-29T13:26:10.650Z",
+	"title": [
+		{
+			"text": "Openswan 2.6.25",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openswan:openswan:2.6.25:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-29T09:26:10.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xelerance:openswan:2.6.25:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

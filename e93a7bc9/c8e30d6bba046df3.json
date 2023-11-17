@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:nvidia:gpu_driver:r21.2::~~~linux_kernel~tegra~",
-  "title": [
-    {
-      "text": "NVIDIA GPU Driver R21.2 for Linux Kernel on Tegra",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://www.nvidia.com/Download/index.aspx?lang=en-us"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvidia:gpu_driver:r21.2:*:*:*:*:linux_kernel:tegra:*"
-  }
+	"name": "cpe:/a:nvidia:gpu_driver:r21.2::~~~linux_kernel~tegra~",
+	"title": [
+		{
+			"text": "NVIDIA GPU Driver R21.2 for Linux Kernel on Tegra",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://www.nvidia.com/Download/index.aspx?lang=en-us"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:gpu_driver:r21.2:*:*:*:*:linux_kernel:tegra:*"
+	}
 }

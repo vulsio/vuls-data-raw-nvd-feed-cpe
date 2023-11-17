@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cockpit-project:cockpit:238",
-  "title": [
-    {
-      "text": "Cockpit-project Cockpit 238",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3660.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1980688"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cockpit-project/cockpit/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cockpit-project:cockpit:238:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cockpit-project:cockpit:238",
+	"title": [
+		{
+			"text": "Cockpit-project Cockpit 238",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3660.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1980688"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cockpit-project/cockpit/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cockpit-project:cockpit:238:*:*:*:*:*:*:*"
+	}
 }

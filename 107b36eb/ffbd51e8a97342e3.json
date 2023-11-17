@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:11.8.1::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 11.8.1 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://about.gitlab.com/2019/03/04/security-release-gitlab-11-dot-8-dot-1-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:11.8.1:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:11.8.1::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 11.8.1 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/2019/03/04/security-release-gitlab-11-dot-8-dot-1-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:11.8.1:*:*:*:community:*:*:*"
+	}
 }

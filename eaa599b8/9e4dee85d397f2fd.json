@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:symantec:endpoint_protection:12.1::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T19:21:49.663Z",
-  "title": [
-    {
-      "text": "Symantec Endpoint Protection 12.1 for Mac Os X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.symantec.com/us/en/article.tech154475.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://support.symantec.com/en_US/Documentation.54619.2123614.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:endpoint_protection:12.1:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T15:21:49.663-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:symantec:endpoint_protection:12.1:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symantec:endpoint_protection:12.1::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T19:21:49.663Z",
+	"title": [
+		{
+			"text": "Symantec Endpoint Protection 12.1 for Mac Os X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.symantec.com/us/en/article.tech154475.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://support.symantec.com/en_US/Documentation.54619.2123614.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:endpoint_protection:12.1:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T15:21:49.663-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:symantec:endpoint_protection:12.1:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

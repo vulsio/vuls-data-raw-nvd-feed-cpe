@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:icewarp:mail_server:12.2.0",
-  "title": [
-    {
-      "text": "IceWarp Mail Server 12.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://2010.icewarp.com/downloads/windows_platform/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.redteam-pentesting.de/en/advisories/rt-sa-2019-015/-icewarp-cross-site-scripting-in-notes-for-contacts"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:icewarp:mail_server:12.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:icewarp:mail_server:12.2.0",
+	"title": [
+		{
+			"text": "IceWarp Mail Server 12.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://2010.icewarp.com/downloads/windows_platform/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.redteam-pentesting.de/en/advisories/rt-sa-2019-015/-icewarp-cross-site-scripting-in-notes-for-contacts"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:icewarp:mail_server:12.2.0:*:*:*:*:*:*:*"
+	}
 }

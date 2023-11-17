@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:blog2social:blog2social:4.4.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-02-24T16:13:21.597Z",
-  "title": [
-    {
-      "text": "Blog2Social 4.4.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.blog2social.com/en/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/blog2social/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blog2social:blog2social:4.4.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-02-24T11:13:21.597-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adenion:blog2social:4.4.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:blog2social:blog2social:4.4.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-02-24T16:13:21.597Z",
+	"title": [
+		{
+			"text": "Blog2Social 4.4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.blog2social.com/en/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/blog2social/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blog2social:blog2social:4.4.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-02-24T11:13:21.597-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adenion:blog2social:4.4.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

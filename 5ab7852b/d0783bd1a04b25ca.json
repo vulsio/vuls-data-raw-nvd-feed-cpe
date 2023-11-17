@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:clearcanvas_project:clearcanvas:3.0:alpha",
-  "deprecated": true,
-  "deprecation_date": "2020-03-02T14:23:07.423Z",
-  "title": [
-    {
-      "text": "ClearCanvas Project ClearCanvas 3.0 Alpha",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ClearCanvas/ClearCanvas/issues/227"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/ClearCanvas/ClearCanvas"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:clearcanvas_project:clearcanvas:3.0:alpha:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-02T09:23:07.423-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:synaptivemedical:clearcanvas:3.0:alpha:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:clearcanvas_project:clearcanvas:3.0:alpha",
+	"deprecated": true,
+	"deprecation_date": "2020-03-02T14:23:07.423Z",
+	"title": [
+		{
+			"text": "ClearCanvas Project ClearCanvas 3.0 Alpha",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ClearCanvas/ClearCanvas/issues/227"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/ClearCanvas/ClearCanvas"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clearcanvas_project:clearcanvas:3.0:alpha:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-02T09:23:07.423-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:synaptivemedical:clearcanvas:3.0:alpha:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

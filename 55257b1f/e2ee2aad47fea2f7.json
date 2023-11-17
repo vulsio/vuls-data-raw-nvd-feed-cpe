@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:trendnet:tw100-s4w1ca_firmware:2.3.32",
-  "title": [
-    {
-      "text": "TRENDnet TW100-S4W1CA Firmware 2.3.32",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Galapag0s/Trendnet_TW100-S4W1CA/blob/main/writeup_CSRF.txt"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32424.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.trendnet.com/products/wired-routers/TW100-S4W1CA"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:trendnet:tw100-s4w1ca_firmware:2.3.32:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:trendnet:tw100-s4w1ca_firmware:2.3.32",
+	"title": [
+		{
+			"text": "TRENDnet TW100-S4W1CA Firmware 2.3.32",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Galapag0s/Trendnet_TW100-S4W1CA/blob/main/writeup_CSRF.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32424.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.trendnet.com/products/wired-routers/TW100-S4W1CA"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:trendnet:tw100-s4w1ca_firmware:2.3.32:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:user_oidc:1.2.0",
-  "title": [
-    {
-      "text": "Nextcloud User OIDC (OpenID Connect) 1.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/1878381"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/user_oidc/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:user_oidc:1.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:user_oidc:1.2.0",
+	"title": [
+		{
+			"text": "Nextcloud User OIDC (OpenID Connect) 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/1878381"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/user_oidc/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:user_oidc:1.2.0:*:*:*:*:*:*:*"
+	}
 }

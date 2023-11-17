@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:sourcecodester:online_course_registration:1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-09-22T12:40:41.380Z",
-  "title": [
-    {
-      "text": "Sourcecodester Online Course Registration 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/48704"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sourcecodester:online_course_registration:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-22T08:40:41.380-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:online_course_registration_project:online_course_registration:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sourcecodester:online_course_registration:1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-09-22T12:40:41.380Z",
+	"title": [
+		{
+			"text": "Sourcecodester Online Course Registration 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/48704"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sourcecodester:online_course_registration:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-22T08:40:41.380-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:online_course_registration_project:online_course_registration:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

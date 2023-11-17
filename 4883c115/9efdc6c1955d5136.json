@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:synopsys_coverity:2.2.1::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Synopsys Coverity 2.2.1 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2023-02-15/#SECURITY-2793%20(2)"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.jenkins.io/synopsys-coverity/#releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:synopsys_coverity:2.2.1:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:synopsys_coverity:2.2.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Synopsys Coverity 2.2.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2023-02-15/#SECURITY-2793%20(2)"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/synopsys-coverity/#releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:synopsys_coverity:2.2.1:*:*:*:*:jenkins:*:*"
+	}
 }

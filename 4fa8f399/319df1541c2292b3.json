@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ilias:ilias:4.4.0",
-  "deprecated": true,
-  "deprecation_date": "2021-05-19T21:52:34.123Z",
-  "title": [
-    {
-      "text": "ILIAS 4.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ILIAS-eLearning/ILIAS"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ilias.de/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ilias:ilias:4.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-19T17:52:34.123-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ilias:ilias:4.4.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ilias:ilias:4.4.0",
+	"deprecated": true,
+	"deprecation_date": "2021-05-19T21:52:34.123Z",
+	"title": [
+		{
+			"text": "ILIAS 4.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ILIAS-eLearning/ILIAS"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ilias.de/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ilias:ilias:4.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-19T17:52:34.123-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ilias:ilias:4.4.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

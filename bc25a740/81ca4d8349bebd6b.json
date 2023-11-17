@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:suse:linux_enterprise_desktop:10:sp4:~~lts~~~",
-  "title": [
-    {
-      "text": "SUSELinux Enterprise Desktop 10 SP4 Long Time Support (LTS)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.suse.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2015-04/msg00020.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:linux_enterprise_desktop:10:sp4:*:*:lts:*:*:*"
-  }
+	"name": "cpe:/o:suse:linux_enterprise_desktop:10:sp4:~~lts~~~",
+	"title": [
+		{
+			"text": "SUSELinux Enterprise Desktop 10 SP4 Long Time Support (LTS)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.suse.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2015-04/msg00020.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:linux_enterprise_desktop:10:sp4:*:*:lts:*:*:*"
+	}
 }

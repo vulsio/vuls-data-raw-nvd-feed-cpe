@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:cisco:asa_5580_firmware:009.012%28004.024%29",
-  "title": [
-    {
-      "text": "Cisco ASA 5580 Firmware 009.012(004.024)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.cisco.com/download/home/284143130"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asafdt-webvpn-dos-KSqJAKPA"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy58278"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy89144"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:asa_5580_firmware:009.012\\(004.024\\):*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:asa_5580_firmware:009.012%28004.024%29",
+	"title": [
+		{
+			"text": "Cisco ASA 5580 Firmware 009.012(004.024)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.cisco.com/download/home/284143130"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asafdt-webvpn-dos-KSqJAKPA"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy58278"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvy89144"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:asa_5580_firmware:009.012\\(004.024\\):*:*:*:*:*:*:*"
+	}
 }

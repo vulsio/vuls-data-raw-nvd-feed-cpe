@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:redhat:network_satellite:5.3",
-  "deprecated": true,
-  "deprecation_date": "2022-02-03T16:26:32.160Z",
-  "title": [
-    {
-      "text": "Red Hat Network Satellite (v. 5.3 for RHEL 5)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/products/red-hat-satellite"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:network_satellite:5.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-03T11:26:32.160-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:satellite:5.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:network_satellite:5.3",
+	"deprecated": true,
+	"deprecation_date": "2022-02-03T16:26:32.160Z",
+	"title": [
+		{
+			"text": "Red Hat Network Satellite (v. 5.3 for RHEL 5)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/products/red-hat-satellite"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:network_satellite:5.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-03T11:26:32.160-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:satellite:5.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:ryzen_7_3700c_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) RYZEN 7 3700C Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1029"
-    },
-    {
-      "text": "Version",
-      "href": "https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:ryzen_7_3700c_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:ryzen_7_3700c_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) RYZEN 7 3700C Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1029"
+		},
+		{
+			"text": "Version",
+			"href": "https://en.wikipedia.org/wiki/List_of_AMD_Ryzen_processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:ryzen_7_3700c_firmware:-:*:*:*:*:*:*:*"
+	}
 }

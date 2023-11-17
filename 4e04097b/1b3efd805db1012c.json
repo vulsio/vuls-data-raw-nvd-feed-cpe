@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:arm:gnu_toolchain:-",
-  "title": [
-    {
-      "text": "ARM Gnu Toolchain -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://developer.arm.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/documentation/ka005596/latest"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:gnu_toolchain:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:arm:gnu_toolchain:-",
+	"title": [
+		{
+			"text": "ARM Gnu Toolchain -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://developer.arm.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/documentation/ka005596/latest"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:gnu_toolchain:-:*:*:*:*:*:*:*"
+	}
 }

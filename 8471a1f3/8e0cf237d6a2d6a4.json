@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:phpgurukul:daily_expense_tracker_system:-",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T17:39:11.430Z",
-  "title": [
-    {
-      "text": "PHPGurukul Daily Expense Tracker System",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/daily-expense-tracker-using-php-and-mysql/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://frostylabs.net/writeups/cve-2020-10107/"
-    },
-    {
-      "text": "Product",
-      "href": "https://products.phpgurukul.com/product/daily-expense-tracker-project-report/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T12:39:11.430-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpgurukul:daily_expense_tracker_system:-",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T17:39:11.430Z",
+	"title": [
+		{
+			"text": "PHPGurukul Daily Expense Tracker System",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/daily-expense-tracker-using-php-and-mysql/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://frostylabs.net/writeups/cve-2020-10107/"
+		},
+		{
+			"text": "Product",
+			"href": "https://products.phpgurukul.com/product/daily-expense-tracker-project-report/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T12:39:11.430-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:daily_expense_tracker_system:-:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

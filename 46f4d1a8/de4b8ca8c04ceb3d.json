@@ -1,43 +1,43 @@
 {
-  "name": "cpe:/a:cisco:sd-wan_vmanage:20.6.1",
-  "deprecated": true,
-  "deprecation_date": "2023-10-16T16:35:23.810Z",
-  "title": [
-    {
-      "text": "Cisco SD-WAN vManage 20.6.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/controllers-20-8/rel-notes-controllers-20-8.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.cisco.com/c/en/us/support/docs/routers/sd-wan/215676-cisco-tac-and-bu-recommended-sd-wan-soft.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/site/us/en/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/site/us/en/products/networking/wan/vmanage/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.6.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-16T12:35:23.810-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:sd-wan_vmanage:20.6.1",
+	"deprecated": true,
+	"deprecation_date": "2023-10-16T16:35:23.810Z",
+	"title": [
+		{
+			"text": "Cisco SD-WAN vManage 20.6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/controllers-20-8/rel-notes-controllers-20-8.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/support/docs/routers/sd-wan/215676-cisco-tac-and-bu-recommended-sd-wan-soft.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/site/us/en/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/site/us/en/products/networking/wan/vmanage/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:sd-wan_vmanage:20.6.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-16T12:35:23.810-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:20.6.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

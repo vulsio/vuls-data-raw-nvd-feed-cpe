@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:cleverpath_portal:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:56:58.900Z",
-  "title": [
-    {
-      "text": "Computer Associates CleverPath Portal",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:cleverpath_portal:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:56:58.900-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:cleverpath_portal:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:cleverpath_portal:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:56:58.900Z",
+	"title": [
+		{
+			"text": "Computer Associates CleverPath Portal",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:cleverpath_portal:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:56:58.900-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:cleverpath_portal:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

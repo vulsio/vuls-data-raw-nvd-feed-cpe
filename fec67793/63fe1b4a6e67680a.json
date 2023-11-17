@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:novell:open_enterprise_server:1.x",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T14:15:10.930Z",
-  "title": [
-    {
-      "text": "Novell Open Enterprise Server 1.x",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:novell:open_enterprise_server:1.x:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T09:15:10.930-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:novell:open_enterprise_server:1.x:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:novell:open_enterprise_server:1.x",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T14:15:10.930Z",
+	"title": [
+		{
+			"text": "Novell Open Enterprise Server 1.x",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:novell:open_enterprise_server:1.x:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T09:15:10.930-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:novell:open_enterprise_server:1.x:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

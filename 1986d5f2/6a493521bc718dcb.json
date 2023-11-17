@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:keycloak:14.0.0",
-  "title": [
-    {
-      "text": "Red Hat Keycloak 14.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/keycloak/keycloak/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.keycloak.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:keycloak:14.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:keycloak:14.0.0",
+	"title": [
+		{
+			"text": "Red Hat Keycloak 14.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/keycloak/keycloak/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.keycloak.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:keycloak:14.0.0:*:*:*:*:*:*:*"
+	}
 }

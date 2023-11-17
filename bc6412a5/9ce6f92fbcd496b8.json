@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ntp:ntp:4.2.8:p2_rc1",
-  "deprecated": true,
-  "deprecation_date": "2020-05-28T14:08:04.117Z",
-  "title": [
-    {
-      "text": "NTP 4.2.8 Patch 2 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://archive.ntp.org/ntp4/ChangeLog-stable"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.ntp.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ntp:ntp:4.2.8:p2_rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-28T10:08:04.117-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ntp:ntp:4.2.8:p2-rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ntp:ntp:4.2.8:p2_rc1",
+	"deprecated": true,
+	"deprecation_date": "2020-05-28T14:08:04.117Z",
+	"title": [
+		{
+			"text": "NTP 4.2.8 Patch 2 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://archive.ntp.org/ntp4/ChangeLog-stable"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.ntp.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ntp:ntp:4.2.8:p2_rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-28T10:08:04.117-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ntp:ntp:4.2.8:p2-rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

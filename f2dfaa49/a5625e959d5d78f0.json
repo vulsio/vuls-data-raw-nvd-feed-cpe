@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:netty:netty:4.1",
-  "deprecated": true,
-  "deprecation_date": "2021-02-09T23:24:24.950Z",
-  "title": [
-    {
-      "text": "Netty 4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/netty/netty/releases"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/netty/netty"
-    },
-    {
-      "text": "Product",
-      "href": "https://bintray.com/netty/downloads/netty/#release"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netty:netty:4.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-09T18:24:24.950-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:netty:netty:4.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netty:netty:4.1",
+	"deprecated": true,
+	"deprecation_date": "2021-02-09T23:24:24.950Z",
+	"title": [
+		{
+			"text": "Netty 4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/netty/netty/releases"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/netty/netty"
+		},
+		{
+			"text": "Product",
+			"href": "https://bintray.com/netty/downloads/netty/#release"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netty:netty:4.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-09T18:24:24.950-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:netty:netty:4.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

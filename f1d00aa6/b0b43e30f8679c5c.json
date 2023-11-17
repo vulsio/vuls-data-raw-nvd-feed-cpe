@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:sage:syracuse:9.22.7.2",
-  "title": [
-    {
-      "text": "Sage Syracuse 9.22.7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.sage.com/en-gb/company/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.na.sage.com/selfservice/viewContent.do?externalId=109778&sliceId=1&isAuthoredDocumenttrue&accessCount=177&positiveRatingCount=5"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.rapid7.com/blog/post/2021/07/07/cve-2020-7387-7390-multiple-sage-x3-vulnerabilities/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/7xxx/CVE-2020-7389.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sage:syracuse:9.22.7.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sage:syracuse:9.22.7.2",
+	"title": [
+		{
+			"text": "Sage Syracuse 9.22.7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.sage.com/en-gb/company/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.na.sage.com/selfservice/viewContent.do?externalId=109778&sliceId=1&isAuthoredDocumenttrue&accessCount=177&positiveRatingCount=5"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/blog/post/2021/07/07/cve-2020-7387-7390-multiple-sage-x3-vulnerabilities/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/7xxx/CVE-2020-7389.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sage:syracuse:9.22.7.2:*:*:*:*:*:*:*"
+	}
 }

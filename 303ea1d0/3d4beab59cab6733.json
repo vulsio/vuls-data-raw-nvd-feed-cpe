@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:arm:aarch64cryptolib:-",
-  "title": [
-    {
-      "text": "ARM AArch64cryptolib -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ARM-software/AArch64cryptolib/security/advisories/GHSA-47c6-7x5x-r74g"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ARM-software/AArch64cryptolib/commit/86065c6cbdf84e3b49ed4ae2ac1be9a1de5db01f"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:aarch64cryptolib:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:arm:aarch64cryptolib:-",
+	"title": [
+		{
+			"text": "ARM AArch64cryptolib -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ARM-software/AArch64cryptolib/security/advisories/GHSA-47c6-7x5x-r74g"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ARM-software/AArch64cryptolib/commit/86065c6cbdf84e3b49ed4ae2ac1be9a1de5db01f"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:aarch64cryptolib:-:*:*:*:*:*:*:*"
+	}
 }

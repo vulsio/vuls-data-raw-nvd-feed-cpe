@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:cisco:asr_1013_router:-",
-  "deprecated": true,
-  "deprecation_date": "2021-10-05T14:51:10.360Z",
-  "title": [
-    {
-      "text": "Cisco Aggregation Services Router 1013",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.cisco.com/c/en/us/products/routers/asr-1000-series-aggregation-services-routers/models-listing.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:asr_1013_router:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-05T10:51:10.360-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:asr_1013:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:asr_1013_router:-",
+	"deprecated": true,
+	"deprecation_date": "2021-10-05T14:51:10.360Z",
+	"title": [
+		{
+			"text": "Cisco Aggregation Services Router 1013",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.cisco.com/c/en/us/products/routers/asr-1000-series-aggregation-services-routers/models-listing.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:asr_1013_router:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-05T10:51:10.360-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:asr_1013:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

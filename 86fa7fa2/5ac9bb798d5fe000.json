@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redis.js:redis:0.8.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Redis.js Redis 0.8.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/NodeRedis/node-redis/security/advisories/GHSA-35q2-47q7-3pc3"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/NodeRedis/node-redis/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis.js:redis:0.8.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:redis.js:redis:0.8.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Redis.js Redis 0.8.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/NodeRedis/node-redis/security/advisories/GHSA-35q2-47q7-3pc3"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/NodeRedis/node-redis/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis.js:redis:0.8.1:*:*:*:*:node.js:*:*"
+	}
 }

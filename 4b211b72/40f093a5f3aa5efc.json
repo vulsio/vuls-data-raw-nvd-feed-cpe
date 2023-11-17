@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:optane_ssd_905p:-",
-  "title": [
-    {
-      "text": "Intel Optane SSD 905P",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/data-center-ssds/optane-dc-ssd-series.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00362.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:optane_ssd_905p:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:optane_ssd_905p:-",
+	"title": [
+		{
+			"text": "Intel Optane SSD 905P",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/data-center-ssds/optane-dc-ssd-series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00362.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:optane_ssd_905p:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:samba:rsync:2.6.0",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T17:17:29.543Z",
-  "title": [
-    {
-      "text": "Samba Rsync 2.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://git.samba.org/?p=rsync.git;a=tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:rsync:2.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T13:17:29.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:samba:rsync:2.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:rsync:2.6.0",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T17:17:29.543Z",
+	"title": [
+		{
+			"text": "Samba Rsync 2.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://git.samba.org/?p=rsync.git;a=tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:rsync:2.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T13:17:29.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:samba:rsync:2.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

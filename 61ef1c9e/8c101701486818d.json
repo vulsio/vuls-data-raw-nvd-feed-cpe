@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_network_and_systems_management:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:33:02.840Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Network and Systems Management",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_network_and_systems_management:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:33:02.840-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_network_and_systems_management:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_network_and_systems_management:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:33:02.840Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Network and Systems Management",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_network_and_systems_management:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:33:02.840-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_network_and_systems_management:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dropouts:air_share:1.2::~~~ios~~",
-  "deprecated": true,
-  "deprecation_date": "2022-09-24T01:03:22.837Z",
-  "title": [
-    {
-      "text": "Dropouts Air Share 1.2 for iOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://apps.apple.com/us/app/air-sender-file-transfer/id1441632270"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vulnerability-lab.com/get_content.php?id=2212"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ios:*:*",
-    "deprecation": {
-      "date": "2022-09-23T21:03:22.837-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dropouts:air_share:1.2::~~~ios~~",
+	"deprecated": true,
+	"deprecation_date": "2022-09-24T01:03:22.837Z",
+	"title": [
+		{
+			"text": "Dropouts Air Share 1.2 for iOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/air-sender-file-transfer/id1441632270"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vulnerability-lab.com/get_content.php?id=2212"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:ios:*:*",
+		"deprecation": {
+			"date": "2022-09-23T21:03:22.837-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dropouts:air_share:1.2:*:*:*:*:iphone_os:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

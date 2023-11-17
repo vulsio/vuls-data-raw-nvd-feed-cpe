@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:fiberhomegroup:fiberhome_router_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2021-07-02T20:20:23.580Z",
-  "title": [
-    {
-      "text": "FiberHome router firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://hk.fiberhomegroup.com/en/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fiberhomegroup:fiberhome_router_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-02T16:20:23.580-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:fiberhome:fiberhome_router_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:fiberhomegroup:fiberhome_router_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2021-07-02T20:20:23.580Z",
+	"title": [
+		{
+			"text": "FiberHome router firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://hk.fiberhomegroup.com/en/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fiberhomegroup:fiberhome_router_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-02T16:20:23.580-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:fiberhome:fiberhome_router_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

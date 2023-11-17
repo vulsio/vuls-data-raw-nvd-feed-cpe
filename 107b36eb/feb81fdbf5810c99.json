@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:12.6.2::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 12.6.2 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://about.gitlab.com/releases/2020/01/02/security-release-gitlab-12-6-2-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:12.6.2:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:12.6.2::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 12.6.2 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://about.gitlab.com/releases/2020/01/02/security-release-gitlab-12-6-2-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:12.6.2:*:*:*:community:*:*:*"
+	}
 }

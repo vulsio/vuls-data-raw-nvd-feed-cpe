@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:dovecot:dovecot:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-08-17T14:13:25.870Z",
-  "title": [
-    {
-      "text": "Dovecot 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dovecot:dovecot:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-17T10:13:25.870-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dovecot:dovecot:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dovecot:dovecot:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-08-17T14:13:25.870Z",
+	"title": [
+		{
+			"text": "Dovecot 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dovecot:dovecot:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-17T10:13:25.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dovecot:dovecot:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

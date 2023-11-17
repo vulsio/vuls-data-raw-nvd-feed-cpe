@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bdtask:multi-store:1.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Bdtask Multi-Store 1.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://kislay00.medium.com/m-store-multi-store-inventory-management-system-add-customer-stored-xss-875a376770ec"
-    },
-    {
-      "text": "Product",
-      "href": "http://multi-store.com"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://bdtask.com"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bdtask:multi-store:1.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:bdtask:multi-store:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bdtask Multi-Store 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://kislay00.medium.com/m-store-multi-store-inventory-management-system-add-customer-stored-xss-875a376770ec"
+		},
+		{
+			"text": "Product",
+			"href": "http://multi-store.com"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://bdtask.com"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bdtask:multi-store:1.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:freepbx:freepbx:10.13.66",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:23:20.420Z",
-  "title": [
-    {
-      "text": "freePBX 10.13.66",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.freepbx.org/downloads/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freepbx.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freepbx:freepbx:10.13.66:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:23:20.420-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sangoma:freepbx:10.13.66:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freepbx:freepbx:10.13.66",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:23:20.420Z",
+	"title": [
+		{
+			"text": "freePBX 10.13.66",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.freepbx.org/downloads/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freepbx.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freepbx:freepbx:10.13.66:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:23:20.420-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sangoma:freepbx:10.13.66:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

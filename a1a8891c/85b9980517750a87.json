@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:riot-os:riot:2017.07:rc1",
-  "deprecated": true,
-  "deprecation_date": "2019-11-01T13:27:50.330Z",
-  "title": [
-    {
-      "text": "RIOT-OS RIOT 2017.07 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/RIOT-OS/RIOT"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.riot-os.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:riot-os:riot:2017.07:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-01T09:27:50.330-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:riot-os:riot:2017.07:rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:riot-os:riot:2017.07:rc1",
+	"deprecated": true,
+	"deprecation_date": "2019-11-01T13:27:50.330Z",
+	"title": [
+		{
+			"text": "RIOT-OS RIOT 2017.07 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/RIOT-OS/RIOT"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.riot-os.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:riot-os:riot:2017.07:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-01T09:27:50.330-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:riot-os:riot:2017.07:rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

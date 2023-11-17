@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:realtime-projects:quixplorer:2.5.1",
-  "deprecated": true,
-  "deprecation_date": "2021-01-11T15:47:49.517Z",
-  "title": [
-    {
-      "text": "Realtime-projects QuiXplorer 2.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.realtime-projects.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/realtimeprojects/quixplorer/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:realtime-projects:quixplorer:2.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-11T10:47:49.517-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:quixplorer_project:quixplorer:2.5.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:realtime-projects:quixplorer:2.5.1",
+	"deprecated": true,
+	"deprecation_date": "2021-01-11T15:47:49.517Z",
+	"title": [
+		{
+			"text": "Realtime-projects QuiXplorer 2.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.realtime-projects.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/realtimeprojects/quixplorer/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:realtime-projects:quixplorer:2.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-11T10:47:49.517-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:quixplorer_project:quixplorer:2.5.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

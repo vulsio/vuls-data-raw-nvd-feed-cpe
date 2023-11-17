@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:http_file_server_project:http_file_server:1.4.1",
-  "title": [
-    {
-      "text": "HTTP File Server Project HTTP File Server 1.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=slowscript.httpfileserver"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://eddiez.me/path-traversal-in-slowscript-httpfileserver/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:http_file_server_project:http_file_server:1.4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:http_file_server_project:http_file_server:1.4.1",
+	"title": [
+		{
+			"text": "HTTP File Server Project HTTP File Server 1.4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=slowscript.httpfileserver"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://eddiez.me/path-traversal-in-slowscript-httpfileserver/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:http_file_server_project:http_file_server:1.4.1:*:*:*:*:*:*:*"
+	}
 }

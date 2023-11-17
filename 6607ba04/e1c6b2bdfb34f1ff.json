@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:cisco:ios_xe_sd-wan:-",
-  "title": [
-    {
-      "text": "Cisco IOS XE SD-WAN",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation"
-    },
-    {
-      "text": "Product",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-dosmulti-48jJuEUP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ios_xe_sd-wan:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:ios_xe_sd-wan:-",
+	"title": [
+		{
+			"text": "Cisco IOS XE SD-WAN",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation"
+		},
+		{
+			"text": "Product",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation/Getting_Started/Viptela_Overlay_Network_Bringup/04Deploy_the_vBond_Orchestrator/03Configure_the_vBond_Orchestrator"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-dosmulti-48jJuEUP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ios_xe_sd-wan:-:*:*:*:*:*:*:*"
+	}
 }

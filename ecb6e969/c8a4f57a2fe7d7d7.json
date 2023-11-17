@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nats:nats_server:2.3.1",
-  "title": [
-    {
-      "text": "Nats Nats Server 2.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://advisories.nats.io/CVE/CVE-2022-24450.txt"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nats-io/nats-server/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nats:nats_server:2.3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nats:nats_server:2.3.1",
+	"title": [
+		{
+			"text": "Nats Nats Server 2.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://advisories.nats.io/CVE/CVE-2022-24450.txt"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nats-io/nats-server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nats:nats_server:2.3.1:*:*:*:*:*:*:*"
+	}
 }

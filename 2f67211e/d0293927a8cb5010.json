@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e5:2643",
-  "deprecated": true,
-  "deprecation_date": "2020-05-05T11:30:23.673Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5 2643",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e5:2643:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-05T07:30:23.673-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5_2643:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e5:2643",
+	"deprecated": true,
+	"deprecation_date": "2020-05-05T11:30:23.673Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5 2643",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e5:2643:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-05T07:30:23.673-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5_2643:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

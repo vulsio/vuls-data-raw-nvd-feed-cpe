@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redislabs:redisgraph:2.2.14",
-  "title": [
-    {
-      "text": "Redis Labs RedisGraph 2.2.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/RedisGraph/RedisGraph/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redisgraph:2.2.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redislabs:redisgraph:2.2.14",
+	"title": [
+		{
+			"text": "Redis Labs RedisGraph 2.2.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/RedisGraph/RedisGraph/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redisgraph:2.2.14:*:*:*:*:*:*:*"
+	}
 }

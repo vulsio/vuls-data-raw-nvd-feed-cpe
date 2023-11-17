@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:opensuse:backports_sle:15.0:sp1",
-  "title": [
-    {
-      "text": "OpenSUSE Backports SLE 15.0 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2019-12/msg00002.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://build.opensuse.org/project/show/openSUSE:Backports:SLE-15"
-    },
-    {
-      "text": "Version",
-      "href": "https://download.opensuse.org/repositories/openSUSE:/Backports:/SLE-15/standard/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opensuse:backports_sle:15.0:sp1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opensuse:backports_sle:15.0:sp1",
+	"title": [
+		{
+			"text": "OpenSUSE Backports SLE 15.0 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2019-12/msg00002.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://build.opensuse.org/project/show/openSUSE:Backports:SLE-15"
+		},
+		{
+			"text": "Version",
+			"href": "https://download.opensuse.org/repositories/openSUSE:/Backports:/SLE-15/standard/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opensuse:backports_sle:15.0:sp1:*:*:*:*:*:*"
+	}
 }

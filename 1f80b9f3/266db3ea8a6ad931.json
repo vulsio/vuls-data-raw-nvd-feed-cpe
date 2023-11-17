@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:keepkey:keepkey_firmware:1.0.3",
-  "deprecated": true,
-  "deprecation_date": "2020-01-07T15:40:57.283Z",
-  "title": [
-    {
-      "text": "KeepKey Firmware 1.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/keepkey/keepkey-firmware"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.keepkey.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:keepkey:keepkey_firmware:1.0.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-07T10:40:57.283-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:shapeshift:keepkey_firmware:1.0.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:keepkey:keepkey_firmware:1.0.3",
+	"deprecated": true,
+	"deprecation_date": "2020-01-07T15:40:57.283Z",
+	"title": [
+		{
+			"text": "KeepKey Firmware 1.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/keepkey/keepkey-firmware"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.keepkey.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:keepkey:keepkey_firmware:1.0.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-07T10:40:57.283-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:shapeshift:keepkey_firmware:1.0.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

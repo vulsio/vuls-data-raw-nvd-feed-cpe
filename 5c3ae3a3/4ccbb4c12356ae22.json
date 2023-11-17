@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:medtronic:visia_af_icd_firmware:-",
-  "title": [
-    {
-      "text": "Medtronic Visia AF ICD Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/icd-systems/visia-af.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.medtronic.com/us-en/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:medtronic:visia_af_icd_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:medtronic:visia_af_icd_firmware:-",
+	"title": [
+		{
+			"text": "Medtronic Visia AF ICD Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/icd-systems/visia-af.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.medtronic.com/us-en/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:medtronic:visia_af_icd_firmware:-:*:*:*:*:*:*:*"
+	}
 }

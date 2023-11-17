@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:neutron:15.3.3",
-  "title": [
-    {
-      "text": "OpenStack Neutron 15.3.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/openstack/neutron/releases/tag/15.3.3"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.openstack.org/releasenotes/neutron/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:neutron:15.3.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:neutron:15.3.3",
+	"title": [
+		{
+			"text": "OpenStack Neutron 15.3.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/openstack/neutron/releases/tag/15.3.3"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.openstack.org/releasenotes/neutron/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:neutron:15.3.3:*:*:*:*:*:*:*"
+	}
 }

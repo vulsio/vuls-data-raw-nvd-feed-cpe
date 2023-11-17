@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ibm:san_volume_controller:6.4",
-  "deprecated": true,
-  "deprecation_date": "2014-03-31T16:32:54.327Z",
-  "title": [
-    {
-      "text": "IBM SAN Volume Controller 6.4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:san_volume_controller:6.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-03-31T12:32:54.327-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:san_volume_controller_software:6.4.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:san_volume_controller:6.4",
+	"deprecated": true,
+	"deprecation_date": "2014-03-31T16:32:54.327Z",
+	"title": [
+		{
+			"text": "IBM SAN Volume Controller 6.4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:san_volume_controller:6.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-03-31T12:32:54.327-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:san_volume_controller_software:6.4.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

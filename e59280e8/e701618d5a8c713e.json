@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:dell:emc_vnxe3200:-",
-  "title": [
-    {
-      "text": "Dell EMC VNXe3200",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.emc.com/collateral/white-papers/h13058-vnxe3200-intro-wp.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/security/en-us/details/536796/DSA-2019-125-Dell-EMC-Unity-and-VNXe3200-Family-Reflected-Cross-Site-Scripting-Vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:emc_vnxe3200:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dell:emc_vnxe3200:-",
+	"title": [
+		{
+			"text": "Dell EMC VNXe3200",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.emc.com/collateral/white-papers/h13058-vnxe3200-intro-wp.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/security/en-us/details/536796/DSA-2019-125-Dell-EMC-Unity-and-VNXe3200-Family-Reflected-Cross-Site-Scripting-Vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:emc_vnxe3200:-:*:*:*:*:*:*:*"
+	}
 }

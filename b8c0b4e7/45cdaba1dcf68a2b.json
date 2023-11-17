@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.12:rc7",
-  "title": [
-    {
-      "text": "Linux Kernel 5.12 Release Candidate 7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.12"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.12:rc7:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.12:rc7",
+	"title": [
+		{
+			"text": "Linux Kernel 5.12 Release Candidate 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.12"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.12:rc7:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir-1935_firmware:1.03:b1",
-  "deprecated": true,
-  "deprecation_date": "2023-11-08T13:29:59.940Z",
-  "title": [
-    {
-      "text": "D-Link Dir-1935 Firmware 1.03 B1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cybersecurity-help.cz/vdb/SB2022112106"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-08T08:29:59.940-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir-1935_firmware:1.03:b1",
+	"deprecated": true,
+	"deprecation_date": "2023-11-08T13:29:59.940Z",
+	"title": [
+		{
+			"text": "D-Link Dir-1935 Firmware 1.03 B1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cybersecurity-help.cz/vdb/SB2022112106"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-08T08:29:59.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir-1935_firmware:1.03:b1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:userproplugin:userpro:4.9.17.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "UserPRO Plugin 4.9.17.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpvulndb.com/vulnerabilities/8950"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://userproplugin.com/userpro/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:userproplugin:userpro:4.9.17.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:userproplugin:userpro:4.9.17.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "UserPRO Plugin 4.9.17.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpvulndb.com/vulnerabilities/8950"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://userproplugin.com/userpro/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:userproplugin:userpro:4.9.17.1:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:arm:cortex-x2_firmware:-",
-  "title": [
-    {
-      "text": "ARM CORTEX-X2 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arm:cortex-x2_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:arm:cortex-x2_firmware:-",
+	"title": [
+		{
+			"text": "ARM CORTEX-X2 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arm:cortex-x2_firmware:-:*:*:*:*:*:*:*"
+	}
 }

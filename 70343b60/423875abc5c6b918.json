@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:node-jose:2.1.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Cisco Node-jose 2.1.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cisco/node-jose/security/advisories/GHSA-5h4j-qrvg-9xhw"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cisco/node-jose/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:node-jose:2.1.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:cisco:node-jose:2.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Cisco Node-jose 2.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cisco/node-jose/security/advisories/GHSA-5h4j-qrvg-9xhw"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cisco/node-jose/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:node-jose:2.1.0:*:*:*:*:node.js:*:*"
+	}
 }

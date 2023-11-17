@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:beyondco:ignition:1.16.4::~~~laravel~~",
-  "deprecated": true,
-  "deprecation_date": "2021-02-12T15:44:22.127Z",
-  "title": [
-    {
-      "text": "Beyondco Ignition 1.16.4 for Laravel",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/facade/ignition"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:beyondco:ignition:1.16.4:*:*:*:*:laravel:*:*",
-    "deprecation": {
-      "date": "2021-02-12T10:44:22.127-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:facade:ignition:1.16.4:*:*:*:*:laravel:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:beyondco:ignition:1.16.4::~~~laravel~~",
+	"deprecated": true,
+	"deprecation_date": "2021-02-12T15:44:22.127Z",
+	"title": [
+		{
+			"text": "Beyondco Ignition 1.16.4 for Laravel",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/facade/ignition"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:beyondco:ignition:1.16.4:*:*:*:*:laravel:*:*",
+		"deprecation": {
+			"date": "2021-02-12T10:44:22.127-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:facade:ignition:1.16.4:*:*:*:*:laravel:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:oracle:mysql:5.1.5",
-  "deprecated": true,
-  "deprecation_date": "2020-04-03T15:15:26.013Z",
-  "title": [
-    {
-      "text": "Oracle MySQL 5.1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mysql.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mysql/mysql-server/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql:5.1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-03T11:15:26.013-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql:5.1.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:mysql:5.1.5",
+	"deprecated": true,
+	"deprecation_date": "2020-04-03T15:15:26.013Z",
+	"title": [
+		{
+			"text": "Oracle MySQL 5.1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mysql.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mysql/mysql-server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql:5.1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-03T11:15:26.013-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql:5.1.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

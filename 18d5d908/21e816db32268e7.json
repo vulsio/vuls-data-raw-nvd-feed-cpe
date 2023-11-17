@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dcs-931l_firmware:1.04",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DCS-931L Firmware 1.04",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://us.dlink.com/products/home-solutions/cloud-camera-1050-day-network-cloud-camera/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dcs-931l_firmware:1.04",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DCS-931L Firmware 1.04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://us.dlink.com/products/home-solutions/cloud-camera-1050-day-network-cloud-camera/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dcs-931l_firmware:1.04:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

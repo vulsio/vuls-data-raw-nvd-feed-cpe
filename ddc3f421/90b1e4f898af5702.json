@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:responsive:responsive_menu:3.1.4::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-07-30T16:35:11.583Z",
-  "title": [
-    {
-      "text": "Responsive Menu 3.1.4 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://responsive.menu"
-    },
-    {
-      "text": "Version",
-      "href": "https://wordpress.org/plugins/responsive-menu/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:responsive:responsive_menu:3.1.4:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-07-30T12:35:11.583-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:expresstech:responsive_menu:3.1.4:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:responsive:responsive_menu:3.1.4::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-07-30T16:35:11.583Z",
+	"title": [
+		{
+			"text": "Responsive Menu 3.1.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://responsive.menu"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/responsive-menu/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:responsive:responsive_menu:3.1.4:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-07-30T12:35:11.583-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:expresstech:responsive_menu:3.1.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

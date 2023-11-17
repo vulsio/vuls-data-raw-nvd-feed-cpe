@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:canonical:ubuntu_linux:19.10",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T17:49:01.230Z",
-  "title": [
-    {
-      "text": "Canonical Ubuntu Linux 19.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://releases.ubuntu.com"
-    },
-    {
-      "text": "Version",
-      "href": "http://releases.ubuntu.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:ubuntu_linux:19.10:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-04T13:49:01.230-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:canonical:ubuntu_linux:19.10:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:canonical:ubuntu_linux:19.10",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T17:49:01.230Z",
+	"title": [
+		{
+			"text": "Canonical Ubuntu Linux 19.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://releases.ubuntu.com"
+		},
+		{
+			"text": "Version",
+			"href": "http://releases.ubuntu.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:ubuntu_linux:19.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-04T13:49:01.230-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:canonical:ubuntu_linux:19.10:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

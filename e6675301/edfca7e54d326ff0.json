@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:atlassian:data_center:8.13.9",
-  "deprecated": true,
-  "deprecation_date": "2022-03-30T13:29:09.753Z",
-  "title": [
-    {
-      "text": "Atlassian Data Center 8.13.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.atlassian.com/enterprise/data-center/jira"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:data_center:8.13.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-30T09:29:09.753-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:atlassian:jira_data_center:8.13.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:atlassian:data_center:8.13.9",
+	"deprecated": true,
+	"deprecation_date": "2022-03-30T13:29:09.753Z",
+	"title": [
+		{
+			"text": "Atlassian Data Center 8.13.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.atlassian.com/enterprise/data-center/jira"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:data_center:8.13.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-30T09:29:09.753-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:atlassian:jira_data_center:8.13.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

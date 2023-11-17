@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:databaseschemaviewer_project:dbschemareader:1.4.1.6",
-  "deprecated": true,
-  "deprecation_date": "2020-11-17T15:21:19.140Z",
-  "title": [
-    {
-      "text": "DatabaseSchemaReader Project DatabaseSchemaReader 1.4.1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/martinjw/dbschemareader/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:databaseschemaviewer_project:dbschemareader:1.4.1.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-17T10:21:19.140-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.1.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:databaseschemaviewer_project:dbschemareader:1.4.1.6",
+	"deprecated": true,
+	"deprecation_date": "2020-11-17T15:21:19.140Z",
+	"title": [
+		{
+			"text": "DatabaseSchemaReader Project DatabaseSchemaReader 1.4.1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/martinjw/dbschemareader/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:databaseschemaviewer_project:dbschemareader:1.4.1.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-17T10:21:19.140-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:databaseschemareader_project:dbschemareader:1.4.1.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

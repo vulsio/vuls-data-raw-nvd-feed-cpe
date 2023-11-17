@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:premmerce:redirect_manager:1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Premmerce Redirect Manager 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/premmerce-redirect-manager/#developers"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://premmerce.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/premmerce-redirect-manager/wordpress-premmerce-redirect-manager-plugin-1-0-9-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:premmerce:redirect_manager:1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:premmerce:redirect_manager:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Premmerce Redirect Manager 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/premmerce-redirect-manager/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://premmerce.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/premmerce-redirect-manager/wordpress-premmerce-redirect-manager-plugin-1-0-9-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:premmerce:redirect_manager:1.0:*:*:*:*:wordpress:*:*"
+	}
 }

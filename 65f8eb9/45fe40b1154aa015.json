@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microfocus:dimensions_cm:0.8.13::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Microfocus Dimensions CM 0.8.13 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.microfocus.com/en-us/products/dimensions-cm/overview"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/jenkinsci/dimensionsscm-plugin/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2023-06-14/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microfocus:dimensions_cm:0.8.13:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:microfocus:dimensions_cm:0.8.13::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Microfocus Dimensions CM 0.8.13 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microfocus.com/en-us/products/dimensions-cm/overview"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jenkinsci/dimensionsscm-plugin/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2023-06-14/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microfocus:dimensions_cm:0.8.13:*:*:*:*:jenkins:*:*"
+	}
 }

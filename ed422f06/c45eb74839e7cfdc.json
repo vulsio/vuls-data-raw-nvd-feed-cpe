@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gorillatoolkit:websocket:1.4.1",
-  "title": [
-    {
-      "text": "Gorillatoolkit Websocket 1.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.gorillatoolkit.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/gorilla/websocket/security/advisories/GHSA-jf24-p9p9-4rjh"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/gorilla/websocket"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gorillatoolkit:websocket:1.4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gorillatoolkit:websocket:1.4.1",
+	"title": [
+		{
+			"text": "Gorillatoolkit Websocket 1.4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gorillatoolkit.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gorilla/websocket/security/advisories/GHSA-jf24-p9p9-4rjh"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/gorilla/websocket"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gorillatoolkit:websocket:1.4.1:*:*:*:*:*:*:*"
+	}
 }

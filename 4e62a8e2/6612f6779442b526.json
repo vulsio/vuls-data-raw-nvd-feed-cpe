@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:paessler_ag:prtg_network_monitor:14.3.11",
-  "deprecated": true,
-  "deprecation_date": "2020-04-02T12:29:58.850Z",
-  "title": [
-    {
-      "text": "Paessler AG PRTG Network Monitor 14.3.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.paessler.com/prtg/history"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paessler_ag:prtg_network_monitor:14.3.11:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-02T08:29:58.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:paessler:prtg_network_monitor:14.3.11:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:paessler_ag:prtg_network_monitor:14.3.11",
+	"deprecated": true,
+	"deprecation_date": "2020-04-02T12:29:58.850Z",
+	"title": [
+		{
+			"text": "Paessler AG PRTG Network Monitor 14.3.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.paessler.com/prtg/history"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paessler_ag:prtg_network_monitor:14.3.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-02T08:29:58.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:paessler:prtg_network_monitor:14.3.11:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

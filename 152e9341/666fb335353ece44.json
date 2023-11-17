@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gnome:gnome:-::linux",
-  "title": [
-    {
-      "text": "Gnome for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.mozilla.org/en-US/security/advisories/mfsa2015-143/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gnome.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnome:gnome:-:*:linux:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gnome:gnome:-::linux",
+	"title": [
+		{
+			"text": "Gnome for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.mozilla.org/en-US/security/advisories/mfsa2015-143/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gnome.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnome:gnome:-:*:linux:*:*:*:*:*"
+	}
 }

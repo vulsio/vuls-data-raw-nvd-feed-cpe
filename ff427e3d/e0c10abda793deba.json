@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:nx-os:7.3%282%29n1%280.296%29::~~~nexus_7000_series~~",
-  "deprecated": true,
-  "deprecation_date": "2021-12-03T17:17:22.243Z",
-  "title": [
-    {
-      "text": "Cisco NX-OS 7.3(2)N1(0.296) for Nexus 7000 Series",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.cisco.com/c/en/us/support/switches/nexus-7000-series-switches/products-release-notes-list.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:nx-os:7.3\\(2\\)n1\\(0.296\\):*:*:*:*:nexus_7000_series:*:*",
-    "deprecation": {
-      "date": "2021-12-03T12:17:22.243-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:nx-os:7.3\\(2\\)n1\\(0.296\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:nx-os:7.3%282%29n1%280.296%29::~~~nexus_7000_series~~",
+	"deprecated": true,
+	"deprecation_date": "2021-12-03T17:17:22.243Z",
+	"title": [
+		{
+			"text": "Cisco NX-OS 7.3(2)N1(0.296) for Nexus 7000 Series",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.cisco.com/c/en/us/support/switches/nexus-7000-series-switches/products-release-notes-list.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:nx-os:7.3\\(2\\)n1\\(0.296\\):*:*:*:*:nexus_7000_series:*:*",
+		"deprecation": {
+			"date": "2021-12-03T12:17:22.243-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:nx-os:7.3\\(2\\)n1\\(0.296\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openbsd:openssh:7.8:p1",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 7.8p1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.openssh.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openbsd.org/"
-    },
-    {
-      "text": "Version",
-      "href": "ftp://mirror.internode.on.net/pub/OpenBSD/OpenSSH/portable/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:7.8:p1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openbsd:openssh:7.8:p1",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 7.8p1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.openssh.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openbsd.org/"
+		},
+		{
+			"text": "Version",
+			"href": "ftp://mirror.internode.on.net/pub/OpenBSD/OpenSSH/portable/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:7.8:p1:*:*:*:*:*:*"
+	}
 }

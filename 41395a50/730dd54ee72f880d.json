@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pearson:vue_testing_system:2.3.1911",
-  "title": [
-    {
-      "text": "Pearson VUE Testing System 2.3.1911",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://vss.pearsonvue.com/VSSFiles/Documents/ENU_TCInstallGuide/Download_VTS_Installer.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/49143"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/passtheticket/vulnerability-research/blob/main/privilege-escalation/pearsonvue-readme.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pearson:vue_testing_system:2.3.1911:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pearson:vue_testing_system:2.3.1911",
+	"title": [
+		{
+			"text": "Pearson VUE Testing System 2.3.1911",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://vss.pearsonvue.com/VSSFiles/Documents/ENU_TCInstallGuide/Download_VTS_Installer.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/49143"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/passtheticket/vulnerability-research/blob/main/privilege-escalation/pearsonvue-readme.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pearson:vue_testing_system:2.3.1911:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sophos:endpoint_protection:-",
-  "title": [
-    {
-      "text": "Sophos Endpoint Protection",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.zoller.lu/p/release-mode-coordinated-disclosure-ref.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.sophos.com/central/Customer/help/en-us/central/Customer/concepts/EndpointProtection.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sophos:endpoint_protection:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sophos:endpoint_protection:-",
+	"title": [
+		{
+			"text": "Sophos Endpoint Protection",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.zoller.lu/p/release-mode-coordinated-disclosure-ref.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.sophos.com/central/Customer/help/en-us/central/Customer/concepts/EndpointProtection.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sophos:endpoint_protection:-:*:*:*:*:*:*:*"
+	}
 }

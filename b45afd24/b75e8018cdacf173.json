@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:beekeeperstudio:beekeeper_studio:3.2.0",
-  "deprecated": true,
-  "deprecation_date": "2022-11-21T17:14:50.430Z",
-  "title": [
-    {
-      "text": "Beekeeperstudio Beekeeper Studio 3.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/beekeeper-studio/beekeeper-studio/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:beekeeperstudio:beekeeper_studio:3.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-21T12:14:50.430-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:beekeeperstudio:beekeeper_studio:3.2.0",
+	"deprecated": true,
+	"deprecation_date": "2022-11-21T17:14:50.430Z",
+	"title": [
+		{
+			"text": "Beekeeperstudio Beekeeper Studio 3.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/beekeeper-studio/beekeeper-studio/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:beekeeperstudio:beekeeper_studio:3.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-21T12:14:50.430-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:beekeeperstudio:beekeeper-studio:3.2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

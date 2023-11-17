@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:fit2cloud:koko:-::~~~go~~",
-  "title": [
-    {
-      "text": "Fit2cloud Koko - for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/jumpserver/jumpserver/security/advisories/GHSA-6x5p-jm59-jh29"
-    },
-    {
-      "text": "Product",
-      "href": "https://pkg.go.dev/github.com/jumpserver/koko/pkg/koko"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fit2cloud:koko:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:fit2cloud:koko:-::~~~go~~",
+	"title": [
+		{
+			"text": "Fit2cloud Koko - for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jumpserver/jumpserver/security/advisories/GHSA-6x5p-jm59-jh29"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/jumpserver/koko/pkg/koko"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fit2cloud:koko:-:*:*:*:*:go:*:*"
+	}
 }

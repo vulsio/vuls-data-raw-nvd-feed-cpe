@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cache-base_project:cache-base:3.0.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Cache-base Project Cache-base 3.0.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28275"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jonschlinkert/cache-base/releases"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.npmjs.com/package/cache-base"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cache-base_project:cache-base:3.0.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:cache-base_project:cache-base:3.0.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Cache-base Project Cache-base 3.0.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2020-28275"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jonschlinkert/cache-base/releases"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.npmjs.com/package/cache-base"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cache-base_project:cache-base:3.0.0:*:*:*:*:node.js:*:*"
+	}
 }

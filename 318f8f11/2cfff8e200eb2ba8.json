@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:libtirpc_project:libtirpc:0.2.1:rc3",
-  "deprecated": true,
-  "deprecation_date": "2019-09-16T17:15:04.637Z",
-  "title": [
-    {
-      "text": "libtirpc Project libtirpc 0.2.1 Release Candidate 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://git.linux-nfs.org/?p=steved/libtirpc.git;a=tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:libtirpc_project:libtirpc:0.2.1:rc3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-16T13:15:04.637-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libtirpc_project:libtirpc:0.2.1:rc3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:libtirpc_project:libtirpc:0.2.1:rc3",
+	"deprecated": true,
+	"deprecation_date": "2019-09-16T17:15:04.637Z",
+	"title": [
+		{
+			"text": "libtirpc Project libtirpc 0.2.1 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://git.linux-nfs.org/?p=steved/libtirpc.git;a=tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:libtirpc_project:libtirpc:0.2.1:rc3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-16T13:15:04.637-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libtirpc_project:libtirpc:0.2.1:rc3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

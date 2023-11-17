@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amazon:aws_javascript_s3_explorer:2019-08-02",
-  "title": [
-    {
-      "text": "Amazon AWS JavaScript S3 Explorer 2019-08-02",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/cve/CVE-2019-14652"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/awslabs/aws-js-s3-explorer/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:aws_javascript_s3_explorer:2019-08-02:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:amazon:aws_javascript_s3_explorer:2019-08-02",
+	"title": [
+		{
+			"text": "Amazon AWS JavaScript S3 Explorer 2019-08-02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/cve/CVE-2019-14652"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/awslabs/aws-js-s3-explorer/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:aws_javascript_s3_explorer:2019-08-02:*:*:*:*:*:*:*"
+	}
 }

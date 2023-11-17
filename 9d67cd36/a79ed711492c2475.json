@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:anchore_container_image_scanner:1.0.4::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Anchore Container Image Scanner 1.0.4 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/anchore-container-scanner"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/anchore-container-scanner-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:anchore_container_image_scanner:1.0.4:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:anchore_container_image_scanner:1.0.4::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Anchore Container Image Scanner 1.0.4 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/anchore-container-scanner"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/anchore-container-scanner-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:anchore_container_image_scanner:1.0.4:*:*:*:*:jenkins:*:*"
+	}
 }

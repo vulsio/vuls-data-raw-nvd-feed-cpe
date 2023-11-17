@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:protocol:go-ipld-prime:0.14.1::~~~go~~",
-  "title": [
-    {
-      "text": "Protocol Labs go-ipld-prime 0.14.1 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ipld.io/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://protocol.ai/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ipld/go-ipld-prime/security/advisories/GHSA-c653-6hhg-9x92"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ipld/go-ipld-prime/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:protocol:go-ipld-prime:0.14.1:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:protocol:go-ipld-prime:0.14.1::~~~go~~",
+	"title": [
+		{
+			"text": "Protocol Labs go-ipld-prime 0.14.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ipld.io/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://protocol.ai/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ipld/go-ipld-prime/security/advisories/GHSA-c653-6hhg-9x92"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ipld/go-ipld-prime/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:protocol:go-ipld-prime:0.14.1:*:*:*:*:go:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:avast:secureline_vpn:-",
-  "title": [
-    {
-      "text": "AVAST SecureLine VPN",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.avast.com/en-us/secureline-vpn#pc"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://zeifan.my/security/arbitrary%20file/eop/2020/07/21/avast-secureline-vpn-arb-file-eop.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:avast:secureline_vpn:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:avast:secureline_vpn:-",
+	"title": [
+		{
+			"text": "AVAST SecureLine VPN",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.avast.com/en-us/secureline-vpn#pc"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://zeifan.my/security/arbitrary%20file/eop/2020/07/21/avast-secureline-vpn-arb-file-eop.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:avast:secureline_vpn:-:*:*:*:*:*:*:*"
+	}
 }

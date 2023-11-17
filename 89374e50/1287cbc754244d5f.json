@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:intel:ethernet_700_series_software:22.10",
-  "title": [
-    {
-      "text": "Intel Ethernet 700 Series Software 22.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://downloadcenter.intel.com/product/46828/700-Series-Network-Adapters-up-to-40GbE-"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/network-adapters/ethernet-700-series-video.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00255.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:ethernet_700_series_software:22.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:ethernet_700_series_software:22.10",
+	"title": [
+		{
+			"text": "Intel Ethernet 700 Series Software 22.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://downloadcenter.intel.com/product/46828/700-Series-Network-Adapters-up-to-40GbE-"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/network-adapters/ethernet-700-series-video.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00255.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:ethernet_700_series_software:22.10:*:*:*:*:*:*:*"
+	}
 }

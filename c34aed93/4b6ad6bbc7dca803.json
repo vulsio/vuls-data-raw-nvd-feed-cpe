@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cloudera:cdh:5.15.1",
-  "title": [
-    {
-      "text": "Cloudera CDH 5.15.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_vp4_q2x_thb"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.cloudera.com/documentation/enterprise/release-notes/topics/cdh_rn_new_in_cdh_50.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudera:cdh:5.15.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudera:cdh:5.15.1",
+	"title": [
+		{
+			"text": "Cloudera CDH 5.15.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://docs.cloudera.com/documentation/other/security-bulletins/topics/Security-Bulletin.html#concept_vp4_q2x_thb"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.cloudera.com/documentation/enterprise/release-notes/topics/cdh_rn_new_in_cdh_50.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudera:cdh:5.15.1:*:*:*:*:*:*:*"
+	}
 }

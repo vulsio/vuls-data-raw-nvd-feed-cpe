@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:veu_tokenerc20_project:veu_tokenerc20:-",
-  "title": [
-    {
-      "text": "VEU_TokenERC20 Project VEU_TokenERC20",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x70807fa9343ee3d7d6e9d8602bf3ca867cc86479#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:veu_tokenerc20_project:veu_tokenerc20:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:veu_tokenerc20_project:veu_tokenerc20:-",
+	"title": [
+		{
+			"text": "VEU_TokenERC20 Project VEU_TokenERC20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x70807fa9343ee3d7d6e9d8602bf3ca867cc86479#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:veu_tokenerc20_project:veu_tokenerc20:-:*:*:*:*:*:*:*"
+	}
 }

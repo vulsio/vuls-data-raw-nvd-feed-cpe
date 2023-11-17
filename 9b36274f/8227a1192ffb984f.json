@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:airspan:airvelocity_1500_firmware:9.3.0.01249",
-  "title": [
-    {
-      "text": "Airspan Airvelocity 1500 Firmware 9.3.0.01249",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.balticnetworks.com/products/airspan-airvelocity-1500-3-5-3-7ghz-b48-b42h-b43l-cbrs-enodeb"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-9v93-3qpc-hxj9"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/36xxx/CVE-2022-36306.json"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.airspan.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:airspan:airvelocity_1500_firmware:9.3.0.01249:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:airspan:airvelocity_1500_firmware:9.3.0.01249",
+	"title": [
+		{
+			"text": "Airspan Airvelocity 1500 Firmware 9.3.0.01249",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.balticnetworks.com/products/airspan-airvelocity-1500-3-5-3-7ghz-b48-b42h-b43l-cbrs-enodeb"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/metaredteam/external-disclosures/security/advisories/GHSA-9v93-3qpc-hxj9"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/36xxx/CVE-2022-36306.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.airspan.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:airspan:airvelocity_1500_firmware:9.3.0.01249:*:*:*:*:*:*:*"
+	}
 }

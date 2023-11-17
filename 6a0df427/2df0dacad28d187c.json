@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dolibarr:dolibarr:3.2.0",
-  "deprecated": true,
-  "deprecation_date": "2022-11-17T17:23:29.983Z",
-  "title": [
-    {
-      "text": "Dolibarr 3.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/Dolibarr/dolibarr"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.dolibarr.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dolibarr:dolibarr:3.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-17T12:23:29.983-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:3.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dolibarr:dolibarr:3.2.0",
+	"deprecated": true,
+	"deprecation_date": "2022-11-17T17:23:29.983Z",
+	"title": [
+		{
+			"text": "Dolibarr 3.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/Dolibarr/dolibarr"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.dolibarr.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dolibarr:dolibarr:3.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-17T12:23:29.983-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:3.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

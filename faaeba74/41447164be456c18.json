@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:zohocorp:manageengine_adaudit_plus:7.0.0:7000",
-  "deprecated": true,
-  "deprecation_date": "2022-05-18T13:20:28.777Z",
-  "title": [
-    {
-      "text": "Zoho Corporation ManageEngine ADAudit Plus 7.0.0 7000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.manageengine.com/products/active-directory-audit/adaudit-plus-release-notes.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.manageengine.com/products/active-directory-audit/service-pack.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7000:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-18T09:20:28.777-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7000:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zohocorp:manageengine_adaudit_plus:7.0.0:7000",
+	"deprecated": true,
+	"deprecation_date": "2022-05-18T13:20:28.777Z",
+	"title": [
+		{
+			"text": "Zoho Corporation ManageEngine ADAudit Plus 7.0.0 7000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.manageengine.com/products/active-directory-audit/adaudit-plus-release-notes.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.manageengine.com/products/active-directory-audit/service-pack.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0.0:7000:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-18T09:20:28.777-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_adaudit_plus:7.0:7000:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

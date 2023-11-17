@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:dell:sonicwall_network_security_appliance_2650:-",
-  "deprecated": true,
-  "deprecation_date": "2022-06-16T15:02:44.810Z",
-  "title": [
-    {
-      "text": "Dell SonicWall Network Security Appliance 2650",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/en-us/support/knowledge-base/170504337655458"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.dell.com/en-us/work/shop/networking/sonicwall-nsa-series/spd/sonicwall-nsa-series"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2650:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-16T11:02:44.810-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:sonicwall:nsa_2650:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:dell:sonicwall_network_security_appliance_2650:-",
+	"deprecated": true,
+	"deprecation_date": "2022-06-16T15:02:44.810Z",
+	"title": [
+		{
+			"text": "Dell SonicWall Network Security Appliance 2650",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/en-us/support/knowledge-base/170504337655458"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.dell.com/en-us/work/shop/networking/sonicwall-nsa-series/spd/sonicwall-nsa-series"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2650:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-16T11:02:44.810-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:sonicwall:nsa_2650:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

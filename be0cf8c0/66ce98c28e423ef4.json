@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:netwavepr:indoor_ip_camera:-",
-  "title": [
-    {
-      "text": "Netwavepr Indoor Ip Camera -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://netwavepr.com/surveillance-camera/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2018/17xxx/CVE-2018-17240.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BBge/CVE-2018-17240/blob/main/exploit.py"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:netwavepr:indoor_ip_camera:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:netwavepr:indoor_ip_camera:-",
+	"title": [
+		{
+			"text": "Netwavepr Indoor Ip Camera -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://netwavepr.com/surveillance-camera/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2018/17xxx/CVE-2018-17240.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BBge/CVE-2018-17240/blob/main/exploit.py"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netwavepr:indoor_ip_camera:-:*:*:*:*:*:*:*"
+	}
 }

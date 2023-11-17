@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:dlt-daemon_project:dlt-daemon:2.18.4",
-  "deprecated": true,
-  "deprecation_date": "2021-12-21T16:31:33.990Z",
-  "title": [
-    {
-      "text": "dlt-daemon Project dlt-daemon 2.18.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/GENIVI/dlt-daemon"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dlt-daemon_project:dlt-daemon:2.18.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-21T11:31:33.990-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:genivi:diagnostic_log_and_trace:2.18.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dlt-daemon_project:dlt-daemon:2.18.4",
+	"deprecated": true,
+	"deprecation_date": "2021-12-21T16:31:33.990Z",
+	"title": [
+		{
+			"text": "dlt-daemon Project dlt-daemon 2.18.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/GENIVI/dlt-daemon"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dlt-daemon_project:dlt-daemon:2.18.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-21T11:31:33.990-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:genivi:diagnostic_log_and_trace:2.18.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

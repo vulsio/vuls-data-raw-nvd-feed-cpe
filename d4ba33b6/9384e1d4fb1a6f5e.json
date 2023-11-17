@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:license_software:1.50",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T17:46:13.287Z",
-  "title": [
-    {
-      "text": "Ca License Software 1.50",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:license_software:1.50:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T13:46:13.287-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:license_software:1.50:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:license_software:1.50",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T17:46:13.287Z",
+	"title": [
+		{
+			"text": "Ca License Software 1.50",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:license_software:1.50:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T13:46:13.287-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:license_software:1.50:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

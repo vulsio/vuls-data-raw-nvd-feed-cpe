@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:easyphp:webserver:14.1",
-  "title": [
-    {
-      "text": "EasyPHP Webserver 14.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.easyphp.org/easyphp-webserver.php"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.incibe.es/incibe-cert/alerta-temprana/avisos/inyeccion-de-comandos-os-en-easyphp-webserver"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:easyphp:webserver:14.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:easyphp:webserver:14.1",
+	"title": [
+		{
+			"text": "EasyPHP Webserver 14.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.easyphp.org/easyphp-webserver.php"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe.es/incibe-cert/alerta-temprana/avisos/inyeccion-de-comandos-os-en-easyphp-webserver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:easyphp:webserver:14.1:*:*:*:*:*:*:*"
+	}
 }

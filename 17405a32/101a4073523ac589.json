@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:intel:microcode:-",
-  "deprecated": true,
-  "deprecation_date": "2021-07-02T15:52:56.263Z",
-  "title": [
-    {
-      "text": "Intel Microcode",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:microcode:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-02T11:52:56.263-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:intel:microcode:-",
+	"deprecated": true,
+	"deprecation_date": "2021-07-02T15:52:56.263Z",
+	"title": [
+		{
+			"text": "Intel Microcode",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:microcode:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-02T11:52:56.263-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:intel:microcode:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

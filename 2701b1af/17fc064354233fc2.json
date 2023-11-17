@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:abbott:merlin%40home_firmware:8.0",
-  "title": [
-    {
-      "text": "Abbott Merlin@home Firmware 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cardiovascular.abbott/content/cv/cardiovascular/us/en/hcp/products/cardiac-rhythm-management/connectivity-remote-care/merlin-home-transmitter.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-17-009-01a"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.abbott.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:abbott:merlin%40home_firmware:8.0",
+	"title": [
+		{
+			"text": "Abbott Merlin@home Firmware 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cardiovascular.abbott/content/cv/cardiovascular/us/en/hcp/products/cardiac-rhythm-management/connectivity-remote-care/merlin-home-transmitter.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-17-009-01a"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.abbott.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*"
+	}
 }

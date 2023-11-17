@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:tp-link:ue330_firmware:2021-08-09",
-  "title": [
-    {
-      "text": "TP-Link UE330 FIRMWARE 2021-08-09",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.tp-link.com/us/home-networking/usb-adapter/ue330/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.nassiben.com/glowworm-attack"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38543.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tp-link:ue330_firmware:2021-08-09:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tp-link:ue330_firmware:2021-08-09",
+	"title": [
+		{
+			"text": "TP-Link UE330 FIRMWARE 2021-08-09",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tp-link.com/us/home-networking/usb-adapter/ue330/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.nassiben.com/glowworm-attack"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/38xxx/CVE-2021-38543.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tp-link:ue330_firmware:2021-08-09:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:helpproject:help:-",
-  "title": [
-    {
-      "text": "Help Project HELP",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0xE8C5E942B76099C0C6D78271BAd3ca002fA7c531"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.helpproject.info/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:helpproject:help:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:helpproject:help:-",
+	"title": [
+		{
+			"text": "Help Project HELP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0xE8C5E942B76099C0C6D78271BAd3ca002fA7c531"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.helpproject.info/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:helpproject:help:-:*:*:*:*:*:*:*"
+	}
 }

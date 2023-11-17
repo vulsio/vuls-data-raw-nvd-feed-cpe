@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:libexpat:expat:2.2.0",
-  "deprecated": true,
-  "deprecation_date": "2021-01-25T15:44:44.507Z",
-  "title": [
-    {
-      "text": "libexpat Expat 2.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/expat/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libexpat:expat:2.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-25T10:44:44.507-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libexpat_project:libexpat:2.2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libexpat:expat:2.2.0",
+	"deprecated": true,
+	"deprecation_date": "2021-01-25T15:44:44.507Z",
+	"title": [
+		{
+			"text": "libexpat Expat 2.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/expat/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libexpat:expat:2.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-25T10:44:44.507-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libexpat_project:libexpat:2.2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

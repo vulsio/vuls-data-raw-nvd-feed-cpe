@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nothings:stb_image:0.52",
-  "deprecated": true,
-  "deprecation_date": "2023-10-25T12:25:32.370Z",
-  "title": [
-    {
-      "text": "Nothings stb_image 0.52",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nothings/stb/blob/5736b15f7ea0ffb08dd38af21067c314d6a3aae9/stb_image.h#L6817"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/nothings/stb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nothings:stb_image:0.52:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-25T08:25:32.370-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nothings:stb_image.h:0.52:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nothings:stb_image:0.52",
+	"deprecated": true,
+	"deprecation_date": "2023-10-25T12:25:32.370Z",
+	"title": [
+		{
+			"text": "Nothings stb_image 0.52",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nothings/stb/blob/5736b15f7ea0ffb08dd38af21067c314d6a3aae9/stb_image.h#L6817"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/nothings/stb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nothings:stb_image:0.52:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-25T08:25:32.370-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nothings:stb_image.h:0.52:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

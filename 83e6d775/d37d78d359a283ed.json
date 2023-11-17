@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mysql:mysql:5.0.44:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-17T17:14:38.787Z",
-  "title": [
-    {
-      "text": "MySQL 5.0.44 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mysql/mysql-server/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/mysql/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mysql:mysql:5.0.44:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-17T12:14:38.787-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql:5.0.44:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mysql:mysql:5.0.44:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-17T17:14:38.787Z",
+	"title": [
+		{
+			"text": "MySQL 5.0.44 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mysql/mysql-server/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/mysql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mysql:mysql:5.0.44:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-17T12:14:38.787-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql:5.0.44:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

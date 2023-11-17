@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cohesity:linux_agent:6.5.1d:hotfix10",
-  "title": [
-    {
-      "text": "Cohesity Linux Agent 6.5.1d Hotfix10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cohesity.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cohesity/SecAdvisory/blob/master/CVE-2021-36795.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cohesity:linux_agent:6.5.1d:hotfix10:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cohesity:linux_agent:6.5.1d:hotfix10",
+	"title": [
+		{
+			"text": "Cohesity Linux Agent 6.5.1d Hotfix10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cohesity.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cohesity/SecAdvisory/blob/master/CVE-2021-36795.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cohesity:linux_agent:6.5.1d:hotfix10:*:*:*:*:*:*"
+	}
 }

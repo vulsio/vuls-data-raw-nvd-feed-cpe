@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kapaycoin_project:kapaycoin:-",
-  "title": [
-    {
-      "text": "KAPAYcoin Project KAPAYcoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xbe9d853914fb4d7bc189a918183c835aca98cdb6#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kapaycoin_project:kapaycoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kapaycoin_project:kapaycoin:-",
+	"title": [
+		{
+			"text": "KAPAYcoin Project KAPAYcoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xbe9d853914fb4d7bc189a918183c835aca98cdb6#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kapaycoin_project:kapaycoin:-:*:*:*:*:*:*:*"
+	}
 }

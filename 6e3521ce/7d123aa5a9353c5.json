@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:ysoft:safeq_server:6.0.82",
-  "title": [
-    {
-      "text": "Ysoft Safeq Server 6.0.82",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ysoft.com/en/legal/ldaps-encryption-downgrade-attack-vulnerability"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35833.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ysoft:safeq_server:6.0.82:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:ysoft:safeq_server:6.0.82",
+	"title": [
+		{
+			"text": "Ysoft Safeq Server 6.0.82",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ysoft.com/en/legal/ldaps-encryption-downgrade-attack-vulnerability"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35833.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ysoft:safeq_server:6.0.82:*:*:*:*:*:*:*"
+	}
 }

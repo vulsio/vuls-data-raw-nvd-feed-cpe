@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise",
-  "deprecated": true,
-  "deprecation_date": "2015-03-25T14:17:59.610Z",
-  "title": [
-    {
-      "text": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "https://www.suse.com/communities/conversations/suse-linux-enterprise-11-sdk/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise:*:*:*:*:*",
-    "deprecation": {
-      "date": "2015-03-25T10:17:59.610-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise",
+	"deprecated": true,
+	"deprecation_date": "2015-03-25T14:17:59.610Z",
+	"title": [
+		{
+			"text": "Novell SUSE Linux Enterprise Software Development Kit 11.0 Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "https://www.suse.com/communities/conversations/suse-linux-enterprise-11-sdk/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:novell:suse_linux_software_development_kit:11.0:sp3:enterprise:*:*:*:*:*",
+		"deprecation": {
+			"date": "2015-03-25T10:17:59.610-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:suse:suse_linux_enterprise_software_development_kit:11.0:sp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:openbsd:openssh:3.7.1p2",
-  "deprecated": true,
-  "deprecation_date": "2022-08-04T15:12:06.900Z",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 3.7.1 p2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.openssh.com/releasenotes.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openbsd.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:3.7.1p2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-08-04T11:12:06.900-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openbsd:openssh:2.9.9:p2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openbsd:openssh:3.7.1p2",
+	"deprecated": true,
+	"deprecation_date": "2022-08-04T15:12:06.900Z",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 3.7.1 p2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.openssh.com/releasenotes.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openbsd.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:3.7.1p2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-08-04T11:12:06.900-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openbsd:openssh:2.9.9:p2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:wordpress:wordpress:2.0.8",
-  "deprecated": true,
-  "deprecation_date": "2019-06-10T21:29:15.723Z",
-  "title": [
-    {
-      "text": "WordPress 2.0.8",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wordpress:wordpress:2.0.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-10T17:29:15.723-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wordpress:wordpress:2.0.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wordpress:wordpress:2.0.8",
+	"deprecated": true,
+	"deprecation_date": "2019-06-10T21:29:15.723Z",
+	"title": [
+		{
+			"text": "WordPress 2.0.8",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wordpress:wordpress:2.0.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-10T17:29:15.723-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wordpress:wordpress:2.0.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

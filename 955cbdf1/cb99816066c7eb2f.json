@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:goa:goa:3.0.9::~~~go~~",
-  "title": [
-    {
-      "text": "Goa 3.0.9 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/goadesign/goa/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://goa.design/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0032"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:goa:goa:3.0.9:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:goa:goa:3.0.9::~~~go~~",
+	"title": [
+		{
+			"text": "Goa 3.0.9 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/goadesign/goa/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://goa.design/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0032"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:goa:goa:3.0.9:*:*:*:*:go:*:*"
+	}
 }

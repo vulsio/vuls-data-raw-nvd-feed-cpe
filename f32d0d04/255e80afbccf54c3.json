@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linuxfoundation:ceph:14.2.19",
-  "title": [
-    {
-      "text": "Linux Foundation Ceph 14.2.19",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.ceph.com/en/latest/releases/nautilus/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1938031"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ceph/ceph/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:ceph:14.2.19:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:ceph:14.2.19",
+	"title": [
+		{
+			"text": "Linux Foundation Ceph 14.2.19",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.ceph.com/en/latest/releases/nautilus/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1938031"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ceph/ceph/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:ceph:14.2.19:*:*:*:*:*:*:*"
+	}
 }

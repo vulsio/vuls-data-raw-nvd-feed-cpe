@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ibm:qradar_security_information_and_event_manager:7.2.6",
-  "deprecated": true,
-  "deprecation_date": "2020-10-19T17:23:24.793Z",
-  "title": [
-    {
-      "text": "IBM QRadar Security Information and Event Manager (SIEM) 7.2.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www-945.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=IBM+Security%3bibm%2fOther+software%2fIBM+Security+QRadar+SIEM"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-19T13:23:24.793-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:qradar_security_information_and_event_manager:7.2.6",
+	"deprecated": true,
+	"deprecation_date": "2020-10-19T17:23:24.793Z",
+	"title": [
+		{
+			"text": "IBM QRadar Security Information and Event Manager (SIEM) 7.2.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www-945.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=IBM+Security%3bibm%2fOther+software%2fIBM+Security+QRadar+SIEM"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-19T13:23:24.793-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:qradar_security_information_and_event_manager:7.2.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

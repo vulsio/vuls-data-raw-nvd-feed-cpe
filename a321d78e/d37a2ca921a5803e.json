@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:cisco:ucs_c240_m5_firmware:3.0%281a%29",
-  "title": [
-    {
-      "text": "Cisco UCS C240 M5 FIRMWARE 3.0(1a)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-hyperflex-csrf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/servers-unified-computing/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/hyperconverged-infrastructure/hyperflex-hx-series/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ucs_c240_m5_firmware:3.0\\(1a\\):*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:ucs_c240_m5_firmware:3.0%281a%29",
+	"title": [
+		{
+			"text": "Cisco UCS C240 M5 FIRMWARE 3.0(1a)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190501-hyperflex-csrf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/servers-unified-computing/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/hyperconverged-infrastructure/hyperflex-hx-series/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ucs_c240_m5_firmware:3.0\\(1a\\):*:*:*:*:*:*:*"
+	}
 }

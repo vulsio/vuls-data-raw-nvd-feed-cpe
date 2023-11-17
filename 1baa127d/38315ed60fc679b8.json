@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:x:libxi:1.6.0",
-  "deprecated": true,
-  "deprecation_date": "2020-08-24T16:35:48.717Z",
-  "title": [
-    {
-      "text": "x.org libXi 1.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:x:libxi:1.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-24T12:35:48.717-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:x.org:libxi:1.6.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:x:libxi:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2020-08-24T16:35:48.717Z",
+	"title": [
+		{
+			"text": "x.org libXi 1.6.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:x:libxi:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-24T12:35:48.717-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:x.org:libxi:1.6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

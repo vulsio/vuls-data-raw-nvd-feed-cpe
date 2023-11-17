@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:yourownprogrammer:yop_poll:4.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-11-21T18:46:31.543Z",
-  "title": [
-    {
-      "text": "Yourownprogrammer YOP Poll 4.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/yop-poll/#changelog"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://yop-poll.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yourownprogrammer:yop_poll:4.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-11-21T13:46:31.543-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:yop-poll:yop_poll:4.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:yourownprogrammer:yop_poll:4.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-11-21T18:46:31.543Z",
+	"title": [
+		{
+			"text": "Yourownprogrammer YOP Poll 4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/yop-poll/#changelog"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://yop-poll.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yourownprogrammer:yop_poll:4.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-11-21T13:46:31.543-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:yop-poll:yop_poll:4.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

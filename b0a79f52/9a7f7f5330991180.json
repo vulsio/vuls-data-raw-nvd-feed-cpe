@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:inhandnetworks:inrouter_900_firmware:1.0.0.r11700",
-  "title": [
-    {
-      "text": "InHand Networks InRouter 900 Firmware 1.0.0.R11700",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.inhandnetworks.com/upload/attachment/201702/28/030800/InRouter900%20Specification_v2.5_Nov2016.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.incibe-cert.es/alerta-temprana/vulnerabilidades/cve-2022-27268"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/skyvast404/IoT_Hunter/blob/main/Inhand%20InRouter%20900%20Industrial%204G%20Router%20%20Vulnerabilities(Arbitrary%20File%20Deletion%20and%20Read).pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:inhandnetworks:inrouter_900_firmware:1.0.0.r11700:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:inhandnetworks:inrouter_900_firmware:1.0.0.r11700",
+	"title": [
+		{
+			"text": "InHand Networks InRouter 900 Firmware 1.0.0.R11700",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.inhandnetworks.com/upload/attachment/201702/28/030800/InRouter900%20Specification_v2.5_Nov2016.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe-cert.es/alerta-temprana/vulnerabilidades/cve-2022-27268"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/skyvast404/IoT_Hunter/blob/main/Inhand%20InRouter%20900%20Industrial%204G%20Router%20%20Vulnerabilities(Arbitrary%20File%20Deletion%20and%20Read).pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:inhandnetworks:inrouter_900_firmware:1.0.0.r11700:*:*:*:*:*:*:*"
+	}
 }

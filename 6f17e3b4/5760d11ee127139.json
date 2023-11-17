@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:szuray:iptv%2fh.264_video_encoder_firmware:1.97",
-  "title": [
-    {
-      "text": "URayTech IPTV/H.264 Video Encoder Firmware 1.97",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.szuray.com/h-col-111.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://kojenov.com/2020-09-15-hisilicon-encoder-vulnerabilities/#arbitrary-file-disclosure-via-path-traversal-cve-2020-24219"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:1.97:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:szuray:iptv%2fh.264_video_encoder_firmware:1.97",
+	"title": [
+		{
+			"text": "URayTech IPTV/H.264 Video Encoder Firmware 1.97",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.szuray.com/h-col-111.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://kojenov.com/2020-09-15-hisilicon-encoder-vulnerabilities/#arbitrary-file-disclosure-via-path-traversal-cve-2020-24219"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:szuray:iptv\\/h.264_video_encoder_firmware:1.97:*:*:*:*:*:*:*"
+	}
 }

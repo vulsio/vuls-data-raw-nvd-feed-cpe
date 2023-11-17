@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:erlang:otp:23.2.2",
-  "deprecated": true,
-  "deprecation_date": "2023-02-21T19:09:46.910Z",
-  "title": [
-    {
-      "text": "Erlang OTP 23.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/erlang/otp/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-21T14:09:46.910-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:erlang:erlang\\/otp:23.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:erlang:otp:23.2.2",
+	"deprecated": true,
+	"deprecation_date": "2023-02-21T19:09:46.910Z",
+	"title": [
+		{
+			"text": "Erlang OTP 23.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/erlang/otp/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:erlang:otp:23.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-21T14:09:46.910-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:erlang:erlang\\/otp:23.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

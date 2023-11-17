@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:go-unzip_project:go-unzip:-::~~~go~~",
-  "title": [
-    {
-      "text": "Go-unzip Project Go-unzip for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0034"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/artdarek/go-unzip/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:go-unzip_project:go-unzip:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:go-unzip_project:go-unzip:-::~~~go~~",
+	"title": [
+		{
+			"text": "Go-unzip Project Go-unzip for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0034"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/artdarek/go-unzip/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:go-unzip_project:go-unzip:-:*:*:*:*:go:*:*"
+	}
 }

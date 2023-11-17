@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:lg:lg_led_assistant:-",
-  "title": [
-    {
-      "text": "LG LED Assistant",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.lg.com/us/business/display-solutions/supersign"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2023-4616"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lgsecurity.lge.com/bulletins/idproducts#updateDetails"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lg:lg_led_assistant:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:lg:lg_led_assistant:-",
+	"title": [
+		{
+			"text": "LG LED Assistant",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.lg.com/us/business/display-solutions/supersign"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-4616"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lgsecurity.lge.com/bulletins/idproducts#updateDetails"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lg:lg_led_assistant:-:*:*:*:*:*:*:*"
+	}
 }

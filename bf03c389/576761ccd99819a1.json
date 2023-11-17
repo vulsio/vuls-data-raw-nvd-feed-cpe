@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oppia:oppia:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2023-08-29T14:37:41.090Z",
-  "title": [
-    {
-      "text": "Oppia 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/oppia/oppia/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oppia.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oppia:oppia:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-08-29T10:37:41.090-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oppia:oppia:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oppia:oppia:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2023-08-29T14:37:41.090Z",
+	"title": [
+		{
+			"text": "Oppia 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/oppia/oppia/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oppia.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oppia:oppia:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-08-29T10:37:41.090-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oppia:oppia:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

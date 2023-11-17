@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:sounds:0.4.1::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Sounds 0.4.1 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://jenkins.io/security/advisory/2020-01-15/#SECURITY-814"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/sounds-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:sounds:0.4.1:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:sounds:0.4.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Sounds 0.4.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jenkins.io/security/advisory/2020-01-15/#SECURITY-814"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/sounds-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:sounds:0.4.1:*:*:*:*:jenkins:*:*"
+	}
 }

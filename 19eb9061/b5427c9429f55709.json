@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:aiven:aiven:1.0.1::~~~postgresql~~",
-  "title": [
-    {
-      "text": "Aiven 1.0.1 for Postgresql",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/aiven/aiven-extras/security/advisories/GHSA-7r4w-fw4h-67gp"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://aiven.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/aiven/aiven-extras/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:aiven:aiven:1.0.1:*:*:*:*:postgresql:*:*"
-  }
+	"name": "cpe:/a:aiven:aiven:1.0.1::~~~postgresql~~",
+	"title": [
+		{
+			"text": "Aiven 1.0.1 for Postgresql",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aiven/aiven-extras/security/advisories/GHSA-7r4w-fw4h-67gp"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://aiven.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/aiven/aiven-extras/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aiven:aiven:1.0.1:*:*:*:*:postgresql:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:modsecurity:modsecurity:2.7.6",
-  "deprecated": true,
-  "deprecation_date": "2021-02-10T15:57:05.863Z",
-  "title": [
-    {
-      "text": "ModSecurity 2.7.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product changelog",
-      "href": "https://github.com/SpiderLabs/ModSecurity/blob/master/CHANGES"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:modsecurity:modsecurity:2.7.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-10T10:57:05.863-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:trustwave:modsecurity:2.7.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:modsecurity:modsecurity:2.7.6",
+	"deprecated": true,
+	"deprecation_date": "2021-02-10T15:57:05.863Z",
+	"title": [
+		{
+			"text": "ModSecurity 2.7.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product changelog",
+			"href": "https://github.com/SpiderLabs/ModSecurity/blob/master/CHANGES"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:modsecurity:modsecurity:2.7.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-10T10:57:05.863-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:trustwave:modsecurity:2.7.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

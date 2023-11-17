@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cubecoders:application_management_panel:2.1.1.2",
-  "deprecated": true,
-  "deprecation_date": "2021-07-28T15:55:25.660Z",
-  "title": [
-    {
-      "text": "CubeCoders Application Management Panel (AMP) 2.1.1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://cubecoders.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://cubecoders.com/AMP"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CubeCoders/AMP/issues/443"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cubecoders:application_management_panel:2.1.1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-28T11:55:25.660-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cubecoders:amp:2.1.1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cubecoders:application_management_panel:2.1.1.2",
+	"deprecated": true,
+	"deprecation_date": "2021-07-28T15:55:25.660Z",
+	"title": [
+		{
+			"text": "CubeCoders Application Management Panel (AMP) 2.1.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://cubecoders.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://cubecoders.com/AMP"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CubeCoders/AMP/issues/443"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cubecoders:application_management_panel:2.1.1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-28T11:55:25.660-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cubecoders:amp:2.1.1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

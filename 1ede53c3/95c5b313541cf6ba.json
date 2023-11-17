@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:canonical:apport:2.20.1",
-  "title": [
-    {
-      "text": "Canonical Apport 2.20.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://launchpad.net/ubuntu/+source/apport/+changelog"
-    },
-    {
-      "text": "Product",
-      "href": "https://launchpad.net/ubuntu/+source/apport/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32556.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1917904"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:apport:2.20.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:canonical:apport:2.20.1",
+	"title": [
+		{
+			"text": "Canonical Apport 2.20.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://launchpad.net/ubuntu/+source/apport/+changelog"
+		},
+		{
+			"text": "Product",
+			"href": "https://launchpad.net/ubuntu/+source/apport/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32556.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.launchpad.net/ubuntu/+source/apport/+bug/1917904"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:apport:2.20.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mautic:mautic:2.0.1",
-  "deprecated": true,
-  "deprecation_date": "2021-01-25T16:50:55.617Z",
-  "title": [
-    {
-      "text": "Mautic 2.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mautic.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mautic/mautic/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mautic:mautic:2.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-25T11:50:55.617-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:acquia:mautic:2.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mautic:mautic:2.0.1",
+	"deprecated": true,
+	"deprecation_date": "2021-01-25T16:50:55.617Z",
+	"title": [
+		{
+			"text": "Mautic 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mautic.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mautic/mautic/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mautic:mautic:2.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-25T11:50:55.617-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:acquia:mautic:2.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

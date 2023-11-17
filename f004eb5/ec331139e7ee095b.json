@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:redhat:enterprise_mrg:2.0",
-  "deprecated": true,
-  "deprecation_date": "2021-07-15T19:15:29.347Z",
-  "title": [
-    {
-      "text": "Redhat Enterprise MRG 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/products/red-hat-enterprise-mrg-realtime/overview"
-    },
-    {
-      "text": "RHSA-2014-0441",
-      "href": "https://rhn.redhat.com/errata/RHSA-2014-0441.html"
-    },
-    {
-      "text": "RHSA-2013-1294",
-      "href": "http://rhn.redhat.com/errata/RHSA-2013-1294.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:enterprise_mrg:2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-15T15:15:29.347-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:redhat:enterprise_mrg:2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:enterprise_mrg:2.0",
+	"deprecated": true,
+	"deprecation_date": "2021-07-15T19:15:29.347Z",
+	"title": [
+		{
+			"text": "Redhat Enterprise MRG 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/products/red-hat-enterprise-mrg-realtime/overview"
+		},
+		{
+			"text": "RHSA-2014-0441",
+			"href": "https://rhn.redhat.com/errata/RHSA-2014-0441.html"
+		},
+		{
+			"text": "RHSA-2013-1294",
+			"href": "http://rhn.redhat.com/errata/RHSA-2013-1294.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:enterprise_mrg:2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-15T15:15:29.347-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:redhat:enterprise_mrg:2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

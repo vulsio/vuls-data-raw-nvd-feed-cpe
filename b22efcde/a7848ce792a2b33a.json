@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudera:hue:4.6.0",
-  "title": [
-    {
-      "text": "Cloudera HUE 4.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudera.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-hue.pdf"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudera/hue/blob/master/docs/docs-site/content/releases/release-notes-4.6.0.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudera:hue:4.6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudera:hue:4.6.0",
+	"title": [
+		{
+			"text": "Cloudera HUE 4.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudera.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.cloudera.com/documentation/enterprise/6/6.3/PDF/cloudera-hue.pdf"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudera/hue/blob/master/docs/docs-site/content/releases/release-notes-4.6.0.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudera:hue:4.6.0:*:*:*:*:*:*:*"
+	}
 }

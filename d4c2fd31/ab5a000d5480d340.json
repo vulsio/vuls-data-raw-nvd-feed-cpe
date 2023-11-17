@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redis:redis-py:4.0.0:beta1",
-  "title": [
-    {
-      "text": "redis-py (Redis Python Client) 4.0.0 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/redis/redis-py/pull/2641"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/redis/redis-py/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis:redis-py:4.0.0:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redis:redis-py:4.0.0:beta1",
+	"title": [
+		{
+			"text": "redis-py (Redis Python Client) 4.0.0 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/redis/redis-py/pull/2641"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/redis/redis-py/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redis-py:4.0.0:beta1:*:*:*:*:*:*"
+	}
 }

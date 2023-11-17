@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:popup_%7c_custom_popup_builder_project:popup_%7c_custom_popup_builder:-::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-07-24T18:06:41.477Z",
-  "title": [
-    {
-      "text": "Popup | Custom Popup Builder Project Popup | Custom Popup Builder for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/ca2e8feb-15d6-4965-ad9c-8da1bc01e0f4"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/m-wp-popup/#description"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/m-wp-popup?format=changelog&rev=2680866&limit=100&mode=stop_on_copy"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:popup_\\|_custom_popup_builder_project:popup_\\|_custom_popup_builder:-:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-07-24T14:06:41.477-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:custom_popup_builder_project:custom_popup_builder:-:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:popup_%7c_custom_popup_builder_project:popup_%7c_custom_popup_builder:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-07-24T18:06:41.477Z",
+	"title": [
+		{
+			"text": "Popup | Custom Popup Builder Project Popup | Custom Popup Builder for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/ca2e8feb-15d6-4965-ad9c-8da1bc01e0f4"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/m-wp-popup/#description"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/m-wp-popup?format=changelog&rev=2680866&limit=100&mode=stop_on_copy"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:popup_\\|_custom_popup_builder_project:popup_\\|_custom_popup_builder:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-07-24T14:06:41.477-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:custom_popup_builder_project:custom_popup_builder:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

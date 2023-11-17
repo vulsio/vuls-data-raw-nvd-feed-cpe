@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cache_images_project:cache_images:3.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Cache Images Project Cache Images 3.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/03e7c2dc-1c6d-4cff-af59-6b41ead74978"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/cache-images/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cache_images_project:cache_images:3.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:cache_images_project:cache_images:3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cache Images Project Cache Images 3.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/03e7c2dc-1c6d-4cff-af59-6b41ead74978"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/cache-images/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cache_images_project:cache_images:3.1:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:go-resolver_project:go-resolver:-::~~~go~~",
-  "title": [
-    {
-      "text": "go-resolver Project go-resolver for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2022-0979"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/peterzen/goresolver"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:go-resolver_project:go-resolver:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:go-resolver_project:go-resolver:-::~~~go~~",
+	"title": [
+		{
+			"text": "go-resolver Project go-resolver for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2022-0979"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/peterzen/goresolver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:go-resolver_project:go-resolver:-:*:*:*:*:go:*:*"
+	}
 }

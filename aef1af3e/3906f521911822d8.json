@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:printerlogic:web_stack:19.1.1.13:sp9",
-  "title": [
-    {
-      "text": "Printerlogic Web Stack 19.1.1.13 Service Pack 9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.yahooinc.com/paranoids/paranoids-vulnerability-research-printerlogic-issues-security-alert/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portswigger.net/daily-swig/printerlogic-vendor-addresses-triple-rce-threat-against-all-connected-endpoints"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://printerlogic.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:printerlogic:web_stack:19.1.1.13:sp9:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:printerlogic:web_stack:19.1.1.13:sp9",
+	"title": [
+		{
+			"text": "Printerlogic Web Stack 19.1.1.13 Service Pack 9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.yahooinc.com/paranoids/paranoids-vulnerability-research-printerlogic-issues-security-alert/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portswigger.net/daily-swig/printerlogic-vendor-addresses-triple-rce-threat-against-all-connected-endpoints"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://printerlogic.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:printerlogic:web_stack:19.1.1.13:sp9:*:*:*:*:*:*"
+	}
 }

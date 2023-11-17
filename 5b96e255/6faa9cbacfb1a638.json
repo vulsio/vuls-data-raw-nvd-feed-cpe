@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:resteasy:2.0.0:alpha1",
-  "title": [
-    {
-      "text": "Red Hat RESTEasy 2.0.0 Alpha 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://search.maven.org/artifact/io.quarkus/quarkus-resteasy-multipart/2.0.0.Alpha2/jar"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1899354"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:resteasy:2.0.0:alpha1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:resteasy:2.0.0:alpha1",
+	"title": [
+		{
+			"text": "Red Hat RESTEasy 2.0.0 Alpha 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://search.maven.org/artifact/io.quarkus/quarkus-resteasy-multipart/2.0.0.Alpha2/jar"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1899354"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:resteasy:2.0.0:alpha1:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cisco:secure_access_control_server_solution_engine:3.3",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:37:52.193Z",
-  "title": [
-    {
-      "text": "Cisco Secure Access Control Server (ACS) 3.3 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:secure_access_control_server_solution_engine:3.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:37:52.193-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:secure_access_control_server:3.3:-:windows:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:secure_access_control_server_solution_engine:3.3",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:37:52.193Z",
+	"title": [
+		{
+			"text": "Cisco Secure Access Control Server (ACS) 3.3 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_access_control_server_solution_engine:3.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:37:52.193-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:secure_access_control_server:3.3:-:windows:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

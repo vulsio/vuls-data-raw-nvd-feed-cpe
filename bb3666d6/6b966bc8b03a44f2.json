@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:palantir:foundry_multipass:3.647.0",
-  "title": [
-    {
-      "text": "Palantir Foundry Multipass 3.647.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27889.json"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.palantir.com/platforms/foundry/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/palantir/security-bulletins/blob/main/PLTRSEC-2022-02.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:palantir:foundry_multipass:3.647.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:palantir:foundry_multipass:3.647.0",
+	"title": [
+		{
+			"text": "Palantir Foundry Multipass 3.647.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27889.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.palantir.com/platforms/foundry/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/palantir/security-bulletins/blob/main/PLTRSEC-2022-02.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:palantir:foundry_multipass:3.647.0:*:*:*:*:*:*:*"
+	}
 }

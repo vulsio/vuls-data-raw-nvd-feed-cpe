@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/h:arris:sbg6580-2:3.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-23T17:24:41.650Z",
-  "title": [
-    {
-      "text": "ARRIS SBG6580-2 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.commscope.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.arris.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://arris.secure.force.com/consumers/ConsumerProductDetail?p=a0ha000000TnGGlAAN&c=SURFboard+Cable+Modems+and+Gateways"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arris:sbg6580-2:3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-23T13:24:41.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:commscope:arris_sbg6580-2:3.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:arris:sbg6580-2:3.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-23T17:24:41.650Z",
+	"title": [
+		{
+			"text": "ARRIS SBG6580-2 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.commscope.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arris.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://arris.secure.force.com/consumers/ConsumerProductDetail?p=a0ha000000TnGGlAAN&c=SURFboard+Cable+Modems+and+Gateways"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arris:sbg6580-2:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-23T13:24:41.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:commscope:arris_sbg6580-2:3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

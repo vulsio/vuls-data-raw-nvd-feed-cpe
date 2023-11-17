@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:resf:rocky_linux:8.6",
-  "deprecated": true,
-  "deprecation_date": "2023-03-06T14:58:02.190Z",
-  "title": [
-    {
-      "text": "The Rocky Enterprise Software Foundation (RESF) Rocky Linux 8.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.rockylinux.org/release_notes/9_1"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.resf.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:resf:rocky_linux:8.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-03-06T09:58:02.190-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:resf:rocky_linux:8.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:resf:rocky_linux:8.6",
+	"deprecated": true,
+	"deprecation_date": "2023-03-06T14:58:02.190Z",
+	"title": [
+		{
+			"text": "The Rocky Enterprise Software Foundation (RESF) Rocky Linux 8.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.rockylinux.org/release_notes/9_1"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.resf.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:resf:rocky_linux:8.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-03-06T09:58:02.190-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:resf:rocky_linux:8.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

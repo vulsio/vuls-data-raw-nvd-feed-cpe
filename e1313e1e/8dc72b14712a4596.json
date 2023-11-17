@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:automattic:jetpack:10.8::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Automattic JetPack 10.8 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jetpack.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/Automattic/jetpack/blob/trunk/projects/plugins/jetpack/CHANGELOG.md#changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:automattic:jetpack:10.8:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:automattic:jetpack:10.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Automattic JetPack 10.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jetpack.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Automattic/jetpack/blob/trunk/projects/plugins/jetpack/CHANGELOG.md#changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:jetpack:10.8:*:*:*:*:wordpress:*:*"
+	}
 }

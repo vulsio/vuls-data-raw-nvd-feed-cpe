@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:thalesgroup:sentinel_ldk_run-time_environment:-",
-  "title": [
-    {
-      "text": "Thales Sentinel LDK Run-Time Environment (RTE)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.sentinel.thalesgroup.com/ldk/rte.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-159-06"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:thalesgroup:sentinel_ldk_run-time_environment:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:thalesgroup:sentinel_ldk_run-time_environment:-",
+	"title": [
+		{
+			"text": "Thales Sentinel LDK Run-Time Environment (RTE)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.sentinel.thalesgroup.com/ldk/rte.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-159-06"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thalesgroup:sentinel_ldk_run-time_environment:-:*:*:*:*:*:*:*"
+	}
 }

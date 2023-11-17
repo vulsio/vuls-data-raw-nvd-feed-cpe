@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:phpgurukul:phpgurukul_online_book_store:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-13T14:48:28.777Z",
-  "title": [
-    {
-      "text": "PHPGurukul PHPGurukul Online Book Store 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/online-e-book-for-php-download/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/47887"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.phptpoint.com/projects/online-bookstore-project-in-php/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul:phpgurukul_online_book_store:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-13T09:48:28.777-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:online_book_store:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpgurukul:phpgurukul_online_book_store:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-13T14:48:28.777Z",
+	"title": [
+		{
+			"text": "PHPGurukul PHPGurukul Online Book Store 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/online-e-book-for-php-download/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/47887"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.phptpoint.com/projects/online-bookstore-project-in-php/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul:phpgurukul_online_book_store:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-13T09:48:28.777-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:online_book_store:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:catfish-cms:catfish-cms:4.7.21",
-  "deprecated": true,
-  "deprecation_date": "2021-10-01T15:20:07.163Z",
-  "title": [
-    {
-      "text": "Catfish CMS 4.7.21",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/jvz/test-cvelist/blob/master/2018/10xxx/CVE-2018-10023.json"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.catfish-cms.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:catfish-cms:catfish-cms:4.7.21:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-01T11:20:07.163-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:catfish-cms:catfish_cms:4.7.21:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:catfish-cms:catfish-cms:4.7.21",
+	"deprecated": true,
+	"deprecation_date": "2021-10-01T15:20:07.163Z",
+	"title": [
+		{
+			"text": "Catfish CMS 4.7.21",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jvz/test-cvelist/blob/master/2018/10xxx/CVE-2018-10023.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.catfish-cms.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:catfish-cms:catfish-cms:4.7.21:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-01T11:20:07.163-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:catfish-cms:catfish_cms:4.7.21:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

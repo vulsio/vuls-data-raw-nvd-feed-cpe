@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:source-to-image:1.1.6",
-  "title": [
-    {
-      "text": "Red Hat Source-to-Image (S2I) 1.1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_software_collections/2/html/using_red_hat_software_collections_container_images/sti"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openshift/source-to-image/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:source-to-image:1.1.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:source-to-image:1.1.6",
+	"title": [
+		{
+			"text": "Red Hat Source-to-Image (S2I) 1.1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_software_collections/2/html/using_red_hat_software_collections_container_images/sti"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openshift/source-to-image/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:source-to-image:1.1.6:*:*:*:*:*:*:*"
+	}
 }

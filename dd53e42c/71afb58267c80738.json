@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:linuxcontainers:lxc:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-02-20T18:32:23.807Z",
-  "title": [
-    {
-      "text": "Linux Containers LXC 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://linuxcontainers.org/lxc/downloads/"
-    },
-    {
-      "text": "Product",
-      "href": "https://linuxcontainers.org/lxc/introduction/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-20T13:32:23.807-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:linuxcontainers:lxc:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-02-20T18:32:23.807Z",
+	"title": [
+		{
+			"text": "Linux Containers LXC 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://linuxcontainers.org/lxc/downloads/"
+		},
+		{
+			"text": "Product",
+			"href": "https://linuxcontainers.org/lxc/introduction/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-20T13:32:23.807-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxcontainers:lxc:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

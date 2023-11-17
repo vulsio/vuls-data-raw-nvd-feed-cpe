@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:npmjs:npm:8.11.0",
-  "title": [
-    {
-      "text": "npmjs npm 8.11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/npm/cli/security/advisories/GHSA-hj9c-8jmm-8c52"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nodejs/node/pull/43210"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:npmjs:npm:8.11.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:npmjs:npm:8.11.0",
+	"title": [
+		{
+			"text": "npmjs npm 8.11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/npm/cli/security/advisories/GHSA-hj9c-8jmm-8c52"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nodejs/node/pull/43210"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:npmjs:npm:8.11.0:*:*:*:*:*:*:*"
+	}
 }

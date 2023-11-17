@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:web-dorado:photo_gallery:1.2.9::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2019-07-08T16:23:36.803Z",
-  "title": [
-    {
-      "text": "Web Dorado Photo Gallery for WordPress 1.2.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product changelog",
-      "href": "https://wordpress.org/plugins/photo-gallery/changelog/"
-    },
-    {
-      "text": "Vendor website",
-      "href": "http://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:web-dorado:photo_gallery:1.2.9:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2019-07-08T12:23:36.803-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:10web:photo_gallery:1.2.9:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:web-dorado:photo_gallery:1.2.9::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2019-07-08T16:23:36.803Z",
+	"title": [
+		{
+			"text": "Web Dorado Photo Gallery for WordPress 1.2.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product changelog",
+			"href": "https://wordpress.org/plugins/photo-gallery/changelog/"
+		},
+		{
+			"text": "Vendor website",
+			"href": "http://web-dorado.com/products/wordpress-photo-gallery-plugin.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:web-dorado:photo_gallery:1.2.9:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2019-07-08T12:23:36.803-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:10web:photo_gallery:1.2.9:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

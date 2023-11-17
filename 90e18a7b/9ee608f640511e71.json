@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:c-ares_project:c-ares:1.2.1",
-  "deprecated": true,
-  "deprecation_date": "2023-09-15T11:42:40.183Z",
-  "title": [
-    {
-      "text": "c-ares Project c-ares 1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://c-ares.haxx.se/download/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:c-ares_project:c-ares:1.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-15T07:42:40.183-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:c-ares:c-ares:1.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:c-ares_project:c-ares:1.2.1",
+	"deprecated": true,
+	"deprecation_date": "2023-09-15T11:42:40.183Z",
+	"title": [
+		{
+			"text": "c-ares Project c-ares 1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://c-ares.haxx.se/download/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:c-ares_project:c-ares:1.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-15T07:42:40.183-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:c-ares:c-ares:1.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:azure_machine_learning:3.0.0",
-  "title": [
-    {
-      "text": "Microsoft Azure Machine Learning 3.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/?ql=2"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23382"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/23xxx/CVE-2023-23382.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_machine_learning:3.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_machine_learning:3.0.0",
+	"title": [
+		{
+			"text": "Microsoft Azure Machine Learning 3.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/?ql=2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23382"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/23xxx/CVE-2023-23382.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_machine_learning:3.0.0:*:*:*:*:*:*:*"
+	}
 }

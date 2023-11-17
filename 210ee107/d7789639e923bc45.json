@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:git-clone_project:git-clone:0.1.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Git-clone Project Git-clone 0.1.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-GITCLONE-2434308"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jaz303/git-clone/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git-clone_project:git-clone:0.1.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:git-clone_project:git-clone:0.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Git-clone Project Git-clone 0.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-GITCLONE-2434308"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jaz303/git-clone/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git-clone_project:git-clone:0.1.0:*:*:*:*:node.js:*:*"
+	}
 }

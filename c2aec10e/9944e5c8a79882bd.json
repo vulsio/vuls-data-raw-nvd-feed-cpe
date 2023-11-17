@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:slidebits_project:slidebitstoken:-",
-  "deprecated": true,
-  "deprecation_date": "2020-02-12T13:44:48.710Z",
-  "title": [
-    {
-      "text": "SlidebitsToken Project SlidebitsToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xb7fe7b2b723020cf668db4f78992d10f81990fc4#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:slidebits_project:slidebitstoken:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-12T08:44:48.710-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:slidebitstoken_project:slidebitstoken:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:slidebits_project:slidebitstoken:-",
+	"deprecated": true,
+	"deprecation_date": "2020-02-12T13:44:48.710Z",
+	"title": [
+		{
+			"text": "SlidebitsToken Project SlidebitsToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xb7fe7b2b723020cf668db4f78992d10f81990fc4#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:slidebits_project:slidebitstoken:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-12T08:44:48.710-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:slidebitstoken_project:slidebitstoken:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

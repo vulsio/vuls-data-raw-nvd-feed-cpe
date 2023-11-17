@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:vpn_500_concentrator:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:38:42.053Z",
-  "title": [
-    {
-      "text": "Cisco VPN 5000 Concentrator",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:vpn_500_concentrator:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:38:42.053-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:vpn_5000_concentrator:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:vpn_500_concentrator:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:38:42.053Z",
+	"title": [
+		{
+			"text": "Cisco VPN 5000 Concentrator",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:vpn_500_concentrator:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:38:42.053-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:vpn_5000_concentrator:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

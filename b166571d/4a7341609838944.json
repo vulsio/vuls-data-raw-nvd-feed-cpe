@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:arm:mbed_tls:2.5.0",
-  "deprecated": true,
-  "deprecation_date": "2020-11-05T15:45:52.457Z",
-  "title": [
-    {
-      "text": "ARM mbed TLS 2.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2018-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ARMmbed/mbedtls"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:mbed_tls:2.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-05T10:45:52.457-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arm:mbed_tls:2.5.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:arm:mbed_tls:2.5.0",
+	"deprecated": true,
+	"deprecation_date": "2020-11-05T15:45:52.457Z",
+	"title": [
+		{
+			"text": "ARM mbed TLS 2.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2018-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ARMmbed/mbedtls"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:mbed_tls:2.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-05T10:45:52.457-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arm:mbed_tls:2.5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

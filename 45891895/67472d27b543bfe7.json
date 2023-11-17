@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:opt-net:ng-netms:3.6-2",
-  "title": [
-    {
-      "text": "OPT/NET NG-NetMS 3.6-2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://inf0seq.github.io/cve/2019/01/20/SQL-Injection-in-OPTOSS-Next-Gen-Network-Management-System-(NG-NetMS).html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://opt-net.eu/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opt-net:ng-netms:3.6-2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opt-net:ng-netms:3.6-2",
+	"title": [
+		{
+			"text": "OPT/NET NG-NetMS 3.6-2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://inf0seq.github.io/cve/2019/01/20/SQL-Injection-in-OPTOSS-Next-Gen-Network-Management-System-(NG-NetMS).html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://opt-net.eu/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opt-net:ng-netms:3.6-2:*:*:*:*:*:*:*"
+	}
 }

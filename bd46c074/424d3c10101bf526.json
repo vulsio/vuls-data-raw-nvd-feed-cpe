@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:siemens:simatic_notifier_server:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Siemens SIMATIC Notifier Server for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-841348.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:simatic_notifier_server:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:siemens:simatic_notifier_server:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Siemens SIMATIC Notifier Server for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-841348.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:simatic_notifier_server:-:*:*:*:*:windows:*:*"
+	}
 }

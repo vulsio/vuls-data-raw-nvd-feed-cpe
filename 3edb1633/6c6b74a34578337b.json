@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:blood_bank_%26_donor_management_system_project:blood_bank_%26_donor_management_system:2.2",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T16:42:48.930Z",
-  "title": [
-    {
-      "text": "Blood Bank & Donor Management System Project Blood Bank & Donor Management System 2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/soundarkutty/Stored-xss/blob/main/poc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blood_bank_\\&_donor_management_system_project:blood_bank_\\&_donor_management_system:2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T11:42:48.930-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:blood_bank_\\&_donor_management_system:2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:blood_bank_%26_donor_management_system_project:blood_bank_%26_donor_management_system:2.2",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T16:42:48.930Z",
+	"title": [
+		{
+			"text": "Blood Bank & Donor Management System Project Blood Bank & Donor Management System 2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/soundarkutty/Stored-xss/blob/main/poc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blood_bank_\\&_donor_management_system_project:blood_bank_\\&_donor_management_system:2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T11:42:48.930-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:blood_bank_\\&_donor_management_system:2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

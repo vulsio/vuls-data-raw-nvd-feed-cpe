@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ibm:cloud_private:2.1.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-08-25T15:15:26.700Z",
-  "title": [
-    {
-      "text": "IBM Cloud Private 2.1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/cloud/private"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:cloud_private:2.1.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-25T11:15:26.700-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:cloud_private:2.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:cloud_private:2.1.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-08-25T15:15:26.700Z",
+	"title": [
+		{
+			"text": "IBM Cloud Private 2.1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/cloud/private"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:cloud_private:2.1.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-25T11:15:26.700-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:cloud_private:2.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:xz_project:xz:0.5.3::~~~go~~",
-  "title": [
-    {
-      "text": "xz Project xz 0.5.3 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ulikunitz/xz/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ulikunitz/xz/security/advisories/GHSA-25xm-hr59-7c27"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xz_project:xz:0.5.3:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:xz_project:xz:0.5.3::~~~go~~",
+	"title": [
+		{
+			"text": "xz Project xz 0.5.3 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ulikunitz/xz/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ulikunitz/xz/security/advisories/GHSA-25xm-hr59-7c27"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xz_project:xz:0.5.3:*:*:*:*:go:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:linuxfoundation:containerd:-",
-  "title": [
-    {
-      "text": "The Linux Foundation containerd",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/containerd/containerd/security/advisories/GHSA-c72p-9xmj-rx3w"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/containerd/containerd/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:containerd:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:containerd:-",
+	"title": [
+		{
+			"text": "The Linux Foundation containerd",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/containerd/containerd/security/advisories/GHSA-c72p-9xmj-rx3w"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/containerd/containerd/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:containerd:-:*:*:*:*:*:*:*"
+	}
 }

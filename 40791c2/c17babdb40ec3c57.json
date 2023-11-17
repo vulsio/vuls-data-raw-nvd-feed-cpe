@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nagios:nagios_cross_platform_agent:2.0.1",
-  "title": [
-    {
-      "text": "Nagios Cross Platform Agent (NCPA) 2.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.nagios.com/kb/article/ncpa-using-ncpa-for-passive-checks-763.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://vuldb.com/?id.216874"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/NagiosEnterprises/ncpa/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nagios:nagios_cross_platform_agent:2.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nagios:nagios_cross_platform_agent:2.0.1",
+	"title": [
+		{
+			"text": "Nagios Cross Platform Agent (NCPA) 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.nagios.com/kb/article/ncpa-using-ncpa-for-passive-checks-763.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.216874"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/NagiosEnterprises/ncpa/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nagios:nagios_cross_platform_agent:2.0.1:*:*:*:*:*:*:*"
+	}
 }

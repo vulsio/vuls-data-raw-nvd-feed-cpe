@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:siren:federate:6.5.4-10.2.2",
-  "deprecated": true,
-  "deprecation_date": "2021-05-04T16:06:01.930Z",
-  "title": [
-    {
-      "text": "Siren Federate 6.5.4-10.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://siren.io/federate/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://siren.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.siren.io/index"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siren:federate:6.5.4-10.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-04T12:06:01.930-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:siren:federate:6.5.4-10.2.2:*:*:*:*:elasticsearch:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:siren:federate:6.5.4-10.2.2",
+	"deprecated": true,
+	"deprecation_date": "2021-05-04T16:06:01.930Z",
+	"title": [
+		{
+			"text": "Siren Federate 6.5.4-10.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://siren.io/federate/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://siren.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.siren.io/index"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siren:federate:6.5.4-10.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-04T12:06:01.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siren:federate:6.5.4-10.2.2:*:*:*:*:elasticsearch:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

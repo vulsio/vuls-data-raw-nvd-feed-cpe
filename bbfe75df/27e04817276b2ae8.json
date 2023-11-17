@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:adaptive_security_appliance:9.15",
-  "deprecated": true,
-  "deprecation_date": "2023-08-16T16:18:05.700Z",
-  "title": [
-    {
-      "text": "Cisco Adaptive Security Appliance (ASA) 9.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-vpn-dos-fpBcpEcD"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:adaptive_security_appliance:9.15:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-08-16T12:18:05.700-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:adaptive_security_appliance:9.15",
+	"deprecated": true,
+	"deprecation_date": "2023-08-16T16:18:05.700Z",
+	"title": [
+		{
+			"text": "Cisco Adaptive Security Appliance (ASA) 9.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-vpn-dos-fpBcpEcD"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:adaptive_security_appliance:9.15:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-08-16T12:18:05.700-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:adaptive_security_appliance_software:9.15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

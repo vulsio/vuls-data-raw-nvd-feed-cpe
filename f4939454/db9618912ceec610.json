@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:i350:-",
-  "title": [
-    {
-      "text": "Intel I350",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/10-25-40-gigabit-adapters/ethernet-i350-server-adapter-brief.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/content/www/us/en/homepage.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:i350:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:i350:-",
+	"title": [
+		{
+			"text": "Intel I350",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/10-25-40-gigabit-adapters/ethernet-i350-server-adapter-brief.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/content/www/us/en/homepage.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:i350:-:*:*:*:*:*:*:*"
+	}
 }

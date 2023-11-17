@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nginx:njs:0.5.0",
-  "deprecated": true,
-  "deprecation_date": "2022-03-24T14:23:45.867Z",
-  "title": [
-    {
-      "text": "Nginx NJS 0.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://nginx.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/nginx/njs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nginx:njs:0.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-24T10:23:45.867-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:f5:njs:0.5.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nginx:njs:0.5.0",
+	"deprecated": true,
+	"deprecation_date": "2022-03-24T14:23:45.867Z",
+	"title": [
+		{
+			"text": "Nginx NJS 0.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://nginx.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nginx/njs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nginx:njs:0.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-24T10:23:45.867-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:f5:njs:0.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

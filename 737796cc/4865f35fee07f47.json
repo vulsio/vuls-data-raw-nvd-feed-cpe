@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:libbson:1.5.5",
-  "title": [
-    {
-      "text": "MongoDB libbson 1.5.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/mongo-c-driver/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/libbson/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:libbson:1.5.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mongodb:libbson:1.5.5",
+	"title": [
+		{
+			"text": "MongoDB libbson 1.5.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/mongo-c-driver/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/libbson/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:libbson:1.5.5:*:*:*:*:*:*:*"
+	}
 }

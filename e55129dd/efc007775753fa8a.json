@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:secoin_project:secoin:-",
-  "title": [
-    {
-      "text": "SECoin Project SECoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x19bd81125a6b19d8531491914bee30c2222e4fac#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:secoin_project:secoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:secoin_project:secoin:-",
+	"title": [
+		{
+			"text": "SECoin Project SECoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x19bd81125a6b19d8531491914bee30c2222e4fac#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:secoin_project:secoin:-:*:*:*:*:*:*:*"
+	}
 }

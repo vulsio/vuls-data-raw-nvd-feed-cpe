@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:hashicorp:terraform_enterprise:-",
-  "title": [
-    {
-      "text": "Hashicorp Terraform Enterprise",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-18-terraform-enterprise-allowed-privilege-escalation-via-run-token/27070"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:terraform_enterprise:-",
+	"title": [
+		{
+			"text": "Hashicorp Terraform Enterprise",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-18-terraform-enterprise-allowed-privilege-escalation-via-run-token/27070"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:terraform_enterprise:-:*:*:*:*:*:*:*"
+	}
 }

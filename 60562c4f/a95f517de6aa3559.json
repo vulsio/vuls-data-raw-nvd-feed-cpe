@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rta50i:3.05.42",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:54.060Z",
-  "title": [
-    {
-      "text": "ヤマハ RTA50i 3.05.42",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTA50i 3.05.42",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rta50i:3.05.42:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:54.060-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rta50i:3.05.42:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rta50i:3.05.42",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:54.060Z",
+	"title": [
+		{
+			"text": "Yamaha RTA50i 3.05.42",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RTA50i 3.05.42",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rta50i:3.05.42:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:54.060-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rta50i:3.05.42:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

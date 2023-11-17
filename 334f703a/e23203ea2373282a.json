@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mit:kerberos:5-1.8.1",
-  "deprecated": true,
-  "deprecation_date": "2020-01-21T15:45:57.137Z",
-  "title": [
-    {
-      "text": "MIT Kerberos 5 1.8.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mit:kerberos:5-1.8.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-21T10:45:57.137-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mit:kerberos_5:1.8.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mit:kerberos:5-1.8.1",
+	"deprecated": true,
+	"deprecation_date": "2020-01-21T15:45:57.137Z",
+	"title": [
+		{
+			"text": "MIT Kerberos 5 1.8.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mit:kerberos:5-1.8.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-21T10:45:57.137-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mit:kerberos_5:1.8.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

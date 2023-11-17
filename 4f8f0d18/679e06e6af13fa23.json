@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:presscustomizr:customizr:4.3.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Presscustomizr Customizr 4.3.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://presscustomizr.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/themes/customizr/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/various-affected-software-various-versions-cross-site-request-forgery-bypass?page=1#jump"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:presscustomizr:customizr:4.3.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:presscustomizr:customizr:4.3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Presscustomizr Customizr 4.3.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://presscustomizr.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/customizr/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/various-affected-software-various-versions-cross-site-request-forgery-bypass?page=1#jump"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:presscustomizr:customizr:4.3.1:*:*:*:*:wordpress:*:*"
+	}
 }

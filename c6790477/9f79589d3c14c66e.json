@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:ge:ms_3000_firmware:-",
-  "title": [
-    {
-      "text": "General Electric Ms 3000 Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gegridsolutions.com/md/catalog/ms3000.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wid.cert-bund.de/.well-known/csaf/white/2022/bsi-2022-0005.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ge:ms_3000_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ge:ms_3000_firmware:-",
+	"title": [
+		{
+			"text": "General Electric Ms 3000 Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gegridsolutions.com/md/catalog/ms3000.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wid.cert-bund.de/.well-known/csaf/white/2022/bsi-2022-0005.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ge:ms_3000_firmware:-:*:*:*:*:*:*:*"
+	}
 }

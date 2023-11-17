@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zabbix:zabbix:1.8.19",
-  "deprecated": true,
-  "deprecation_date": "2020-08-06T14:38:05.563Z",
-  "title": [
-    {
-      "text": "ZABBIX 1.8.19",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "http://www.zabbix.com/rn1.8.19.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zabbix:zabbix:1.8.19:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-06T10:38:05.563-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zabbix:zabbix:1.8.19:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zabbix:zabbix:1.8.19",
+	"deprecated": true,
+	"deprecation_date": "2020-08-06T14:38:05.563Z",
+	"title": [
+		{
+			"text": "ZABBIX 1.8.19",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "http://www.zabbix.com/rn1.8.19.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zabbix:zabbix:1.8.19:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-06T10:38:05.563-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zabbix:zabbix:1.8.19:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

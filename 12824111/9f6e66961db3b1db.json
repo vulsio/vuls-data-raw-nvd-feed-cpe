@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:sql_server:2008",
-  "deprecated": true,
-  "deprecation_date": "2020-04-02T11:56:41.110Z",
-  "title": [
-    {
-      "text": "Microsoft SQL Server 2008",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:sql_server:2008:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-02T07:56:41.110-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:sql_server:2008",
+	"deprecated": true,
+	"deprecation_date": "2020-04-02T11:56:41.110Z",
+	"title": [
+		{
+			"text": "Microsoft SQL Server 2008",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:sql_server:2008:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-02T07:56:41.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server:2008:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:airwatch_launcher:3.2.2",
-  "title": [
-    {
-      "text": "VMware AirWatch Launcher 3.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2017-0016.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://my.air-watch.com/help/9.1/en/Content/Expert_Guides/AW_Apps_Admin_Guides/AW_Launcher/C/Introduction_to_AirWatch_Launcher.htm?tocpath=APPS%7CAirWatch%20Applications%7CAirWatch%20Launcher%7C_____0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:airwatch_launcher:3.2.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:airwatch_launcher:3.2.2",
+	"title": [
+		{
+			"text": "VMware AirWatch Launcher 3.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2017-0016.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://my.air-watch.com/help/9.1/en/Content/Expert_Guides/AW_Apps_Admin_Guides/AW_Launcher/C/Introduction_to_AirWatch_Launcher.htm?tocpath=APPS%7CAirWatch%20Applications%7CAirWatch%20Launcher%7C_____0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:airwatch_launcher:3.2.2:*:*:*:*:*:*:*"
+	}
 }

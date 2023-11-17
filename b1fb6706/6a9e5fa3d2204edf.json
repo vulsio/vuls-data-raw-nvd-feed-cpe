@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:huawei:magic_ui:3.1.1",
-  "deprecated": true,
-  "deprecation_date": "2021-12-09T17:54:59.470Z",
-  "title": [
-    {
-      "text": "Huawei Magic UI 3.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://consumer.huawei.com/en/support/bulletin/2020/12/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huawei:magic_ui:3.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-09T12:54:59.470-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:huawei:magic_ui:3.1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:huawei:magic_ui:3.1.1",
+	"deprecated": true,
+	"deprecation_date": "2021-12-09T17:54:59.470Z",
+	"title": [
+		{
+			"text": "Huawei Magic UI 3.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://consumer.huawei.com/en/support/bulletin/2020/12/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huawei:magic_ui:3.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-09T12:54:59.470-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:huawei:magic_ui:3.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

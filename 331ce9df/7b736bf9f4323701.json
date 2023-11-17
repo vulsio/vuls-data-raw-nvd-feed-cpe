@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:microsoft:internet_information_server:2.0",
-  "deprecated": true,
-  "deprecation_date": "2020-11-23T19:49:23.630Z",
-  "title": [
-    {
-      "text": "Microsoft IIS 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor product information",
-      "href": "http://www.iis.net/learn/get-started/whats-new-in-iis-8"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://support.microsoft.com/en-us/help/224609/how-to-obtain-versions-of-internet-information-server-iis"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:internet_information_server:2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-23T14:49:23.630-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:internet_information_services:2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:internet_information_server:2.0",
+	"deprecated": true,
+	"deprecation_date": "2020-11-23T19:49:23.630Z",
+	"title": [
+		{
+			"text": "Microsoft IIS 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor product information",
+			"href": "http://www.iis.net/learn/get-started/whats-new-in-iis-8"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://support.microsoft.com/en-us/help/224609/how-to-obtain-versions-of-internet-information-server-iis"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:internet_information_server:2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-23T14:49:23.630-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:internet_information_services:2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

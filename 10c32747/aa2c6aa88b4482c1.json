@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:101_project:101:0.5.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "101 Project 101 0.5.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/tjmehta/101/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25943"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:101_project:101:0.5.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:101_project:101:0.5.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "101 Project 101 0.5.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/tjmehta/101/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.whitesourcesoftware.com/vulnerability-database/CVE-2021-25943"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:101_project:101:0.5.0:*:*:*:*:node.js:*:*"
+	}
 }

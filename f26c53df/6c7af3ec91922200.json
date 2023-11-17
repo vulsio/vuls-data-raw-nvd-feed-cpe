@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:json-patch_project:json-patch:1.1.7",
-  "deprecated": true,
-  "deprecation_date": "2023-02-07T16:48:29.837Z",
-  "title": [
-    {
-      "text": "JSON-Patch Project JSON-Patch 1.1.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/Starcounter-Jack/JSON-Patch/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://vuldb.com/?id.216778"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Starcounter-Jack/JSON-Patch/pull/262"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:json-patch_project:json-patch:1.1.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-07T11:48:29.837-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:starcounter-jack:json-patch:1.1.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:json-patch_project:json-patch:1.1.7",
+	"deprecated": true,
+	"deprecation_date": "2023-02-07T16:48:29.837Z",
+	"title": [
+		{
+			"text": "JSON-Patch Project JSON-Patch 1.1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Starcounter-Jack/JSON-Patch/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.216778"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Starcounter-Jack/JSON-Patch/pull/262"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:json-patch_project:json-patch:1.1.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-07T11:48:29.837-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:starcounter-jack:json-patch:1.1.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

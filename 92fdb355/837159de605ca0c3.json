@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:supermicro:x11sds-16c:-",
-  "title": [
-    {
-      "text": "Super Micro X11SDS-16C",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:supermicro:x11sds-16c:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:supermicro:x11sds-16c:-",
+	"title": [
+		{
+			"text": "Super Micro X11SDS-16C",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:supermicro:x11sds-16c:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:vsphere:6.5",
-  "title": [
-    {
-      "text": "VMware vSphere 6.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://featurewalkthrough.vmware.com/t/vsphere-6-5/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/whitepaper/vsphere/vmw-white-paper-vsphr-whats-new-6-5.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vsphere:6.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:vsphere:6.5",
+	"title": [
+		{
+			"text": "VMware vSphere 6.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://featurewalkthrough.vmware.com/t/vsphere-6-5/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/whitepaper/vsphere/vmw-white-paper-vsphr-whats-new-6-5.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vsphere:6.5:*:*:*:*:*:*:*"
+	}
 }

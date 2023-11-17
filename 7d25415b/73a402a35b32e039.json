@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:facebook:mvfst:2021-03-13",
-  "title": [
-    {
-      "text": "Facebook Mvfst 2021-03-13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/facebookincubator/mvfst"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/facebookincubator/mvfst/commit/a67083ff4b8dcbb7ee2839da6338032030d712b0"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/24xxx/CVE-2021-24029.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:facebook:mvfst:2021-03-13:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:facebook:mvfst:2021-03-13",
+	"title": [
+		{
+			"text": "Facebook Mvfst 2021-03-13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/facebookincubator/mvfst"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/facebookincubator/mvfst/commit/a67083ff4b8dcbb7ee2839da6338032030d712b0"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/24xxx/CVE-2021-24029.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:facebook:mvfst:2021-03-13:*:*:*:*:*:*:*"
+	}
 }

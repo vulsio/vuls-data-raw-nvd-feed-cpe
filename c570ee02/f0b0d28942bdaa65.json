@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:ibm:embedded_websphere_application_server:7.0",
-  "title": [
-    {
-      "text": "IBM Embedded WebSphere Application Server (eWAS) 7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor security advisory for CVE-2014-3020",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21679952"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:embedded_websphere_application_server:7.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:embedded_websphere_application_server:7.0",
+	"title": [
+		{
+			"text": "IBM Embedded WebSphere Application Server (eWAS) 7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor security advisory for CVE-2014-3020",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21679952"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:embedded_websphere_application_server:7.0:*:*:*:*:*:*:*"
+	}
 }

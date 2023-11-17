@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nvidia:cuda_toolkit:11.5.2",
-  "title": [
-    {
-      "text": "NVIDIA CUDA Toolkit 11.5.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://developer.nvidia.com/cuda-toolkit-archive"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5334"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvidia:cuda_toolkit:11.5.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nvidia:cuda_toolkit:11.5.2",
+	"title": [
+		{
+			"text": "NVIDIA CUDA Toolkit 11.5.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://developer.nvidia.com/cuda-toolkit-archive"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5334"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:cuda_toolkit:11.5.2:*:*:*:*:*:*:*"
+	}
 }

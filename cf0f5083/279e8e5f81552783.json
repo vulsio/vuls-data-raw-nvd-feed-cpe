@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:psigridconnect:iec104_security_proxy:-",
-  "title": [
-    {
-      "text": "PSI GridConnect IEC104 Security Proxy",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-19-059-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.psigridconnect.com/en/security/iec104-security-proxy/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.psigridconnect.com/de/home/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:psigridconnect:iec104_security_proxy:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:psigridconnect:iec104_security_proxy:-",
+	"title": [
+		{
+			"text": "PSI GridConnect IEC104 Security Proxy",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/ICSA-19-059-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.psigridconnect.com/en/security/iec104-security-proxy/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.psigridconnect.com/de/home/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:psigridconnect:iec104_security_proxy:-:*:*:*:*:*:*:*"
+	}
 }

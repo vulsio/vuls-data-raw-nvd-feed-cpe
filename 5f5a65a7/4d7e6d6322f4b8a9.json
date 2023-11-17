@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:halo_project:halo:0.4.0",
-  "deprecated": true,
-  "deprecation_date": "2019-10-04T16:40:10.787Z",
-  "title": [
-    {
-      "text": "Halo Project Halo 0.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ruibaby/halo/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:halo_project:halo:0.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-04T12:40:10.787-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:halo:halo:0.4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:halo_project:halo:0.4.0",
+	"deprecated": true,
+	"deprecation_date": "2019-10-04T16:40:10.787Z",
+	"title": [
+		{
+			"text": "Halo Project Halo 0.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ruibaby/halo/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:halo_project:halo:0.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-04T12:40:10.787-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:halo:halo:0.4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

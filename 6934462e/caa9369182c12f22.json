@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:canonical:trust-store_%28ubuntu%29:1.1.0",
-  "title": [
-    {
-      "text": "Canonical Trust-Store (Ubuntu) 1.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://bazaar.launchpad.net/~phablet-team/trust-store/trunk/revision/82"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugs.launchpad.net/ubuntu/+source/location-service/+bug/1387734"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:trust-store_\\(ubuntu\\):1.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:canonical:trust-store_%28ubuntu%29:1.1.0",
+	"title": [
+		{
+			"text": "Canonical Trust-Store (Ubuntu) 1.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://bazaar.launchpad.net/~phablet-team/trust-store/trunk/revision/82"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.launchpad.net/ubuntu/+source/location-service/+bug/1387734"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:trust-store_\\(ubuntu\\):1.1.0:*:*:*:*:*:*:*"
+	}
 }

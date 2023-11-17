@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:vncrecorder:1.25::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins VncRecorder 1.25 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/jenkinsci/vncrecorder-plugin/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(2)"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:vncrecorder:1.25:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:vncrecorder:1.25::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins VncRecorder 1.25 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jenkinsci/vncrecorder-plugin/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2020-07-02/#SECURITY-1728%20(2)"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:vncrecorder:1.25:*:*:*:*:jenkins:*:*"
+	}
 }

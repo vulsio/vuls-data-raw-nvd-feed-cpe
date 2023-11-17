@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ifsc_code_finder_project:ifsc_code_finder:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T21:14:47.580Z",
-  "title": [
-    {
-      "text": "IFSC Code Finder Project IFSC Code Finder 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/50391"
-    },
-    {
-      "text": "Project",
-      "href": "https://phpgurukul.com/ifsc-code-finder-project-using-php/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ifsc_code_finder_project:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T16:14:47.580-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ifsc_code_finder_project:ifsc_code_finder:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T21:14:47.580Z",
+	"title": [
+		{
+			"text": "IFSC Code Finder Project IFSC Code Finder 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/50391"
+		},
+		{
+			"text": "Project",
+			"href": "https://phpgurukul.com/ifsc-code-finder-project-using-php/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ifsc_code_finder_project:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T16:14:47.580-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:ifsc_code_finder:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

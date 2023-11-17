@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:microsoft:asp.net_mvc:5.2",
-  "deprecated": true,
-  "deprecation_date": "2021-06-30T16:52:58.683Z",
-  "title": [
-    {
-      "text": "Microsoft ASP.NET Model View Controller (MVC) 5.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/releases/whats-new-in-aspnet-mvc-52"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:asp.net_mvc:5.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-30T12:52:58.683-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:asp.net_model_view_controller:5.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:asp.net_mvc:5.2",
+	"deprecated": true,
+	"deprecation_date": "2021-06-30T16:52:58.683Z",
+	"title": [
+		{
+			"text": "Microsoft ASP.NET Model View Controller (MVC) 5.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.microsoft.com/en-us/aspnet/mvc/overview/releases/whats-new-in-aspnet-mvc-52"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:asp.net_mvc:5.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-30T12:52:58.683-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:asp.net_model_view_controller:5.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:never5:post_connector:1.0.9::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Never5 Post Connector 1.0.9 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.never5.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/post-connector/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/post-connector/wordpress-post-connector-plugin-1-0-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:never5:post_connector:1.0.9:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:never5:post_connector:1.0.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Never5 Post Connector 1.0.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.never5.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/post-connector/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/post-connector/wordpress-post-connector-plugin-1-0-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:never5:post_connector:1.0.9:*:*:*:*:wordpress:*:*"
+	}
 }

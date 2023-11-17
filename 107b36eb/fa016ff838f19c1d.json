@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:16.4.0::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 16.4.0 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://about.gitlab.com/releases/categories/releases/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/advisories/GHSA-m4hq-98c3-4xmx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://about.gitlab.com/releases/2023/09/28/security-release-gitlab-16-4-1-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:16.4.0::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 16.4.0 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/releases/categories/releases/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-m4hq-98c3-4xmx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://about.gitlab.com/releases/2023/09/28/security-release-gitlab-16-4-1-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:16.4.0:*:*:*:community:*:*:*"
+	}
 }

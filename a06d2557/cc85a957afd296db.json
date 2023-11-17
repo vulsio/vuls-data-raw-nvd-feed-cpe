@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:vmware:spring_security:3.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-07-01T00:02:00.597Z",
-  "title": [
-    {
-      "text": "VMware Spring Security 3.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-security"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.vmware.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://spring.io/projects/spring-security"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-security/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:spring_security:3.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-30T20:02:00.597-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:spring_security:3.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:spring_security:3.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-07-01T00:02:00.597Z",
+	"title": [
+		{
+			"text": "VMware Spring Security 3.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-security"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.vmware.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-security"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-security/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_security:3.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-30T20:02:00.597-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:spring_security:3.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

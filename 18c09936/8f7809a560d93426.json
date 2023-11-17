@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:zyzel:nas326:-",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T16:51:32.607Z",
-  "title": [
-    {
-      "text": "Zyzel NAS326",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-NAS-remote-access-vulnerability.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:zyzel:nas326:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T11:51:32.607-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:zyxel:nas326:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:zyzel:nas326:-",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T16:51:32.607Z",
+	"title": [
+		{
+			"text": "Zyzel NAS326",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-NAS-remote-access-vulnerability.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:zyzel:nas326:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T11:51:32.607-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:zyxel:nas326:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

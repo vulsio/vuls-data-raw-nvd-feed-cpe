@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_2000:beta3",
-  "deprecated": true,
-  "deprecation_date": "2019-04-30T15:00:12.857Z",
-  "title": [
-    {
-      "text": "Microsoft windows 2000_beta3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_2000:beta3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-04-30T11:00:12.857-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_2000:-:beta3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_2000:beta3",
+	"deprecated": true,
+	"deprecation_date": "2019-04-30T15:00:12.857Z",
+	"title": [
+		{
+			"text": "Microsoft windows 2000_beta3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_2000:beta3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-04-30T11:00:12.857-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_2000:-:beta3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

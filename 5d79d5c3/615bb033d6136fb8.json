@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:9bis:kitty:0.66.6.3",
-  "deprecated": true,
-  "deprecation_date": "2021-07-15T15:57:33.913Z",
-  "title": [
-    {
-      "text": "9bis KiTTY 0.66.6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://www.9bis.net/kitty/?action=news"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.9bis.net/kitty/index.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-15T11:57:33.913-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:9bis:kitty:0.66.6.3",
+	"deprecated": true,
+	"deprecation_date": "2021-07-15T15:57:33.913Z",
+	"title": [
+		{
+			"text": "9bis KiTTY 0.66.6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://www.9bis.net/kitty/?action=news"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.9bis.net/kitty/index.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-15T11:57:33.913-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:9bis:kitty:0.66.6.3:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

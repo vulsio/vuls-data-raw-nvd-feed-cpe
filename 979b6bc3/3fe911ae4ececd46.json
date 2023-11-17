@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:vmware:esx_server:2.5.4",
-  "deprecated": true,
-  "deprecation_date": "2012-02-15T20:58:45.067Z",
-  "title": [
-    {
-      "text": "VMWare ESX 2.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:esx_server:2.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2012-02-15T15:58:45.067-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:vmware:esx:2.5.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:esx_server:2.5.4",
+	"deprecated": true,
+	"deprecation_date": "2012-02-15T20:58:45.067Z",
+	"title": [
+		{
+			"text": "VMWare ESX 2.5.4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:esx_server:2.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2012-02-15T15:58:45.067-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:vmware:esx:2.5.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

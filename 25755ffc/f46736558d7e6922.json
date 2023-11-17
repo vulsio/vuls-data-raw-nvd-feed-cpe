@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:bd:viper_lt_system_firmware:4.0",
-  "title": [
-    {
-      "text": "BD Viper LT System Firmware 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cybersecurity.bd.com/bulletins-and-patches/bd-viper-lt-system-hardcoded-credentials"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.bd.com/en-ca/offerings/capabilities/molecular-diagnostics/molecular-systems/bd-viper-lt-system"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:bd:viper_lt_system_firmware:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:bd:viper_lt_system_firmware:4.0",
+	"title": [
+		{
+			"text": "BD Viper LT System Firmware 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cybersecurity.bd.com/bulletins-and-patches/bd-viper-lt-system-hardcoded-credentials"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.bd.com/en-ca/offerings/capabilities/molecular-diagnostics/molecular-systems/bd-viper-lt-system"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:bd:viper_lt_system_firmware:4.0:*:*:*:*:*:*:*"
+	}
 }

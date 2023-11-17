@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:protobuf_project:protobuf:1.2.1",
-  "deprecated": true,
-  "deprecation_date": "2019-09-06T16:20:16.487Z",
-  "title": [
-    {
-      "text": "Protobuf Project Protobuf 1.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2019-0003.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/stepancheg/rust-protobuf/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:protobuf_project:protobuf:1.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-06T12:20:16.487-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rust-protobuf_project:rust-protobuf:1.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:protobuf_project:protobuf:1.2.1",
+	"deprecated": true,
+	"deprecation_date": "2019-09-06T16:20:16.487Z",
+	"title": [
+		{
+			"text": "Protobuf Project Protobuf 1.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2019-0003.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/stepancheg/rust-protobuf/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:protobuf_project:protobuf:1.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-06T12:20:16.487-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rust-protobuf_project:rust-protobuf:1.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

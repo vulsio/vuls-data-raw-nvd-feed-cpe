@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:redhat:network_satellite_server:3.7",
-  "deprecated": true,
-  "deprecation_date": "2013-08-01T01:34:10.600Z",
-  "title": [
-    {
-      "text": "Red Hat Network Satellite 3.7 for Enterprise Linux 2.1, 3, 4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:network_satellite_server:3.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-07-31T21:34:10.600-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:network_satellite:3.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:network_satellite_server:3.7",
+	"deprecated": true,
+	"deprecation_date": "2013-08-01T01:34:10.600Z",
+	"title": [
+		{
+			"text": "Red Hat Network Satellite 3.7 for Enterprise Linux 2.1, 3, 4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:network_satellite_server:3.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-07-31T21:34:10.600-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:network_satellite:3.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

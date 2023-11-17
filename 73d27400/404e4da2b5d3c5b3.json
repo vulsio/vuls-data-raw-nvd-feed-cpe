@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpjos:library_file_manager:3.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WPJOS Library File Manager 3.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sumofpwn.nl/advisory/2016/cross_site_request_forgery_in_file_manager_wordpress_plugin.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/file-manager/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wpjos.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpjos:library_file_manager:3.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpjos:library_file_manager:3.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPJOS Library File Manager 3.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sumofpwn.nl/advisory/2016/cross_site_request_forgery_in_file_manager_wordpress_plugin.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/file-manager/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpjos.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpjos:library_file_manager:3.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

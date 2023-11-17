@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:medtronic:primo_icd:-",
-  "title": [
-    {
-      "text": "Medtronic Primo ICD",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/icd-systems/primo-mri.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:medtronic:primo_icd:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:medtronic:primo_icd:-",
+	"title": [
+		{
+			"text": "Medtronic Primo ICD",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.medtronic.com/us-en/healthcare-professionals/products/cardiac-rhythm/icd-systems/primo-mri.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:medtronic:primo_icd:-:*:*:*:*:*:*:*"
+	}
 }

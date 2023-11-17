@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:epyc_7401_firmware:naplespi_1.0.0.h",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) EPYC 7401 Firmware NaplesPI 1.0.0.H",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.anandtech.com/show/11551/amds-future-in-servers-new-7000-series-cpus-launched-and-epyc-analysis"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/AMD-SB-1032"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:epyc_7401_firmware:naplespi_1.0.0.h:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:epyc_7401_firmware:naplespi_1.0.0.h",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 7401 Firmware NaplesPI 1.0.0.H",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.anandtech.com/show/11551/amds-future-in-servers-new-7000-series-cpus-launched-and-epyc-analysis"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/AMD-SB-1032"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_7401_firmware:naplespi_1.0.0.h:*:*:*:*:*:*:*"
+	}
 }

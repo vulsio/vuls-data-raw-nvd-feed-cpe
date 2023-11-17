@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pulsesecure:connect_secure:-",
-  "title": [
-    {
-      "text": "Pulse Secure Connect Secure",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.pulsesecure.net/wp-content/uploads/2018/12/PS-Pulse-Connect-Secure-DS.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://info.ssh.com/tectia-vulnerability-cve-2021-27892"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.pulsesecure.net/connect-secure-description/#:~:text=Pulse%20Secure%20Connect%20Secure%20provides,size%2C%20across%20every%20major%20industry."
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pulsesecure:connect_secure:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pulsesecure:connect_secure:-",
+	"title": [
+		{
+			"text": "Pulse Secure Connect Secure",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.pulsesecure.net/wp-content/uploads/2018/12/PS-Pulse-Connect-Secure-DS.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://info.ssh.com/tectia-vulnerability-cve-2021-27892"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.pulsesecure.net/connect-secure-description/#:~:text=Pulse%20Secure%20Connect%20Secure%20provides,size%2C%20across%20every%20major%20industry."
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pulsesecure:connect_secure:-:*:*:*:*:*:*:*"
+	}
 }

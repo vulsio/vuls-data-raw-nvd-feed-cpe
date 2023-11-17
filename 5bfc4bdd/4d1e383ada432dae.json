@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:pom2config:1.2::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Pom2Config 1.2 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2021-11-12/#SECURITY-2415"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/pom2config/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:pom2config:1.2:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:pom2config:1.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Pom2Config 1.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2021-11-12/#SECURITY-2415"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/pom2config/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:pom2config:1.2:*:*:*:*:jenkins:*:*"
+	}
 }

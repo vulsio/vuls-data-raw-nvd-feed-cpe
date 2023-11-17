@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:xakuro:xo_slider:3.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Xakuro XO Slider 3.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/xo-liteslider/wordpress-xo-slider-plugin-3-3-2-authenticated-stored-cross-site-scripting-xss-vulnerability"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/xo-liteslider/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xakuro:xo_slider:3.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:xakuro:xo_slider:3.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Xakuro XO Slider 3.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/xo-liteslider/wordpress-xo-slider-plugin-3-3-2-authenticated-stored-cross-site-scripting-xss-vulnerability"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/xo-liteslider/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xakuro:xo_slider:3.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

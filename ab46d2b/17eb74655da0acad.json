@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:.net_framework:1.1",
-  "deprecated": true,
-  "deprecation_date": "2020-11-23T16:58:13.807Z",
-  "title": [
-    {
-      "text": "Microsoft .NET Framework 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:.net_framework:1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-23T11:58:13.807-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:.net_framework:1.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:.net_framework:1.1",
+	"deprecated": true,
+	"deprecation_date": "2020-11-23T16:58:13.807Z",
+	"title": [
+		{
+			"text": "Microsoft .NET Framework 1.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:.net_framework:1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-23T11:58:13.807-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:.net_framework:1.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

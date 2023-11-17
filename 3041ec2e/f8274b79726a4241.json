@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mozilla:firefox:3.1:beta1",
-  "title": [
-    {
-      "text": "Mozilla Firefox 3.1 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.mozilla.org/en-US/firefox/releases/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/electron/electron/security"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:firefox:3.1:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mozilla:firefox:3.1:beta1",
+	"title": [
+		{
+			"text": "Mozilla Firefox 3.1 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.mozilla.org/en-US/firefox/releases/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/electron/electron/security"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:firefox:3.1:beta1:*:*:*:*:*:*"
+	}
 }

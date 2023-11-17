@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:epyc_7261_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) EPYC 7261 FIRMWARE",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1023"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.amd.com/en/processors/epyc-7002-series"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:epyc_7261_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:epyc_7261_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 7261 FIRMWARE",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1023"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/processors/epyc-7002-series"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_7261_firmware:-:*:*:*:*:*:*:*"
+	}
 }

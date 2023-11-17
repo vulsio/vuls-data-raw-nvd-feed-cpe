@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:emc:rsa_bsafe:4.0.5.3::~~micro_edition_suite~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-11-30T17:24:17.243Z",
-  "title": [
-    {
-      "text": "EMC RSA BSAFE 4.0.5.3 Micro Edition Suite",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://community.rsa.com/community/products/bsafe/me-40"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:rsa_bsafe:4.0.5.3:*:*:*:micro_edition_suite:*:*:*",
-    "deprecation": {
-      "date": "2021-11-30T12:24:17.243-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe:4.0.5.3:*:*:*:micro_edition_suite:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:rsa_bsafe:4.0.5.3::~~micro_edition_suite~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-11-30T17:24:17.243Z",
+	"title": [
+		{
+			"text": "EMC RSA BSAFE 4.0.5.3 Micro Edition Suite",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://community.rsa.com/community/products/bsafe/me-40"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:rsa_bsafe:4.0.5.3:*:*:*:micro_edition_suite:*:*:*",
+		"deprecation": {
+			"date": "2021-11-30T12:24:17.243-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe:4.0.5.3:*:*:*:micro_edition_suite:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

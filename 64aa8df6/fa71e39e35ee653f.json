@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cisco:identity_services_engine:1.0",
-  "title": [
-    {
-      "text": "Cisco Identity Services Engine 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://software.cisco.com/download/home/283801620/type/283802505/release/1.0?releaseIndicator=DEFERRED"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190717-ise-sql-inject"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp29278"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:identity_services_engine:1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:identity_services_engine:1.0",
+	"title": [
+		{
+			"text": "Cisco Identity Services Engine 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://software.cisco.com/download/home/283801620/type/283802505/release/1.0?releaseIndicator=DEFERRED"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190717-ise-sql-inject"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp29278"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:identity_services_engine:1.0:*:*:*:*:*:*:*"
+	}
 }

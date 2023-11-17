@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:fontawesome:font_awesome:4.3.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Font Awesome 4.3.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://fontawesome.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/4de75de5-e557-46df-9675-e3f0220f4003"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/font-awesome/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fontawesome:font_awesome:4.3.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:fontawesome:font_awesome:4.3.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Font Awesome 4.3.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://fontawesome.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/4de75de5-e557-46df-9675-e3f0220f4003"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/font-awesome/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fontawesome:font_awesome:4.3.2:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:devcert_project:devcert:1.2.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "devcert Project devcert 1.2.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://research.jfrog.com/vulnerabilities/devcert-redos-xray-211352/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/devcert"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:devcert_project:devcert:1.2.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:devcert_project:devcert:1.2.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "devcert Project devcert 1.2.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://research.jfrog.com/vulnerabilities/devcert-redos-xray-211352/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/devcert"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:devcert_project:devcert:1.2.1:*:*:*:*:node.js:*:*"
+	}
 }

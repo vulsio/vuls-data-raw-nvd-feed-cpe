@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:misskey:misskey:12.81.0",
-  "title": [
-    {
-      "text": "Misskey 12.81.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/misskey-dev/misskey/security/advisories/GHSA-mqv7-gxh4-r5vf"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/misskey-dev/misskey/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:misskey:misskey:12.81.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:misskey:misskey:12.81.0",
+	"title": [
+		{
+			"text": "Misskey 12.81.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/misskey-dev/misskey/security/advisories/GHSA-mqv7-gxh4-r5vf"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/misskey-dev/misskey/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:misskey:misskey:12.81.0:*:*:*:*:*:*:*"
+	}
 }

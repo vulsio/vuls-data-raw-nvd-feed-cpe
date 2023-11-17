@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cloudera:data_engineering:1.1",
-  "title": [
-    {
-      "text": "Cloudera Data Engineering 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://my.cloudera.com/knowledge/TSB-2020-447-Cross-Site-Request-Forgery-vulnerability-in-CDE?id=304992"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.cloudera.com/data-engineering/cloud/overview/topics/cde-service-overview.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudera:data_engineering:1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudera:data_engineering:1.1",
+	"title": [
+		{
+			"text": "Cloudera Data Engineering 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://my.cloudera.com/knowledge/TSB-2020-447-Cross-Site-Request-Forgery-vulnerability-in-CDE?id=304992"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.cloudera.com/data-engineering/cloud/overview/topics/cde-service-overview.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudera:data_engineering:1.1:*:*:*:*:*:*:*"
+	}
 }

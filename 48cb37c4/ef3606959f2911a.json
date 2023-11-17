@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:intel:xeon_platinum:8160t",
-  "deprecated": true,
-  "deprecation_date": "2023-09-27T20:39:58.280Z",
-  "title": [
-    {
-      "text": "Intel Xeon Platinum 8160T",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/details/processors/xeon/scalable/platinum.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_platinum:8160t:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-27T16:39:58.280-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_platinum_8160t:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_platinum:8160t",
+	"deprecated": true,
+	"deprecation_date": "2023-09-27T20:39:58.280Z",
+	"title": [
+		{
+			"text": "Intel Xeon Platinum 8160T",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/details/processors/xeon/scalable/platinum.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_platinum:8160t:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-27T16:39:58.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_platinum_8160t:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

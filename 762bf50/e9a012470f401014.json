@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openbsd:openssh:8.9:p1",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 8.9 Patch 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.mindrot.org/show_bug.cgi?id=3316"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.openssh.com/releasenotes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:8.9:p1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openbsd:openssh:8.9:p1",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 8.9 Patch 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.mindrot.org/show_bug.cgi?id=3316"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.openssh.com/releasenotes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:8.9:p1:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:blackfire:blackfire:-",
-  "deprecated": true,
-  "deprecation_date": "2023-09-26T17:46:12.843Z",
-  "title": [
-    {
-      "text": "Blackfire",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.blackfire.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35466"
-    },
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/r/blackfire/blackfire"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blackfire:blackfire:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-26T13:46:12.843-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:blackfire:blackfire_docker_image:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:blackfire:blackfire:-",
+	"deprecated": true,
+	"deprecation_date": "2023-09-26T17:46:12.843Z",
+	"title": [
+		{
+			"text": "Blackfire",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.blackfire.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35466"
+		},
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/r/blackfire/blackfire"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blackfire:blackfire:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-26T13:46:12.843-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:blackfire:blackfire_docker_image:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:citrix:workspace:1912:cu1:~~ltsr~windows~~",
-  "title": [
-    {
-      "text": "Citrix Workspace 1912 Cumulative Update 1 Long Term Service Release Edition for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/1912-ltsr/whats-new/fixed-issues.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX477617/citrix-workspace-app-for-windows-security-bulletin-for-cve202324484-cve202324485"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:workspace:1912:cu1:*:*:ltsr:windows:*:*"
-  }
+	"name": "cpe:/a:citrix:workspace:1912:cu1:~~ltsr~windows~~",
+	"title": [
+		{
+			"text": "Citrix Workspace 1912 Cumulative Update 1 Long Term Service Release Edition for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/1912-ltsr/whats-new/fixed-issues.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX477617/citrix-workspace-app-for-windows-security-bulletin-for-cve202324484-cve202324485"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:workspace:1912:cu1:*:*:ltsr:windows:*:*"
+	}
 }

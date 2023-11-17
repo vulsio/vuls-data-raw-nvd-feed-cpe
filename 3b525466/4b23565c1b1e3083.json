@@ -1,38 +1,38 @@
 {
-  "name": "cpe:/a:ivanti:endpoint_manager_mobile:11.5.0",
-  "title": [
-    {
-      "text": "Ivanti Endpoint Manager Mobile 11.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://forums.ivanti.com/s/article/KB-Remote-unauthenticated-API-access-vulnerability-CVE-2023-35078?language=en_US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://forums.ivanti.com/s/article/CVE-2023-35078-Remote-unauthenticated-API-access-vulnerability?language=en_US"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ivanti.com/products/endpoint-manager"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://help.ivanti.com/mi/help/en_us/core/11.x/rn/CoreConnectorReleaseNotes/Revision_history.htm"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ivanti.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ivanti:endpoint_manager_mobile:11.5.0",
+	"title": [
+		{
+			"text": "Ivanti Endpoint Manager Mobile 11.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/alerts/2023/07/24/ivanti-releases-security-updates-endpoint-manager-mobile-epmm-cve-2023-35078"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.ivanti.com/s/article/KB-Remote-unauthenticated-API-access-vulnerability-CVE-2023-35078?language=en_US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.ivanti.com/s/article/CVE-2023-35078-Remote-unauthenticated-API-access-vulnerability?language=en_US"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ivanti.com/products/endpoint-manager"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://help.ivanti.com/mi/help/en_us/core/11.x/rn/CoreConnectorReleaseNotes/Revision_history.htm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ivanti.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:endpoint_manager_mobile:11.5.0:*:*:*:*:*:*:*"
+	}
 }

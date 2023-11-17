@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:62x_chipset:-",
-  "title": [
-    {
-      "text": "Intel 62x Chipset",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00261.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://downloadcenter.intel.com/download/28819/Intel-Server-Chipset-Driver-for-Windows-Based-on-Intel-62X-Chipset"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:62x_chipset:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:62x_chipset:-",
+	"title": [
+		{
+			"text": "Intel 62x Chipset",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00261.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://downloadcenter.intel.com/download/28819/Intel-Server-Chipset-Driver-for-Windows-Based-on-Intel-62X-Chipset"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:62x_chipset:-:*:*:*:*:*:*:*"
+	}
 }

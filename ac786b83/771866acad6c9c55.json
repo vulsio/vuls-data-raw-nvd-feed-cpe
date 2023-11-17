@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir-3040_firmware:1.13b03",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link Dir-3040 Firmware 1.13 b03",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.dlink.ca/ProductInfo.aspx?m=DIR-3040"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir-3040_firmware:1.13b03:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir-3040_firmware:1.13b03:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir-3040_firmware:1.13b03",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link Dir-3040 Firmware 1.13 b03",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.dlink.ca/ProductInfo.aspx?m=DIR-3040"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir-3040_firmware:1.13b03:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir-3040_firmware:1.13b03:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

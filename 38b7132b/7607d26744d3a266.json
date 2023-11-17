@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:talk:3.1.0:beta6:~~~android~~",
-  "title": [
-    {
-      "text": "Nextcloud Talk 3.1.0 Beta 6 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/talk-android/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-497c-c8hx-6qcf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:talk:3.1.0:beta6:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:nextcloud:talk:3.1.0:beta6:~~~android~~",
+	"title": [
+		{
+			"text": "Nextcloud Talk 3.1.0 Beta 6 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/talk-android/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-497c-c8hx-6qcf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:talk:3.1.0:beta6:*:*:*:android:*:*"
+	}
 }

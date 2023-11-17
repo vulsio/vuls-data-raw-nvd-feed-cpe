@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:csa-estate:csatoken:-",
-  "title": [
-    {
-      "text": "CSA-Estate CSAToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xe887d4FCeD09cb2904dbA4f7Db1cC46e29d39579#code"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.csa-estate.com"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:csa-estate:csatoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:csa-estate:csatoken:-",
+	"title": [
+		{
+			"text": "CSA-Estate CSAToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xe887d4FCeD09cb2904dbA4f7Db1cC46e29d39579#code"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.csa-estate.com"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:csa-estate:csatoken:-:*:*:*:*:*:*:*"
+	}
 }

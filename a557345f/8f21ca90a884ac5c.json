@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:oracle:linux:7.2",
-  "deprecated": true,
-  "deprecation_date": "2016-01-07T19:57:25.600Z",
-  "title": [
-    {
-      "text": "Oracle Linux 7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.oracle.com/us/technologies/linux/product/specifications/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.oracle.com/us/technologies/linux/product/comparisons/index.html#ct02-Download"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.oracle.com/us/technologies/linux/overview/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:oracle:linux:7.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-01-07T14:57:25.600-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:oracle:linux:7:2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:oracle:linux:7.2",
+	"deprecated": true,
+	"deprecation_date": "2016-01-07T19:57:25.600Z",
+	"title": [
+		{
+			"text": "Oracle Linux 7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.oracle.com/us/technologies/linux/product/specifications/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.oracle.com/us/technologies/linux/product/comparisons/index.html#ct02-Download"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.oracle.com/us/technologies/linux/overview/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:oracle:linux:7.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-01-07T14:57:25.600-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:oracle:linux:7:2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

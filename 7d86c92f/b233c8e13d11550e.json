@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:stealthwatch_management_console_2200_firmware:-",
-  "title": [
-    {
-      "text": "Cisco Stealthwatch Management Console 2200 Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/dam/en/us/td/docs/security/stealthwatch/management_console/2200/specification/SW_6_9_1_SMC_2200_Spec_Sheet_DV_1_3.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-stealthsmc-rce-sfNBPjcS"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:stealthwatch_management_console_2200_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:stealthwatch_management_console_2200_firmware:-",
+	"title": [
+		{
+			"text": "Cisco Stealthwatch Management Console 2200 Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/dam/en/us/td/docs/security/stealthwatch/management_console/2200/specification/SW_6_9_1_SMC_2200_Spec_Sheet_DV_1_3.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-stealthsmc-rce-sfNBPjcS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:stealthwatch_management_console_2200_firmware:-:*:*:*:*:*:*:*"
+	}
 }

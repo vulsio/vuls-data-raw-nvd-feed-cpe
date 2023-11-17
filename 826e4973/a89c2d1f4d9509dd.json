@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wordpress_custom_settings_project:wordpress_custom_settings:1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WordPress Custom Settings Project WordPress Custom Settings 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://tt.wordpress.org/plugins/custom-settings/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/custom-settings/wordpress-wordpress-custom-settings-plugin-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wordpress_custom_settings_project:wordpress_custom_settings:1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wordpress_custom_settings_project:wordpress_custom_settings:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WordPress Custom Settings Project WordPress Custom Settings 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://tt.wordpress.org/plugins/custom-settings/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/custom-settings/wordpress-wordpress-custom-settings-plugin-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wordpress_custom_settings_project:wordpress_custom_settings:1.0:*:*:*:*:wordpress:*:*"
+	}
 }

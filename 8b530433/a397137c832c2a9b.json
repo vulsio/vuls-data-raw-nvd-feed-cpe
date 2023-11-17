@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:mercurial:1.56::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Mercurial 1.56 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wiki.jenkins.io/display/JENKINS/Mercurial+Plugin"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/mercurial-plugin/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:mercurial:1.56:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:mercurial:1.56::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Mercurial 1.56 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wiki.jenkins.io/display/JENKINS/Mercurial+Plugin"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/mercurial-plugin/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:mercurial:1.56:*:*:*:*:jenkins:*:*"
+	}
 }

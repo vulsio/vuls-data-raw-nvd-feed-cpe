@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:openbsd:openbsd:8.0",
-  "title": [
-    {
-      "text": "OpenBSD 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=144761"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://seclists.org/fulldisclosure/2010/Mar/117"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:openbsd:openbsd:8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:openbsd:openbsd:8.0",
+	"title": [
+		{
+			"text": "OpenBSD 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=144761"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2010/Mar/117"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:openbsd:openbsd:8.0:*:*:*:*:*:*:*"
+	}
 }

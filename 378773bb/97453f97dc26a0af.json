@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:glance_project:glance:3.0.8::~~~node.js~~",
-  "title": [
-    {
-      "text": "glance Project glance 3.0.8 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jarofghosts/glance/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-GLANCE-3318395"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:glance_project:glance:3.0.8:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:glance_project:glance:3.0.8::~~~node.js~~",
+	"title": [
+		{
+			"text": "glance Project glance 3.0.8 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jarofghosts/glance/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-GLANCE-3318395"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:glance_project:glance:3.0.8:*:*:*:*:node.js:*:*"
+	}
 }

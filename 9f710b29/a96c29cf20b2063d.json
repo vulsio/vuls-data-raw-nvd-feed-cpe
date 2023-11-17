@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:xen:xen:4.1.1::~~~~x86~",
-  "title": [
-    {
-      "text": "Xen 4.1.1 x86",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://xenproject.org/2019/12/18/whats-new-in-xen-4-13/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.xenproject.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://xenproject.org/xen-project-archives/"
-    },
-    {
-      "text": "Version",
-      "href": "https://wiki.xenproject.org/wiki/Category:Release_Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:xen:xen:4.1.1:*:*:*:*:*:x86:*"
-  }
+	"name": "cpe:/o:xen:xen:4.1.1::~~~~x86~",
+	"title": [
+		{
+			"text": "Xen 4.1.1 x86",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://xenproject.org/2019/12/18/whats-new-in-xen-4-13/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.xenproject.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://xenproject.org/xen-project-archives/"
+		},
+		{
+			"text": "Version",
+			"href": "https://wiki.xenproject.org/wiki/Category:Release_Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:xen:xen:4.1.1:*:*:*:*:*:x86:*"
+	}
 }

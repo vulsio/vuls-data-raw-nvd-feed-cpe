@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:goldenfrog:vyprvpn:2.4.3::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T17:38:50.600Z",
-  "title": [
-    {
-      "text": "Golden Frog VyprVPN 2.4.3 Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.goldenfrog.com/vyprvpn/changelog/ios#v2.15.0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:goldenfrog:vyprvpn:2.4.3:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T13:38:50.600-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:goldenfrog:vyprvpn:2.4.3:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:goldenfrog:vyprvpn:2.4.3::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T17:38:50.600Z",
+	"title": [
+		{
+			"text": "Golden Frog VyprVPN 2.4.3 Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.goldenfrog.com/vyprvpn/changelog/ios#v2.15.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:goldenfrog:vyprvpn:2.4.3:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T13:38:50.600-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:goldenfrog:vyprvpn:2.4.3:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

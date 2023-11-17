@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:simplefilelist:simple_file_list:6.1.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Simple File List 6.1.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/13621b13-8d31-4214-a665-cb15981f3ec1"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://simplefilelist.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wordpress.org/plugins/simple-file-list/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simplefilelist:simple_file_list:6.1.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:simplefilelist:simple_file_list:6.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Simple File List 6.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/13621b13-8d31-4214-a665-cb15981f3ec1"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://simplefilelist.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wordpress.org/plugins/simple-file-list/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simplefilelist:simple_file_list:6.1.2:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:sonarsource:sonarqube_scanner:2.9::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Sonarsource Sonarqube Scanner 2.9 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/sonarqube-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonarsource:sonarqube_scanner:2.9:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:sonarsource:sonarqube_scanner:2.9::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Sonarsource Sonarqube Scanner 2.9 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/sonarqube-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonarsource:sonarqube_scanner:2.9:*:*:*:*:jenkins:*:*"
+	}
 }

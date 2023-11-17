@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:password_policy:12.0.3:-",
-  "title": [
-    {
-      "text": "Nextcloud Password Policy 12.0.3 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/password_policy/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-c7mw-9q4r-8qwr"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:password_policy:12.0.3:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:password_policy:12.0.3:-",
+	"title": [
+		{
+			"text": "Nextcloud Password Policy 12.0.3 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/password_policy/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-c7mw-9q4r-8qwr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:password_policy:12.0.3:-:*:*:*:*:*:*"
+	}
 }

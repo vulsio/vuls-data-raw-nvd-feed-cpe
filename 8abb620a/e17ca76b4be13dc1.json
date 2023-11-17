@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:workflow:-::~~~bluemix~~",
-  "title": [
-    {
-      "text": "IBM Workflow for Bluemix",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/cloud/bluemix/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/blogs/psirt/ibm-security-bulletin-authentication-session-cookie-in-ibm-workflow-for-bluemix-was-missing-secure-flag-cve-2015-0102/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:workflow:-:*:*:*:*:bluemix:*:*"
-  }
+	"name": "cpe:/a:ibm:workflow:-::~~~bluemix~~",
+	"title": [
+		{
+			"text": "IBM Workflow for Bluemix",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/cloud/bluemix/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/blogs/psirt/ibm-security-bulletin-authentication-session-cookie-in-ibm-workflow-for-bluemix-was-missing-secure-flag-cve-2015-0102/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:workflow:-:*:*:*:*:bluemix:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:helm:helm:2.16.0",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T17:59:10.627Z",
-  "title": [
-    {
-      "text": "Helm 2.16.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/helm/helm/tags?after=v2.14.3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:helm:helm:2.16.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-04T13:59:10.627-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:helm:helm:2.16.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:helm:helm:2.16.0",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T17:59:10.627Z",
+	"title": [
+		{
+			"text": "Helm 2.16.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/helm/helm/tags?after=v2.14.3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:helm:helm:2.16.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-04T13:59:10.627-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:helm:helm:2.16.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

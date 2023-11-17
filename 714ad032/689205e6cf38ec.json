@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cloudfoundry:uaa:3.9.15",
-  "deprecated": true,
-  "deprecation_date": "2021-08-17T12:48:07.000Z",
-  "title": [
-    {
-      "text": "Cloud Foundry UAA 3.9.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/cloudfoundry/uaa"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudfoundry:uaa:3.9.15:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-17T08:48:07.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:3.9.15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cloudfoundry:uaa:3.9.15",
+	"deprecated": true,
+	"deprecation_date": "2021-08-17T12:48:07.000Z",
+	"title": [
+		{
+			"text": "Cloud Foundry UAA 3.9.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudfoundry/uaa"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudfoundry:uaa:3.9.15:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-17T08:48:07.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:user_account_and_authentication:3.9.15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

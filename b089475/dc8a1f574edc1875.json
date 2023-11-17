@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:lavalite:lavalite:5.5",
-  "deprecated": true,
-  "deprecation_date": "2019-10-15T12:12:46.280Z",
-  "title": [
-    {
-      "text": "LavaLite 5.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-16551?tab=REFERENCES"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://lavalite.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lavalite:lavalite:5.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-15T08:12:46.280-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:lavalite:lavalite:5.5.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:lavalite:lavalite:5.5",
+	"deprecated": true,
+	"deprecation_date": "2019-10-15T12:12:46.280Z",
+	"title": [
+		{
+			"text": "LavaLite 5.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2018-16551?tab=REFERENCES"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://lavalite.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lavalite:lavalite:5.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-15T08:12:46.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:lavalite:lavalite:5.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

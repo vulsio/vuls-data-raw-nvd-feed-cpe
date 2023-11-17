@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zend:zendto:5.21-2:production",
-  "deprecated": true,
-  "deprecation_date": "2022-09-13T19:00:50.723Z",
-  "title": [
-    {
-      "text": "Zend ZendTo 5.21-2 Production",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://zend.to/changelog.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zend:zendto:5.21-2:production:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-13T15:00:50.723-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zend:zendto:5.21-2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zend:zendto:5.21-2:production",
+	"deprecated": true,
+	"deprecation_date": "2022-09-13T19:00:50.723Z",
+	"title": [
+		{
+			"text": "Zend ZendTo 5.21-2 Production",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://zend.to/changelog.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zend:zendto:5.21-2:production:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-13T15:00:50.723-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zend:zendto:5.21-2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

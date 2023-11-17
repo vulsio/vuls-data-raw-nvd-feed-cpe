@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:bosch:eyes-indoor_camera:-",
-  "deprecated": true,
-  "deprecation_date": "2021-08-13T13:46:53.993Z",
-  "title": [
-    {
-      "text": "Bosch Eyes-Indoor Camera",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.bosch-smarthome.com/uk/en/products/smart-single-solutions/eyes-outdoor-camera"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:bosch:eyes-indoor_camera:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-13T09:46:53.993-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:bosch:eyes-indoor_camera:-",
+	"deprecated": true,
+	"deprecation_date": "2021-08-13T13:46:53.993Z",
+	"title": [
+		{
+			"text": "Bosch Eyes-Indoor Camera",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.bosch-smarthome.com/uk/en/products/smart-single-solutions/eyes-outdoor-camera"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:bosch:eyes-indoor_camera:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-13T09:46:53.993-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:bosch:eyes_outdoor_camera:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

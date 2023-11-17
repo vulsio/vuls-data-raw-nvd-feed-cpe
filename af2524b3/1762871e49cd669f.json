@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:minikube:1.21.0:beta0",
-  "title": [
-    {
-      "text": "Kubernetes Minikube 1.21.0 Beta 0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes/minikube/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes/minikube"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:minikube:1.21.0:beta0:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:minikube:1.21.0:beta0",
+	"title": [
+		{
+			"text": "Kubernetes Minikube 1.21.0 Beta 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/minikube/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/minikube"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:minikube:1.21.0:beta0:*:*:*:*:*:*"
+	}
 }

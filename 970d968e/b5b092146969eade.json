@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:.net_education_bundle_sdk_install_tool:0.7.0::~~~visual_studio_code~~",
-  "title": [
-    {
-      "text": "Microsoft .NET Education Bundle SDK Install Tool 0.7.0 for Visual Studio Code",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-34477"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/dotnet/vscode-dotnet-runtime/security/advisories/GHSA-8p5g-gm8f-2vcw"
-    },
-    {
-      "text": "Version",
-      "href": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-sdk"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:.net_education_bundle_sdk_install_tool:0.7.0:*:*:*:*:visual_studio_code:*:*"
-  }
+	"name": "cpe:/a:microsoft:.net_education_bundle_sdk_install_tool:0.7.0::~~~visual_studio_code~~",
+	"title": [
+		{
+			"text": "Microsoft .NET Education Bundle SDK Install Tool 0.7.0 for Visual Studio Code",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-34477"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/dotnet/vscode-dotnet-runtime/security/advisories/GHSA-8p5g-gm8f-2vcw"
+		},
+		{
+			"text": "Version",
+			"href": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-sdk"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:.net_education_bundle_sdk_install_tool:0.7.0:*:*:*:*:visual_studio_code:*:*"
+	}
 }

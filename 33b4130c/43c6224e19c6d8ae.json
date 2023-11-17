@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:clintoncaldwell:delete_me:2.7::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-02T18:13:52.853Z",
-  "title": [
-    {
-      "text": "Clinton Caldwell Delete Me 2.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/delete-me/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/delete-me/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/delete-me/delete-me-30-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:clintoncaldwell:delete_me:2.7:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-02T14:13:52.853-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cmc3215:delete_me:2.7:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:clintoncaldwell:delete_me:2.7::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-02T18:13:52.853Z",
+	"title": [
+		{
+			"text": "Clinton Caldwell Delete Me 2.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/delete-me/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/delete-me/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/delete-me/delete-me-30-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clintoncaldwell:delete_me:2.7:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-02T14:13:52.853-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cmc3215:delete_me:2.7:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

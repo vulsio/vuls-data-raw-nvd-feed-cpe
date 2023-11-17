@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:symantec:endpoint_protection:12.1.6:mp4:~~~mac~~",
-  "deprecated": true,
-  "deprecation_date": "2017-11-30T19:34:54.873Z",
-  "title": [
-    {
-      "text": "Symantec Endpoint Protection 12.1.6 Maintenance Patch 4 for Mac",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20160628_00"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:endpoint_protection:12.1.6:mp4:*:*:*:mac:*:*",
-    "deprecation": {
-      "date": "2017-11-30T14:34:54.873-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:symantec:endpoint_protection:12.1.6:mp4:*:*:*:mac_os_x:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symantec:endpoint_protection:12.1.6:mp4:~~~mac~~",
+	"deprecated": true,
+	"deprecation_date": "2017-11-30T19:34:54.873Z",
+	"title": [
+		{
+			"text": "Symantec Endpoint Protection 12.1.6 Maintenance Patch 4 for Mac",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20160628_00"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:endpoint_protection:12.1.6:mp4:*:*:*:mac:*:*",
+		"deprecation": {
+			"date": "2017-11-30T14:34:54.873-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:symantec:endpoint_protection:12.1.6:mp4:*:*:*:mac_os_x:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

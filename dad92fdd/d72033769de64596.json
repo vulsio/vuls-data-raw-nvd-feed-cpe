@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redislabs:redis:1.3.7",
-  "title": [
-    {
-      "text": "Redis Labs Redis 1.3.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/antirez/redis/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redis:1.3.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redislabs:redis:1.3.7",
+	"title": [
+		{
+			"text": "Redis Labs Redis 1.3.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/antirez/redis/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redis:1.3.7:*:*:*:*:*:*:*"
+	}
 }

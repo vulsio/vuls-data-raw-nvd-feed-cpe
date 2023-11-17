@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:php:pear:1.4.0a7",
-  "deprecated": true,
-  "deprecation_date": "2020-01-23T14:28:15.347Z",
-  "title": [
-    {
-      "text": "PHP PEAR 1.4.0a7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:php:pear:1.4.0a7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-23T09:28:15.347-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:php:pear:1.4.0:a7:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:php:pear:1.4.0a7",
+	"deprecated": true,
+	"deprecation_date": "2020-01-23T14:28:15.347Z",
+	"title": [
+		{
+			"text": "PHP PEAR 1.4.0a7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:php:pear:1.4.0a7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-23T09:28:15.347-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:php:pear:1.4.0:a7:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

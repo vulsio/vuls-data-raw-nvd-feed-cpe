@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:espressif:esp32-s0wd_firmware:-",
-  "title": [
-    {
-      "text": "Espressif ESP32-S0WD Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.espressif.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.espressif.com/en/news/Security_Advisory_Concerning_Fault_Injection_and_eFuse_Protections"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:espressif:esp32-s0wd_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:espressif:esp32-s0wd_firmware:-",
+	"title": [
+		{
+			"text": "Espressif ESP32-S0WD Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.espressif.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.espressif.com/en/news/Security_Advisory_Concerning_Fault_Injection_and_eFuse_Protections"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:espressif:esp32-s0wd_firmware:-:*:*:*:*:*:*:*"
+	}
 }

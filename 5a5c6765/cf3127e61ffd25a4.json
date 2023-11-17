@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:citrix:workspace:1912::~~ltsr~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2023-03-04T02:54:16.470Z",
-  "title": [
-    {
-      "text": "Citrix Workspace 1912 Long Term Service Release Edition for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX277662"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/1912-ltsr.html#:~:text=Version%201912%20is%20the%20first,Citrix%20Workspace%20app%20for%20Windows."
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:workspace:1912:*:*:*:ltsr:windows:*:*",
-    "deprecation": {
-      "date": "2023-03-03T21:54:16.470-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:citrix:workspace:1912:-:*:*:ltsr:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:citrix:workspace:1912::~~ltsr~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2023-03-04T02:54:16.470Z",
+	"title": [
+		{
+			"text": "Citrix Workspace 1912 Long Term Service Release Edition for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX277662"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.citrix.com/en-us/citrix-workspace-app-for-windows/1912-ltsr.html#:~:text=Version%201912%20is%20the%20first,Citrix%20Workspace%20app%20for%20Windows."
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:workspace:1912:*:*:*:ltsr:windows:*:*",
+		"deprecation": {
+			"date": "2023-03-03T21:54:16.470-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:citrix:workspace:1912:-:*:*:ltsr:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

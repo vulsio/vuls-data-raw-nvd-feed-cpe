@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pdftron:pdftron:9.2.0",
-  "title": [
-    {
-      "text": "PDFTron 9.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.pdftron.com/pdf-sdk/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.pdftron.com/nightly/#stable/2022-02-08/9.2/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/suletm/security_research/blob/main/CVE/CVE-2022-24960.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pdftron:pdftron:9.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pdftron:pdftron:9.2.0",
+	"title": [
+		{
+			"text": "PDFTron 9.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.pdftron.com/pdf-sdk/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.pdftron.com/nightly/#stable/2022-02-08/9.2/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/suletm/security_research/blob/main/CVE/CVE-2022-24960.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pdftron:pdftron:9.2.0:*:*:*:*:*:*:*"
+	}
 }

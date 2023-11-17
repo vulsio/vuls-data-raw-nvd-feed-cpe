@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/a:sun:mysql_connector%2fj:-",
-  "deprecated": true,
-  "deprecation_date": "2018-01-19T19:46:36.880Z",
-  "title": [
-    {
-      "text": "Sun MySQL Connector/J",
-      "lang": "en-US"
-    },
-    {
-      "text": "サン・マイクロシステムズ MySQL Connector/J",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sun:mysql_connector\\/j:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-01-19T14:46:36.880-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql_connector\\/j:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sun:mysql_connector%2fj:-",
+	"deprecated": true,
+	"deprecation_date": "2018-01-19T19:46:36.880Z",
+	"title": [
+		{
+			"text": "Sun MySQL Connector/J",
+			"lang": "en-US"
+		},
+		{
+			"text": "サン・マイクロシステムズ MySQL Connector/J",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sun:mysql_connector\\/j:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-01-19T14:46:36.880-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql_connector\\/j:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

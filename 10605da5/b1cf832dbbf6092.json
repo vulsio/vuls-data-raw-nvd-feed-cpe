@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:d-link:dir-505l_shareport_mobile_companion:a1",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "DIR-505L SharePort Mobile Companion A1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.dlink.com/us/en/home-solutions/connect/routers/dir-505-shareport-mobile-companion"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dir-505l_shareport_mobile_companion:a1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dir-505l_shareport_mobile_companion:a1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dir-505l_shareport_mobile_companion:a1",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "DIR-505L SharePort Mobile Companion A1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.dlink.com/us/en/home-solutions/connect/routers/dir-505-shareport-mobile-companion"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dir-505l_shareport_mobile_companion:a1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dir-505l_shareport_mobile_companion:a1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

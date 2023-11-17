@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:pki-core_project:pki-core:10.2.0",
-  "title": [
-    {
-      "text": "pki-core Project pki-core 10.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://people.canonical.com/~ubuntu-security/cve/2015/CVE-2015-0234.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://koji.fedoraproject.org/koji/packageinfo?packageID=11434"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pki-core_project:pki-core:10.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pki-core_project:pki-core:10.2.0",
+	"title": [
+		{
+			"text": "pki-core Project pki-core 10.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://people.canonical.com/~ubuntu-security/cve/2015/CVE-2015-0234.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://koji.fedoraproject.org/koji/packageinfo?packageID=11434"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pki-core_project:pki-core:10.2.0:*:*:*:*:*:*:*"
+	}
 }

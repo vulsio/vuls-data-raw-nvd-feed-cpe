@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:learndash:learndash:4.6.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Learndash Learndash 4.6.0 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sfwd-lms/learndash-lms-460-authenticated-subscriber-insecure-direct-object-reference-to-arbitrary-user-password-change"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.learndash.com/release-notes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:learndash:learndash:4.6.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:learndash:learndash:4.6.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Learndash Learndash 4.6.0 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sfwd-lms/learndash-lms-460-authenticated-subscriber-insecure-direct-object-reference-to-arbitrary-user-password-change"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.learndash.com/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:learndash:learndash:4.6.0:*:*:*:*:wordpress:*:*"
+	}
 }

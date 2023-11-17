@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:hbase:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2019-06-19T13:41:14.240Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation HBase 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/apache/hbase/tags"
-    },
-    {
-      "text": "Product",
-      "href": "http://hbase.apache.org/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://hadoop.apache.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:hbase:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-19T09:41:14.240-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:hbase:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:hbase:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2019-06-19T13:41:14.240Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation HBase 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/apache/hbase/tags"
+		},
+		{
+			"text": "Product",
+			"href": "http://hbase.apache.org/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://hadoop.apache.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:hbase:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-19T09:41:14.240-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:hbase:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

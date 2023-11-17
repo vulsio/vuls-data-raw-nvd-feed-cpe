@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:3.1",
-  "deprecated": true,
-  "deprecation_date": "2020-07-30T12:40:23.537Z",
-  "title": [
-    {
-      "text": "Linux Kernel 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-30T08:40:23.537-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:3.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:3.1",
+	"deprecated": true,
+	"deprecation_date": "2020-07-30T12:40:23.537Z",
+	"title": [
+		{
+			"text": "Linux Kernel 3.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-30T08:40:23.537-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:3.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

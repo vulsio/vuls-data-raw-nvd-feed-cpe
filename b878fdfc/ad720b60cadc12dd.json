@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:hp:xx_chao5000-ikbra_firmware:6jcn26ww",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:31:07.440Z",
-  "title": [
-    {
-      "text": "HP XX CHAO5000-IKBRA Firmware 6JCN26WW",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:hp:xx_chao5000-ikbra_firmware:6jcn26ww:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:31:07.440-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:lenovo:xx_chao5000-ikbra_firmware:6jcn26ww:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:hp:xx_chao5000-ikbra_firmware:6jcn26ww",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:31:07.440Z",
+	"title": [
+		{
+			"text": "HP XX CHAO5000-IKBRA Firmware 6JCN26WW",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:hp:xx_chao5000-ikbra_firmware:6jcn26ww:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:31:07.440-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:lenovo:xx_chao5000-ikbra_firmware:6jcn26ww:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

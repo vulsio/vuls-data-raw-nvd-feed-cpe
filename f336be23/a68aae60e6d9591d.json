@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:yugabyte:yugabytedb:2.16.3.0",
-  "title": [
-    {
-      "text": "YugabyteDB 2.16.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/yugabyte/yugabyte-db/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/264848"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.yugabyte.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yugabyte:yugabytedb:2.16.3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:yugabyte:yugabytedb:2.16.3.0",
+	"title": [
+		{
+			"text": "YugabyteDB 2.16.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/yugabyte/yugabyte-db/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/264848"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.yugabyte.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yugabyte:yugabytedb:2.16.3.0:*:*:*:*:*:*:*"
+	}
 }

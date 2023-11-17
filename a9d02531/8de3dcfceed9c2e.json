@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microfocus:self_service_password_reset:4.5.0.2",
-  "title": [
-    {
-      "text": "Micro Focus Self Service Password Reset (SSPR) 4.5.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.netiq.com/documentation/self-service-password-reset-45/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/25xxx/CVE-2020-25837.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microfocus:self_service_password_reset:4.5.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microfocus:self_service_password_reset:4.5.0.2",
+	"title": [
+		{
+			"text": "Micro Focus Self Service Password Reset (SSPR) 4.5.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.netiq.com/documentation/self-service-password-reset-45/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/25xxx/CVE-2020-25837.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microfocus:self_service_password_reset:4.5.0.2:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:vpn_3020_concentrator:4.7",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:38:33.257Z",
-  "title": [
-    {
-      "text": "Cisco VPN 3000 Concentrator Series Software 4.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:vpn_3020_concentrator:4.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:38:33.257-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:4.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:vpn_3020_concentrator:4.7",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:38:33.257Z",
+	"title": [
+		{
+			"text": "Cisco VPN 3000 Concentrator Series Software 4.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:vpn_3020_concentrator:4.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:38:33.257-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:vpn_3000_concentrator_series_software:4.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

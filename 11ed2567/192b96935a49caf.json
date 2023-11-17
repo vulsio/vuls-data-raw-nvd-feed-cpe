@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:message_queuing:1.05",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T17:44:22.503Z",
-  "title": [
-    {
-      "text": "Computer Associates Message Queuing 1.05",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:message_queuing:1.05:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T13:44:22.503-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:message_queuing:1.05:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:message_queuing:1.05",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T17:44:22.503Z",
+	"title": [
+		{
+			"text": "Computer Associates Message Queuing 1.05",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:message_queuing:1.05:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T13:44:22.503-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:message_queuing:1.05:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

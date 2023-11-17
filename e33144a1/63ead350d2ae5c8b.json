@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tiny.cloud:tinymce:5.1.6",
-  "deprecated": true,
-  "deprecation_date": "2020-08-11T15:45:12.067Z",
-  "title": [
-    {
-      "text": "Tiny.cloud TinyMCE 5.1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/tinymce/tinymce"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tiny.cloud:tinymce:5.1.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-11T11:45:12.067-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tiny:tinymce:5.1.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tiny.cloud:tinymce:5.1.6",
+	"deprecated": true,
+	"deprecation_date": "2020-08-11T15:45:12.067Z",
+	"title": [
+		{
+			"text": "Tiny.cloud TinyMCE 5.1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/tinymce/tinymce"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tiny.cloud:tinymce:5.1.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-11T11:45:12.067-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tiny:tinymce:5.1.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:post_indexer_project:post_indexer:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Post Indexer Project Post Indexer for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://advisories.dxw.com/advisories/sql-injection-in-post-indexer-allows-super-admins-to-read-the-contents-of-the-database/"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/ORCA-WPMU/post-indexer"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:post_indexer_project:post_indexer:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:post_indexer_project:post_indexer:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Post Indexer Project Post Indexer for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://advisories.dxw.com/advisories/sql-injection-in-post-indexer-allows-super-admins-to-read-the-contents-of-the-database/"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/ORCA-WPMU/post-indexer"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:post_indexer_project:post_indexer:-:*:*:*:*:wordpress:*:*"
+	}
 }

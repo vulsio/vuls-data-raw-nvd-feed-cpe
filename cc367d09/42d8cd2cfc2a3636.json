@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redis:redis:3.2.4",
-  "title": [
-    {
-      "text": "Redis 3.2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/redis"
-    },
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/redis/redis/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis:redis:3.2.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redis:redis:3.2.4",
+	"title": [
+		{
+			"text": "Redis 3.2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/redis"
+		},
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/redis/redis/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redis:3.2.4:*:*:*:*:*:*:*"
+	}
 }

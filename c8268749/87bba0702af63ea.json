@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:guitar-pro:guitar_pro:1.10.2::~~~ipad_os~~",
-  "title": [
-    {
-      "text": "Guitar-pro Guitar Pro 1.10.2 for iPad OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pizzapower.me/2022/10/11/guitar-pro-directory-traversal-and-filename-xss/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.guitar-pro.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:guitar-pro:guitar_pro:1.10.2:*:*:*:*:ipad_os:*:*"
-  }
+	"name": "cpe:/a:guitar-pro:guitar_pro:1.10.2::~~~ipad_os~~",
+	"title": [
+		{
+			"text": "Guitar-pro Guitar Pro 1.10.2 for iPad OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pizzapower.me/2022/10/11/guitar-pro-directory-traversal-and-filename-xss/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.guitar-pro.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:guitar-pro:guitar_pro:1.10.2:*:*:*:*:ipad_os:*:*"
+	}
 }

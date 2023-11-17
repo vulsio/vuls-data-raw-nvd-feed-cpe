@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:brightstor_enterprise_backup_agent:-::sap",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:19:43.023Z",
-  "title": [
-    {
-      "text": "Computer Associates BrightStor Enterprise Backup Agent SAP",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:19:43.023-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:brightstor_enterprise_backup_agent:-::sap",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:19:43.023Z",
+	"title": [
+		{
+			"text": "Computer Associates BrightStor Enterprise Backup Agent SAP",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:19:43.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:brightstor_enterprise_backup_agent:-:*:sap:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

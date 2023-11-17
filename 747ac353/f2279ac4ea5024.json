@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:aichain_project:aichain:-",
-  "title": [
-    {
-      "text": "AIChain Project AIChain",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/AIChain"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:aichain_project:aichain:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:aichain_project:aichain:-",
+	"title": [
+		{
+			"text": "AIChain Project AIChain",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/AIChain"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aichain_project:aichain:-:*:*:*:*:*:*:*"
+	}
 }

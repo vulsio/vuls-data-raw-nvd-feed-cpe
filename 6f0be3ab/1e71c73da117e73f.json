@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:openshift:1.0::~~-~~~",
-  "title": [
-    {
-      "text": "Red Hat OpenShift 1.0 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2014/06/05/19"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/openshift/openshift-extras/blob/enterprise-2.0/README.md#security-notice"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2013/4xxx/CVE-2013-4253.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift:1.0:*:*:*:-:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift:1.0::~~-~~~",
+	"title": [
+		{
+			"text": "Red Hat OpenShift 1.0 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2014/06/05/19"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/openshift/openshift-extras/blob/enterprise-2.0/README.md#security-notice"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2013/4xxx/CVE-2013-4253.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift:1.0:*:*:*:-:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:openjpeg:openjpeg:-",
-  "deprecated": true,
-  "deprecation_date": "2020-09-09T19:56:27.537Z",
-  "title": [
-    {
-      "text": "OpenJPEG",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.openjpeg.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/uclouvain/openjpeg"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openjpeg:openjpeg:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-09T15:56:27.537-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openjpeg:openjpeg:-",
+	"deprecated": true,
+	"deprecation_date": "2020-09-09T19:56:27.537Z",
+	"title": [
+		{
+			"text": "OpenJPEG",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.openjpeg.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/uclouvain/openjpeg"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openjpeg:openjpeg:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-09T15:56:27.537-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:uclouvain:openjpeg:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

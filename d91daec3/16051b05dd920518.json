@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:john_koleszar:libvpx:1.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-29T18:15:30.843Z",
-  "title": [
-    {
-      "text": "John Koleszar VP8 Codec SDK (libvpx) v1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:john_koleszar:libvpx:1.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-29T14:15:30.843-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:webmproject:libvpx:1.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:john_koleszar:libvpx:1.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-29T18:15:30.843Z",
+	"title": [
+		{
+			"text": "John Koleszar VP8 Codec SDK (libvpx) v1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:john_koleszar:libvpx:1.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-29T14:15:30.843-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:webmproject:libvpx:1.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

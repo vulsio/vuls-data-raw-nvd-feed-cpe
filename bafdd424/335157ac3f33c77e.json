@@ -1,38 +1,38 @@
 {
-  "name": "cpe:/a:bytecodealliance:wasmtime:8.0.0::~~~rust~~",
-  "title": [
-    {
-      "text": "Bytecode Alliance wasmtime 8.0.0 for Rust",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/wasmtime/versions"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-ch89-5g45-qwc7"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bytecodealliance/wasmtime/commit/0977952dcd9d482bff7c288868ccb52769b3a92e"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/bytecodealliance/wasmtime"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://bytecodealliance.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://crates.io/crates/wasmtime"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bytecodealliance:wasmtime:8.0.0:*:*:*:*:rust:*:*"
-  }
+	"name": "cpe:/a:bytecodealliance:wasmtime:8.0.0::~~~rust~~",
+	"title": [
+		{
+			"text": "Bytecode Alliance wasmtime 8.0.0 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/wasmtime/versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-ch89-5g45-qwc7"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bytecodealliance/wasmtime/commit/0977952dcd9d482bff7c288868ccb52769b3a92e"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/bytecodealliance/wasmtime"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://bytecodealliance.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://crates.io/crates/wasmtime"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bytecodealliance:wasmtime:8.0.0:*:*:*:*:rust:*:*"
+	}
 }

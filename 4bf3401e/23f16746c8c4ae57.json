@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:certificate_system:8.1.20-1",
-  "title": [
-    {
-      "text": "Red Hat Certificate System 8.1.20-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_certificate_system/9/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2017:2560"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:certificate_system:8.1.20-1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:certificate_system:8.1.20-1",
+	"title": [
+		{
+			"text": "Red Hat Certificate System 8.1.20-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_certificate_system/9/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2017:2560"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:certificate_system:8.1.20-1:*:*:*:*:*:*:*"
+	}
 }

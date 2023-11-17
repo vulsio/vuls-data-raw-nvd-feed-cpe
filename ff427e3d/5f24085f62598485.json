@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:nx-os:6.2%288b%29::~~~nexus_7000_series~~",
-  "deprecated": true,
-  "deprecation_date": "2022-04-05T19:19:58.187Z",
-  "title": [
-    {
-      "text": "Cisco NX-OS 6.2(8b) for Nexus 7000 Series",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:nx-os:6.2\\(8b\\):*:*:*:*:nexus_7000_series:*:*",
-    "deprecation": {
-      "date": "2022-04-05T15:19:58.187-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:nx-os:6.2\\(8b\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:nx-os:6.2%288b%29::~~~nexus_7000_series~~",
+	"deprecated": true,
+	"deprecation_date": "2022-04-05T19:19:58.187Z",
+	"title": [
+		{
+			"text": "Cisco NX-OS 6.2(8b) for Nexus 7000 Series",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:nx-os:6.2\\(8b\\):*:*:*:*:nexus_7000_series:*:*",
+		"deprecation": {
+			"date": "2022-04-05T15:19:58.187-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:nx-os:6.2\\(8b\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

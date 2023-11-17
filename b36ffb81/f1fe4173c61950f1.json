@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:business_intelligence:11.1.1.7.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Oracle Business Intelligence Enterprise 11.1.1.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.oracle.com/technetwork/middleware/bi-enterprise-edition/overview/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:business_intelligence:11.1.1.7.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:oracle:business_intelligence:11.1.1.7.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Oracle Business Intelligence Enterprise 11.1.1.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.oracle.com/technetwork/middleware/bi-enterprise-edition/overview/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:business_intelligence:11.1.1.7.0:*:*:*:enterprise:*:*:*"
+	}
 }

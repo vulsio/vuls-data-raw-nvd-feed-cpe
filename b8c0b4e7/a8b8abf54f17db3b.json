@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.18:rc9",
-  "title": [
-    {
-      "text": "Linux Kernel 5.18 Release Candidate 9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://kernel.googlesource.com/pub/scm/linux/kernel/git/rafael/linux-pm/+refs"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/1xxx/CVE-2022-1729.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=3ac6487e584a1eb54071dbe1212e05b884136704"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.18:rc9:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.18:rc9",
+	"title": [
+		{
+			"text": "Linux Kernel 5.18 Release Candidate 9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://kernel.googlesource.com/pub/scm/linux/kernel/git/rafael/linux-pm/+refs"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/1xxx/CVE-2022-1729.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=3ac6487e584a1eb54071dbe1212e05b884136704"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.18:rc9:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:confluent:ansible:5.5.1",
-  "title": [
-    {
-      "text": "Confluent Ansible (cp-ansible) 5.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/confluentinc/cp-ansible/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.confluent.io/#"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.detack.de/en/cve-2021-33924"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:confluent:ansible:5.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:confluent:ansible:5.5.1",
+	"title": [
+		{
+			"text": "Confluent Ansible (cp-ansible) 5.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/confluentinc/cp-ansible/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.confluent.io/#"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.detack.de/en/cve-2021-33924"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:confluent:ansible:5.5.1:*:*:*:*:*:*:*"
+	}
 }

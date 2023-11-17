@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:websockets_project:websockets:9.1",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T14:50:43.073Z",
-  "title": [
-    {
-      "text": "Websockets Project Websockets 9.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/aaugustin/websockets/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:websockets_project:websockets:9.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T09:50:43.073-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:websockets_project:websockets:9.1:*:*:*:*:python:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:websockets_project:websockets:9.1",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T14:50:43.073Z",
+	"title": [
+		{
+			"text": "Websockets Project Websockets 9.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/aaugustin/websockets/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:websockets_project:websockets:9.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T09:50:43.073-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:websockets_project:websockets:9.1:*:*:*:*:python:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

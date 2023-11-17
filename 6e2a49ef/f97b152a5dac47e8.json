@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:manageiq:manageiq:-",
-  "title": [
-    {
-      "text": "ManageIQ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ManageIQ/manageiq/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ManageIQ/manageiq/security/advisories/GHSA-32x4-vj4r-57rq"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.manageiq.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:manageiq:manageiq:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:manageiq:manageiq:-",
+	"title": [
+		{
+			"text": "ManageIQ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ManageIQ/manageiq/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ManageIQ/manageiq/security/advisories/GHSA-32x4-vj4r-57rq"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.manageiq.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:manageiq:manageiq:-:*:*:*:*:*:*:*"
+	}
 }

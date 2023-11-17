@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:student_record_system_project:student_record_system:4.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T21:36:21.653Z",
-  "title": [
-    {
-      "text": "Student Record System Project Student Record System 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/student-record-system-php/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:student_record_system_project:student_record_system:4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T16:36:21.653-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:student_record_system:4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:student_record_system_project:student_record_system:4.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T21:36:21.653Z",
+	"title": [
+		{
+			"text": "Student Record System Project Student Record System 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/student-record-system-php/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:student_record_system_project:student_record_system:4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T16:36:21.653-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:student_record_system:4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

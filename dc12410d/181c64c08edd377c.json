@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:squaredup:squaredup:5.3.1::~~system_center_operations_manager~~~",
-  "title": [
-    {
-      "text": "SquaredUp 5.3.1 System Center Operations Manager (SCOM) Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4406754117521-Release-Notes-for-SquaredUp-for-SCOM"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://download.squaredup.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squaredup:squaredup:5.3.1:*:*:*:system_center_operations_manager:*:*:*"
-  }
+	"name": "cpe:/a:squaredup:squaredup:5.3.1::~~system_center_operations_manager~~~",
+	"title": [
+		{
+			"text": "SquaredUp 5.3.1 System Center Operations Manager (SCOM) Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4406754117521-Release-Notes-for-SquaredUp-for-SCOM"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://download.squaredup.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squaredup:squaredup:5.3.1:*:*:*:system_center_operations_manager:*:*:*"
+	}
 }

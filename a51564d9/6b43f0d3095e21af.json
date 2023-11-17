@@ -1,34 +1,34 @@
 {
-  "name": "cpe:/a:properfraction:profilepress:3.2.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Proper Fraction ProfilePress 3.2.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://plugins.trac.wordpress.org/browser/wp-user-avatar/#tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://properfraction.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://profilepress.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-user-avatar/profilepress-450-authenticated-administrator-stored-cross-site-scripting"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:properfraction:profilepress:3.2.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:properfraction:profilepress:3.2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Proper Fraction ProfilePress 3.2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/wp-user-avatar/#tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://properfraction.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://profilepress.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-user-avatar/profilepress-450-authenticated-administrator-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:properfraction:profilepress:3.2.2:*:*:*:*:wordpress:*:*"
+	}
 }

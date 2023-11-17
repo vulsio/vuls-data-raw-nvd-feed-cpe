@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:pandocupload:1.0.1::~~~mediawiki~~",
-  "title": [
-    {
-      "text": "Microsoft PandocUpload 1.0.1 for MediaWiki",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35333"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/microsoft/MediaWiki-Extensions/tree/main/PandocUpload"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:pandocupload:1.0.1:*:*:*:*:mediawiki:*:*"
-  }
+	"name": "cpe:/a:microsoft:pandocupload:1.0.1::~~~mediawiki~~",
+	"title": [
+		{
+			"text": "Microsoft PandocUpload 1.0.1 for MediaWiki",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35333"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/microsoft/MediaWiki-Extensions/tree/main/PandocUpload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:pandocupload:1.0.1:*:*:*:*:mediawiki:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:microsoft:surface_hub:-",
-  "title": [
-    {
-      "text": "Microsoft Surface Hub",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0702"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/surface/business/surface-hub-2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:microsoft:surface_hub:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:microsoft:surface_hub:-",
+	"title": [
+		{
+			"text": "Microsoft Surface Hub",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0702"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/surface/business/surface-hub-2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:microsoft:surface_hub:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:wdc:diagnostics:1.9.2",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:02:04.543Z",
-  "title": [
-    {
-      "text": "Wdc Diagnostics 1.9.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wdc:diagnostics:1.9.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:02:04.543-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:westerndigital:diagnostics:1.9.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wdc:diagnostics:1.9.2",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:02:04.543Z",
+	"title": [
+		{
+			"text": "Wdc Diagnostics 1.9.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wdc:diagnostics:1.9.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:02:04.543-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:westerndigital:diagnostics:1.9.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

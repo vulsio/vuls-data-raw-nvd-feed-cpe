@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:hashicorp:nomad:1.0.18::~~enterprise~~~",
-  "title": [
-    {
-      "text": "HashiCorp Nomad 1.0.18 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2022-01-nomad-artifact-download-race-condition/35559"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:nomad:1.0.18:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:nomad:1.0.18::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Nomad 1.0.18 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2022-01-nomad-artifact-download-race-condition/35559"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:nomad:1.0.18:*:*:*:enterprise:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:joyent:sshpk:1.13.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Joyent sshpk 1.13.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.joyent.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/joyent/node-sshpk#readme"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/sshpk"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:joyent:sshpk:1.13.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:joyent:sshpk:1.13.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Joyent sshpk 1.13.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.joyent.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/joyent/node-sshpk#readme"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/sshpk"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joyent:sshpk:1.13.1:*:*:*:*:node.js:*:*"
+	}
 }

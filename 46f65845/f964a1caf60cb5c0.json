@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:advancedcustomfields:advanced_custom_fields:5.9.1::~~pro~wordpress~~",
-  "title": [
-    {
-      "text": "ACF Advanced Custom Fields 5.9.1 Pro Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/d1e9c995-37bd-4952-b88e-945e02e3c83f"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.advancedcustomfields.com/pro/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.9.1:*:*:*:pro:wordpress:*:*"
-  }
+	"name": "cpe:/a:advancedcustomfields:advanced_custom_fields:5.9.1::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "ACF Advanced Custom Fields 5.9.1 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/d1e9c995-37bd-4952-b88e-945e02e3c83f"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.advancedcustomfields.com/pro/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:advancedcustomfields:advanced_custom_fields:5.9.1:*:*:*:pro:wordpress:*:*"
+	}
 }

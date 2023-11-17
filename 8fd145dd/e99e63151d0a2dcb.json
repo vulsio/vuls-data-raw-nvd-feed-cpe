@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pango:pango:1.42.3",
-  "deprecated": true,
-  "deprecation_date": "2021-07-14T15:41:14.683Z",
-  "title": [
-    {
-      "text": "Pango 1.42.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.pango.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/GNOME/pango/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pango:pango:1.42.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-14T11:41:14.683-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gnome:pango:1.42.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pango:pango:1.42.3",
+	"deprecated": true,
+	"deprecation_date": "2021-07-14T15:41:14.683Z",
+	"title": [
+		{
+			"text": "Pango 1.42.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.pango.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/GNOME/pango/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pango:pango:1.42.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-14T11:41:14.683-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gnome:pango:1.42.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

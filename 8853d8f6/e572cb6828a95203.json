@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:database_server:18",
-  "title": [
-    {
-      "text": "Oracle Database Server 18",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:database_server:18:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:database_server:18",
+	"title": [
+		{
+			"text": "Oracle Database Server 18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/technetwork/security-advisory/alert-cve-2018-3110-5032149.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:database_server:18:*:*:*:*:*:*:*"
+	}
 }

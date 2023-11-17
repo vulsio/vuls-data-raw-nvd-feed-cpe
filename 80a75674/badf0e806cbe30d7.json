@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hexagongeospatial:geomedia_webmap:16.6.2.66",
-  "title": [
-    {
-      "text": "HEXAGON GeoMedia WebMap 16.6.2.66",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.silentgrid.com/blog/cve-2021-37749-hexagon-geomedia-webmap-2020-blind-sql-injection/#overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/37xxx/CVE-2021-37749.json"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://download.hexagongeospatial.com/en/downloads/webgis/geomedia-webmap-2020-update-2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hexagongeospatial:geomedia_webmap:16.6.2.66:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hexagongeospatial:geomedia_webmap:16.6.2.66",
+	"title": [
+		{
+			"text": "HEXAGON GeoMedia WebMap 16.6.2.66",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.silentgrid.com/blog/cve-2021-37749-hexagon-geomedia-webmap-2020-blind-sql-injection/#overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/37xxx/CVE-2021-37749.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://download.hexagongeospatial.com/en/downloads/webgis/geomedia-webmap-2020-update-2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hexagongeospatial:geomedia_webmap:16.6.2.66:*:*:*:*:*:*:*"
+	}
 }

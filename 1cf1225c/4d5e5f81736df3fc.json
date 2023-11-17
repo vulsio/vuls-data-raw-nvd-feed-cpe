@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:juniper:csrx:-",
-  "title": [
-    {
-      "text": "Juniper CSRX",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.juniper.net/us/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10968&actp=METADATA"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.juniper.net/documentation/product/en_US/junos-os#cat=release_notes&tab=release_19.1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:juniper:csrx:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:juniper:csrx:-",
+	"title": [
+		{
+			"text": "Juniper CSRX",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.juniper.net/us/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10968&actp=METADATA"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/en_US/junos-os#cat=release_notes&tab=release_19.1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:juniper:csrx:-:*:*:*:*:*:*:*"
+	}
 }

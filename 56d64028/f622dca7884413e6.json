@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:discourse:discourse_jira:2023-10-01::~~~discourse~~",
-  "title": [
-    {
-      "text": "Discourse Jira 2023-10-01 for Discourse",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/discourse/discourse-jira/security/advisories/GHSA-pmv5-h2x6-35fh"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/discourse/discourse-jira/commits/main"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/discourse/discourse-jira"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:discourse:discourse_jira:2023-10-01:*:*:*:*:discourse:*:*"
-  }
+	"name": "cpe:/a:discourse:discourse_jira:2023-10-01::~~~discourse~~",
+	"title": [
+		{
+			"text": "Discourse Jira 2023-10-01 for Discourse",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/discourse/discourse-jira/security/advisories/GHSA-pmv5-h2x6-35fh"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/discourse/discourse-jira/commits/main"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/discourse/discourse-jira"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:discourse:discourse_jira:2023-10-01:*:*:*:*:discourse:*:*"
+	}
 }

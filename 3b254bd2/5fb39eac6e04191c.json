@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:ui:edgerouter_x:-",
-  "title": [
-    {
-      "text": "Ubiquiti Edgerouter X -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://dl.ubnt.com/datasheets/edgemax/EdgeRouter_X_DS.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/1xxx/CVE-2023-1456.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ui:edgerouter_x:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:ui:edgerouter_x:-",
+	"title": [
+		{
+			"text": "Ubiquiti Edgerouter X -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://dl.ubnt.com/datasheets/edgemax/EdgeRouter_X_DS.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/1xxx/CVE-2023-1456.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ui:edgerouter_x:-:*:*:*:*:*:*:*"
+	}
 }

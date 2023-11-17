@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:dell:sonicwall_uma_em5000_firmware:7.2",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T13:05:34.297Z",
-  "title": [
-    {
-      "text": "Dell SonicWALL UMA EM5000 Firmware 7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.software.dell.com/sonicwall-uma/release-notes-guides"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:sonicwall_uma_em5000_firmware:7.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T09:05:34.297-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:sonicwall:uma_em5000_firmware:7.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:dell:sonicwall_uma_em5000_firmware:7.2",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T13:05:34.297Z",
+	"title": [
+		{
+			"text": "Dell SonicWALL UMA EM5000 Firmware 7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.software.dell.com/sonicwall-uma/release-notes-guides"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:sonicwall_uma_em5000_firmware:7.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T09:05:34.297-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:sonicwall:uma_em5000_firmware:7.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

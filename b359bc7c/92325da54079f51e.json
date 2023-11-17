@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:emerson:openenterprise_scada_server:3.1",
-  "title": [
-    {
-      "text": "Emerson OpenEnterprise SCADA Server 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-049-02"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.emerson.com/en-us/catalog/emerson-openenterprise-scada-systems"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emerson:openenterprise_scada_server:3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:emerson:openenterprise_scada_server:3.1",
+	"title": [
+		{
+			"text": "Emerson OpenEnterprise SCADA Server 3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsa-20-049-02"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.emerson.com/en-us/catalog/emerson-openenterprise-scada-systems"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emerson:openenterprise_scada_server:3.1:*:*:*:*:*:*:*"
+	}
 }

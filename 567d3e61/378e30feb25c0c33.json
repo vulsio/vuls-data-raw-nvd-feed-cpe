@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mcafee:mcafee_agent:5.6.6::~~~windows~~",
-  "title": [
-    {
-      "text": "McAfee Agent (MA) 5.6.6 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mcafee.com/enterprise/en-us/downloads/trials/epo-mcafee-agent-deployment.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://kc.mcafee.com/corporate/index?page=content&id=SB10325"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mcafee:mcafee_agent:5.6.6:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:mcafee:mcafee_agent:5.6.6::~~~windows~~",
+	"title": [
+		{
+			"text": "McAfee Agent (MA) 5.6.6 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mcafee.com/enterprise/en-us/downloads/trials/epo-mcafee-agent-deployment.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://kc.mcafee.com/corporate/index?page=content&id=SB10325"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mcafee:mcafee_agent:5.6.6:*:*:*:*:windows:*:*"
+	}
 }

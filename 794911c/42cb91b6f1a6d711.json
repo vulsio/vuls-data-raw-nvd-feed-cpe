@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tapplock:one%2b_firmware:-",
-  "title": [
-    {
-      "text": "Tapplock One+ Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/"
-    },
-    {
-      "text": "Product",
-      "href": "https://tapplock.com/oneplus/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tapplock:one\\+_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tapplock:one%2b_firmware:-",
+	"title": [
+		{
+			"text": "Tapplock One+ Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentestpartners.com/security-blog/totally-pwning-the-tapplock-smart-lock/"
+		},
+		{
+			"text": "Product",
+			"href": "https://tapplock.com/oneplus/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tapplock:one\\+_firmware:-:*:*:*:*:*:*:*"
+	}
 }

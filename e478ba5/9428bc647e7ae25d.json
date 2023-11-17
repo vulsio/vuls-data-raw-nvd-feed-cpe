@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:php:php:4.0.6",
-  "deprecated": true,
-  "deprecation_date": "2019-06-07T18:56:05.563Z",
-  "title": [
-    {
-      "text": "PHP PHP 4.0.6",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:php:php:4.0.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-07T14:56:05.563-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:php:php:4.0.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:php:php:4.0.6",
+	"deprecated": true,
+	"deprecation_date": "2019-06-07T18:56:05.563Z",
+	"title": [
+		{
+			"text": "PHP PHP 4.0.6",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:php:php:4.0.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-07T14:56:05.563-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:php:php:4.0.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:cisco:vedge_cloud_firmware:-",
-  "title": [
-    {
-      "text": "Cisco vEdge Cloud Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.cisco.com/download/home/286320990/type/286321106/release/20.4.2?i=!pp"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-vedge-routers-data-sheet-cte-en.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-buffover-MWGucjtO"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:vedge_cloud_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:vedge_cloud_firmware:-",
+	"title": [
+		{
+			"text": "Cisco vEdge Cloud Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.cisco.com/download/home/286320990/type/286321106/release/20.4.2?i=!pp"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/solutions/collateral/enterprise-networks/sd-wan/nb-07-vedge-routers-data-sheet-cte-en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-buffover-MWGucjtO"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:vedge_cloud_firmware:-:*:*:*:*:*:*:*"
+	}
 }

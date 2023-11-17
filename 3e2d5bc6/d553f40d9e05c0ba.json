@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:cisco:3504_wireless_lan_controller:-",
-  "title": [
-    {
-      "text": "Cisco 3504 Wireless LAN Controller",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/collateral/wireless/3504-wireless-controller/datasheet-c78-738484.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-dos-mKGRrsCB"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwa40778"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:3504_wireless_lan_controller:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cisco:3504_wireless_lan_controller:-",
+	"title": [
+		{
+			"text": "Cisco 3504 Wireless LAN Controller",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/collateral/wireless/3504-wireless-controller/datasheet-c78-738484.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-dos-mKGRrsCB"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwa40778"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:3504_wireless_lan_controller:-:*:*:*:*:*:*:*"
+	}
 }

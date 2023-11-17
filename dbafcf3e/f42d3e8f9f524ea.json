@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:trustwave:modsecurity:3.0.9",
-  "title": [
-    {
-      "text": "Trustwave ModSecurity 3.0.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.trustwave.com/en-us/resources/security-resources/software-updates/announcing-modsecurity-version-309/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.trustwave.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.modsecurity.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/SpiderLabs/ModSecurity/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:trustwave:modsecurity:3.0.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:trustwave:modsecurity:3.0.9",
+	"title": [
+		{
+			"text": "Trustwave ModSecurity 3.0.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.trustwave.com/en-us/resources/security-resources/software-updates/announcing-modsecurity-version-309/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.trustwave.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.modsecurity.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/SpiderLabs/ModSecurity/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:trustwave:modsecurity:3.0.9:*:*:*:*:*:*:*"
+	}
 }

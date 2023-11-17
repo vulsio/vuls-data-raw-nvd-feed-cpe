@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:go-cvss_project:go-cvss:0.2.0::~~~go~~",
-  "deprecated": true,
-  "deprecation_date": "2023-08-18T15:31:59.203Z",
-  "title": [
-    {
-      "text": "Go-CVSS Project Go-CVSS 0.2.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/pandatix/go-cvss"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:go-cvss_project:go-cvss:0.2.0:*:*:*:*:go:*:*",
-    "deprecation": {
-      "date": "2023-08-18T11:31:59.203-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pandatix:go-cvss:0.2.0:*:*:*:*:go:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:go-cvss_project:go-cvss:0.2.0::~~~go~~",
+	"deprecated": true,
+	"deprecation_date": "2023-08-18T15:31:59.203Z",
+	"title": [
+		{
+			"text": "Go-CVSS Project Go-CVSS 0.2.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/pandatix/go-cvss"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:go-cvss_project:go-cvss:0.2.0:*:*:*:*:go:*:*",
+		"deprecation": {
+			"date": "2023-08-18T11:31:59.203-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pandatix:go-cvss:0.2.0:*:*:*:*:go:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

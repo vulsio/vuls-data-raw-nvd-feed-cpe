@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:30.4",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T13:05:19.230Z",
-  "title": [
-    {
-      "text": "Pivotal Software Cloud Foundry (PCF) UAA BOSH 30.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://pivotal.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/cloudfoundry"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/bosh"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:30.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T09:05:19.230-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:cloud_foundry_uaa_bosh:30.4",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T13:05:19.230Z",
+	"title": [
+		{
+			"text": "Pivotal Software Cloud Foundry (PCF) UAA BOSH 30.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pivotal.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudfoundry"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/bosh"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_bosh:30.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T09:05:19.230-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:30.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

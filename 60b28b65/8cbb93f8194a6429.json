@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:plib_project:plib:1.85",
-  "deprecated": true,
-  "deprecation_date": "2021-09-08T15:06:30.277Z",
-  "title": [
-    {
-      "text": "Plib Project Plib 1.85",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sourceforge.net/p/plib/bugs/55/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plib_project:plib:1.85:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-08T11:06:30.277-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:plib_project:plib:1.85",
+	"deprecated": true,
+	"deprecation_date": "2021-09-08T15:06:30.277Z",
+	"title": [
+		{
+			"text": "Plib Project Plib 1.85",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sourceforge.net/p/plib/bugs/55/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plib_project:plib:1.85:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-08T11:06:30.277-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:plib_project:plib:1.8.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

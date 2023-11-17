@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:web_customizations:0.1::~~~active_directory_federation_services~~",
-  "title": [
-    {
-      "text": "Microsoft Web Customizations 0.1 for Active Directory Federation Services",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8326"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Microsoft/adfsWebCustomization/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:web_customizations:0.1:*:*:*:*:active_directory_federation_services:*:*"
-  }
+	"name": "cpe:/a:microsoft:web_customizations:0.1::~~~active_directory_federation_services~~",
+	"title": [
+		{
+			"text": "Microsoft Web Customizations 0.1 for Active Directory Federation Services",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8326"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Microsoft/adfsWebCustomization/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:web_customizations:0.1:*:*:*:*:active_directory_federation_services:*:*"
+	}
 }

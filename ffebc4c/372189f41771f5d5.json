@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:codexshaper:wp_oauth2_server:1.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "CodexShaper WP Oauth2 Server 1.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.codesxshaper.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/oauth2-server/wordpress-wp-oauth2-server-plugin-1-0-1-authentication-bypass-vulnerability"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/oauth2-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:codexshaper:wp_oauth2_server:1.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:codexshaper:wp_oauth2_server:1.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CodexShaper WP Oauth2 Server 1.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.codesxshaper.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/oauth2-server/wordpress-wp-oauth2-server-plugin-1-0-1-authentication-bypass-vulnerability"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/oauth2-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:codexshaper:wp_oauth2_server:1.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nvidia:virtual_gpu_manager:8.5",
-  "title": [
-    {
-      "text": "NVIDIA Virtual GPU Manager (vGPU) 8.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5075"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.nvidia.com/grid/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvidia:virtual_gpu_manager:8.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nvidia:virtual_gpu_manager:8.5",
+	"title": [
+		{
+			"text": "NVIDIA Virtual GPU Manager (vGPU) 8.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5075"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.nvidia.com/grid/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:virtual_gpu_manager:8.5:*:*:*:*:*:*:*"
+	}
 }

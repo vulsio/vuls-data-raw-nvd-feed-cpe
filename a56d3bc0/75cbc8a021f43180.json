@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/h:intel:core_5405u:-",
-  "title": [
-    {
-      "text": "Intel Core 5405U",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:core_5405u:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:core_5405u:-",
+	"title": [
+		{
+			"text": "Intel Core 5405U",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:core_5405u:-:*:*:*:*:*:*:*"
+	}
 }

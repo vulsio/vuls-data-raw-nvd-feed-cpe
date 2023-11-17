@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:xen:xen:4.15.0::~~~~x86~",
-  "title": [
-    {
-      "text": "Xen 4.15.0 on x86",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wiki.xenproject.org/wiki/Xen_Project_4.15_Release_Notes"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://xenproject.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://xenbits.xenproject.org/xsa/advisory-390.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:xen:xen:4.15.0:*:*:*:*:*:x86:*"
-  }
+	"name": "cpe:/o:xen:xen:4.15.0::~~~~x86~",
+	"title": [
+		{
+			"text": "Xen 4.15.0 on x86",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wiki.xenproject.org/wiki/Xen_Project_4.15_Release_Notes"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://xenproject.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://xenbits.xenproject.org/xsa/advisory-390.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:xen:xen:4.15.0:*:*:*:*:*:x86:*"
+	}
 }

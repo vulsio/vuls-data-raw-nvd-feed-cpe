@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:openbsd:openbsd:4.2",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:01.540Z",
-  "title": [
-    {
-      "text": "OpenBSD 4.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openbsd:4.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:01.540-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:openbsd:openbsd:4.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openbsd:openbsd:4.2",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:01.540Z",
+	"title": [
+		{
+			"text": "OpenBSD 4.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openbsd:4.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:01.540-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:openbsd:openbsd:4.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

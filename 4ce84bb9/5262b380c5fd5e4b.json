@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:nextcloud:nextcloud_server:15.0.8",
-  "deprecated": true,
-  "deprecation_date": "2020-02-06T20:40:48.343Z",
-  "title": [
-    {
-      "text": "Nextcloud Server 15.0.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://nextcloud.com/changelog/#latest9"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-06T15:40:48.343-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nextcloud:nextcloud_server:15.0.8",
+	"deprecated": true,
+	"deprecation_date": "2020-02-06T20:40:48.343Z",
+	"title": [
+		{
+			"text": "Nextcloud Server 15.0.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://nextcloud.com/changelog/#latest9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-06T15:40:48.343-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nextcloud:nextcloud_server:15.0.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

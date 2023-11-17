@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:spiped_alpine_docker_image:-",
-  "title": [
-    {
-      "text": "Docker Spiped Alpine Docker Image",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/spiped"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29581"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:spiped_alpine_docker_image:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:spiped_alpine_docker_image:-",
+	"title": [
+		{
+			"text": "Docker Spiped Alpine Docker Image",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/spiped"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29581"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:spiped_alpine_docker_image:-:*:*:*:*:*:*:*"
+	}
 }

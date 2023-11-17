@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:apache:subversion:1.8.4",
-  "title": [
-    {
-      "text": "Apache Software Foundation Subversion 1.8.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor advisory for CVE-2013-4505",
-      "href": "http://subversion.apache.org/security/CVE-2013-4505-advisory.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:subversion:1.8.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:subversion:1.8.4",
+	"title": [
+		{
+			"text": "Apache Software Foundation Subversion 1.8.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor advisory for CVE-2013-4505",
+			"href": "http://subversion.apache.org/security/CVE-2013-4505-advisory.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:subversion:1.8.4:*:*:*:*:*:*:*"
+	}
 }

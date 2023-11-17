@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:huawei:atune:0.3",
-  "title": [
-    {
-      "text": "Huawei Atune 0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33658.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.openeuler.org/en/docs/20.03_LTS/docs/A-Tune/A-Tune.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.openeuler.org/zh/security/safety-bulletin/detail.html?id=openEuler-SA-2022-1541"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:huawei:atune:0.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:huawei:atune:0.3",
+	"title": [
+		{
+			"text": "Huawei Atune 0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33658.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.openeuler.org/en/docs/20.03_LTS/docs/A-Tune/A-Tune.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openeuler.org/zh/security/safety-bulletin/detail.html?id=openEuler-SA-2022-1541"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:huawei:atune:0.3:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextauth.js:next-auth:3.19.2::~~~node.js~~",
-  "title": [
-    {
-      "text": "NextAuth.js next-auth 3.19.2 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextauthjs/next-auth/security/advisories/GHSA-q2mx-j4x2-2h74"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nextauthjs/next-auth/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextauth.js:next-auth:3.19.2:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:nextauth.js:next-auth:3.19.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "NextAuth.js next-auth 3.19.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextauthjs/next-auth/security/advisories/GHSA-q2mx-j4x2-2h74"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextauthjs/next-auth/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextauth.js:next-auth:3.19.2:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:elenos:etg150_firmware:3.12",
-  "title": [
-    {
-      "text": "Elenos ETG150 Firmware 3.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://strik3r.gitbook.io/strik3r-blog/security-research/cves-pocs/cve-2023-34672"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.elenos.com/low-power/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:elenos:etg150_firmware:3.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:elenos:etg150_firmware:3.12",
+	"title": [
+		{
+			"text": "Elenos ETG150 Firmware 3.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://strik3r.gitbook.io/strik3r-blog/security-research/cves-pocs/cve-2023-34672"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.elenos.com/low-power/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:elenos:etg150_firmware:3.12:*:*:*:*:*:*:*"
+	}
 }

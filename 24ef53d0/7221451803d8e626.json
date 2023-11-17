@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:srt100:10.00.38",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:49.637Z",
-  "title": [
-    {
-      "text": "ヤマハ SRT100 10.00.38",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha SRT100 10.00.38",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:srt100:10.00.38:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:49.637-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:srt100:10.00.38:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:srt100:10.00.38",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:49.637Z",
+	"title": [
+		{
+			"text": "ヤマハ SRT100 10.00.38",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha SRT100 10.00.38",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:srt100:10.00.38:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:49.637-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:srt100:10.00.38:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

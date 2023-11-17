@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_enterprise_job_manager:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:27:49.293Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Enterprise Job Manager",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:27:49.293-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_enterprise_job_manager:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:27:49.293Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Enterprise Job Manager",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:27:49.293-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_enterprise_job_manager:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

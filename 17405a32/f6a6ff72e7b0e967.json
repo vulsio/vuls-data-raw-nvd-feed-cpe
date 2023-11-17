@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:intel:microcode:20201110",
-  "title": [
-    {
-      "text": "Intel Microcode 20201110",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00464.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/blob/main/releasenote.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:microcode:20201110:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:microcode:20201110",
+	"title": [
+		{
+			"text": "Intel Microcode 20201110",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00464.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/releases"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/intel/Intel-Linux-Processor-Microcode-Data-Files/blob/main/releasenote.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:microcode:20201110:*:*:*:*:*:*:*"
+	}
 }

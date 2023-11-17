@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:bart:-::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins BART for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/bart-plugin"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/bart/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-11-15/#SECURITY-2802"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:bart:-:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:bart:-::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins BART for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/bart-plugin"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/bart/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-11-15/#SECURITY-2802"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:bart:-:*:*:*:*:jenkins:*:*"
+	}
 }

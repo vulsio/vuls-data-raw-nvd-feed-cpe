@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:apache:nifi:1.7.0",
-  "deprecated": true,
-  "deprecation_date": "2020-02-19T13:20:42.823Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation NiFi 1.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/apache/nifi/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:nifi:1.7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-19T08:20:42.823-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:nifi:1.7.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:nifi:1.7.0",
+	"deprecated": true,
+	"deprecation_date": "2020-02-19T13:20:42.823Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation NiFi 1.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/apache/nifi/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:nifi:1.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-19T08:20:42.823-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:nifi:1.7.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:python:python:3.1",
-  "deprecated": true,
-  "deprecation_date": "2020-07-09T16:18:53.417Z",
-  "title": [
-    {
-      "text": "Python 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python:python:3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-09T12:18:53.417-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:python:python:3.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:python:python:3.1",
+	"deprecated": true,
+	"deprecation_date": "2020-07-09T16:18:53.417Z",
+	"title": [
+		{
+			"text": "Python 3.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python:python:3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-09T12:18:53.417-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:python:3.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:nx-os:6.0%282%29a6%281%29::~~~nexus_3000_series~~",
-  "deprecated": true,
-  "deprecation_date": "2022-04-05T16:44:38.797Z",
-  "title": [
-    {
-      "text": "Cisco NX-OS 6.0(2)a6(1) for Nexus 3000 Series",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:nx-os:6.0\\(2\\)a6\\(1\\):*:*:*:*:nexus_3000_series:*:*",
-    "deprecation": {
-      "date": "2022-04-05T12:44:38.797-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:nx-os:6.0\\(2\\)a6\\(1\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:nx-os:6.0%282%29a6%281%29::~~~nexus_3000_series~~",
+	"deprecated": true,
+	"deprecation_date": "2022-04-05T16:44:38.797Z",
+	"title": [
+		{
+			"text": "Cisco NX-OS 6.0(2)a6(1) for Nexus 3000 Series",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/en/us/products/ios-nx-os-software/nx-os/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:nx-os:6.0\\(2\\)a6\\(1\\):*:*:*:*:nexus_3000_series:*:*",
+		"deprecation": {
+			"date": "2022-04-05T12:44:38.797-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:nx-os:6.0\\(2\\)a6\\(1\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

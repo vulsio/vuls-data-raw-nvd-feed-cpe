@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:intel:active_management_technology:3.2",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T21:43:10.670Z",
-  "title": [
-    {
-      "text": "Intel Active Management Technology (AMT) Firmware 3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/architecture-and-technology/intel-active-management-technology.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:active_management_technology:3.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T17:43:10.670-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:intel:active_management_technology_firmware:3.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:active_management_technology:3.2",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T21:43:10.670Z",
+	"title": [
+		{
+			"text": "Intel Active Management Technology (AMT) Firmware 3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/architecture-and-technology/intel-active-management-technology.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:active_management_technology:3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T17:43:10.670-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:intel:active_management_technology_firmware:3.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

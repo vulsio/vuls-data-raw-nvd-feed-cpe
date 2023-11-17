@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpeasypay:wp_easypay:4.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WP EasyPay 4.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-4/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wpeasypay.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-easy-pay/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpeasypay:wp_easypay:4.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpeasypay:wp_easypay:4.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP EasyPay 4.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.nintechnet.com/multiple-wordpress-plugins-fixed-csrf-vulnerabilities-part-4/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpeasypay.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-easy-pay/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpeasypay:wp_easypay:4.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:fastify:passport:1.1.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Fastify Passport 1.1.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/fastify/fastify-passport/security/advisories/GHSA-4m3m-ppvx-xgw9"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.fastify.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/fastify/fastify-passport/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fastify:passport:1.1.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:fastify:passport:1.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Fastify Passport 1.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fastify/fastify-passport/security/advisories/GHSA-4m3m-ppvx-xgw9"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.fastify.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/fastify/fastify-passport/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fastify:passport:1.1.0:*:*:*:*:node.js:*:*"
+	}
 }

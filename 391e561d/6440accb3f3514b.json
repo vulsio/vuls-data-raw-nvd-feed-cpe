@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:finn:podium_proxy:4.2.74::~~~node.js~~",
-  "title": [
-    {
-      "text": "FINN Podium Proxy 4.2.74 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://podium-lib.io/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.finn.no/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/podium-lib/proxy/security/advisories/GHSA-3hjg-vc7r-rcrw"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:finn:podium_proxy:4.2.74:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:finn:podium_proxy:4.2.74::~~~node.js~~",
+	"title": [
+		{
+			"text": "FINN Podium Proxy 4.2.74 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://podium-lib.io/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.finn.no/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/podium-lib/proxy/security/advisories/GHSA-3hjg-vc7r-rcrw"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:finn:podium_proxy:4.2.74:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:suse:wrangler:0.6.0",
-  "title": [
-    {
-      "text": "SUSE Wrangler 0.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/rancher/wrangler/security/advisories/GHSA-qrg7-hfx7-95c5"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/rancher/wrangler/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.rancher.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:suse:wrangler:0.6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:suse:wrangler:0.6.0",
+	"title": [
+		{
+			"text": "SUSE Wrangler 0.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/rancher/wrangler/security/advisories/GHSA-qrg7-hfx7-95c5"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rancher/wrangler/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.rancher.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:suse:wrangler:0.6.0:*:*:*:*:*:*:*"
+	}
 }

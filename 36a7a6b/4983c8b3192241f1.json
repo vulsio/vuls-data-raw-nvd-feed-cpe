@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:subversion:1.21::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Subversion 1.21 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/subversion"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/subversion-plugin/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:subversion:1.21:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:subversion:1.21::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Subversion 1.21 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/subversion"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/subversion-plugin/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:subversion:1.21:*:*:*:*:jenkins:*:*"
+	}
 }

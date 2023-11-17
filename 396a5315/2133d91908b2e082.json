@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:matt_johnston:dropbear_ssh_server:0.45",
-  "deprecated": true,
-  "deprecation_date": "2018-09-20T11:53:06.540Z",
-  "title": [
-    {
-      "text": "Matt Johnston Dropbear SSH Server 0.45",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://matt.ucc.asn.au/dropbear/CHANGES"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:matt_johnston:dropbear_ssh_server:0.45:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-09-20T07:53:06.540-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.45:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:matt_johnston:dropbear_ssh_server:0.45",
+	"deprecated": true,
+	"deprecation_date": "2018-09-20T11:53:06.540Z",
+	"title": [
+		{
+			"text": "Matt Johnston Dropbear SSH Server 0.45",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://matt.ucc.asn.au/dropbear/CHANGES"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matt_johnston:dropbear_ssh_server:0.45:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-09-20T07:53:06.540-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dropbear_ssh_project:dropbear_ssh:0.45:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

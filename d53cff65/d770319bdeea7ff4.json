@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:qemu:qemu:2021-05-05",
-  "title": [
-    {
-      "text": "QEMU 2021-05-05",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.qemu.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/qemu-project/qemu/-/commit/05a40b172e4d691371534828078be47e7fff524c"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1955695"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qemu:qemu:2021-05-05:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:qemu:qemu:2021-05-05",
+	"title": [
+		{
+			"text": "QEMU 2021-05-05",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.qemu.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/qemu-project/qemu/-/commit/05a40b172e4d691371534828078be47e7fff524c"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1955695"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qemu:qemu:2021-05-05:*:*:*:*:*:*:*"
+	}
 }

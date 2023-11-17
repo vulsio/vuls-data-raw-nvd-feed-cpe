@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:novell:suse_linux_enterprise_software_development_kit:12.0",
-  "deprecated": true,
-  "deprecation_date": "2023-09-12T14:55:30.387Z",
-  "title": [
-    {
-      "text": "Novell Suse Linux Enterprise Software Development Kit 12.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.suse.com/releasenotes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:novell:suse_linux_enterprise_software_development_kit:12.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-12T10:55:30.387-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:novell:suse_linux_enterprise_software_development_kit:12.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:novell:suse_linux_enterprise_software_development_kit:12.0",
+	"deprecated": true,
+	"deprecation_date": "2023-09-12T14:55:30.387Z",
+	"title": [
+		{
+			"text": "Novell Suse Linux Enterprise Software Development Kit 12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.suse.com/releasenotes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:novell:suse_linux_enterprise_software_development_kit:12.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-12T10:55:30.387-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:novell:suse_linux_enterprise_software_development_kit:12.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

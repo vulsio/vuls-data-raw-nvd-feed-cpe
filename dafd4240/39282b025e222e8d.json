@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:netgear:wnce3001_firmware:-",
-  "title": [
-    {
-      "text": "NETGEAR WNCE3001 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.netgear.com/support/product/WNCE3001.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netgear:wnce3001_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netgear:wnce3001_firmware:-",
+	"title": [
+		{
+			"text": "NETGEAR WNCE3001 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zer0yu/CVE_Request/blob/master/netgear/Netgear_W104_unauthorized_access_vulnerability_second.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.netgear.com/support/product/WNCE3001.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netgear:wnce3001_firmware:-:*:*:*:*:*:*:*"
+	}
 }

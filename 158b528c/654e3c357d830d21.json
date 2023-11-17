@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:moova:moova_for_woocommerce:3.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Moova for WooCommerce 3.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34664"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/moova-for-woocommerce/#developers"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://moova.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://plugins.trac.wordpress.org/browser/moova-for-woocommerce/#tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moova:moova_for_woocommerce:3.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:moova:moova_for_woocommerce:3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Moova for WooCommerce 3.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34664"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/moova-for-woocommerce/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://moova.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/moova-for-woocommerce/#tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moova:moova_for_woocommerce:3.1:*:*:*:*:wordpress:*:*"
+	}
 }

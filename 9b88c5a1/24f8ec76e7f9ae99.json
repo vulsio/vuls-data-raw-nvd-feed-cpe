@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:knot-resolver:knot_resolver:4.2.2",
-  "deprecated": true,
-  "deprecation_date": "2019-11-06T17:32:14.267Z",
-  "title": [
-    {
-      "text": "Knot Resolver 4.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.knot-resolver.cz/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/CZ-NIC/knot-resolver/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:knot-resolver:knot_resolver:4.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-06T12:32:14.267-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nic:knot_resolver:4.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:knot-resolver:knot_resolver:4.2.2",
+	"deprecated": true,
+	"deprecation_date": "2019-11-06T17:32:14.267Z",
+	"title": [
+		{
+			"text": "Knot Resolver 4.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.knot-resolver.cz/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/CZ-NIC/knot-resolver/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:knot-resolver:knot_resolver:4.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-06T12:32:14.267-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nic:knot_resolver:4.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

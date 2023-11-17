@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:libevent_project:libevent:2.1.1",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T15:12:04.550Z",
-  "title": [
-    {
-      "text": "Libevent Project Libevent 2.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/libevent/libevent"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://libevent.org/old-releases.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://libevent.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libevent_project:libevent:2.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T10:12:04.550-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libevent_project:libevent:2.1.1:alpha:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libevent_project:libevent:2.1.1",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T15:12:04.550Z",
+	"title": [
+		{
+			"text": "Libevent Project Libevent 2.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/libevent/libevent"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://libevent.org/old-releases.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://libevent.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libevent_project:libevent:2.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T10:12:04.550-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libevent_project:libevent:2.1.1:alpha:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

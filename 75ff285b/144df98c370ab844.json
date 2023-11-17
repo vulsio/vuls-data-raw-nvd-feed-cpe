@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:vm_virtualbox:7.0.2",
-  "title": [
-    {
-      "text": "Oracle VM VirtualBox 7.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujan2023.html#AppendixSCP"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.virtualbox.org/wiki/Changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:vm_virtualbox:7.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:vm_virtualbox:7.0.2",
+	"title": [
+		{
+			"text": "Oracle VM VirtualBox 7.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2023.html#AppendixSCP"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.virtualbox.org/wiki/Changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:vm_virtualbox:7.0.2:*:*:*:*:*:*:*"
+	}
 }

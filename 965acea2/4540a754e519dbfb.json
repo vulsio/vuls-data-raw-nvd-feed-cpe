@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ni:labview:2021:-:~~community~~~",
-  "title": [
-    {
-      "text": "National Instruments LabVIEW 2021 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.ni.com/en-us.html#"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ni.com/en-us/support/documentation/supplemental/22/cross-site-scripting-vulnerability--in-ni-web-server-component.html#"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ni:labview:2021:-:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:ni:labview:2021:-:~~community~~~",
+	"title": [
+		{
+			"text": "National Instruments LabVIEW 2021 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.ni.com/en-us.html#"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ni.com/en-us/support/documentation/supplemental/22/cross-site-scripting-vulnerability--in-ni-web-server-component.html#"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ni:labview:2021:-:*:*:community:*:*:*"
+	}
 }

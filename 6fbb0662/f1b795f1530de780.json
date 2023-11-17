@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:peter_butler:timthumb_vulnerability_scanner:1.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-10-12T17:08:18.013Z",
-  "title": [
-    {
-      "text": "Peter Butler Timthumb Vulnerability Scanner 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/timthumb-vulnerability-scanner/#description"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/timthumb-vulnerability-scanner/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:peter_butler:timthumb_vulnerability_scanner:1.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-10-12T13:08:18.013-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:peterbutler:timthumb_vulnerability_scanner:1.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:peter_butler:timthumb_vulnerability_scanner:1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-10-12T17:08:18.013Z",
+	"title": [
+		{
+			"text": "Peter Butler Timthumb Vulnerability Scanner 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/timthumb-vulnerability-scanner/#description"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/timthumb-vulnerability-scanner/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:peter_butler:timthumb_vulnerability_scanner:1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-10-12T13:08:18.013-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:peterbutler:timthumb_vulnerability_scanner:1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:closure-util_project:closure-util:0.3.0::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2019-10-08T11:32:59.627Z",
-  "title": [
-    {
-      "text": "closure-util Project closure-util 0.3.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/closure-util"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:closure-util_project:closure-util:0.3.0:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2019-10-08T07:32:59.627-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openlayers:closure-util:0.3.0:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:closure-util_project:closure-util:0.3.0::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2019-10-08T11:32:59.627Z",
+	"title": [
+		{
+			"text": "closure-util Project closure-util 0.3.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/closure-util"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:closure-util_project:closure-util:0.3.0:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2019-10-08T07:32:59.627-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openlayers:closure-util:0.3.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hover-image_project:hover-image:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Hover-image Project Hover-image - for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/hover-image/wordpress-hover-image-plugin-1-4-1-cross-site-request-forgery-csrf?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/hover-image/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hover-image_project:hover-image:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:hover-image_project:hover-image:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Hover-image Project Hover-image - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/hover-image/wordpress-hover-image-plugin-1-4-1-cross-site-request-forgery-csrf?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/hover-image/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hover-image_project:hover-image:-:*:*:*:*:wordpress:*:*"
+	}
 }

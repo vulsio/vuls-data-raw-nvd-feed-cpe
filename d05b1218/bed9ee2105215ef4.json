@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:supermicro:x11ssh-gtf-1585_firmware:1.56",
-  "title": [
-    {
-      "text": "Supermicro X11ssh-gtf-1585 Firmware 1.56",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:supermicro:x11ssh-gtf-1585_firmware:1.56:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:supermicro:x11ssh-gtf-1585_firmware:1.56",
+	"title": [
+		{
+			"text": "Supermicro X11ssh-gtf-1585 Firmware 1.56",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=H12#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:x11ssh-gtf-1585_firmware:1.56:*:*:*:*:*:*:*"
+	}
 }

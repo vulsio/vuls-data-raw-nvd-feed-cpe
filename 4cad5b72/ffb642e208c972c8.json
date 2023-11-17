@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:apple:apple_tv:9.2.1",
-  "deprecated": true,
-  "deprecation_date": "2019-03-08T16:06:37.233Z",
-  "title": [
-    {
-      "text": "AppleTV 9.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://developer.apple.com/tvos/download/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:apple:apple_tv:9.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-08T11:06:37.233-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:apple:tvos:9.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:apple:apple_tv:9.2.1",
+	"deprecated": true,
+	"deprecation_date": "2019-03-08T16:06:37.233Z",
+	"title": [
+		{
+			"text": "AppleTV 9.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.apple.com/tvos/download/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apple:apple_tv:9.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-08T11:06:37.233-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:tvos:9.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

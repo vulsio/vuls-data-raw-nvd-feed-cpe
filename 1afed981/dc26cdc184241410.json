@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:student_study_center_management_system_project:student_study_center_management_system:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T22:07:13.840Z",
-  "title": [
-    {
-      "text": "Student Study Center Management System Project Student Study Center Management System 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://phpgurukul.com/student-study-center-management-system-using-php-and-mysql/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:student_study_center_management_system_project:student_study_center_management_system:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T17:07:13.840-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:student_study_center_management_system:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:student_study_center_management_system_project:student_study_center_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T22:07:13.840Z",
+	"title": [
+		{
+			"text": "Student Study Center Management System Project Student Study Center Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://phpgurukul.com/student-study-center-management-system-using-php-and-mysql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:student_study_center_management_system_project:student_study_center_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T17:07:13.840-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:student_study_center_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:apngdis_project:apngdis:2.4",
-  "deprecated": true,
-  "deprecation_date": "2020-04-29T12:56:32.470Z",
-  "title": [
-    {
-      "text": "APNG Disassembler Project APNG Disassembler 2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/apngdis/files/?source=navbar"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apngdis_project:apngdis:2.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-29T08:56:32.470-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apng_disassembler_project:apng_disassembler:2.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apngdis_project:apngdis:2.4",
+	"deprecated": true,
+	"deprecation_date": "2020-04-29T12:56:32.470Z",
+	"title": [
+		{
+			"text": "APNG Disassembler Project APNG Disassembler 2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/apngdis/files/?source=navbar"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apngdis_project:apngdis:2.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-29T08:56:32.470-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apng_disassembler_project:apng_disassembler:2.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

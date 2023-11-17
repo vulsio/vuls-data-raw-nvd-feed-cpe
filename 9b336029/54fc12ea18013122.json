@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mylittletools:mylittleadmin:3.8",
-  "title": [
-    {
-      "text": "myLittleTools myLittleAdmin 3.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://ssd-disclosure.com/ssd-advisory-mylittleadmin-preauth-rce/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://mylittletools.net/en/"
-    },
-    {
-      "text": "Product",
-      "href": "http://mylittleadmin.com/en/welcome.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mylittletools:mylittleadmin:3.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mylittletools:mylittleadmin:3.8",
+	"title": [
+		{
+			"text": "myLittleTools myLittleAdmin 3.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://ssd-disclosure.com/ssd-advisory-mylittleadmin-preauth-rce/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://mylittletools.net/en/"
+		},
+		{
+			"text": "Product",
+			"href": "http://mylittleadmin.com/en/welcome.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mylittletools:mylittleadmin:3.8:*:*:*:*:*:*:*"
+	}
 }

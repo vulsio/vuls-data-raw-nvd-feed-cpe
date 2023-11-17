@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:zoom:chat:-",
-  "title": [
-    {
-      "text": "Zoom Chat",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://zoom.us/feature/messaging"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/199758"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:chat:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zoom:chat:-",
+	"title": [
+		{
+			"text": "Zoom Chat",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://zoom.us/feature/messaging"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/199758"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:chat:-:*:*:*:*:*:*:*"
+	}
 }

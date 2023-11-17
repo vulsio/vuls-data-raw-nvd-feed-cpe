@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:gardenlinux:garden_linux:318.8",
-  "deprecated": true,
-  "deprecation_date": "2021-09-27T16:41:37.590Z",
-  "title": [
-    {
-      "text": "Garden Linux 318.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/gardenlinux/gardenlinux/releases/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://gardenlinux.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gardenlinux:garden_linux:318.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-27T12:41:37.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:gardenlinux:gardenlinux:318.8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gardenlinux:garden_linux:318.8",
+	"deprecated": true,
+	"deprecation_date": "2021-09-27T16:41:37.590Z",
+	"title": [
+		{
+			"text": "Garden Linux 318.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/gardenlinux/gardenlinux/releases/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://gardenlinux.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gardenlinux:garden_linux:318.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-27T12:41:37.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:gardenlinux:gardenlinux:318.8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

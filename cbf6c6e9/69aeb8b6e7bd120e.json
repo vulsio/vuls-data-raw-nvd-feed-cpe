@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:extremetoken_project:extremetoken:-",
-  "title": [
-    {
-      "text": "ExtremeToken Project ExtremeToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xff1560afef58be59b11c72734ad1d89db63e4e71#code"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:extremetoken_project:extremetoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:extremetoken_project:extremetoken:-",
+	"title": [
+		{
+			"text": "ExtremeToken Project ExtremeToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xff1560afef58be59b11c72734ad1d89db63e4e71#code"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:extremetoken_project:extremetoken:-:*:*:*:*:*:*:*"
+	}
 }

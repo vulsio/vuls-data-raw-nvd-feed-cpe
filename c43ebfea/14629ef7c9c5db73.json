@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:nxp:i.mx_rt600_firmware:-",
-  "title": [
-    {
-      "text": "NXP i.MX RT600 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors:IMX_HOME"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.nxp.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://oxide.computer/blog/lpc55/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31532.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nxp:i.mx_rt600_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:nxp:i.mx_rt600_firmware:-",
+	"title": [
+		{
+			"text": "NXP i.MX RT600 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors:IMX_HOME"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nxp.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://oxide.computer/blog/lpc55/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/31xxx/CVE-2021-31532.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nxp:i.mx_rt600_firmware:-:*:*:*:*:*:*:*"
+	}
 }

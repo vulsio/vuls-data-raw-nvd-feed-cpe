@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:emc:rsa_bsafe-c_toolkits:-",
-  "deprecated": true,
-  "deprecation_date": "2021-11-30T19:04:20.513Z",
-  "title": [
-    {
-      "text": "EMC RSA BSAFE-C Toolkits (aka Share for C and C++)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor product information",
-      "href": "http://www.emc.com/security/rsa-bsafe.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:rsa_bsafe-c_toolkits:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-30T14:04:20.513-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:rsa_bsafe-c_toolkits:-",
+	"deprecated": true,
+	"deprecation_date": "2021-11-30T19:04:20.513Z",
+	"title": [
+		{
+			"text": "EMC RSA BSAFE-C Toolkits (aka Share for C and C++)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor product information",
+			"href": "http://www.emc.com/security/rsa-bsafe.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:rsa_bsafe-c_toolkits:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-30T14:04:20.513-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe_share:-:*:*:*:*:c:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

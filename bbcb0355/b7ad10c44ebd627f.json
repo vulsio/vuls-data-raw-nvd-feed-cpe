@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:cloudfoundry:cloud_controller:-",
-  "title": [
-    {
-      "text": "Cloud Foundry Cloud Controller",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.cloudfoundry.org/concepts/architecture/cloud-controller.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/capi-release/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry-attic/cf-release"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cloudfoundry:cloud_controller:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cloudfoundry:cloud_controller:-",
+	"title": [
+		{
+			"text": "Cloud Foundry Cloud Controller",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.cloudfoundry.org/concepts/architecture/cloud-controller.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/capi-release/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry-attic/cf-release"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cloudfoundry:cloud_controller:-:*:*:*:*:*:*:*"
+	}
 }

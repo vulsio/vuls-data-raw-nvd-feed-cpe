@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:office:2016::~~~~x86~",
-  "title": [
-    {
-      "text": "Microsoft Office 2016 on x86",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_2016/how-to-change-from-office-2016-x86-to-x64/ef94ec48-33e7-47d5-9559-e0eab8a14692"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1711"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x86:*"
-  }
+	"name": "cpe:/a:microsoft:office:2016::~~~~x86~",
+	"title": [
+		{
+			"text": "Microsoft Office 2016 on x86",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_2016/how-to-change-from-office-2016-x86-to-x64/ef94ec48-33e7-47d5-9559-e0eab8a14692"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1711"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2016:*:*:*:*:*:x86:*"
+	}
 }

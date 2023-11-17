@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:endpoint_management_assistant:-",
-  "title": [
-    {
-      "text": "Intel Endpoint Management Assistant (EMA)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00412.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://downloadmirror.intel.com/28994/eng/Intel(R)_EMA_Release_Notes.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:endpoint_management_assistant:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:endpoint_management_assistant:-",
+	"title": [
+		{
+			"text": "Intel Endpoint Management Assistant (EMA)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00412.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://downloadmirror.intel.com/28994/eng/Intel(R)_EMA_Release_Notes.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:endpoint_management_assistant:-:*:*:*:*:*:*:*"
+	}
 }

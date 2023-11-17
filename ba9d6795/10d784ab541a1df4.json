@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:redhat:kernel-rt:-",
-  "title": [
-    {
-      "text": "Red Hat Kernel-RT",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.4_release_notes/new_features_real-time_kernel"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:kernel-rt:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:redhat:kernel-rt:-",
+	"title": [
+		{
+			"text": "Red Hat Kernel-RT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/7.4_release_notes/new_features_real-time_kernel"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:kernel-rt:-:*:*:*:*:*:*:*"
+	}
 }

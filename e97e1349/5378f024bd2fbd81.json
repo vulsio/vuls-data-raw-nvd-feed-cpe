@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:nginx:nginx:1.11.12",
-  "deprecated": true,
-  "deprecation_date": "2021-11-10T16:01:56.603Z",
-  "title": [
-    {
-      "text": "Nginx 1.11.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://nginx.org/en/CHANGES"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://nginx.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nginx:nginx:1.11.12:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-10T11:01:56.603-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:f5:nginx:1.11.12:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nginx:nginx:1.11.12",
+	"deprecated": true,
+	"deprecation_date": "2021-11-10T16:01:56.603Z",
+	"title": [
+		{
+			"text": "Nginx 1.11.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://nginx.org/en/CHANGES"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://nginx.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nginx:nginx:1.11.12:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-10T11:01:56.603-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:f5:nginx:1.11.12:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

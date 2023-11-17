@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:silabs:zgm130s037hgn_firmware:s2",
-  "title": [
-    {
-      "text": "Silicon Labs ZGM130S037HGN Firmware S2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pentestpartners.com/security-blog/z-shave-exploiting-z-wave-downgrade-attacks/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.silabs.com/wireless/z-wave/700-series-modules"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2018/25xxx/CVE-2018-25029.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:silabs:zgm130s037hgn_firmware:s2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:silabs:zgm130s037hgn_firmware:s2",
+	"title": [
+		{
+			"text": "Silicon Labs ZGM130S037HGN Firmware S2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pentestpartners.com/security-blog/z-shave-exploiting-z-wave-downgrade-attacks/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.silabs.com/wireless/z-wave/700-series-modules"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2018/25xxx/CVE-2018-25029.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:silabs:zgm130s037hgn_firmware:s2:*:*:*:*:*:*:*"
+	}
 }

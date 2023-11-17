@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:database:18c::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Oracle Database 18c Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.oracle.com/database/technologies/oracle-database-software-downloads.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/database/technologies/oracle18c-windows-180000-downloads.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:database:18c:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:oracle:database:18c::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Oracle Database 18c Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.oracle.com/database/technologies/oracle-database-software-downloads.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/database/technologies/oracle18c-windows-180000-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:database:18c:*:*:*:enterprise:*:*:*"
+	}
 }

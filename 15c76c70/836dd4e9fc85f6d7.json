@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:vault:1.5.8::~~enterprise~~~",
-  "title": [
-    {
-      "text": "HashiCorp Vault 1.5.8 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-09-vault-s-pki-engine-crl-may-exclude-revoked-but-unexpired-certificates-after-tidy/23461"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/hashicorp/vault/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:vault:1.5.8:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:vault:1.5.8::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Vault 1.5.8 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-09-vault-s-pki-engine-crl-may-exclude-revoked-but-unexpired-certificates-after-tidy/23461"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/hashicorp/vault/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault:1.5.8:*:*:*:enterprise:*:*:*"
+	}
 }

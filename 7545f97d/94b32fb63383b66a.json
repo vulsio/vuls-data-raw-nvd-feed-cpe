@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microbtc_project:microbtc:-",
-  "title": [
-    {
-      "text": "MicroBTC project MicroBTC",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x1e9df32917117235ba0888edb2602ff3522834ec#code"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microbtc_project:microbtc:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microbtc_project:microbtc:-",
+	"title": [
+		{
+			"text": "MicroBTC project MicroBTC",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x1e9df32917117235ba0888edb2602ff3522834ec#code"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microbtc_project:microbtc:-:*:*:*:*:*:*:*"
+	}
 }

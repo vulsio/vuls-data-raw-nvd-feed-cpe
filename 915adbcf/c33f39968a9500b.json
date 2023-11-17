@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mariadb_project:mariadb:0.7.0::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2020-11-16T14:22:41.460Z",
-  "title": [
-    {
-      "text": "mariadb Project mariadb 0.7.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/mariadb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mariadb_project:mariadb:0.7.0:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2020-11-16T09:22:41.460-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mariadb:mariadb:0.7.0:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mariadb_project:mariadb:0.7.0::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2020-11-16T14:22:41.460Z",
+	"title": [
+		{
+			"text": "mariadb Project mariadb 0.7.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/mariadb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mariadb_project:mariadb:0.7.0:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2020-11-16T09:22:41.460-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mariadb:mariadb:0.7.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:suse:manager_server:-",
-  "title": [
-    {
-      "text": "SUSE Manager Server",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.suse.com/releasenotes/x86_64/SUSE-MANAGER/4.1/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/JOVPGGXVVV4AFOB6JKENGJXJP5FZZL47/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:suse:manager_server:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:suse:manager_server:-",
+	"title": [
+		{
+			"text": "SUSE Manager Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.suse.com/releasenotes/x86_64/SUSE-MANAGER/4.1/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.opensuse.org/archives/list/security-announce@lists.opensuse.org/message/JOVPGGXVVV4AFOB6JKENGJXJP5FZZL47/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:suse:manager_server:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:tenda:ac8:4.0",
-  "title": [
-    {
-      "text": "Tenda AC8 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.tendacn.com/default.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tendacn.com/us/product/download/AC8.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/cloudv2_setaccount/README.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:tenda:ac8:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:tenda:ac8:4.0",
+	"title": [
+		{
+			"text": "Tenda AC8 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.tendacn.com/default.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tendacn.com/us/product/download/AC8.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/cloudv2_setaccount/README.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tenda:ac8:4.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:qnap:qts:4.3.4.1463",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T19:26:47.020Z",
-  "title": [
-    {
-      "text": "QNAP QTS 4.3.4.1463",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.qnap.com/en-us/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.qnap.com/i/en/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.qnap.com/en-us/release-notes/quts_hero/h4.5.1.1472/20201031"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T14:26:47.020-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:qnap:qts:4.3.4.1463",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T19:26:47.020Z",
+	"title": [
+		{
+			"text": "QNAP QTS 4.3.4.1463",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.qnap.com/en-us/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.qnap.com/i/en/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/release-notes/quts_hero/h4.5.1.1472/20201031"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T14:26:47.020-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:qnap:qts:4.3.4.1463:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

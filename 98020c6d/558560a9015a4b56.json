@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:tom_braider:count_per_day:3.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-13T10:51:06.053Z",
-  "title": [
-    {
-      "text": "Tom Braider Count Per Day module for Wordpress 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tom_braider:count_per_day:3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-13T06:51:06.053-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:count_per_day_project:count_per_day:3.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tom_braider:count_per_day:3.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-13T10:51:06.053Z",
+	"title": [
+		{
+			"text": "Tom Braider Count Per Day module for Wordpress 3.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tom_braider:count_per_day:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-13T06:51:06.053-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:count_per_day_project:count_per_day:3.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

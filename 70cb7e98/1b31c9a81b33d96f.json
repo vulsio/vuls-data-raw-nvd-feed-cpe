@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:joomla:joomla%21:3.7.0",
-  "deprecated": true,
-  "deprecation_date": "2020-10-19T12:29:59.753Z",
-  "title": [
-    {
-      "text": "Joomla! 3.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.joomla.org/Category:Version_History"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.joomla.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:joomla:joomla\\!:3.7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-19T08:29:59.753-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:joomla:joomla\\!:3.7.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:joomla:joomla%21:3.7.0",
+	"deprecated": true,
+	"deprecation_date": "2020-10-19T12:29:59.753Z",
+	"title": [
+		{
+			"text": "Joomla! 3.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.joomla.org/Category:Version_History"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.joomla.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joomla:joomla\\!:3.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-19T08:29:59.753-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:joomla:joomla\\!:3.7.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

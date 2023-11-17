@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linuxfoundation:harbor:2.7.3:-",
-  "title": [
-    {
-      "text": "Linux Foundation Harbor 2.7.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/goharbor/harbor/security/advisories/GHSA-mq6f-5xh5-hgcf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.linuxfoundation.org/projects/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/goharbor/harbor/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:harbor:2.7.3:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:harbor:2.7.3:-",
+	"title": [
+		{
+			"text": "Linux Foundation Harbor 2.7.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/goharbor/harbor/security/advisories/GHSA-mq6f-5xh5-hgcf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.linuxfoundation.org/projects/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/goharbor/harbor/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:harbor:2.7.3:-:*:*:*:*:*:*"
+	}
 }

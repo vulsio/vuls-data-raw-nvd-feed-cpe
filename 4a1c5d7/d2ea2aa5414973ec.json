@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:fancy_gallery_project:fancy_gallery:1.5.13::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Fancy Gallery Project Fancy Gallery 1.5.13 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/wp-plugins/fancy-gallery"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2014/125xxx/CVE-2014-125096.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fancy_gallery_project:fancy_gallery:1.5.13:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:fancy_gallery_project:fancy_gallery:1.5.13::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Fancy Gallery Project Fancy Gallery 1.5.13 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/wp-plugins/fancy-gallery"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2014/125xxx/CVE-2014-125096.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fancy_gallery_project:fancy_gallery:1.5.13:*:*:*:*:wordpress:*:*"
+	}
 }

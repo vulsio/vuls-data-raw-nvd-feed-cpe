@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e5:4624l_v2",
-  "deprecated": true,
-  "deprecation_date": "2023-09-27T09:50:28.100Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5 4624L V2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e5:4624l_v2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-27T05:50:28.100-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5-4624l_v2:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e5:4624l_v2",
+	"deprecated": true,
+	"deprecation_date": "2023-09-27T09:50:28.100Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5 4624L V2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e5:4624l_v2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-27T05:50:28.100-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5-4624l_v2:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

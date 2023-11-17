@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:google:go-attestation:-",
-  "title": [
-    {
-      "text": "Google Go-attestation",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/google/go-attestation/security/advisories/GHSA-99cg-575x-774p"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/google/go-attestation/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:go-attestation:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:google:go-attestation:-",
+	"title": [
+		{
+			"text": "Google Go-attestation",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/google/go-attestation/security/advisories/GHSA-99cg-575x-774p"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/google/go-attestation/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:go-attestation:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jre:1.8.0:update_152",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T14:57:14.333Z",
-  "title": [
-    {
-      "text": "Oracle Java Runtime Environment (JRE) 1.8.0 Update 152",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/technetwork/java/javase/downloads/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jre:1.8.0:update_152:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T10:57:14.333-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jre:1.8.0:update152:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jre:1.8.0:update_152",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T14:57:14.333Z",
+	"title": [
+		{
+			"text": "Oracle Java Runtime Environment (JRE) 1.8.0 Update 152",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/technetwork/java/javase/downloads/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jre:1.8.0:update_152:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T10:57:14.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jre:1.8.0:update152:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

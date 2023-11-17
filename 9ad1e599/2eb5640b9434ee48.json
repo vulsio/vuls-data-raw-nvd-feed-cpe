@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:core_i3:4330t",
-  "deprecated": true,
-  "deprecation_date": "2023-09-25T20:35:51.890Z",
-  "title": [
-    {
-      "text": "Intel Core I3 4330T",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:core_i3:4330t:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-25T16:35:51.890-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:core_i3-4330t:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:core_i3:4330t",
+	"deprecated": true,
+	"deprecation_date": "2023-09-25T20:35:51.890Z",
+	"title": [
+		{
+			"text": "Intel Core I3 4330T",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:core_i3:4330t:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-25T16:35:51.890-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:core_i3-4330t:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

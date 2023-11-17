@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:abb:pcm600_firmware:2.6",
-  "title": [
-    {
-      "text": "ABB PCM600 Firmware 2.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2513.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000120&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:pcm600_firmware:2.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:abb:pcm600_firmware:2.6",
+	"title": [
+		{
+			"text": "ABB PCM600 Firmware 2.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2513.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000120&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:pcm600_firmware:2.6:*:*:*:*:*:*:*"
+	}
 }

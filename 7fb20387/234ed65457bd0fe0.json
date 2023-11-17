@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:juniper:appid_service_sigpack:-",
-  "title": [
-    {
-      "text": "Juniper AppID Service Sigpack",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2023-28968"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportportal.juniper.net/s/article/2023-04-Security-Bulletin-Junos-OS-SRX-Series-Policies-that-rely-on-JDPI-Decoder-actions-may-fail-open-CVE-2023-28968?language=en_US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:juniper:appid_service_sigpack:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:juniper:appid_service_sigpack:-",
+	"title": [
+		{
+			"text": "Juniper AppID Service Sigpack",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-28968"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2023-04-Security-Bulletin-Junos-OS-SRX-Series-Policies-that-rely-on-JDPI-Decoder-actions-may-fail-open-CVE-2023-28968?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:juniper:appid_service_sigpack:-:*:*:*:*:*:*:*"
+	}
 }

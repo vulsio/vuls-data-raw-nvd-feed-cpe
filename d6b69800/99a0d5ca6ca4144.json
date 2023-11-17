@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/h:intel:ethernet_controller_x710-bm2:-",
-  "title": [
-    {
-      "text": "Intel Ethernet Controller X710-BM2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://downloadcenter.intel.com/product/46828/700-Series-Network-Adapters-up-to-40GbE-"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/network-io/ethernet.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/network-adapters/ethernet-700-series-video.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00255.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:ethernet_controller_x710-bm2:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:ethernet_controller_x710-bm2:-",
+	"title": [
+		{
+			"text": "Intel Ethernet Controller X710-BM2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://downloadcenter.intel.com/product/46828/700-Series-Network-Adapters-up-to-40GbE-"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/network-io/ethernet.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/docs/network-io/ethernet/network-adapters/ethernet-700-series-video.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00255.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:ethernet_controller_x710-bm2:-:*:*:*:*:*:*:*"
+	}
 }

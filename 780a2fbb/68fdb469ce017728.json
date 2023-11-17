@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:desktop:3.6.4",
-  "title": [
-    {
-      "text": "Nextcloud Desktop 3.6.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/desktop/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-4p33-rw27-j5fc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:desktop:3.6.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:desktop:3.6.4",
+	"title": [
+		{
+			"text": "Nextcloud Desktop 3.6.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/desktop/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-4p33-rw27-j5fc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:desktop:3.6.4:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:ethernet_controller_x552:-",
-  "title": [
-    {
-      "text": "Intel Ethernet Controller X552 ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00650.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/support/articles/000005693/ethernet-products/700-series-network-adapters-up-to-40gbe.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:ethernet_controller_x552:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:ethernet_controller_x552:-",
+	"title": [
+		{
+			"text": "Intel Ethernet Controller X552 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00650.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/support/articles/000005693/ethernet-products/700-series-network-adapters-up-to-40gbe.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:ethernet_controller_x552:-:*:*:*:*:*:*:*"
+	}
 }

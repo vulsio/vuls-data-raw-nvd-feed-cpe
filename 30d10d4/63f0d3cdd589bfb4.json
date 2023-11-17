@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:motorola:c1_firmware:1.01",
-  "title": [
-    {
-      "text": "Motorola C1 Firmware 1.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/lieanu/vuls/blob/master/motorola/M2_C1/SetSmartQoSSettings.md"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.motorola.com/us/home"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:motorola:c1_firmware:1.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:motorola:c1_firmware:1.01",
+	"title": [
+		{
+			"text": "Motorola C1 Firmware 1.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/lieanu/vuls/blob/master/motorola/M2_C1/SetSmartQoSSettings.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.motorola.com/us/home"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:motorola:c1_firmware:1.01:*:*:*:*:*:*:*"
+	}
 }

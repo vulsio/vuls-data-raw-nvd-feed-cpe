@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:opennms:horizon:27.0.3",
-  "title": [
-    {
-      "text": "OpenNMS Horizon 27.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.opennms.com/en/blog/2021-02-16-cve-2021-3396-full-security-disclosure/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3396.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opennms:horizon:27.0.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opennms:horizon:27.0.3",
+	"title": [
+		{
+			"text": "OpenNMS Horizon 27.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.opennms.com/en/blog/2021-02-16-cve-2021-3396-full-security-disclosure/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3396.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opennms:horizon:27.0.3:*:*:*:*:*:*:*"
+	}
 }

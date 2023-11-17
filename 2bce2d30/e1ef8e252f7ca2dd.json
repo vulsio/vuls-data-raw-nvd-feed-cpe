@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_10_21h2:10.0.19041.3570::~~~~arm64~",
-  "deprecated": true,
-  "deprecation_date": "2023-10-19T19:17:15.910Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 21H2 10.0.19041.3570 on ARM64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36603"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3570:*:*:*:*:*:arm64:*",
-    "deprecation": {
-      "date": "2023-10-19T15:17:15.910-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.3570:*:*:*:*:*:arm64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10_21h2:10.0.19041.3570::~~~~arm64~",
+	"deprecated": true,
+	"deprecation_date": "2023-10-19T19:17:15.910Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 21H2 10.0.19041.3570 on ARM64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36603"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3570:*:*:*:*:*:arm64:*",
+		"deprecation": {
+			"date": "2023-10-19T15:17:15.910-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_22h2:10.0.19045.3570:*:*:*:*:*:arm64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

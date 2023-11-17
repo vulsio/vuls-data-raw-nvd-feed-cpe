@@ -1,54 +1,54 @@
 {
-  "name": "cpe:/a:siemens:gma-manager:-",
-  "title": [
-    {
-      "text": "Siemens GMA-Manager -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://vulnera.com/pulse/may-5-2023/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://prophaze.com/cve/siemens-desigo-cc-http-get-request-os-command-injection-cve-2021-31891/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cybersecurity-help.cz/vdb/SB2021091605"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-257-18"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.industry.siemens.com/cs/document/109780022/new-version-of-the-industrial-vulnerability-manager?dti=0&lc=en-WW"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://stack.watch/product/siemens/gma-manager/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cve.report/software/siemens/gma-manager"
-    },
-    {
-      "text": "Product",
-      "href": "https://sid.siemens.com/v/u/A6V10448437"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-535380.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:gma-manager:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:siemens:gma-manager:-",
+	"title": [
+		{
+			"text": "Siemens GMA-Manager -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vulnera.com/pulse/may-5-2023/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://prophaze.com/cve/siemens-desigo-cc-http-get-request-os-command-injection-cve-2021-31891/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cybersecurity-help.cz/vdb/SB2021091605"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-257-18"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.industry.siemens.com/cs/document/109780022/new-version-of-the-industrial-vulnerability-manager?dti=0&lc=en-WW"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://stack.watch/product/siemens/gma-manager/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cve.report/software/siemens/gma-manager"
+		},
+		{
+			"text": "Product",
+			"href": "https://sid.siemens.com/v/u/A6V10448437"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-535380.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:gma-manager:-:*:*:*:*:*:*:*"
+	}
 }

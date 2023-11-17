@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ivanti:avalanche:6.3.2::~~~windows~~",
-  "title": [
-    {
-      "text": "Ivanti Avalanche 6.3.2 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://ssd-disclosure.com/ssd-advisory-ivanti-avalanche-directory-traversal/"
-    },
-    {
-      "text": "Product",
-      "href": "https://help.ivanti.com/wl/help/en_us/ava/6.1/avalanche/console/managementconsole.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ivanti:avalanche:6.3.2:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:ivanti:avalanche:6.3.2::~~~windows~~",
+	"title": [
+		{
+			"text": "Ivanti Avalanche 6.3.2 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://ssd-disclosure.com/ssd-advisory-ivanti-avalanche-directory-traversal/"
+		},
+		{
+			"text": "Product",
+			"href": "https://help.ivanti.com/wl/help/en_us/ava/6.1/avalanche/console/managementconsole.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:avalanche:6.3.2:*:*:*:*:windows:*:*"
+	}
 }

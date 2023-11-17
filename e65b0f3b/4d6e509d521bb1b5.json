@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:bolt:bolt:2.1.8:pl1",
-  "deprecated": true,
-  "deprecation_date": "2021-01-04T18:20:02.093Z",
-  "title": [
-    {
-      "text": "Bolt 2.1.8 Pl1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://bolt.cm"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/bolt/bolt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bolt:bolt:2.1.8:pl1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-04T13:20:02.093-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:boltcms:bolt:2.1.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bolt:bolt:2.1.8:pl1",
+	"deprecated": true,
+	"deprecation_date": "2021-01-04T18:20:02.093Z",
+	"title": [
+		{
+			"text": "Bolt 2.1.8 Pl1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bolt.cm"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bolt/bolt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bolt:bolt:2.1.8:pl1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-04T13:20:02.093-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:boltcms:bolt:2.1.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:quic-go_project:quic-go:0.5.0",
-  "title": [
-    {
-      "text": "Quic-go Project Quic-go 0.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/lucas-clemente/quic-go/blob/84e03e59760ceee37359688871bb0688fcc4e98f/mtu_discoverer.go"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/lucas-clemente/quic-go/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:quic-go_project:quic-go:0.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:quic-go_project:quic-go:0.5.0",
+	"title": [
+		{
+			"text": "Quic-go Project Quic-go 0.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/lucas-clemente/quic-go/blob/84e03e59760ceee37359688871bb0688fcc4e98f/mtu_discoverer.go"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/lucas-clemente/quic-go/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quic-go_project:quic-go:0.5.0:*:*:*:*:*:*:*"
+	}
 }

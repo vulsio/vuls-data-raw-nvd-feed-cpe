@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tenda:ac5_firmware:15.03.06.48_multi",
-  "title": [
-    {
-      "text": "Tenda AC5 Firmware 15.03.06.48_multi",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.tenda.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/21Gun5/my_cve/blob/main/tenda/bypass_auth.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tenda:ac5_firmware:15.03.06.48_multi:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tenda:ac5_firmware:15.03.06.48_multi",
+	"title": [
+		{
+			"text": "Tenda AC5 Firmware 15.03.06.48_multi",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.tenda.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/21Gun5/my_cve/blob/main/tenda/bypass_auth.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tenda:ac5_firmware:15.03.06.48_multi:*:*:*:*:*:*:*"
+	}
 }

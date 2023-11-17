@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:eset:endpoint_security:7.3",
-  "title": [
-    {
-      "text": "ESET Endpoint Security 7.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://help.eset.com/eea/8/en-US/index.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.eset.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca7794-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:endpoint_security:7.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:eset:endpoint_security:7.3",
+	"title": [
+		{
+			"text": "ESET Endpoint Security 7.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://help.eset.com/eea/8/en-US/index.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.eset.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca7794-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:endpoint_security:7.3:*:*:*:*:*:*:*"
+	}
 }

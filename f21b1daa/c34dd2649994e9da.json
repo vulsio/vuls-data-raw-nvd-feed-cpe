@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:postsrsd_prject:postsrsd:1.1",
-  "deprecated": true,
-  "deprecation_date": "2021-06-30T13:22:32.457Z",
-  "title": [
-    {
-      "text": "Postsrsd Prject Postsrsd 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/roehling/postsrsd/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postsrsd_prject:postsrsd:1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-30T09:22:32.457-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:postsrsd_project:postsrsd:1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:postsrsd_prject:postsrsd:1.1",
+	"deprecated": true,
+	"deprecation_date": "2021-06-30T13:22:32.457Z",
+	"title": [
+		{
+			"text": "Postsrsd Prject Postsrsd 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/roehling/postsrsd/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postsrsd_prject:postsrsd:1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-30T09:22:32.457-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:postsrsd_project:postsrsd:1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

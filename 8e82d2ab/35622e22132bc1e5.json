@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:simple-git_project:simple-git:3.0.4::~~~node.js~~",
-  "title": [
-    {
-      "text": "Simple-git Project Simple-git 3.0.4 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.npmjs.com/package/simple-git"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-2421245"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple-git_project:simple-git:3.0.4:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:simple-git_project:simple-git:3.0.4::~~~node.js~~",
+	"title": [
+		{
+			"text": "Simple-git Project Simple-git 3.0.4 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.npmjs.com/package/simple-git"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JAVA-ORGWEBJARSNPM-2421245"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple-git_project:simple-git:3.0.4:*:*:*:*:node.js:*:*"
+	}
 }

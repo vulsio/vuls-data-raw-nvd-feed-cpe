@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:xml-libxml_project:xml-libxml:2.0118",
-  "deprecated": true,
-  "deprecation_date": "2020-03-03T16:04:22.613Z",
-  "title": [
-    {
-      "text": "XML::LibXML project XML::LibXML 2.0118",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project Website",
-      "href": "http://cpansearch.perl.org/src/SHLOMIF/XML-LibXML-2.0119/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xml-libxml_project:xml-libxml:2.0118:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-03T11:04:22.613-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xml-libxml_project:xml-libxml:2.0118:*:*:*:*:perl:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xml-libxml_project:xml-libxml:2.0118",
+	"deprecated": true,
+	"deprecation_date": "2020-03-03T16:04:22.613Z",
+	"title": [
+		{
+			"text": "XML::LibXML project XML::LibXML 2.0118",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project Website",
+			"href": "http://cpansearch.perl.org/src/SHLOMIF/XML-LibXML-2.0119/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xml-libxml_project:xml-libxml:2.0118:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-03T11:04:22.613-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xml-libxml_project:xml-libxml:2.0118:*:*:*:*:perl:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

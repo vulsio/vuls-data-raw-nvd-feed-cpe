@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:x:x_server:1.19.6",
-  "deprecated": true,
-  "deprecation_date": "2020-08-24T17:18:38.220Z",
-  "title": [
-    {
-      "text": "X Server 1.19.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.x.org/releases/individual/xserver/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:x:x_server:1.19.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-24T13:18:38.220-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:x.org:x_server:1.19.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:x:x_server:1.19.6",
+	"deprecated": true,
+	"deprecation_date": "2020-08-24T17:18:38.220Z",
+	"title": [
+		{
+			"text": "X Server 1.19.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.x.org/releases/individual/xserver/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:x:x_server:1.19.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-24T13:18:38.220-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:x.org:x_server:1.19.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

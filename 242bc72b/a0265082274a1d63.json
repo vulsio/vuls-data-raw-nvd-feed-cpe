@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:adminer:4.4.0-fastcgi",
-  "title": [
-    {
-      "text": "Docker Adminer 4.4.0-fastcgi",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35186"
-    },
-    {
-      "text": "Version",
-      "href": "https://hub.docker.com/_/adminer?tab=tags&page=1&ordering=-last_updated&name=fastcgi"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:adminer:4.4.0-fastcgi:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:adminer:4.4.0-fastcgi",
+	"title": [
+		{
+			"text": "Docker Adminer 4.4.0-fastcgi",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35186"
+		},
+		{
+			"text": "Version",
+			"href": "https://hub.docker.com/_/adminer?tab=tags&page=1&ordering=-last_updated&name=fastcgi"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:adminer:4.4.0-fastcgi:*:*:*:*:*:*:*"
+	}
 }

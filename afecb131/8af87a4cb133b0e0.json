@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tempo:tempo:4.10.0::~~~jira~~",
-  "title": [
-    {
-      "text": "Tempo 4.10.0 for Jira",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.tempo.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://marketplace.atlassian.com/vendors/6558/tempo-for-jira"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0838"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tempo:tempo:4.10.0:*:*:*:*:jira:*:*"
-  }
+	"name": "cpe:/a:tempo:tempo:4.10.0::~~~jira~~",
+	"title": [
+		{
+			"text": "Tempo 4.10.0 for Jira",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.tempo.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://marketplace.atlassian.com/vendors/6558/tempo-for-jira"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2019-0838"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tempo:tempo:4.10.0:*:*:*:*:jira:*:*"
+	}
 }

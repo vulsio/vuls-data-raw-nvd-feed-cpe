@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:php:php:7.1.4",
-  "deprecated": true,
-  "deprecation_date": "2019-06-07T18:57:24.767Z",
-  "title": [
-    {
-      "text": "PHP 7.1.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://php.net/releases/7_1_4.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:php:php:7.1.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-07T14:57:24.767-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:php:php:7.1.4:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:php:php:7.1.4",
+	"deprecated": true,
+	"deprecation_date": "2019-06-07T18:57:24.767Z",
+	"title": [
+		{
+			"text": "PHP 7.1.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://php.net/releases/7_1_4.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:php:php:7.1.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-07T14:57:24.767-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:php:php:7.1.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

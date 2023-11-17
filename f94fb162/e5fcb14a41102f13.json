@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:paloaltonetworks:prisma_cloud:20.09:update_1:~~compute~~~",
-  "title": [
-    {
-      "text": "Paloalto Networks Prisma Cloud 20.09 Update 1 Compute Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.paloaltonetworks.com/prisma/prisma-cloud/20-09/prisma-cloud-compute-edition-release-notes/release-information.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.paloaltonetworks.com/CVE-2021-3033"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paloaltonetworks:prisma_cloud:20.09:update_1:*:*:compute:*:*:*"
-  }
+	"name": "cpe:/a:paloaltonetworks:prisma_cloud:20.09:update_1:~~compute~~~",
+	"title": [
+		{
+			"text": "Paloalto Networks Prisma Cloud 20.09 Update 1 Compute Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.paloaltonetworks.com/prisma/prisma-cloud/20-09/prisma-cloud-compute-edition-release-notes/release-information.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.paloaltonetworks.com/CVE-2021-3033"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paloaltonetworks:prisma_cloud:20.09:update_1:*:*:compute:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:omron:ns12:-",
-  "title": [
-    {
-      "text": "Omron NS12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://automation.omron.com/en/us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://misteralfa-hack.blogspot.cl/2018/02/otomron-login-bypass.html"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.ia.omron.com/products/family/155/lineup.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:omron:ns12:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:omron:ns12:-",
+	"title": [
+		{
+			"text": "Omron NS12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://automation.omron.com/en/us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://misteralfa-hack.blogspot.cl/2018/02/otomron-login-bypass.html"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.ia.omron.com/products/family/155/lineup.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:omron:ns12:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:anchore:container_image_scanner:1.0.2::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Anchore Container Image Scanner 1.0.2 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://jenkins.io/security/advisory/2018-07-30/#SECURITY-1039"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/anchore-container-scanner-plugin/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/anchore-container-scanner"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:anchore:container_image_scanner:1.0.2:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:anchore:container_image_scanner:1.0.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Anchore Container Image Scanner 1.0.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jenkins.io/security/advisory/2018-07-30/#SECURITY-1039"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/anchore-container-scanner-plugin/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/anchore-container-scanner"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:anchore:container_image_scanner:1.0.2:*:*:*:*:jenkins:*:*"
+	}
 }

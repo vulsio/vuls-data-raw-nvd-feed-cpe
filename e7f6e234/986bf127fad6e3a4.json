@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:protocol:gossipsub:1.1",
-  "title": [
-    {
-      "text": "Protocol Labs Gossipsub 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://protocol.ai/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://arxiv.org/pdf/2212.05197.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/libp2p/specs/blob/master/pubsub/gossipsub/gossipsub-v1.1.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:protocol:gossipsub:1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:protocol:gossipsub:1.1",
+	"title": [
+		{
+			"text": "Protocol Labs Gossipsub 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://protocol.ai/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://arxiv.org/pdf/2212.05197.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/libp2p/specs/blob/master/pubsub/gossipsub/gossipsub-v1.1.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:protocol:gossipsub:1.1:*:*:*:*:*:*:*"
+	}
 }

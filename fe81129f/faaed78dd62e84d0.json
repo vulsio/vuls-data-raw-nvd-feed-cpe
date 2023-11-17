@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:hapijs:crumb:2.2.0::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2021-07-19T15:19:58.720Z",
-  "title": [
-    {
-      "text": "Hapi Crumb for Node.js 2.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://hapijs.com/plugins"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hapijs:crumb:2.2.0:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2021-07-19T11:19:58.720-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sideway:hapi_crumb:2.2.0:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:hapijs:crumb:2.2.0::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2021-07-19T15:19:58.720Z",
+	"title": [
+		{
+			"text": "Hapi Crumb for Node.js 2.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://hapijs.com/plugins"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hapijs:crumb:2.2.0:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2021-07-19T11:19:58.720-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sideway:hapi_crumb:2.2.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

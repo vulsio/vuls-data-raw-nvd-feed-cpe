@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:silverstripe:silverstripe:3.6.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-23T17:07:03.313Z",
-  "title": [
-    {
-      "text": "SilverStripe 3.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.silverstripe.org/en/4/changelogs/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silverstripe:silverstripe:3.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-23T13:07:03.313-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:silverstripe:silverstripe:3.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:silverstripe:silverstripe:3.6.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-23T17:07:03.313Z",
+	"title": [
+		{
+			"text": "SilverStripe 3.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.silverstripe.org/en/4/changelogs/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silverstripe:silverstripe:3.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-23T13:07:03.313-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:silverstripe:silverstripe:3.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

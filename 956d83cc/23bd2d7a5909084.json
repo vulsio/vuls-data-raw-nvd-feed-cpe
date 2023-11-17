@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:ibm:security_access_manager_appliance:9.0",
-  "deprecated": true,
-  "deprecation_date": "2020-10-27T11:37:18.023Z",
-  "title": [
-    {
-      "text": "IBM Security Access Manager Appliance 9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www-03.ibm.com/software/products/en/access-mgr"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ibm:security_access_manager_appliance:9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-27T07:37:18.023-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:security_access_manager:9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:ibm:security_access_manager_appliance:9.0",
+	"deprecated": true,
+	"deprecation_date": "2020-10-27T11:37:18.023Z",
+	"title": [
+		{
+			"text": "IBM Security Access Manager Appliance 9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www-03.ibm.com/software/products/en/access-mgr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ibm:security_access_manager_appliance:9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-27T07:37:18.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:security_access_manager:9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

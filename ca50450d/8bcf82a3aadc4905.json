@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pivotal_software:cloud_foundry_cf-deployment:0.4.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-17T14:29:22.703Z",
-  "title": [
-    {
-      "text": "Pivotal Software Cloud Foundry cf-deployment 0.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/cf-deployment/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://pivotal.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/cloudfoundry"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-deployment:0.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-17T10:29:22.703-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:cf-deployment:0.4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:cloud_foundry_cf-deployment:0.4.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-17T14:29:22.703Z",
+	"title": [
+		{
+			"text": "Pivotal Software Cloud Foundry cf-deployment 0.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/cf-deployment/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://pivotal.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudfoundry"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:cloud_foundry_cf-deployment:0.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-17T10:29:22.703-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:cf-deployment:0.4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

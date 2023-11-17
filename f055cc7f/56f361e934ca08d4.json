@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:bd:alaris_gh_firmware:2.3.6",
-  "title": [
-    {
-      "text": "BD (Becton Dickinson) Alaris GH Firmware 2.3.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://bd-products.com/products/ivsets/products.php?GH=Yes&DEDICATED=Yes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-235-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.bd.com/en-uk/products/infusion/infusion-devices/alaris-plus-platform-with-guardrails-safety-software/alaris-gh-plus-volumetric-pump-with-guardrails"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:bd:alaris_gh_firmware:2.3.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:bd:alaris_gh_firmware:2.3.6",
+	"title": [
+		{
+			"text": "BD (Becton Dickinson) Alaris GH Firmware 2.3.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://bd-products.com/products/ivsets/products.php?GH=Yes&DEDICATED=Yes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-235-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.bd.com/en-uk/products/infusion/infusion-devices/alaris-plus-platform-with-guardrails-safety-software/alaris-gh-plus-volumetric-pump-with-guardrails"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:bd:alaris_gh_firmware:2.3.6:*:*:*:*:*:*:*"
+	}
 }

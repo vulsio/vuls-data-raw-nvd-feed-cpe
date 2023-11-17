@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rta55i:4.06.47",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:48.590Z",
-  "title": [
-    {
-      "text": "Yamaha RTA55i 4.06.47",
-      "lang": "en-US"
-    },
-    {
-      "text": "ヤマハ RTA55i 4.06.47",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rta55i:4.06.47:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:48.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rta55i:4.06.47:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rta55i:4.06.47",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:48.590Z",
+	"title": [
+		{
+			"text": "ヤマハ RTA55i 4.06.47",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RTA55i 4.06.47",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rta55i:4.06.47:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:48.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rta55i:4.06.47:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

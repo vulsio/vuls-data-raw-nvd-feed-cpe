@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:bitlocker:-",
-  "title": [
-    {
-      "text": "Microsoft BitLocker",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732774(v=ws.11)"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:bitlocker:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:bitlocker:-",
+	"title": [
+		{
+			"text": "Microsoft BitLocker",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732774(v=ws.11)"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:bitlocker:-:*:*:*:*:*:*:*"
+	}
 }

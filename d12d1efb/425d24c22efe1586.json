@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:memorysafety:sudo:0.2.1::~~~rust~~",
-  "title": [
-    {
-      "text": "Memorysafety Sudo 0.2.1 for Rust",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/memorysafety/sudo-rs/security/advisories/GHSA-2r3c-m6v7-9354"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.memorysafety.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/memorysafety/sudo-rs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:memorysafety:sudo:0.2.1:*:*:*:*:rust:*:*"
-  }
+	"name": "cpe:/a:memorysafety:sudo:0.2.1::~~~rust~~",
+	"title": [
+		{
+			"text": "Memorysafety Sudo 0.2.1 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/memorysafety/sudo-rs/security/advisories/GHSA-2r3c-m6v7-9354"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.memorysafety.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/memorysafety/sudo-rs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:memorysafety:sudo:0.2.1:*:*:*:*:rust:*:*"
+	}
 }

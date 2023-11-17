@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:ibm:filenet_business_process_framework:4.1.0",
-  "title": [
-    {
-      "text": "BM FileNet Business Process Framework 4.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Security Bulletin: IBM FileNet Business Process Framework is susceptible to XXE (XML eExternal Entity ) attacks. (CVE-2013-5452)",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21660343"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:filenet_business_process_framework:4.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:filenet_business_process_framework:4.1.0",
+	"title": [
+		{
+			"text": "BM FileNet Business Process Framework 4.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Security Bulletin: IBM FileNet Business Process Framework is susceptible to XXE (XML eExternal Entity ) attacks. (CVE-2013-5452)",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21660343"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:filenet_business_process_framework:4.1.0:*:*:*:*:*:*:*"
+	}
 }

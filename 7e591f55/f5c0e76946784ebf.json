@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:ubiquiti:unifi_video_controller:-",
-  "deprecated": true,
-  "deprecation_date": "2020-12-04T16:33:31.197Z",
-  "title": [
-    {
-      "text": "Ubiquiti UniFi Video Controller",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ui.com/download/unifi-video/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ubiquiti:unifi_video_controller:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-04T11:33:31.197-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:ui:unifi_video_controller:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:ubiquiti:unifi_video_controller:-",
+	"deprecated": true,
+	"deprecation_date": "2020-12-04T16:33:31.197Z",
+	"title": [
+		{
+			"text": "Ubiquiti UniFi Video Controller",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ui.com/download/unifi-video/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ubiquiti:unifi_video_controller:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-04T11:33:31.197-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:ui:unifi_video_controller:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

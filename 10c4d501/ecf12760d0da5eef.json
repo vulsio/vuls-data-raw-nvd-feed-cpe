@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:netapp:oncommand_unified_manger:9.4::~~~vsphere~~",
-  "deprecated": true,
-  "deprecation_date": "2020-06-16T17:11:23.497Z",
-  "title": [
-    {
-      "text": "NetApp OnCommand Unified Manager 9.4 for vSphere",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61373"
-    },
-    {
-      "text": "Product",
-      "href": "https://mysupport.netapp.com/products/p/oncommand_um.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:oncommand_unified_manger:9.4:*:*:*:*:vsphere:*:*",
-    "deprecation": {
-      "date": "2020-06-16T13:11:23.497-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vsphere:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netapp:oncommand_unified_manger:9.4::~~~vsphere~~",
+	"deprecated": true,
+	"deprecation_date": "2020-06-16T17:11:23.497Z",
+	"title": [
+		{
+			"text": "NetApp OnCommand Unified Manager 9.4 for vSphere",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61373"
+		},
+		{
+			"text": "Product",
+			"href": "https://mysupport.netapp.com/products/p/oncommand_um.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:oncommand_unified_manger:9.4:*:*:*:*:vsphere:*:*",
+		"deprecation": {
+			"date": "2020-06-16T13:11:23.497-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:netapp:oncommand_unified_manager:9.4:*:*:*:*:vsphere:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

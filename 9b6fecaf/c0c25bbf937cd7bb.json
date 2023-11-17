@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:moxa:iologic_e2214:-",
-  "deprecated": true,
-  "deprecation_date": "2021-05-19T13:45:00.697Z",
-  "title": [
-    {
-      "text": "Moxa ioLogic E2214",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:moxa:iologic_e2214:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-19T09:45:00.697-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:moxa:iologik_e2214:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:moxa:iologic_e2214:-",
+	"deprecated": true,
+	"deprecation_date": "2021-05-19T13:45:00.697Z",
+	"title": [
+		{
+			"text": "Moxa ioLogic E2214",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:moxa:iologic_e2214:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-19T09:45:00.697-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:moxa:iologik_e2214:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

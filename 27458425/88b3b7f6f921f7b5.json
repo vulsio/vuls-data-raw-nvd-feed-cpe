@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:user_location_and_ip_project:user_location_and_ip:1.6::~~~wordpress~~",
-  "title": [
-    {
-      "text": "User Location and IP Project User Location and IP 1.6 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/user-location-and-ip/wordpress-user-location-and-ip-plugin-1-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/user-location-and-ip/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:user_location_and_ip_project:user_location_and_ip:1.6:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:user_location_and_ip_project:user_location_and_ip:1.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "User Location and IP Project User Location and IP 1.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/user-location-and-ip/wordpress-user-location-and-ip-plugin-1-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/user-location-and-ip/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:user_location_and_ip_project:user_location_and_ip:1.6:*:*:*:*:wordpress:*:*"
+	}
 }

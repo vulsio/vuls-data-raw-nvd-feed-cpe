@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:joomla:joomla%21:3.5.1",
-  "deprecated": true,
-  "deprecation_date": "2020-10-19T12:27:43.110Z",
-  "title": [
-    {
-      "text": "Joomla! 3.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/joomla/joomla-cms"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:joomla:joomla\\!:3.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-19T08:27:43.110-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:joomla:joomla\\!:3.5.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:joomla:joomla%21:3.5.1",
+	"deprecated": true,
+	"deprecation_date": "2020-10-19T12:27:43.110Z",
+	"title": [
+		{
+			"text": "Joomla! 3.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/joomla/joomla-cms"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joomla:joomla\\!:3.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-19T08:27:43.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:joomla:joomla\\!:3.5.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

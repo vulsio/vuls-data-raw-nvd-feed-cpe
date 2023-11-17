@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:git-fastclone_project:git-fastclone:1.1.1",
-  "deprecated": true,
-  "deprecation_date": "2020-06-10T13:06:40.650Z",
-  "title": [
-    {
-      "text": "git-fastclone Project git-fastclone 1.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/square/git-fastclone/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git-fastclone_project:git-fastclone:1.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-06-10T09:06:40.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:squareup:git-fastclone:1.1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:git-fastclone_project:git-fastclone:1.1.1",
+	"deprecated": true,
+	"deprecation_date": "2020-06-10T13:06:40.650Z",
+	"title": [
+		{
+			"text": "git-fastclone Project git-fastclone 1.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/square/git-fastclone/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git-fastclone_project:git-fastclone:1.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-06-10T09:06:40.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:squareup:git-fastclone:1.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

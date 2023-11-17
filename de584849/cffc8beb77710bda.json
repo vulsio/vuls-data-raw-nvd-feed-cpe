@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:hp:integrated_lights-out:4.0",
-  "deprecated": true,
-  "deprecation_date": "2023-02-14T17:31:33.960Z",
-  "title": [
-    {
-      "text": "HP Integrated Lights-Out 4.0 (iLO4)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "http://h20565.www2.hp.com/portal/site/hpsc/public/psi/home/?sp4ts.oid=5219994"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:hp:integrated_lights-out:4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-14T12:31:33.960-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:hp:integrated_lights-out:4.0",
+	"deprecated": true,
+	"deprecation_date": "2023-02-14T17:31:33.960Z",
+	"title": [
+		{
+			"text": "HP Integrated Lights-Out 4.0 (iLO4)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "http://h20565.www2.hp.com/portal/site/hpsc/public/psi/home/?sp4ts.oid=5219994"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:integrated_lights-out:4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-14T12:31:33.960-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:hp:integrated_lights-out_4:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

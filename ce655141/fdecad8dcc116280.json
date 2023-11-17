@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:themeum:tutor_lms:1.7.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "themeum Tutor LMS 1.7.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.themeum.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/blog/2021/03/several-vulnerabilities-patched-in-tutor-lms-plugin/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/d5a00322-7098-4f8d-8e5e-157b63449c17"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/themeum/tutor/blob/master/.github/changelog.md#tutorlms-changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:themeum:tutor_lms:1.7.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:themeum:tutor_lms:1.7.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "themeum Tutor LMS 1.7.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.themeum.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/blog/2021/03/several-vulnerabilities-patched-in-tutor-lms-plugin/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/d5a00322-7098-4f8d-8e5e-157b63449c17"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/themeum/tutor/blob/master/.github/changelog.md#tutorlms-changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themeum:tutor_lms:1.7.2:*:*:*:*:wordpress:*:*"
+	}
 }

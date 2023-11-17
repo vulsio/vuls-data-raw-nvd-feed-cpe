@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ckeditor:ckeditor_5:10.0.1",
-  "deprecated": true,
-  "deprecation_date": "2022-08-09T17:31:08.413Z",
-  "title": [
-    {
-      "text": "CKEditor CKEditor 5 10.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ckeditor.com/blog/CKEditor-5-v10.0.1-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ckeditor:ckeditor_5:10.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-08-09T13:31:08.413-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ckeditor:ckeditor5:10.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ckeditor:ckeditor_5:10.0.1",
+	"deprecated": true,
+	"deprecation_date": "2022-08-09T17:31:08.413Z",
+	"title": [
+		{
+			"text": "CKEditor CKEditor 5 10.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ckeditor.com/blog/CKEditor-5-v10.0.1-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ckeditor:ckeditor_5:10.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-08-09T13:31:08.413-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ckeditor:ckeditor5:10.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

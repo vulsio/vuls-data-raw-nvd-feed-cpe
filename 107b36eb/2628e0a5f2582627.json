@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:9.6.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 9.6.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
-    },
-    {
-      "text": "Version",
-      "href": "https://about.gitlab.com/releases/2017/03/22/gitlab-9-0-released/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://about.gitlab.com/blog/2019/11/27/security-release-gitlab-12-5-1-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:9.6.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:9.6.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 9.6.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/releases/2017/03/22/gitlab-9-0-released/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://about.gitlab.com/blog/2019/11/27/security-release-gitlab-12-5-1-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:9.6.0:*:*:*:enterprise:*:*:*"
+	}
 }

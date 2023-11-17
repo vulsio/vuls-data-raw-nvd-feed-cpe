@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wow-company:bubble_menu:-::~~free~wordpress~~",
-  "title": [
-    {
-      "text": "Wow-Company Bubble Menu Free Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://wow-company.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/bubble-menu/wordpress-bubble-menu-circle-floating-menu-plugin-3-0-1-cross-site-request-forgery-csrf?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/bubble-menu/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wow-company:bubble_menu:-:*:*:*:free:wordpress:*:*"
-  }
+	"name": "cpe:/a:wow-company:bubble_menu:-::~~free~wordpress~~",
+	"title": [
+		{
+			"text": "Wow-Company Bubble Menu Free Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wow-company.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bubble-menu/wordpress-bubble-menu-circle-floating-menu-plugin-3-0-1-cross-site-request-forgery-csrf?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/bubble-menu/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wow-company:bubble_menu:-:*:*:*:free:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:bd:alaris_gs_firmware:2.3.6",
-  "title": [
-    {
-      "text": "BD (Becton Dickinson) Alaris GS Firmware 2.3.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://bd-products.com/products/ivsets/products.php?GH=Yes&DEDICATED=Yes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-235-01"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.carefusion.es/documents/international/guides/directions-for-use/infusion/1000DF00327.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:bd:alaris_gs_firmware:2.3.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:bd:alaris_gs_firmware:2.3.6",
+	"title": [
+		{
+			"text": "BD (Becton Dickinson) Alaris GS Firmware 2.3.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://bd-products.com/products/ivsets/products.php?GH=Yes&DEDICATED=Yes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-235-01"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.carefusion.es/documents/international/guides/directions-for-use/infusion/1000DF00327.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:bd:alaris_gs_firmware:2.3.6:*:*:*:*:*:*:*"
+	}
 }

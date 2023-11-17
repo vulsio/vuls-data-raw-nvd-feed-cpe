@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:se:webreports:3.1",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:44:14.463Z",
-  "title": [
-    {
-      "text": "Schneider-Electric WebReports 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.se.com/ww/en/download/document/SEVD-2020-315-04/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:webreports:3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:44:14.463-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:webreports:3.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:webreports:3.1",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:44:14.463Z",
+	"title": [
+		{
+			"text": "Schneider-Electric WebReports 3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.se.com/ww/en/download/document/SEVD-2020-315-04/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:webreports:3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:44:14.463-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:webreports:3.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:psgo_project:psgo:1.3.0::~~~go~~",
-  "title": [
-    {
-      "text": "psgo Project psgo 1.3.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://pkg.go.dev/github.com/containers/psgo"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2070368"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/containers/psgo/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:psgo_project:psgo:1.3.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:psgo_project:psgo:1.3.0::~~~go~~",
+	"title": [
+		{
+			"text": "psgo Project psgo 1.3.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://pkg.go.dev/github.com/containers/psgo"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2070368"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/containers/psgo/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:psgo_project:psgo:1.3.0:*:*:*:*:go:*:*"
+	}
 }

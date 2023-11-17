@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amazon:opensearch:2.5.0::~~~docker~~",
-  "title": [
-    {
-      "text": "Amazon OpenSearch 2.5.0 for Docker",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://opensearch.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/opensearch-project/anomaly-detection/security/advisories/GHSA-47qw-jwpx-pp4c"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:opensearch:2.5.0:*:*:*:*:docker:*:*"
-  }
+	"name": "cpe:/a:amazon:opensearch:2.5.0::~~~docker~~",
+	"title": [
+		{
+			"text": "Amazon OpenSearch 2.5.0 for Docker",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://opensearch.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/opensearch-project/anomaly-detection/security/advisories/GHSA-47qw-jwpx-pp4c"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:opensearch:2.5.0:*:*:*:*:docker:*:*"
+	}
 }

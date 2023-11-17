@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:teams:-::~~~android~~",
-  "title": [
-    {
-      "text": "Microsoft Teams for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US&gl=US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21965"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:teams:-:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:microsoft:teams:-::~~~android~~",
+	"title": [
+		{
+			"text": "Microsoft Teams for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en_US&gl=US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-21965"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:teams:-:*:*:*:*:android:*:*"
+	}
 }

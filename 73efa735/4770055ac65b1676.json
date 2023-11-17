@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mp3gain:mp3gain:1.4.4",
-  "deprecated": true,
-  "deprecation_date": "2019-11-08T15:49:01.357Z",
-  "title": [
-    {
-      "text": "MP3Gain 1.4.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/mp3gain/files/"
-    },
-    {
-      "text": "Product",
-      "href": "http://mp3gain.sourceforge.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mp3gain:mp3gain:1.4.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-08T10:49:01.357-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mp3gain_project:mp3gain:1.4.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mp3gain:mp3gain:1.4.4",
+	"deprecated": true,
+	"deprecation_date": "2019-11-08T15:49:01.357Z",
+	"title": [
+		{
+			"text": "MP3Gain 1.4.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/mp3gain/files/"
+		},
+		{
+			"text": "Product",
+			"href": "http://mp3gain.sourceforge.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mp3gain:mp3gain:1.4.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-08T10:49:01.357-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mp3gain_project:mp3gain:1.4.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

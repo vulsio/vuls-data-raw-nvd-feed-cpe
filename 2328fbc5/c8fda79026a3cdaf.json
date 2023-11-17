@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:scylladb:scylladb:0.13.2",
-  "title": [
-    {
-      "text": "ScyllaDB 0.13.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/scylladb/scylladb/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/scylladb/scylladb/security/advisories/GHSA-ww5v-p45p-3vhq"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.scylladb.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:scylladb:scylladb:0.13.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:scylladb:scylladb:0.13.2",
+	"title": [
+		{
+			"text": "ScyllaDB 0.13.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/scylladb/scylladb/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/scylladb/scylladb/security/advisories/GHSA-ww5v-p45p-3vhq"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.scylladb.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:scylladb:scylladb:0.13.2:*:*:*:*:*:*:*"
+	}
 }

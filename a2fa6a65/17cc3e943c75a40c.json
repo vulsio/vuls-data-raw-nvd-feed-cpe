@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:jruby:jruby:1.2.0",
-  "deprecated": true,
-  "deprecation_date": "2021-01-12T14:46:16.610Z",
-  "title": [
-    {
-      "text": "JRuby 1.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jruby:jruby:1.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-12T09:46:16.610-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jruby:jruby:1.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jruby:jruby:1.2.0",
+	"deprecated": true,
+	"deprecation_date": "2021-01-12T14:46:16.610Z",
+	"title": [
+		{
+			"text": "JRuby 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jruby:jruby:1.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-12T09:46:16.610-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jruby:jruby:1.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

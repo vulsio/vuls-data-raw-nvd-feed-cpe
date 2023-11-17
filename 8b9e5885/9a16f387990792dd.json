@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openslp:openslp:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-01-29T16:14:06.940Z",
-  "title": [
-    {
-      "text": "openSLP 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.openslp.org/download.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openslp:openslp:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-29T11:14:06.940-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openslp:openslp:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openslp:openslp:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-01-29T16:14:06.940Z",
+	"title": [
+		{
+			"text": "openSLP 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.openslp.org/download.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openslp:openslp:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-29T11:14:06.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openslp:openslp:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

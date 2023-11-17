@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:enterprise_log_manager:11.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T13:51:27.590Z",
-  "title": [
-    {
-      "text": "Ca Enterprise Log Manager 11.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T09:51:27.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:enterprise_log_manager:11.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T13:51:27.590Z",
+	"title": [
+		{
+			"text": "Ca Enterprise Log Manager 11.1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T09:51:27.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:enterprise_log_manager:11.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

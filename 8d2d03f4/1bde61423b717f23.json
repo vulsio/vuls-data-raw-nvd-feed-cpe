@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudfoundry:cf-release:250",
-  "title": [
-    {
-      "text": "Cloudfoundry CF-release 250",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/cf-release/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cloudfoundry.org/cf-release-for-openpower/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudfoundry.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudfoundry:cf-release:250:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudfoundry:cf-release:250",
+	"title": [
+		{
+			"text": "Cloudfoundry CF-release 250",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/cf-release/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cloudfoundry.org/cf-release-for-openpower/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudfoundry.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudfoundry:cf-release:250:*:*:*:*:*:*:*"
+	}
 }

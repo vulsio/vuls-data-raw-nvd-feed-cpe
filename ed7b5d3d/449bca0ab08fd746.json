@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:typo3:typo3:6.2.10",
-  "deprecated": true,
-  "deprecation_date": "2020-05-18T15:26:47.987Z",
-  "title": [
-    {
-      "text": "TYPO3 6.2.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://typo3.org/"
-    },
-    {
-      "text": "Version",
-      "href": "http://sourceforge.net/projects/typo3/files/TYPO3%20Source%20and%20Dummy/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:typo3:typo3:6.2.10:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-18T11:26:47.987-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:typo3:typo3:6.2.10:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:typo3:typo3:6.2.10",
+	"deprecated": true,
+	"deprecation_date": "2020-05-18T15:26:47.987Z",
+	"title": [
+		{
+			"text": "TYPO3 6.2.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://typo3.org/"
+		},
+		{
+			"text": "Version",
+			"href": "http://sourceforge.net/projects/typo3/files/TYPO3%20Source%20and%20Dummy/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:typo3:typo3:6.2.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-18T11:26:47.987-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:typo3:typo3:6.2.10:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:avaya:vpnmanager:-",
-  "deprecated": true,
-  "deprecation_date": "2021-03-29T14:00:12.430Z",
-  "title": [
-    {
-      "text": "Avaya VPNManager TM Console",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.avaya.com/products/P0153/vpnmanager-series"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:avaya:vpnmanager:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-03-29T10:00:12.430-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:avaya:vpnmanager_console:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:avaya:vpnmanager:-",
+	"deprecated": true,
+	"deprecation_date": "2021-03-29T14:00:12.430Z",
+	"title": [
+		{
+			"text": "Avaya VPNManager TM Console",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.avaya.com/products/P0153/vpnmanager-series"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:avaya:vpnmanager:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-03-29T10:00:12.430-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:avaya:vpnmanager_console:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

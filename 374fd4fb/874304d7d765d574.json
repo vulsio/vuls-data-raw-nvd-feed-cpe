@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cncf:opentelemetry-go_contrib:0.38.0::~~~opentelemetry-go~~",
-  "deprecated": true,
-  "deprecation_date": "2023-03-14T15:35:34.180Z",
-  "title": [
-    {
-      "text": "Cloud Native Computing Foundation OpenTelemetry-Go Contrib 0.38.0 for OpenTelemetry-Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/open-telemetry/opentelemetry-go-contrib"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/open-telemetry/opentelemetry-go-contrib/blob/main/CHANGELOG.md"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cncf.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cncf:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*",
-    "deprecation": {
-      "date": "2023-03-14T11:35:34.180-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cncf:opentelemetry-go_contrib:0.38.0::~~~opentelemetry-go~~",
+	"deprecated": true,
+	"deprecation_date": "2023-03-14T15:35:34.180Z",
+	"title": [
+		{
+			"text": "Cloud Native Computing Foundation OpenTelemetry-Go Contrib 0.38.0 for OpenTelemetry-Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/open-telemetry/opentelemetry-go-contrib"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/open-telemetry/opentelemetry-go-contrib/blob/main/CHANGELOG.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cncf.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cncf:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*",
+		"deprecation": {
+			"date": "2023-03-14T11:35:34.180-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:opentelemetry-go_contrib:0.38.0:*:*:*:*:opentelemetry-go:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

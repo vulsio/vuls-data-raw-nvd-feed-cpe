@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:heat:7.0.0",
-  "title": [
-    {
-      "text": "OpenStack Heat 7.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.openstack.org/releasenotes/heat/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugs.launchpad.net/ossa/+bug/1606500"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:heat:7.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:heat:7.0.0",
+	"title": [
+		{
+			"text": "OpenStack Heat 7.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.openstack.org/releasenotes/heat/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.launchpad.net/ossa/+bug/1606500"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:heat:7.0.0:*:*:*:*:*:*:*"
+	}
 }

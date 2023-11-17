@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:network_and_systems_management:r3.1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T18:50:27.237Z",
-  "title": [
-    {
-      "text": "Computer Associates Network and Systems Management r3.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T14:50:27.237-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:network_and_systems_management:r3.1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T18:50:27.237Z",
+	"title": [
+		{
+			"text": "Computer Associates Network and Systems Management r3.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T14:50:27.237-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:network_and_systems_management:r3.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

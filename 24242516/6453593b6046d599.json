@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:hp:v310-15ikb_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:31:01.770Z",
-  "title": [
-    {
-      "text": "HP V310-15IKB Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:hp:v310-15ikb_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:31:01.770-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:lenovo:v310-15ikb_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:hp:v310-15ikb_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:31:01.770Z",
+	"title": [
+		{
+			"text": "HP V310-15IKB Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:hp:v310-15ikb_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:31:01.770-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:lenovo:v310-15ikb_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

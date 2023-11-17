@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:socket:socket.io:2.2.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Socket.IO 2.2.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://socket.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/socket.io"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:socket:socket.io:2.2.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:socket:socket.io:2.2.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Socket.IO 2.2.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://socket.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/socket.io"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:socket:socket.io:2.2.0:*:*:*:*:node.js:*:*"
+	}
 }

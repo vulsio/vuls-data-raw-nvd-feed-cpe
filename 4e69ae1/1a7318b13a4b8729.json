@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt80i:3.00.36",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:25:31.560Z",
-  "title": [
-    {
-      "text": "ヤマハ RT80i 3.00.36",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT80i 3.00.36",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt80i:3.00.36:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:25:31.560-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt80i:3.00.36:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt80i:3.00.36",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:25:31.560Z",
+	"title": [
+		{
+			"text": "ヤマハ RT80i 3.00.36",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT80i 3.00.36",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt80i:3.00.36:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:25:31.560-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt80i:3.00.36:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

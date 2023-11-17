@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:xmlsoft:libxml2:2.9.9",
-  "deprecated": true,
-  "deprecation_date": "2020-02-18T19:23:46.373Z",
-  "title": [
-    {
-      "text": "XMLSoft Libxml2 2.9.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/GNOME/libxml2/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://xmlsoft.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-18T14:23:46.373-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xmlsoft:libxml2:2.9.9",
+	"deprecated": true,
+	"deprecation_date": "2020-02-18T19:23:46.373Z",
+	"title": [
+		{
+			"text": "XMLSoft Libxml2 2.9.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/GNOME/libxml2/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://xmlsoft.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-18T14:23:46.373-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xmlsoft:libxml2:2.9.9:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

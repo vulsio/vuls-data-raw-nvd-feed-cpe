@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:playframework:play_framework:2.2.1:-",
-  "deprecated": true,
-  "deprecation_date": "2019-11-25T16:24:44.687Z",
-  "title": [
-    {
-      "text": "Play Framework 2.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.playframework.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/playframework/playframework/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:playframework:play_framework:2.2.1:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-25T11:24:44.687-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:lightbend:play_framework:2.2.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:playframework:play_framework:2.2.1:-",
+	"deprecated": true,
+	"deprecation_date": "2019-11-25T16:24:44.687Z",
+	"title": [
+		{
+			"text": "Play Framework 2.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.playframework.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/playframework/playframework/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:playframework:play_framework:2.2.1:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-25T11:24:44.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:lightbend:play_framework:2.2.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

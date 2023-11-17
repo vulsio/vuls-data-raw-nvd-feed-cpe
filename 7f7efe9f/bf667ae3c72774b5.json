@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:mysql:5.6.32",
-  "title": [
-    {
-      "text": "Oracle MySQL 5.6.32",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://dev.mysql.com/doc/relnotes/mysql/5.6/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql:5.6.32:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql:5.6.32",
+	"title": [
+		{
+			"text": "Oracle MySQL 5.6.32",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://dev.mysql.com/doc/relnotes/mysql/5.6/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2016-2881722.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql:5.6.32:*:*:*:*:*:*:*"
+	}
 }

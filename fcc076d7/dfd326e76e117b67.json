@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:servicenow:it_service_management:kingston:patch_13",
-  "title": [
-    {
-      "text": "ServiceNow IT Service Management Kingston Patch 13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/available-versions.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.servicenow.com/products/itsm.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://outpost24.com/blog/Responsible-disclosure-Multiple-stored-XSS-vulnerabilities-discovered-in-ServiceNow-ITSM"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:servicenow:it_service_management:kingston:patch_13:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:servicenow:it_service_management:kingston:patch_13",
+	"title": [
+		{
+			"text": "ServiceNow IT Service Management Kingston Patch 13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/available-versions.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.servicenow.com/products/itsm.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://outpost24.com/blog/Responsible-disclosure-Multiple-stored-XSS-vulnerabilities-discovered-in-ServiceNow-ITSM"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:servicenow:it_service_management:kingston:patch_13:*:*:*:*:*:*"
+	}
 }

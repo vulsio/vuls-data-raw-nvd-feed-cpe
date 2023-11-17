@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:apache:nifi:0.5.1",
-  "deprecated": true,
-  "deprecation_date": "2020-02-19T13:20:40.150Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation NiFi 0.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://cwiki.apache.org/confluence/display/NIFI/Release+Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:nifi:0.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-19T08:20:40.150-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:nifi:0.5.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:nifi:0.5.1",
+	"deprecated": true,
+	"deprecation_date": "2020-02-19T13:20:40.150Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation NiFi 0.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://cwiki.apache.org/confluence/display/NIFI/Release+Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:nifi:0.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-19T08:20:40.150-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:nifi:0.5.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

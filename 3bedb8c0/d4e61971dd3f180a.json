@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tencent:wechat:8.0.10::~~~android~~",
-  "title": [
-    {
-      "text": "Tencent WeChat 8.0.10 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BESTICSP/Vulnerabilities-Related-to-Mini-Programs-Permissions/blob/main/WX%20applet%20contact%20permission%20vulnerability%20report.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.tencent.com/en-us/about.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.wechat.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tencent:wechat:8.0.10:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:tencent:wechat:8.0.10::~~~android~~",
+	"title": [
+		{
+			"text": "Tencent WeChat 8.0.10 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BESTICSP/Vulnerabilities-Related-to-Mini-Programs-Permissions/blob/main/WX%20applet%20contact%20permission%20vulnerability%20report.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.tencent.com/en-us/about.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.wechat.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tencent:wechat:8.0.10:*:*:*:*:android:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:office_web_apps:2013:sp1",
-  "title": [
-    {
-      "text": "Microsoft Office Web Apps 2013 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/help/4475609/security-update-for-office-web-apps-server-2013-april-14-2020"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office_web_apps:2013:sp1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:office_web_apps:2013:sp1",
+	"title": [
+		{
+			"text": "Microsoft Office Web Apps 2013 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/help/4475609/security-update-for-office-web-apps-server-2013-april-14-2020"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office_web_apps:2013:sp1:*:*:*:*:*:*"
+	}
 }

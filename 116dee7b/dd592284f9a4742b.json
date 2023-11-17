@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:google:native_client:2015",
-  "title": [
-    {
-      "text": "Google Native Client 2015",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.chrome.com/native-client"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:native_client:2015:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:google:native_client:2015",
+	"title": [
+		{
+			"text": "Google Native Client 2015",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.chrome.com/native-client"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:native_client:2015:*:*:*:*:*:*:*"
+	}
 }

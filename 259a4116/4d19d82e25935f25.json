@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_tng:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:45:09.340Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter TNG",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_tng:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:45:09.340-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_tng:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_tng:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:45:09.340Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter TNG",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_tng:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:45:09.340-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_tng:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:malwarebytes:binisoft_windows_firewall_control:6.9.2.0",
-  "title": [
-    {
-      "text": "Malwarebytes Binisoft Windows Firewall Control 6.9.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.binisoft.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.bencteux.fr/posts/malwarebytes_wfc/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/36xxx/CVE-2023-36631.json"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.malwarebytes.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:malwarebytes:binisoft_windows_firewall_control:6.9.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:malwarebytes:binisoft_windows_firewall_control:6.9.2.0",
+	"title": [
+		{
+			"text": "Malwarebytes Binisoft Windows Firewall Control 6.9.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.binisoft.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.bencteux.fr/posts/malwarebytes_wfc/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/36xxx/CVE-2023-36631.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.malwarebytes.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:malwarebytes:binisoft_windows_firewall_control:6.9.2.0:*:*:*:*:*:*:*"
+	}
 }

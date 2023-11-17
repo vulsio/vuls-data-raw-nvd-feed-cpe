@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:integration_camel_k:-",
-  "title": [
-    {
-      "text": "Red Hat Integration Camel K",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_integration/2020-q4/html-single/deploying_camel_k_integrations_on_openshift/index#camel-k-overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1923405"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-20218"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:integration_camel_k:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:integration_camel_k:-",
+	"title": [
+		{
+			"text": "Red Hat Integration Camel K",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_integration/2020-q4/html-single/deploying_camel_k_integrations_on_openshift/index#camel-k-overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1923405"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-20218"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:integration_camel_k:-:*:*:*:*:*:*:*"
+	}
 }

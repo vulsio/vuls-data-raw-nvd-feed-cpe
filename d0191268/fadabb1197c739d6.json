@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:valve:dota_2:2020-02-17",
-  "deprecated": true,
-  "deprecation_date": "2022-02-07T19:09:08.330Z",
-  "title": [
-    {
-      "text": "Valve DotA 2 2020-02-17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://blog.dota2.com/?l=english"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/bi7s/CVE/blob/master/CVE-2020-9005/README.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:valve:dota_2:2020-02-17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-07T14:09:08.330-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:valvesoftware:dota_2:2020-02-17:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:valve:dota_2:2020-02-17",
+	"deprecated": true,
+	"deprecation_date": "2022-02-07T19:09:08.330Z",
+	"title": [
+		{
+			"text": "Valve DotA 2 2020-02-17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://blog.dota2.com/?l=english"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/bi7s/CVE/blob/master/CVE-2020-9005/README.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:valve:dota_2:2020-02-17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-07T14:09:08.330-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:valvesoftware:dota_2:2020-02-17:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

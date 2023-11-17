@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:citrix:receiver:4.12",
-  "title": [
-    {
-      "text": "Citrix Receiver 4.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/78433"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.citrix.com/downloads/citrix-receiver/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:receiver:4.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:citrix:receiver:4.12",
+	"title": [
+		{
+			"text": "Citrix Receiver 4.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/78433"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.citrix.com/downloads/citrix-receiver/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:receiver:4.12:*:*:*:*:*:*:*"
+	}
 }

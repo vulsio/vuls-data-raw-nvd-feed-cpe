@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:silver-peak:nx-3000_firmware:-",
-  "title": [
-    {
-      "text": "Silver Peak NX-3000 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.silver-peak.com/products/wan-optimization/vx-virtual-appliances"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.silver-peak.com/sites/default/files/advisory/security_advisory_notice_rogue_portal-cve_2020_12144.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:silver-peak:nx-3000_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:silver-peak:nx-3000_firmware:-",
+	"title": [
+		{
+			"text": "Silver Peak NX-3000 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.silver-peak.com/products/wan-optimization/vx-virtual-appliances"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.silver-peak.com/sites/default/files/advisory/security_advisory_notice_rogue_portal-cve_2020_12144.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:silver-peak:nx-3000_firmware:-:*:*:*:*:*:*:*"
+	}
 }

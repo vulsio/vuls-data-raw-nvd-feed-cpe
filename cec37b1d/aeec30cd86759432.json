@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:audacity:audacity:1.2.6",
-  "deprecated": true,
-  "deprecation_date": "2022-02-07T18:18:20.777Z",
-  "title": [
-    {
-      "text": "Audacity 1.2.6",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:audacity:audacity:1.2.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-07T13:18:20.777-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:audacityteam:audacity:1.2.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:audacity:audacity:1.2.6",
+	"deprecated": true,
+	"deprecation_date": "2022-02-07T18:18:20.777Z",
+	"title": [
+		{
+			"text": "Audacity 1.2.6",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:audacity:audacity:1.2.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-07T13:18:20.777-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:audacityteam:audacity:1.2.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

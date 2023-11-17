@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:libbson:0.98.0",
-  "title": [
-    {
-      "text": "MongoDB libbson 0.98.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/libbson/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/mongo-c-driver/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:libbson:0.98.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mongodb:libbson:0.98.0",
+	"title": [
+		{
+			"text": "MongoDB libbson 0.98.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/libbson/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/mongo-c-driver/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:libbson:0.98.0:*:*:*:*:*:*:*"
+	}
 }

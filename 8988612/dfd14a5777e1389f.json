@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:victronenergy:venus_os:-",
-  "title": [
-    {
-      "text": "Victronenergy Venus OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.victronenergy.com/live/venus-os:large"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/victronenergy/venus/issues/836"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/36xxx/CVE-2021-36797.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:victronenergy:venus_os:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:victronenergy:venus_os:-",
+	"title": [
+		{
+			"text": "Victronenergy Venus OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.victronenergy.com/live/venus-os:large"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/victronenergy/venus/issues/836"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/36xxx/CVE-2021-36797.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:victronenergy:venus_os:-:*:*:*:*:*:*:*"
+	}
 }

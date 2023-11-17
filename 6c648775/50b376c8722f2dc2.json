@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mantisbt:mantisbt:-",
-  "title": [
-    {
-      "text": "MantisBT",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/YavuzSahbaz/CVE-2022-28508/blob/main/MantisBT%202.25.2%20XSS%20vulnurability"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://mantisbt.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/mantisbt/files/mantis-stable/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mantisbt:mantisbt:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mantisbt:mantisbt:-",
+	"title": [
+		{
+			"text": "MantisBT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/YavuzSahbaz/CVE-2022-28508/blob/main/MantisBT%202.25.2%20XSS%20vulnurability"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mantisbt.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/mantisbt/files/mantis-stable/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mantisbt:mantisbt:-:*:*:*:*:*:*:*"
+	}
 }

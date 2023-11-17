@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:fork-cms:forkcms:5.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-07-12T14:12:39.330Z",
-  "title": [
-    {
-      "text": "Fork CMS 5.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/forkcms/forkcms/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.fork-cms.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/forkcms/forkcms"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fork-cms:forkcms:5.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-12T10:12:39.330-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:fork-cms:fork_cms:5.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:fork-cms:forkcms:5.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-07-12T14:12:39.330Z",
+	"title": [
+		{
+			"text": "Fork CMS 5.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/forkcms/forkcms/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.fork-cms.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/forkcms/forkcms"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fork-cms:forkcms:5.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-12T10:12:39.330-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fork-cms:fork_cms:5.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

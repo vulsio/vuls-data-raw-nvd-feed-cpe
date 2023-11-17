@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:hornetq:2.1.1",
-  "title": [
-    {
-      "text": "Redhat HornetQ 2.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2014-3599"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/victims/victims-cve-db/blob/master/database/java/2014/3599.yaml"
-    },
-    {
-      "text": "Version",
-      "href": "https://hornetq.jboss.org/docs"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:hornetq:2.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:hornetq:2.1.1",
+	"title": [
+		{
+			"text": "Redhat HornetQ 2.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2014-3599"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/victims/victims-cve-db/blob/master/database/java/2014/3599.yaml"
+		},
+		{
+			"text": "Version",
+			"href": "https://hornetq.jboss.org/docs"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:hornetq:2.1.1:*:*:*:*:*:*:*"
+	}
 }

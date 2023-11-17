@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:etrust_siteminder:5.5",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T16:30:16.047Z",
-  "title": [
-    {
-      "text": "Computer Associates eTrust SiteMinder 5.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:etrust_siteminder:5.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T12:30:16.047-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:etrust_siteminder:5.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:etrust_siteminder:5.5",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T16:30:16.047Z",
+	"title": [
+		{
+			"text": "Computer Associates eTrust SiteMinder 5.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:etrust_siteminder:5.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T12:30:16.047-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:etrust_siteminder:5.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

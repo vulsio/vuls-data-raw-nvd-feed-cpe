@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:neomutt:neomutt:20210504",
-  "title": [
-    {
-      "text": "NeoMutt 20210504",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/neomutt/neomutt/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://neomutt.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/muttmua/mutt/-/commit/7c4779ac24d2fb68a2a47b58c7904118f40965d5"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32055.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:neomutt:neomutt:20210504:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:neomutt:neomutt:20210504",
+	"title": [
+		{
+			"text": "NeoMutt 20210504",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/neomutt/neomutt/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://neomutt.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/muttmua/mutt/-/commit/7c4779ac24d2fb68a2a47b58c7904118f40965d5"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32055.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:neomutt:neomutt:20210504:*:*:*:*:*:*:*"
+	}
 }

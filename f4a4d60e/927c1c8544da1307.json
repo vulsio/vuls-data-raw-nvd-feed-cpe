@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_1709:-",
-  "deprecated": true,
-  "deprecation_date": "2018-08-02T15:49:45.563Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 1709",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/windows-server/get-started/get-started-with-1709"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-08-02T11:49:45.563-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2016:1709:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_1709:-",
+	"deprecated": true,
+	"deprecation_date": "2018-08-02T15:49:45.563Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 1709",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/windows-server/get-started/get-started-with-1709"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_1709:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-08-02T11:49:45.563-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2016:1709:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

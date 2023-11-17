@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:uyuni_project:uyuni:2021.05",
-  "deprecated": true,
-  "deprecation_date": "2022-11-14T13:29:59.657Z",
-  "title": [
-    {
-      "text": "Uyuni Project Uyuni 2021.05",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.uyuni-project.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.uyuni-project.org/doc/2022.10/release-notes-uyuni-server.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:uyuni_project:uyuni:2021.05:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-14T08:29:59.657-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:uyuni-project:uyuni:2021.05:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:uyuni_project:uyuni:2021.05",
+	"deprecated": true,
+	"deprecation_date": "2022-11-14T13:29:59.657Z",
+	"title": [
+		{
+			"text": "Uyuni Project Uyuni 2021.05",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.uyuni-project.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.uyuni-project.org/doc/2022.10/release-notes-uyuni-server.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:uyuni_project:uyuni:2021.05:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-14T08:29:59.657-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:uyuni-project:uyuni:2021.05:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

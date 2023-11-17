@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:ons_15454sdh:4.0%280%29",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:37:05.630Z",
-  "title": [
-    {
-      "text": "Cisco Optical Networking Systems Software (ONS) 4.0(0)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ons_15454sdh:4.0\\(0\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:37:05.630-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:optical_networking_systems_software:4.0\\(0\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:ons_15454sdh:4.0%280%29",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:37:05.630Z",
+	"title": [
+		{
+			"text": "Cisco Optical Networking Systems Software (ONS) 4.0(0)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ons_15454sdh:4.0\\(0\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:37:05.630-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:optical_networking_systems_software:4.0\\(0\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

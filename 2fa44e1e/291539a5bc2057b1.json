@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:citrix:application_delivery_controller:12.1-64.17",
-  "deprecated": true,
-  "deprecation_date": "2023-09-29T11:33:57.233Z",
-  "title": [
-    {
-      "text": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX477714/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202324487-cve202324488"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX457048/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202227507-and-cve202227508"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-29T07:33:57.233-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:citrix:application_delivery_controller:12.1-64.17",
+	"deprecated": true,
+	"deprecation_date": "2023-09-29T11:33:57.233Z",
+	"title": [
+		{
+			"text": "Citrix Application Delivery Controller (ADC) 12.1-64.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX477714/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202324487-cve202324488"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX457048/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202227507-and-cve202227508"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-29T07:33:57.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:citrix:application_delivery_controller:12.1-64.17:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

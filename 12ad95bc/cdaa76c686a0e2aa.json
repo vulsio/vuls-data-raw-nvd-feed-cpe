@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:timersys:wp_popups:2.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Timersys WP Popups 2.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://plugins.trac.wordpress.org/browser/wp-popups-lite/#tags"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-popups-lite/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-popups-lite/wordpress-wp-popups-wordpress-popup-builder-plugin-2-1-4-8-cross-site-scripting-xss?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://timersys.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:timersys:wp_popups:2.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:timersys:wp_popups:2.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Timersys WP Popups 2.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/wp-popups-lite/#tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-popups-lite/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-popups-lite/wordpress-wp-popups-wordpress-popup-builder-plugin-2-1-4-8-cross-site-scripting-xss?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://timersys.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:timersys:wp_popups:2.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

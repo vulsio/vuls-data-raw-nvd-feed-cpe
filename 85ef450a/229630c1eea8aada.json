@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:discourse:discourse-chat:0.3::~~~discourse~~",
-  "title": [
-    {
-      "text": "Discourse Chat 0.3 for Discourse",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/discourse/discourse-chat/security/advisories/GHSA-r979-jhp2-3f6h"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/discourse/discourse-chat"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:discourse:discourse-chat:0.3:*:*:*:*:discourse:*:*"
-  }
+	"name": "cpe:/a:discourse:discourse-chat:0.3::~~~discourse~~",
+	"title": [
+		{
+			"text": "Discourse Chat 0.3 for Discourse",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/discourse/discourse-chat/security/advisories/GHSA-r979-jhp2-3f6h"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/discourse/discourse-chat"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:discourse:discourse-chat:0.3:*:*:*:*:discourse:*:*"
+	}
 }

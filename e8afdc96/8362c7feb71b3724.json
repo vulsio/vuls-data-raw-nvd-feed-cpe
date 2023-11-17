@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/a:logitec:lan-w300n%2fru2_firmware:2.17",
-  "deprecated": true,
-  "deprecation_date": "2022-02-10T19:47:21.303Z",
-  "title": [
-    {
-      "text": "Logitec LAN-W300N/RU2 Firmware 2.17",
-      "lang": "en-US"
-    },
-    {
-      "text": "ロジテック LAN-W300N/RU2 ファームウェア 2.17",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:logitec:lan-w300n\\/ru2_firmware:2.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-10T14:47:21.303-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:logitech:lan-w300n\\/ru2_firmware:2.17:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:logitec:lan-w300n%2fru2_firmware:2.17",
+	"deprecated": true,
+	"deprecation_date": "2022-02-10T19:47:21.303Z",
+	"title": [
+		{
+			"text": "ロジテック LAN-W300N/RU2 ファームウェア 2.17",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Logitec LAN-W300N/RU2 Firmware 2.17",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:logitec:lan-w300n\\/ru2_firmware:2.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-10T14:47:21.303-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:logitech:lan-w300n\\/ru2_firmware:2.17:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:moxa:eds-g516e_firmware:5.2",
-  "title": [
-    {
-      "text": "Moxa EDS-G516E Firmware 5.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsa-20-056-04"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/layer-2-managed-switches/eds-510e-series"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/layer-2-managed-switches/eds-g516e-series/eds-g516e-4gsfp-t"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:moxa:eds-g516e_firmware:5.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:moxa:eds-g516e_firmware:5.2",
+	"title": [
+		{
+			"text": "Moxa EDS-G516E Firmware 5.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsa-20-056-04"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/layer-2-managed-switches/eds-510e-series"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/layer-2-managed-switches/eds-g516e-series/eds-g516e-4gsfp-t"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:moxa:eds-g516e_firmware:5.2:*:*:*:*:*:*:*"
+	}
 }

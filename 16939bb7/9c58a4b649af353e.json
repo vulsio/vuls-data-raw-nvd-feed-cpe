@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:londontrustmedia:private_internet_access:1.0.2",
-  "title": [
-    {
-      "text": "London Trust Media Private Internet Access (PIA) 1.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mirchr/security-research/blob/master/vulnerabilities/PIA/CVE-2019-12572.txt"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://londontrustmedia.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.privateinternetaccess.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:londontrustmedia:private_internet_access:1.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:londontrustmedia:private_internet_access:1.0.2",
+	"title": [
+		{
+			"text": "London Trust Media Private Internet Access (PIA) 1.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mirchr/security-research/blob/master/vulnerabilities/PIA/CVE-2019-12572.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://londontrustmedia.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.privateinternetaccess.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:londontrustmedia:private_internet_access:1.0.2:*:*:*:*:*:*:*"
+	}
 }

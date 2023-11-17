@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:foolabs:xpdf:0.5",
-  "deprecated": true,
-  "deprecation_date": "2019-03-06T16:20:30.357Z",
-  "title": [
-    {
-      "text": "foolabs Xpdf 0.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:foolabs:xpdf:0.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-06T11:20:30.357-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:glyphandcog:xpdfreader:0.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:foolabs:xpdf:0.5",
+	"deprecated": true,
+	"deprecation_date": "2019-03-06T16:20:30.357Z",
+	"title": [
+		{
+			"text": "foolabs Xpdf 0.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:foolabs:xpdf:0.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-06T11:20:30.357-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:glyphandcog:xpdfreader:0.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

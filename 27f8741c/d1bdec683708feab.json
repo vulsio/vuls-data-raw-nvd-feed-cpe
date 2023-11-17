@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:amazon:elastic_load_balancing_api_tools:1.0.9.3",
-  "deprecated": true,
-  "deprecation_date": "2021-05-10T15:43:36.050Z",
-  "title": [
-    {
-      "text": "Amazon Elastic Load Balancing API Tools 1.0.9.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://aws.amazon.com/elasticloadbalancing/?whats-new-cards-elb.sort-by=item.additionalFields.postDateTime&whats-new-cards-elb.sort-order=desc"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.aws.amazon.com/elasticloadbalancing/latest/APIReference/Welcome.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:elastic_load_balancing_api_tools:1.0.9.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-10T11:43:36.050-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:amazon:elastic_load_balancing:1.0.9.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:amazon:elastic_load_balancing_api_tools:1.0.9.3",
+	"deprecated": true,
+	"deprecation_date": "2021-05-10T15:43:36.050Z",
+	"title": [
+		{
+			"text": "Amazon Elastic Load Balancing API Tools 1.0.9.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://aws.amazon.com/elasticloadbalancing/?whats-new-cards-elb.sort-by=item.additionalFields.postDateTime&whats-new-cards-elb.sort-order=desc"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.aws.amazon.com/elasticloadbalancing/latest/APIReference/Welcome.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:elastic_load_balancing_api_tools:1.0.9.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-10T11:43:36.050-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:amazon:elastic_load_balancing:1.0.9.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab%3a%3aapi%3a%3av4_project:gitlab%3a%3aapi%3a%3av4:0.13",
-  "title": [
-    {
-      "text": "GitLab::API::v4 Project GitLab::API::v4 0.13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/bluefeet/GitLab-API-v4/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.hackeriet.no/perl-http-tiny-insecure-tls-default-affects-cpan-modules/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab\\:\\:api\\:\\:v4_project:gitlab\\:\\:api\\:\\:v4:0.13:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gitlab%3a%3aapi%3a%3av4_project:gitlab%3a%3aapi%3a%3av4:0.13",
+	"title": [
+		{
+			"text": "GitLab::API::v4 Project GitLab::API::v4 0.13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/bluefeet/GitLab-API-v4/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.hackeriet.no/perl-http-tiny-insecure-tls-default-affects-cpan-modules/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab\\:\\:api\\:\\:v4_project:gitlab\\:\\:api\\:\\:v4:0.13:*:*:*:*:*:*:*"
+	}
 }

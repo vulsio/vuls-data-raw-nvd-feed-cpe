@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:secure_endpoint:1.18.1::~~~linux~~",
-  "title": [
-    {
-      "text": "Cisco Secure Endpoint 1.18.1 for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-dos-vL9x58p4"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.amp.cisco.com/Release%20Notes.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:secure_endpoint:1.18.1:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:cisco:secure_endpoint:1.18.1::~~~linux~~",
+	"title": [
+		{
+			"text": "Cisco Secure Endpoint 1.18.1 for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-dos-vL9x58p4"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.amp.cisco.com/Release%20Notes.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_endpoint:1.18.1:*:*:*:*:linux:*:*"
+	}
 }

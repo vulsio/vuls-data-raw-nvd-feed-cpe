@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:sun:solaris:-",
-  "deprecated": true,
-  "deprecation_date": "2010-02-26T17:19:19.047Z",
-  "title": [
-    {
-      "text": "Sun Solaris",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sun:solaris:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-02-26T12:19:19.047-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:sun:sunos:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:sun:solaris:-",
+	"deprecated": true,
+	"deprecation_date": "2010-02-26T17:19:19.047Z",
+	"title": [
+		{
+			"text": "Sun Solaris",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sun:solaris:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-02-26T12:19:19.047-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:sun:sunos:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:kkmcn:itrackeasy_firmware:-",
-  "title": [
-    {
-      "text": "KKMcn iTrack Easy Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.rapid7.com/2016/10/25/multiple-bluetooth-low-energy-ble-tracker-vulnerabilities/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.ieasytec.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://kkmcn.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:kkmcn:itrackeasy_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:kkmcn:itrackeasy_firmware:-",
+	"title": [
+		{
+			"text": "KKMcn iTrack Easy Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.rapid7.com/2016/10/25/multiple-bluetooth-low-energy-ble-tracker-vulnerabilities/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.ieasytec.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://kkmcn.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:kkmcn:itrackeasy_firmware:-:*:*:*:*:*:*:*"
+	}
 }

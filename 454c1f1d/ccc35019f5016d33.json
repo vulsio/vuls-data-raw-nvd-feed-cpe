@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:xwiki:xwiki:1.7",
-  "title": [
-    {
-      "text": "XWiki 1.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://jira.xwiki.org/browse/XWIKI-19747"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-2g5c-228j-p52x"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xwiki:xwiki:1.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:xwiki:xwiki:1.7",
+	"title": [
+		{
+			"text": "XWiki 1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jira.xwiki.org/browse/XWIKI-19747"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/xwiki/xwiki-platform/security/advisories/GHSA-2g5c-228j-p52x"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xwiki:xwiki:1.7:*:*:*:*:*:*:*"
+	}
 }

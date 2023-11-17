@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:draytek:vigor2926_firmware:-",
-  "title": [
-    {
-      "text": "DrayTek Vigor2926 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.draytek.com/products/vigor2926#models"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:draytek:vigor2926_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:draytek:vigor2926_firmware:-",
+	"title": [
+		{
+			"text": "DrayTek Vigor2926 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.draytek.com/products/vigor2926#models"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.trellix.com/en-us/about/newsroom/stories/threat-labs/rce-in-dratyek-routers.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:draytek:vigor2926_firmware:-:*:*:*:*:*:*:*"
+	}
 }

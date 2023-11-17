@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:rabbitmq:3.7.8:-",
-  "title": [
-    {
-      "text": "VMware RabbitMQ 3.7.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/rabbitmq/rabbitmq-server/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.rabbitmq.com/changelog.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.vmware.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:rabbitmq:3.7.8:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:rabbitmq:3.7.8:-",
+	"title": [
+		{
+			"text": "VMware RabbitMQ 3.7.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/rabbitmq/rabbitmq-server/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.rabbitmq.com/changelog.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.vmware.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:rabbitmq:3.7.8:-:*:*:*:*:*:*"
+	}
 }

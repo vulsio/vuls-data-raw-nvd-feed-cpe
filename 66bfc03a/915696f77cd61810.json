@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:kube-state-metrics:0.4.0",
-  "title": [
-    {
-      "text": "Kubernetes Kube-state-metrics 0.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/kube-state-metrics/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kube-state-metrics:0.4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:kube-state-metrics:0.4.0",
+	"title": [
+		{
+			"text": "Kubernetes Kube-state-metrics 0.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/kube-state-metrics/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kube-state-metrics:0.4.0:*:*:*:*:*:*:*"
+	}
 }

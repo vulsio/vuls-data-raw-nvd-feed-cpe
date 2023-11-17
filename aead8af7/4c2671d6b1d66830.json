@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kapcoin_project:kapcoin:-",
-  "title": [
-    {
-      "text": "KAPcoin Project KAPcoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xff2889840e5ebf9ae3e0615705a73ee13b2a390d#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kapcoin_project:kapcoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kapcoin_project:kapcoin:-",
+	"title": [
+		{
+			"text": "KAPcoin Project KAPcoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xff2889840e5ebf9ae3e0615705a73ee13b2a390d#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kapcoin_project:kapcoin:-:*:*:*:*:*:*:*"
+	}
 }

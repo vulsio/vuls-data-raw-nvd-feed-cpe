@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:abb:ellipse_enterprise_asset_management:9.0.22",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:16:56.347Z",
-  "title": [
-    {
-      "text": "ABB Ellipse Enterprise Asset Management (EAM) 9.0.22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://library.e.abb.com/public/52183a4ae7b54616a1d050d3832ed24b/ABB%20Ability%20Ellipse%20CALM%20all%20industries_US_9AKK107046A0243%20WEB.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A7777&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:ellipse_enterprise_asset_management:9.0.22:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:16:56.347-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:ellipse_enterprise_asset_management:9.0.22:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:abb:ellipse_enterprise_asset_management:9.0.22",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:16:56.347Z",
+	"title": [
+		{
+			"text": "ABB Ellipse Enterprise Asset Management (EAM) 9.0.22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://library.e.abb.com/public/52183a4ae7b54616a1d050d3832ed24b/ABB%20Ability%20Ellipse%20CALM%20all%20industries_US_9AKK107046A0243%20WEB.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A7777&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:ellipse_enterprise_asset_management:9.0.22:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:16:56.347-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:ellipse_enterprise_asset_management:9.0.22:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

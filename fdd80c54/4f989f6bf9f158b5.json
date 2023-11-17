@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:mail:3.3.0:-",
-  "title": [
-    {
-      "text": "Nextcloud Mail 3.3.0 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8j9x-fmww-qr37"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:mail:3.3.0:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:mail:3.3.0:-",
+	"title": [
+		{
+			"text": "Nextcloud Mail 3.3.0 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextcloud/mail/blob/main/CHANGELOG.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8j9x-fmww-qr37"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:mail:3.3.0:-:*:*:*:*:*:*"
+	}
 }

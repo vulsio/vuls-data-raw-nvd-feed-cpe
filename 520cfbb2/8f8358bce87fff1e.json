@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:sonicwall:soho:-",
-  "title": [
-    {
-      "text": "SonicWALL SOHO",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2005-0001"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/support/knowledge-base/sonicwall-soho-wireless-sohow-out-of-box/170505845426416/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sonicwall:soho:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:sonicwall:soho:-",
+	"title": [
+		{
+			"text": "SonicWALL SOHO",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2005-0001"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/support/knowledge-base/sonicwall-soho-wireless-sohow-out-of-box/170505845426416/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sonicwall:soho:-:*:*:*:*:*:*:*"
+	}
 }

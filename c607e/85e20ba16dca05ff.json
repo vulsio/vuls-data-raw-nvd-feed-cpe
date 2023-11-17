@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:adobe:flash_player:22.0.0.192::~~~internet_explorer~~",
-  "title": [
-    {
-      "text": "Adobe Flash Player 22.0.0.192 for Internet Explorer",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/flash-player/apsb16-25.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.adobe.com/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.adobe.com/products/flashplayer.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:flash_player:22.0.0.192:*:*:*:*:internet_explorer:*:*"
-  }
+	"name": "cpe:/a:adobe:flash_player:22.0.0.192::~~~internet_explorer~~",
+	"title": [
+		{
+			"text": "Adobe Flash Player 22.0.0.192 for Internet Explorer",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/flash-player/apsb16-25.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.adobe.com/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.adobe.com/products/flashplayer.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:flash_player:22.0.0.192:*:*:*:*:internet_explorer:*:*"
+	}
 }

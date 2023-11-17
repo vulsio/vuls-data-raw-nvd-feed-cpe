@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:dbell:db01-s_firmware:-",
-  "title": [
-    {
-      "text": "dbell DB01-S Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://securiteam.com/securitynews/dbell-wi-fi-smart-video-doorbell-db01-s-gen-1-improper-input-validation-vulnerability/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://noahclements.com/Improper-Input-Validation-on-dbell-Smart-Doorbell-Can-Lead-To-Attackers-Remotely-Unlocking-Door/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dbell.ca/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dbell:db01-s_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dbell:db01-s_firmware:-",
+	"title": [
+		{
+			"text": "dbell DB01-S Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://securiteam.com/securitynews/dbell-wi-fi-smart-video-doorbell-db01-s-gen-1-improper-input-validation-vulnerability/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://noahclements.com/Improper-Input-Validation-on-dbell-Smart-Doorbell-Can-Lead-To-Attackers-Remotely-Unlocking-Door/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dbell.ca/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dbell:db01-s_firmware:-:*:*:*:*:*:*:*"
+	}
 }

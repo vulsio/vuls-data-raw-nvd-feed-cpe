@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:post_index_project:post_index:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Post Index Project Post Index for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34637"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/post-index/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:post_index_project:post_index:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:post_index_project:post_index:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Post Index Project Post Index for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/vulnerability-advisories/#CVE-2021-34637"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/post-index/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:post_index_project:post_index:-:*:*:*:*:wordpress:*:*"
+	}
 }

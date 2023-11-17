@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:te-st:leyka:2.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Teplitsa Leyka 2.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/leyka/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/leyka/wordpress-leyka-plugin-3-29-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://te-st.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:te-st:leyka:2.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:te-st:leyka:2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Teplitsa Leyka 2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/leyka/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/leyka/wordpress-leyka-plugin-3-29-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://te-st.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:te-st:leyka:2.0:*:*:*:*:wordpress:*:*"
+	}
 }

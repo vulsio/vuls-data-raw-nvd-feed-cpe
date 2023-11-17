@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:revel:revel:0.17.1::~~~go~~",
-  "title": [
-    {
-      "text": "Revel 0.17.1 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0003"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/revel/revel/issues/1424"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/revel/revel/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:revel:revel:0.17.1:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:revel:revel:0.17.1::~~~go~~",
+	"title": [
+		{
+			"text": "Revel 0.17.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0003"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/revel/revel/issues/1424"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/revel/revel/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:revel:revel:0.17.1:*:*:*:*:go:*:*"
+	}
 }

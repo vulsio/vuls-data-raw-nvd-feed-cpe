@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_10_20h2:10.0.19042.2728",
-  "deprecated": true,
-  "deprecation_date": "2023-10-19T18:31:34.210Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 20h2 10.0.19042.2728",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19042.2728:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-19T14:31:34.210-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19042.2728:*:*:*:*:*:arm64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10_20h2:10.0.19042.2728",
+	"deprecated": true,
+	"deprecation_date": "2023-10-19T18:31:34.210Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 20h2 10.0.19042.2728",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19042.2728:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-19T14:31:34.210-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19042.2728:*:*:*:*:*:arm64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

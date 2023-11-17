@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:d-link:di-624s:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DI-624S Router",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product information",
-      "href": "http://support.dlink.com/emulators/di624_revc/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:di-624s:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:di-624s:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:di-624s:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DI-624S Router",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product information",
+			"href": "http://support.dlink.com/emulators/di624_revc/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:di-624s:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:di-624s:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

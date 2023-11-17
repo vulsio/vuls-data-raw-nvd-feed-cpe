@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:hyper:hyper:0.3.7",
-  "deprecated": true,
-  "deprecation_date": "2021-01-07T14:11:54.683Z",
-  "title": [
-    {
-      "text": "Hyper 0.3.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2017-0002.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/hyperium/hyper/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hyper:hyper:0.3.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-07T09:11:54.683-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hyper:hyper:0.3.7:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:hyper:hyper:0.3.7",
+	"deprecated": true,
+	"deprecation_date": "2021-01-07T14:11:54.683Z",
+	"title": [
+		{
+			"text": "Hyper 0.3.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2017-0002.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hyperium/hyper/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hyper:hyper:0.3.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-07T09:11:54.683-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hyper:hyper:0.3.7:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

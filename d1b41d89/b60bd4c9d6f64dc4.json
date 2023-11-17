@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:solarwinds:network_performance_monitor:2020:hotfix1",
-  "title": [
-    {
-      "text": "SolarWinds Network Performance Monitor 2020 Hotfix 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://documentation.solarwinds.com/en/success_center/npm/content/release_notes/npm_2020-2-6_release_notes.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27869.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:solarwinds:network_performance_monitor:2020:hotfix1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:solarwinds:network_performance_monitor:2020:hotfix1",
+	"title": [
+		{
+			"text": "SolarWinds Network Performance Monitor 2020 Hotfix 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://documentation.solarwinds.com/en/success_center/npm/content/release_notes/npm_2020-2-6_release_notes.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27869.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:solarwinds:network_performance_monitor:2020:hotfix1:*:*:*:*:*:*"
+	}
 }

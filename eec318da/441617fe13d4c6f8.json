@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:lemonldap-ng:apache%3a%3asession%3a%3aldap:0.3::~~~perl~~",
-  "title": [
-    {
-      "text": "LemonLDAP::NG Apache::Session::LDAP 0.3 for Perl",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/246196"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://lemonldap-ng.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/LemonLDAPNG/Apache-Session-LDAP/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lemonldap-ng:apache\\:\\:session\\:\\:ldap:0.3:*:*:*:*:perl:*:*"
-  }
+	"name": "cpe:/a:lemonldap-ng:apache%3a%3asession%3a%3aldap:0.3::~~~perl~~",
+	"title": [
+		{
+			"text": "LemonLDAP::NG Apache::Session::LDAP 0.3 for Perl",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/246196"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://lemonldap-ng.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/LemonLDAPNG/Apache-Session-LDAP/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lemonldap-ng:apache\\:\\:session\\:\\:ldap:0.3:*:*:*:*:perl:*:*"
+	}
 }

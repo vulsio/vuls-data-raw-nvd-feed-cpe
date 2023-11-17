@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:f5:big-ip_aam:11.6.5",
-  "deprecated": true,
-  "deprecation_date": "2021-09-23T15:58:04.087Z",
-  "title": [
-    {
-      "text": "F5 BIG-IP Application Acceleration Manager (AAM) 11.6.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.f5.com/csp/article/K21905460"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.f5.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://support.f5.com/csp/knowledge-center/software/BIG-IP?module=BIG-IP%20AAM"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:f5:big-ip_aam:11.6.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-23T11:58:04.087-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:11.6.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:f5:big-ip_aam:11.6.5",
+	"deprecated": true,
+	"deprecation_date": "2021-09-23T15:58:04.087Z",
+	"title": [
+		{
+			"text": "F5 BIG-IP Application Acceleration Manager (AAM) 11.6.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.f5.com/csp/article/K21905460"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.f5.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://support.f5.com/csp/knowledge-center/software/BIG-IP?module=BIG-IP%20AAM"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f5:big-ip_aam:11.6.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-23T11:58:04.087-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:f5:big-ip_application_acceleration_manager:11.6.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

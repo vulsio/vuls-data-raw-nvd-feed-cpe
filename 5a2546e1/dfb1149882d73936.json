@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:opensis:opensis:4.8.1",
-  "deprecated": true,
-  "deprecation_date": "2020-09-03T12:05:40.977Z",
-  "title": [
-    {
-      "text": "openSIS 4.8.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.opensis.com/"
-    },
-    {
-      "text": "Version",
-      "href": "http://sourceforge.net/projects/opensis-ce/files/?source=navbar"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opensis:opensis:4.8.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-03T08:05:40.977-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:os4ed:opensis:4.8.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:opensis:opensis:4.8.1",
+	"deprecated": true,
+	"deprecation_date": "2020-09-03T12:05:40.977Z",
+	"title": [
+		{
+			"text": "openSIS 4.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.opensis.com/"
+		},
+		{
+			"text": "Version",
+			"href": "http://sourceforge.net/projects/opensis-ce/files/?source=navbar"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opensis:opensis:4.8.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-03T08:05:40.977-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:os4ed:opensis:4.8.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

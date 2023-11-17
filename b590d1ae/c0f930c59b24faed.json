@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:miniorange:active_directory_integration_%2f_ldap_integration:1.7::~~~wordpress~~",
-  "title": [
-    {
-      "text": "MiniOrange Active Directory Integration / LDAP Integration 1.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.miniorange.com/wordpress/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ldap-login-for-intranet-sites/active-directory-integration-ldap-integration-415-unauthenticated-ldap-injection"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/ldap-login-for-intranet-sites/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:1.7:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:miniorange:active_directory_integration_%2f_ldap_integration:1.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "MiniOrange Active Directory Integration / LDAP Integration 1.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.miniorange.com/wordpress/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ldap-login-for-intranet-sites/active-directory-integration-ldap-integration-415-unauthenticated-ldap-injection"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ldap-login-for-intranet-sites/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:miniorange:active_directory_integration_\\/_ldap_integration:1.7:*:*:*:*:wordpress:*:*"
+	}
 }

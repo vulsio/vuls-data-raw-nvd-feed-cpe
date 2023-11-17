@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:6.5.10",
-  "title": [
-    {
-      "text": "Linux Kernel 6.5.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v6.x/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/47xxx/CVE-2023-47233.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:6.5.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:6.5.10",
+	"title": [
+		{
+			"text": "Linux Kernel 6.5.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v6.x/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/47xxx/CVE-2023-47233.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:6.5.10:*:*:*:*:*:*:*"
+	}
 }

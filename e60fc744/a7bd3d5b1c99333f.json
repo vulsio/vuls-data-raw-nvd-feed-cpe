@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:se:ecostruxure_power_build_-_rapsody:2.1.13",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:32:59.153Z",
-  "title": [
-    {
-      "text": "Schneider-Electric EcoStruxure Power Build - Rapsody 2.1.13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.se.com/ww/en/product-range-presentation/2309-ecostruxure-power-build---rapsody/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://download.schneider-electric.com/files?p_enDocType=Software+-+Release&p_File_Name=Release+Notes+EcoStruxure+Power+Build+-+Rapsody+INT+V2.1.10.pdf&p_Doc_Ref=ESXPBuildRapsodyReleaseNote"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.se.com/ww/en/download/document/SEVD-2021-012-02/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:32:59.153-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:ecostruxure_power_build_-_rapsody:2.1.13",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:32:59.153Z",
+	"title": [
+		{
+			"text": "Schneider-Electric EcoStruxure Power Build - Rapsody 2.1.13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.se.com/ww/en/product-range-presentation/2309-ecostruxure-power-build---rapsody/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://download.schneider-electric.com/files?p_enDocType=Software+-+Release&p_File_Name=Release+Notes+EcoStruxure+Power+Build+-+Rapsody+INT+V2.1.10.pdf&p_Doc_Ref=ESXPBuildRapsodyReleaseNote"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.se.com/ww/en/download/document/SEVD-2021-012-02/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:32:59.153-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:ecostruxure_power_build_-_rapsody:2.1.13:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

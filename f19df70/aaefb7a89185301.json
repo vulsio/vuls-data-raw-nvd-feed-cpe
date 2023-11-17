@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:powerpoint:2016",
-  "title": [
-    {
-      "text": "Microsoft PowerPoint 2016",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://technet.microsoft.com/library/security/ms16-004"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.office.com/en-us/article/What-s-new-in-PowerPoint-2016-for-Windows-e8ef980c-5b12-4fff-ae3f-0819e6a21a1f"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:powerpoint:2016:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:powerpoint:2016",
+	"title": [
+		{
+			"text": "Microsoft PowerPoint 2016",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://technet.microsoft.com/library/security/ms16-004"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.office.com/en-us/article/What-s-new-in-PowerPoint-2016-for-Windows-e8ef980c-5b12-4fff-ae3f-0819e6a21a1f"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:powerpoint:2016:*:*:*:*:*:*:*"
+	}
 }

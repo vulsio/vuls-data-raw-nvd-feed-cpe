@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:adaptive_security_appliance:9.3.3.9",
-  "deprecated": true,
-  "deprecation_date": "2022-05-25T17:34:43.097Z",
-  "title": [
-    {
-      "text": "Cisco Adaptive Security Appliance (ASA) 9.3.3.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ssl-vpn-dos"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:adaptive_security_appliance:9.3.3.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-25T13:34:43.097-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3.3.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:adaptive_security_appliance:9.3.3.9",
+	"deprecated": true,
+	"deprecation_date": "2022-05-25T17:34:43.097Z",
+	"title": [
+		{
+			"text": "Cisco Adaptive Security Appliance (ASA) 9.3.3.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-asa-ssl-vpn-dos"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:adaptive_security_appliance:9.3.3.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-25T13:34:43.097-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.3.3.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

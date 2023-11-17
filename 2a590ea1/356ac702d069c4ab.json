@@ -1,50 +1,50 @@
 {
-  "name": "cpe:/h:intel:pentium_j2850:-",
-  "title": [
-    {
-      "text": "Intel Pentium J2850",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/sku/192990/intel-core-i99980hk-processor-16m-cache-up-to-5-00-ghz/specifications.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/details/processors/celeron.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/content/www/us/en/homepage.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00320.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00516.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/95590/intel-pentium-processor-j-series.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:pentium_j2850:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:pentium_j2850:-",
+	"title": [
+		{
+			"text": "Intel Pentium J2850",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/sku/192990/intel-core-i99980hk-processor-16m-cache-up-to-5-00-ghz/specifications.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/details/processors/celeron.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/content/www/us/en/homepage.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00320.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00516.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/95590/intel-pentium-processor-j-series.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:pentium_j2850:-:*:*:*:*:*:*:*"
+	}
 }

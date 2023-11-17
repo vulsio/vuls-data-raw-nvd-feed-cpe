@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:eset:cyber_security:1294::~~pro~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:44:21.490Z",
-  "title": [
-    {
-      "text": "ESET Cyber Security 1294 Pro Edition for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.zoller.lu/p/tzo-11-2020-eset-generic-malformed.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:cyber_security:1294:*:*:*:pro:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:44:21.490-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eset:cyber_security:1294:*:*:*:pro:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eset:cyber_security:1294::~~pro~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:44:21.490Z",
+	"title": [
+		{
+			"text": "ESET Cyber Security 1294 Pro Edition for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.zoller.lu/p/tzo-11-2020-eset-generic-malformed.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:cyber_security:1294:*:*:*:pro:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:44:21.490-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eset:cyber_security:1294:*:*:*:pro:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

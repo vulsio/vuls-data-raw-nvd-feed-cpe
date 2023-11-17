@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:spark:3.0.1",
-  "deprecated": true,
-  "deprecation_date": "2021-12-02T18:21:20.560Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Spark 3.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/apache/spark/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://spark.apache.org/releases/spark-release-3-0-1.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://spark.apache.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:spark:3.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-02T13:21:20.560-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:spark:3.0.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:spark:3.0.1",
+	"deprecated": true,
+	"deprecation_date": "2021-12-02T18:21:20.560Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Spark 3.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/spark/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://spark.apache.org/releases/spark-release-3-0-1.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://spark.apache.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:spark:3.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-02T13:21:20.560-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:spark:3.0.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

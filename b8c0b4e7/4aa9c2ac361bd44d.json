@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:4.4",
-  "deprecated": true,
-  "deprecation_date": "2021-12-10T19:27:49.993Z",
-  "title": [
-    {
-      "text": "Linux Kernel 4.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.kernel.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/torvalds/linux/tags?after=v4.4"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:4.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-10T14:27:49.993-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:4.4:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:4.4",
+	"deprecated": true,
+	"deprecation_date": "2021-12-10T19:27:49.993Z",
+	"title": [
+		{
+			"text": "Linux Kernel 4.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/torvalds/linux/tags?after=v4.4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:4.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-10T14:27:49.993-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:4.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

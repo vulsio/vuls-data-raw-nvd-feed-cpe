@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:chrisrichardson:mappress_maps_for_wordpress:2.88.4::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-07T20:40:51.173Z",
-  "title": [
-    {
-      "text": "Chris Richardson MapPress Maps For WordPress 2.88.4 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:chrisrichardson:mappress_maps_for_wordpress:2.88.4:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-07T15:40:51.173-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.4:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:chrisrichardson:mappress_maps_for_wordpress:2.88.4::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-07T20:40:51.173Z",
+	"title": [
+		{
+			"text": "Chris Richardson MapPress Maps For WordPress 2.88.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/mappress-google-maps-for-wordpress/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:chrisrichardson:mappress_maps_for_wordpress:2.88.4:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-07T15:40:51.173-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mappresspro:mappress_maps_for_wordpress:2.88.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.2::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-11-14T15:12:49.467Z",
-  "title": [
-    {
-      "text": "CipherCoin Contact Form 7 Database Addon - Cfdb7 1.2.6.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://ciphercoin.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/contact-form-cfdb7/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.2:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-11-14T10:12:49.467-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ciphercoin:contact_form_7_database_addon:1.2.6.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-11-14T15:12:49.467Z",
+	"title": [
+		{
+			"text": "CipherCoin Contact Form 7 Database Addon - Cfdb7 1.2.6.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://ciphercoin.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/contact-form-cfdb7/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ciphercoin:contact_form_7_database_addon_-_cfdb7:1.2.6.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-11-14T10:12:49.467-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ciphercoin:contact_form_7_database_addon:1.2.6.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

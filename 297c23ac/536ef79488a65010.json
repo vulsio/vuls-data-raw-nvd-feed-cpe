@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:oracle:zfs_storage_appliance:-",
-  "title": [
-    {
-      "text": "Oracle ZFS Storage Appliance",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/storage/nas/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujan2021.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:oracle:zfs_storage_appliance:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:oracle:zfs_storage_appliance:-",
+	"title": [
+		{
+			"text": "Oracle ZFS Storage Appliance",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/storage/nas/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2021.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:oracle:zfs_storage_appliance:-:*:*:*:*:*:*:*"
+	}
 }

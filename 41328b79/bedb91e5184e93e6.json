@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:wpgmaps:wp_google_maps:6.3.03::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-05-23T20:46:55.447Z",
-  "title": [
-    {
-      "text": "WPgmaps WP Google Maps 6.3.03 WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.wpgmaps.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/wp-google-maps/#description"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpgmaps:wp_google_maps:6.3.03:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-05-23T16:46:55.447-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:codecabin:wp_go_maps:6.3.03:*:*:*:basic:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wpgmaps:wp_google_maps:6.3.03::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-05-23T20:46:55.447Z",
+	"title": [
+		{
+			"text": "WPgmaps WP Google Maps 6.3.03 WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.wpgmaps.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-google-maps/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpgmaps:wp_google_maps:6.3.03:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-05-23T16:46:55.447-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:codecabin:wp_go_maps:6.3.03:*:*:*:basic:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:zoho:manageengine_remote_access_plus_server:-",
-  "title": [
-    {
-      "text": "Zoho ManageEngine Remote Access Plus Server",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.zoho.com/remoteaccessplus/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/nestedif/vulnerability-disclosure-sensitive-info-leakage-agent-memory-dump-zoho-r-a-p-3d5ebc8928af"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoho:manageengine_remote_access_plus_server:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zoho:manageengine_remote_access_plus_server:-",
+	"title": [
+		{
+			"text": "Zoho ManageEngine Remote Access Plus Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.zoho.com/remoteaccessplus/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/nestedif/vulnerability-disclosure-sensitive-info-leakage-agent-memory-dump-zoho-r-a-p-3d5ebc8928af"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoho:manageengine_remote_access_plus_server:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:checkpoint:quantum_security_gateway:-",
-  "title": [
-    {
-      "text": "Check Point Quantum Security Gateway",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://blog.checkpoint.com/2020/06/04/quantum-security-gateway-architecture-built-to-secure-your-everything/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk172983&partition=Basic&product=Quantum"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:checkpoint:quantum_security_gateway:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:checkpoint:quantum_security_gateway:-",
+	"title": [
+		{
+			"text": "Check Point Quantum Security Gateway",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://blog.checkpoint.com/2020/06/04/quantum-security-gateway-architecture-built-to-secure-your-everything/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk172983&partition=Basic&product=Quantum"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:checkpoint:quantum_security_gateway:-:*:*:*:*:*:*:*"
+	}
 }

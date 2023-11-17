@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:jenkins:jenkins:2.23",
-  "deprecated": true,
-  "deprecation_date": "2019-05-08T16:30:40.097Z",
-  "title": [
-    {
-      "text": "Jenkins 2.23",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/jenkins/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/index.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://jenkins.io/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:jenkins:2.23:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-08T12:30:40.097-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jenkins:jenkins:2.23:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jenkins:jenkins:2.23",
+	"deprecated": true,
+	"deprecation_date": "2019-05-08T16:30:40.097Z",
+	"title": [
+		{
+			"text": "Jenkins 2.23",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/jenkins/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/index.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://jenkins.io/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:jenkins:2.23:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-08T12:30:40.097-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:jenkins:2.23:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

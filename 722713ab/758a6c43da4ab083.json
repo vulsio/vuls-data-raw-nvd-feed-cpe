@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:weblogic_server:10.0:-:~~~apache~~",
-  "title": [
-    {
-      "text": "Oracle WebLogic Server 10.0 for Apache",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://jvn.jp/en/jp/JVN81667751/index.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.oracle.com/cd/E13196_01/platform/suppconfigs/weblogic/wlsve_100v12.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:weblogic_server:10.0:-:*:*:*:apache:*:*"
-  }
+	"name": "cpe:/a:oracle:weblogic_server:10.0:-:~~~apache~~",
+	"title": [
+		{
+			"text": "Oracle WebLogic Server 10.0 for Apache",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://jvn.jp/en/jp/JVN81667751/index.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.oracle.com/cd/E13196_01/platform/suppconfigs/weblogic/wlsve_100v12.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:weblogic_server:10.0:-:*:*:*:apache:*:*"
+	}
 }

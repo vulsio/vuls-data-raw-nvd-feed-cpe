@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:ecobee:ecobee3_lite_firmware:4.5.81.200",
-  "title": [
-    {
-      "text": "Ecobee Ecobee3 Lite Firmware 4.5.81.200",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.l9group.com/advisories/hard-coded-default-root-credentials-for-all-ecobee3-lite-devices"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ecobee:ecobee3_lite_firmware:4.5.81.200:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ecobee:ecobee3_lite_firmware:4.5.81.200",
+	"title": [
+		{
+			"text": "Ecobee Ecobee3 Lite Firmware 4.5.81.200",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ecobee.com/en-us/smart-thermostats/smart-wifi-thermostat/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.l9group.com/advisories/hard-coded-default-root-credentials-for-all-ecobee3-lite-devices"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ecobee:ecobee3_lite_firmware:4.5.81.200:*:*:*:*:*:*:*"
+	}
 }

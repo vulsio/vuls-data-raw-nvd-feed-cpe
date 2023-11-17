@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kronos:web_time_and_attendance:4.0",
-  "title": [
-    {
-      "text": "Kronos Web Time and Attendance (webTA) 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.kronos.com/products/kronos-webta"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.nolanbkennedy.com/post/privilege-escalation-in-kronos-web-time-and-attendance-webta"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kronos:web_time_and_attendance:4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kronos:web_time_and_attendance:4.0",
+	"title": [
+		{
+			"text": "Kronos Web Time and Attendance (webTA) 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kronos.com/products/kronos-webta"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.nolanbkennedy.com/post/privilege-escalation-in-kronos-web-time-and-attendance-webta"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kronos:web_time_and_attendance:4.0:*:*:*:*:*:*:*"
+	}
 }

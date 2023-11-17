@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:zabbix:zabbix-agent2:6.4.3",
-  "title": [
-    {
-      "text": "Zabbix Zabbix-agent2 6.4.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.zabbix.com/download_agents?version=5.0+LTS&release=5.0.38&os=Windows&os_version=Any&hardware=amd64&encryption=OpenSSL&packaging=MSI&show_legacy=0"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.zabbix.com/browse/ZBX-23388"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zabbix:zabbix-agent2:6.4.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zabbix:zabbix-agent2:6.4.3",
+	"title": [
+		{
+			"text": "Zabbix Zabbix-agent2 6.4.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.zabbix.com/download_agents?version=5.0+LTS&release=5.0.38&os=Windows&os_version=Any&hardware=amd64&encryption=OpenSSL&packaging=MSI&show_legacy=0"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zabbix.com/browse/ZBX-23388"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zabbix:zabbix-agent2:6.4.3:*:*:*:*:*:*:*"
+	}
 }

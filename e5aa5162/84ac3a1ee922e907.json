@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:xtremio_management_server:6.4.0-22",
-  "title": [
-    {
-      "text": "Dell XtremIO Management Server (XMS) 6.4.0-22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/home/en-us/product-support/product/xtremio-x2/drivers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000204112/dsa-2022-145-dell-emc-xtremeio-for-ssh-and-web-ui-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:xtremio_management_server:6.4.0-22:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:xtremio_management_server:6.4.0-22",
+	"title": [
+		{
+			"text": "Dell XtremIO Management Server (XMS) 6.4.0-22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/home/en-us/product-support/product/xtremio-x2/drivers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000204112/dsa-2022-145-dell-emc-xtremeio-for-ssh-and-web-ui-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:xtremio_management_server:6.4.0-22:*:*:*:*:*:*:*"
+	}
 }

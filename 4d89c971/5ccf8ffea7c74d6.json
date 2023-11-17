@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:scorelab:openmf:-",
-  "title": [
-    {
-      "text": "SCoRe Lab OpenMF",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31581.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/scorelab/OpenMF/issues/262"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://scorelab.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:scorelab:openmf:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:scorelab:openmf:-",
+	"title": [
+		{
+			"text": "SCoRe Lab OpenMF",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/31xxx/CVE-2022-31581.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/scorelab/OpenMF/issues/262"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://scorelab.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:scorelab:openmf:-:*:*:*:*:*:*:*"
+	}
 }

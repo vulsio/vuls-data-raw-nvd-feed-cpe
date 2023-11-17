@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:valvesoftware:steam_client:2019-09-12::~~~windows~~",
-  "title": [
-    {
-      "text": "Valve Software Steam Client 2019-09-12 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://securiteam.com/securitynews/valve-steam-client-before-2019-09-12-improper-limitation-of-a-pathname-to-a-restricted-directory-path-traversal-vulnerability/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://habr.com/ru/company/pm/blog/469507/"
-    },
-    {
-      "text": "Product",
-      "href": "https://store.steampowered.com/news/54236/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:valvesoftware:steam_client:2019-09-12:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:valvesoftware:steam_client:2019-09-12::~~~windows~~",
+	"title": [
+		{
+			"text": "Valve Software Steam Client 2019-09-12 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://securiteam.com/securitynews/valve-steam-client-before-2019-09-12-improper-limitation-of-a-pathname-to-a-restricted-directory-path-traversal-vulnerability/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://habr.com/ru/company/pm/blog/469507/"
+		},
+		{
+			"text": "Product",
+			"href": "https://store.steampowered.com/news/54236/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:valvesoftware:steam_client:2019-09-12:*:*:*:*:windows:*:*"
+	}
 }

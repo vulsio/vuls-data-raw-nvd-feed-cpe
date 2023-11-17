@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:eaton:secureconnect:-::~~~android~~",
-  "title": [
-    {
-      "text": "Eaton SecureConnect for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.eaton.com/us/en-us.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.eaton.ionSecurityConnectPanel&hl=en_US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/Eaton-vulnerability-advisory-secure-connect-mobile-app.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eaton:secureconnect:-:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:eaton:secureconnect:-::~~~android~~",
+	"title": [
+		{
+			"text": "Eaton SecureConnect for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.eaton.com/us/en-us.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.eaton.ionSecurityConnectPanel&hl=en_US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/Eaton-vulnerability-advisory-secure-connect-mobile-app.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eaton:secureconnect:-:*:*:*:*:android:*:*"
+	}
 }

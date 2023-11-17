@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.4.0:beta7",
-  "title": [
-    {
-      "text": "Kubernetes 1.4.0 Beta 7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.4.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.4.0:beta7:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.4.0:beta7",
+	"title": [
+		{
+			"text": "Kubernetes 1.4.0 Beta 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.4.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.4.0:beta7:*:*:*:*:*:*"
+	}
 }

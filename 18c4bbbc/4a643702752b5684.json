@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:elasticsearch:kibana:1.7.4",
-  "deprecated": true,
-  "deprecation_date": "2020-10-19T11:57:07.543Z",
-  "title": [
-    {
-      "text": "Elasticsearch Kibana 1.7.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.elastic.co/downloads/kibana"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/elastic/elasticsearch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:elasticsearch:kibana:1.7.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-19T07:57:07.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:elastic:kibana:1.7.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:elasticsearch:kibana:1.7.4",
+	"deprecated": true,
+	"deprecation_date": "2020-10-19T11:57:07.543Z",
+	"title": [
+		{
+			"text": "Elasticsearch Kibana 1.7.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.elastic.co/downloads/kibana"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/elastic/elasticsearch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:elasticsearch:kibana:1.7.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-19T07:57:07.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:elastic:kibana:1.7.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

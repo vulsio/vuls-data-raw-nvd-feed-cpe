@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:flex_project:flex:2.5.30",
-  "deprecated": true,
-  "deprecation_date": "2023-10-06T17:12:20.950Z",
-  "title": [
-    {
-      "text": "Flex Fast Lexical Analyser 2.5.30",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/westes/flex/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/westes/flex/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:flex_project:flex:2.5.30:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-06T13:12:20.950-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:westes:flex:2.5.30:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:flex_project:flex:2.5.30",
+	"deprecated": true,
+	"deprecation_date": "2023-10-06T17:12:20.950Z",
+	"title": [
+		{
+			"text": "Flex Fast Lexical Analyser 2.5.30",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/westes/flex/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/westes/flex/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:flex_project:flex:2.5.30:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-06T13:12:20.950-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:westes:flex:2.5.30:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

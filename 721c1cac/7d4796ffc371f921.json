@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:free5gc:udm:1.0.0::~~~go~~",
-  "title": [
-    {
-      "text": "free5GC udm 1.0.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://pkg.go.dev/github.com/free5gc/udm"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/free5gc/udm/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://free5gc.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:free5gc:udm:1.0.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:free5gc:udm:1.0.0::~~~go~~",
+	"title": [
+		{
+			"text": "free5GC udm 1.0.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/free5gc/udm"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/free5gc/udm/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://free5gc.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:free5gc:udm:1.0.0:*:*:*:*:go:*:*"
+	}
 }

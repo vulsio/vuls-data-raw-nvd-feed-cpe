@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:siteground:security_optimizer:1.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Siteground Security Optimizer 1.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sg-security/siteground-security-125-authentication-bypass-via-2fa-setup"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/sg-security/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siteground:security_optimizer:1.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:siteground:security_optimizer:1.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Siteground Security Optimizer 1.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sg-security/siteground-security-125-authentication-bypass-via-2fa-setup"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/sg-security/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siteground:security_optimizer:1.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

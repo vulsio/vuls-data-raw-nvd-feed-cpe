@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:rack_project:rack:1.6.0",
-  "deprecated": true,
-  "deprecation_date": "2019-09-26T17:54:15.977Z",
-  "title": [
-    {
-      "text": "Rack Project Rack 1.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project Website",
-      "href": "http://rack.github.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rack_project:rack:1.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-26T13:54:15.977-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rack_project:rack:1.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rack_project:rack:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2019-09-26T17:54:15.977Z",
+	"title": [
+		{
+			"text": "Rack Project Rack 1.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project Website",
+			"href": "http://rack.github.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rack_project:rack:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-26T13:54:15.977-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rack_project:rack:1.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

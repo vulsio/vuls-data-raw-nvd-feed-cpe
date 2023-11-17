@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:b2evolution:b2evolution:7.2.2",
-  "title": [
-    {
-      "text": "b2evolution 7.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/b2evolution/b2evolution/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://deadsh0t.medium.com/authenticated-boolean-based-blind-error-based-sql-injection-b752225f0644"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:b2evolution:b2evolution:7.2.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:b2evolution:b2evolution:7.2.2",
+	"title": [
+		{
+			"text": "b2evolution 7.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/b2evolution/b2evolution/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://deadsh0t.medium.com/authenticated-boolean-based-blind-error-based-sql-injection-b752225f0644"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:b2evolution:b2evolution:7.2.2:*:*:*:*:*:*:*"
+	}
 }

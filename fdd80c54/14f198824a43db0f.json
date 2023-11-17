@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:mail:1.13.6",
-  "title": [
-    {
-      "text": "Nextcloud Mail 1.13.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-24pm-rjfv-23mh"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nextcloud-releases/mail/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:mail:1.13.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:mail:1.13.6",
+	"title": [
+		{
+			"text": "Nextcloud Mail 1.13.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-24pm-rjfv-23mh"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextcloud-releases/mail/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:mail:1.13.6:*:*:*:*:*:*:*"
+	}
 }

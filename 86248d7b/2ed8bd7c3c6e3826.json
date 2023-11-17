@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:opentsdb:opentsdb:2.4.1",
-  "title": [
-    {
-      "text": "OpenTSDB 2.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/OpenTSDB/opentsdb/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.synopsys.com/blogs/software-security/opentsdb/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opentsdb:opentsdb:2.4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opentsdb:opentsdb:2.4.1",
+	"title": [
+		{
+			"text": "OpenTSDB 2.4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/OpenTSDB/opentsdb/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.synopsys.com/blogs/software-security/opentsdb/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opentsdb:opentsdb:2.4.1:*:*:*:*:*:*:*"
+	}
 }

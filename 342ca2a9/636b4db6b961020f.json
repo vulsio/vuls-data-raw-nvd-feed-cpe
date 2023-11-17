@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:azure_log_analytics_nozzle:-::~~~pivotal_cloud_foundry~~",
-  "title": [
-    {
-      "text": "Microsoft Azure Log Analytics Nozzle - for Pivotal Cloud Foundry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/partners/azure-log-analytics-nozzle/release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_log_analytics_nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_log_analytics_nozzle:-::~~~pivotal_cloud_foundry~~",
+	"title": [
+		{
+			"text": "Microsoft Azure Log Analytics Nozzle - for Pivotal Cloud Foundry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/partners/azure-log-analytics-nozzle/release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_log_analytics_nozzle:-:*:*:*:*:pivotal_cloud_foundry:*:*"
+	}
 }

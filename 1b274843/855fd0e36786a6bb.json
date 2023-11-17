@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:seosamba:seosamba:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Seosamba for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.seosamba.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/seosamba-webmasters/wordpress-seosamba-for-wordpress-webmasters-plugin-1-0-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:seosamba:seosamba:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:seosamba:seosamba:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Seosamba for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.seosamba.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/seosamba-webmasters/wordpress-seosamba-for-wordpress-webmasters-plugin-1-0-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:seosamba:seosamba:-:*:*:*:*:wordpress:*:*"
+	}
 }

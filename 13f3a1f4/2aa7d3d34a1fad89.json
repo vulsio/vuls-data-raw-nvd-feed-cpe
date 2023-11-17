@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tencent:foxmail:1.2::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:35:28.827Z",
-  "title": [
-    {
-      "text": "Tencent Foxmail 1.2 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.foxmail.com/mac/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tencent:foxmail:1.2:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:35:28.827-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tencent:foxmail:1.2:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tencent:foxmail:1.2::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:35:28.827Z",
+	"title": [
+		{
+			"text": "Tencent Foxmail 1.2 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.foxmail.com/mac/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tencent:foxmail:1.2:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:35:28.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tencent:foxmail:1.2:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:soundexchange:sound_exchange:14.4.2",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T15:15:59.800Z",
-  "title": [
-    {
-      "text": "Sound eXchange 14.4.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.soundexchange.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/sox/files/sox/14.4.2/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:soundexchange:sound_exchange:14.4.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-24T11:15:59.800-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:soundexchange:sound_exchange:14.4.2",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T15:15:59.800Z",
+	"title": [
+		{
+			"text": "Sound eXchange 14.4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.soundexchange.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/sox/files/sox/14.4.2/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:soundexchange:sound_exchange:14.4.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-24T11:15:59.800-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sound_exchange_project:sound_exchange:14.4.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

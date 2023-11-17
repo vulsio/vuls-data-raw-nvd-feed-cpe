@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:ami:megarac_spx-13:-",
-  "title": [
-    {
-      "text": "Ami Megarac Spx-13 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ami.com/megarac/#:~:text=MegaRAC%20SP%2DX%20Data%20Sheet,standards%20with%20key%20serviceability%20features."
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40258.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://9443417.fs1.hubspotusercontent-na1.net/hubfs/9443417/Security%20Advisories/AMI-SA-2023001.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ami:megarac_spx-13:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ami:megarac_spx-13:-",
+	"title": [
+		{
+			"text": "Ami Megarac Spx-13 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ami.com/megarac/#:~:text=MegaRAC%20SP%2DX%20Data%20Sheet,standards%20with%20key%20serviceability%20features."
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/40xxx/CVE-2022-40258.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://9443417.fs1.hubspotusercontent-na1.net/hubfs/9443417/Security%20Advisories/AMI-SA-2023001.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ami:megarac_spx-13:-:*:*:*:*:*:*:*"
+	}
 }

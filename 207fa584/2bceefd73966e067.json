@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:tenda:ac1206_firmware:1.0",
-  "title": [
-    {
-      "text": "Tenda AC1206 Firmware 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/37xxx/CVE-2023-37717.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/fromNatStaticSetting/report.md"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.tenda.cn/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tenda:ac1206_firmware:1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tenda:ac1206_firmware:1.0",
+	"title": [
+		{
+			"text": "Tenda AC1206 Firmware 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/37xxx/CVE-2023-37717.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/fromNatStaticSetting/report.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.tenda.cn/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tenda:ac1206_firmware:1.0:*:*:*:*:*:*:*"
+	}
 }

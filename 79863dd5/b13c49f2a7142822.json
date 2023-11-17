@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openexr:openexr:-",
-  "title": [
-    {
-      "text": "OpenEXR",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1970987"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openexr.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/AcademySoftwareFoundation/openexr/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openexr:openexr:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openexr:openexr:-",
+	"title": [
+		{
+			"text": "OpenEXR",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1970987"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openexr.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/AcademySoftwareFoundation/openexr/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openexr:openexr:-:*:*:*:*:*:*:*"
+	}
 }

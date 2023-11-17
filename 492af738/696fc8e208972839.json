@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:inea:me_rtu_firmware:-",
-  "title": [
-    {
-      "text": "INEA ME RTU FIRMWARE -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-110-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.inea.si/en/telemetrija-in-m2m-produkti/mertu-en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:inea:me_rtu_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:inea:me_rtu_firmware:-",
+	"title": [
+		{
+			"text": "INEA ME RTU FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-110-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.inea.si/en/telemetrija-in-m2m-produkti/mertu-en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:inea:me_rtu_firmware:-:*:*:*:*:*:*:*"
+	}
 }

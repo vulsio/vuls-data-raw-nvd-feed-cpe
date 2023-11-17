@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:wdc:wd_my_cloud:4.0.0::~~~android~~",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:02:08.637Z",
-  "title": [
-    {
-      "text": "Western Digital WD My Cloud (aka com.wdc.wd2go) for Android 4.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://play.google.com/store/apps/details?id=com.wdc.wd2go"
-    },
-    {
-      "text": "vendor website",
-      "href": "http://www.wdc.com/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wdc:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:02:08.637-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:westerndigital:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wdc:wd_my_cloud:4.0.0::~~~android~~",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:02:08.637Z",
+	"title": [
+		{
+			"text": "Western Digital WD My Cloud (aka com.wdc.wd2go) for Android 4.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://play.google.com/store/apps/details?id=com.wdc.wd2go"
+		},
+		{
+			"text": "vendor website",
+			"href": "http://www.wdc.com/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wdc:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:02:08.637-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:westerndigital:wd_my_cloud:4.0.0:*:*:*:*:android:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

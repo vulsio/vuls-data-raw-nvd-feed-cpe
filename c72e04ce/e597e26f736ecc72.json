@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:openid:2.2::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins OpenID 2.2 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/openid/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/openid-plugin/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:openid:2.2:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:openid:2.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins OpenID 2.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/openid/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/openid-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:openid:2.2:*:*:*:*:jenkins:*:*"
+	}
 }

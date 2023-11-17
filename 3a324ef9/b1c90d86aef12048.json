@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:onefilecms_project:onefilecms:1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-02-06T14:46:02.980Z",
-  "title": [
-    {
-      "text": "OneFileCMS Project OneFileCMS 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://self-evident.github.io/OneFileCMS/changelog.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:onefilecms_project:onefilecms:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-06T09:46:02.980-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:onefilecms:onefilecms:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:onefilecms_project:onefilecms:1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-02-06T14:46:02.980Z",
+	"title": [
+		{
+			"text": "OneFileCMS Project OneFileCMS 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://self-evident.github.io/OneFileCMS/changelog.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:onefilecms_project:onefilecms:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-06T09:46:02.980-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:onefilecms:onefilecms:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

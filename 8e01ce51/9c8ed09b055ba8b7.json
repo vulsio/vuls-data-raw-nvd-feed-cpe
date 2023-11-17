@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:ingress-nginx:0.24.0",
-  "title": [
-    {
-      "text": "Kubernetes Ingress-nginx 0.24.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/ingress-nginx/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes/ingress-nginx/issues/5126"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:ingress-nginx:0.24.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:ingress-nginx:0.24.0",
+	"title": [
+		{
+			"text": "Kubernetes Ingress-nginx 0.24.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/ingress-nginx/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes/ingress-nginx/issues/5126"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:ingress-nginx:0.24.0:*:*:*:*:*:*:*"
+	}
 }

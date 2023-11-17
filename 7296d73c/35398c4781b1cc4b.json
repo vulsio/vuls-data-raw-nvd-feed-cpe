@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:tableau:server:2018.2.22",
-  "deprecated": true,
-  "deprecation_date": "2020-12-01T12:53:38.887Z",
-  "title": [
-    {
-      "text": "Tableau Server 2018.2.22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.tableau.com/support/releases/server"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://help.salesforce.com/articleView?id=000355686&type=1&mode=1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tableau:server:2018.2.22:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-01T07:53:38.887-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tableau:tableau_server:2018.2.22:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tableau:server:2018.2.22",
+	"deprecated": true,
+	"deprecation_date": "2020-12-01T12:53:38.887Z",
+	"title": [
+		{
+			"text": "Tableau Server 2018.2.22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.tableau.com/support/releases/server"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://help.salesforce.com/articleView?id=000355686&type=1&mode=1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tableau:server:2018.2.22:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-01T07:53:38.887-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tableau:tableau_server:2018.2.22:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T13:04:55.687Z",
-  "title": [
-    {
-      "text": "Dell SonicWall Secure Remote Access (SRA) Firmware 7.5.1.0-38SV",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "https://www.sonicwall.com/us/en/products/Secure-Remote-Access.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T09:04:55.687-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T13:04:55.687Z",
+	"title": [
+		{
+			"text": "Dell SonicWall Secure Remote Access (SRA) Firmware 7.5.1.0-38SV",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "https://www.sonicwall.com/us/en/products/Secure-Remote-Access.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:sonicwall_secure_remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T09:04:55.687-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:sonicwall:remote_access_firmware:7.5.1.0-38sv:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcode:image_slider_by_nextcode:1.1.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "NextCode Image Slider By NextCode 1.1.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/baslider/wordpress-image-slider-by-nextcode-plugin-1-1-2-multiple-cross-site-request-forgery-csrf-vulnerabilities"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/baslider/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcode:image_slider_by_nextcode:1.1.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:nextcode:image_slider_by_nextcode:1.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "NextCode Image Slider By NextCode 1.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/baslider/wordpress-image-slider-by-nextcode-plugin-1-1-2-multiple-cross-site-request-forgery-csrf-vulnerabilities"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/baslider/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcode:image_slider_by_nextcode:1.1.2:*:*:*:*:wordpress:*:*"
+	}
 }

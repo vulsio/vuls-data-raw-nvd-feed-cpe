@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:github:owslib:0.24.1",
-  "deprecated": true,
-  "deprecation_date": "2022-06-02T14:48:56.557Z",
-  "title": [
-    {
-      "text": "Github Owslib 0.24.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/geopython/OWSLib/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:github:owslib:0.24.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-02T10:48:56.557-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:osgeo:owslib:0.24.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:github:owslib:0.24.1",
+	"deprecated": true,
+	"deprecation_date": "2022-06-02T14:48:56.557Z",
+	"title": [
+		{
+			"text": "Github Owslib 0.24.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/geopython/OWSLib/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:github:owslib:0.24.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-02T10:48:56.557-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:osgeo:owslib:0.24.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

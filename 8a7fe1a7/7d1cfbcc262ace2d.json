@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:lrzip_project:lrzip:0.631",
-  "deprecated": true,
-  "deprecation_date": "2022-09-02T16:32:16.000Z",
-  "title": [
-    {
-      "text": "lrzip Project lrzip 0.631",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://ck.kolivas.org/apps/lrzip/"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/ckolivas/lrzip"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lrzip_project:lrzip:0.631:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-02T12:32:16.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:lrzip_project:lrzip:0.631",
+	"deprecated": true,
+	"deprecation_date": "2022-09-02T16:32:16.000Z",
+	"title": [
+		{
+			"text": "lrzip Project lrzip 0.631",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://ck.kolivas.org/apps/lrzip/"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/ckolivas/lrzip"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lrzip_project:lrzip:0.631:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-02T12:32:16.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:long_range_zip_project:long_range_zip:0.631:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

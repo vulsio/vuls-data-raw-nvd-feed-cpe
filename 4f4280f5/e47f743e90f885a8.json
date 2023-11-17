@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:bitcoin:bitcoin_core:0.3rc1:rc1",
-  "deprecated": true,
-  "deprecation_date": "2020-03-18T17:40:46.207Z",
-  "title": [
-    {
-      "text": "Bitcoin Core 0.3rc1 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://bitcoincore.org/en/download/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/bitcoin/bitcoin/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.3rc1:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-18T13:40:46.207-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bitcoin:bitcoin_core:0.3:rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bitcoin:bitcoin_core:0.3rc1:rc1",
+	"deprecated": true,
+	"deprecation_date": "2020-03-18T17:40:46.207Z",
+	"title": [
+		{
+			"text": "Bitcoin Core 0.3rc1 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://bitcoincore.org/en/download/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bitcoin/bitcoin/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitcoin:bitcoin_core:0.3rc1:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-18T13:40:46.207-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bitcoin:bitcoin_core:0.3:rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

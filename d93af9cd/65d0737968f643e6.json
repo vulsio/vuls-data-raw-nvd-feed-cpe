@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nodejs:node.js:14.21.0::~~lts~~~",
-  "title": [
-    {
-      "text": "Nodejs Node.js 14.21.0 LTS Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://nodejs.org/en/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V14.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:14.21.0:*:*:*:lts:*:*:*"
-  }
+	"name": "cpe:/a:nodejs:node.js:14.21.0::~~lts~~~",
+	"title": [
+		{
+			"text": "Nodejs Node.js 14.21.0 LTS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nodejs.org/en/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V14.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:14.21.0:*:*:*:lts:*:*:*"
+	}
 }

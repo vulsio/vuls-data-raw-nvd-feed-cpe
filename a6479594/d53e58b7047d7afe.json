@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2012:-::~~foundation~~x86~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2012 Foundation Edition on x86",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.fujitsu.com/jp/products/software/resources/condition/security/products-fujitsu/solution/interstage-systemwalker-tls-202001.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x86:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2012:-::~~foundation~~x86~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2012 Foundation Edition on x86",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.fujitsu.com/jp/products/software/resources/condition/security/products-fujitsu/solution/interstage-systemwalker-tls-202001.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2012:-:*:*:*:foundation:*:x86:*"
+	}
 }

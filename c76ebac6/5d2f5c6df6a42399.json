@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:adobe:digital_editions:4.5.10::~~~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2019-07-26T16:22:44.233Z",
-  "title": [
-    {
-      "text": "Adobe Digital Editions 4.5.10 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.adobe.com/solutions/ebook/digital-editions/release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:digital_editions:4.5.10:*:*:*:*:windows:*:*",
-    "deprecation": {
-      "date": "2019-07-26T12:22:44.233-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:digital_editions:4.5.10:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:digital_editions:4.5.10::~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2019-07-26T16:22:44.233Z",
+	"title": [
+		{
+			"text": "Adobe Digital Editions 4.5.10 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.adobe.com/solutions/ebook/digital-editions/release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:digital_editions:4.5.10:*:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2019-07-26T12:22:44.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:digital_editions:4.5.10:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

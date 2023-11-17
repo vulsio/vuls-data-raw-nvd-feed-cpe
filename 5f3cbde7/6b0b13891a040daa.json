@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:novell:opensuse:13.1",
-  "deprecated": true,
-  "deprecation_date": "2018-01-25T17:15:37.477Z",
-  "title": [
-    {
-      "text": "Novell openSUSE 13.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "OpenSuse Announcement ID: openSUSE-SU-2013:1714-1",
-      "href": "http://lists.opensuse.org/opensuse-updates/2013-11/msg00064.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:novell:opensuse:13.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-01-25T12:15:37.477-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:opensuse:opensuse:13.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:novell:opensuse:13.1",
+	"deprecated": true,
+	"deprecation_date": "2018-01-25T17:15:37.477Z",
+	"title": [
+		{
+			"text": "Novell openSUSE 13.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "OpenSuse Announcement ID: openSUSE-SU-2013:1714-1",
+			"href": "http://lists.opensuse.org/opensuse-updates/2013-11/msg00064.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:novell:opensuse:13.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-01-25T12:15:37.477-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:opensuse:opensuse:13.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

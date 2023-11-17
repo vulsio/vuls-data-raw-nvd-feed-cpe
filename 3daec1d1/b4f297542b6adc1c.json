@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:cnesty:helpcom:10.0",
-  "title": [
-    {
-      "text": "Cnesty HelpCom 10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cnesty.com/install.jsp"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.orangetech.co.kr/download/public/HelpCom_Base_v9.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/7xxx/CVE-2020-7856.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.boho.or.kr/krcert/secNoticeView.do?bulletin_writing_sequence=36003"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cnesty:helpcom:10.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cnesty:helpcom:10.0",
+	"title": [
+		{
+			"text": "Cnesty HelpCom 10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cnesty.com/install.jsp"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.orangetech.co.kr/download/public/HelpCom_Base_v9.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/7xxx/CVE-2020-7856.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.boho.or.kr/krcert/secNoticeView.do?bulletin_writing_sequence=36003"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cnesty:helpcom:10.0:*:*:*:*:*:*:*"
+	}
 }

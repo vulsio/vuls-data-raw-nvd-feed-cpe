@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:hp:xx_chao5000-ikbra:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:30:48.987Z",
-  "title": [
-    {
-      "text": "HP XX CHAO5000-IKBRA",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:hp:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:30:48.987-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:lenovo:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:hp:xx_chao5000-ikbra:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:30:48.987Z",
+	"title": [
+		{
+			"text": "HP XX CHAO5000-IKBRA",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:30:48.987-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:lenovo:xx_chao5000-ikbra:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

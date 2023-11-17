@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:rubyonrails:ruby_on_rails:4.0.5",
-  "deprecated": true,
-  "deprecation_date": "2019-08-08T15:36:33.903Z",
-  "title": [
-    {
-      "text": "Ruby on Rails 4.0.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://rubygems.org/gems/rails/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.0.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-08T11:36:33.903-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rubyonrails:rails:4.0.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rubyonrails:ruby_on_rails:4.0.5",
+	"deprecated": true,
+	"deprecation_date": "2019-08-08T15:36:33.903Z",
+	"title": [
+		{
+			"text": "Ruby on Rails 4.0.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://rubygems.org/gems/rails/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rubyonrails:ruby_on_rails:4.0.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-08T11:36:33.903-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rubyonrails:rails:4.0.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:schneider_electric:magelis_xbt_gt_advanced_touchscreen_panel:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T20:16:04.330Z",
-  "title": [
-    {
-      "text": "Schneider Electric Magelis XBT GT Advanced Touchscreen Panel",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-308-02"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.schneider-electric.com/ww/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider_electric:magelis_xbt_gt_advanced_touchscreen_panel:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T15:16:04.330-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:magelis_xbt_gt_advanced_touchscreen_panel:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:schneider_electric:magelis_xbt_gt_advanced_touchscreen_panel:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T20:16:04.330Z",
+	"title": [
+		{
+			"text": "Schneider Electric Magelis XBT GT Advanced Touchscreen Panel",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-308-02"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.schneider-electric.com/ww/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider_electric:magelis_xbt_gt_advanced_touchscreen_panel:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T15:16:04.330-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:magelis_xbt_gt_advanced_touchscreen_panel:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

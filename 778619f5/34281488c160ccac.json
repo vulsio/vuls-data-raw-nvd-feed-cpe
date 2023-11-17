@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:mi:ax1800_firmware:-",
-  "title": [
-    {
-      "text": "Xiaomi AX1800 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mi.com/global/product/mi-aiot-router-ax1800/overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202101-952"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/14xxx/CVE-2020-14098.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:mi:ax1800_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:mi:ax1800_firmware:-",
+	"title": [
+		{
+			"text": "Xiaomi AX1800 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mi.com/global/product/mi-aiot-router-ax1800/overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-202101-952"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/14xxx/CVE-2020-14098.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:mi:ax1800_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ilch:ilch_cms:2.1.22",
-  "title": [
-    {
-      "text": "Ilch CMS 2.1.22",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://syhack.wordpress.com/2019/09/29/ilch-content-management-system-v-2-1-22-insecure-file-upload-lfi-remote-code-execution-critical-vulnerability-disclosure/"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.ilch.de/forum-showposts-55001.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ilch:ilch_cms:2.1.22:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ilch:ilch_cms:2.1.22",
+	"title": [
+		{
+			"text": "Ilch CMS 2.1.22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://syhack.wordpress.com/2019/09/29/ilch-content-management-system-v-2-1-22-insecure-file-upload-lfi-remote-code-execution-critical-vulnerability-disclosure/"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.ilch.de/forum-showposts-55001.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ilch:ilch_cms:2.1.22:*:*:*:*:*:*:*"
+	}
 }

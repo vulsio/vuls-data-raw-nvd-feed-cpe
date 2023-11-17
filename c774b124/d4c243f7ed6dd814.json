@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:igor_sysoev:nginx:1.1.11",
-  "deprecated": true,
-  "deprecation_date": "2014-08-28T18:10:11.427Z",
-  "title": [
-    {
-      "text": "Nginx 1.1.11",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:igor_sysoev:nginx:1.1.11:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-08-28T14:10:11.427-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nginx:nginx:1.1.11:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:igor_sysoev:nginx:1.1.11",
+	"deprecated": true,
+	"deprecation_date": "2014-08-28T18:10:11.427Z",
+	"title": [
+		{
+			"text": "Nginx 1.1.11",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:igor_sysoev:nginx:1.1.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-08-28T14:10:11.427-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nginx:nginx:1.1.11:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

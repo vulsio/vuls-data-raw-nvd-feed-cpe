@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:moxa:nport_5650-8:-",
-  "title": [
-    {
-      "text": "Moxa NPort 5650-8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/general-device-servers/nport-5600-series#models"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:moxa:nport_5650-8:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:moxa:nport_5650-8:-",
+	"title": [
+		{
+			"text": "Moxa NPort 5650-8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-edge-connectivity/serial-device-servers/general-device-servers/nport-5600-series#models"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-233328-nport-5000-series-firmware-improper-validation-of-integrity-check-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:moxa:nport_5650-8:-:*:*:*:*:*:*:*"
+	}
 }

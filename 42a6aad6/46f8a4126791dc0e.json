@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:change_and_configuration_management_database:7.1.1.12",
-  "title": [
-    {
-      "text": "IBM Change and Configuration Management Database (CCMDB) 7.1.1.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Security Bulletin: Security Vulnerabilities Addressed in Asset and Service Mgmt for CVE-2013-4016",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21670870"
-    },
-    {
-      "text": "Security Bulletin: Potential security vulnerability with Maximo Asset Management for CVE-2013-5402",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21660032"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:change_and_configuration_management_database:7.1.1.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:change_and_configuration_management_database:7.1.1.12",
+	"title": [
+		{
+			"text": "IBM Change and Configuration Management Database (CCMDB) 7.1.1.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Security Bulletin: Security Vulnerabilities Addressed in Asset and Service Mgmt for CVE-2013-4016",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21670870"
+		},
+		{
+			"text": "Security Bulletin: Potential security vulnerability with Maximo Asset Management for CVE-2013-5402",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21660032"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:change_and_configuration_management_database:7.1.1.12:*:*:*:*:*:*:*"
+	}
 }

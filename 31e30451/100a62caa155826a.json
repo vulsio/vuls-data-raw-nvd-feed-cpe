@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:network_level_service:3.0%280.0.83b%29",
-  "title": [
-    {
-      "text": "Cisco Network Level Service 3.0(0.0.83B)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/153350/Cisco-Prime-Infrastructure-Health-Monitor-TarArchive-Directory-Traversal.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvo62258"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:network_level_service:3.0\\(0.0.83b\\):*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:network_level_service:3.0%280.0.83b%29",
+	"title": [
+		{
+			"text": "Cisco Network Level Service 3.0(0.0.83B)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/153350/Cisco-Prime-Infrastructure-Health-Monitor-TarArchive-Directory-Traversal.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvo62258"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:network_level_service:3.0\\(0.0.83b\\):*:*:*:*:*:*:*"
+	}
 }

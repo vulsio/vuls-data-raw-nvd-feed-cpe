@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:limesurvey:limesurvey:4.5.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T15:25:47.520Z",
-  "title": [
-    {
-      "text": "LimeSurvey 4.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.limesurvey.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/LimeSurvey/LimeSurvey/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:limesurvey:limesurvey:4.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T10:25:47.520-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:limesurvey:limesurvey:4.5.0:210412:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:limesurvey:limesurvey:4.5.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T15:25:47.520Z",
+	"title": [
+		{
+			"text": "LimeSurvey 4.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.limesurvey.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/LimeSurvey/LimeSurvey/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:limesurvey:limesurvey:4.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T10:25:47.520-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:limesurvey:limesurvey:4.5.0:210412:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

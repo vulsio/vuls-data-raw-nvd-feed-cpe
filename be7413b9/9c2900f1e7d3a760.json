@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:e5607:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:38:50.857Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5607",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:e5607:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:38:50.857-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5607:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:e5607:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:38:50.857Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5607",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:e5607:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:38:50.857-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5607:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

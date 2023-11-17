@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:nextcloud_server:24.0.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Nextcloud Server 24.0.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/server/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-v243-x6jc-42mp"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:nextcloud_server:24.0.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:nextcloud_server:24.0.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Nextcloud Server 24.0.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/server/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-v243-x6jc-42mp"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud_server:24.0.0:*:*:*:enterprise:*:*:*"
+	}
 }

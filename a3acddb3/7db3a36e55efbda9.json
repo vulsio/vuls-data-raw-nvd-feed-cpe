@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:roundcube:roundcube_webmail:1.1:beta",
-  "deprecated": true,
-  "deprecation_date": "2017-11-28T18:34:57.840Z",
-  "title": [
-    {
-      "text": "RoundCube Webmail 1.1 Beta",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/roundcube/roundcubemail/releases/tag/1.0.8"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/roundcube/roundcubemail/blob/master/CHANGELOG"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:roundcube:roundcube_webmail:1.1:beta:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-11-28T13:34:57.840-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:roundcube:webmail:1.1:beta:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:roundcube:roundcube_webmail:1.1:beta",
+	"deprecated": true,
+	"deprecation_date": "2017-11-28T18:34:57.840Z",
+	"title": [
+		{
+			"text": "RoundCube Webmail 1.1 Beta",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/roundcube/roundcubemail/releases/tag/1.0.8"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/roundcube/roundcubemail/blob/master/CHANGELOG"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:roundcube:roundcube_webmail:1.1:beta:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-11-28T13:34:57.840-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:roundcube:webmail:1.1:beta:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

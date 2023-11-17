@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bson_project:bson:2.2.4::~~~ruby~~",
-  "title": [
-    {
-      "text": "BSON Project BSON 2.2.4 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/mongodb/bson-ruby/blob/master/CHANGELOG.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://rubygems.org/gems/bson/versions/4.2.1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bson_project:bson:2.2.4:*:*:*:*:ruby:*:*"
-  }
+	"name": "cpe:/a:bson_project:bson:2.2.4::~~~ruby~~",
+	"title": [
+		{
+			"text": "BSON Project BSON 2.2.4 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/mongodb/bson-ruby/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://rubygems.org/gems/bson/versions/4.2.1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bson_project:bson:2.2.4:*:*:*:*:ruby:*:*"
+	}
 }

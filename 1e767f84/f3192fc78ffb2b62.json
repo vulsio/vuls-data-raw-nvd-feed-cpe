@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:nvidia:dgx_a100_firmware:1.18::~~sbios~~~",
-  "title": [
-    {
-      "text": "NVIDIA DGX A100 Firmware 1.18 SBIOS Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5435"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nvidia:dgx_a100_firmware:1.18:*:*:*:sbios:*:*:*"
-  }
+	"name": "cpe:/o:nvidia:dgx_a100_firmware:1.18::~~sbios~~~",
+	"title": [
+		{
+			"text": "NVIDIA DGX A100 Firmware 1.18 SBIOS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5435"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:dgx_a100_firmware:1.18:*:*:*:sbios:*:*:*"
+	}
 }

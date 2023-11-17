@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:telaxus:epesi:1.6.3",
-  "deprecated": true,
-  "deprecation_date": "2020-12-03T16:17:47.167Z",
-  "title": [
-    {
-      "text": "Telaxus EPESI 1.6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://epe.si/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Telaxus/EPESI"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.telaxus.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:telaxus:epesi:1.6.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-03T11:17:47.167-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:epesi:epesi:1.6.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:telaxus:epesi:1.6.3",
+	"deprecated": true,
+	"deprecation_date": "2020-12-03T16:17:47.167Z",
+	"title": [
+		{
+			"text": "Telaxus EPESI 1.6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://epe.si/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Telaxus/EPESI"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.telaxus.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:telaxus:epesi:1.6.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-03T11:17:47.167-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:epesi:epesi:1.6.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

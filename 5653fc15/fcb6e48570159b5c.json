@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:moodle:moodle:3.2",
-  "deprecated": true,
-  "deprecation_date": "2020-12-01T14:58:23.963Z",
-  "title": [
-    {
-      "text": "Moodle 3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://moodle.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://moodle.org/mod/forum/discuss.php?d=361784"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.moodle.org/dev/Releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moodle:moodle:3.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-01T09:58:23.963-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:moodle:moodle:3.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:moodle:moodle:3.2",
+	"deprecated": true,
+	"deprecation_date": "2020-12-01T14:58:23.963Z",
+	"title": [
+		{
+			"text": "Moodle 3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://moodle.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://moodle.org/mod/forum/discuss.php?d=361784"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.moodle.org/dev/Releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moodle:moodle:3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-01T09:58:23.963-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:moodle:moodle:3.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

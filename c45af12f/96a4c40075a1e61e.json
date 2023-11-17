@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:automic_workload_automation:12.2",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:12:56.910Z",
-  "title": [
-    {
-      "text": "CA Automic Workload Automation 12.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/151325/CA-Automic-Workload-Automation-12.x-Cross-Site-Scripting.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:automic_workload_automation:12.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:12:56.910-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:automic_workload_automation:12.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:automic_workload_automation:12.2",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:12:56.910Z",
+	"title": [
+		{
+			"text": "CA Automic Workload Automation 12.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/151325/CA-Automic-Workload-Automation-12.x-Cross-Site-Scripting.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:automic_workload_automation:12.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:12:56.910-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:automic_workload_automation:12.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

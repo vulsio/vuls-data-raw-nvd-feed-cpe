@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sonicwall:analyzer:8.2",
-  "title": [
-    {
-      "text": "SonicWall Analyzer 8.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/support/knowledge-base/how-can-i-download-install-and-set-up-sonicwall-analyzer-on-windows/170901182222484/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/en-us/products/firewalls/management-and-reporting/network-analyzer"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0003"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonicwall:analyzer:8.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sonicwall:analyzer:8.2",
+	"title": [
+		{
+			"text": "SonicWall Analyzer 8.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/support/knowledge-base/how-can-i-download-install-and-set-up-sonicwall-analyzer-on-windows/170901182222484/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/en-us/products/firewalls/management-and-reporting/network-analyzer"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2018-0003"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:analyzer:8.2:*:*:*:*:*:*:*"
+	}
 }

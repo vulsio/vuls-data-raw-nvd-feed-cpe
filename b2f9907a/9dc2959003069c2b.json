@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:suse:cups:2.2.7",
-  "title": [
-    {
-      "text": "Suse Cups 2.2.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25317.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.suse.com/show_bug.cgi?id=1184161"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:suse:cups:2.2.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:suse:cups:2.2.7",
+	"title": [
+		{
+			"text": "Suse Cups 2.2.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/25xxx/CVE-2021-25317.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.suse.com/show_bug.cgi?id=1184161"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:suse:cups:2.2.7:*:*:*:*:*:*:*"
+	}
 }

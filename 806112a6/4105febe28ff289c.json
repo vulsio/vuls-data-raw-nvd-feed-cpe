@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:psigridconnect:smart_telecontrol_unit_tcg:-",
-  "title": [
-    {
-      "text": "PSI GridConnect Smart Telecontrol Unit TCG",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-19-059-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.psigridconnect.com/en/prozessankopplung/smart-telecontrol-unit/stu-tcg/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.psigridconnect.com/de/home/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:psigridconnect:smart_telecontrol_unit_tcg:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:psigridconnect:smart_telecontrol_unit_tcg:-",
+	"title": [
+		{
+			"text": "PSI GridConnect Smart Telecontrol Unit TCG",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/ICSA-19-059-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.psigridconnect.com/en/prozessankopplung/smart-telecontrol-unit/stu-tcg/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.psigridconnect.com/de/home/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:psigridconnect:smart_telecontrol_unit_tcg:-:*:*:*:*:*:*:*"
+	}
 }

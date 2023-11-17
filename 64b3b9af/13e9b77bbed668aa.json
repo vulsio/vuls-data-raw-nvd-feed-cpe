@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ibm:websphere_mq:7.5.0.7",
-  "title": [
-    {
-      "text": "IBM WebSphere MQ 7.5.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/127803"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ibm.com/us-en/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www-945.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=ibm%2fWebSphere%3bibm%2fWebSphere%2fWebSphere+MQ"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:websphere_mq:7.5.0.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:websphere_mq:7.5.0.7",
+	"title": [
+		{
+			"text": "IBM WebSphere MQ 7.5.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/127803"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ibm.com/us-en/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www-945.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=ibm%2fWebSphere%3bibm%2fWebSphere%2fWebSphere+MQ"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:websphere_mq:7.5.0.7:*:*:*:*:*:*:*"
+	}
 }

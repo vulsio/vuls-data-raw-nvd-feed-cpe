@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ibm:iris_xe_max_dedicated_graphics:-",
-  "deprecated": true,
-  "deprecation_date": "2022-08-01T16:03:26.213Z",
-  "title": [
-    {
-      "text": "IBM Iris Xe Max Dedicated Graphics -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00566.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-08-01T12:03:26.213-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:iris_xe_max_dedicated_graphics:-",
+	"deprecated": true,
+	"deprecation_date": "2022-08-01T16:03:26.213Z",
+	"title": [
+		{
+			"text": "IBM Iris Xe Max Dedicated Graphics -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00566.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-08-01T12:03:26.213-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:intel:iris_xe_max_dedicated_graphics:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

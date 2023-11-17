@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:google:kubernetes:-",
-  "deprecated": true,
-  "deprecation_date": "2021-06-03T15:04:26.753Z",
-  "title": [
-    {
-      "text": "Google Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://kubernetes.io/v1.0/docs/whatisk8s.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:kubernetes:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-03T11:04:26.753-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kubernetes:kubernetes:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:google:kubernetes:-",
+	"deprecated": true,
+	"deprecation_date": "2021-06-03T15:04:26.753Z",
+	"title": [
+		{
+			"text": "Google Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://kubernetes.io/v1.0/docs/whatisk8s.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:kubernetes:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-03T11:04:26.753-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kubernetes:kubernetes:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

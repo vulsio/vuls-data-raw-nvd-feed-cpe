@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:phpmyadmin:phpmyadmin:2.11.7.12.11.7.1",
-  "deprecated": true,
-  "deprecation_date": "2011-01-28T21:16:59.890Z",
-  "title": [
-    {
-      "text": "phpMYAdmin 2.11.7.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpmyadmin:phpmyadmin:2.11.7.12.11.7.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-01-28T16:16:59.890-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpmyadmin:phpmyadmin:2.11.7.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpmyadmin:phpmyadmin:2.11.7.12.11.7.1",
+	"deprecated": true,
+	"deprecation_date": "2011-01-28T21:16:59.890Z",
+	"title": [
+		{
+			"text": "phpMYAdmin 2.11.7.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpmyadmin:phpmyadmin:2.11.7.12.11.7.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-01-28T16:16:59.890-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpmyadmin:phpmyadmin:2.11.7.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

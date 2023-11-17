@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:fatek:winproladder:3.30",
-  "title": [
-    {
-      "text": "FATEK WinProladder 3.30",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-175-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.fatek.com/en"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.fatek.com/en/download.php?act=list&cid=141"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fatek:winproladder:3.30:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:fatek:winproladder:3.30",
+	"title": [
+		{
+			"text": "FATEK WinProladder 3.30",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-175-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.fatek.com/en"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.fatek.com/en/download.php?act=list&cid=141"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fatek:winproladder:3.30:*:*:*:*:*:*:*"
+	}
 }

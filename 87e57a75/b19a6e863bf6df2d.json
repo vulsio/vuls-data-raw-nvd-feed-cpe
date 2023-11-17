@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pcre:pcre:10.34",
-  "deprecated": true,
-  "deprecation_date": "2020-02-26T18:59:20.967Z",
-  "title": [
-    {
-      "text": "PCRE 10.34",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/pcre/files/pcre2/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pcre:pcre:10.34:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-26T13:59:20.967-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pcre:pcre2:10.34:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pcre:pcre:10.34",
+	"deprecated": true,
+	"deprecation_date": "2020-02-26T18:59:20.967Z",
+	"title": [
+		{
+			"text": "PCRE 10.34",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/pcre/files/pcre2/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pcre:pcre:10.34:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-26T13:59:20.967-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pcre:pcre2:10.34:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

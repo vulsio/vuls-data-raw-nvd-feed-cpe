@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:medtronic:maximo_ii_icd_firmware:-",
-  "title": [
-    {
-      "text": "Medtronic Maximo II ICD Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
-    },
-    {
-      "text": "Product",
-      "href": "http://wwwp.medtronic.com/productperformance/model/D364TRG-protecta-crt-d.html"
-    },
-    {
-      "text": "Product",
-      "href": "http://wwwp.medtronic.com/productperformance/model/D284TRK-maximo-ii-crt-d.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.medtronic.com/us-en/patients/treatments-therapies/remote-monitoring/available-monitors.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:medtronic:maximo_ii_icd_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:medtronic:maximo_ii_icd_firmware:-",
+	"title": [
+		{
+			"text": "Medtronic Maximo II ICD Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-080-01"
+		},
+		{
+			"text": "Product",
+			"href": "http://wwwp.medtronic.com/productperformance/model/D364TRG-protecta-crt-d.html"
+		},
+		{
+			"text": "Product",
+			"href": "http://wwwp.medtronic.com/productperformance/model/D284TRK-maximo-ii-crt-d.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.medtronic.com/us-en/patients/treatments-therapies/remote-monitoring/available-monitors.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:medtronic:maximo_ii_icd_firmware:-:*:*:*:*:*:*:*"
+	}
 }

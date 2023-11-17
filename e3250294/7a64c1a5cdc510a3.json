@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:outlook:2011::~~~mac_os_x~~",
-  "title": [
-    {
-      "text": "Microsoft Outlook 2011 for Mac Os X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-0207"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=47307"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:outlook:2011:*:*:*:*:mac_os_x:*:*"
-  }
+	"name": "cpe:/a:microsoft:outlook:2011::~~~mac_os_x~~",
+	"title": [
+		{
+			"text": "Microsoft Outlook 2011 for Mac Os X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-0207"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=47307"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:outlook:2011:*:*:*:*:mac_os_x:*:*"
+	}
 }

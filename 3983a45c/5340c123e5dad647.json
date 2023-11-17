@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:asus:dl-101_firmware:-",
-  "title": [
-    {
-      "text": "Asus DL-101 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.asus.com/sg/Internet-of-Things/ASUS-SmartHome-Smart-Door-Lock-DL101/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:asus:dl-101_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:asus:dl-101_firmware:-",
+	"title": [
+		{
+			"text": "Asus DL-101 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.asus.com/sg/Internet-of-Things/ASUS-SmartHome-Smart-Door-Lock-DL101/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:asus:dl-101_firmware:-:*:*:*:*:*:*:*"
+	}
 }

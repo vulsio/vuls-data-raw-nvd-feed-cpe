@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:ipmctl:2.00.00.3799::~~~windows~~",
-  "title": [
-    {
-      "text": "Intel IPMCTL 2.00.00.3799 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.pmem.io/ipmctl-user-guide/installing-ipmctl"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/intel/ipmctl/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:ipmctl:2.00.00.3799:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:intel:ipmctl:2.00.00.3799::~~~windows~~",
+	"title": [
+		{
+			"text": "Intel IPMCTL 2.00.00.3799 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.pmem.io/ipmctl-user-guide/installing-ipmctl"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/intel/ipmctl/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:ipmctl:2.00.00.3799:*:*:*:*:windows:*:*"
+	}
 }

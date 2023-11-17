@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_xp:-:sp1:x64",
-  "deprecated": true,
-  "deprecation_date": "2021-09-13T01:23:05.003Z",
-  "title": [
-    {
-      "text": "Microsoft Windows XP Service Pack 1 x64 (64-bit)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/windows/windows-xp-support-has-ended-47b944b8-f4d3-82f2-9acc-21c79ee6ef5e"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:x64:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-12T21:23:05.003-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_xp:-:sp1:x64",
+	"deprecated": true,
+	"deprecation_date": "2021-09-13T01:23:05.003Z",
+	"title": [
+		{
+			"text": "Microsoft Windows XP Service Pack 1 x64 (64-bit)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/windows/windows-xp-support-has-ended-47b944b8-f4d3-82f2-9acc-21c79ee6ef5e"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:x64:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-12T21:23:05.003-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_xp:-:sp1:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

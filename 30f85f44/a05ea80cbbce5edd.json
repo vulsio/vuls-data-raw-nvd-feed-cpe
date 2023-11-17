@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:silabs:gecko_bootloader:4.3.0::~~~~arm~",
-  "title": [
-    {
-      "text": "Silicon Labs Gecko Bootloader 4.3.0 on ARM",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.silabs.com/documents/public/application-notes/an1086-gecko-bootloader-bluetooth.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2023-4041"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silabs:gecko_bootloader:4.3.0:*:*:*:*:*:arm:*"
-  }
+	"name": "cpe:/a:silabs:gecko_bootloader:4.3.0::~~~~arm~",
+	"title": [
+		{
+			"text": "Silicon Labs Gecko Bootloader 4.3.0 on ARM",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.silabs.com/documents/public/application-notes/an1086-gecko-bootloader-bluetooth.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-4041"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silabs:gecko_bootloader:4.3.0:*:*:*:*:*:arm:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:wordpress:wordpress:3.8.1",
-  "deprecated": true,
-  "deprecation_date": "2019-06-10T21:29:21.940Z",
-  "title": [
-    {
-      "text": "WordPress 3.8.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://codex.wordpress.org/WordPress_Versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wordpress:wordpress:3.8.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-10T17:29:21.940-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wordpress:wordpress:3.8.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wordpress:wordpress:3.8.1",
+	"deprecated": true,
+	"deprecation_date": "2019-06-10T21:29:21.940Z",
+	"title": [
+		{
+			"text": "WordPress 3.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://codex.wordpress.org/WordPress_Versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wordpress:wordpress:3.8.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-10T17:29:21.940-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wordpress:wordpress:3.8.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

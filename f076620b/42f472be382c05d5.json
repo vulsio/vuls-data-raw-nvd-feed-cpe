@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:abb:esoms:6.0.2",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:21:29.157Z",
-  "title": [
-    {
-      "text": "ABB eSOMS 6.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107046A5821&LanguageCode=en&DocumentPartId=&Action=Launch"
-    },
-    {
-      "text": "Project",
-      "href": "https://library.e.abb.com/public/add3a18387484672b9ba06ccfea6bd23/eSOMS%20v602%20GA%20announcement_9AKK107046A2107-web.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:esoms:6.0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:21:29.157-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:esoms:6.0.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:abb:esoms:6.0.2",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:21:29.157Z",
+	"title": [
+		{
+			"text": "ABB eSOMS 6.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107046A5821&LanguageCode=en&DocumentPartId=&Action=Launch"
+		},
+		{
+			"text": "Project",
+			"href": "https://library.e.abb.com/public/add3a18387484672b9ba06ccfea6bd23/eSOMS%20v602%20GA%20announcement_9AKK107046A2107-web.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:esoms:6.0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:21:29.157-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:esoms:6.0.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

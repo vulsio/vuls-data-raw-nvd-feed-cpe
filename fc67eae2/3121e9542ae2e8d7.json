@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:d-link:mydlink_baby_camera_monitor:1.06.02",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:36:57.253Z",
-  "title": [
-    {
-      "text": "D-Link mydlink Baby Camera Monitor 1.06.02",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.dlink.cc/tag/baby-app"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.dlink.mydlinkbaby&hl=en_US"
-    },
-    {
-      "text": "Product",
-      "href": "https://itunes.apple.com/cn/app/mydlink-baby-camera-monitor/id718860628?l=en&mt=8"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:d-link:mydlink_baby_camera_monitor:1.06.02:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:36:57.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dlink:mydlink_baby_camera_monitor:1.06.02:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:d-link:mydlink_baby_camera_monitor:1.06.02",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:36:57.253Z",
+	"title": [
+		{
+			"text": "D-Link mydlink Baby Camera Monitor 1.06.02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.dlink.cc/tag/baby-app"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.dlink.mydlinkbaby&hl=en_US"
+		},
+		{
+			"text": "Product",
+			"href": "https://itunes.apple.com/cn/app/mydlink-baby-camera-monitor/id718860628?l=en&mt=8"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:d-link:mydlink_baby_camera_monitor:1.06.02:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:36:57.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dlink:mydlink_baby_camera_monitor:1.06.02:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

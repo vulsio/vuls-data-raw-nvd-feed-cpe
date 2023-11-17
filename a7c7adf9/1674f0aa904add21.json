@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:phpgurukul:hospital_management_system_in_php:4.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T16:21:39.953Z",
-  "title": [
-    {
-      "text": "PHGurukul Hospital Management System In PHP 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/47841"
-    },
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/hospital-management-system-in-php/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T11:21:39.953-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpgurukul:hospital_management_system_in_php:4.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T16:21:39.953Z",
+	"title": [
+		{
+			"text": "PHGurukul Hospital Management System In PHP 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/47841"
+		},
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/hospital-management-system-in-php/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul:hospital_management_system_in_php:4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T11:21:39.953-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:hospital_management_system:4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

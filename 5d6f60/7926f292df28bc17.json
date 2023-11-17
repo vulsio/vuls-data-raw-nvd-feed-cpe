@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:quartus_prime:5.1::~~standard~~~",
-  "title": [
-    {
-      "text": "Intel Quartus Prime 5.1 Standard Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00446.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://fpgasoftware.intel.com/20.1/?edition=standard&platform=windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:quartus_prime:5.1:*:*:*:standard:*:*:*"
-  }
+	"name": "cpe:/a:intel:quartus_prime:5.1::~~standard~~~",
+	"title": [
+		{
+			"text": "Intel Quartus Prime 5.1 Standard Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00446.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://fpgasoftware.intel.com/20.1/?edition=standard&platform=windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:quartus_prime:5.1:*:*:*:standard:*:*:*"
+	}
 }

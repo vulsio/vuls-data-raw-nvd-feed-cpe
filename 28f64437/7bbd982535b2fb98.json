@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:orchestration_api:5.0.0",
-  "title": [
-    {
-      "text": "OpenStack Orchestration API 5.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.openstack.org/ossa/OSSA-2016-003.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.openstack.org/api-ref/orchestration/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:orchestration_api:5.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:orchestration_api:5.0.0",
+	"title": [
+		{
+			"text": "OpenStack Orchestration API 5.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.openstack.org/ossa/OSSA-2016-003.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.openstack.org/api-ref/orchestration/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:orchestration_api:5.0.0:*:*:*:*:*:*:*"
+	}
 }

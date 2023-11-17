@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:suse:linux_enterprise_software_development_kit:11.0:sp4",
-  "deprecated": true,
-  "deprecation_date": "2023-06-06T12:46:25.737Z",
-  "title": [
-    {
-      "text": "Suse Linux Enterprise Software Development Kit 11.0 Service Pack 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.suse.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2016-03/msg00060.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:linux_enterprise_software_development_kit:11.0:sp4:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-06T08:46:25.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:suse:linux_enterprise_software_development_kit:11:sp4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:suse:linux_enterprise_software_development_kit:11.0:sp4",
+	"deprecated": true,
+	"deprecation_date": "2023-06-06T12:46:25.737Z",
+	"title": [
+		{
+			"text": "Suse Linux Enterprise Software Development Kit 11.0 Service Pack 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.suse.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2016-03/msg00060.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:linux_enterprise_software_development_kit:11.0:sp4:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-06T08:46:25.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:suse:linux_enterprise_software_development_kit:11:sp4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

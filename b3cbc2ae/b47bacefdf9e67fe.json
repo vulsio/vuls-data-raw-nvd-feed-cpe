@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:eset:mail_security:7.3.14003.0::~~~domino~~",
-  "title": [
-    {
-      "text": "ESET Mail Security 7.3.14003.0 for Domino",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://help.eset.com/latestVersions/?lang=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:mail_security:7.3.14003.0:*:*:*:*:domino:*:*"
-  }
+	"name": "cpe:/a:eset:mail_security:7.3.14003.0::~~~domino~~",
+	"title": [
+		{
+			"text": "ESET Mail Security 7.3.14003.0 for Domino",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://help.eset.com/latestVersions/?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:mail_security:7.3.14003.0:*:*:*:*:domino:*:*"
+	}
 }

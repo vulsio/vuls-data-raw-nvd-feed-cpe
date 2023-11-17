@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openbsd:openssh:6.3",
-  "deprecated": true,
-  "deprecation_date": "2020-07-24T16:49:44.843Z",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version information",
-      "href": "http://www.openssh.com/txt/release-6.3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:6.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-24T12:49:44.843-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openbsd:openssh:6.3:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openbsd:openssh:6.3",
+	"deprecated": true,
+	"deprecation_date": "2020-07-24T16:49:44.843Z",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version information",
+			"href": "http://www.openssh.com/txt/release-6.3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:6.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-24T12:49:44.843-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openbsd:openssh:6.3:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

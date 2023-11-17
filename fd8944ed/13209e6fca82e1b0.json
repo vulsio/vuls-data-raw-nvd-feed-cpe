@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:arm:neoverse-e1_firmware:-",
-  "title": [
-    {
-      "text": "ARM Neoverse-E1 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arm:neoverse-e1_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:arm:neoverse-e1_firmware:-",
+	"title": [
+		{
+			"text": "ARM Neoverse-E1 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arm:neoverse-e1_firmware:-:*:*:*:*:*:*:*"
+	}
 }

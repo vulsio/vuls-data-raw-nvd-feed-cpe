@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:schneider_electric:modbus_driver_suite:14.15.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-06-04T14:15:54.330Z",
-  "title": [
-    {
-      "text": "Schneider Electric Modbus Driver Suite 14.15.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.se.com/us/en/search/modbus+driver"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:schneider_electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-04T10:15:54.330-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:schneider_electric:modbus_driver_suite:14.15.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-06-04T14:15:54.330Z",
+	"title": [
+		{
+			"text": "Schneider Electric Modbus Driver Suite 14.15.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.se.com/us/en/search/modbus+driver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:schneider_electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-04T10:15:54.330-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:modbus_driver_suite:14.15.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

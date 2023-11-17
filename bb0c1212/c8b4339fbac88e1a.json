@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:suse:suse_linux:10.1",
-  "deprecated": true,
-  "deprecation_date": "2013-01-10T19:06:02.193Z",
-  "title": [
-    {
-      "text": "Novell SUSE Linux 10.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:suse_linux:10.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-01-10T14:06:02.193-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:novell:suse_linux:10.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:suse:suse_linux:10.1",
+	"deprecated": true,
+	"deprecation_date": "2013-01-10T19:06:02.193Z",
+	"title": [
+		{
+			"text": "Novell SUSE Linux 10.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:suse_linux:10.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-01-10T14:06:02.193-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:novell:suse_linux:10.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

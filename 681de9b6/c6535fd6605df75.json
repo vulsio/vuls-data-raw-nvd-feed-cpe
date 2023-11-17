@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dell:emc_idrac9_firmware:3.00.00.00",
-  "title": [
-    {
-      "text": "Dell EMC iDRAC9 Firmware 3.00.00.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000178016/support-for-integrated-dell-remote-access-controller-9-idrac9"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:emc_idrac9_firmware:3.00.00.00:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:emc_idrac9_firmware:3.00.00.00",
+	"title": [
+		{
+			"text": "Dell EMC iDRAC9 Firmware 3.00.00.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000178016/support-for-integrated-dell-remote-access-controller-9-idrac9"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:emc_idrac9_firmware:3.00.00.00:*:*:*:*:*:*:*"
+	}
 }

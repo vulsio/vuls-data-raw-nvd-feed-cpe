@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:cisco:sd-wan_vmanage:17.2.8",
-  "deprecated": true,
-  "deprecation_date": "2023-10-16T16:35:23.810Z",
-  "title": [
-    {
-      "text": "Cisco SD-WAN vManage 17.2.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/site/us/en/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2020-26064"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanx2-KpFVSUc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:sd-wan_vmanage:17.2.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-16T12:35:23.810-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:17.2.8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:sd-wan_vmanage:17.2.8",
+	"deprecated": true,
+	"deprecation_date": "2023-10-16T16:35:23.810Z",
+	"title": [
+		{
+			"text": "Cisco SD-WAN vManage 17.2.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/site/us/en/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/sd-wan/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2020-26064"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-vmanx2-KpFVSUc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:sd-wan_vmanage:17.2.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-16T12:35:23.810-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:catalyst_sd-wan_manager:17.2.8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

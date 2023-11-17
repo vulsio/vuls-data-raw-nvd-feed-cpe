@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:gnu:zlib:1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-06-22T16:40:44.440Z",
-  "title": [
-    {
-      "text": "GNU zlib 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnu:zlib:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-22T12:40:44.440-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zlib:zlib:1.0:prerelease:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gnu:zlib:1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-06-22T16:40:44.440Z",
+	"title": [
+		{
+			"text": "GNU zlib 1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnu:zlib:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-22T12:40:44.440-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zlib:zlib:1.0:prerelease:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

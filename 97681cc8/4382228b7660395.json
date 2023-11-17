@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:arm:midguard:r30p0",
-  "deprecated": true,
-  "deprecation_date": "2022-03-22T15:00:39.830Z",
-  "title": [
-    {
-      "text": "ARM Midguard r30p0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:midguard:r30p0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-22T11:00:39.830-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arm:midgard:r30p0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:arm:midguard:r30p0",
+	"deprecated": true,
+	"deprecation_date": "2022-03-22T15:00:39.830Z",
+	"title": [
+		{
+			"text": "ARM Midguard r30p0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:midguard:r30p0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-22T11:00:39.830-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arm:midgard:r30p0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

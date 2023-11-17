@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wire:wire_-_audio%2c_video%2c_and_signaling:6.4",
-  "title": [
-    {
-      "text": "Wire Wire - Audio, Video, And Signaling 6.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://github.security.telekom.com/2020/11/wire-secure-messenger-format-string-vulnerability.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wire.com/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wire:wire_-_audio\\,_video\\,_and_signaling:6.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:wire:wire_-_audio%2c_video%2c_and_signaling:6.4",
+	"title": [
+		{
+			"text": "Wire Wire - Audio, Video, And Signaling 6.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://github.security.telekom.com/2020/11/wire-secure-messenger-format-string-vulnerability.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wire.com/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wire:wire_-_audio\\,_video\\,_and_signaling:6.4:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:util-linux_project:util-linux:2.31",
-  "deprecated": true,
-  "deprecation_date": "2019-01-04T14:14:13.100Z",
-  "title": [
-    {
-      "text": "util-linux Project util-linux 2.31",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/karelzak/util-linux/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/karelzak/util-linux"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:util-linux_project:util-linux:2.31:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-01-04T09:14:13.100-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kernel:util-linux:2.31:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:util-linux_project:util-linux:2.31",
+	"deprecated": true,
+	"deprecation_date": "2019-01-04T14:14:13.100Z",
+	"title": [
+		{
+			"text": "util-linux Project util-linux 2.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/karelzak/util-linux/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/karelzak/util-linux"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:util-linux_project:util-linux:2.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-01-04T09:14:13.100-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kernel:util-linux:2.31:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

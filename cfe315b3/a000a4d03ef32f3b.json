@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kemptechnologies:load_master:7.1-16",
-  "title": [
-    {
-      "text": "KEMP Load Master 7.1-16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/131284/Kemp-Load-Master-7.1-16-CSRF-XSS-DoS-Code-Execution.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://kemptechnologies.com/load-balancer/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/36609"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kemptechnologies:load_master:7.1-16:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kemptechnologies:load_master:7.1-16",
+	"title": [
+		{
+			"text": "KEMP Load Master 7.1-16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/131284/Kemp-Load-Master-7.1-16-CSRF-XSS-DoS-Code-Execution.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://kemptechnologies.com/load-balancer/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/36609"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kemptechnologies:load_master:7.1-16:*:*:*:*:*:*:*"
+	}
 }

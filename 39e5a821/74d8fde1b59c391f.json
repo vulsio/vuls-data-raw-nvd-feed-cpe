@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:osticket:osticket:1.9.0",
-  "deprecated": true,
-  "deprecation_date": "2019-12-16T15:25:10.933Z",
-  "title": [
-    {
-      "text": "osTicket 1.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product version information",
-      "href": "https://github.com/osTicket/osTicket-1.8/releases"
-    },
-    {
-      "text": "Vendor website",
-      "href": "http://osticket.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:osticket:osticket:1.9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-16T10:25:10.933-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:enhancesoft:osticket:1.9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:osticket:osticket:1.9.0",
+	"deprecated": true,
+	"deprecation_date": "2019-12-16T15:25:10.933Z",
+	"title": [
+		{
+			"text": "osTicket 1.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product version information",
+			"href": "https://github.com/osTicket/osTicket-1.8/releases"
+		},
+		{
+			"text": "Vendor website",
+			"href": "http://osticket.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:osticket:osticket:1.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-16T10:25:10.933-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:enhancesoft:osticket:1.9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

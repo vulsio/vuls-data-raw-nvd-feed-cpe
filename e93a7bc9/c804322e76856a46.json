@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:nvidia:gpu_driver:331.00:-:~~windows~~~",
-  "title": [
-    {
-      "text": "NVIDIA GPU Driver 331.00 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor advisory",
-      "href": "http://nvidia.custhelp.com/app/answers/detail/a_id/3377"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
-  }
+	"name": "cpe:/a:nvidia:gpu_driver:331.00:-:~~windows~~~",
+	"title": [
+		{
+			"text": "NVIDIA GPU Driver 331.00 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor advisory",
+			"href": "http://nvidia.custhelp.com/app/answers/detail/a_id/3377"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:gpu_driver:331.00:-:*:*:windows:*:*:*"
+	}
 }

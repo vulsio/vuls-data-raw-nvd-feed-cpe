@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:atlassian:confluence:7.4.9",
-  "deprecated": true,
-  "deprecation_date": "2021-12-13T16:03:00.580Z",
-  "title": [
-    {
-      "text": "Atlassian Confluence 7.4.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://confluence.atlassian.com/conf714/confluence-release-notes-1087525906.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.atlassian.com/software/confluence"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:confluence:7.4.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-13T11:03:00.580-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:atlassian:confluence_server:7.4.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:atlassian:confluence:7.4.9",
+	"deprecated": true,
+	"deprecation_date": "2021-12-13T16:03:00.580Z",
+	"title": [
+		{
+			"text": "Atlassian Confluence 7.4.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://confluence.atlassian.com/conf714/confluence-release-notes-1087525906.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.atlassian.com/software/confluence"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:confluence:7.4.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-13T11:03:00.580-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:atlassian:confluence_server:7.4.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

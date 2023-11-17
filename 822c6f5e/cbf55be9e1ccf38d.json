@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:intel:accelerated_storage_manager:-",
-  "title": [
-    {
-      "text": "Intel Accelerated Storage Manager -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/support/products/54985/memory-and-storage/ssd-software/intel-rapid-storage-technology-enterprise-intel-rste.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00231.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://forums.intel.com/s/question/0D50P0000490JAUSA2/intel-accelerated-storage-manager-running-at-x99-what-is-it-pumping-up-one-thread-up-to-100?language=en_US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:accelerated_storage_manager:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:accelerated_storage_manager:-",
+	"title": [
+		{
+			"text": "Intel Accelerated Storage Manager -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/support/products/54985/memory-and-storage/ssd-software/intel-rapid-storage-technology-enterprise-intel-rste.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00231.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.intel.com/s/question/0D50P0000490JAUSA2/intel-accelerated-storage-manager-running-at-x99-what-is-it-pumping-up-one-thread-up-to-100?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:accelerated_storage_manager:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openmicroscopy:omero:5.1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-27T15:04:58.853Z",
-  "title": [
-    {
-      "text": "Open Microscopy OMERO 5.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.openmicroscopy.org/omero/5.4.7/users/history.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openmicroscopy:omero:5.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-27T11:04:58.853-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openmicroscopy:omero:5.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openmicroscopy:omero:5.1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-27T15:04:58.853Z",
+	"title": [
+		{
+			"text": "Open Microscopy OMERO 5.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.openmicroscopy.org/omero/5.4.7/users/history.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openmicroscopy:omero:5.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-27T11:04:58.853-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openmicroscopy:omero:5.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

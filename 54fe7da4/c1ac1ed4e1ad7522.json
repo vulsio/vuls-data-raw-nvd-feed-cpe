@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pfsense:suricata_package:1.0.1",
-  "title": [
-    {
-      "text": "pfSense Suricata Package 1.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.pfsense.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/pfsense/pfsense-packages/pull/659"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pastebin.com/8dj59053"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pfsense:suricata_package:1.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pfsense:suricata_package:1.0.1",
+	"title": [
+		{
+			"text": "pfSense Suricata Package 1.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.pfsense.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pfsense/pfsense-packages/pull/659"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pastebin.com/8dj59053"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pfsense:suricata_package:1.0.1:*:*:*:*:*:*:*"
+	}
 }

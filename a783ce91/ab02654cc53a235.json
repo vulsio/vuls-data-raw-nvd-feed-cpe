@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:symphony-cms:symphony_cms:2.6.2",
-  "deprecated": true,
-  "deprecation_date": "2020-05-28T15:50:09.933Z",
-  "title": [
-    {
-      "text": "symphony-cms Symphony CMS 2.6.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version Information",
-      "href": "http://www.getsymphony.com/download/releases/version/2.6.2/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.getsymphony.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symphony-cms:symphony_cms:2.6.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-28T11:50:09.933-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:getsymphony:symphony_cms:2.6.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symphony-cms:symphony_cms:2.6.2",
+	"deprecated": true,
+	"deprecation_date": "2020-05-28T15:50:09.933Z",
+	"title": [
+		{
+			"text": "symphony-cms Symphony CMS 2.6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version Information",
+			"href": "http://www.getsymphony.com/download/releases/version/2.6.2/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.getsymphony.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symphony-cms:symphony_cms:2.6.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-28T11:50:09.933-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:getsymphony:symphony_cms:2.6.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

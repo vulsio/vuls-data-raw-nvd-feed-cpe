@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:quobject:docker-cli-js:-::~~~node.js~~",
-  "title": [
-    {
-      "text": "Quobject docker-cli-js for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://quobject.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-DOCKERCLIJS-1568516"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/docker-cli-js"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:quobject:docker-cli-js:-:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:quobject:docker-cli-js:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "Quobject docker-cli-js for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://quobject.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-DOCKERCLIJS-1568516"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/docker-cli-js"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quobject:docker-cli-js:-:*:*:*:*:node.js:*:*"
+	}
 }

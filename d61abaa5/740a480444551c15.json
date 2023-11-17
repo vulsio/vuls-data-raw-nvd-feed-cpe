@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:amazon:opensearch:-::~~~maven~~",
-  "title": [
-    {
-      "text": "Amazon Opensearch - for Maven",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/opensearch-project/security/security/advisories/GHSA-72q2-gwwf-6hrv"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:opensearch:-:*:*:*:*:maven:*:*"
-  }
+	"name": "cpe:/a:amazon:opensearch:-::~~~maven~~",
+	"title": [
+		{
+			"text": "Amazon Opensearch - for Maven",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/opensearch-project/security/security/advisories/GHSA-72q2-gwwf-6hrv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:opensearch:-:*:*:*:*:maven:*:*"
+	}
 }

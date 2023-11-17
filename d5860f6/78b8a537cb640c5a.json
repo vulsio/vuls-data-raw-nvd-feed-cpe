@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:gehealthcare:carescape_telemetry_server_mp100r:-",
-  "title": [
-    {
-      "text": "GE Healthcare CARESCAPE Telemetry Server MP100R",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsma-20-023-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.gehealthcare.com/products/patient-monitoring/networking/carescape-gateway"
-    },
-    {
-      "text": "Product",
-      "href": "https://usocmedical.com/product/ge-mp100r-carescape-telemetry-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:gehealthcare:carescape_telemetry_server_mp100r:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:gehealthcare:carescape_telemetry_server_mp100r:-",
+	"title": [
+		{
+			"text": "GE Healthcare CARESCAPE Telemetry Server MP100R",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsma-20-023-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.gehealthcare.com/products/patient-monitoring/networking/carescape-gateway"
+		},
+		{
+			"text": "Product",
+			"href": "https://usocmedical.com/product/ge-mp100r-carescape-telemetry-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:gehealthcare:carescape_telemetry_server_mp100r:-:*:*:*:*:*:*:*"
+	}
 }

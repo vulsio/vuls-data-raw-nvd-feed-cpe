@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:soteria:-",
-  "title": [
-    {
-      "text": "Red Hat Soteria",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-1732"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/wildfly-security/soteria/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:soteria:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:soteria:-",
+	"title": [
+		{
+			"text": "Red Hat Soteria",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-1732"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/wildfly-security/soteria/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:soteria:-:*:*:*:*:*:*:*"
+	}
 }

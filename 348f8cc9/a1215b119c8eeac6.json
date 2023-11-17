@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:zmartzone:mod_auth_openidc:2.4.3",
-  "deprecated": true,
-  "deprecation_date": "2023-05-25T20:18:45.513Z",
-  "title": [
-    {
-      "text": "Zmartzone Mod Auth Openidc 2.4.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://jvn.jp/en/jp/JVN49704918/index.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/zmartzone/mod_auth_openidc/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.zmartzone.eu/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zmartzone:mod_auth_openidc:2.4.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-25T16:18:45.513-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openidc:mod_auth_openidc:2.4.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zmartzone:mod_auth_openidc:2.4.3",
+	"deprecated": true,
+	"deprecation_date": "2023-05-25T20:18:45.513Z",
+	"title": [
+		{
+			"text": "Zmartzone Mod Auth Openidc 2.4.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jvn.jp/en/jp/JVN49704918/index.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/zmartzone/mod_auth_openidc/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zmartzone.eu/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zmartzone:mod_auth_openidc:2.4.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-25T16:18:45.513-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openidc:mod_auth_openidc:2.4.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

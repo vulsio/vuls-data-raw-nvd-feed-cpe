@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:oracle:glassfish_server:3.1.2.18",
-  "title": [
-    {
-      "text": "Oracle Glassfish Server 3.1.2.18",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/plugins/nessus/119559"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://n4nj0.github.io/advisories/oracle-glassfish-reflected-xss/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:glassfish_server:3.1.2.18:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:glassfish_server:3.1.2.18",
+	"title": [
+		{
+			"text": "Oracle Glassfish Server 3.1.2.18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/plugins/nessus/119559"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://n4nj0.github.io/advisories/oracle-glassfish-reflected-xss/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:glassfish_server:3.1.2.18:*:*:*:*:*:*:*"
+	}
 }

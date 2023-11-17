@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dukapress_project:dukapress:2.5.3::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-02-05T16:09:23.210Z",
-  "title": [
-    {
-      "text": "DukaPress project DukaPress for WordPress 2.5.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product changelog",
-      "href": "https://wordpress.org/plugins/dukapress/changelog/"
-    },
-    {
-      "text": "Vendor website",
-      "href": "https://wordpress.org/plugins/dukapress/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dukapress_project:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-02-05T11:09:23.210-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dukapress:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dukapress_project:dukapress:2.5.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-02-05T16:09:23.210Z",
+	"title": [
+		{
+			"text": "DukaPress project DukaPress for WordPress 2.5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product changelog",
+			"href": "https://wordpress.org/plugins/dukapress/changelog/"
+		},
+		{
+			"text": "Vendor website",
+			"href": "https://wordpress.org/plugins/dukapress/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dukapress_project:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-02-05T11:09:23.210-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dukapress:dukapress:2.5.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

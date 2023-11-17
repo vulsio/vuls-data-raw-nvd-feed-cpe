@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:abb:esoms:-",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:21:29.157Z",
-  "title": [
-    {
-      "text": "ABB eSOMS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107992A0957&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:esoms:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:21:29.157-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hitachienergy:esoms:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:abb:esoms:-",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:21:29.157Z",
+	"title": [
+		{
+			"text": "ABB eSOMS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107992A0957&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:esoms:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:21:29.157-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hitachienergy:esoms:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

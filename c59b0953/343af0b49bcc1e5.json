@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:activesupport_project:activesupport:6.1.0:rc2:~~~ruby~~",
-  "title": [
-    {
-      "text": "Active Support Project Active Support 6.1.0 Release Candidate 2 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://discuss.rubyonrails.org/t/cve-2023-22796-possible-redos-based-dos-vulnerability-in-active-supports-underscore/82116"
-    },
-    {
-      "text": "Project",
-      "href": "https://rubygems.org/gems/activesupport/"
-    },
-    {
-      "text": "Version",
-      "href": "https://rubygems.org/gems/activesupport/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:activesupport_project:activesupport:6.1.0:rc2:*:*:*:ruby:*:*"
-  }
+	"name": "cpe:/a:activesupport_project:activesupport:6.1.0:rc2:~~~ruby~~",
+	"title": [
+		{
+			"text": "Active Support Project Active Support 6.1.0 Release Candidate 2 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://discuss.rubyonrails.org/t/cve-2023-22796-possible-redos-based-dos-vulnerability-in-active-supports-underscore/82116"
+		},
+		{
+			"text": "Project",
+			"href": "https://rubygems.org/gems/activesupport/"
+		},
+		{
+			"text": "Version",
+			"href": "https://rubygems.org/gems/activesupport/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:activesupport_project:activesupport:6.1.0:rc2:*:*:*:ruby:*:*"
+	}
 }

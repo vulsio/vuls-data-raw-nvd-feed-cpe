@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:socket:socket.io-parser:4.2.3::~~~node.js~~",
-  "title": [
-    {
-      "text": "Socket Socket.io-parser 4.2.3 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/socketio/socket.io-parser/security/advisories/GHSA-cqmj-92xf-r6r9"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/socketio/socket.io-parser/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:socket:socket.io-parser:4.2.3:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:socket:socket.io-parser:4.2.3::~~~node.js~~",
+	"title": [
+		{
+			"text": "Socket Socket.io-parser 4.2.3 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/socketio/socket.io-parser/security/advisories/GHSA-cqmj-92xf-r6r9"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/socketio/socket.io-parser/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:socket:socket.io-parser:4.2.3:*:*:*:*:node.js:*:*"
+	}
 }

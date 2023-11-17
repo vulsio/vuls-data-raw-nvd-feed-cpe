@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:release_automation:4.7.1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T14:13:56.603Z",
-  "title": [
-    {
-      "text": "CA Technologies Release Automation 4.7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://www.ca.com/us/devcenter/ca-release-automation.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:release_automation:4.7.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T10:13:56.603-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:release_automation:4.7.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:release_automation:4.7.1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T14:13:56.603Z",
+	"title": [
+		{
+			"text": "CA Technologies Release Automation 4.7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://www.ca.com/us/devcenter/ca-release-automation.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:release_automation:4.7.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T10:13:56.603-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:release_automation:4.7.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:green_end:sftpserver:0.2",
-  "deprecated": true,
-  "deprecation_date": "2022-12-30T17:53:22.797Z",
-  "title": [
-    {
-      "text": "Green End SFTP server 0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ewxrjk/sftpserver/releases"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.greenend.org.uk/rjk/sftpserver/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.greenend.org.uk/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:green_end:sftpserver:0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-30T12:53:22.797-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:greenend:sftpserver:0.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:green_end:sftpserver:0.2",
+	"deprecated": true,
+	"deprecation_date": "2022-12-30T17:53:22.797Z",
+	"title": [
+		{
+			"text": "Green End SFTP server 0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ewxrjk/sftpserver/releases"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.greenend.org.uk/rjk/sftpserver/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.greenend.org.uk/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:green_end:sftpserver:0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-30T12:53:22.797-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:greenend:sftpserver:0.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

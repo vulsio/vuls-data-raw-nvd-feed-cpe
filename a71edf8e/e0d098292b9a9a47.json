@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:cncf:portmap:0.1.0::~~~container_networking_interface~~",
-  "title": [
-    {
-      "text": "CNCF Portmap 0.1.0 for Container Networking Interface (CNI)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/containernetworking/plugins/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cncf:portmap:0.1.0:*:*:*:*:container_networking_interface:*:*"
-  }
+	"name": "cpe:/a:cncf:portmap:0.1.0::~~~container_networking_interface~~",
+	"title": [
+		{
+			"text": "CNCF Portmap 0.1.0 for Container Networking Interface (CNI)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/containernetworking/plugins/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cncf:portmap:0.1.0:*:*:*:*:container_networking_interface:*:*"
+	}
 }

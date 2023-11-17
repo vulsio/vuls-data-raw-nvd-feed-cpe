@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:bdwgc_project:bdwgc:7.2j",
-  "deprecated": true,
-  "deprecation_date": "2019-12-19T16:47:24.907Z",
-  "title": [
-    {
-      "text": "bdwgc Project bdwgc 7.2j",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ivmai/bdwgc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bdwgc_project:bdwgc:7.2j:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-19T11:47:24.907-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bdwgc_project:bdwgc:7.2:j:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bdwgc_project:bdwgc:7.2j",
+	"deprecated": true,
+	"deprecation_date": "2019-12-19T16:47:24.907Z",
+	"title": [
+		{
+			"text": "bdwgc Project bdwgc 7.2j",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ivmai/bdwgc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bdwgc_project:bdwgc:7.2j:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-19T11:47:24.907-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bdwgc_project:bdwgc:7.2:j:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pi-hole:pi-hole:5.3",
-  "title": [
-    {
-      "text": "Pi-hole Pi-hole 5.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://pi-hole.net/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/pi-hole/pi-hole/security/advisories/GHSA-3597-244c-wrpj"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/pi-hole/pi-hole/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pi-hole:pi-hole:5.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pi-hole:pi-hole:5.3",
+	"title": [
+		{
+			"text": "Pi-hole Pi-hole 5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pi-hole.net/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pi-hole/pi-hole/security/advisories/GHSA-3597-244c-wrpj"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pi-hole/pi-hole/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pi-hole:pi-hole:5.3:*:*:*:*:*:*:*"
+	}
 }

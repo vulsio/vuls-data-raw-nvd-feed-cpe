@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:gehealthcare:brivo_ct385_firmware:-",
-  "title": [
-    {
-      "text": "GE Healthcare Brivo CT385 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://services.gehealthcare.com/gehcstorefront/p/5414624"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gehealthcare:brivo_ct385_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:gehealthcare:brivo_ct385_firmware:-",
+	"title": [
+		{
+			"text": "GE Healthcare Brivo CT385 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://services.gehealthcare.com/gehcstorefront/p/5414624"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gehealthcare:brivo_ct385_firmware:-:*:*:*:*:*:*:*"
+	}
 }

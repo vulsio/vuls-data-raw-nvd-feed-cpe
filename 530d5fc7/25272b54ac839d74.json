@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:blake2:blake2:0.8.1",
-  "deprecated": true,
-  "deprecation_date": "2020-08-31T12:53:01.060Z",
-  "title": [
-    {
-      "text": "BLAKE2 0.8.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://blake2.net/"
-    },
-    {
-      "text": "Version",
-      "href": "https://lib.rs/crates/blake2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blake2:blake2:0.8.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-31T08:53:01.060-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:blake2:blake2-rust:0.8.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:blake2:blake2:0.8.1",
+	"deprecated": true,
+	"deprecation_date": "2020-08-31T12:53:01.060Z",
+	"title": [
+		{
+			"text": "BLAKE2 0.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://blake2.net/"
+		},
+		{
+			"text": "Version",
+			"href": "https://lib.rs/crates/blake2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blake2:blake2:0.8.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-31T08:53:01.060-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:blake2:blake2-rust:0.8.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

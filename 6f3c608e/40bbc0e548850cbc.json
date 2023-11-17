@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:dell:precision_7510:-",
-  "title": [
-    {
-      "text": "Dell Precision 7510",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/Dell_Precision15_7000_Series_7510_Spec_Sheet.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/article/us/en/04/sln317683/dsa-2019-043-dell-client-improper-access-control-vulnerability?lang=en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:precision_7510:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dell:precision_7510:-",
+	"title": [
+		{
+			"text": "Dell Precision 7510",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/Dell_Precision15_7000_Series_7510_Spec_Sheet.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/article/us/en/04/sln317683/dsa-2019-043-dell-client-improper-access-control-vulnerability?lang=en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:precision_7510:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:openstack:07132017",
-  "title": [
-    {
-      "text": "OpenStack 07132017",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://vul.tidesec.com/index/view/type/new/id/48627.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://review.openstack.org/gitweb?p=openstack/aodh.git;a=commitdiff;h=f87e0d05c4662c14c7a9f49a0a829cf9bf3edbdb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:openstack:07132017:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:openstack:07132017",
+	"title": [
+		{
+			"text": "OpenStack 07132017",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://vul.tidesec.com/index/view/type/new/id/48627.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://review.openstack.org/gitweb?p=openstack/aodh.git;a=commitdiff;h=f87e0d05c4662c14c7a9f49a0a829cf9bf3edbdb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:openstack:07132017:*:*:*:*:*:*:*"
+	}
 }

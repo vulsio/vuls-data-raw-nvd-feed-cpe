@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:mitsubishielectric:fx3s_firmware:-",
-  "title": [
-    {
-      "text": "Mitsubishi Electric FX3S Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jvn.jp/en/vu/JVNVU91553662/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2019-005_en.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:mitsubishielectric:fx3s_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:mitsubishielectric:fx3s_firmware:-",
+	"title": [
+		{
+			"text": "Mitsubishi Electric FX3S Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jvn.jp/en/vu/JVNVU91553662/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.mitsubishielectric.com/en/psirt/vulnerability/pdf/2019-005_en.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:mitsubishielectric:fx3s_firmware:-:*:*:*:*:*:*:*"
+	}
 }

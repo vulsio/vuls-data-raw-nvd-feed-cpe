@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ethereumsmart_project:ethereumsmart:-",
-  "title": [
-    {
-      "text": "EthereumSmart Project EthereumSmart",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x60e79c69080d921f44594fb3c2b723b7dd5d3c00#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ethereumsmart_project:ethereumsmart:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ethereumsmart_project:ethereumsmart:-",
+	"title": [
+		{
+			"text": "EthereumSmart Project EthereumSmart",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x60e79c69080d921f44594fb3c2b723b7dd5d3c00#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ethereumsmart_project:ethereumsmart:-:*:*:*:*:*:*:*"
+	}
 }

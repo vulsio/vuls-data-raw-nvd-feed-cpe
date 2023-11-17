@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e3:1125c",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:52:29.007Z",
-  "title": [
-    {
-      "text": "Intel Xeon E3 1125C",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e3:1125c:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:52:29.007-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e3_1125c:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e3:1125c",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:52:29.007Z",
+	"title": [
+		{
+			"text": "Intel Xeon E3 1125C",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e3:1125c:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:52:29.007-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e3_1125c:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

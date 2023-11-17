@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:gehealthcare:innova_2000_firmware:-",
-  "title": [
-    {
-      "text": "GE Healthcare Innova 2000 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gehealthcare.com/-/media/189836365907459990b78f3ee83aa047.pdf?la=en-us"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.gehealthcare.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gehealthcare:innova_2000_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:gehealthcare:innova_2000_firmware:-",
+	"title": [
+		{
+			"text": "GE Healthcare Innova 2000 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gehealthcare.com/-/media/189836365907459990b78f3ee83aa047.pdf?la=en-us"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gehealthcare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-343-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gehealthcare:innova_2000_firmware:-:*:*:*:*:*:*:*"
+	}
 }

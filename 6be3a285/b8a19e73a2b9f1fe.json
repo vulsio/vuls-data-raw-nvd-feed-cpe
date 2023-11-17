@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openssl:openssl:1.1.1p",
-  "title": [
-    {
-      "text": "OpenSSL 1.1.1p",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.openssl.org/news/secadv/20220621.txt"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openssl/openssl/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openssl.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openssl:openssl:1.1.1p:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openssl:openssl:1.1.1p",
+	"title": [
+		{
+			"text": "OpenSSL 1.1.1p",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openssl.org/news/secadv/20220621.txt"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openssl/openssl/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openssl.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openssl:openssl:1.1.1p:*:*:*:*:*:*:*"
+	}
 }

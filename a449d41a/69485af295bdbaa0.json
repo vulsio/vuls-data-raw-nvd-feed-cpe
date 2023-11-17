@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:projectcontour:contour:1.6.1::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "Projectcontour Contour 1.6.1 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/projectcontour/contour/security/advisories/GHSA-mjp8-x484-pm3r"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/projectcontour/contour/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:projectcontour:contour:1.6.1:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:projectcontour:contour:1.6.1::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Projectcontour Contour 1.6.1 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/projectcontour/contour/security/advisories/GHSA-mjp8-x484-pm3r"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/projectcontour/contour/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:projectcontour:contour:1.6.1:*:*:*:*:kubernetes:*:*"
+	}
 }

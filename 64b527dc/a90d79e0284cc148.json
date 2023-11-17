@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:total-soft:video_gallery:1.9.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Total Soft Video Gallery 1.9.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/gallery-videos/wordpress-gallery-video-plugin-2-0-2-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://total-soft.com/wp-video-gallery/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/gallery-videos/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:total-soft:video_gallery:1.9.7:*:*:*:*:wordpress:*:*"
+	}
+}

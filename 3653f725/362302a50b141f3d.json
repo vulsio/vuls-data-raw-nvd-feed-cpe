@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:netapp:service_processor:2.5:-",
-  "title": [
-    {
-      "text": "NetApp Service Processor 2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.onc-sm-help-930%2FGUID-0C6F201C-D841-4273-819A-FF0B234A154A.html&lang=en"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.netapp.com/us/index.aspx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20190305-0001/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:service_processor:2.5:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:netapp:service_processor:2.5:-",
+	"title": [
+		{
+			"text": "NetApp Service Processor 2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.onc-sm-help-930%2FGUID-0C6F201C-D841-4273-819A-FF0B234A154A.html&lang=en"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.netapp.com/us/index.aspx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20190305-0001/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:service_processor:2.5:-:*:*:*:*:*:*"
+	}
 }

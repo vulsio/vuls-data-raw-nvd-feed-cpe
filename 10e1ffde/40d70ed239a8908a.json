@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:symantec:norton_security:13.0.1::~~~mac~~",
-  "deprecated": true,
-  "deprecation_date": "2017-11-30T19:34:54.903Z",
-  "title": [
-    {
-      "text": "Symantec Norton Security 13.0.1 for Mac",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20160628_00"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac:*:*",
-    "deprecation": {
-      "date": "2017-11-30T14:34:54.903-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:symantec:norton_security:13.0.1::~~~mac~~",
+	"deprecated": true,
+	"deprecation_date": "2017-11-30T19:34:54.903Z",
+	"title": [
+		{
+			"text": "Symantec Norton Security 13.0.1 for Mac",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20160628_00"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac:*:*",
+		"deprecation": {
+			"date": "2017-11-30T14:34:54.903-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:symantec:norton_security:13.0.1:*:*:*:*:mac_os_x:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

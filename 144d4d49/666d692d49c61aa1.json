@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:paytium:paytium:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Paytium Paytium for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.paytium.nl/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/paytium/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/8ec76242-717d-4d2d-9c0f-3056cd7c2c90"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paytium:paytium:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:paytium:paytium:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Paytium Paytium for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.paytium.nl/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/paytium/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/8ec76242-717d-4d2d-9c0f-3056cd7c2c90"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paytium:paytium:-:*:*:*:*:wordpress:*:*"
+	}
 }

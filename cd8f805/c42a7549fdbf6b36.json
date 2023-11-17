@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:altaware:palo_alto_networks_panos:3.1.9",
-  "deprecated": true,
-  "deprecation_date": "2014-06-24T18:21:21.783Z",
-  "title": [
-    {
-      "text": "Altaware Palo Alto Networks PANOS 3.1.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://www.altaware.com/v/paloalto/release-history/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:altaware:palo_alto_networks_panos:3.1.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-06-24T14:21:21.783-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:paloaltonetworks:pan-os:3.1.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:altaware:palo_alto_networks_panos:3.1.9",
+	"deprecated": true,
+	"deprecation_date": "2014-06-24T18:21:21.783Z",
+	"title": [
+		{
+			"text": "Altaware Palo Alto Networks PANOS 3.1.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://www.altaware.com/v/paloalto/release-history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:altaware:palo_alto_networks_panos:3.1.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-06-24T14:21:21.783-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:paloaltonetworks:pan-os:3.1.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:deck:1.1.0:beta2",
-  "title": [
-    {
-      "text": "Nextcloud Deck 1.1.0 Beta 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-h8f6-wg82-6p7r"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nextcloud/deck/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:deck:1.1.0:beta2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:deck:1.1.0:beta2",
+	"title": [
+		{
+			"text": "Nextcloud Deck 1.1.0 Beta 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-h8f6-wg82-6p7r"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextcloud/deck/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:deck:1.1.0:beta2:*:*:*:*:*:*"
+	}
 }

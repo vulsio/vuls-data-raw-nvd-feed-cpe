@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:fiocoin_project:fiocoin:-",
-  "title": [
-    {
-      "text": "Fiocoin Project Fiocoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x9402cedd72e6e586e092caa2760887e24a8a3b5b#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fiocoin_project:fiocoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:fiocoin_project:fiocoin:-",
+	"title": [
+		{
+			"text": "Fiocoin Project Fiocoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x9402cedd72e6e586e092caa2760887e24a8a3b5b#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fiocoin_project:fiocoin:-:*:*:*:*:*:*:*"
+	}
 }

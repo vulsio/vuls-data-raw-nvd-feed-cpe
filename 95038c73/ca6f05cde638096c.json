@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wp-cirrus_project:wp-cirrus:0.6.11::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WP-Cirrus Project WP-Cirrus 0.6.11 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/wp-cirrus/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-cirrus/wordpress-wp-cirrus-plugin-0-6-11-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp-cirrus_project:wp-cirrus:0.6.11:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wp-cirrus_project:wp-cirrus:0.6.11::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP-Cirrus Project WP-Cirrus 0.6.11 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/wp-cirrus/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-cirrus/wordpress-wp-cirrus-plugin-0-6-11-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-cirrus_project:wp-cirrus:0.6.11:*:*:*:*:wordpress:*:*"
+	}
 }

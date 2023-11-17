@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vmware:esxi:670-201904101-sg",
-  "title": [
-    {
-      "text": "VMware ESXi 670-201904101-sg",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-671-release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:esxi:670-201904101-sg:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vmware:esxi:670-201904101-sg",
+	"title": [
+		{
+			"text": "VMware ESXi 670-201904101-sg",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-671-release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2019-0014.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:esxi:670-201904101-sg:*:*:*:*:*:*:*"
+	}
 }

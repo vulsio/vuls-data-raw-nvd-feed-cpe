@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:jsgames:0.1::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins JSGames 0.1 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wiki.jenkins.io/pages/viewpage.action?pageId=58000086"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1905"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/jsgames-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:jsgames:0.1:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:jsgames:0.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins JSGames 0.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wiki.jenkins.io/pages/viewpage.action?pageId=58000086"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1905"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/jsgames-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:jsgames:0.1:*:*:*:*:jenkins:*:*"
+	}
 }

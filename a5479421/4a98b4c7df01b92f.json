@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2022:10.0.20348.1547::~~standard~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2022 10.0.20348.1547 Standard Edition on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21691"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.1547:*:*:*:standard:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2022:10.0.20348.1547::~~standard~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2022 10.0.20348.1547 Standard Edition on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21691"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2022:10.0.20348.1547:*:*:*:standard:*:x64:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:netapp:hci_baseboard_management_controller:h700s",
-  "deprecated": true,
-  "deprecation_date": "2023-11-09T13:59:45.620Z",
-  "title": [
-    {
-      "text": "NetApp Hci Baseboard Management Controller H700s",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20220425-0002/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h700s:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-09T08:59:45.620-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:netapp:h700s:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netapp:hci_baseboard_management_controller:h700s",
+	"deprecated": true,
+	"deprecation_date": "2023-11-09T13:59:45.620Z",
+	"title": [
+		{
+			"text": "NetApp Hci Baseboard Management Controller H700s",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20220425-0002/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:hci_baseboard_management_controller:h700s:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-09T08:59:45.620-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:netapp:h700s:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

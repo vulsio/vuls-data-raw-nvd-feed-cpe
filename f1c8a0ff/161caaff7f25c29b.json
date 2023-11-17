@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:dlink:des-3800_firmware:4.00",
-  "deprecated": true,
-  "deprecation_date": "2014-03-05T19:20:37.130Z",
-  "title": [
-    {
-      "text": "D-Link DES-3800 firmware 4.00",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dlink:des-3800_firmware:4.00:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-03-05T14:20:37.130-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:des-3800_firmware:4.00:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dlink:des-3800_firmware:4.00",
+	"deprecated": true,
+	"deprecation_date": "2014-03-05T19:20:37.130Z",
+	"title": [
+		{
+			"text": "D-Link DES-3800 firmware 4.00",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dlink:des-3800_firmware:4.00:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-03-05T14:20:37.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:des-3800_firmware:4.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

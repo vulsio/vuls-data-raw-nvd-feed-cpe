@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:cisco:fxos:2.6.1.131",
-  "deprecated": true,
-  "deprecation_date": "2023-04-20T15:12:06.860Z",
-  "title": [
-    {
-      "text": "Cisco FXOS 2.6.1.131",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-ftd-fpmc-dos"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:fxos:2.6.1.131:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-20T11:12:06.860-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.6.1.131:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:fxos:2.6.1.131",
+	"deprecated": true,
+	"deprecation_date": "2023-04-20T15:12:06.860Z",
+	"title": [
+		{
+			"text": "Cisco FXOS 2.6.1.131",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20191002-ftd-fpmc-dos"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:fxos:2.6.1.131:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-20T11:12:06.860-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.6.1.131:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

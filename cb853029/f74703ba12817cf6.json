@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:rpm:rpm:4.4.2.1",
-  "deprecated": true,
-  "deprecation_date": "2021-05-05T18:35:30.517Z",
-  "title": [
-    {
-      "text": "RPM RPM Package Manager 4.4.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rpm:rpm:4.4.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-05T14:35:30.517-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rpm:rpm:4.4.2.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rpm:rpm:4.4.2.1",
+	"deprecated": true,
+	"deprecation_date": "2021-05-05T18:35:30.517Z",
+	"title": [
+		{
+			"text": "RPM RPM Package Manager 4.4.2.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rpm:rpm:4.4.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-05T14:35:30.517-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rpm:rpm:4.4.2.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

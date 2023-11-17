@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:afterlogic:webmail_pro:7.7.9",
-  "title": [
-    {
-      "text": "Afterlogic Webmail Pro 7.7.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://afterlogic.com/webmail-client"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/E3SEC/AfterLogic/blob/main/CVE-2021-26294-exposure-of-sensitive-information-vulnerability.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:afterlogic:webmail_pro:7.7.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:afterlogic:webmail_pro:7.7.9",
+	"title": [
+		{
+			"text": "Afterlogic Webmail Pro 7.7.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://afterlogic.com/webmail-client"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/E3SEC/AfterLogic/blob/main/CVE-2021-26294-exposure-of-sensitive-information-vulnerability.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:afterlogic:webmail_pro:7.7.9:*:*:*:*:*:*:*"
+	}
 }

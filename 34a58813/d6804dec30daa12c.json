@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:firecracker_project:firecracker:0.1.0",
-  "deprecated": true,
-  "deprecation_date": "2019-12-19T13:35:02.293Z",
-  "title": [
-    {
-      "text": "Firecracker Project Firecracker 0.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/firecracker-microvm/firecracker/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:firecracker_project:firecracker:0.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-19T08:35:02.293-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:amazon:firecracker:0.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:firecracker_project:firecracker:0.1.0",
+	"deprecated": true,
+	"deprecation_date": "2019-12-19T13:35:02.293Z",
+	"title": [
+		{
+			"text": "Firecracker Project Firecracker 0.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/firecracker-microvm/firecracker/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:firecracker_project:firecracker:0.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-19T08:35:02.293-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:amazon:firecracker:0.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

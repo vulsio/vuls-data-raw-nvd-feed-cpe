@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:esri:arcgis_online:10.9",
-  "title": [
-    {
-      "text": "Esri ArcGIS Online 10.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.bssi.fr/cve-2021-3012-vulnerability-allowing-remote-html-javascript-code-injection-on-esri-arcgis-products/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:esri:arcgis_online:10.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:esri:arcgis_online:10.9",
+	"title": [
+		{
+			"text": "Esri ArcGIS Online 10.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.esri.com/en-us/arcgis/products/arcgis-online/overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.bssi.fr/cve-2021-3012-vulnerability-allowing-remote-html-javascript-code-injection-on-esri-arcgis-products/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:esri:arcgis_online:10.9:*:*:*:*:*:*:*"
+	}
 }

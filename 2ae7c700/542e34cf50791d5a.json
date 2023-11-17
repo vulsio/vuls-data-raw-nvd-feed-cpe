@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.8.0:update_102",
-  "deprecated": true,
-  "deprecation_date": "2020-09-08T12:29:00.773Z",
-  "title": [
-    {
-      "text": "Oracle JDK 1.8.0 Update 102",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.8.0:update_102:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-08T08:29:00.773-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update102:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.8.0:update_102",
+	"deprecated": true,
+	"deprecation_date": "2020-09-08T12:29:00.773Z",
+	"title": [
+		{
+			"text": "Oracle JDK 1.8.0 Update 102",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/technetwork/java/javase/8u-relnotes-2225394.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.8.0:update_102:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-08T08:29:00.773-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.8.0:update102:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

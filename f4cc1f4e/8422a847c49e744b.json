@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:moxa:iologik_e4200_firmware:1.6",
-  "title": [
-    {
-      "text": "Moxa ioLogik E4200 Firmware 1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-230310-iologik-4000-series-multiple-web-server-vulnerabilities-and-improper-access-control-vulnerability"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-edge-connectivity/controllers-and-ios/universal-controllers-and-i-os/iologik-4000-series#models"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:moxa:iologik_e4200_firmware:1.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:moxa:iologik_e4200_firmware:1.6",
+	"title": [
+		{
+			"text": "Moxa ioLogik E4200 Firmware 1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.moxa.com/en/support/product-support/security-advisory/mpsa-230310-iologik-4000-series-multiple-web-server-vulnerabilities-and-improper-access-control-vulnerability"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-edge-connectivity/controllers-and-ios/universal-controllers-and-i-os/iologik-4000-series#models"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:moxa:iologik_e4200_firmware:1.6:*:*:*:*:*:*:*"
+	}
 }

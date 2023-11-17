@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bitnami:containers:7.30.1-debian-10-r42::~~~laravel~~",
-  "title": [
-    {
-      "text": "Bitnami Containers 7.30.1-debian-10-r42 for Laravel",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://bitnami.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/bitnami/bitnami-docker-laravel/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bitnami:containers:7.30.1-debian-10-r42:*:*:*:*:laravel:*:*"
-  }
+	"name": "cpe:/a:bitnami:containers:7.30.1-debian-10-r42::~~~laravel~~",
+	"title": [
+		{
+			"text": "Bitnami Containers 7.30.1-debian-10-r42 for Laravel",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bitnami.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bitnami/bitnami-docker-laravel/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitnami:containers:7.30.1-debian-10-r42:*:*:*:*:laravel:*:*"
+	}
 }

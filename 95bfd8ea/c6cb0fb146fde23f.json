@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:philips:pulsera_firmware:-",
-  "title": [
-    {
-      "text": "Philips Pulsera Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.usa.philips.com/healthcare/product/HC718095/bv-pulsera-mobile-c-arm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsma-19-353-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:philips:pulsera_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:philips:pulsera_firmware:-",
+	"title": [
+		{
+			"text": "Philips Pulsera Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.usa.philips.com/healthcare/product/HC718095/bv-pulsera-mobile-c-arm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsma-19-353-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:philips:pulsera_firmware:-:*:*:*:*:*:*:*"
+	}
 }

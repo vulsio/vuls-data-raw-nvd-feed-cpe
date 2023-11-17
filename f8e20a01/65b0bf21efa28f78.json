@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt60w:5.01.21",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:47.013Z",
-  "title": [
-    {
-      "text": "ヤマハ RT60w 5.01.21",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT60w 5.01.21",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt60w:5.01.21:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:47.013-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt60w:5.01.21:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt60w:5.01.21",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:47.013Z",
+	"title": [
+		{
+			"text": "Yamaha RT60w 5.01.21",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RT60w 5.01.21",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt60w:5.01.21:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:47.013-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt60w:5.01.21:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

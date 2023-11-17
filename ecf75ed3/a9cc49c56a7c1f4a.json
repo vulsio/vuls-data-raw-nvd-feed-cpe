@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:graphql-tools:graphql-tools:0.8.1",
-  "deprecated": true,
-  "deprecation_date": "2021-01-25T20:05:57.377Z",
-  "title": [
-    {
-      "text": "GraphQL Tools 0.8.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ardatan/graphql-tools"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.graphql-tools.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:graphql-tools:graphql-tools:0.8.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-25T15:05:57.377-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:the-guild:graphql-tools:0.8.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:graphql-tools:graphql-tools:0.8.1",
+	"deprecated": true,
+	"deprecation_date": "2021-01-25T20:05:57.377Z",
+	"title": [
+		{
+			"text": "GraphQL Tools 0.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ardatan/graphql-tools"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.graphql-tools.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:graphql-tools:graphql-tools:0.8.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-25T15:05:57.377-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:the-guild:graphql-tools:0.8.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

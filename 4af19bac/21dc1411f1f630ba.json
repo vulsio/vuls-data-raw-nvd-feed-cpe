@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:cisco:fxos:2.3.1.219",
-  "deprecated": true,
-  "deprecation_date": "2023-04-20T15:12:06.860Z",
-  "title": [
-    {
-      "text": "Cisco FXOS 2.3.1.219",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/td/docs/security/firepower/fxos/roadmap/fxos-roadmap.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cdp-dos-G8DPLWYG"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:fxos:2.3.1.219:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-20T11:12:06.860-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.3.1.219:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:fxos:2.3.1.219",
+	"deprecated": true,
+	"deprecation_date": "2023-04-20T15:12:06.860Z",
+	"title": [
+		{
+			"text": "Cisco FXOS 2.3.1.219",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/td/docs/security/firepower/fxos/roadmap/fxos-roadmap.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cdp-dos-G8DPLWYG"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:fxos:2.3.1.219:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-20T11:12:06.860-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:firepower_extensible_operating_system:2.3.1.219:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

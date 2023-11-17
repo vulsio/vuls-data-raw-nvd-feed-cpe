@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dell:powerscale_onefs:9.1.0.0",
-  "title": [
-    {
-      "text": "Dell PowerScale OneFS 9.1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.delltechnologies.com/asset/es-es/products/storage/industry-market/h8202-isilon-onefs-wp.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000188148/dell-powerscale-onefs-security-update-for-multiple-security-vulnerabilities"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:powerscale_onefs:9.1.0.0",
+	"title": [
+		{
+			"text": "Dell PowerScale OneFS 9.1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.delltechnologies.com/asset/es-es/products/storage/industry-market/h8202-isilon-onefs-wp.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000188148/dell-powerscale-onefs-security-update-for-multiple-security-vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:powerscale_onefs:9.1.0.0:*:*:*:*:*:*:*"
+	}
 }

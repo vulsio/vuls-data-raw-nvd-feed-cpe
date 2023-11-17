@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:wave-ai:wave:1.0.35::~~~android~~",
-  "title": [
-    {
-      "text": "WaveAI Wave 1.0.35 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/actuator/cve/blob/main/CVE-2023-42471"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=wave.ai.browser&hl=en&gl=US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/actuator/wave.ai.browser/blob/main/CWE-94.md"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.wave-ai.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wave-ai:wave:1.0.35:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:wave-ai:wave:1.0.35::~~~android~~",
+	"title": [
+		{
+			"text": "WaveAI Wave 1.0.35 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/cve/blob/main/CVE-2023-42471"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=wave.ai.browser&hl=en&gl=US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/wave.ai.browser/blob/main/CWE-94.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.wave-ai.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wave-ai:wave:1.0.35:*:*:*:*:android:*:*"
+	}
 }

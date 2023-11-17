@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:upaytoken_project:upaytoken:-",
-  "title": [
-    {
-      "text": "UPayToken Project UPayToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x3ddf7d2cc9b0ddb126bb4ca4fa77ffdf08420578#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:upaytoken_project:upaytoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:upaytoken_project:upaytoken:-",
+	"title": [
+		{
+			"text": "UPayToken Project UPayToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x3ddf7d2cc9b0ddb126bb4ca4fa77ffdf08420578#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:upaytoken_project:upaytoken:-:*:*:*:*:*:*:*"
+	}
 }

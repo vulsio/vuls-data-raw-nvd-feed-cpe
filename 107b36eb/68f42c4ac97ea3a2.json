@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:11.10.1::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Gitlab Gitlab 11.10.1 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://about.gitlab.com/blog/categories/releases/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/gitlabhq/gitlabhq/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:11.10.1:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:11.10.1::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Gitlab Gitlab 11.10.1 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://about.gitlab.com/blog/categories/releases/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/gitlabhq/gitlabhq/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:11.10.1:*:*:*:enterprise:*:*:*"
+	}
 }

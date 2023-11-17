@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ea:origin:10.5.55.33574::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:43:57.460Z",
-  "title": [
-    {
-      "text": "EA Origin 10.5.55.33574 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ea.com/security/news/easec-2019-001-elevation-of-privilege-vulnerability-in-origin-client"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:43:57.460-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ea:origin:10.5.55.33574::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:43:57.460Z",
+	"title": [
+		{
+			"text": "EA Origin 10.5.55.33574 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ea.com/security/news/easec-2019-001-elevation-of-privilege-vulnerability-in-origin-client"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:43:57.460-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ea:origin:10.5.55.33574:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:cisco:email_security_appliance:9.0.0-461",
-  "deprecated": true,
-  "deprecation_date": "2016-11-02T17:40:02.497Z",
-  "title": [
-    {
-      "text": "Cisco Email Security Appliance 9.0.0-461",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/en/us/products/security/email-security-appliance/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:email_security_appliance:9.0.0-461:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-11-02T13:40:02.497-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:email_security_appliance_firmware:9.0.0-461:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:email_security_appliance:9.0.0-461",
+	"deprecated": true,
+	"deprecation_date": "2016-11-02T17:40:02.497Z",
+	"title": [
+		{
+			"text": "Cisco Email Security Appliance 9.0.0-461",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/en/us/products/security/email-security-appliance/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:email_security_appliance:9.0.0-461:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-11-02T13:40:02.497-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:email_security_appliance_firmware:9.0.0-461:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

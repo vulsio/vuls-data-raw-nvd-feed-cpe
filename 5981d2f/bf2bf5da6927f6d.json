@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:git-scm:git:2.15.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-05T12:43:15.080Z",
-  "title": [
-    {
-      "text": "git-scm git 2.15.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/git/git"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://git-scm.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git-scm:git:2.15.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-05T08:43:15.080-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:git-scm:git:2.15.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:git-scm:git:2.15.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-05T12:43:15.080Z",
+	"title": [
+		{
+			"text": "git-scm git 2.15.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/git/git"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://git-scm.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git-scm:git:2.15.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-05T08:43:15.080-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:git-scm:git:2.15.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

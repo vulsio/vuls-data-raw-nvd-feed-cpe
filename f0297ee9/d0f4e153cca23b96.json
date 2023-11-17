@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:domoticz:mydomoathome:0.240::~~~node.js~~",
-  "title": [
-    {
-      "text": "Domoticz MyDomoAtHome 0.240 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/node-mydomoathome"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/47824"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.domoticz.com"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:domoticz:mydomoathome:0.240:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:domoticz:mydomoathome:0.240::~~~node.js~~",
+	"title": [
+		{
+			"text": "Domoticz MyDomoAtHome 0.240 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/node-mydomoathome"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/47824"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.domoticz.com"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:domoticz:mydomoathome:0.240:*:*:*:*:node.js:*:*"
+	}
 }

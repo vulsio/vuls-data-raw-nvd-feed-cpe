@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00",
-  "title": [
-    {
-      "text": "Dell EMC Secure Connect Gateway Policy Manager 5.10.00.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34440.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000204995/dsa-2022-273-dell-secure-connect-gateway-policy-manager-security-update-for-multiple-proprietary-code-vulnerabilities"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00",
+	"title": [
+		{
+			"text": "Dell EMC Secure Connect Gateway Policy Manager 5.10.00.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/34xxx/CVE-2022-34440.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000204995/dsa-2022-273-dell-secure-connect-gateway-policy-manager-security-update-for-multiple-proprietary-code-vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:emc_secure_connect_gateway_policy_manager:5.10.00.00:*:*:*:*:*:*:*"
+	}
 }

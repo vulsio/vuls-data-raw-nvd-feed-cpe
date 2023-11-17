@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tencent:wxsync:2.7.23::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Tencent Wxsync 2.7.23 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.tencent.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wxsync/wordpress-wxsync-plugin-2-7-23-cross-site-scripting-xss?_s_id=cve"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/wxsync/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tencent:wxsync:2.7.23:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:tencent:wxsync:2.7.23::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Tencent Wxsync 2.7.23 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.tencent.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wxsync/wordpress-wxsync-plugin-2-7-23-cross-site-scripting-xss?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wxsync/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tencent:wxsync:2.7.23:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:2002e_firmware:-",
-  "title": [
-    {
-      "text": "Intel Celeron 2002E Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00247.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/72017/intel-celeron-processor-2000-series.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:2002e_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:2002e_firmware:-",
+	"title": [
+		{
+			"text": "Intel Celeron 2002E Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00247.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/72017/intel-celeron-processor-2000-series.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:2002e_firmware:-:*:*:*:*:*:*:*"
+	}
 }

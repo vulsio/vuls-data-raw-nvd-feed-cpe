@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:siemens:vstar:-",
-  "deprecated": true,
-  "deprecation_date": "2021-11-09T14:04:14.787Z",
-  "title": [
-    {
-      "text": "Siemens VSTAR",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mentor.com/embedded-software/autosar/tools"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-434032.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:siemens:vstar:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-09T09:04:14.787-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:siemens:capital_vstar:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:siemens:vstar:-",
+	"deprecated": true,
+	"deprecation_date": "2021-11-09T14:04:14.787Z",
+	"title": [
+		{
+			"text": "Siemens VSTAR",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mentor.com/embedded-software/autosar/tools"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-434032.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:vstar:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-09T09:04:14.787-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siemens:capital_vstar:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

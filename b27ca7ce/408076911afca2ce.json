@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:zyxel:nsg300:-",
-  "title": [
-    {
-      "text": "Zyxel NSG300 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.zyxelguard.com/NSG300.asp"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-authentication-bypass-vulnerability-of-firewalls.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:zyxel:nsg300:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:zyxel:nsg300:-",
+	"title": [
+		{
+			"text": "Zyxel NSG300 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.zyxelguard.com/NSG300.asp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-authentication-bypass-vulnerability-of-firewalls.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:zyxel:nsg300:-:*:*:*:*:*:*:*"
+	}
 }

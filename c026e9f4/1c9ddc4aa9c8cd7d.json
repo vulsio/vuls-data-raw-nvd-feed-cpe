@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dwr-921_firmware:1.00",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DWR-921 Firmware 1.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://tsd.dlink.com.tw/downloads2008list.asp?Category=Product%20Data%20II%3EWireless%20WAN%3EFixed%20mobile"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dwr-921_firmware:1.00:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dwr-921_firmware:1.00:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dwr-921_firmware:1.00",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DWR-921 Firmware 1.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://tsd.dlink.com.tw/downloads2008list.asp?Category=Product%20Data%20II%3EWireless%20WAN%3EFixed%20mobile"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dwr-921_firmware:1.00:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dwr-921_firmware:1.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

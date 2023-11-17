@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:mysql:mysql:5.1.53",
-  "deprecated": true,
-  "deprecation_date": "2019-12-17T15:24:11.640Z",
-  "title": [
-    {
-      "text": "MySQL 5.1.53",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mysql.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://downloads.mysql.com/docs/mysql-5.1-relnotes-en.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A10133"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mysql:mysql:5.1.53:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-17T10:24:11.640-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql:5.1.53:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mysql:mysql:5.1.53",
+	"deprecated": true,
+	"deprecation_date": "2019-12-17T15:24:11.640Z",
+	"title": [
+		{
+			"text": "MySQL 5.1.53",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mysql.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://downloads.mysql.com/docs/mysql-5.1-relnotes-en.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://oval.cisecurity.org/repository/search/definition/oval%3Aorg.mitre.oval%3Adef%3A10133"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mysql:mysql:5.1.53:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-17T10:24:11.640-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql:5.1.53:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

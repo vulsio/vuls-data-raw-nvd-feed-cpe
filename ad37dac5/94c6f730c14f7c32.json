@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tauri:tauri:-",
-  "title": [
-    {
-      "text": "Tauri",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://tauri.app/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/tauri-apps/tauri/security/advisories/GHSA-28m8-9j7v-x499"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/tauri-apps/tauri/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tauri:tauri:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:tauri:tauri:-",
+	"title": [
+		{
+			"text": "Tauri",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tauri.app/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tauri-apps/tauri/security/advisories/GHSA-28m8-9j7v-x499"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tauri-apps/tauri/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tauri:tauri:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:docker:17.06",
-  "title": [
-    {
-      "text": "Docker 17.06",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.docker.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.docker.com/release-notes/docker-engine/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker:17.06:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:docker:17.06",
+	"title": [
+		{
+			"text": "Docker 17.06",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.docker.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.docker.com/release-notes/docker-engine/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker:17.06:*:*:*:*:*:*:*"
+	}
 }

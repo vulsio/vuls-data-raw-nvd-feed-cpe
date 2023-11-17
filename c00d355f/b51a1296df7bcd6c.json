@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ckeditor:ckeditor:6.x-1.5",
-  "deprecated": true,
-  "deprecation_date": "2022-08-03T14:19:33.360Z",
-  "title": [
-    {
-      "text": "CKeditor CKeditor plugin for Drupal 6.x-1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.drupal.org/project/ckeditor"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.drupal.org/project/ckeditor/releases/6.x-1.15"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ckeditor:ckeditor:6.x-1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-08-03T10:19:33.360-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ckeditor:ckeditor:6.x-1.5:*:*:*:*:drupal:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ckeditor:ckeditor:6.x-1.5",
+	"deprecated": true,
+	"deprecation_date": "2022-08-03T14:19:33.360Z",
+	"title": [
+		{
+			"text": "CKeditor CKeditor plugin for Drupal 6.x-1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.drupal.org/project/ckeditor"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.drupal.org/project/ckeditor/releases/6.x-1.15"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ckeditor:ckeditor:6.x-1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-08-03T10:19:33.360-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ckeditor:ckeditor:6.x-1.5:*:*:*:*:drupal:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:rundeck:rundeck:2.6.2::~~community~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-09-01T16:00:51.400Z",
-  "title": [
-    {
-      "text": "Rundeck 2.6.2 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.rundeck.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/rundeck/rundeck"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.rundeck.com/downloads.html?__hssc=206669708.15.1539636039564&__hstc=206669708.1a4172e99ae97fd8ba9338f464675635.1533015099226.1539629788476.1539632588334.28&__hsfp=361110823&hsCtaTracking=6c34b5b9-9523-4ad1-814f-6071ab125c5a%7C456206e0-ddce-4ef1-b32b-be92b244ccd4"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.rundeck.com/news/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rundeck:rundeck:2.6.2:*:*:*:community:*:*:*",
-    "deprecation": {
-      "date": "2021-09-01T12:00:51.400-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pagerduty:rundeck:2.6.2:*:*:*:community:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rundeck:rundeck:2.6.2::~~community~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-09-01T16:00:51.400Z",
+	"title": [
+		{
+			"text": "Rundeck 2.6.2 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.rundeck.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/rundeck/rundeck"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.rundeck.com/downloads.html?__hssc=206669708.15.1539636039564&__hstc=206669708.1a4172e99ae97fd8ba9338f464675635.1533015099226.1539629788476.1539632588334.28&__hsfp=361110823&hsCtaTracking=6c34b5b9-9523-4ad1-814f-6071ab125c5a%7C456206e0-ddce-4ef1-b32b-be92b244ccd4"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.rundeck.com/news/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rundeck:rundeck:2.6.2:*:*:*:community:*:*:*",
+		"deprecation": {
+			"date": "2021-09-01T12:00:51.400-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pagerduty:rundeck:2.6.2:*:*:*:community:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

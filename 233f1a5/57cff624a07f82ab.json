@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:gohugo:hugo:0.76.5",
-  "deprecated": true,
-  "deprecation_date": "2022-09-13T19:00:50.773Z",
-  "title": [
-    {
-      "text": "Gohugo Hugo 0.76.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/gohugoio/hugo/security/advisories/GHSA-8j34-9876-pvfq"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://gohugo.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/gohugoio/hugo/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gohugo:hugo:0.76.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-13T15:00:50.773-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gohugo:hugo:0.76.5:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gohugo:hugo:0.76.5",
+	"deprecated": true,
+	"deprecation_date": "2022-09-13T19:00:50.773Z",
+	"title": [
+		{
+			"text": "Gohugo Hugo 0.76.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gohugoio/hugo/security/advisories/GHSA-8j34-9876-pvfq"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://gohugo.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gohugoio/hugo/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gohugo:hugo:0.76.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-13T15:00:50.773-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gohugo:hugo:0.76.5:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

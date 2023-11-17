@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:minicms_project:minicms:1.2",
-  "deprecated": true,
-  "deprecation_date": "2018-10-23T15:18:34.937Z",
-  "title": [
-    {
-      "text": "MiniCMS Project MiniCMS 1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/bg5sbk/MiniCMS/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:minicms_project:minicms:1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-10-23T11:18:34.937-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:1234n:minicms:1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:minicms_project:minicms:1.2",
+	"deprecated": true,
+	"deprecation_date": "2018-10-23T15:18:34.937Z",
+	"title": [
+		{
+			"text": "MiniCMS Project MiniCMS 1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/bg5sbk/MiniCMS/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:minicms_project:minicms:1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-10-23T11:18:34.937-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:1234n:minicms:1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

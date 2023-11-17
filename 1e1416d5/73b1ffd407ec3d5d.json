@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.1.6:beta0",
-  "title": [
-    {
-      "text": "Kubernetes 1.1.6 Beta 0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes/kubernetes/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.1.6:beta0:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.1.6:beta0",
+	"title": [
+		{
+			"text": "Kubernetes 1.1.6 Beta 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/kubernetes/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.1.6:beta0:*:*:*:*:*:*"
+	}
 }

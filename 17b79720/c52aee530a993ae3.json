@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:openshift_serverless:-",
-  "title": [
-    {
-      "text": "Red Hat Openshift Serverless",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-3703"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3703.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift_serverless:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift_serverless:-",
+	"title": [
+		{
+			"text": "Red Hat Openshift Serverless",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-3703"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/3xxx/CVE-2021-3703.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift_serverless:-:*:*:*:*:*:*:*"
+	}
 }

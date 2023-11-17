@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:lenovo:system_update:5.08.01.0005",
-  "title": [
-    {
-      "text": "Lenovo System Update 5.08.01.0005",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/4xxx/CVE-2022-4568.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/product_security/LEN-103545"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lenovo:system_update:5.08.01.0005:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:lenovo:system_update:5.08.01.0005",
+	"title": [
+		{
+			"text": "Lenovo System Update 5.08.01.0005",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/4xxx/CVE-2022-4568.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/product_security/LEN-103545"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lenovo:system_update:5.08.01.0005:*:*:*:*:*:*:*"
+	}
 }

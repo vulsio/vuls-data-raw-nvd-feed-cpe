@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:d-2166nt",
-  "deprecated": true,
-  "deprecation_date": "2023-09-26T13:34:56.343Z",
-  "title": [
-    {
-      "text": "Intel XEON D-2166NT",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:d-2166nt:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-26T09:34:56.343-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_d-2166nt:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:d-2166nt",
+	"deprecated": true,
+	"deprecation_date": "2023-09-26T13:34:56.343Z",
+	"title": [
+		{
+			"text": "Intel XEON D-2166NT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:d-2166nt:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-26T09:34:56.343-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_d-2166nt:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

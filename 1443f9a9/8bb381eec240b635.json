@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:wpdownloadmanager:download_manager:6.0.0::~~pro~wordpress~~",
-  "title": [
-    {
-      "text": "WPdownloadmanager Download Manager 6.0.0 Pro Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.wpdownloadmanager.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/1xxx/CVE-2023-1809.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/57f0a078-fbeb-4b05-8892-e6d99edb82c1"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.wpdownloadmanager.com/doc/updating-download-manager-to-the-latest-version/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpdownloadmanager:download_manager:6.0.0:*:*:*:pro:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpdownloadmanager:download_manager:6.0.0::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "WPdownloadmanager Download Manager 6.0.0 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.wpdownloadmanager.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/1xxx/CVE-2023-1809.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/57f0a078-fbeb-4b05-8892-e6d99edb82c1"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.wpdownloadmanager.com/doc/updating-download-manager-to-the-latest-version/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdownloadmanager:download_manager:6.0.0:*:*:*:pro:wordpress:*:*"
+	}
 }

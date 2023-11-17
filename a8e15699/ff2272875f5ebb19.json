@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:hp:zhaoyang_k42-80:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:30:52.173Z",
-  "title": [
-    {
-      "text": "HP Zhaoyang K42-80",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:hp:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:30:52.173-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:lenovo:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:hp:zhaoyang_k42-80:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:30:52.173Z",
+	"title": [
+		{
+			"text": "HP Zhaoyang K42-80",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:30:52.173-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:lenovo:zhaoyang_k42-80:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

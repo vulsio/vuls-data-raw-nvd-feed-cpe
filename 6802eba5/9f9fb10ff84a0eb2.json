@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hp:autonomy_keyview_idol:-",
-  "title": [
-    {
-      "text": "HP Autonomy KeyView IDOL",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ndm.net/archiving/pdf/hp/20111013_PI_PB_KeyView_IDOL_web.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/viewAlert.x?alertId=27482"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hp:autonomy_keyview_idol:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hp:autonomy_keyview_idol:-",
+	"title": [
+		{
+			"text": "HP Autonomy KeyView IDOL",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ndm.net/archiving/pdf/hp/20111013_PI_PB_KeyView_IDOL_web.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/viewAlert.x?alertId=27482"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hp:autonomy_keyview_idol:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:gitlab_oauth:0.27::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins GitLab OAuth 0.27 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wiki.jenkins.io/display/JENKINS/Gitlab+OAuth+Plugin"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/jenkinsci/gitlab-oauth-plugin/tags?after=1.0.9"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:gitlab_oauth:0.27:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:gitlab_oauth:0.27::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins GitLab OAuth 0.27 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wiki.jenkins.io/display/JENKINS/Gitlab+OAuth+Plugin"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jenkinsci/gitlab-oauth-plugin/tags?after=1.0.9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:gitlab_oauth:0.27:*:*:*:*:jenkins:*:*"
+	}
 }

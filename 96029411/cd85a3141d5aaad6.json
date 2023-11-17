@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:yu_gi_oh_project:yu_gi_oh:-",
-  "title": [
-    {
-      "text": "Yu Gi Oh Project Yu Gi Oh (YGO)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xbab6f30c81209433a3ced28ca8e19256440547d9#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/ygo"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yu_gi_oh_project:yu_gi_oh:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:yu_gi_oh_project:yu_gi_oh:-",
+	"title": [
+		{
+			"text": "Yu Gi Oh Project Yu Gi Oh (YGO)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xbab6f30c81209433a3ced28ca8e19256440547d9#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/ygo"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yu_gi_oh_project:yu_gi_oh:-:*:*:*:*:*:*:*"
+	}
 }

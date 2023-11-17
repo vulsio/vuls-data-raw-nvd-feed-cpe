@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:zookeeper:3.5.10",
-  "title": [
-    {
-      "text": "Apache Software Foundation ZooKeeper 3.5.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://zookeeper.apache.org/releases.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread.html/re9e6ed60941da831675de2f8f733c026757fb4fa28a7b6c9f3dfb575@%3Cdev.zookeeper.apache.org%3E"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:zookeeper:3.5.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:zookeeper:3.5.10",
+	"title": [
+		{
+			"text": "Apache Software Foundation ZooKeeper 3.5.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://zookeeper.apache.org/releases.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread.html/re9e6ed60941da831675de2f8f733c026757fb4fa28a7b6c9f3dfb575@%3Cdev.zookeeper.apache.org%3E"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:zookeeper:3.5.10:*:*:*:*:*:*:*"
+	}
 }

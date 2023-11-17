@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:subscription-manager:1.19.10",
-  "title": [
-    {
-      "text": "Red Hat Subscription Manager 1.19.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.redhat.com/en"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/candlepin/subscription-manager"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:subscription-manager:1.19.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:subscription-manager:1.19.10",
+	"title": [
+		{
+			"text": "Red Hat Subscription Manager 1.19.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.redhat.com/en"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/candlepin/subscription-manager"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:subscription-manager:1.19.10:*:*:*:*:*:*:*"
+	}
 }

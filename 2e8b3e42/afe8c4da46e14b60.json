@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:powerdns:authoritative:3.1",
-  "title": [
-    {
-      "text": "PowerDNS Authoritative 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.powerdns.com/auth.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/PowerDNS/pdns/releases"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://doc.powerdns.com/authoritative/changelog/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:powerdns:authoritative:3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:powerdns:authoritative:3.1",
+	"title": [
+		{
+			"text": "PowerDNS Authoritative 3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.powerdns.com/auth.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/PowerDNS/pdns/releases"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://doc.powerdns.com/authoritative/changelog/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:powerdns:authoritative:3.1:*:*:*:*:*:*:*"
+	}
 }

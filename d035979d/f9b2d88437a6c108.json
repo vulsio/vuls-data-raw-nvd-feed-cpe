@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:grafana:grafana:4.4.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Grafana 4.4.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://grafana.com/blog/2020/12/17/grafana-6.7.5-7.2.3-and-7.3.6-released-with-important-security-fix-for-grafana-enterprise/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/grafana/grafana/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:grafana:grafana:4.4.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:grafana:grafana:4.4.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Grafana 4.4.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://grafana.com/blog/2020/12/17/grafana-6.7.5-7.2.3-and-7.3.6-released-with-important-security-fix-for-grafana-enterprise/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/grafana/grafana/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:grafana:grafana:4.4.0:*:*:*:enterprise:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nic:bird:2.0.7",
-  "title": [
-    {
-      "text": "Nic Bird 2.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.nic.cz/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2"
-    },
-    {
-      "text": "Version",
-      "href": "https://bird.network.cz/?download"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nic:bird:2.0.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nic:bird:2.0.7",
+	"title": [
+		{
+			"text": "Nic Bird 2.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nic.cz/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2"
+		},
+		{
+			"text": "Version",
+			"href": "https://bird.network.cz/?download"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nic:bird:2.0.7:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:juniper:junos_os_evolved:21.3:r2",
-  "title": [
-    {
-      "text": "Juniper JUNOS OS Evolved 21.3 R2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.juniper.net/documentation/product/us/en/junos-os-evolved#cat=release_notes&tab=release_22.1&sgroup=junos-os-evolved"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportportal.juniper.net/s/article/2022-04-Security-Bulletin-Junos-OS-Evolved-A-remote-attacker-may-cause-a-CPU-Denial-of-Service-by-sending-genuine-traffic-to-a-device-on-a-specific-IPv4-port-CVE-2022-22183?language=en_US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos_os_evolved:21.3:r2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:juniper:junos_os_evolved:21.3:r2",
+	"title": [
+		{
+			"text": "Juniper JUNOS OS Evolved 21.3 R2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/us/en/junos-os-evolved#cat=release_notes&tab=release_22.1&sgroup=junos-os-evolved"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2022-04-Security-Bulletin-Junos-OS-Evolved-A-remote-attacker-may-cause-a-CPU-Denial-of-Service-by-sending-genuine-traffic-to-a-device-on-a-specific-IPv4-port-CVE-2022-22183?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos_os_evolved:21.3:r2:*:*:*:*:*:*"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:debian:x11-common:1%3a7.6%2b12",
-  "title": [
-    {
-      "text": "Debian X11-common 1:7.6+12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security-tracker.debian.org/tracker/CVE-2012-1093"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:x11-common:1\\:7.6\\+12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:debian:x11-common:1%3a7.6%2b12",
+	"title": [
+		{
+			"text": "Debian X11-common 1:7.6+12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security-tracker.debian.org/tracker/CVE-2012-1093"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:x11-common:1\\:7.6\\+12:*:*:*:*:*:*:*"
+	}
 }

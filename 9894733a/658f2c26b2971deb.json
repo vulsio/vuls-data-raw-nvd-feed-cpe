@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:google:protobuf-java:3.17.0",
-  "deprecated": true,
-  "deprecation_date": "2022-12-13T20:33:57.213Z",
-  "title": [
-    {
-      "text": "Google protobuf-java 3.17.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/protocolbuffers/protobuf/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:google:protobuf-java:3.17.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-13T15:33:57.213-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:protobuf-java:3.17.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:google:protobuf-java:3.17.0",
+	"deprecated": true,
+	"deprecation_date": "2022-12-13T20:33:57.213Z",
+	"title": [
+		{
+			"text": "Google protobuf-java 3.17.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://repo1.maven.org/maven2/com/google/protobuf/protobuf-java/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/protocolbuffers/protobuf/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/protocolbuffers/protobuf/security/advisories/GHSA-h4h5-3hr4-j3g2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:protobuf-java:3.17.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-13T15:33:57.213-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:protobuf-java:3.17.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

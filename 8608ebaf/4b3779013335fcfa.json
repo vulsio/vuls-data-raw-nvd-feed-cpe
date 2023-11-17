@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:skype:7.2",
-  "title": [
-    {
-      "text": "Microsoft Skype 7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vulnerability-db.com/?q=articles/2017/05/28/stack-buffer-overflow-zero-day-vulnerability-uncovered-microsoft-skype-v72-v735"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://account.microsoft.com/account/skype"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:skype:7.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:skype:7.2",
+	"title": [
+		{
+			"text": "Microsoft Skype 7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vulnerability-db.com/?q=articles/2017/05/28/stack-buffer-overflow-zero-day-vulnerability-uncovered-microsoft-skype-v72-v735"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://account.microsoft.com/account/skype"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:skype:7.2:*:*:*:*:*:*:*"
+	}
 }

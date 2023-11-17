@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:office:2.70.23021003::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "Microsoft Office 2.70.23021003 for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://apps.apple.com/us/app/microsoft-365-office/id541164041"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21823"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2.70.23021003:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:microsoft:office:2.70.23021003::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "Microsoft Office 2.70.23021003 for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/microsoft-365-office/id541164041"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21823"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2.70.23021003:*:*:*:*:iphone_os:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:tealeaf_customer_experience:8.0",
-  "title": [
-    {
-      "text": "IBM Tealeaf Customer Experience 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/security-bulletin-ibm-tealeaf-customer-experience-servers-allow-unauthenticated-access-cve-2015-4987"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/support/knowledgecenter/en/SS2MBL/tealeaf_product_family_welcome.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:tealeaf_customer_experience:8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:tealeaf_customer_experience:8.0",
+	"title": [
+		{
+			"text": "IBM Tealeaf Customer Experience 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-ibm-tealeaf-customer-experience-servers-allow-unauthenticated-access-cve-2015-4987"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/support/knowledgecenter/en/SS2MBL/tealeaf_product_family_welcome.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:tealeaf_customer_experience:8.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/h:moxa:mgate_mb3280_router:-",
-  "deprecated": true,
-  "deprecation_date": "2021-07-16T14:52:13.727Z",
-  "title": [
-    {
-      "text": "Moxa MGate MB3280 Router",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.moxa.com/en/"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3270/ver2.7/FWR_MB3270_V2.7_Release_Note.pdf"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3170/ver2.5/FWR_MB3170_V2.5_Release_Note.pdf"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3180/ver1.8/2710031800017_FWR_MB3180_V1.8_Release_Note.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:moxa:mgate_mb3280_router:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-16T10:52:13.727-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:moxa:mgate_mb3280:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:moxa:mgate_mb3280_router:-",
+	"deprecated": true,
+	"deprecation_date": "2021-07-16T14:52:13.727Z",
+	"title": [
+		{
+			"text": "Moxa MGate MB3280 Router",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.moxa.com/en/"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3270/ver2.7/FWR_MB3270_V2.7_Release_Note.pdf"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3170/ver2.5/FWR_MB3170_V2.5_Release_Note.pdf"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.moxa.com/drivers/IEG_SW/MGate/Firmware/MB3180/ver1.8/2710031800017_FWR_MB3180_V1.8_Release_Note.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:moxa:mgate_mb3280_router:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-16T10:52:13.727-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:moxa:mgate_mb3280:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

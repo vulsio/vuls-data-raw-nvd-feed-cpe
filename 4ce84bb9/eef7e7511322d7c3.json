@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:nextcloud_server:21.0.0:beta5",
-  "title": [
-    {
-      "text": "Nextcloud Server 21.0.0 Beta 5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-396j-vqpr-qg45"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/server/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:nextcloud_server:21.0.0:beta5:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:nextcloud_server:21.0.0:beta5",
+	"title": [
+		{
+			"text": "Nextcloud Server 21.0.0 Beta 5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-396j-vqpr-qg45"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud_server:21.0.0:beta5:*:*:*:*:*:*"
+	}
 }

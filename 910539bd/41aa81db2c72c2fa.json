@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:prisma:prisma:2.12.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Prisma Prisma 2.12.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.prisma.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/prisma/prisma/security/advisories/GHSA-pxcc-hj8w-fmm7"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/prisma/prisma/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:prisma:prisma:2.12.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:prisma:prisma:2.12.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Prisma Prisma 2.12.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.prisma.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/prisma/prisma/security/advisories/GHSA-pxcc-hj8w-fmm7"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/prisma/prisma/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:prisma:prisma:2.12.1:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:wp-livechat:live_chat_support:6.0.06::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-07-20T12:02:06.380Z",
-  "title": [
-    {
-      "text": "WP-LiveChat Live Chat Support 6.0.06 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://wp-livechat.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/wp-live-chat-support/#developers"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/CodeCabin/wp-live-chat-support/blob/master/readme.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp-livechat:live_chat_support:6.0.06:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-07-20T08:02:06.380-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:3cx:live_chat:6.0.06:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wp-livechat:live_chat_support:6.0.06::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-07-20T12:02:06.380Z",
+	"title": [
+		{
+			"text": "WP-LiveChat Live Chat Support 6.0.06 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wp-livechat.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-live-chat-support/#developers"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/CodeCabin/wp-live-chat-support/blob/master/readme.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-livechat:live_chat_support:6.0.06:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-07-20T08:02:06.380-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:3cx:live_chat:6.0.06:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

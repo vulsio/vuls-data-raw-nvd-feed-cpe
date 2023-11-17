@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:orcacle:retail_point-of-service:13.4",
-  "deprecated": true,
-  "deprecation_date": "2017-04-28T13:18:17.333Z",
-  "title": [
-    {
-      "text": "Orcacle Retail Point-of-Service 13.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.oracle.com/us/products/applications/retail/store-operations/point-service/overview/retail-point-service-overview-1570615.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:orcacle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-04-28T09:18:17.333-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:orcacle:retail_point-of-service:13.4",
+	"deprecated": true,
+	"deprecation_date": "2017-04-28T13:18:17.333Z",
+	"title": [
+		{
+			"text": "Orcacle Retail Point-of-Service 13.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.oracle.com/us/products/applications/retail/store-operations/point-service/overview/retail-point-service-overview-1570615.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:orcacle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-04-28T09:18:17.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:retail_point-of-service:13.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

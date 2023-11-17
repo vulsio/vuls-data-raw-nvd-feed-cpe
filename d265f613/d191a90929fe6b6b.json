@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:se:enterprise_server_installer:1.9",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:32:59.153Z",
-  "title": [
-    {
-      "text": "Schneider-Electric Enterprise Server Installer 1.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.se.com/ww/en/download/document/SEVD-2020-315-04/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:32:59.153-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:enterprise_server_installer:1.9",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:32:59.153Z",
+	"title": [
+		{
+			"text": "Schneider-Electric Enterprise Server Installer 1.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.se.com/ww/en/download/document/SEVD-2020-315-04/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:32:59.153-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:enterprise_server_installer:1.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

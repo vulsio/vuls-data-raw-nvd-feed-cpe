@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:vios:2.2.3.2",
-  "title": [
-    {
-      "text": "IBM Virtual I/O Server (VIOS) 2.2.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://aix.software.ibm.com/aix/efixes/security/libodm_advisory.asc"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/docs/en/POWER7/p7hb1/iphb1kickoff.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:vios:2.2.3.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:vios:2.2.3.2",
+	"title": [
+		{
+			"text": "IBM Virtual I/O Server (VIOS) 2.2.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://aix.software.ibm.com/aix/efixes/security/libodm_advisory.asc"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/docs/en/POWER7/p7hb1/iphb1kickoff.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:vios:2.2.3.2:*:*:*:*:*:*:*"
+	}
 }

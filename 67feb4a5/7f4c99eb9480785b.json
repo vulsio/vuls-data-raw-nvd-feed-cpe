@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:silverstripe:silverstripe:2.3.9",
-  "deprecated": true,
-  "deprecation_date": "2020-07-23T16:55:18.997Z",
-  "title": [
-    {
-      "text": "SilverStripe 2.3.9",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:silverstripe:silverstripe:2.3.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-23T12:55:18.997-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:silverstripe:silverstripe:2.3.9:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:silverstripe:silverstripe:2.3.9",
+	"deprecated": true,
+	"deprecation_date": "2020-07-23T16:55:18.997Z",
+	"title": [
+		{
+			"text": "SilverStripe 2.3.9",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:silverstripe:silverstripe:2.3.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-23T12:55:18.997-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:silverstripe:silverstripe:2.3.9:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

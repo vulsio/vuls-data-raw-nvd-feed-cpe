@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:schneider-electric:sage_2200:-",
-  "title": [
-    {
-      "text": "Schneider Electric SAGE 2200",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sage-rtu.com/uploads/1/1/7/3/117318428/sage_2x00_v2.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/ICSA-15-169-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider-electric:sage_2200:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:schneider-electric:sage_2200:-",
+	"title": [
+		{
+			"text": "Schneider Electric SAGE 2200",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sage-rtu.com/uploads/1/1/7/3/117318428/sage_2x00_v2.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/ICSA-15-169-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider-electric:sage_2200:-:*:*:*:*:*:*:*"
+	}
 }

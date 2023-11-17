@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:argo_workflows_project:argo_workflows:2.7.0:rc3:~~~kubernetes~~",
-  "title": [
-    {
-      "text": "Argo Workflows Project Argo Workflows 2.7.0 Release Candidate 3 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/argoproj/argo-workflows/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/argoproj/argo-workflows/security/advisories/GHSA-cmv8-6362-r5w9"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:argo_workflows_project:argo_workflows:2.7.0:rc3:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:argo_workflows_project:argo_workflows:2.7.0:rc3:~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Argo Workflows Project Argo Workflows 2.7.0 Release Candidate 3 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/argoproj/argo-workflows/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/argoproj/argo-workflows/security/advisories/GHSA-cmv8-6362-r5w9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:argo_workflows_project:argo_workflows:2.7.0:rc3:*:*:*:kubernetes:*:*"
+	}
 }

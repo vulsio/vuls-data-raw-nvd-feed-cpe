@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openvpn:openvpn:2.8.3",
-  "deprecated": true,
-  "deprecation_date": "2020-05-12T14:21:42.983Z",
-  "title": [
-    {
-      "text": "OpenVPN 2.8.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://openvpn.net/vpn-server-resources/release-notes/#Release_notes_for_OpenVPN_Access_Server_283"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openvpn:openvpn:2.8.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-12T10:21:42.983-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openvpn:openvpn_access_server:2.8.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openvpn:openvpn:2.8.3",
+	"deprecated": true,
+	"deprecation_date": "2020-05-12T14:21:42.983Z",
+	"title": [
+		{
+			"text": "OpenVPN 2.8.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://openvpn.net/vpn-server-resources/release-notes/#Release_notes_for_OpenVPN_Access_Server_283"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openvpn:openvpn:2.8.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-12T10:21:42.983-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openvpn:openvpn_access_server:2.8.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

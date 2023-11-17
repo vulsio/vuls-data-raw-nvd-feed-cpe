@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:securifi:almond%2bfirmware:al-r096",
-  "title": [
-    {
-      "text": "SECURIFI Almond+firmware AL-R096",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.securifi.com/products"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Securifi_Almond_plus_sec_issues.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:securifi:almond\\+firmware:al-r096:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:securifi:almond%2bfirmware:al-r096",
+	"title": [
+		{
+			"text": "SECURIFI Almond+firmware AL-R096",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.securifi.com/products"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ethanhunnt/IoT_vulnerabilities/blob/master/Securifi_Almond_plus_sec_issues.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:securifi:almond\\+firmware:al-r096:*:*:*:*:*:*:*"
+	}
 }

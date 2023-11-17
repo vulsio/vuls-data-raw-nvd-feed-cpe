@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sap:business_client:6.5",
-  "title": [
-    {
-      "text": "SAP Business Client 6.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blogs.sap.com/2018/03/13/sap-security-patch-day-march-2018/"
-    },
-    {
-      "text": "Product",
-      "href": "https://help.sap.com/viewer/52778f25e90347a1a15bc0113b70462b/2.06/en-US/03ecbafb844b450a9314a5683b75ed80.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:business_client:6.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sap:business_client:6.5",
+	"title": [
+		{
+			"text": "SAP Business Client 6.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blogs.sap.com/2018/03/13/sap-security-patch-day-march-2018/"
+		},
+		{
+			"text": "Product",
+			"href": "https://help.sap.com/viewer/52778f25e90347a1a15bc0113b70462b/2.06/en-US/03ecbafb844b450a9314a5683b75ed80.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:business_client:6.5:*:*:*:*:*:*:*"
+	}
 }

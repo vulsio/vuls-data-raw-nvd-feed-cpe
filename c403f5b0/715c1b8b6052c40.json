@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:tpginc:tpg_redirect:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "The Pineridge Group TPG Redirect for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/tpg-redirect/wordpress-tpg-redirect-plugin-1-0-6-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://tpginc.net/blog/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/tpg-redirect/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tpginc:tpg_redirect:-:*:*:*:*:wordpress:*:*"
+	}
+}

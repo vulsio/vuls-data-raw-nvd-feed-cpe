@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:brocade:fabric_os:5.0.5b",
-  "deprecated": true,
-  "deprecation_date": "2021-06-22T15:19:11.153Z",
-  "title": [
-    {
-      "text": "Brocade SilkWorm 12000 Director 5.0.5b",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:brocade:fabric_os:5.0.5b:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-22T11:19:11.153-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:broadcom:fabric_operating_system:5.0.5:b:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:brocade:fabric_os:5.0.5b",
+	"deprecated": true,
+	"deprecation_date": "2021-06-22T15:19:11.153Z",
+	"title": [
+		{
+			"text": "Brocade SilkWorm 12000 Director 5.0.5b",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:brocade:fabric_os:5.0.5b:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-22T11:19:11.153-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:broadcom:fabric_operating_system:5.0.5:b:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

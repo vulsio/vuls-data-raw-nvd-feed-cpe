@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:zohocorp:manageengine_network_configuration_manager:11.0",
-  "deprecated": true,
-  "deprecation_date": "2022-04-29T13:23:12.767Z",
-  "title": [
-    {
-      "text": "Zoho Corp ManageEngine Network Configuration Manager 11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.manageengine.com/products/oputils/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/active-labs/Advisories/blob/master/ACTIVE-2019-007.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:11.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-29T09:23:12.767-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:11.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zohocorp:manageengine_network_configuration_manager:11.0",
+	"deprecated": true,
+	"deprecation_date": "2022-04-29T13:23:12.767Z",
+	"title": [
+		{
+			"text": "Zoho Corp ManageEngine Network Configuration Manager 11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.manageengine.com/products/oputils/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/active-labs/Advisories/blob/master/ACTIVE-2019-007.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:11.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-29T09:23:12.767-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:11.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

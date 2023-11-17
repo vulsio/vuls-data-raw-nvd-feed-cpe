@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:openshift_container_platform_for_power:4.11",
-  "title": [
-    {
-      "text": "Red Hat OpenShift Container Platform For Power 4.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHBA-2023:0773"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2023-0056"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift_container_platform_for_power:4.11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift_container_platform_for_power:4.11",
+	"title": [
+		{
+			"text": "Red Hat OpenShift Container Platform For Power 4.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHBA-2023:0773"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2023-0056"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift_container_platform_for_power:4.11:*:*:*:*:*:*:*"
+	}
 }

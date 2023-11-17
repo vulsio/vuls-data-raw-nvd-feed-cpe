@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:f5:big-ip_link_controller:11.5.4:hotfix1",
-  "deprecated": true,
-  "deprecation_date": "2021-05-04T14:12:52.320Z",
-  "title": [
-    {
-      "text": "F5 BIG-IP Link Controller 11.5.4 Hotfix1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.f5.com/csp/knowledge-center/software/BIG-IP?module=BIG-IP%20Link%20Controller"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.f5.com/csp/article/K77671456"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://f5.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:f5:big-ip_link_controller:11.5.4:hotfix1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-04T10:12:52.320-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:f5:big-ip_link_controller:11.5.4.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:f5:big-ip_link_controller:11.5.4:hotfix1",
+	"deprecated": true,
+	"deprecation_date": "2021-05-04T14:12:52.320Z",
+	"title": [
+		{
+			"text": "F5 BIG-IP Link Controller 11.5.4 Hotfix1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.f5.com/csp/knowledge-center/software/BIG-IP?module=BIG-IP%20Link%20Controller"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.f5.com/csp/article/K77671456"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://f5.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f5:big-ip_link_controller:11.5.4:hotfix1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-04T10:12:52.320-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:f5:big-ip_link_controller:11.5.4.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

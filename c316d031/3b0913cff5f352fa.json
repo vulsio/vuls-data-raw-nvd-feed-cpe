@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:nuvoton_consumer_infrared:-::~~~~nuc~",
-  "title": [
-    {
-      "text": "Intel Nuvoton Consumer Infrared (CIR) on NUC",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00309.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://downloadcenter.intel.com/download/25048/Nuvoton-Consumer-Infrared-CIR-Driver-for-Windows-8-8-1-for-Intel-NUC"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:nuvoton_consumer_infrared:-:*:*:*:*:*:nuc:*"
-  }
+	"name": "cpe:/a:intel:nuvoton_consumer_infrared:-::~~~~nuc~",
+	"title": [
+		{
+			"text": "Intel Nuvoton Consumer Infrared (CIR) on NUC",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00309.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://downloadcenter.intel.com/download/25048/Nuvoton-Consumer-Infrared-CIR-Driver-for-Windows-8-8-1-for-Intel-NUC"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:nuvoton_consumer_infrared:-:*:*:*:*:*:nuc:*"
+	}
 }

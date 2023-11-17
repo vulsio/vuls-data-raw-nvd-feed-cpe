@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:shibboleth:identify_provider:3.4.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-08T15:39:13.290Z",
-  "title": [
-    {
-      "text": "Shibboleth Identify Provider 3.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.shibboleth.net/products/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://shibboleth.atlassian.net/wiki/spaces/IDP30/pages/2494726503/ReleaseNotes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:shibboleth:identify_provider:3.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-08T10:39:13.290-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:shibboleth:identity_provider:3.4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:shibboleth:identify_provider:3.4.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-08T15:39:13.290Z",
+	"title": [
+		{
+			"text": "Shibboleth Identify Provider 3.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.shibboleth.net/products/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://shibboleth.atlassian.net/wiki/spaces/IDP30/pages/2494726503/ReleaseNotes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shibboleth:identify_provider:3.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-08T10:39:13.290-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:shibboleth:identity_provider:3.4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

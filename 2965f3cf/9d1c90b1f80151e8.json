@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:http_server_project:http_server:1.0.12::~~~node.js~~",
-  "title": [
-    {
-      "text": "Http Server Project Http Server 1.0.12 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.npmjs.com/package/http_server"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/692262"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:http_server_project:http_server:1.0.12:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:http_server_project:http_server:1.0.12::~~~node.js~~",
+	"title": [
+		{
+			"text": "Http Server Project Http Server 1.0.12 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.npmjs.com/package/http_server"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/692262"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:http_server_project:http_server:1.0.12:*:*:*:*:node.js:*:*"
+	}
 }

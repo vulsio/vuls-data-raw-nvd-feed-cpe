@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:php:php:7.0.25",
-  "deprecated": true,
-  "deprecation_date": "2019-06-07T18:57:22.330Z",
-  "title": [
-    {
-      "text": "PHP 7.0.25",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://php.net"
-    },
-    {
-      "text": "Change Log",
-      "href": "http://php.net/ChangeLog-7.php"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:php:php:7.0.25:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-07T14:57:22.330-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:php:php:7.0.25:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:php:php:7.0.25",
+	"deprecated": true,
+	"deprecation_date": "2019-06-07T18:57:22.330Z",
+	"title": [
+		{
+			"text": "PHP 7.0.25",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://php.net"
+		},
+		{
+			"text": "Change Log",
+			"href": "http://php.net/ChangeLog-7.php"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:php:php:7.0.25:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-07T14:57:22.330-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:php:php:7.0.25:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

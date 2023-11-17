@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:nvidia:dgx_h100:-",
-  "title": [
-    {
-      "text": "NVIDIA DGX H100",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.nvidia.com/en-us/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:nvidia:dgx_h100:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:nvidia:dgx_h100:-",
+	"title": [
+		{
+			"text": "NVIDIA DGX H100",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nvidia.com/en-us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5473"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nvidia:dgx_h100:-:*:*:*:*:*:*:*"
+	}
 }

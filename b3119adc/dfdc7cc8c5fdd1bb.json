@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:pandorafms:pandora_fms:7.0_ng",
-  "title": [
-    {
-      "text": "Pandora FMS 7.0 NG",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://sourceforge.net/projects/pandora/files/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://pandorafms.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@tehwinsam/multiple-xss-on-pandorafms-7-0-ng-744-64b244b8523c"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/158389/Pandora-FMS-7.0-NG-746-Script-Insertion-Code-Execution.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pandorafms:pandora_fms:7.0_ng:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pandorafms:pandora_fms:7.0_ng",
+	"title": [
+		{
+			"text": "Pandora FMS 7.0 NG",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://sourceforge.net/projects/pandora/files/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://pandorafms.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@tehwinsam/multiple-xss-on-pandorafms-7-0-ng-744-64b244b8523c"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/158389/Pandora-FMS-7.0-NG-746-Script-Insertion-Code-Execution.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pandorafms:pandora_fms:7.0_ng:*:*:*:*:*:*:*"
+	}
 }

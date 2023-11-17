@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:lexmark:g2_driver:2.7.1.0",
-  "title": [
-    {
-      "text": "Lexmark G2 Driver 2.7.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.lexmark.com/en_us/support/download-search.html?q=G2"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lexmark:g2_driver:2.7.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:lexmark:g2_driver:2.7.1.0",
+	"title": [
+		{
+			"text": "Lexmark G2 Driver 2.7.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.lexmark.com/en_us/support/download-search.html?q=G2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lexmark:g2_driver:2.7.1.0:*:*:*:*:*:*:*"
+	}
 }

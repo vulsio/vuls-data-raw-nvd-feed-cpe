@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mybb:mybb:1.8.23",
-  "title": [
-    {
-      "text": "MyBB 1.8.23",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.mybb.com/2020/08/09/mybb-1-8-24-released-security-release/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mybb/mybb/security/advisories/GHSA-37h7-vfv6-f8rj"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mybb/mybb/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mybb:mybb:1.8.23:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mybb:mybb:1.8.23",
+	"title": [
+		{
+			"text": "MyBB 1.8.23",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.mybb.com/2020/08/09/mybb-1-8-24-released-security-release/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mybb/mybb/security/advisories/GHSA-37h7-vfv6-f8rj"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mybb/mybb/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mybb:mybb:1.8.23:*:*:*:*:*:*:*"
+	}
 }

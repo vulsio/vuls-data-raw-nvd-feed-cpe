@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:digium:certified_asterisk:11.6:cert1:~~lts~~~",
-  "title": [
-    {
-      "text": "Digium Certified Asterisk 11.6 cert 1 LTS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://www.digium.com/en/products/asterisk/software"
-    },
-    {
-      "text": "Product changelog",
-      "href": "http://downloads.asterisk.org/pub/telephony/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digium:certified_asterisk:11.6:cert1:*:*:lts:*:*:*"
-  }
+	"name": "cpe:/a:digium:certified_asterisk:11.6:cert1:~~lts~~~",
+	"title": [
+		{
+			"text": "Digium Certified Asterisk 11.6 cert 1 LTS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://www.digium.com/en/products/asterisk/software"
+		},
+		{
+			"text": "Product changelog",
+			"href": "http://downloads.asterisk.org/pub/telephony/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digium:certified_asterisk:11.6:cert1:*:*:lts:*:*:*"
+	}
 }

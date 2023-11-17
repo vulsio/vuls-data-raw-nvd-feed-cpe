@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:emc:rsa_via_lifecycle_and_governance:7.0",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T13:12:04.083Z",
-  "title": [
-    {
-      "text": "EMC RSA VIA Lifecycle and Governance 7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dellemc.com/en-us/index.htm"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.emc.com/about/news/press/2015/20150722-02.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:rsa_via_lifecycle_and_governance:7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T09:12:04.083-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rsa:rsa_via_lifecycle_and_governance:7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:rsa_via_lifecycle_and_governance:7.0",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T13:12:04.083Z",
+	"title": [
+		{
+			"text": "EMC RSA VIA Lifecycle and Governance 7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dellemc.com/en-us/index.htm"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.emc.com/about/news/press/2015/20150722-02.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:rsa_via_lifecycle_and_governance:7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T09:12:04.083-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rsa:rsa_via_lifecycle_and_governance:7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

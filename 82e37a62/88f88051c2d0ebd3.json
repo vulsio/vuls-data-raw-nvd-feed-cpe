@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:deltaww:dvp32es200t_firmware:1.48",
-  "title": [
-    {
-      "text": "Delta Electronics DVP32ES200T Firmware 1.48",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://filecenter.deltaww.com/Products/download/06/060301/Catalogue/DELTA_IA-PLC_DVP_TP_C_EN_20230914.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.deltaww.com/en-us/products/PLC-Programmable-Logic-Controllers/45"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2023-5459"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:deltaww:dvp32es200t_firmware:1.48:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:deltaww:dvp32es200t_firmware:1.48",
+	"title": [
+		{
+			"text": "Delta Electronics DVP32ES200T Firmware 1.48",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://filecenter.deltaww.com/Products/download/06/060301/Catalogue/DELTA_IA-PLC_DVP_TP_C_EN_20230914.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.deltaww.com/en-us/products/PLC-Programmable-Logic-Controllers/45"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-5459"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:deltaww:dvp32es200t_firmware:1.48:*:*:*:*:*:*:*"
+	}
 }

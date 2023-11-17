@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:buyertoken_project:buyertoken:-",
-  "title": [
-    {
-      "text": "BuyerToken Project BuyerToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x18429dedafbb65443edf60402294df5c01aee1da#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:buyertoken_project:buyertoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:buyertoken_project:buyertoken:-",
+	"title": [
+		{
+			"text": "BuyerToken Project BuyerToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x18429dedafbb65443edf60402294df5c01aee1da#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:buyertoken_project:buyertoken:-:*:*:*:*:*:*:*"
+	}
 }

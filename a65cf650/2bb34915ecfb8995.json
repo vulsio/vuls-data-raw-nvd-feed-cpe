@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:pmd:3.13::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins PMD 3.13 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/pmd-plugin/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/pmd"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:pmd:3.13:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:pmd:3.13::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins PMD 3.13 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/pmd-plugin/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/pmd"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:pmd:3.13:*:*:*:*:jenkins:*:*"
+	}
 }

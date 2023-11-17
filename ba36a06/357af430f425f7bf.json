@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:linuxfoundation:the_update_framework:0.10.0",
-  "deprecated": true,
-  "deprecation_date": "2021-10-20T17:53:58.407Z",
-  "title": [
-    {
-      "text": "The Linux Foundation The Update Framework (TUF) 0.10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.linuxfoundation.org/"
-    },
-    {
-      "text": "Project",
-      "href": "https://theupdateframework.github.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/theupdateframework/tuf/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:the_update_framework:0.10.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-20T13:53:58.407-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:the_update_framework:0.10.0:*:*:*:*:python:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:linuxfoundation:the_update_framework:0.10.0",
+	"deprecated": true,
+	"deprecation_date": "2021-10-20T17:53:58.407Z",
+	"title": [
+		{
+			"text": "The Linux Foundation The Update Framework (TUF) 0.10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.linuxfoundation.org/"
+		},
+		{
+			"text": "Project",
+			"href": "https://theupdateframework.github.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/theupdateframework/tuf/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:the_update_framework:0.10.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-20T13:53:58.407-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:the_update_framework:0.10.0:*:*:*:*:python:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

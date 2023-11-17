@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:citrix:application_delivery_controller:12.1::~~fips~~~",
-  "title": [
-    {
-      "text": "Citrix Application Delivery Controller (ADC) 12.1 FIPS  Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.citrix.com/article/CTX477714/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202324487-cve202324488"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:fips:*:*:*"
-  }
+	"name": "cpe:/a:citrix:application_delivery_controller:12.1::~~fips~~~",
+	"title": [
+		{
+			"text": "Citrix Application Delivery Controller (ADC) 12.1 FIPS  Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX477714/citrix-adc-and-citrix-gateway-security-bulletin-for-cve202324487-cve202324488"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:application_delivery_controller:12.1:*:*:*:fips:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:locusenergy:lgate_firmware:-",
-  "title": [
-    {
-      "text": "Locus Energy LGate Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://help.locusenergy.com/en/collections/778666-hardware"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://locusenergy.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-231-01-0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:locusenergy:lgate_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:locusenergy:lgate_firmware:-",
+	"title": [
+		{
+			"text": "Locus Energy LGate Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://help.locusenergy.com/en/collections/778666-hardware"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://locusenergy.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-231-01-0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:locusenergy:lgate_firmware:-:*:*:*:*:*:*:*"
+	}
 }

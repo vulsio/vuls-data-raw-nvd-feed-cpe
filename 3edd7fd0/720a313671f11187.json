@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:schneider-electric:modbus:-",
-  "title": [
-    {
-      "text": "Schneider Electric Modbus Protocol",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.schneider-electric.co.in/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.schneider-electric.co.in/en/product-range-presentation/574-modbus"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:schneider-electric:modbus:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:schneider-electric:modbus:-",
+	"title": [
+		{
+			"text": "Schneider Electric Modbus Protocol",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-101-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.schneider-electric.co.in/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.schneider-electric.co.in/en/product-range-presentation/574-modbus"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:schneider-electric:modbus:-:*:*:*:*:*:*:*"
+	}
 }

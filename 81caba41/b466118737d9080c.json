@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:kallithea:kallithea:0.1",
-  "deprecated": true,
-  "deprecation_date": "2020-05-28T16:58:54.140Z",
-  "title": [
-    {
-      "text": "Kallithea Kallithea 0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://kallithea-scm.org/"
-    },
-    {
-      "text": "Vendor Advisory / Version Information",
-      "href": "https://kallithea-scm.org/security/cve-2015-0260.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kallithea:kallithea:0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-28T12:58:54.140-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kallithea-scm:kallithea:0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kallithea:kallithea:0.1",
+	"deprecated": true,
+	"deprecation_date": "2020-05-28T16:58:54.140Z",
+	"title": [
+		{
+			"text": "Kallithea Kallithea 0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://kallithea-scm.org/"
+		},
+		{
+			"text": "Vendor Advisory / Version Information",
+			"href": "https://kallithea-scm.org/security/cve-2015-0260.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kallithea:kallithea:0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-28T12:58:54.140-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kallithea-scm:kallithea:0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

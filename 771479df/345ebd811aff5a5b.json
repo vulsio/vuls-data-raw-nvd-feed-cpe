@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zoom:client:4.3.46333.0128::~~~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2020-04-07T20:18:47.963Z",
-  "title": [
-    {
-      "text": "Zoom Client 4.3.46333.0128 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:client:4.3.46333.0128:*:*:*:*:windows:*:*",
-    "deprecation": {
-      "date": "2020-04-07T16:18:47.963-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zoom:zoom:4.3.46333.0128:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zoom:client:4.3.46333.0128::~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2020-04-07T20:18:47.963Z",
+	"title": [
+		{
+			"text": "Zoom Client 4.3.46333.0128 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:client:4.3.46333.0128:*:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2020-04-07T16:18:47.963-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zoom:zoom:4.3.46333.0128:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

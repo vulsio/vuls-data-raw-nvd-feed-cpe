@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pcprotect:anti-virus:4.14.31",
-  "deprecated": true,
-  "deprecation_date": "2021-08-16T15:01:06.317Z",
-  "title": [
-    {
-      "text": "PCProtect Anti-Virus 4.14.31",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://flipflopsecurity.wordpress.com/2019/10/07/pc-protect-v4-14-31-privilege-esclation/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.pcprotect.com/start/download?gclid=Cj0KCQjwivbsBRDsARIsADyISJ9DVvrmnsUsHVBq8w6hKGD0vujxYSyK3kGYK4vZdBBcYfPN2aoGX0IaAiuQEALw_wcB"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pcprotect:anti-virus:4.14.31:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-16T11:01:06.317-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pcprotect:antivirus:4.14.31:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pcprotect:anti-virus:4.14.31",
+	"deprecated": true,
+	"deprecation_date": "2021-08-16T15:01:06.317Z",
+	"title": [
+		{
+			"text": "PCProtect Anti-Virus 4.14.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://flipflopsecurity.wordpress.com/2019/10/07/pc-protect-v4-14-31-privilege-esclation/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.pcprotect.com/start/download?gclid=Cj0KCQjwivbsBRDsARIsADyISJ9DVvrmnsUsHVBq8w6hKGD0vujxYSyK3kGYK4vZdBBcYfPN2aoGX0IaAiuQEALw_wcB"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pcprotect:anti-virus:4.14.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-16T11:01:06.317-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pcprotect:antivirus:4.14.31:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

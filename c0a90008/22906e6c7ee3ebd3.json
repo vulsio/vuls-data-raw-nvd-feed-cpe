@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:snyk:snyk_security:1.5.0::~~~visual_studio_code~~",
-  "title": [
-    {
-      "text": "Snyk Security 1.5.0 for Visual Studio Code",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/snyk/vscode-extension"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/snyk/vscode-extension/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:snyk:snyk_security:1.5.0:*:*:*:*:visual_studio_code:*:*"
-  }
+	"name": "cpe:/a:snyk:snyk_security:1.5.0::~~~visual_studio_code~~",
+	"title": [
+		{
+			"text": "Snyk Security 1.5.0 for Visual Studio Code",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://marketplace.visualstudio.com/items?itemName=snyk-security.snyk-vulnerability-scanner"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/snyk/vscode-extension"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/snyk/vscode-extension/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:snyk:snyk_security:1.5.0:*:*:*:*:visual_studio_code:*:*"
+	}
 }

@@ -1,43 +1,43 @@
 {
-  "name": "cpe:/a:erlang:erlang%2fotp:23.0.0",
-  "deprecated": true,
-  "deprecation_date": "2023-09-25T15:31:55.000Z",
-  "title": [
-    {
-      "text": "Erlang/OTP 23.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/erlang/otp/blob/master/otp_versions.table"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/erlang/otp"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/erlang/otp/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.erlang.org/doc/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.erlang.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:erlang:erlang\\/otp:23.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-25T11:31:55.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:erlang:erlang\\/otp:23.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:erlang:erlang%2fotp:23.0.0",
+	"deprecated": true,
+	"deprecation_date": "2023-09-25T15:31:55.000Z",
+	"title": [
+		{
+			"text": "Erlang/OTP 23.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/erlang/otp/blob/master/otp_versions.table"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/erlang/otp"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/erlang/otp/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.erlang.org/doc/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.erlang.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:erlang:erlang\\/otp:23.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-25T11:31:55.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:erlang:erlang\\/otp:23.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

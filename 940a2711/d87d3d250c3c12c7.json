@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:freebsd:freebsd:9.1:release-p4",
-  "deprecated": true,
-  "deprecation_date": "2019-03-18T15:35:23.097Z",
-  "title": [
-    {
-      "text": "FreeBSD 9.1 RELEASE-P4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:freebsd:freebsd:9.1:release-p4:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-18T11:35:23.097-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:freebsd:freebsd:9.1:p4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:freebsd:freebsd:9.1:release-p4",
+	"deprecated": true,
+	"deprecation_date": "2019-03-18T15:35:23.097Z",
+	"title": [
+		{
+			"text": "FreeBSD 9.1 RELEASE-P4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:9.1:release-p4:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-18T11:35:23.097-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:freebsd:freebsd:9.1:p4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

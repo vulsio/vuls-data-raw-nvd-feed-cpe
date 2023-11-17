@@ -1,38 +1,38 @@
 {
-  "name": "cpe:/a:oracle:mysql:6.0.2",
-  "title": [
-    {
-      "text": "Oracle MySQL 6.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://dev.mysql.com/doc/relnotes/mysql/5.5/en/"
-    },
-    {
-      "text": "Oracle MySQL 5.1 release notes",
-      "href": "http://dev.mysql.com/doc/relnotes/mysql/5.1/en/"
-    },
-    {
-      "text": "Oracle October 2013 advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpuoct2013-1899837.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mysql/mysql-server/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.mysql.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql:6.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql:6.0.2",
+	"title": [
+		{
+			"text": "Oracle MySQL 6.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://dev.mysql.com/doc/relnotes/mysql/5.5/en/"
+		},
+		{
+			"text": "Oracle MySQL 5.1 release notes",
+			"href": "http://dev.mysql.com/doc/relnotes/mysql/5.1/en/"
+		},
+		{
+			"text": "Oracle October 2013 advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpuoct2013-1899837.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mysql/mysql-server/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.mysql.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql:6.0.2:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir-826l_wireless_n600_cloud_router_firmware:1.02",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "DIR-826L Wireless N600 Cloud Router firmware 1.02",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.dlink.com/us/en/home-solutions/connect/routers/dir-826l-cloud-gigabit-router-n600"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir-826l_wireless_n600_cloud_router_firmware:1.02:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir-826l_wireless_n600_cloud_router_firmware:1.02:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir-826l_wireless_n600_cloud_router_firmware:1.02",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "DIR-826L Wireless N600 Cloud Router firmware 1.02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.dlink.com/us/en/home-solutions/connect/routers/dir-826l-cloud-gigabit-router-n600"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir-826l_wireless_n600_cloud_router_firmware:1.02:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir-826l_wireless_n600_cloud_router_firmware:1.02:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

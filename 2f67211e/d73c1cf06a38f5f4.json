@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e5:2428l_v2",
-  "deprecated": true,
-  "deprecation_date": "2020-05-05T11:27:28.293Z",
-  "title": [
-    {
-      "text": "Intel Xeon E5 2428L V2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e5:2428l_v2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-05T07:27:28.293-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e5_2428l_v2:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e5:2428l_v2",
+	"deprecated": true,
+	"deprecation_date": "2020-05-05T11:27:28.293Z",
+	"title": [
+		{
+			"text": "Intel Xeon E5 2428L V2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e5:2428l_v2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-05T07:27:28.293-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e5_2428l_v2:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

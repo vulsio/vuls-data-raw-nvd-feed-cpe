@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dell:dp5900_firmware:2.6",
-  "title": [
-    {
-      "text": "Dell Dp5900 Firmware 2.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/en-us/dt/data-protection/powerprotect-backup-appliances/powerprotect-dp-backup-appliances.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000206329/dsa-2022-348-dell-emc-data-protection-central-security-update-for-proprietary-code-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dell:dp5900_firmware:2.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dell:dp5900_firmware:2.6",
+	"title": [
+		{
+			"text": "Dell Dp5900 Firmware 2.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/en-us/dt/data-protection/powerprotect-backup-appliances/powerprotect-dp-backup-appliances.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000206329/dsa-2022-348-dell-emc-data-protection-central-security-update-for-proprietary-code-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dell:dp5900_firmware:2.6:*:*:*:*:*:*:*"
+	}
 }

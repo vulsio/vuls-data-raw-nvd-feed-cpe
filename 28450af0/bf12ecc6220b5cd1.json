@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:adobe:acrobat_reader:17.011.30066::~~classic~~~",
-  "deprecated": true,
-  "deprecation_date": "2019-08-21T16:19:58.083Z",
-  "title": [
-    {
-      "text": "Adobe Acrobat Reader 17.011.30066 Classic Track",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/acrobat/apsb17-24.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:acrobat_reader:17.011.30066:*:*:*:classic:*:*:*",
-    "deprecation": {
-      "date": "2019-08-21T12:19:58.083-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:acrobat_reader_dc:17.011.30066:*:*:*:classic:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:acrobat_reader:17.011.30066::~~classic~~~",
+	"deprecated": true,
+	"deprecation_date": "2019-08-21T16:19:58.083Z",
+	"title": [
+		{
+			"text": "Adobe Acrobat Reader 17.011.30066 Classic Track",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/acrobat/apsb17-24.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:acrobat_reader:17.011.30066:*:*:*:classic:*:*:*",
+		"deprecation": {
+			"date": "2019-08-21T12:19:58.083-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:acrobat_reader_dc:17.011.30066:*:*:*:classic:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

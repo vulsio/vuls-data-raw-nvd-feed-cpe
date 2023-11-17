@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:espressif:esp32-vaquita-dspg_firmware:3.0",
-  "title": [
-    {
-      "text": "Espressif ESP32-VAQUITA-DSPG FIRMWARE 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.espressif.com/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.espressif.com/sites/default/files/advisory_downloads/AR2023-005%20Security%20Advisory%20Concerning%20Bypassing%20Secure%20Boot%20and%20Flash%20Encryption%20Using%20EMFI%20EN.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.espressif.com/en/products/socs/esp32"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:espressif:esp32-vaquita-dspg_firmware:3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:espressif:esp32-vaquita-dspg_firmware:3.0",
+	"title": [
+		{
+			"text": "Espressif ESP32-VAQUITA-DSPG FIRMWARE 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.espressif.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.espressif.com/sites/default/files/advisory_downloads/AR2023-005%20Security%20Advisory%20Concerning%20Bypassing%20Secure%20Boot%20and%20Flash%20Encryption%20Using%20EMFI%20EN.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.espressif.com/en/products/socs/esp32"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:espressif:esp32-vaquita-dspg_firmware:3.0:*:*:*:*:*:*:*"
+	}
 }

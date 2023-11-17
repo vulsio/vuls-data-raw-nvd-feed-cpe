@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:ssh:1.5::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins SSH 1.5 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/ssh-plugin/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/jenkinsci/ssh-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:ssh:1.5:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:ssh:1.5::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins SSH 1.5 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/ssh-plugin/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/jenkinsci/ssh-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:ssh:1.5:*:*:*:*:jenkins:*:*"
+	}
 }

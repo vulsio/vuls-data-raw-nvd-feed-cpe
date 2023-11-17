@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pi-hole:web_interface:5.14.2",
-  "title": [
-    {
-      "text": "Pi-hole Web Interface 5.14.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/pi-hole/AdminLTE/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://pi-hole.net/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-33w4-xf7m-f82m"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pi-hole:web_interface:5.14.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pi-hole:web_interface:5.14.2",
+	"title": [
+		{
+			"text": "Pi-hole Web Interface 5.14.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/pi-hole/AdminLTE/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://pi-hole.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-33w4-xf7m-f82m"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pi-hole:web_interface:5.14.2:*:*:*:*:*:*:*"
+	}
 }

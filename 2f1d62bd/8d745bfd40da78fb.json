@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hasthemes:ht_menu:1.2.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Has Themes HT Menu 1.2.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ht-menu-lite/wordpress-ht-menu-wordpress-mega-menu-builder-for-elementor-plugin-1-2-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/ht-menu-lite/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hasthemes:ht_menu:1.2.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:hasthemes:ht_menu:1.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Has Themes HT Menu 1.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ht-menu-lite/wordpress-ht-menu-wordpress-mega-menu-builder-for-elementor-plugin-1-2-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ht-menu-lite/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hasthemes:ht_menu:1.2.0:*:*:*:*:wordpress:*:*"
+	}
 }

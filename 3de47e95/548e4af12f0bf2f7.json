@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:juniper:junos:22.4:r2-1",
-  "deprecated": true,
-  "deprecation_date": "2023-10-19T17:47:14.880Z",
-  "title": [
-    {
-      "text": "Juniper JUNOS 22.4 R2-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.juniper.net/documentation/product/us/en/junos-os/#cat=release_notes&tab=release_22.4&sgroup=junos-os"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos:22.4:r2-1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-19T13:47:14.880-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:juniper:junos:22.4:r2-s1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:juniper:junos:22.4:r2-1",
+	"deprecated": true,
+	"deprecation_date": "2023-10-19T17:47:14.880Z",
+	"title": [
+		{
+			"text": "Juniper JUNOS 22.4 R2-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/us/en/junos-os/#cat=release_notes&tab=release_22.4&sgroup=junos-os"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:22.4:r2-1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-19T13:47:14.880-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:juniper:junos:22.4:r2-s1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

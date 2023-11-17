@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:amazon:tough:0.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-10-20T15:17:45.733Z",
-  "title": [
-    {
-      "text": "Amazon Tough 0.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/awslabs/tough/security/advisories/GHSA-5q2r-92f9-4m49"
-    },
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/tough/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-20T11:17:45.733-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:amazon:tough:0.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-10-20T15:17:45.733Z",
+	"title": [
+		{
+			"text": "Amazon Tough 0.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/awslabs/tough/security/advisories/GHSA-5q2r-92f9-4m49"
+		},
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/tough/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-20T11:17:45.733-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:amazon:tough:0.1.0:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

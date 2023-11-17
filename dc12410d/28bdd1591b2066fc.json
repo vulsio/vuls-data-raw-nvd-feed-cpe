@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:squaredup:squaredup:4.6::~~~azure~~",
-  "deprecated": true,
-  "deprecation_date": "2021-12-09T14:09:43.287Z",
-  "title": [
-    {
-      "text": "SquaredUp 4.6 for Azure",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:*:azure:*:*",
-    "deprecation": {
-      "date": "2021-12-09T09:09:43.287-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:azure:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:squaredup:squaredup:4.6::~~~azure~~",
+	"deprecated": true,
+	"deprecation_date": "2021-12-09T14:09:43.287Z",
+	"title": [
+		{
+			"text": "SquaredUp 4.6 for Azure",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:*:azure:*:*",
+		"deprecation": {
+			"date": "2021-12-09T09:09:43.287-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:azure:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

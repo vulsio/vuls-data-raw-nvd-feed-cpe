@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:blender:blender:3.3.0:alpha",
-  "title": [
-    {
-      "text": "Blender 3.3.0 Alpha",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2831.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://developer.blender.org/T99705"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blender:blender:3.3.0:alpha:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:blender:blender:3.3.0:alpha",
+	"title": [
+		{
+			"text": "Blender 3.3.0 Alpha",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2831.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.blender.org/T99705"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blender:blender:3.3.0:alpha:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amazon:elastic_load_balancing:1.0.12.0",
-  "title": [
-    {
-      "text": "Amazon Elastic Load Balancing 1.0.12.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.aws.amazon.com/elasticloadbalancing/latest/APIReference/Welcome.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://aws.amazon.com/elasticloadbalancing/?whats-new-cards-elb.sort-by=item.additionalFields.postDateTime&whats-new-cards-elb.sort-order=desc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:elastic_load_balancing:1.0.12.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:amazon:elastic_load_balancing:1.0.12.0",
+	"title": [
+		{
+			"text": "Amazon Elastic Load Balancing 1.0.12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.aws.amazon.com/elasticloadbalancing/latest/APIReference/Welcome.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://aws.amazon.com/elasticloadbalancing/?whats-new-cards-elb.sort-by=item.additionalFields.postDateTime&whats-new-cards-elb.sort-order=desc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:elastic_load_balancing:1.0.12.0:*:*:*:*:*:*:*"
+	}
 }

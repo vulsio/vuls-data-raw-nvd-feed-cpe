@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:glassfish_communications_server:2.0",
-  "title": [
-    {
-      "text": "Oracle GlassFish Communications Server 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.oracle.com/cd/E19502-01/821-0199/821-0199.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujul2014.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:glassfish_communications_server:2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:glassfish_communications_server:2.0",
+	"title": [
+		{
+			"text": "Oracle GlassFish Communications Server 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.oracle.com/cd/E19502-01/821-0199/821-0199.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujul2014.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:glassfish_communications_server:2.0:*:*:*:*:*:*:*"
+	}
 }

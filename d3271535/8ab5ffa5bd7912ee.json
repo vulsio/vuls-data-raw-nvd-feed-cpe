@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitea:gitea:1.4.4::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Gitea 1.4.4 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-2661"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.jenkins.io/gitea/#releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitea:gitea:1.4.4:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:gitea:gitea:1.4.4::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Gitea 1.4.4 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-2661"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/gitea/#releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitea:gitea:1.4.4:*:*:*:*:jenkins:*:*"
+	}
 }

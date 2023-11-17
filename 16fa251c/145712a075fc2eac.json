@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:northern.tech:cfengine:3.18.1::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Northern.tech CFEngine 3.18.1 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://northern.tech/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cfengine.com/blog/2022/cve-2021-44215-and-cve-2021-44216/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cfengine/core/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:northern.tech:cfengine:3.18.1:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:northern.tech:cfengine:3.18.1::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Northern.tech CFEngine 3.18.1 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://northern.tech/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cfengine.com/blog/2022/cve-2021-44215-and-cve-2021-44216/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cfengine/core/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:northern.tech:cfengine:3.18.1:*:*:*:enterprise:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:juniper:junos:21.3:r3-s5",
-  "title": [
-    {
-      "text": "Juniper JUNOS 21.3 R3-S5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.juniper.net/documentation/product/us/en/junos-os/#cat=release_notes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportportal.juniper.net/s/article/2023-08-Out-of-Cycle-Security-Bulletin-Junos-OS-SRX-Series-and-EX-Series-Multiple-vulnerabilities-in-J-Web-can-be-combined-to-allow-a-preAuth-Remote-Code-Execution?language=en_US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos:21.3:r3-s5:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:juniper:junos:21.3:r3-s5",
+	"title": [
+		{
+			"text": "Juniper JUNOS 21.3 R3-S5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/us/en/junos-os/#cat=release_notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2023-08-Out-of-Cycle-Security-Bulletin-Junos-OS-SRX-Series-and-EX-Series-Multiple-vulnerabilities-in-J-Web-can-be-combined-to-allow-a-preAuth-Remote-Code-Execution?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:21.3:r3-s5:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:e7520:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:38:51.827Z",
-  "title": [
-    {
-      "text": "Intel Xeon E7520",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:e7520:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:38:51.827-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e7520:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:e7520:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:38:51.827Z",
+	"title": [
+		{
+			"text": "Intel Xeon E7520",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:e7520:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:38:51.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e7520:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

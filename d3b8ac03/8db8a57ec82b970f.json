@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:dpdgroup:woocommerce_shipping:1.2.11::~~~wordpress~~",
-  "title": [
-    {
-      "text": "DPDgroup WooCommerce Shipping 1.2.11 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/625ae924-68db-4579-a34f-e6f33aa33643"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/woo-shipping-dpd-baltic/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dpd.com/group/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dpdgroup:woocommerce_shipping:1.2.11:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:dpdgroup:woocommerce_shipping:1.2.11::~~~wordpress~~",
+	"title": [
+		{
+			"text": "DPDgroup WooCommerce Shipping 1.2.11 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/625ae924-68db-4579-a34f-e6f33aa33643"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/woo-shipping-dpd-baltic/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dpd.com/group/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dpdgroup:woocommerce_shipping:1.2.11:*:*:*:*:wordpress:*:*"
+	}
 }

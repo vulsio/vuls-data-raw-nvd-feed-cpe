@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:swamp:1.2.4::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins SWAMP 1.2.4 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.jenkins.io/doc/pipeline/steps/swamp/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/swamp-plugin/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:swamp:1.2.4:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:swamp:1.2.4::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins SWAMP 1.2.4 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.jenkins.io/doc/pipeline/steps/swamp/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/swamp-plugin/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:swamp:1.2.4:*:*:*:*:jenkins:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:defender_for_endpoint:-::~~~-~~",
-  "title": [
-    {
-      "text": "Microsoft Defender For Endpoint",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-23278"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:-:*:*"
-  }
+	"name": "cpe:/a:microsoft:defender_for_endpoint:-::~~~-~~",
+	"title": [
+		{
+			"text": "Microsoft Defender For Endpoint",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint?view=o365-worldwide"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-23278"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:defender_for_endpoint:-:*:*:*:*:-:*:*"
+	}
 }

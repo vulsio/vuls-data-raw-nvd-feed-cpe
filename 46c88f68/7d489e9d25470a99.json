@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:pinniped:0.9.2",
-  "title": [
-    {
-      "text": "VMware Pinniped 0.9.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/vmware-tanzu/pinniped/security/advisories/GHSA-hvrf-5hhv-4348"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/vmware-tanzu/pinniped/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:pinniped:0.9.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:pinniped:0.9.2",
+	"title": [
+		{
+			"text": "VMware Pinniped 0.9.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/vmware-tanzu/pinniped/security/advisories/GHSA-hvrf-5hhv-4348"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/vmware-tanzu/pinniped/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:pinniped:0.9.2:*:*:*:*:*:*:*"
+	}
 }

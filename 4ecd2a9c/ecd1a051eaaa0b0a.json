@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vmware:esxi:6.0:u3",
-  "title": [
-    {
-      "text": "VMware ESXi 6.0 Update 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.vmware.com/products/esxi-and-esx.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://kb.vmware.com/selfservice/search.do?cmd=displayKC&docType=kc&docTypeID=DT_KB_1_1&externalId=2143832"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:esxi:6.0:u3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vmware:esxi:6.0:u3",
+	"title": [
+		{
+			"text": "VMware ESXi 6.0 Update 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.vmware.com/products/esxi-and-esx.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://kb.vmware.com/selfservice/search.do?cmd=displayKC&docType=kc&docTypeID=DT_KB_1_1&externalId=2143832"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:esxi:6.0:u3:*:*:*:*:*:*"
+	}
 }

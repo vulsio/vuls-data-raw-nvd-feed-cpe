@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pivotal_software:cloud_foundry_uaa_release:3",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T14:47:03.650Z",
-  "title": [
-    {
-      "text": "Pivotal Software Cloud Foundry UAA Release 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/cloudfoundry/uaa/tree/2.7.4.1"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/uaa-release"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.pivotal.io/pivotalcf/1-6/concepts/architecture/uaa.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T10:47:03.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:cloud_foundry_uaa_release:3",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T14:47:03.650Z",
+	"title": [
+		{
+			"text": "Pivotal Software Cloud Foundry UAA Release 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudfoundry/uaa/tree/2.7.4.1"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/uaa-release"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.pivotal.io/pivotalcf/1-6/concepts/architecture/uaa.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:cloud_foundry_uaa_release:3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T10:47:03.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:cloud_foundry_uaa_bosh:3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

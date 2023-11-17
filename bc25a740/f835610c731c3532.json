@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:suse:linux_enterprise_desktop:15:sp1",
-  "title": [
-    {
-      "text": "SUSE Linux Enterprise Desktop 15 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://documentation.suse.com/sled/15-SP1/pdf/art-sle-installquick_color_en.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.suse.com/security/cve/CVE-2020-8016/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:linux_enterprise_desktop:15:sp1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:suse:linux_enterprise_desktop:15:sp1",
+	"title": [
+		{
+			"text": "SUSE Linux Enterprise Desktop 15 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://documentation.suse.com/sled/15-SP1/pdf/art-sle-installquick_color_en.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.suse.com/security/cve/CVE-2020-8016/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:linux_enterprise_desktop:15:sp1:*:*:*:*:*:*"
+	}
 }

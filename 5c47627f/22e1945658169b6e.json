@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:introscope_workstation:8.2.3.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T17:10:29.380Z",
-  "title": [
-    {
-      "text": "Ca Introscope Workstation 8.2.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T13:10:29.380-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:introscope_workstation:8.2.3.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T17:10:29.380Z",
+	"title": [
+		{
+			"text": "Ca Introscope Workstation 8.2.3.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T13:10:29.380-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:introscope_workstation:8.2.3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:opentext:bizmanager:16.6.0.1",
-  "title": [
-    {
-      "text": "OpenText BizManager 16.6.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.opentext.com/products/b2b-gateway"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://hackandpwn.com/disclosures/CVE-2022-35898.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opentext:bizmanager:16.6.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opentext:bizmanager:16.6.0.1",
+	"title": [
+		{
+			"text": "OpenText BizManager 16.6.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.opentext.com/products/b2b-gateway"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackandpwn.com/disclosures/CVE-2022-35898.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opentext:bizmanager:16.6.0.1:*:*:*:*:*:*:*"
+	}
 }

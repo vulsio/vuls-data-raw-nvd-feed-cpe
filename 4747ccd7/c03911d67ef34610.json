@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mavcash_project:mavcash:-",
-  "title": [
-    {
-      "text": "MAVCash Project MAVCash",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0x61dc161B06088b9cbaaD53391134929A83D1EB7A"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mavcash_project:mavcash:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mavcash_project:mavcash:-",
+	"title": [
+		{
+			"text": "MAVCash Project MAVCash",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0x61dc161B06088b9cbaaD53391134929A83D1EB7A"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mavcash_project:mavcash:-:*:*:*:*:*:*:*"
+	}
 }

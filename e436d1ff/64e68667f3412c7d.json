@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:intel:connection_manager:1.32",
-  "title": [
-    {
-      "text": "Intel Connection Manager (ConnMan) 1.32",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2021/06/09/1"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/203376"
-    },
-    {
-      "text": "Version",
-      "href": "https://git.kernel.org/pub/scm/network/connman/connman.git/refs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:connection_manager:1.32:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:connection_manager:1.32",
+	"title": [
+		{
+			"text": "Intel Connection Manager (ConnMan) 1.32",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/06/09/1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/203376"
+		},
+		{
+			"text": "Version",
+			"href": "https://git.kernel.org/pub/scm/network/connman/connman.git/refs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:connection_manager:1.32:*:*:*:*:*:*:*"
+	}
 }

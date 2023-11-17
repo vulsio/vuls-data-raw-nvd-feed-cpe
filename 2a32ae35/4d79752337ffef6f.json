@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/h:cisco:vpc-di:-",
-  "title": [
-    {
-      "text": "Cisco VPC-DI",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-staros-ssh-privesc-BmWeJC3h"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:vpc-di:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:cisco:vpc-di:-",
+	"title": [
+		{
+			"text": "Cisco VPC-DI",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-staros-ssh-privesc-BmWeJC3h"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:vpc-di:-:*:*:*:*:*:*:*"
+	}
 }

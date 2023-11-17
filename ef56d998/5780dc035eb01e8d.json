@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:xmlsoft:libxml2:2.9.4",
-  "deprecated": true,
-  "deprecation_date": "2020-02-18T19:23:45.623Z",
-  "title": [
-    {
-      "text": "XMLSoft Libxml2 2.9.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://xmlsoft.org/news.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xmlsoft:libxml2:2.9.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-18T14:23:45.623-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xmlsoft:libxml2:2.9.4:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xmlsoft:libxml2:2.9.4",
+	"deprecated": true,
+	"deprecation_date": "2020-02-18T19:23:45.623Z",
+	"title": [
+		{
+			"text": "XMLSoft Libxml2 2.9.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://xmlsoft.org/news.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xmlsoft:libxml2:2.9.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-18T14:23:45.623-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xmlsoft:libxml2:2.9.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

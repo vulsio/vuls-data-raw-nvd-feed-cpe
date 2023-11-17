@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:zyxel:atp:-",
-  "title": [
-    {
-      "text": "Zyxel ATP",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.zyxel.com/me/en/homepage.shtml"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.zyxelguard.com/ATP-Firewalls.asp"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-command-injection-vulnerability-of-firewalls.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:zyxel:atp:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:zyxel:atp:-",
+	"title": [
+		{
+			"text": "Zyxel ATP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/me/en/homepage.shtml"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.zyxelguard.com/ATP-Firewalls.asp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-command-injection-vulnerability-of-firewalls.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:zyxel:atp:-:*:*:*:*:*:*:*"
+	}
 }

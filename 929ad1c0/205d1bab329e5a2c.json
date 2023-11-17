@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:heat-trakr_project:heat-trackr:1.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-04-21T14:26:35.487Z",
-  "title": [
-    {
-      "text": "Heat-trakr Project Heat-trackr 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.vapidlabs.com/wp/wp_advisory.php?v=798"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:heat-trakr_project:heat-trackr:1.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-04-21T10:26:35.487-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:heat-trackr_project:heat-trackr:1.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:heat-trakr_project:heat-trackr:1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-04-21T14:26:35.487Z",
+	"title": [
+		{
+			"text": "Heat-trakr Project Heat-trackr 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.vapidlabs.com/wp/wp_advisory.php?v=798"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:heat-trakr_project:heat-trackr:1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-04-21T10:26:35.487-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:heat-trackr_project:heat-trackr:1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

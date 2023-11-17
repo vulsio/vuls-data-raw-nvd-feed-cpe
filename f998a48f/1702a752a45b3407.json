@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:intel:nios_ii:1.1",
-  "deprecated": true,
-  "deprecation_date": "2020-03-18T15:02:43.450Z",
-  "title": [
-    {
-      "text": "NIOS II 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/nios2/n2cpu_nii5v1.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:nios_ii:1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-18T11:02:43.450-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:nios_ii:1.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:intel:nios_ii:1.1",
+	"deprecated": true,
+	"deprecation_date": "2020-03-18T15:02:43.450Z",
+	"title": [
+		{
+			"text": "NIOS II 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/nios2/n2cpu_nii5v1.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:nios_ii:1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-18T11:02:43.450-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:nios_ii:1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

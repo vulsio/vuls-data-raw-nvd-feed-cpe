@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:windriver:diabcompiler:4.4:b",
-  "deprecated": true,
-  "deprecation_date": "2020-03-20T15:45:52.113Z",
-  "title": [
-    {
-      "text": "Windriver Diabcompiler 4.4b",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.yumpu.com/en/document/read/16260779/diab-compiler-suite-wind-river"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:windriver:diabcompiler:4.4:b:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-20T11:45:52.113-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:windriver:diabcompiler:4.4:b",
+	"deprecated": true,
+	"deprecation_date": "2020-03-20T15:45:52.113Z",
+	"title": [
+		{
+			"text": "Windriver Diabcompiler 4.4b",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.yumpu.com/en/document/read/16260779/diab-compiler-suite-wind-river"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:windriver:diabcompiler:4.4:b:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-20T11:45:52.113-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:windriver:diabcompiler:4.4b:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

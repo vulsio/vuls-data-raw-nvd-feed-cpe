@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:wildfly_elytron:1.16.1",
-  "title": [
-    {
-      "text": "Red Hat Wildfly Elytron 1.16.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/wildfly-security/wildfly-elytron/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1981407"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-3642"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly_elytron:1.16.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:wildfly_elytron:1.16.1",
+	"title": [
+		{
+			"text": "Red Hat Wildfly Elytron 1.16.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/wildfly-security/wildfly-elytron/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1981407"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-3642"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly_elytron:1.16.1:*:*:*:*:*:*:*"
+	}
 }

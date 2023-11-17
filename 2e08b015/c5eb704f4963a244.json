@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:jboss_application_server:7.1.0:beta1",
-  "title": [
-    {
-      "text": "Red Hat Jboss Application Server 7.1.0 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/cve-2011-3606"
-    },
-    {
-      "text": "Version",
-      "href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3.beta/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jboss_application_server:7.1.0:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jboss_application_server:7.1.0:beta1",
+	"title": [
+		{
+			"text": "Red Hat Jboss Application Server 7.1.0 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/cve-2011-3606"
+		},
+		{
+			"text": "Version",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/7.3.beta/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jboss_application_server:7.1.0:beta1:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:f5:big-ip_controller:1.1.1::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "F5 Big-IP Controller 1.1.1 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.1/manage_network/f5_bigip.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.f5.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/F5Networks/k8s-bigip-ctlr/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:f5:big-ip_controller:1.1.1:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:f5:big-ip_controller:1.1.1::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "F5 Big-IP Controller 1.1.1 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.1/manage_network/f5_bigip.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.f5.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/F5Networks/k8s-bigip-ctlr/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f5:big-ip_controller:1.1.1:*:*:*:*:kubernetes:*:*"
+	}
 }

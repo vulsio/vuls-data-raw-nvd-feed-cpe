@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:samba:ppp:2.4.6",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:55:38.023Z",
-  "title": [
-    {
-      "text": "Samba ppp 2.4.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "https://ppp.samba.org/index.html"
-    },
-    {
-      "text": "Product changelog",
-      "href": "https://github.com/paulusmack/ppp/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:ppp:2.4.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:55:38.023-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:ppp:2.4.6",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:55:38.023Z",
+	"title": [
+		{
+			"text": "Samba ppp 2.4.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "https://ppp.samba.org/index.html"
+		},
+		{
+			"text": "Product changelog",
+			"href": "https://github.com/paulusmack/ppp/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:ppp:2.4.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:55:38.023-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

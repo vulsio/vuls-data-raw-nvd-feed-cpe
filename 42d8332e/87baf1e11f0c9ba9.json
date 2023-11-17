@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:ibm:storwize_v7000_firmware:8.2.1.6",
-  "title": [
-    {
-      "text": "IBM Storwize V7000 Firmware 8.2.1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.lenovo.com/us/en/downloads/ds120386-firmware-update-bundle-v78112-storwize-v7000-for-lenovo"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ibm.com/us-en/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=Software%20defined%20storage&product=ibm/StorageSoftware/IBM+Spectrum+Virtualize+software&release=8.1&platform=All&function=all"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ibm:storwize_v7000_firmware:8.2.1.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ibm:storwize_v7000_firmware:8.2.1.6",
+	"title": [
+		{
+			"text": "IBM Storwize V7000 Firmware 8.2.1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.lenovo.com/us/en/downloads/ds120386-firmware-update-bundle-v78112-storwize-v7000-for-lenovo"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ibm.com/us-en/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=Software%20defined%20storage&product=ibm/StorageSoftware/IBM+Spectrum+Virtualize+software&release=8.1&platform=All&function=all"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ibm:storwize_v7000_firmware:8.2.1.6:*:*:*:*:*:*:*"
+	}
 }

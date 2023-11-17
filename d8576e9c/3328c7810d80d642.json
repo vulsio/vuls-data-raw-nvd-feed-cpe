@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:sun:java_desktop_system:2",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:03.727Z",
-  "title": [
-    {
-      "text": "Sun Java Desktop System 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sun:java_desktop_system:2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:03.727-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:sun:java_desktop_system:2",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:03.727Z",
+	"title": [
+		{
+			"text": "Sun Java Desktop System 2.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sun:java_desktop_system:2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:03.727-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sun:java_desktop_system:2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

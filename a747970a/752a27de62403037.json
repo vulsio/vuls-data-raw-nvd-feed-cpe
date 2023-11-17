@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2003:-::x64",
-  "deprecated": true,
-  "deprecation_date": "2019-02-26T14:00:10.210Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2003 x64 (64-bit)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:x64:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-02-26T09:00:10.210-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2003:-::x64",
+	"deprecated": true,
+	"deprecation_date": "2019-02-26T14:00:10.210Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2003 x64 (64-bit)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:x64:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-02-26T09:00:10.210-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2003:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

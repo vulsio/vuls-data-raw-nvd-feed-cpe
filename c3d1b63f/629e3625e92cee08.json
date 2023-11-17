@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:newrelic:service_broker:1.12.64::~~~pivotal_cloud_foundry~~",
-  "title": [
-    {
-      "text": "Newrelic Service Broker 1.12.64 for Pivotal Cloud Foundry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/partners/newrelic/release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*"
-  }
+	"name": "cpe:/a:newrelic:service_broker:1.12.64::~~~pivotal_cloud_foundry~~",
+	"title": [
+		{
+			"text": "Newrelic Service Broker 1.12.64 for Pivotal Cloud Foundry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/partners/newrelic/release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:newrelic:service_broker:1.12.64:*:*:*:*:pivotal_cloud_foundry:*:*"
+	}
 }

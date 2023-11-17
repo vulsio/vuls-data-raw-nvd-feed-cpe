@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:http4s:blaze:0.14.0:milestone8",
-  "deprecated": true,
-  "deprecation_date": "2021-02-03T21:08:15.467Z",
-  "title": [
-    {
-      "text": "http4s blaze 0.14.0 Milestone 8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://http4s.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/http4s/blaze"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:http4s:blaze:0.14.0:milestone8:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-03T16:08:15.467-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:typelevel:blaze:0.14.0:milestone8:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:http4s:blaze:0.14.0:milestone8",
+	"deprecated": true,
+	"deprecation_date": "2021-02-03T21:08:15.467Z",
+	"title": [
+		{
+			"text": "http4s blaze 0.14.0 Milestone 8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://http4s.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/http4s/blaze"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:http4s:blaze:0.14.0:milestone8:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-03T16:08:15.467-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:typelevel:blaze:0.14.0:milestone8:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

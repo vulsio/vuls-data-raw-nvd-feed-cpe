@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:crestron:airmedia_am-100_firmware:1.4.0.12",
-  "title": [
-    {
-      "text": "Crestron AirMedia AM-100 Firmware 1.4.0.12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://tsecurity.de/de/58049/Reverse-Engineering/Exploits/Crestron-AirMedia-AM-100-bis-1.4.0.12-cgi-bin/login.cgi-src-Directory-Traversal/"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.crestron.com/products/model/AM-100"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:crestron:airmedia_am-100_firmware:1.4.0.12:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:crestron:airmedia_am-100_firmware:1.4.0.12",
+	"title": [
+		{
+			"text": "Crestron AirMedia AM-100 Firmware 1.4.0.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tsecurity.de/de/58049/Reverse-Engineering/Exploits/Crestron-AirMedia-AM-100-bis-1.4.0.12-cgi-bin/login.cgi-src-Directory-Traversal/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.crestron.com/products/model/AM-100"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:crestron:airmedia_am-100_firmware:1.4.0.12:*:*:*:*:*:*:*"
+	}
 }

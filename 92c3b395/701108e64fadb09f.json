@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hashicorp:nomad:1.2.2::~~enterprise~~~",
-  "title": [
-    {
-      "text": "HashiCorp Nomad 1.2.2 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/hashicorp/nomad/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.nomadproject.io/docs/enterprise"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.hashicorp.com/blog/products/nomad"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:nomad:1.2.2:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:nomad:1.2.2::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Nomad 1.2.2 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/hashicorp/nomad/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.nomadproject.io/docs/enterprise"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/blog/products/nomad"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:nomad:1.2.2:*:*:*:enterprise:*:*:*"
+	}
 }

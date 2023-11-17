@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:freebsd:freebsd:11.3:p11",
-  "title": [
-    {
-      "text": "FreeBSD 11.3 Patch 11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.FreeBSD.org/advisories/FreeBSD-SA-20:23.sendmsg.asc"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.freebsd.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://bokut.in/freebsd-patch-level-table/#releng/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:freebsd:freebsd:11.3:p11:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:freebsd:freebsd:11.3:p11",
+	"title": [
+		{
+			"text": "FreeBSD 11.3 Patch 11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.FreeBSD.org/advisories/FreeBSD-SA-20:23.sendmsg.asc"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.freebsd.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://bokut.in/freebsd-patch-level-table/#releng/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:11.3:p11:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:digium:asterisk:b.2.3.0::~~business~~~",
-  "title": [
-    {
-      "text": "Digium Asterisk B.2.3.0 Business Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://downloads.asterisk.org/pub/security/AST-2007-026.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.digium.com/products/asterisk"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digium:asterisk:b.2.3.0:*:*:*:business:*:*:*"
-  }
+	"name": "cpe:/a:digium:asterisk:b.2.3.0::~~business~~~",
+	"title": [
+		{
+			"text": "Digium Asterisk B.2.3.0 Business Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://downloads.asterisk.org/pub/security/AST-2007-026.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.digium.com/products/asterisk"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digium:asterisk:b.2.3.0:*:*:*:business:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:zohocorp:manageengine_opmanager:12.3:123161",
-  "deprecated": true,
-  "deprecation_date": "2021-05-04T14:58:48.970Z",
-  "title": [
-    {
-      "text": "ZohoCorp ManageEngine OpManager 12.3 123161",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.manageengine.com/network-monitoring/?pos=MEhome&loc=ProdMenu&cat=ITOM&prev=AB3"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.zohocorp.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.manageengine.com/network-monitoring/help/read-me-complete.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:123161:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-04T10:58:48.970-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:build123161:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zohocorp:manageengine_opmanager:12.3:123161",
+	"deprecated": true,
+	"deprecation_date": "2021-05-04T14:58:48.970Z",
+	"title": [
+		{
+			"text": "ZohoCorp ManageEngine OpManager 12.3 123161",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.manageengine.com/network-monitoring/?pos=MEhome&loc=ProdMenu&cat=ITOM&prev=AB3"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zohocorp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.manageengine.com/network-monitoring/help/read-me-complete.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:123161:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-04T10:58:48.970-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_opmanager:12.3:build123161:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

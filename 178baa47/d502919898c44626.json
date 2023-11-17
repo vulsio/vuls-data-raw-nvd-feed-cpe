@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:tecrail:responsive_filemanager:.9.10.1",
-  "deprecated": true,
-  "deprecation_date": "2023-02-21T19:09:46.910Z",
-  "title": [
-    {
-      "text": "tecrail Responsive FileManager .9.10.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://responsivefilemanager.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/trippo/ResponsiveFilemanager/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tecrail:responsive_filemanager:.9.10.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-21T14:09:46.910-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tecrail:responsive_filemanager:9.10.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tecrail:responsive_filemanager:.9.10.1",
+	"deprecated": true,
+	"deprecation_date": "2023-02-21T19:09:46.910Z",
+	"title": [
+		{
+			"text": "tecrail Responsive FileManager .9.10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://responsivefilemanager.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/trippo/ResponsiveFilemanager/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tecrail:responsive_filemanager:.9.10.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-21T14:09:46.910-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tecrail:responsive_filemanager:9.10.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

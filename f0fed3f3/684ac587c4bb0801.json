@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linuxfoundation:cortex:1.13.1",
-  "title": [
-    {
-      "text": "The Linux Foundation Cortex 1.13.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cortexproject/cortex/security/advisories/GHSA-cq2g-pw6q-hf7j"
-    },
-    {
-      "text": "Product",
-      "href": "https://cortexmetrics.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cortexproject/cortex/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:cortex:1.13.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:cortex:1.13.1",
+	"title": [
+		{
+			"text": "The Linux Foundation Cortex 1.13.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cortexproject/cortex/security/advisories/GHSA-cq2g-pw6q-hf7j"
+		},
+		{
+			"text": "Product",
+			"href": "https://cortexmetrics.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cortexproject/cortex/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:cortex:1.13.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:accruent:maintenance_connection:2021",
-  "title": [
-    {
-      "text": "Accruent Maintenance Connection 2021",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/46xxx/CVE-2022-46501.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://maintenanceconnection.ca/zero-day-flaw-in-accruent-software/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.accruent.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:accruent:maintenance_connection:2021:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:accruent:maintenance_connection:2021",
+	"title": [
+		{
+			"text": "Accruent Maintenance Connection 2021",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/46xxx/CVE-2022-46501.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://maintenanceconnection.ca/zero-day-flaw-in-accruent-software/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.accruent.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:accruent:maintenance_connection:2021:*:*:*:*:*:*:*"
+	}
 }

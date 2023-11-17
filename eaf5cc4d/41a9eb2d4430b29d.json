@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:gigpress:gigpress:2.3.8::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-08-19T16:27:32.457Z",
-  "title": [
-    {
-      "text": "GigPress for WordPress 2.3.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://gigpress.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gigpress:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-08-19T12:27:32.457-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tri:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gigpress:gigpress:2.3.8::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-08-19T16:27:32.457Z",
+	"title": [
+		{
+			"text": "GigPress for WordPress 2.3.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://gigpress.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gigpress:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-08-19T12:27:32.457-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tri:gigpress:2.3.8:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

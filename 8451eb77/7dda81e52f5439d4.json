@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:webport_project:webport:1.19.17121",
-  "deprecated": true,
-  "deprecation_date": "2021-09-28T17:34:17.037Z",
-  "title": [
-    {
-      "text": "WebPort Project WebPort 1.19.17121",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/r0ck3t1973/xss_payload/issues/1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:webport_project:webport:1.19.17121:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-28T13:34:17.037-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:webport:web_port:1.19.17121:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:webport_project:webport:1.19.17121",
+	"deprecated": true,
+	"deprecation_date": "2021-09-28T17:34:17.037Z",
+	"title": [
+		{
+			"text": "WebPort Project WebPort 1.19.17121",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/r0ck3t1973/xss_payload/issues/1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:webport_project:webport:1.19.17121:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-28T13:34:17.037-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:webport:web_port:1.19.17121:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

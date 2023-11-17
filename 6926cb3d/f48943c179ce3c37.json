@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pjsip:pjsip:2.7.1",
-  "deprecated": true,
-  "deprecation_date": "2021-09-02T14:49:19.527Z",
-  "title": [
-    {
-      "text": "PJSIP 2.7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://trac.pjsip.org/repos/milestone/release-2.7.1"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.pjsip.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pjsip:pjsip:2.7.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-02T10:49:19.527-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pjsip:pjsip:2.7.1",
+	"deprecated": true,
+	"deprecation_date": "2021-09-02T14:49:19.527Z",
+	"title": [
+		{
+			"text": "PJSIP 2.7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://trac.pjsip.org/repos/milestone/release-2.7.1"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.pjsip.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pjsip:pjsip:2.7.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-02T10:49:19.527-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:teluu:pjsip:2.7.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

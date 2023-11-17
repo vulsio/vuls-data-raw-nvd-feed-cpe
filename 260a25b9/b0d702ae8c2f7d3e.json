@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:civetweb_project:civetweb:1.15",
-  "title": [
-    {
-      "text": "CivetWeb Project CivetWeb 1.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/civetweb/civetweb/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://groups.google.com/g/civetweb/c/yPBxNXdGgJQ"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jfrog.com/blog/cve-2020-27304-rce-via-directory-traversal-in-civetweb-http-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:civetweb_project:civetweb:1.15:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:civetweb_project:civetweb:1.15",
+	"title": [
+		{
+			"text": "CivetWeb Project CivetWeb 1.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/civetweb/civetweb/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://groups.google.com/g/civetweb/c/yPBxNXdGgJQ"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jfrog.com/blog/cve-2020-27304-rce-via-directory-traversal-in-civetweb-http-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:civetweb_project:civetweb:1.15:*:*:*:*:*:*:*"
+	}
 }

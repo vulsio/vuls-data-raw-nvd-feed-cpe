@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:docker:docker:19.03.1",
-  "deprecated": true,
-  "deprecation_date": "2019-11-04T16:27:34.860Z",
-  "title": [
-    {
-      "text": "Docker 19.03.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/engine/release-notes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker:19.03.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-04T11:27:34.860-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:docker:docker:19.03.1:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:docker:docker:19.03.1",
+	"deprecated": true,
+	"deprecation_date": "2019-11-04T16:27:34.860Z",
+	"title": [
+		{
+			"text": "Docker 19.03.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/engine/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker:19.03.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-04T11:27:34.860-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:docker:docker:19.03.1:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:terraform_enterprise:202109-1",
-  "title": [
-    {
-      "text": "Hashicorp Terraform Enterprise 202109-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.hashicorp.com/products/terraform"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-25-terraform-enterprise-configuration-versions-api-discloses-sensitive-url/29508"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:terraform_enterprise:202109-1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:terraform_enterprise:202109-1",
+	"title": [
+		{
+			"text": "Hashicorp Terraform Enterprise 202109-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/products/terraform"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-25-terraform-enterprise-configuration-versions-api-discloses-sensitive-url/29508"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:terraform_enterprise:202109-1:*:*:*:*:*:*:*"
+	}
 }

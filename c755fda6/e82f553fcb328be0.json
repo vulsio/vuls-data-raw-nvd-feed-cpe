@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:matrix:matrix_irc_bridge:0.35.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Matrix IRC Bridge 0.35.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.matrix.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/matrix-appservice-irc"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/matrix-org/matrix-appservice-irc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:matrix:matrix_irc_bridge:0.35.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:matrix:matrix_irc_bridge:0.35.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Matrix IRC Bridge 0.35.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.matrix.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/matrix-appservice-irc"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/matrix-org/matrix-appservice-irc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matrix:matrix_irc_bridge:0.35.1:*:*:*:*:node.js:*:*"
+	}
 }

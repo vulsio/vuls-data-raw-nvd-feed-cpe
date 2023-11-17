@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:amd:ryzen_5_1600_af:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) Ryzen 5 1600 AF",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/AMD-SB-1045"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cpu-monkey.com/en/cpu_group-amd_ryzen_2000-70"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:amd:ryzen_5_1600_af:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:amd:ryzen_5_1600_af:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) Ryzen 5 1600 AF",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/AMD-SB-1045"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cpu-monkey.com/en/cpu_group-amd_ryzen_2000-70"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:amd:ryzen_5_1600_af:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:python-requests:requests:2.16.2",
-  "deprecated": true,
-  "deprecation_date": "2021-03-18T13:18:52.520Z",
-  "title": [
-    {
-      "text": "Python-requests requests 2.16.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://docs.python-requests.org/en/master/community/updates/#release-and-version-history"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/requests/requests/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python-requests:requests:2.16.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-03-18T09:18:52.520-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:python:requests:2.16.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:python-requests:requests:2.16.2",
+	"deprecated": true,
+	"deprecation_date": "2021-03-18T13:18:52.520Z",
+	"title": [
+		{
+			"text": "Python-requests requests 2.16.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://docs.python-requests.org/en/master/community/updates/#release-and-version-history"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/requests/requests/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python-requests:requests:2.16.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-03-18T09:18:52.520-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:requests:2.16.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

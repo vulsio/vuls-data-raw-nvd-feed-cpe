@@ -1,34 +1,34 @@
 {
-  "name": "cpe:/o:bosch:recording_station_firmware:-",
-  "title": [
-    {
-      "text": "Bosch Recording Station Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.scansource.com/~/media/security-us/brands/bosch/pdf2/Bosch-BRSBase-Specsheet-EN"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.av-iq.com/avcat/images/documents/datasheet/bosch%20security%20bosch%20recording%20station%20data%20sheet.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-sa-363824-bt_cve-2017-0144_cve-2019-0708_cve-2020-6774_security_advisory_brs.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://resources-boschsecurity-cdn.azureedge.net/public/documents/Quick_Installation_Guide_enUS_4595775755.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.bosch.com/security-advisories/BOSCH-SA-363824-BT.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:bosch:recording_station_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:bosch:recording_station_firmware:-",
+	"title": [
+		{
+			"text": "Bosch Recording Station Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.scansource.com/~/media/security-us/brands/bosch/pdf2/Bosch-BRSBase-Specsheet-EN"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.av-iq.com/avcat/images/documents/datasheet/bosch%20security%20bosch%20recording%20station%20data%20sheet.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-sa-363824-bt_cve-2017-0144_cve-2019-0708_cve-2020-6774_security_advisory_brs.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://resources-boschsecurity-cdn.azureedge.net/public/documents/Quick_Installation_Guide_enUS_4595775755.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.bosch.com/security-advisories/BOSCH-SA-363824-BT.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:bosch:recording_station_firmware:-:*:*:*:*:*:*:*"
+	}
 }

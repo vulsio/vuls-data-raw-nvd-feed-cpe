@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:frenify:mediamatic:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Frenify Mediamatic for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/156d4faf-7d34-4d9f-a654-9064d4eb3aea"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/mediamatic/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://frenify.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:frenify:mediamatic:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:frenify:mediamatic:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Frenify Mediamatic for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/156d4faf-7d34-4d9f-a654-9064d4eb3aea"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/mediamatic/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://frenify.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:frenify:mediamatic:-:*:*:*:*:wordpress:*:*"
+	}
 }

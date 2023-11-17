@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:dell:emc_integrated_system_for_microsoft_azure_stack_hub:-",
-  "title": [
-    {
-      "text": "Dell EMC Integrated System for Microsoft Azure Stack Hub",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.delltechnologies.com/en-us/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=1"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000186008/dsa-2021-020-dell-emc-integrated-system-for-microsoft-azure-stack-hub-security-update-for-an-idrac-undocumented-account-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:emc_integrated_system_for_microsoft_azure_stack_hub:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dell:emc_integrated_system_for_microsoft_azure_stack_hub:-",
+	"title": [
+		{
+			"text": "Dell EMC Integrated System for Microsoft Azure Stack Hub",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.delltechnologies.com/en-us/hyperconverged-infrastructure/microsoft-azure-stack/microsoft-azure-stack-hub.htm#tab0=1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000186008/dsa-2021-020-dell-emc-integrated-system-for-microsoft-azure-stack-hub-security-update-for-an-idrac-undocumented-account-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:emc_integrated_system_for_microsoft_azure_stack_hub:-:*:*:*:*:*:*:*"
+	}
 }

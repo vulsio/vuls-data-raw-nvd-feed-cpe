@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:socket:engine.io-client:0.4.2::~~~node.js~~",
-  "title": [
-    {
-      "text": "Socket Engine.IO client 0.4.2 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/socketio/engine.io-client/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://socket.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/engine.io-client"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:socket:engine.io-client:0.4.2:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:socket:engine.io-client:0.4.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "Socket Engine.IO client 0.4.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/socketio/engine.io-client/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://socket.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/engine.io-client"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:socket:engine.io-client:0.4.2:*:*:*:*:node.js:*:*"
+	}
 }

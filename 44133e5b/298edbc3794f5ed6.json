@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:bd:guardrails_cqi_reporter:10.17",
-  "title": [
-    {
-      "text": "BD Guardrails CQI Reporter 10.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/30xxx/CVE-2023-30565.json"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.bd.com/en-ca"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.bd.com/en-ca/offerings/capabilities/infusion-therapy/infusion-system-software/guardrails-suite-mx-software"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bd:guardrails_cqi_reporter:10.17:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bd:guardrails_cqi_reporter:10.17",
+	"title": [
+		{
+			"text": "BD Guardrails CQI Reporter 10.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/30xxx/CVE-2023-30565.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.bd.com/en-ca"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.bd.com/en-ca/offerings/capabilities/infusion-therapy/infusion-system-software/guardrails-suite-mx-software"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bd:guardrails_cqi_reporter:10.17:*:*:*:*:*:*:*"
+	}
 }

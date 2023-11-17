@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:python:python:3.4.6",
-  "deprecated": true,
-  "deprecation_date": "2020-07-09T16:18:59.073Z",
-  "title": [
-    {
-      "text": "Python 3.4.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.python.org/downloads/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.python.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:python:python:3.4.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-09T12:18:59.073-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:python:python:3.4.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:python:python:3.4.6",
+	"deprecated": true,
+	"deprecation_date": "2020-07-09T16:18:59.073Z",
+	"title": [
+		{
+			"text": "Python 3.4.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.python.org/downloads/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.python.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python:python:3.4.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-09T12:18:59.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:python:3.4.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:tesla:solarcity_solar_monitoring_gateway:-",
-  "title": [
-    {
-      "text": "Tesla SolarCity Solar Monitoring Gateway",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/9xxx/CVE-2020-9306.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/fireeye/Vulnerability-Disclosures/blob/master/FEYE-2020-0019/FEYE-2020-0019.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tesla:solarcity_solar_monitoring_gateway:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:tesla:solarcity_solar_monitoring_gateway:-",
+	"title": [
+		{
+			"text": "Tesla SolarCity Solar Monitoring Gateway",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/9xxx/CVE-2020-9306.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.fireeye.com/blog/threat-research/2021/02/solarcity-exploitation-of-x2e-iot-device-part-one.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fireeye/Vulnerability-Disclosures/blob/master/FEYE-2020-0019/FEYE-2020-0019.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tesla:solarcity_solar_monitoring_gateway:-:*:*:*:*:*:*:*"
+	}
 }

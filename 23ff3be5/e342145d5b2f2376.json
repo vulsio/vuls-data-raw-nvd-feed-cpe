@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:contest-gallery:contest_gallery:-::~~pro~wordpress~~",
-  "title": [
-    {
-      "text": "Contest-Gallery Contest Gallery Pro Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/857aba7d-fccd-4672-b734-ab228440dcc0"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.contest-gallery.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/contest-gallery/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:contest-gallery:contest_gallery:-:*:*:*:pro:wordpress:*:*"
-  }
+	"name": "cpe:/a:contest-gallery:contest_gallery:-::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "Contest-Gallery Contest Gallery Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/857aba7d-fccd-4672-b734-ab228440dcc0"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.contest-gallery.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/contest-gallery/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contest-gallery:contest_gallery:-:*:*:*:pro:wordpress:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:craig_knudsen:webcalendar:-",
-  "deprecated": true,
-  "deprecation_date": "2020-01-29T19:18:17.207Z",
-  "title": [
-    {
-      "text": "Craig Knudsen WebCalendar",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:craig_knudsen:webcalendar:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-29T14:18:17.207-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:webcalendar_project:webcalendar:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:craig_knudsen:webcalendar:-",
+	"deprecated": true,
+	"deprecation_date": "2020-01-29T19:18:17.207Z",
+	"title": [
+		{
+			"text": "Craig Knudsen WebCalendar",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:craig_knudsen:webcalendar:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-29T14:18:17.207-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:webcalendar_project:webcalendar:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

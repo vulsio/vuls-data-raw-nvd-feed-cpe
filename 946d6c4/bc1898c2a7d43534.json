@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudflare:workerd:1.20230115.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Cloudflare Workerd 1.20230115.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cloudflare/workerd/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cloudflare/workerd/security/advisories/GHSA-8vx6-69vg-c46f"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudflare.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudflare:workerd:1.20230115.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:cloudflare:workerd:1.20230115.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Cloudflare Workerd 1.20230115.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cloudflare/workerd/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cloudflare/workerd/security/advisories/GHSA-8vx6-69vg-c46f"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:workerd:1.20230115.0:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:zookeeper:3.8.0",
-  "title": [
-    {
-      "text": "Apache Software Foundation ZooKeeper 3.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://zookeeper.apache.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread.html/rfcd2c649c205f12b72dde044f905903460669a220a2eb7e12652d19d@%3Cdev.zookeeper.apache.org%3E"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:zookeeper:3.8.0",
+	"title": [
+		{
+			"text": "Apache Software Foundation ZooKeeper 3.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://zookeeper.apache.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread.html/rfcd2c649c205f12b72dde044f905903460669a220a2eb7e12652d19d@%3Cdev.zookeeper.apache.org%3E"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:zookeeper:3.8.0:*:*:*:*:*:*:*"
+	}
 }

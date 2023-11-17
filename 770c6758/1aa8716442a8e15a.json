@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:f5:big-ip:4.5.9",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:10:54.447Z",
-  "title": [
-    {
-      "text": "F5 Networks Traffic Management Operating System (TMOS) 4.5.9",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:f5:big-ip:4.5.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:10:54.447-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:f5:tmos:4.5.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:f5:big-ip:4.5.9",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:10:54.447Z",
+	"title": [
+		{
+			"text": "F5 Networks Traffic Management Operating System (TMOS) 4.5.9",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f5:big-ip:4.5.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:10:54.447-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:f5:tmos:4.5.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

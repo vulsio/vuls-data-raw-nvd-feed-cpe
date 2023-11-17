@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:9.0.12::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 9.0.12 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:9.0.12:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:9.0.12::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 9.0.12 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:9.0.12:*:*:*:enterprise:*:*:*"
+	}
 }

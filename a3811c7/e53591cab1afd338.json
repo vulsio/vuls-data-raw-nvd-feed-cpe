@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:mysql-gui-tools:-",
-  "title": [
-    {
-      "text": "Oracle MySQL GUI Tools",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2010-4178"
-    },
-    {
-      "text": "Product",
-      "href": "https://downloads.mysql.com/archives/gui/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql-gui-tools:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql-gui-tools:-",
+	"title": [
+		{
+			"text": "Oracle MySQL GUI Tools",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2010-4178"
+		},
+		{
+			"text": "Product",
+			"href": "https://downloads.mysql.com/archives/gui/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql-gui-tools:-:*:*:*:*:*:*:*"
+	}
 }

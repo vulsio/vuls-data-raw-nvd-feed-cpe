@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:git:git:1.8.3.2",
-  "deprecated": true,
-  "deprecation_date": "2021-01-26T14:09:04.033Z",
-  "title": [
-    {
-      "text": "Git 1.8.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://mirrors.edge.kernel.org/pub/software/scm/git/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git:git:1.8.3.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-26T09:09:04.033-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:git-scm:git:1.8.3.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:git:git:1.8.3.2",
+	"deprecated": true,
+	"deprecation_date": "2021-01-26T14:09:04.033Z",
+	"title": [
+		{
+			"text": "Git 1.8.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://mirrors.edge.kernel.org/pub/software/scm/git/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git:git:1.8.3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-26T09:09:04.033-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:git-scm:git:1.8.3.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

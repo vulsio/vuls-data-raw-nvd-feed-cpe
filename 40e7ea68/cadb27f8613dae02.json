@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:oracle:jre:1.9.0",
-  "deprecated": true,
-  "deprecation_date": "2022-05-17T17:25:14.130Z",
-  "title": [
-    {
-      "text": "Oracle JRE 1.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jre:1.9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-17T13:25:14.130-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jre:9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jre:1.9.0",
+	"deprecated": true,
+	"deprecation_date": "2022-05-17T17:25:14.130Z",
+	"title": [
+		{
+			"text": "Oracle JRE 1.9.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jre:1.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-17T13:25:14.130-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jre:9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

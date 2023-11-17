@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:ubnt:airos_4:4.0.3",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T20:15:43.900Z",
-  "title": [
-    {
-      "text": "Ubnt airOS 4.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://dl.ubnt.com/firmwares/airfiber4X/v4.0.3/changelog.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ubnt:airos_4:4.0.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-10T15:15:43.900-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:ui:airos:4.0.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:ubnt:airos_4:4.0.3",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T20:15:43.900Z",
+	"title": [
+		{
+			"text": "Ubnt airOS 4.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://dl.ubnt.com/firmwares/airfiber4X/v4.0.3/changelog.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ubnt:airos_4:4.0.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-10T15:15:43.900-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:ui:airos:4.0.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

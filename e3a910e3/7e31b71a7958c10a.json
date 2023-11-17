@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:getsymphony:symphony_cms:2.2.3",
-  "deprecated": true,
-  "deprecation_date": "2020-08-25T15:59:15.573Z",
-  "title": [
-    {
-      "text": "Symphony CMS 2.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/symphonycms"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.getsymphony.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:getsymphony:symphony_cms:2.2.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-25T11:59:15.573-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:getsymphony:symphony:2.2.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:getsymphony:symphony_cms:2.2.3",
+	"deprecated": true,
+	"deprecation_date": "2020-08-25T15:59:15.573Z",
+	"title": [
+		{
+			"text": "Symphony CMS 2.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/symphonycms"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.getsymphony.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getsymphony:symphony_cms:2.2.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-25T11:59:15.573-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:getsymphony:symphony:2.2.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

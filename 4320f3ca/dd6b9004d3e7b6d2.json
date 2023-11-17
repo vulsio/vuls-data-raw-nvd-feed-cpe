@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:tp-link:tl-wrd740n_%285.0%29_firmware:141217",
-  "deprecated": true,
-  "deprecation_date": "2015-07-08T14:03:40.683Z",
-  "title": [
-    {
-      "text": "TP-Link TL-WRD740N (5.0) Firmware 141217",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://www.tp-link.com/en/download/TL-WR740N_V5.html#Firmware"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tp-link:tl-wrd740n_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2015-07-08T10:03:40.683-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:tp-link:tl-wr740n_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:tp-link:tl-wrd740n_%285.0%29_firmware:141217",
+	"deprecated": true,
+	"deprecation_date": "2015-07-08T14:03:40.683Z",
+	"title": [
+		{
+			"text": "TP-Link TL-WRD740N (5.0) Firmware 141217",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://www.tp-link.com/en/download/TL-WR740N_V5.html#Firmware"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tp-link:tl-wrd740n_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2015-07-08T10:03:40.683-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:tp-link:tl-wr740n_\\(5.0\\)_firmware:141217:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

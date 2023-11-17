@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.5.4",
-  "deprecated": true,
-  "deprecation_date": "2019-10-03T19:08:07.640Z",
-  "title": [
-    {
-      "text": "Kubernetes 1.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.5.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-03T15:08:07.640-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kubernetes:kubernetes:1.5.4:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.5.4",
+	"deprecated": true,
+	"deprecation_date": "2019-10-03T19:08:07.640Z",
+	"title": [
+		{
+			"text": "Kubernetes 1.5.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.5.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-03T15:08:07.640-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kubernetes:kubernetes:1.5.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

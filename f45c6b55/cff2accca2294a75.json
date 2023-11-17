@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:openssh:openssh:9.1",
-  "title": [
-    {
-      "text": "OpenSSH OpenSSH 9.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/openssh/openssh-portable/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.openssh.com/releasenotes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openssh:openssh:9.1",
+	"title": [
+		{
+			"text": "OpenSSH OpenSSH 9.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/openssh/openssh-portable/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.openssh.com/releasenotes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*"
+	}
 }

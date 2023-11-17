@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056",
-  "title": [
-    {
-      "text": "Microsoft Defender for Endpoint EDR Sensor 10.8047.22439.1056",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.microsoft.com/en-us/topic/microsoft-defender-for-endpoint-update-for-edr-sensor-f8f69773-f17f-420f-91f4-a8e5167284ac"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-23278"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056",
+	"title": [
+		{
+			"text": "Microsoft Defender for Endpoint EDR Sensor 10.8047.22439.1056",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.microsoft.com/en-us/topic/microsoft-defender-for-endpoint-update-for-edr-sensor-f8f69773-f17f-420f-91f4-a8e5167284ac"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-23278"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:defender_for_endpoint_edr_sensor:10.8047.22439.1056:*:*:*:*:*:*:*"
+	}
 }

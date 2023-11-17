@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:istio:istio:1.11.0:rc2",
-  "title": [
-    {
-      "text": "Istio 1.11.0 Release Candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://istio.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/istio/istio/security/advisories/GHSA-7774-7vr3-cc8j"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/istio/istio/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:istio:istio:1.11.0:rc2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:istio:istio:1.11.0:rc2",
+	"title": [
+		{
+			"text": "Istio 1.11.0 Release Candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://istio.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/istio/istio/security/advisories/GHSA-7774-7vr3-cc8j"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/istio/istio/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:istio:istio:1.11.0:rc2:*:*:*:*:*:*"
+	}
 }

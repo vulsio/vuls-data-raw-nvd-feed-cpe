@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:servo:smallvec:0.6.10",
-  "deprecated": true,
-  "deprecation_date": "2021-02-01T15:39:41.933Z",
-  "title": [
-    {
-      "text": "Servo Smallvec 0.6.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2019-0012.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/servo/rust-smallvec/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:servo:smallvec:0.6.10:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-01T10:39:41.933-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:servo:smallvec:0.6.10:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:servo:smallvec:0.6.10",
+	"deprecated": true,
+	"deprecation_date": "2021-02-01T15:39:41.933Z",
+	"title": [
+		{
+			"text": "Servo Smallvec 0.6.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2019-0012.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/servo/rust-smallvec/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:servo:smallvec:0.6.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-01T10:39:41.933-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:servo:smallvec:0.6.10:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

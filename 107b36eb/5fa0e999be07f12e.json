@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:13.3.9::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 13.3.9 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2020/CVE-2020-13348.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:13.3.9:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:13.3.9::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 13.3.9 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2020/CVE-2020-13348.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:13.3.9:*:*:*:enterprise:*:*:*"
+	}
 }

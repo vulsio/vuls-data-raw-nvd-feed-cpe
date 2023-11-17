@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:valvesoftware:steam:1528829181:beta",
-  "deprecated": true,
-  "deprecation_date": "2022-02-07T19:09:08.330Z",
-  "title": [
-    {
-      "text": "Valve Software Steam 1528829181 Beta",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://store.steampowered.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/VixusFoxy/CVE/wiki/CVE-2018-12270"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.valvesoftware.com/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:valvesoftware:steam:1528829181:beta:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-07T14:09:08.330-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:valvesoftware:steam_client:1528829181:beta:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:valvesoftware:steam:1528829181:beta",
+	"deprecated": true,
+	"deprecation_date": "2022-02-07T19:09:08.330Z",
+	"title": [
+		{
+			"text": "Valve Software Steam 1528829181 Beta",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://store.steampowered.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/VixusFoxy/CVE/wiki/CVE-2018-12270"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.valvesoftware.com/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:valvesoftware:steam:1528829181:beta:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-07T14:09:08.330-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:valvesoftware:steam_client:1528829181:beta:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

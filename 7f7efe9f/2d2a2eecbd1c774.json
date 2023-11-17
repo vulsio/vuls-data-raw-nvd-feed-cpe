@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:mysql:1.5.1",
-  "title": [
-    {
-      "text": "Oracle MySQL 1.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.oracle.com/us/products/mysql/overview/index.html"
-    },
-    {
-      "text": "Oracle April 2015 Advisory",
-      "href": "http://www.oracle.com/technetwork/topics/security/cpuapr2015-2365600.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql:1.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql:1.5.1",
+	"title": [
+		{
+			"text": "Oracle MySQL 1.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.oracle.com/us/products/mysql/overview/index.html"
+		},
+		{
+			"text": "Oracle April 2015 Advisory",
+			"href": "http://www.oracle.com/technetwork/topics/security/cpuapr2015-2365600.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql:1.5.1:*:*:*:*:*:*:*"
+	}
 }

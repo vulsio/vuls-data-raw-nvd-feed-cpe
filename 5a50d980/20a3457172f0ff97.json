@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:parallels:parallels_desktop:14.1.1::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:14:09.590Z",
-  "title": [
-    {
-      "text": "Parallels Desktop 14.1.1 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://kb.parallels.com/124521"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:parallels:parallels_desktop:14.1.1:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:14:09.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:parallels:parallels_desktop:14.1.1:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:parallels:parallels_desktop:14.1.1::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:14:09.590Z",
+	"title": [
+		{
+			"text": "Parallels Desktop 14.1.1 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://kb.parallels.com/124521"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:parallels:parallels_desktop:14.1.1:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:14:09.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:parallels:parallels_desktop:14.1.1:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

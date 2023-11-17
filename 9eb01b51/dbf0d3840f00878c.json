@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:robotsandpencils:go-saml:-::~~~go~~",
-  "title": [
-    {
-      "text": "Robots & Pencils SAML for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/RobotsAndPencils/go-saml/pull/38"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.robotsandpencils.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2020-0047"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:robotsandpencils:go-saml:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:robotsandpencils:go-saml:-::~~~go~~",
+	"title": [
+		{
+			"text": "Robots & Pencils SAML for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/RobotsAndPencils/go-saml/pull/38"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.robotsandpencils.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2020-0047"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:robotsandpencils:go-saml:-:*:*:*:*:go:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:aws-dms:aws_xms:2.5",
-  "title": [
-    {
-      "text": "AWS DMS AWS XMS 2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/24906"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.aws-dms.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:aws-dms:aws_xms:2.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:aws-dms:aws_xms:2.5",
+	"title": [
+		{
+			"text": "AWS DMS AWS XMS 2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/24906"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.aws-dms.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aws-dms:aws_xms:2.5:*:*:*:*:*:*:*"
+	}
 }

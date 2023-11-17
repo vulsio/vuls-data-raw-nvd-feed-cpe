@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redis:redis:2022-09-30",
-  "title": [
-    {
-      "text": "Redis 2022-09-30",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/redis/redis/commit/0bf90d944313919eb8e63d3588bf63a367f020a3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redis:redis:2022-09-30:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redis:redis:2022-09-30",
+	"title": [
+		{
+			"text": "Redis 2022-09-30",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/redis/redis/commit/0bf90d944313919eb8e63d3588bf63a367f020a3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redis:2022-09-30:*:*:*:*:*:*:*"
+	}
 }

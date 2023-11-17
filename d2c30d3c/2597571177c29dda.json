@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:varnish-cache:varnish:4.1.0:beta1",
-  "deprecated": true,
-  "deprecation_date": "2022-06-21T16:58:51.973Z",
-  "title": [
-    {
-      "text": "Varnish Cache Varnish 4.1.0 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.varnish-cache.org/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/varnishcache/varnish-cache"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://varnish-cache.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:varnish-cache:varnish:4.1.0:beta1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-21T12:58:51.973-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:varnish-cache:varnish_cache:4.1.0:beta1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:varnish-cache:varnish:4.1.0:beta1",
+	"deprecated": true,
+	"deprecation_date": "2022-06-21T16:58:51.973Z",
+	"title": [
+		{
+			"text": "Varnish Cache Varnish 4.1.0 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.varnish-cache.org/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/varnishcache/varnish-cache"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://varnish-cache.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:varnish-cache:varnish:4.1.0:beta1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-21T12:58:51.973-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:varnish-cache:varnish_cache:4.1.0:beta1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

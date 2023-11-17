@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:intel:core_i7-1160g7:-",
-  "title": [
-    {
-      "text": "Intel Core i7-1160G7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark.html#@Processors"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:core_i7-1160g7:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:core_i7-1160g7:-",
+	"title": [
+		{
+			"text": "Intel Core i7-1160G7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark.html#@Processors"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:core_i7-1160g7:-:*:*:*:*:*:*:*"
+	}
 }

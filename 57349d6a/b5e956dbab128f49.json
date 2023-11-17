@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:jquery:jquery_ui:1.11.0",
-  "deprecated": true,
-  "deprecation_date": "2023-06-21T17:30:40.930Z",
-  "title": [
-    {
-      "text": "jQuery UI 1.11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://jqueryui.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jquery.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://jqueryui.com/download/all/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jquery:jquery_ui:1.11.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-21T13:30:40.930-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jquery:jquery_ui:1.11.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jquery:jquery_ui:1.11.0",
+	"deprecated": true,
+	"deprecation_date": "2023-06-21T17:30:40.930Z",
+	"title": [
+		{
+			"text": "jQuery UI 1.11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://jqueryui.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jquery.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://jqueryui.com/download/all/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jquery:jquery_ui:1.11.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-21T13:30:40.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jquery:jquery_ui:1.11.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

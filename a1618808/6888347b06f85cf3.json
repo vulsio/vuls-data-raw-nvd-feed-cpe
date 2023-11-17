@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:meinbergglobal:syncbox%2fptpv2_firmware:5.34g",
-  "title": [
-    {
-      "text": "Meinberg Global SyncBox/PTPv2 Firmware 5.34g",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.meinbergglobal.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.meinberg-usa.com/products/ptp-ieee-1588/railmount-ptp-slave-clock.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://w1n73r.de/CVE/2019/17584/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:meinbergglobal:syncbox\\/ptpv2_firmware:5.34g:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:meinbergglobal:syncbox%2fptpv2_firmware:5.34g",
+	"title": [
+		{
+			"text": "Meinberg Global SyncBox/PTPv2 Firmware 5.34g",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.meinbergglobal.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.meinberg-usa.com/products/ptp-ieee-1588/railmount-ptp-slave-clock.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://w1n73r.de/CVE/2019/17584/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:meinbergglobal:syncbox\\/ptpv2_firmware:5.34g:*:*:*:*:*:*:*"
+	}
 }

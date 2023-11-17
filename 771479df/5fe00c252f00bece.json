@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zoom:client:4.4.55383.0716::~~~android~~",
-  "deprecated": true,
-  "deprecation_date": "2020-04-07T20:19:02.557Z",
-  "title": [
-    {
-      "text": "Zoom Client 4.4.55383.0716 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zoom:client:4.4.55383.0716:*:*:*:*:android:*:*",
-    "deprecation": {
-      "date": "2020-04-07T16:19:02.557-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:zoom:zoom:4.4.55383.0716:*:*:*:*:android:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zoom:client:4.4.55383.0716::~~~android~~",
+	"deprecated": true,
+	"deprecation_date": "2020-04-07T20:19:02.557Z",
+	"title": [
+		{
+			"text": "Zoom Client 4.4.55383.0716 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://support.zoom.us/hc/en-us/sections/201214205-Release-Notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zoom:client:4.4.55383.0716:*:*:*:*:android:*:*",
+		"deprecation": {
+			"date": "2020-04-07T16:19:02.557-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zoom:zoom:4.4.55383.0716:*:*:*:*:android:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

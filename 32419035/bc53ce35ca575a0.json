@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:themeisle:visualizer:3.9.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Themeisle Visualizer 3.9.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/visualizer/wordpress-visualizer-tables-and-charts-manager-for-wordpress-plugin-3-9-2-auth-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://themeisle.com"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/visualizer/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:themeisle:visualizer:3.9.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:themeisle:visualizer:3.9.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Themeisle Visualizer 3.9.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/visualizer/wordpress-visualizer-tables-and-charts-manager-for-wordpress-plugin-3-9-2-auth-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://themeisle.com"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/visualizer/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themeisle:visualizer:3.9.2:*:*:*:*:wordpress:*:*"
+	}
 }

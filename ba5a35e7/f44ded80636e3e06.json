@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:wp_attachments_project:wp_attachments:5.0.5::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-11-15T13:45:46.930Z",
-  "title": [
-    {
-      "text": "WP Attachments Project WP Attachments 5.0.5 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/wp-attachments/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp_attachments_project:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-11-15T08:45:46.930-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wp_attachments_project:wp_attachments:5.0.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-15T13:45:46.930Z",
+	"title": [
+		{
+			"text": "WP Attachments Project WP Attachments 5.0.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/wp-attachments/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp_attachments_project:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-15T08:45:46.930-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:marcomilesi:wp_attachments:5.0.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

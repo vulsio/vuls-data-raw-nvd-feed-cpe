@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:canonical:ubuntu_linux:-",
-  "title": [
-    {
-      "text": "Canonical Ubuntu Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://old-releases.ubuntu.com/releases/"
-    },
-    {
-      "text": "Version",
-      "href": "https://wiki.ubuntu.com/Releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:canonical:ubuntu_linux:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:canonical:ubuntu_linux:-",
+	"title": [
+		{
+			"text": "Canonical Ubuntu Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://old-releases.ubuntu.com/releases/"
+		},
+		{
+			"text": "Version",
+			"href": "https://wiki.ubuntu.com/Releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:canonical:ubuntu_linux:-:*:*:*:*:*:*:*"
+	}
 }

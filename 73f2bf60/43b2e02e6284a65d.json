@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:amd:epyc_server_firmware:-",
-  "title": [
-    {
-      "text": "AMD EPYC Server Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.amd.com/en/support"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.amd.com/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://community.amd.com/community/amd-corporate/blog/2018/03/21/initial-amd-technical-assessment-of-cts-labs-research"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:epyc_server_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:epyc_server_firmware:-",
+	"title": [
+		{
+			"text": "AMD EPYC Server Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.amd.com/en/support"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.amd.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://community.amd.com/community/amd-corporate/blog/2018/03/21/initial-amd-technical-assessment-of-cts-labs-research"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_server_firmware:-:*:*:*:*:*:*:*"
+	}
 }

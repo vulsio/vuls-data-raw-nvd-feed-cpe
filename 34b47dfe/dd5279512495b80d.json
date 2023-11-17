@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openwrt:libuci:-",
-  "title": [
-    {
-      "text": "OpenWrt libuci",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://openwrt.org/docs/techref/uci"
-    },
-    {
-      "text": "Product",
-      "href": "https://openwrt.org/packages/pkgdata_lede17_1/libuci"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openwrt:libuci:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openwrt:libuci:-",
+	"title": [
+		{
+			"text": "OpenWrt libuci",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://openwrt.org/docs/techref/uci"
+		},
+		{
+			"text": "Product",
+			"href": "https://openwrt.org/packages/pkgdata_lede17_1/libuci"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openwrt:libuci:-:*:*:*:*:*:*:*"
+	}
 }

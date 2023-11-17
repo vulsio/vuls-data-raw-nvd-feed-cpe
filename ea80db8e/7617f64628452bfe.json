@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:perfact:openvpn-client:1.4.1.0",
-  "title": [
-    {
-      "text": "PerFact OpenVPN-client 1.4.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/197460"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-056-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://perfact.de/en/services/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:perfact:openvpn-client:1.4.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:perfact:openvpn-client:1.4.1.0",
+	"title": [
+		{
+			"text": "PerFact OpenVPN-client 1.4.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/197460"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-056-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://perfact.de/en/services/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:perfact:openvpn-client:1.4.1.0:*:*:*:*:*:*:*"
+	}
 }

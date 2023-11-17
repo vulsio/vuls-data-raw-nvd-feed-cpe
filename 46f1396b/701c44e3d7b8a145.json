@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:creston:dm-txrx-100-str:-",
-  "deprecated": true,
-  "deprecation_date": "2022-02-10T16:06:47.027Z",
-  "title": [
-    {
-      "text": "Creston DM-TXRX-100-STR",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.crestron.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.kb.cert.org/vuls/id/974424"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:creston:dm-txrx-100-str:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-10T11:06:47.027-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:crestron:dm-txrx-100-str:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:creston:dm-txrx-100-str:-",
+	"deprecated": true,
+	"deprecation_date": "2022-02-10T16:06:47.027Z",
+	"title": [
+		{
+			"text": "Creston DM-TXRX-100-STR",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.crestron.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.kb.cert.org/vuls/id/974424"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:creston:dm-txrx-100-str:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-10T11:06:47.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:crestron:dm-txrx-100-str:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

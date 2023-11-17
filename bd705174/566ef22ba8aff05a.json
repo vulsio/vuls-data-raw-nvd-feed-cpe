@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:remote_desktop:1.2.2851::~~~windows~~",
-  "title": [
-    {
-      "text": "Microsoft Remote Desktop 1.2.2851 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?rtc=1&activetab=pivot:overviewtab"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:remote_desktop:1.2.2851:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:microsoft:remote_desktop:1.2.2851::~~~windows~~",
+	"title": [
+		{
+			"text": "Microsoft Remote Desktop 1.2.2851 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps?rtc=1&activetab=pivot:overviewtab"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop-whatsnew"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:remote_desktop:1.2.2851:*:*:*:*:windows:*:*"
+	}
 }

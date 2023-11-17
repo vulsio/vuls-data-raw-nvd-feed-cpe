@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:google:chrome:21.0.1180.0",
-  "deprecated": true,
-  "deprecation_date": "2013-04-15T19:03:13.270Z",
-  "title": [
-    {
-      "text": "Google Chrome OS 21.0.1180.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:google:chrome:21.0.1180.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-04-15T15:03:13.270-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:google:chrome_os:21.0.1180.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:google:chrome:21.0.1180.0",
+	"deprecated": true,
+	"deprecation_date": "2013-04-15T19:03:13.270Z",
+	"title": [
+		{
+			"text": "Google Chrome OS 21.0.1180.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:google:chrome:21.0.1180.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-04-15T15:03:13.270-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:google:chrome_os:21.0.1180.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

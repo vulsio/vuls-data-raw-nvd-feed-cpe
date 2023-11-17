@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ait-pro:bulletproof-security:.47.4",
-  "deprecated": true,
-  "deprecation_date": "2014-12-16T17:47:05.997Z",
-  "title": [
-    {
-      "text": "ait-pro BulletProof Security plugin for Wordpress .47.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor website",
-      "href": "http://www.ait-pro.com/"
-    },
-    {
-      "text": "product changelog",
-      "href": "http://wordpress.org/plugins/bulletproof-security/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ait-pro:bulletproof-security:.47.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-12-16T12:47:05.997-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ait-pro:bulletproof-security:.47.4:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ait-pro:bulletproof-security:.47.4",
+	"deprecated": true,
+	"deprecation_date": "2014-12-16T17:47:05.997Z",
+	"title": [
+		{
+			"text": "ait-pro BulletProof Security plugin for Wordpress .47.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor website",
+			"href": "http://www.ait-pro.com/"
+		},
+		{
+			"text": "product changelog",
+			"href": "http://wordpress.org/plugins/bulletproof-security/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ait-pro:bulletproof-security:.47.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-12-16T12:47:05.997-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ait-pro:bulletproof-security:.47.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

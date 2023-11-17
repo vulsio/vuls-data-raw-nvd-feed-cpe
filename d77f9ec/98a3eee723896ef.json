@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cyberpower:powerpanel:3.4.0::~~business~~~",
-  "title": [
-    {
-      "text": "CyberPower PowerPanel 3.4.0 Business Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/47059"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cyberpowersystems.com/product/software/powerpanel-business-edition-windows/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cyberpower:powerpanel:3.4.0:*:*:*:business:*:*:*"
-  }
+	"name": "cpe:/a:cyberpower:powerpanel:3.4.0::~~business~~~",
+	"title": [
+		{
+			"text": "CyberPower PowerPanel 3.4.0 Business Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/47059"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cyberpowersystems.com/product/software/powerpanel-business-edition-windows/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyberpower:powerpanel:3.4.0:*:*:*:business:*:*:*"
+	}
 }

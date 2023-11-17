@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:qemu:qemu:2.12.50",
-  "title": [
-    {
-      "text": "QEMU 2.12.50",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/44925/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.qemu.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qemu:qemu:2.12.50:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:qemu:qemu:2.12.50",
+	"title": [
+		{
+			"text": "QEMU 2.12.50",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/44925/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.qemu.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qemu:qemu:2.12.50:*:*:*:*:*:*:*"
+	}
 }

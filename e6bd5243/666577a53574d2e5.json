@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:ons_15600:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:37:09.787Z",
-  "title": [
-    {
-      "text": "Cisco ONS 15600 Multiservice Switching Platform (MSPP)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:ons_15600:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:37:09.787-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:ons_15600_multiservice_switching_platform:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:ons_15600:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:37:09.787Z",
+	"title": [
+		{
+			"text": "Cisco ONS 15600 Multiservice Switching Platform (MSPP)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:ons_15600:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:37:09.787-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:ons_15600_multiservice_switching_platform:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:drupal:drupal_docker_images:8.3.0-fpm-alpine:-",
-  "title": [
-    {
-      "text": "Drupal Docker Images 8.3.0-fpm-alpine",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35191"
-    },
-    {
-      "text": "Version",
-      "href": "https://hub.docker.com/_/drupal?tab=tags&page=1&ordering=-last_updated&name=alpine"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:drupal:drupal_docker_images:8.3.0-fpm-alpine:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:drupal:drupal_docker_images:8.3.0-fpm-alpine:-",
+	"title": [
+		{
+			"text": "Drupal Docker Images 8.3.0-fpm-alpine",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35191"
+		},
+		{
+			"text": "Version",
+			"href": "https://hub.docker.com/_/drupal?tab=tags&page=1&ordering=-last_updated&name=alpine"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:drupal:drupal_docker_images:8.3.0-fpm-alpine:-:*:*:*:*:*:*"
+	}
 }

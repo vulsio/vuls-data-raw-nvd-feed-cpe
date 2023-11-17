@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redislabs:redis:3.2.6",
-  "title": [
-    {
-      "text": "Redis Labs Redis 3.2.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/antirez/redis/tags?after=3.2.2"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redis:3.2.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redislabs:redis:3.2.6",
+	"title": [
+		{
+			"text": "Redis Labs Redis 3.2.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/antirez/redis/tags?after=3.2.2"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redis:3.2.6:*:*:*:*:*:*:*"
+	}
 }

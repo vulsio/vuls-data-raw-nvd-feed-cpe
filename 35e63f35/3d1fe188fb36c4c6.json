@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:single_sign-on:r12.0j",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T18:55:01.083Z",
-  "title": [
-    {
-      "text": "CA Single Sign-On R12.0J",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.ca.com/us/products/ca-single-sign-on.html?intcmp=headernav"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:single_sign-on:r12.0j:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T14:55:01.083-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:single_sign-on:r12.0j:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:single_sign-on:r12.0j",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T18:55:01.083Z",
+	"title": [
+		{
+			"text": "CA Single Sign-On R12.0J",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.ca.com/us/products/ca-single-sign-on.html?intcmp=headernav"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:single_sign-on:r12.0j:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T14:55:01.083-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:single_sign-on:r12.0j:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

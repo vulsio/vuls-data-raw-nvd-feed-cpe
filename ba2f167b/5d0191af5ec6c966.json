@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:ibm:zos:-",
-  "deprecated": true,
-  "deprecation_date": "2011-01-25T15:30:19.637Z",
-  "title": [
-    {
-      "text": "IBM z/OS",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ibm:zos:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-01-25T10:30:19.637-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:ibm:z\\/os:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:ibm:zos:-",
+	"deprecated": true,
+	"deprecation_date": "2011-01-25T15:30:19.637Z",
+	"title": [
+		{
+			"text": "IBM z/OS",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ibm:zos:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-01-25T10:30:19.637-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:ibm:z\\/os:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

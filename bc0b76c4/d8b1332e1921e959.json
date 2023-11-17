@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ca:ca_api_developer_portal:3.5:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:53:37.023Z",
-  "title": [
-    {
-      "text": "CA API Developer Portal 3.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20180802-01--security-notice-for-ca-api-developer-portal.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://docops.ca.com/ca-api-developer-portal/3-5/en/release-notes-3-5"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:ca_api_developer_portal:3.5:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:53:37.023-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:ca_api_developer_portal:3.5:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:53:37.023Z",
+	"title": [
+		{
+			"text": "CA API Developer Portal 3.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://techdocs.broadcom.com/us/product-content/recommended-reading/security-notices/ca20180802-01--security-notice-for-ca-api-developer-portal.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://docops.ca.com/ca-api-developer-portal/3-5/en/release-notes-3-5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:ca_api_developer_portal:3.5:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:53:37.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:ca_api_developer_portal:3.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

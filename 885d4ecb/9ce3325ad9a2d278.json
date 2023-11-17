@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mightymess:soundcloud_is_gold:2.1:-:~-~-~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2019-09-30T11:57:38.890Z",
-  "title": [
-    {
-      "text": "mightymess  SoundCloud Is Gold plugin for WordPress 2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.mightymess.com/soundcloud-is-gold-wordpress-plugin/"
-    },
-    {
-      "text": "version information",
-      "href": "http://wordpress.org/plugins/soundcloud-is-gold/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mightymess:soundcloud_is_gold:2.1:-:-:*:-:wordpress:*:*",
-    "deprecation": {
-      "date": "2019-09-30T07:57:38.890-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mightymess:soundcloud_is_gold:2.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mightymess:soundcloud_is_gold:2.1:-:~-~-~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2019-09-30T11:57:38.890Z",
+	"title": [
+		{
+			"text": "mightymess  SoundCloud Is Gold plugin for WordPress 2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.mightymess.com/soundcloud-is-gold-wordpress-plugin/"
+		},
+		{
+			"text": "version information",
+			"href": "http://wordpress.org/plugins/soundcloud-is-gold/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mightymess:soundcloud_is_gold:2.1:-:-:*:-:wordpress:*:*",
+		"deprecation": {
+			"date": "2019-09-30T07:57:38.890-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mightymess:soundcloud_is_gold:2.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

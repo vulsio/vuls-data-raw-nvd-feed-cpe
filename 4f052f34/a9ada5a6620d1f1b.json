@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_server:2012:r2",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T17:29:13.120Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2012 R2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.microsoft.com/en-us/help/2887595/windows-rt-8-1-windows-8-1-and-windows-server-2012-r2-update-rollup-no"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server:2012:r2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T13:29:13.120-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2012:-:r2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server:2012:r2",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T17:29:13.120Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2012 R2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.microsoft.com/en-us/help/2887595/windows-rt-8-1-windows-8-1-and-windows-server-2012-r2-update-rollup-no"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server:2012:r2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T13:29:13.120-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2012:-:r2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

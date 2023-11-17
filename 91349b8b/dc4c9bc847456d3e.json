@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wzone_project:wzone:3.1::~~lite~wordpress~~",
-  "title": [
-    {
-      "text": "WZone Project WZone 3.1 Lite Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/woocommerce-amazon-affiliates-light-version/wordpress-wzone-lite-version-plugin-3-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://codecanyon.net/user/aa-team/portfolio?page=2"
-    },
-    {
-      "text": "Version",
-      "href": "https://wordpress.org/plugins/woocommerce-amazon-affiliates-light-version/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wzone_project:wzone:3.1:*:*:*:lite:wordpress:*:*"
-  }
+	"name": "cpe:/a:wzone_project:wzone:3.1::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "WZone Project WZone 3.1 Lite Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-amazon-affiliates-light-version/wordpress-wzone-lite-version-plugin-3-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://codecanyon.net/user/aa-team/portfolio?page=2"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/woocommerce-amazon-affiliates-light-version/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wzone_project:wzone:3.1:*:*:*:lite:wordpress:*:*"
+	}
 }

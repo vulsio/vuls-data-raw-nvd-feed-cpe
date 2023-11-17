@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:guitar-pro:guitar_pro:-::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "Guitar-pro Guitar Pro - for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.pizzapower.me/2022/10/11/guitar-pro-directory-traversal-and-filename-xss/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.guitar-pro.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:guitar-pro:guitar_pro:-:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:guitar-pro:guitar_pro:-::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "Guitar-pro Guitar Pro - for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.pizzapower.me/2022/10/11/guitar-pro-directory-traversal-and-filename-xss/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.guitar-pro.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:guitar-pro:guitar_pro:-:*:*:*:*:iphone_os:*:*"
+	}
 }

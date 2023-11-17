@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openbsd:openssh:6.8",
-  "deprecated": true,
-  "deprecation_date": "2020-07-24T16:49:45.923Z",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 6.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor Website",
-      "href": "http://www.openssh.com/openbsd.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:6.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-24T12:49:45.923-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openbsd:openssh:6.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openbsd:openssh:6.8",
+	"deprecated": true,
+	"deprecation_date": "2020-07-24T16:49:45.923Z",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 6.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor Website",
+			"href": "http://www.openssh.com/openbsd.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:6.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-24T12:49:45.923-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openbsd:openssh:6.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

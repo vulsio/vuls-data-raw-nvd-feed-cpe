@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:multitech:faxfinder:-",
-  "title": [
-    {
-      "text": "MultiTech FaxFinder",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/139844/Multitech-RightFax-Faxfinder-Credential-Disclosure.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.multitech.com/"
-    },
-    {
-      "text": "Product",
-      "href": "ftp://ftp.multitech.com/faxfinder/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:multitech:faxfinder:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:multitech:faxfinder:-",
+	"title": [
+		{
+			"text": "MultiTech FaxFinder",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/139844/Multitech-RightFax-Faxfinder-Credential-Disclosure.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.multitech.com/"
+		},
+		{
+			"text": "Product",
+			"href": "ftp://ftp.multitech.com/faxfinder/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:multitech:faxfinder:-:*:*:*:*:*:*:*"
+	}
 }

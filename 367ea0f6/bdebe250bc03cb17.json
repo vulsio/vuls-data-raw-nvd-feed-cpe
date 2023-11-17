@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puppetlabs:marionette-collective:2.7.0",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T13:35:51.737Z",
-  "title": [
-    {
-      "text": "Puppet Labs Marionette-Collective (MCollective) 2.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://puppet.com/?_ga=1.177045741.910137349.1488903353"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/puppetlabs/marionette-collective"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:marionette-collective:2.7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-11T09:35:51.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:marionette_collective:2.7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:marionette-collective:2.7.0",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T13:35:51.737Z",
+	"title": [
+		{
+			"text": "Puppet Labs Marionette-Collective (MCollective) 2.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://puppet.com/?_ga=1.177045741.910137349.1488903353"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/puppetlabs/marionette-collective"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:marionette-collective:2.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-11T09:35:51.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:marionette_collective:2.7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

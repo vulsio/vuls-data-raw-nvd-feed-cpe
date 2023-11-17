@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:apache:camel:2.0.0:m2",
-  "deprecated": true,
-  "deprecation_date": "2020-05-18T14:20:59.870Z",
-  "title": [
-    {
-      "text": "Apache Camel 2.0.0 milestone 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://camel.apache.org/download-archives.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:camel:2.0.0:m2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-18T10:20:59.870-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:camel:2.0.0:milestone2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:camel:2.0.0:m2",
+	"deprecated": true,
+	"deprecation_date": "2020-05-18T14:20:59.870Z",
+	"title": [
+		{
+			"text": "Apache Camel 2.0.0 milestone 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://camel.apache.org/download-archives.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:camel:2.0.0:m2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-18T10:20:59.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:camel:2.0.0:milestone2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

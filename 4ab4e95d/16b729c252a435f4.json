@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:thomsonstb:tht741fta_firmware:2.2.1",
-  "title": [
-    {
-      "text": "THOMSON THT741FTA Firmware 2.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.thomsonstb.net/en/home"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://decoded.avast.io/vladislaviliushin/flaws-in-dvb-t2-set-top-boxes-exposed/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.alza.cz/thomson-tht741fta-d5671566.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:thomsonstb:tht741fta_firmware:2.2.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:thomsonstb:tht741fta_firmware:2.2.1",
+	"title": [
+		{
+			"text": "THOMSON THT741FTA Firmware 2.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.thomsonstb.net/en/home"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://decoded.avast.io/vladislaviliushin/flaws-in-dvb-t2-set-top-boxes-exposed/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.alza.cz/thomson-tht741fta-d5671566.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:thomsonstb:tht741fta_firmware:2.2.1:*:*:*:*:*:*:*"
+	}
 }

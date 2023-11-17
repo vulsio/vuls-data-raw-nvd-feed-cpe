@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:project_portfolio_management:15.7",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T13:44:36.307Z",
-  "title": [
-    {
-      "text": "CA Project Portfolio Management (PPM) 15.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/business-management/clarity-project-and-portfolio-management-ppm-on-premise/15-3.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:project_portfolio_management:15.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T09:44:36.307-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:project_portfolio_management:15.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:project_portfolio_management:15.7",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T13:44:36.307Z",
+	"title": [
+		{
+			"text": "CA Project Portfolio Management (PPM) 15.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://techdocs.broadcom.com/content/broadcom/techdocs/us/en/ca-enterprise-software/business-management/clarity-project-and-portfolio-management-ppm-on-premise/15-3.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:project_portfolio_management:15.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T09:44:36.307-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:project_portfolio_management:15.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:puppet:puppet_server:0.1.13",
-  "title": [
-    {
-      "text": "Puppet Server 0.1.13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://puppet.com/docs/puppetserver/6.4/release_notes.html"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/puppetlabs/puppetserver/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppet:puppet_server:0.1.13:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:puppet:puppet_server:0.1.13",
+	"title": [
+		{
+			"text": "Puppet Server 0.1.13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://puppet.com/docs/puppetserver/6.4/release_notes.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/puppetlabs/puppetserver/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppet:puppet_server:0.1.13:*:*:*:*:*:*:*"
+	}
 }

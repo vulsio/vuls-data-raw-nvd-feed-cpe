@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:microsoft:excel:2019::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T18:38:37.757Z",
-  "title": [
-    {
-      "text": "Microsoft Excel 2019 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/officeupdates/update-history-office-2019"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T14:38:37.757-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:excel:2019::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T18:38:37.757Z",
+	"title": [
+		{
+			"text": "Microsoft Excel 2019 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/officeupdates/update-history-office-2019"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T14:38:37.757-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:excel:2019:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:plex:media_server:1.25.0.5282",
-  "title": [
-    {
-      "text": "Plex Media Server 1.25.0.5282",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.plex.tv/media-server-downloads/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://forums.plex.tv/t/security-regarding-cve-2021-42835/761510"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plex:media_server:1.25.0.5282:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:plex:media_server:1.25.0.5282",
+	"title": [
+		{
+			"text": "Plex Media Server 1.25.0.5282",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.plex.tv/media-server-downloads/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.plex.tv/t/security-regarding-cve-2021-42835/761510"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plex:media_server:1.25.0.5282:*:*:*:*:*:*:*"
+	}
 }

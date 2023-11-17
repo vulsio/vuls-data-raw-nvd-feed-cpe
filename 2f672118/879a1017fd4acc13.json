@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e3:x3430",
-  "deprecated": true,
-  "deprecation_date": "2023-09-25T19:50:28.567Z",
-  "title": [
-    {
-      "text": "Intel Xeon E3 X3430",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e3:x3430:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-25T15:50:28.567-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e3-x3430:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e3:x3430",
+	"deprecated": true,
+	"deprecation_date": "2023-09-25T19:50:28.567Z",
+	"title": [
+		{
+			"text": "Intel Xeon E3 X3430",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e3:x3430:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-25T15:50:28.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e3-x3430:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

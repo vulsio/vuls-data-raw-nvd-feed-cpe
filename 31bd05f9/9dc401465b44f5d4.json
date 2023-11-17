@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:siemens:modbus_tcp_firmware:-",
-  "title": [
-    {
-      "text": "Siemens MODBUS TCP FIRMWARE",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.industry.siemens.com/cs/document/22660304/how-do-you-establish-a-modbus-tcp-communication-from-a-simatic-s7-300-s7-400-and-where-can-you-find-further-information-?dti=0&lc=en-JP"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.siemens.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:modbus_tcp_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:modbus_tcp_firmware:-",
+	"title": [
+		{
+			"text": "Siemens MODBUS TCP FIRMWARE",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.industry.siemens.com/cs/document/22660304/how-do-you-establish-a-modbus-tcp-communication-from-a-simatic-s7-300-s7-400-and-where-can-you-find-further-information-?dti=0&lc=en-JP"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.siemens.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:modbus_tcp_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:digi:connectport_ts_8%2f16_firmware:-",
-  "title": [
-    {
-      "text": "Digi ConnectPort TS 8/16 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/terminal-servers/connectport-ts-8-16"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:digi:connectport_ts_8\\/16_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:digi:connectport_ts_8%2f16_firmware:-",
+	"title": [
+		{
+			"text": "Digi ConnectPort TS 8/16 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/terminal-servers/connectport-ts-8-16"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:digi:connectport_ts_8\\/16_firmware:-:*:*:*:*:*:*:*"
+	}
 }

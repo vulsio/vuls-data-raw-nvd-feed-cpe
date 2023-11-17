@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:juniper:junos:12.1x46",
-  "deprecated": true,
-  "deprecation_date": "2019-04-15T13:19:12.867Z",
-  "title": [
-    {
-      "text": "Juniper JUNOS 12.1X46",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor advisory for CVE-2014-0613",
-      "href": "http://kb.juniper.net/InfoCenter/index?page=content&id=JSA10607"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:juniper:junos:12.1x46:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-04-15T09:19:12.867-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:juniper:junos:12.1x46:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:juniper:junos:12.1x46",
+	"deprecated": true,
+	"deprecation_date": "2019-04-15T13:19:12.867Z",
+	"title": [
+		{
+			"text": "Juniper JUNOS 12.1X46",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor advisory for CVE-2014-0613",
+			"href": "http://kb.juniper.net/InfoCenter/index?page=content&id=JSA10607"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:12.1x46:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-04-15T09:19:12.867-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:juniper:junos:12.1x46:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

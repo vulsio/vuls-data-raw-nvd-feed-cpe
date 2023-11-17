@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nodebb:blog_comments:0.1.11::~~~node.js~~",
-  "title": [
-    {
-      "text": "NodeBB Blog Comments 0.1.11 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://nodebb.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/psychobunny/nodebb-plugin-blog-comments/security/advisories/GHSA-43m5-c88r-cjvv"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/nodebb-plugin-blog-comments"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodebb:blog_comments:0.1.11:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:nodebb:blog_comments:0.1.11::~~~node.js~~",
+	"title": [
+		{
+			"text": "NodeBB Blog Comments 0.1.11 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nodebb.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/psychobunny/nodebb-plugin-blog-comments/security/advisories/GHSA-43m5-c88r-cjvv"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/nodebb-plugin-blog-comments"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodebb:blog_comments:0.1.11:*:*:*:*:node.js:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:url.js_project:url.js:1.8.0",
-  "deprecated": true,
-  "deprecation_date": "2022-11-29T14:42:54.673Z",
-  "title": [
-    {
-      "text": "URL.js Project URL.js 1.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://huntr.dev/bounties/228d5548-1109-49f8-8aee-91038e88371c/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/medialize/URI.js/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:url.js_project:url.js:1.8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-29T09:42:54.673-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:uri.js_project:uri.js:1.8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:url.js_project:url.js:1.8.0",
+	"deprecated": true,
+	"deprecation_date": "2022-11-29T14:42:54.673Z",
+	"title": [
+		{
+			"text": "URL.js Project URL.js 1.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://huntr.dev/bounties/228d5548-1109-49f8-8aee-91038e88371c/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/medialize/URI.js/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:url.js_project:url.js:1.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-29T09:42:54.673-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:uri.js_project:uri.js:1.8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:sitecore:experience_manager:10.3",
-  "title": [
-    {
-      "text": "Sitecore Experience Manager 10.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sitecore.com/products/experience-manager"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.sitecore.com/trust"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/26xxx/CVE-2023-26262.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/istern/CVE-2023-26262"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sitecore:experience_manager:10.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sitecore:experience_manager:10.3",
+	"title": [
+		{
+			"text": "Sitecore Experience Manager 10.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sitecore.com/products/experience-manager"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sitecore.com/trust"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/26xxx/CVE-2023-26262.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/istern/CVE-2023-26262"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sitecore:experience_manager:10.3:*:*:*:*:*:*:*"
+	}
 }

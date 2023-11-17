@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cisco:ios_xe:17.6.3",
-  "deprecated": true,
-  "deprecation_date": "2022-10-27T15:47:32.590Z",
-  "title": [
-    {
-      "text": "Cisco IOS XE 17.6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-udp-dos-XDyEwhNz"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwb18118"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/c/en/us/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:ios_xe:17.6.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-27T11:47:32.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:ios_xe:17.6.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:ios_xe:17.6.3",
+	"deprecated": true,
+	"deprecation_date": "2022-10-27T15:47:32.590Z",
+	"title": [
+		{
+			"text": "Cisco IOS XE 17.6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-udp-dos-XDyEwhNz"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwb18118"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/c/en/us/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:ios_xe:17.6.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-27T11:47:32.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:ios_xe:17.6.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

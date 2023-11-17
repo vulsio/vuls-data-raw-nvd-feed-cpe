@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:microsoft:azure_real_time_operating_system:6.1.7",
-  "title": [
-    {
-      "text": "Microsoft Azure Real Time Operating System (RTOS) 6.1.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/azure-rtos/usbx/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://azure.microsoft.com/en-us/services/rtos/#overview"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:azure_real_time_operating_system:6.1.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:microsoft:azure_real_time_operating_system:6.1.7",
+	"title": [
+		{
+			"text": "Microsoft Azure Real Time Operating System (RTOS) 6.1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/azure-rtos/usbx/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://azure.microsoft.com/en-us/services/rtos/#overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:azure_real_time_operating_system:6.1.7:*:*:*:*:*:*:*"
+	}
 }

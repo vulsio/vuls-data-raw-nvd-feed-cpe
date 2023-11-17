@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:eclipse:jetty:11.0.0:alpha0",
-  "title": [
-    {
-      "text": "Eclipse Jetty 11.0.0 Alpha 0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-86wm-rrjm-8wh8"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/eclipse/jetty.project/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eclipse:jetty:11.0.0:alpha0:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:eclipse:jetty:11.0.0:alpha0",
+	"title": [
+		{
+			"text": "Eclipse Jetty 11.0.0 Alpha 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-86wm-rrjm-8wh8"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/eclipse/jetty.project/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eclipse:jetty:11.0.0:alpha0:*:*:*:*:*:*"
+	}
 }

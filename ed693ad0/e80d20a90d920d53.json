@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ysoft:safeq:-",
-  "title": [
-    {
-      "text": "YSoft SafeQ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/38xxx/CVE-2022-38176.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ysoft.com/en/legal/ysoft-safeq-client-v3-local-privilege-escalation"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ysoft:safeq:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ysoft:safeq:-",
+	"title": [
+		{
+			"text": "YSoft SafeQ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/38xxx/CVE-2022-38176.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ysoft.com/en/legal/ysoft-safeq-client-v3-local-privilege-escalation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ysoft:safeq:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:l7555",
-  "deprecated": true,
-  "deprecation_date": "2020-04-27T20:29:04.593Z",
-  "title": [
-    {
-      "text": "Intel Xeon L7555",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:l7555:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-27T16:29:04.593-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon:l7555:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:l7555",
+	"deprecated": true,
+	"deprecation_date": "2020-04-27T20:29:04.593Z",
+	"title": [
+		{
+			"text": "Intel Xeon L7555",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:l7555:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-27T16:29:04.593-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon:l7555:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

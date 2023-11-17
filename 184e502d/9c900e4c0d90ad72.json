@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:adaptive_security_appliance_software:9.1%28.2%29",
-  "deprecated": true,
-  "deprecation_date": "2020-01-21T17:22:39.320Z",
-  "title": [
-    {
-      "text": "Cisco Adaptive Security Appliance (ASA) Software 9.1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.cisco.com/c/en/us/products/security/adaptive-security-appliance-asa-software/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.1\\(.2\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-21T12:22:39.320-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.1\\(2\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:adaptive_security_appliance_software:9.1%28.2%29",
+	"deprecated": true,
+	"deprecation_date": "2020-01-21T17:22:39.320Z",
+	"title": [
+		{
+			"text": "Cisco Adaptive Security Appliance (ASA) Software 9.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.cisco.com/c/en/us/products/security/adaptive-security-appliance-asa-software/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.1\\(.2\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-21T12:22:39.320-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:9.1\\(2\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

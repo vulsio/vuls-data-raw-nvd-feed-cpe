@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:canonical:subiquity:23.04.1",
-  "title": [
-    {
-      "text": "Canonical Subiquity 23.04.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-5182"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/CanonicalLtd/subiquity/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:canonical:subiquity:23.04.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:canonical:subiquity:23.04.1",
+	"title": [
+		{
+			"text": "Canonical Subiquity 23.04.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-5182"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/CanonicalLtd/subiquity/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:subiquity:23.04.1:*:*:*:*:*:*:*"
+	}
 }

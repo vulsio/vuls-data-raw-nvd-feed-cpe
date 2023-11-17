@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:dlink:dap-1522_firmware:1.41",
-  "title": [
-    {
-      "text": "D-Link DAP-1522 Firmware 1.41",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://eu.dlink.com/mk/mk/products/dap-1522-xtreme-n-duo-wireless-n-access-point"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://research.loginsoft.com/vulnerability/authentication-bypass-in-d-link-firmware-dap-1522/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10169"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dap-1522_firmware:1.41:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dap-1522_firmware:1.41",
+	"title": [
+		{
+			"text": "D-Link DAP-1522 Firmware 1.41",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://eu.dlink.com/mk/mk/products/dap-1522-xtreme-n-duo-wireless-n-access-point"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://research.loginsoft.com/vulnerability/authentication-bypass-in-d-link-firmware-dap-1522/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10169"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dap-1522_firmware:1.41:*:*:*:*:*:*:*"
+	}
 }

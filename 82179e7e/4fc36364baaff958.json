@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:sonicwall:nsa6700:-",
-  "deprecated": true,
-  "deprecation_date": "2022-06-16T15:09:01.720Z",
-  "title": [
-    {
-      "text": "SonicWall Nsa6700 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/products/firewalls/mid-range/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0004"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sonicwall:nsa6700:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-16T11:09:01.720-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:sonicwall:nsa_6700:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:sonicwall:nsa6700:-",
+	"deprecated": true,
+	"deprecation_date": "2022-06-16T15:09:01.720Z",
+	"title": [
+		{
+			"text": "SonicWall Nsa6700 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/products/firewalls/mid-range/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0004"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sonicwall:nsa6700:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-16T11:09:01.720-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:sonicwall:nsa_6700:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

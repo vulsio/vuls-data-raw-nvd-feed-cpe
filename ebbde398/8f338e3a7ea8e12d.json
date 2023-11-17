@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:wildfly:23.0.2",
-  "title": [
-    {
-      "text": "Red Hat Wildfly 23.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-3536"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1948001"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly:23.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:wildfly:23.0.2",
+	"title": [
+		{
+			"text": "Red Hat Wildfly 23.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-3536"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1948001"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly:23.0.2:*:*:*:*:*:*:*"
+	}
 }

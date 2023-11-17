@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:siemens:simatic_itp1000:-",
-  "title": [
-    {
-      "text": "Siemens SIMATIC ITP1000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.industry.siemens.com/cs/document/109748173/simatic-itp1000-latest-bios-version?dti=0&lc=en-US"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-377318.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:siemens:simatic_itp1000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:siemens:simatic_itp1000:-",
+	"title": [
+		{
+			"text": "Siemens SIMATIC ITP1000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.industry.siemens.com/cs/document/109748173/simatic-itp1000-latest-bios-version?dti=0&lc=en-US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-377318.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:siemens:simatic_itp1000:-:*:*:*:*:*:*:*"
+	}
 }

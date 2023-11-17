@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dwnldr_project:dwnldr:1.0.2::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2019-09-23T11:13:55.150Z",
-  "title": [
-    {
-      "text": "Dwnldr Project Dwnldr 1.0.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rastating.github.io/dwnldr-1-0-stored-xss-disclosure/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/dwnldr/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dwnldr_project:dwnldr:1.0.2:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2019-09-23T07:13:55.150-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:findshorty:dwnldr:1.0.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dwnldr_project:dwnldr:1.0.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2019-09-23T11:13:55.150Z",
+	"title": [
+		{
+			"text": "Dwnldr Project Dwnldr 1.0.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rastating.github.io/dwnldr-1-0-stored-xss-disclosure/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/dwnldr/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dwnldr_project:dwnldr:1.0.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2019-09-23T07:13:55.150-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:findshorty:dwnldr:1.0.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

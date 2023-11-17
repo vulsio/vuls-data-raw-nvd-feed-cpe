@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:isc:bind:9.6-esv",
-  "deprecated": true,
-  "deprecation_date": "2016-04-01T17:21:07.793Z",
-  "title": [
-    {
-      "text": "ISC BIND 9.6-esv",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:isc:bind:9.6-esv:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-04-01T13:21:07.793-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:isc:bind:9.6:*:*:*:esv:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:isc:bind:9.6-esv",
+	"deprecated": true,
+	"deprecation_date": "2016-04-01T17:21:07.793Z",
+	"title": [
+		{
+			"text": "ISC BIND 9.6-esv",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:isc:bind:9.6-esv:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-04-01T13:21:07.793-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:isc:bind:9.6:*:*:*:esv:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

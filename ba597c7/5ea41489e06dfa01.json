@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:configurable_tag_cloud_project:configurable_tag_cloud:3.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Configurable Tag Cloud Project Configurable Tag Cloud (CTC) 3.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/configurable-tag-cloud-widget/wordpress-configurable-tag-cloud-plugin-5-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/configurable-tag-cloud-widget/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:configurable_tag_cloud_project:configurable_tag_cloud:3.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:configurable_tag_cloud_project:configurable_tag_cloud:3.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Configurable Tag Cloud Project Configurable Tag Cloud (CTC) 3.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/configurable-tag-cloud-widget/wordpress-configurable-tag-cloud-plugin-5-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/configurable-tag-cloud-widget/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:configurable_tag_cloud_project:configurable_tag_cloud:3.2:*:*:*:*:wordpress:*:*"
+	}
 }

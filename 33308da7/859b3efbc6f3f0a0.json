@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:hp:integrated_lights_out:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:10:56.917Z",
-  "title": [
-    {
-      "text": "HP Integrated Lights-Out",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hp:integrated_lights_out:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:10:56.917-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:hp:integrated_lights-out:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:hp:integrated_lights_out:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:10:56.917Z",
+	"title": [
+		{
+			"text": "HP Integrated Lights-Out",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hp:integrated_lights_out:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:10:56.917-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:hp:integrated_lights-out:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

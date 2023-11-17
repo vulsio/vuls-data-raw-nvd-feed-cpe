@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:barracuda:network_access_client:3.5::~~~windows~~",
-  "title": [
-    {
-      "text": "Barracuda Network Access Client (NAC) 3.5 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://campus.barracuda.com/product/cloudgenfirewall/doc/72515997/barracuda-network-access-and-vpn-client/"
-    },
-    {
-      "text": "Version",
-      "href": "https://campus.barracuda.com/product/networkaccessclient/doc/46206550/release-notes-barracuda-nac-vpn-client-for-windows/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0010/MNDT-2021-0010.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:barracuda:network_access_client:3.5:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:barracuda:network_access_client:3.5::~~~windows~~",
+	"title": [
+		{
+			"text": "Barracuda Network Access Client (NAC) 3.5 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://campus.barracuda.com/product/cloudgenfirewall/doc/72515997/barracuda-network-access-and-vpn-client/"
+		},
+		{
+			"text": "Version",
+			"href": "https://campus.barracuda.com/product/networkaccessclient/doc/46206550/release-notes-barracuda-nac-vpn-client-for-windows/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/MNDT-2021-0010/MNDT-2021-0010.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:barracuda:network_access_client:3.5:*:*:*:*:windows:*:*"
+	}
 }

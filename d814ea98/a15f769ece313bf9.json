@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dlink:dir-816_a2_firmware:1.10b05",
-  "title": [
-    {
-      "text": "D-Link DIR-816 A2 Firmware 1.10B05",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://us.dlink.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://0x3f97.github.io/exploit/2018/05/13/D-Link-DIR-816-A2-CN-router-stack-based-buffer-overflow/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dir-816_a2_firmware:1.10b05:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dir-816_a2_firmware:1.10b05",
+	"title": [
+		{
+			"text": "D-Link DIR-816 A2 Firmware 1.10B05",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://us.dlink.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://0x3f97.github.io/exploit/2018/05/13/D-Link-DIR-816-A2-CN-router-stack-based-buffer-overflow/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dir-816_a2_firmware:1.10b05:*:*:*:*:*:*:*"
+	}
 }

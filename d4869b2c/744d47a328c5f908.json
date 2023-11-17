@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:sonicwall:sma_7200_firmware:12.4.1",
-  "title": [
-    {
-      "text": "SonicWall SMA 7200 Firmware 12.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.sonicwall.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0009"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sonicwall:sma_7200_firmware:12.4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:sonicwall:sma_7200_firmware:12.4.1",
+	"title": [
+		{
+			"text": "SonicWall SMA 7200 Firmware 12.4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.sonicwall.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0009"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sonicwall:sma_7200_firmware:12.4.1:*:*:*:*:*:*:*"
+	}
 }

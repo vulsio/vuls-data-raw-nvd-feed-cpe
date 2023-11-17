@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:zyxel:vpn_orchestrator:10.03",
-  "title": [
-    {
-      "text": "Zyxel VPN ORCHESTRATOR 10.03",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.zyxel.com/us/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-command-injection-vulnerability-of-firewalls.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:zyxel:vpn_orchestrator:10.03:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:zyxel:vpn_orchestrator:10.03",
+	"title": [
+		{
+			"text": "Zyxel VPN ORCHESTRATOR 10.03",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/us/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/Zyxel-security-advisory-for-command-injection-vulnerability-of-firewalls.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zyxel:vpn_orchestrator:10.03:*:*:*:*:*:*:*"
+	}
 }

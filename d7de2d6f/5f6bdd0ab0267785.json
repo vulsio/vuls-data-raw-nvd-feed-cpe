@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hazelcast:imdg:4.2",
-  "title": [
-    {
-      "text": "Hazelcast IMDG 4.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://hazelcast.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.hazelcast.com/imdg/4.2/overview/what-is-imdg"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.hazelcast.com/s/article/Security-Advisory-for-CVE-2023-33265"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hazelcast:imdg:4.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hazelcast:imdg:4.2",
+	"title": [
+		{
+			"text": "Hazelcast IMDG 4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://hazelcast.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.hazelcast.com/imdg/4.2/overview/what-is-imdg"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.hazelcast.com/s/article/Security-Advisory-for-CVE-2023-33265"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hazelcast:imdg:4.2:*:*:*:*:*:*:*"
+	}
 }

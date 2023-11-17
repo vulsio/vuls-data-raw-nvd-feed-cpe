@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:contao:contao:4.9.0",
-  "deprecated": true,
-  "deprecation_date": "2020-10-21T13:06:23.277Z",
-  "title": [
-    {
-      "text": "Contao 4.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/contao/contao/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:contao:contao:4.9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-21T09:06:23.277-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:contao:contao:4.9.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:contao:contao:4.9.0",
+	"deprecated": true,
+	"deprecation_date": "2020-10-21T13:06:23.277Z",
+	"title": [
+		{
+			"text": "Contao 4.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/contao/contao/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contao:contao:4.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-21T09:06:23.277-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:contao:contao:4.9.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

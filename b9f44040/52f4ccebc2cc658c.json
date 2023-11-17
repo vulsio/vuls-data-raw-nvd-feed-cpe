@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:libexpat:expat:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-01-25T15:44:29.553Z",
-  "title": [
-    {
-      "text": "libexpat Expat 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libexpat:expat:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-25T10:44:29.553-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libexpat_project:libexpat:2.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libexpat:expat:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-01-25T15:44:29.553Z",
+	"title": [
+		{
+			"text": "libexpat Expat 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libexpat:expat:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-25T10:44:29.553-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libexpat_project:libexpat:2.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

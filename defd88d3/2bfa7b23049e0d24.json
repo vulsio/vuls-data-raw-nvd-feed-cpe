@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:jboss_enterprise_application_platform_expansion_pack:-",
-  "title": [
-    {
-      "text": "Red Hat JBoss Enterprise Application Platform (EAP) Expansion Pack",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/support/policy/updates/jboss_eap_xp_notes"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-20250"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jboss_enterprise_application_platform_expansion_pack:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jboss_enterprise_application_platform_expansion_pack:-",
+	"title": [
+		{
+			"text": "Red Hat JBoss Enterprise Application Platform (EAP) Expansion Pack",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/support/policy/updates/jboss_eap_xp_notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-20250"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jboss_enterprise_application_platform_expansion_pack:-:*:*:*:*:*:*:*"
+	}
 }

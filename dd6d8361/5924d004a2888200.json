@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:st._jude_medical:merlin%40home_firmware:8.0",
-  "deprecated": true,
-  "deprecation_date": "2023-06-26T19:16:44.887Z",
-  "title": [
-    {
-      "text": "St. Jude Medical Merlin@home Firmware 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.abbott.com/corpnewsroom/strategy-and-strength/st-jude-medical-is-now-abbott.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-17-009-01A"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.securityfocus.com/bid/95331"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:st._jude_medical:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-26T15:16:44.887-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:st._jude_medical:merlin%40home_firmware:8.0",
+	"deprecated": true,
+	"deprecation_date": "2023-06-26T19:16:44.887Z",
+	"title": [
+		{
+			"text": "St. Jude Medical Merlin@home Firmware 8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.abbott.com/corpnewsroom/strategy-and-strength/st-jude-medical-is-now-abbott.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-17-009-01A"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.securityfocus.com/bid/95331"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:st._jude_medical:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-26T15:16:44.887-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:abbott:merlin\\@home_firmware:8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pivotal_software:rabbitmq:3.2.2",
-  "deprecated": true,
-  "deprecation_date": "2022-03-17T14:00:56.993Z",
-  "title": [
-    {
-      "text": "Pivotal Software RabbitMQ 3.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.rabbitmq.com/"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.rabbitmq.com/releases/rabbitmq-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-17T10:00:56.993-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:rabbitmq:3.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:rabbitmq:3.2.2",
+	"deprecated": true,
+	"deprecation_date": "2022-03-17T14:00:56.993Z",
+	"title": [
+		{
+			"text": "Pivotal Software RabbitMQ 3.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.rabbitmq.com/"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.rabbitmq.com/releases/rabbitmq-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:rabbitmq:3.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-17T10:00:56.993-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:rabbitmq:3.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

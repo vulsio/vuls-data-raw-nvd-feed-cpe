@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:digi:transport_dr64_firmware:5.2.4.9",
-  "title": [
-    {
-      "text": "Digi International TransPort DR64 Firmware 5.2.4.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ftp1.digi.com/support/firmware/transport/ftp/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-04.txt"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.digi.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:digi:transport_dr64_firmware:5.2.4.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:digi:transport_dr64_firmware:5.2.4.9",
+	"title": [
+		{
+			"text": "Digi International TransPort DR64 Firmware 5.2.4.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ftp1.digi.com/support/firmware/transport/ftp/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-04.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.digi.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:digi:transport_dr64_firmware:5.2.4.9:*:*:*:*:*:*:*"
+	}
 }

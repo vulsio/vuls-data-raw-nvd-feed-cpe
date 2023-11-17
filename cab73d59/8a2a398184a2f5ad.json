@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hashicorp:consul_docker_image:0.7.5",
-  "title": [
-    {
-      "text": "Hashicorp Consul Docker Image 0.7.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/consul"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29564"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:consul_docker_image:0.7.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:consul_docker_image:0.7.5",
+	"title": [
+		{
+			"text": "Hashicorp Consul Docker Image 0.7.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/consul"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29564"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:consul_docker_image:0.7.5:*:*:*:*:*:*:*"
+	}
 }

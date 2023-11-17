@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:hp:yoga_520-14ikb:-",
-  "deprecated": true,
-  "deprecation_date": "2019-12-10T16:30:50.457Z",
-  "title": [
-    {
-      "text": "HP YOGA 520-14IKB",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:hp:yoga_520-14ikb:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-10T11:30:50.457-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:lenovo:yoga_520-14ikb:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:hp:yoga_520-14ikb:-",
+	"deprecated": true,
+	"deprecation_date": "2019-12-10T16:30:50.457Z",
+	"title": [
+		{
+			"text": "HP YOGA 520-14IKB",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.lenovo.com/us/en/solutions/LEN-20184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:yoga_520-14ikb:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-10T11:30:50.457-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:lenovo:yoga_520-14ikb:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:apache:nifi_registry:0.5.0",
-  "title": [
-    {
-      "text": "Apache Software Foundation NiFi Registry 0.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nifi.apache.org/registry-security.html#CVE-2020-9482"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:nifi_registry:0.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:nifi_registry:0.5.0",
+	"title": [
+		{
+			"text": "Apache Software Foundation NiFi Registry 0.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nifi.apache.org/registry-security.html#CVE-2020-9482"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:nifi_registry:0.5.0:*:*:*:*:*:*:*"
+	}
 }

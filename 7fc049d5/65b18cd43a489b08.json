@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:kubernetes:1.27.3::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Kubernetes 1.27.3 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/kubernetes-plugin/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/kubernetes"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:kubernetes:1.27.3:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:kubernetes:1.27.3::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Kubernetes 1.27.3 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/kubernetes-plugin/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/kubernetes"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:kubernetes:1.27.3:*:*:*:*:jenkins:*:*"
+	}
 }

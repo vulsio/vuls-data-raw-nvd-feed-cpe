@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:openbsd:openssh:2.9:-",
-  "title": [
-    {
-      "text": "OpenBSD OpenSSH 2.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.openssh.com/releasenotes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbsd:openssh:2.9:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openbsd:openssh:2.9:-",
+	"title": [
+		{
+			"text": "OpenBSD OpenSSH 2.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.openssh.com/releasenotes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbsd:openssh:2.9:-:*:*:*:*:*:*"
+	}
 }

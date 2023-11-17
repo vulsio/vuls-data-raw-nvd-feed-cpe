@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:vega_project:vega:2.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-01-06T16:40:51.213Z",
-  "title": [
-    {
-      "text": "Vega Project Vega 2.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/vega/vega/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vega_project:vega:2.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-06T11:40:51.213-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vega_project:vega:2.1.0:*:*:*:*:-:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vega_project:vega:2.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-01-06T16:40:51.213Z",
+	"title": [
+		{
+			"text": "Vega Project Vega 2.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/vega/vega/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vega_project:vega:2.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-06T11:40:51.213-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vega_project:vega:2.1.0:*:*:*:*:-:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

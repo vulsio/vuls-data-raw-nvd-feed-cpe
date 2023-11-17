@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:solana:rbpf:0.2.14",
-  "title": [
-    {
-      "text": "Solana rBPF 0.2.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://solana.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/solana-labs/rbpf/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:solana:rbpf:0.2.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:solana:rbpf:0.2.14",
+	"title": [
+		{
+			"text": "Solana rBPF 0.2.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://solana.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/solana-labs/rbpf/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:solana:rbpf:0.2.14:*:*:*:*:*:*:*"
+	}
 }

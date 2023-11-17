@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:1app:1app_business_forms:1.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "1app Technologies 1app Business Forms 1.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/1app-business-forms/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/1app-business-forms/wordpress-1app-business-forms-plugin-1-0-0-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:1app:1app_business_forms:1.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:1app:1app_business_forms:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "1app Technologies 1app Business Forms 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/1app-business-forms/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/1app-business-forms/wordpress-1app-business-forms-plugin-1-0-0-auth-stored-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:1app:1app_business_forms:1.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

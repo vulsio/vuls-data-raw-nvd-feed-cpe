@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:veeam:veeam_backup_%26_replication:10.0",
-  "title": [
-    {
-      "text": "Veeam Backup & Replication 10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.veeam.com/vm-backup-recovery-replication-software.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.veeam.com/data-center-availability-suite.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:veeam:veeam_backup_%26_replication:10.0",
+	"title": [
+		{
+			"text": "Veeam Backup & Replication 10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.veeam.com/vm-backup-recovery-replication-software.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.veeam.com/data-center-availability-suite.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:10.0:*:*:*:*:*:*:*"
+	}
 }

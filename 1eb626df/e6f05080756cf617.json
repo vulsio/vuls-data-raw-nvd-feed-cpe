@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:emersonnetworkpower:aperture_web_services_server:4.0",
-  "deprecated": true,
-  "deprecation_date": "2012-07-03T18:38:04.020Z",
-  "title": [
-    {
-      "text": "Emerson Aperture Web Application Server 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emersonnetworkpower:aperture_web_services_server:4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2012-07-03T14:38:04.020-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:emerson:aperture_web_services_server:4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emersonnetworkpower:aperture_web_services_server:4.0",
+	"deprecated": true,
+	"deprecation_date": "2012-07-03T18:38:04.020Z",
+	"title": [
+		{
+			"text": "Emerson Aperture Web Application Server 4.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emersonnetworkpower:aperture_web_services_server:4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2012-07-03T14:38:04.020-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:emerson:aperture_web_services_server:4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

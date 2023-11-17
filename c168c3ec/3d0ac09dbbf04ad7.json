@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/h:microsoft:wireless_display_adapter:2",
-  "title": [
-    {
-      "text": "Microsoft Wireless Display Adapter V2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.amazon.com/Microsoft-Wireless-Display-Adapter-Hdmi/dp/B01C9YTI9S"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8306"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/surface/accessories/wireless-display-adapter"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:microsoft:wireless_display_adapter:2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:microsoft:wireless_display_adapter:2",
+	"title": [
+		{
+			"text": "Microsoft Wireless Display Adapter V2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.amazon.com/Microsoft-Wireless-Display-Adapter-Hdmi/dp/B01C9YTI9S"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8306"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/surface/accessories/wireless-display-adapter"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:microsoft:wireless_display_adapter:2:*:*:*:*:*:*:*"
+	}
 }

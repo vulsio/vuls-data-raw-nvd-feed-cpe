@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pi-hole:pi-hole:5.2.1",
-  "title": [
-    {
-      "text": "Pi-Hole 5.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.mirch.io/2020/12/24/pihole-xss/"
-    },
-    {
-      "text": "Version",
-      "href": "https://discourse.pi-hole.net/t/pi-hole-core-web-v5-2-2-and-ftl-v5-3-4-released/41998"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/pi-hole/AdminLTE/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pi-hole:pi-hole:5.2.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pi-hole:pi-hole:5.2.1",
+	"title": [
+		{
+			"text": "Pi-Hole 5.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.mirch.io/2020/12/24/pihole-xss/"
+		},
+		{
+			"text": "Version",
+			"href": "https://discourse.pi-hole.net/t/pi-hole-core-web-v5-2-2-and-ftl-v5-3-4-released/41998"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pi-hole/AdminLTE/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pi-hole:pi-hole:5.2.1:*:*:*:*:*:*:*"
+	}
 }

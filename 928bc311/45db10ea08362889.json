@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:sql_server_reporting_services:2019",
-  "title": [
-    {
-      "text": "Microsoft SQL Server Reporting Services 2019",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver15"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1044"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:sql_server_reporting_services:2019:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:sql_server_reporting_services:2019",
+	"title": [
+		{
+			"text": "Microsoft SQL Server Reporting Services 2019",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/sql/reporting-services/create-deploy-and-manage-mobile-and-paginated-reports?view=sql-server-ver15"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1044"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:sql_server_reporting_services:2019:*:*:*:*:*:*:*"
+	}
 }

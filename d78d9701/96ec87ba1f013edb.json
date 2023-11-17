@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jailed_project:jailed:-::~~~node.js~~",
-  "title": [
-    {
-      "text": "Jailed Project Jailed for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-JAILED-2391490"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/asvd/jailed/tags"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.npmjs.com/package/jailed"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jailed_project:jailed:-:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:jailed_project:jailed:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "Jailed Project Jailed for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-JAILED-2391490"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/asvd/jailed/tags"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.npmjs.com/package/jailed"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jailed_project:jailed:-:*:*:*:*:node.js:*:*"
+	}
 }

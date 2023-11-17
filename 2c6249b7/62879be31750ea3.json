@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:javase:16.0.1",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T15:16:27.423Z",
-  "title": [
-    {
-      "text": "Oracle Java SE 16.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/java/technologies/java-se-glance.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujul2021.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:javase:16.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T11:16:27.423-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:16.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:javase:16.0.1",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T15:16:27.423Z",
+	"title": [
+		{
+			"text": "Oracle Java SE 16.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/java/technologies/java-se-glance.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujul2021.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:javase:16.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T11:16:27.423-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:16.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

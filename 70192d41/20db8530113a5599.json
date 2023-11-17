@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:woocommerce:brands:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WooCommerce Brands - for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://woocommerce.com/products/brands/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/woocommerce-brands/wordpress-woocommerce-brands-plugin-1-6-49-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:woocommerce:brands:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:woocommerce:brands:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WooCommerce Brands - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://woocommerce.com/products/brands/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-brands/wordpress-woocommerce-brands-plugin-1-6-49-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woocommerce:brands:-:*:*:*:*:wordpress:*:*"
+	}
 }

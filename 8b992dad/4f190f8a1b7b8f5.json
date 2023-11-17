@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:welcart:welcart:1.4.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T15:59:01.227Z",
-  "title": [
-    {
-      "text": "Welcart for WordPress 1.4.0",
-      "lang": "en-US"
-    },
-    {
-      "text": "コルネ Welcart  for WordPress 1.4.0",
-      "lang": "ja-JP"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.welcart.com/community/archives/category/documents"
-    },
-    {
-      "text": "Vendor website",
-      "href": "http://www.welcart.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:welcart:welcart:1.4.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-06-24T11:59:01.227-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:collne:welcart:1.4.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:welcart:welcart:1.4.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T15:59:01.227Z",
+	"title": [
+		{
+			"text": "Welcart for WordPress 1.4.0",
+			"lang": "en-US"
+		},
+		{
+			"text": "コルネ Welcart  for WordPress 1.4.0",
+			"lang": "ja-JP"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.welcart.com/community/archives/category/documents"
+		},
+		{
+			"text": "Vendor website",
+			"href": "http://www.welcart.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:welcart:welcart:1.4.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-06-24T11:59:01.227-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:collne:welcart:1.4.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

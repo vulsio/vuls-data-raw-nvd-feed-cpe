@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:psnode_project:psnode:-::~~~node.js~~",
-  "title": [
-    {
-      "text": "psnode Project psnode for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://snyk.io/vuln/SNYK-JS-PSNODE-1078543"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/psnode"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/nrako/psnode/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:psnode_project:psnode:-:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:psnode_project:psnode:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "psnode Project psnode for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://snyk.io/vuln/SNYK-JS-PSNODE-1078543"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/psnode"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nrako/psnode/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:psnode_project:psnode:-:*:*:*:*:node.js:*:*"
+	}
 }

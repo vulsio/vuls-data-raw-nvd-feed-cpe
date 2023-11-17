@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:osquery:osquery:1.6.2",
-  "deprecated": true,
-  "deprecation_date": "2020-04-03T15:20:53.160Z",
-  "title": [
-    {
-      "text": "Osquery 1.6.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/facebook/osquery/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:osquery:osquery:1.6.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-03T11:20:53.160-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:osquery:1.6.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:osquery:osquery:1.6.2",
+	"deprecated": true,
+	"deprecation_date": "2020-04-03T15:20:53.160Z",
+	"title": [
+		{
+			"text": "Osquery 1.6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/facebook/osquery/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:osquery:osquery:1.6.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-03T11:20:53.160-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:osquery:1.6.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:eaton:easysoft:8.01",
-  "title": [
-    {
-      "text": "Eaton EasySoft 8.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://applications.eaton.eu/sdlc/?lx=11"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/etn-va-2023-1011.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/43xxx/CVE-2023-43777.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eaton:easysoft:8.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:eaton:easysoft:8.01",
+	"title": [
+		{
+			"text": "Eaton EasySoft 8.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://applications.eaton.eu/sdlc/?lx=11"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.eaton.com/content/dam/eaton/company/news-insights/cybersecurity/security-bulletins/etn-va-2023-1011.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/43xxx/CVE-2023-43777.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eaton:easysoft:8.01:*:*:*:*:*:*:*"
+	}
 }

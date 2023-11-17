@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pivotal_software:rabbitmq:1.6.0",
-  "deprecated": true,
-  "deprecation_date": "2022-03-17T13:57:18.510Z",
-  "title": [
-    {
-      "text": "Pivotal Software RabbitMQ 1.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/rabbitmq/rabbitmq-server"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:rabbitmq:1.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-17T09:57:18.510-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:rabbitmq:1.6.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:rabbitmq:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2022-03-17T13:57:18.510Z",
+	"title": [
+		{
+			"text": "Pivotal Software RabbitMQ 1.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/rabbitmq/rabbitmq-server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:rabbitmq:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-17T09:57:18.510-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:rabbitmq:1.6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

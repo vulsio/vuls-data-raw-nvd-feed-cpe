@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:dell:sonicwall_network_security_appliance_2400:-",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T15:42:42.357Z",
-  "title": [
-    {
-      "text": "Dell Sonicwall Network Security Appliance (NSA) 2400",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Dell Sonicwall Network Security Appliance (NSA) 2400 information",
-      "href": "http://www.sonicwall.com/us/en/products/NSA-2400.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2400:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T11:42:42.357-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:sonicwall:network_security_appliance_2400:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:dell:sonicwall_network_security_appliance_2400:-",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T15:42:42.357Z",
+	"title": [
+		{
+			"text": "Dell Sonicwall Network Security Appliance (NSA) 2400",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Dell Sonicwall Network Security Appliance (NSA) 2400 information",
+			"href": "http://www.sonicwall.com/us/en/products/NSA-2400.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dell:sonicwall_network_security_appliance_2400:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T11:42:42.357-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:sonicwall:network_security_appliance_2400:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

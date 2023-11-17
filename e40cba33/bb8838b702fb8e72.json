@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:netentsec:ns-asg_firmware:6.3",
-  "title": [
-    {
-      "text": "NETENTSEC NS-ASG FIRMWARE 6.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.netentsec.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/flyyue2001/cve/blob/main/NS-ASG-bak-leakage.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netentsec:ns-asg_firmware:6.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netentsec:ns-asg_firmware:6.3",
+	"title": [
+		{
+			"text": "NETENTSEC NS-ASG FIRMWARE 6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.netentsec.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/flyyue2001/cve/blob/main/NS-ASG-bak-leakage.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netentsec:ns-asg_firmware:6.3:*:*:*:*:*:*:*"
+	}
 }

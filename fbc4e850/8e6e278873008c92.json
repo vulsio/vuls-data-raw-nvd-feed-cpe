@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ibm:db2_connect:11.1.0.0::~~unlimited~~~",
-  "title": [
-    {
-      "text": "IBM DB2 Connect 11.1.0.0 Unlimited",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.ibm.com/us-en/?lnk=m"
-    },
-    {
-      "text": "Version",
-      "href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~Information%2BManagement&product=ibm/Information+Management/DB2&release=All&platform=All&function=fixId&fixids=special_35742_DB2-linuxppc64le-universal_fixpack-11.1.0.0-FP000%3A771884133768041088&includeSupersedes=0"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21990061"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:db2_connect:11.1.0.0:*:*:*:unlimited:*:*:*"
-  }
+	"name": "cpe:/a:ibm:db2_connect:11.1.0.0::~~unlimited~~~",
+	"title": [
+		{
+			"text": "IBM DB2 Connect 11.1.0.0 Unlimited",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.ibm.com/us-en/?lnk=m"
+		},
+		{
+			"text": "Version",
+			"href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm~Information%2BManagement&product=ibm/Information+Management/DB2&release=All&platform=All&function=fixId&fixids=special_35742_DB2-linuxppc64le-universal_fixpack-11.1.0.0-FP000%3A771884133768041088&includeSupersedes=0"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21990061"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:db2_connect:11.1.0.0:*:*:*:unlimited:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:rsa:authentication_manager:7.1:-",
-  "deprecated": true,
-  "deprecation_date": "2020-03-27T14:07:29.477Z",
-  "title": [
-    {
-      "text": "RSA Authentication Manager 7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.emc.com/security/rsa-securid/rsa-authentication-manager.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rsa:authentication_manager:7.1:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-27T10:07:29.477-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rsa:authentication_manager:7.1:-",
+	"deprecated": true,
+	"deprecation_date": "2020-03-27T14:07:29.477Z",
+	"title": [
+		{
+			"text": "RSA Authentication Manager 7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.emc.com/security/rsa-securid/rsa-authentication-manager.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rsa:authentication_manager:7.1:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-27T10:07:29.477-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:emc:rsa_authentication_manager:7.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

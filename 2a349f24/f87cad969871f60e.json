@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:rymera:wholesale_suite:1.2.4::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Rymera Web Co Wholesale Suite 1.2.4 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://rymera.com.au/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/woocommerce-wholesale-prices/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/woocommerce-wholesale-prices/wordpress-wholesale-suite-plugin-2-1-5-authenticated-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rymera:wholesale_suite:1.2.4:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:rymera:wholesale_suite:1.2.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Rymera Web Co Wholesale Suite 1.2.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://rymera.com.au/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/woocommerce-wholesale-prices/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-wholesale-prices/wordpress-wholesale-suite-plugin-2-1-5-authenticated-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rymera:wholesale_suite:1.2.4:*:*:*:*:wordpress:*:*"
+	}
 }

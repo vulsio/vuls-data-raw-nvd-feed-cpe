@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:saml:0.8::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins SAML 0.8 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/saml-plugin/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/saml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:saml:0.8:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:saml:0.8::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins SAML 0.8 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/saml-plugin/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/saml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:saml:0.8:*:*:*:*:jenkins:*:*"
+	}
 }

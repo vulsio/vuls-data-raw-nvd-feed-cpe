@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ruby-lang:uri:0.11.2::~~~ruby~~",
-  "title": [
-    {
-      "text": "Ruby-lang URI 0.11.2 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ruby/uri/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ruby-lang.org/en/news/2023/06/29/redos-in-uri-CVE-2023-36617/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/ruby/uri"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ruby-lang:uri:0.11.2:*:*:*:*:ruby:*:*"
-  }
+	"name": "cpe:/a:ruby-lang:uri:0.11.2::~~~ruby~~",
+	"title": [
+		{
+			"text": "Ruby-lang URI 0.11.2 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ruby/uri/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ruby-lang.org/en/news/2023/06/29/redos-in-uri-CVE-2023-36617/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/ruby/uri"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ruby-lang:uri:0.11.2:*:*:*:*:ruby:*:*"
+	}
 }

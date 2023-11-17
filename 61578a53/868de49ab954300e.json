@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:wavlink:jetstream_erac3000_firmware:-",
-  "title": [
-    {
-      "text": "WavLink JetStream ERAC3000 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sudo-jtcsec/CVE/blob/master/CVE-2020-12266-affected_devices"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:wavlink:jetstream_erac3000_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:wavlink:jetstream_erac3000_firmware:-",
+	"title": [
+		{
+			"text": "WavLink JetStream ERAC3000 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sudo-jtcsec/CVE/blob/master/CVE-2020-12266-affected_devices"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:wavlink:jetstream_erac3000_firmware:-:*:*:*:*:*:*:*"
+	}
 }

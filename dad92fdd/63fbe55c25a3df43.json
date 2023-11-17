@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redislabs:redis:4.0.0",
-  "title": [
-    {
-      "text": "Redis Labs Redis 4.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/antirez/redis/tags?after=3.2.2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redis:4.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redislabs:redis:4.0.0",
+	"title": [
+		{
+			"text": "Redis Labs Redis 4.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/antirez/redis/tags?after=3.2.2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redis:4.0.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:phoenixcontact:mguard_firmware:8.4.0",
-  "deprecated": true,
-  "deprecation_date": "2021-09-23T18:21:33.263Z",
-  "title": [
-    {
-      "text": "PHOENIX CONTACT mGuard Firmware 8.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://help.mguard.com/en/mguard8/manual/8.4/index.htm?cpn=98#t=105661_en_04%2FSection04%2FSection04.htm%23CSH_21"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-017-01"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.phoenixcontact.com/online/portal/pc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phoenixcontact:mguard_firmware:8.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-23T14:21:33.263-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:phoenixcontact:mguard_firmware:8.4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phoenixcontact:mguard_firmware:8.4.0",
+	"deprecated": true,
+	"deprecation_date": "2021-09-23T18:21:33.263Z",
+	"title": [
+		{
+			"text": "PHOENIX CONTACT mGuard Firmware 8.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://help.mguard.com/en/mguard8/manual/8.4/index.htm?cpn=98#t=105661_en_04%2FSection04%2FSection04.htm%23CSH_21"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-017-01"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.phoenixcontact.com/online/portal/pc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phoenixcontact:mguard_firmware:8.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-23T14:21:33.263-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:phoenixcontact:mguard_firmware:8.4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

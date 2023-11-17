@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gog:galaxy:2.0.19::~~~windows~~",
-  "title": [
-    {
-      "text": "GOG Galaxy 2.0.19 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gog.com/galaxy"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.positronsecurity.com/blog/2020-08-13-gog-galaxy_client-local-privilege-escalation_deuce/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gog:galaxy:2.0.19:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:gog:galaxy:2.0.19::~~~windows~~",
+	"title": [
+		{
+			"text": "GOG Galaxy 2.0.19 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gog.com/galaxy"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.positronsecurity.com/blog/2020-08-13-gog-galaxy_client-local-privilege-escalation_deuce/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gog:galaxy:2.0.19:*:*:*:*:windows:*:*"
+	}
 }

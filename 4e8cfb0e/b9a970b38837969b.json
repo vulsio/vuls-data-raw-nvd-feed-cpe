@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:apointzilla:appointment_calendar:2.9.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Apointzilla Appointment Calendar 2.9.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://appointzilla.com/documentation/pro/#apcal-about"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/appointment-calendar/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/appointment-calendar/wordpress-appointment-calendar-plugin-2-9-6-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apointzilla:appointment_calendar:2.9.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:apointzilla:appointment_calendar:2.9.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Apointzilla Appointment Calendar 2.9.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://appointzilla.com/documentation/pro/#apcal-about"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/appointment-calendar/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/appointment-calendar/wordpress-appointment-calendar-plugin-2-9-6-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apointzilla:appointment_calendar:2.9.3:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:golang:text:0.3.8",
-  "title": [
-    {
-      "text": "Golang Text 0.3.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/32xxx/CVE-2022-32149.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2022-1059"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:text:0.3.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:golang:text:0.3.8",
+	"title": [
+		{
+			"text": "Golang Text 0.3.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/32xxx/CVE-2022-32149.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2022-1059"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:text:0.3.8:*:*:*:*:*:*:*"
+	}
 }

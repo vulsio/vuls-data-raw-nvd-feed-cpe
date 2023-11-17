@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:dell:powerpath:7.2::~~~windows~~",
-  "title": [
-    {
-      "text": "Dell PowerPath 7.2 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.dell.com/support/home/en-us/product-support/product/powerpath-for-windows/drivers"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/home/en-us/product-support/product/powerpath-for-windows/overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000214248/dsa-2023-154-powerpath-windows-security-update-for-security-update-for-multiple-vulnerabilities"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:powerpath:7.2:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:dell:powerpath:7.2::~~~windows~~",
+	"title": [
+		{
+			"text": "Dell PowerPath 7.2 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.dell.com/support/home/en-us/product-support/product/powerpath-for-windows/drivers"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/home/en-us/product-support/product/powerpath-for-windows/overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000214248/dsa-2023-154-powerpath-windows-security-update-for-security-update-for-multiple-vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:powerpath:7.2:*:*:*:*:windows:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:digi:portserver_ts_mei_hardened:-",
-  "title": [
-    {
-      "text": "Digi PortServer TS MEI Hardened",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/industrial-hardened/portservertshfamily"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:digi:portserver_ts_mei_hardened:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:digi:portserver_ts_mei_hardened:-",
+	"title": [
+		{
+			"text": "Digi PortServer TS MEI Hardened",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.digi.com/products/networking/infrastructure-management/serial-connectivity/industrial-hardened/portservertshfamily"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:digi:portserver_ts_mei_hardened:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:splunk:splunk:9.1.0.1::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Splunk 9.1.0.1 Enterprise",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.splunk.com/Documentation/Splunk/9.1.1/ReleaseNotes/MeetSplunk"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://advisory.splunk.com/advisories/SVD-2023-0807"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:splunk:splunk:9.1.0.1:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:splunk:splunk:9.1.0.1::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Splunk 9.1.0.1 Enterprise",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.splunk.com/Documentation/Splunk/9.1.1/ReleaseNotes/MeetSplunk"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://advisory.splunk.com/advisories/SVD-2023-0807"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:splunk:splunk:9.1.0.1:*:*:*:enterprise:*:*:*"
+	}
 }

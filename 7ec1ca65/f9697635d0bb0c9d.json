@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:protocol:go-unixfsnode:1.1.2::~~~go~~",
-  "title": [
-    {
-      "text": "Protocol go-unixfsnode 1.1.2 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ipfs/go-unixfsnode/security/advisories/GHSA-4gj3-6r43-3wfc"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ipfs/go-unixfsnode/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:protocol:go-unixfsnode:1.1.2:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:protocol:go-unixfsnode:1.1.2::~~~go~~",
+	"title": [
+		{
+			"text": "Protocol go-unixfsnode 1.1.2 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ipfs/go-unixfsnode/security/advisories/GHSA-4gj3-6r43-3wfc"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ipfs/go-unixfsnode/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:protocol:go-unixfsnode:1.1.2:*:*:*:*:go:*:*"
+	}
 }

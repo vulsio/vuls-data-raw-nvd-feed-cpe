@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:xerces-c:3.2.3",
-  "deprecated": true,
-  "deprecation_date": "2023-02-05T21:10:01.860Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Xerces-C 3.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://xerces.apache.org/xerces-c/releases_archive.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.apache.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://gitbox.apache.org/repos/asf?p=xerces-c.git"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:xerces-c:3.2.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-02-05T16:10:01.860-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:xerces-c\\+\\+:3.2.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:xerces-c:3.2.3",
+	"deprecated": true,
+	"deprecation_date": "2023-02-05T21:10:01.860Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Xerces-C 3.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://xerces.apache.org/xerces-c/releases_archive.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.apache.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitbox.apache.org/repos/asf?p=xerces-c.git"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:xerces-c:3.2.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-02-05T16:10:01.860-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:xerces-c\\+\\+:3.2.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

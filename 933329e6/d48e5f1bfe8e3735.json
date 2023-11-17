@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nhi:health_insurance_web_service_component:-",
-  "title": [
-    {
-      "text": "NHI Health Insurance Web Service Component",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nhi.gov.tw/english/Content_List.aspx?n=320832076C00692B&topn=BCB2B0D2433F6491"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.twcert.org.tw/tw/cp-132-6227-eaf49-1.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/45xxx/CVE-2021-45918.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nhi:health_insurance_web_service_component:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nhi:health_insurance_web_service_component:-",
+	"title": [
+		{
+			"text": "NHI Health Insurance Web Service Component",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nhi.gov.tw/english/Content_List.aspx?n=320832076C00692B&topn=BCB2B0D2433F6491"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.twcert.org.tw/tw/cp-132-6227-eaf49-1.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/45xxx/CVE-2021-45918.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nhi:health_insurance_web_service_component:-:*:*:*:*:*:*:*"
+	}
 }

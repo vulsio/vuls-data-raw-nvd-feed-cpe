@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:solarwinds:network_performance_monitor:12.3",
-  "title": [
-    {
-      "text": "SolarWinds Network Performance Monitor 12.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://labs.nettitude.com/blog/cve-2018-13442-solarwinds-npm-sql-injection/"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.solarwinds.com/SuccessCenter/s/network-performance-monitor-npm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:solarwinds:network_performance_monitor:12.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:solarwinds:network_performance_monitor:12.3",
+	"title": [
+		{
+			"text": "SolarWinds Network Performance Monitor 12.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://labs.nettitude.com/blog/cve-2018-13442-solarwinds-npm-sql-injection/"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.solarwinds.com/SuccessCenter/s/network-performance-monitor-npm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:solarwinds:network_performance_monitor:12.3:*:*:*:*:*:*:*"
+	}
 }

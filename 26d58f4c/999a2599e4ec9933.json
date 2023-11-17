@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:netiq:snmp_trap_receiver:1.3.9.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-13T17:24:15.603Z",
-  "title": [
-    {
-      "text": "Netiq Snmp Trap Receiver 1.3.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netiq:snmp_trap_receiver:1.3.9.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-13T13:24:15.603-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microfocus:snmp_trap_receiver:1.3.9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netiq:snmp_trap_receiver:1.3.9.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-13T17:24:15.603Z",
+	"title": [
+		{
+			"text": "Netiq Snmp Trap Receiver 1.3.9.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netiq:snmp_trap_receiver:1.3.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-13T13:24:15.603-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microfocus:snmp_trap_receiver:1.3.9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

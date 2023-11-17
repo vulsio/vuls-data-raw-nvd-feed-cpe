@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.8.0:update_281",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T12:55:44.440Z",
-  "title": [
-    {
-      "text": "Oracle Java Development Kit (JDK) 1.8.0 Update 281",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.8.0:update_281:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T08:55:44.440-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.8.0:update281:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.8.0:update_281",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T12:55:44.440Z",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 1.8.0 Update 281",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.8.0:update_281:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T08:55:44.440-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.8.0:update281:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

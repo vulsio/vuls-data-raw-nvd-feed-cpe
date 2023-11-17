@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:novell:suse_linux_enterprise_server:12.0",
-  "deprecated": true,
-  "deprecation_date": "2021-07-09T15:43:32.673Z",
-  "title": [
-    {
-      "text": "Novell SUSE Linux Enterprise Server 12.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.suse.com/releasenotes/x86_64/SUSE-SLES/12/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.suse.com/products/server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:novell:suse_linux_enterprise_server:12.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-09T11:43:32.673-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:novell:suse_linux_enterprise_server:12.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:novell:suse_linux_enterprise_server:12.0",
+	"deprecated": true,
+	"deprecation_date": "2021-07-09T15:43:32.673Z",
+	"title": [
+		{
+			"text": "Novell SUSE Linux Enterprise Server 12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.suse.com/releasenotes/x86_64/SUSE-SLES/12/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.suse.com/products/server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:novell:suse_linux_enterprise_server:12.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-09T11:43:32.673-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:novell:suse_linux_enterprise_server:12.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

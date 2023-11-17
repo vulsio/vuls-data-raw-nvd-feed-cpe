@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:atlas_kubernetes_operator:1.6.0",
-  "title": [
-    {
-      "text": "MongoDB Atlas Kubernetes Operator 1.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mongodb/mongodb-atlas-kubernetes/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mongodb/mongodb-atlas-kubernetes/releases/tag/v1.7.1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mongodb:atlas_kubernetes_operator:1.6.0",
+	"title": [
+		{
+			"text": "MongoDB Atlas Kubernetes Operator 1.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mongodb/mongodb-atlas-kubernetes/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mongodb/mongodb-atlas-kubernetes/releases/tag/v1.7.1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:atlas_kubernetes_operator:1.6.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:nvidia:dgx_a100_firmware:22.5.5",
-  "title": [
-    {
-      "text": "Nvidia DGX A100 Firmware 22.5.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5367"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nvidia:dgx_a100_firmware:22.5.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:nvidia:dgx_a100_firmware:22.5.5",
+	"title": [
+		{
+			"text": "Nvidia DGX A100 Firmware 22.5.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5367"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:dgx_a100_firmware:22.5.5:*:*:*:*:*:*:*"
+	}
 }

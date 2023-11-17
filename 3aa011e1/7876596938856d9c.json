@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puppetlabs:puppet:3.7.0::~~enterprise~~~",
-  "deprecated": true,
-  "deprecation_date": "2019-07-10T17:47:40.660Z",
-  "title": [
-    {
-      "text": "Puppetlabs Puppet Enterprise 3.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://puppetlabs.com/"
-    },
-    {
-      "text": "Puppetlabs Puppet Enterprise",
-      "href": "http://docs.puppetlabs.com/pe/latest/overview_whats_new.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:puppet:3.7.0:*:*:*:enterprise:*:*:*",
-    "deprecation": {
-      "date": "2019-07-10T13:47:40.660-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:puppet_enterprise:3.7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:puppet:3.7.0::~~enterprise~~~",
+	"deprecated": true,
+	"deprecation_date": "2019-07-10T17:47:40.660Z",
+	"title": [
+		{
+			"text": "Puppetlabs Puppet Enterprise 3.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://puppetlabs.com/"
+		},
+		{
+			"text": "Puppetlabs Puppet Enterprise",
+			"href": "http://docs.puppetlabs.com/pe/latest/overview_whats_new.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:puppet:3.7.0:*:*:*:enterprise:*:*:*",
+		"deprecation": {
+			"date": "2019-07-10T13:47:40.660-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:puppet_enterprise:3.7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

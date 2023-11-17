@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:xtivia:web_time_and_expense:2017::~~~dynamics_365~~",
-  "title": [
-    {
-      "text": "XTIVIA Web Time And Expense 2017 for Dynamics 365",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.xtivia.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.nolanbkennedy.com/post/insecure-direct-object-reference-idor-in-xtivia-web-time-and-expense-webte"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xtivia:web_time_and_expense:2017:*:*:*:*:dynamics_365:*:*"
-  }
+	"name": "cpe:/a:xtivia:web_time_and_expense:2017::~~~dynamics_365~~",
+	"title": [
+		{
+			"text": "XTIVIA Web Time And Expense 2017 for Dynamics 365",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.xtivia.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.nolanbkennedy.com/post/insecure-direct-object-reference-idor-in-xtivia-web-time-and-expense-webte"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xtivia:web_time_and_expense:2017:*:*:*:*:dynamics_365:*:*"
+	}
 }

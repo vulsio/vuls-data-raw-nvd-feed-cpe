@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:progress:openedge_explorer:-",
-  "title": [
-    {
-      "text": "Progress OpenEdge Explorer",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.progress.com/bundle/openedge-developer-studio-olh-117/page/OpenEdge-Explorer-Tool.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/34xxx/CVE-2023-34203.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:progress:openedge_explorer:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:progress:openedge_explorer:-",
+	"title": [
+		{
+			"text": "Progress OpenEdge Explorer",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.progress.com/bundle/openedge-developer-studio-olh-117/page/OpenEdge-Explorer-Tool.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/34xxx/CVE-2023-34203.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:progress:openedge_explorer:-:*:*:*:*:*:*:*"
+	}
 }

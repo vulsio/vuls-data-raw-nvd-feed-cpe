@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pivotal_software:spring_framework:3.2.16",
-  "deprecated": true,
-  "deprecation_date": "2022-04-11T17:14:53.813Z",
-  "title": [
-    {
-      "text": "Pivotal Software Spring Framework 3.2.16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://projects.spring.io/spring-framework/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-projects/spring-framework"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:spring_framework:3.2.16:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-11T13:14:53.813-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:spring_framework:3.2.16:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:spring_framework:3.2.16",
+	"deprecated": true,
+	"deprecation_date": "2022-04-11T17:14:53.813Z",
+	"title": [
+		{
+			"text": "Pivotal Software Spring Framework 3.2.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://projects.spring.io/spring-framework/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-framework"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:spring_framework:3.2.16:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-11T13:14:53.813-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:spring_framework:3.2.16:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

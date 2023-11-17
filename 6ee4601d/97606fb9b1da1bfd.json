@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpdeveloper:essential_blocks:4.1.4::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Wpdeveloper Essential Blocks 4.1.4 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/essential-blocks-420-unauthenticated-php-object-injection-via-products"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/essential-blocks/#developers"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wpdeveloper.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.1.4:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpdeveloper:essential_blocks:4.1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Wpdeveloper Essential Blocks 4.1.4 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/essential-blocks-420-unauthenticated-php-object-injection-via-products"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/essential-blocks/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpdeveloper.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.1.4:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:intel:saffron_memorybase:11.4",
-  "title": [
-    {
-      "text": "Intel Saffron MemoryBase 11.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00136.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://saffrontech.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://saffrontech.atlassian.net/wiki/spaces/SMB11x/overview"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:saffron_memorybase:11.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:intel:saffron_memorybase:11.4",
+	"title": [
+		{
+			"text": "Intel Saffron MemoryBase 11.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00136.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://saffrontech.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://saffrontech.atlassian.net/wiki/spaces/SMB11x/overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:saffron_memorybase:11.4:*:*:*:*:*:*:*"
+	}
 }

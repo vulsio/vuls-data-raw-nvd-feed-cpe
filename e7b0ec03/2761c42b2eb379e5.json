@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:custom_404_pro_project:custom_404_pro:3.2.2::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-08-30T14:47:39.723Z",
-  "title": [
-    {
-      "text": "Custom 404 Pro Project Custom 404 Pro 3.2.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/custom-404-pro/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.2.2:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-08-30T10:47:39.723-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kunalnagar:custom_404_pro:3.2.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:custom_404_pro_project:custom_404_pro:3.2.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-08-30T14:47:39.723Z",
+	"title": [
+		{
+			"text": "Custom 404 Pro Project Custom 404 Pro 3.2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/custom-404-pro/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:custom_404_pro_project:custom_404_pro:3.2.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-08-30T10:47:39.723-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kunalnagar:custom_404_pro:3.2.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

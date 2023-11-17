@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:microsoft:word:2010:sp1:~~~x64~~",
-  "deprecated": true,
-  "deprecation_date": "2014-12-08T18:39:13.223Z",
-  "title": [
-    {
-      "text": "Microsoft Word 2010 Service Pack 1 x64 (64bit)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "MS Bulletin",
-      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-072"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:word:2010:sp1:*:*:*:x64:*:*",
-    "deprecation": {
-      "date": "2014-12-08T13:39:13.223-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:word:2010:sp1:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:word:2010:sp1:~~~x64~~",
+	"deprecated": true,
+	"deprecation_date": "2014-12-08T18:39:13.223Z",
+	"title": [
+		{
+			"text": "Microsoft Word 2010 Service Pack 1 x64 (64bit)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "MS Bulletin",
+			"href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-072"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:word:2010:sp1:*:*:*:x64:*:*",
+		"deprecation": {
+			"date": "2014-12-08T13:39:13.223-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:word:2010:sp1:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:eset:endpoint_antivirus:6.6.2046.0::~~~windows~~",
-  "title": [
-    {
-      "text": "ESET Endpoint Antivirus 6.6.2046.0 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://help.eset.com/latestVersions/?lang=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:endpoint_antivirus:6.6.2046.0:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:eset:endpoint_antivirus:6.6.2046.0::~~~windows~~",
+	"title": [
+		{
+			"text": "ESET Endpoint Antivirus 6.6.2046.0 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://help.eset.com/latestVersions/?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:endpoint_antivirus:6.6.2046.0:*:*:*:*:windows:*:*"
+	}
 }

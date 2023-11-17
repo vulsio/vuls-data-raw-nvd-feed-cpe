@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:modpagespeed:mod_pagespeed:0.10.19.1",
-  "deprecated": true,
-  "deprecation_date": "2013-11-12T17:22:23.280Z",
-  "title": [
-    {
-      "text": "modpagespeed mod_pagespeed 0.10.19.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-11-12T12:22:23.280-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:modpagespeed:mod_pagespeed:0.10.19.1",
+	"deprecated": true,
+	"deprecation_date": "2013-11-12T17:22:23.280Z",
+	"title": [
+		{
+			"text": "modpagespeed mod_pagespeed 0.10.19.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:modpagespeed:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-11-12T12:22:23.280-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:mod_pagespeed:0.10.19.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

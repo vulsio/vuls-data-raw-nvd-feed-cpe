@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:hp:service_manager:9.31",
-  "deprecated": true,
-  "deprecation_date": "2013-10-30T15:15:55.183Z",
-  "title": [
-    {
-      "text": "HP Service Manager 9.31",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:hp:service_manager:9.31:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-10-30T11:15:55.183-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hp:service_manager:9.31:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:hp:service_manager:9.31",
+	"deprecated": true,
+	"deprecation_date": "2013-10-30T15:15:55.183Z",
+	"title": [
+		{
+			"text": "HP Service Manager 9.31",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:service_manager:9.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-10-30T11:15:55.183-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hp:service_manager:9.31:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

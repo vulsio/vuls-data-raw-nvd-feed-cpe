@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:puppetlabs:puppet_dashboard:1.1.1",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T11:43:33.157Z",
-  "title": [
-    {
-      "text": "Puppetlabs Puppet Dashboard 1.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product version information",
-      "href": "https://downloads.puppetlabs.com/dashboard/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:puppet_dashboard:1.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-11T07:43:33.157-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:puppet_dashboard:1.1.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:puppet_dashboard:1.1.1",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T11:43:33.157Z",
+	"title": [
+		{
+			"text": "Puppetlabs Puppet Dashboard 1.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product version information",
+			"href": "https://downloads.puppetlabs.com/dashboard/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:puppet_dashboard:1.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-11T07:43:33.157-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:puppet_dashboard:1.1.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

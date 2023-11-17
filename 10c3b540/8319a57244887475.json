@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:smanos:w100_firmware:1.0.0",
-  "title": [
-    {
-      "text": "Smanos W100 Firmware 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cvedetails.com/cve/CVE-2019-13361/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.smanos.com/uploads/en/W100-UM-EN-V1.0_WM-150408.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:smanos:w100_firmware:1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:smanos:w100_firmware:1.0.0",
+	"title": [
+		{
+			"text": "Smanos W100 Firmware 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cvedetails.com/cve/CVE-2019-13361/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.smanos.com/uploads/en/W100-UM-EN-V1.0_WM-150408.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:smanos:w100_firmware:1.0.0:*:*:*:*:*:*:*"
+	}
 }

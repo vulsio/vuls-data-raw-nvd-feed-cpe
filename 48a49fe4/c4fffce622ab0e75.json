@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:golang:h2c:-::~~~go~~",
-  "title": [
-    {
-      "text": "Golang h2c for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2023-1495"
-    },
-    {
-      "text": "Version",
-      "href": "https://go-review.googlesource.com/c/net/+/447396"
-    },
-    {
-      "text": "Product",
-      "href": "https://pkg.go.dev/golang.org/x/net/http2/h2c"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:h2c:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:golang:h2c:-::~~~go~~",
+	"title": [
+		{
+			"text": "Golang h2c for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-1495"
+		},
+		{
+			"text": "Version",
+			"href": "https://go-review.googlesource.com/c/net/+/447396"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/golang.org/x/net/http2/h2c"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:h2c:-:*:*:*:*:go:*:*"
+	}
 }

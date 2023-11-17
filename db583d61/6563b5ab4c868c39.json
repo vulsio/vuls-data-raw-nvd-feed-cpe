@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:rsa:authentication_manager:8.4:patch6",
-  "deprecated": true,
-  "deprecation_date": "2020-03-27T14:07:58.967Z",
-  "title": [
-    {
-      "text": "RSA Authentication Manager 8.4 Patch 6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/security/en-us/details/DOC-109297/DSA-2019-168-RSA&#174;-Authentication-Manager-Software-Stored-Cross-Site-Scripting-Vulnerability"
-    },
-    {
-      "text": "Product",
-      "href": "https://community.rsa.com/docs/DOC-106807"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch6:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-27T10:07:58.967-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch6:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rsa:authentication_manager:8.4:patch6",
+	"deprecated": true,
+	"deprecation_date": "2020-03-27T14:07:58.967Z",
+	"title": [
+		{
+			"text": "RSA Authentication Manager 8.4 Patch 6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/security/en-us/details/DOC-109297/DSA-2019-168-RSA&#174;-Authentication-Manager-Software-Stored-Cross-Site-Scripting-Vulnerability"
+		},
+		{
+			"text": "Product",
+			"href": "https://community.rsa.com/docs/DOC-106807"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rsa:authentication_manager:8.4:patch6:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-27T10:07:58.967-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:emc:rsa_authentication_manager:8.4:patch6:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

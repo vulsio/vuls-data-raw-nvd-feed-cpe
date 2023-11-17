@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:three_project:three:0.54.0::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2021-02-23T13:18:59.820Z",
-  "title": [
-    {
-      "text": "three project three 0.54.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/three"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:three_project:three:0.54.0:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2021-02-23T08:18:59.820-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:three_project:three:0.54.0:-:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:three_project:three:0.54.0::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2021-02-23T13:18:59.820Z",
+	"title": [
+		{
+			"text": "three project three 0.54.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/three"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:three_project:three:0.54.0:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2021-02-23T08:18:59.820-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:three_project:three:0.54.0:-:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

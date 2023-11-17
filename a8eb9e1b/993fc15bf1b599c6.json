@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dokuwiki:dokuwiki:2014_05_05d",
-  "deprecated": true,
-  "deprecation_date": "2019-09-23T18:06:45.080Z",
-  "title": [
-    {
-      "text": "DokuWiki 2014 05 05d",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/splitbrain/dokuwiki/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dokuwiki.org/dokuwiki"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dokuwiki:dokuwiki:2014_05_05d:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-23T14:06:45.080-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dokuwiki:dokuwiki:2014-05-05d:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dokuwiki:dokuwiki:2014_05_05d",
+	"deprecated": true,
+	"deprecation_date": "2019-09-23T18:06:45.080Z",
+	"title": [
+		{
+			"text": "DokuWiki 2014 05 05d",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/splitbrain/dokuwiki/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dokuwiki.org/dokuwiki"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dokuwiki:dokuwiki:2014_05_05d:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-23T14:06:45.080-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dokuwiki:dokuwiki:2014-05-05d:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

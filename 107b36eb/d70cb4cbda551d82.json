@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:8.14.9::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 8.14.9 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:8.14.9:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:8.14.9::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 8.14.9 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:8.14.9:*:*:*:community:*:*:*"
+	}
 }

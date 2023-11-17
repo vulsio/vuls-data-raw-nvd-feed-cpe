@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:exchange_server:2013:cumulative_update_8",
-  "title": [
-    {
-      "text": "Microsoft Exchange Server 2013 Cumulative Update 8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2015/ms15-064"
-    },
-    {
-      "text": "Vendor Website",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=46373"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:exchange_server:2013:cumulative_update_8",
+	"title": [
+		{
+			"text": "Microsoft Exchange Server 2013 Cumulative Update 8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2015/ms15-064"
+		},
+		{
+			"text": "Vendor Website",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=46373"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:exchange_server:2013:cumulative_update_8:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:samba:samba:3.0",
-  "deprecated": true,
-  "deprecation_date": "2013-11-13T17:34:19.743Z",
-  "title": [
-    {
-      "text": "Samba 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:samba:3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-11-13T12:34:19.743-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:samba:samba:3.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:samba:3.0",
+	"deprecated": true,
+	"deprecation_date": "2013-11-13T17:34:19.743Z",
+	"title": [
+		{
+			"text": "Samba 3.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:samba:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-11-13T12:34:19.743-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:samba:samba:3.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

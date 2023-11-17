@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:lotus_domino:8.5.3.5",
-  "title": [
-    {
-      "text": "IBM Lotus Domino 8.5.3.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "IBM fix central for Lotus Domino",
-      "href": "http://www-933.ibm.com/support/fixcentral/options"
-    },
-    {
-      "text": "IBM iNotes Cross-Site Scripting Vulnerabilities (CVE-2013-4063, CVE-2013-4064, CVE-2013-4065)",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21659959"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:lotus_domino:8.5.3.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:lotus_domino:8.5.3.5",
+	"title": [
+		{
+			"text": "IBM Lotus Domino 8.5.3.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "IBM fix central for Lotus Domino",
+			"href": "http://www-933.ibm.com/support/fixcentral/options"
+		},
+		{
+			"text": "IBM iNotes Cross-Site Scripting Vulnerabilities (CVE-2013-4063, CVE-2013-4064, CVE-2013-4065)",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21659959"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:lotus_domino:8.5.3.5:*:*:*:*:*:*:*"
+	}
 }

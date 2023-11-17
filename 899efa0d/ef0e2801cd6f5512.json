@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:seopress:seopress:5.0.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "SEOPress SEOPress 5.0.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.seopress.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-seopress/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:seopress:seopress:5.0.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:seopress:seopress:5.0.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SEOPress SEOPress 5.0.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/blog/2021/08/xss-vulnerability-patched-in-seopress-affects-100000-sites/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.seopress.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-seopress/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:seopress:seopress:5.0.3:*:*:*:*:wordpress:*:*"
+	}
 }

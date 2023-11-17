@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pnpm:pnpm:8.0.0::~~~~node.js~",
-  "title": [
-    {
-      "text": "Pnpm Pnpm 8.0.0 on Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/pnpm/pnpm/security/advisories/GHSA-5r98-f33j-g8h7"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://pnpm.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/pnpm/pnpm/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pnpm:pnpm:8.0.0:*:*:*:*:*:node.js:*"
-  }
+	"name": "cpe:/a:pnpm:pnpm:8.0.0::~~~~node.js~",
+	"title": [
+		{
+			"text": "Pnpm Pnpm 8.0.0 on Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pnpm/pnpm/security/advisories/GHSA-5r98-f33j-g8h7"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://pnpm.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pnpm/pnpm/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pnpm:pnpm:8.0.0:*:*:*:*:*:node.js:*"
+	}
 }

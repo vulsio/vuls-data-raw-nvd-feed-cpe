@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:notaryproject:notation:1.0.0:rc3:~~~go~~",
-  "title": [
-    {
-      "text": "Notaryproject Notation 1.0.0 Release Candidate 3 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/notaryproject/notation-go/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://pkg.go.dev/github.com/notaryproject/notation-go"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://notaryproject.dev/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:notaryproject:notation:1.0.0:rc3:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:notaryproject:notation:1.0.0:rc3:~~~go~~",
+	"title": [
+		{
+			"text": "Notaryproject Notation 1.0.0 Release Candidate 3 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/notaryproject/notation-go/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/notaryproject/notation-go"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://notaryproject.dev/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:notaryproject:notation:1.0.0:rc3:*:*:*:go:*:*"
+	}
 }

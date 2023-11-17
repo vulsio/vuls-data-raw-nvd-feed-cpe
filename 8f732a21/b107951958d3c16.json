@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:bluecms:bluecms:1.6",
-  "deprecated": true,
-  "deprecation_date": "2020-02-18T17:47:15.143Z",
-  "title": [
-    {
-      "text": "BlueCMS 1.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/34604"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bluecms:bluecms:1.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-18T12:47:15.143-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bluecms_project:bluecms:1.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bluecms:bluecms:1.6",
+	"deprecated": true,
+	"deprecation_date": "2020-02-18T17:47:15.143Z",
+	"title": [
+		{
+			"text": "BlueCMS 1.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/34604"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bluecms:bluecms:1.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-18T12:47:15.143-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bluecms_project:bluecms:1.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

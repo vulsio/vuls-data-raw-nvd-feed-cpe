@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:iis:6.0",
-  "deprecated": true,
-  "deprecation_date": "2019-07-03T17:25:47.343Z",
-  "title": [
-    {
-      "text": "Microsoft Internet Information Services (IIS) 6.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:iis:6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-03T13:25:47.343-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:internet_information_server:6.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:iis:6.0",
+	"deprecated": true,
+	"deprecation_date": "2019-07-03T17:25:47.343Z",
+	"title": [
+		{
+			"text": "Microsoft Internet Information Services (IIS) 6.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:iis:6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-03T13:25:47.343-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:internet_information_server:6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

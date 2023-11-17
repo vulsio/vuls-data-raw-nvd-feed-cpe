@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:epyc_7413_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) EPYC 7413 FIRMWARE ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.cpu-monkey.com/en/cpu_family-amd_epyc-36"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1021"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:epyc_7413_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:epyc_7413_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 7413 FIRMWARE ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cpu-monkey.com/en/cpu_family-amd_epyc-36"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1021"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_7413_firmware:-:*:*:*:*:*:*:*"
+	}
 }

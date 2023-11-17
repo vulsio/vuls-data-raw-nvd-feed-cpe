@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:commonwl:cwlviewer:1.2.2",
-  "title": [
-    {
-      "text": "Commonwl CWLViewer 1.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/common-workflow-language/cwlviewer/security/advisories/GHSA-7g7j-f5g3-fqp7"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.fatalerrors.org/a/analysis-of-the-snakeyaml-deserialization-in-java-security.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.commonwl.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/common-workflow-language/cwlviewer/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:commonwl:cwlviewer:1.2.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:commonwl:cwlviewer:1.2.2",
+	"title": [
+		{
+			"text": "Commonwl CWLViewer 1.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/common-workflow-language/cwlviewer/security/advisories/GHSA-7g7j-f5g3-fqp7"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.fatalerrors.org/a/analysis-of-the-snakeyaml-deserialization-in-java-security.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.commonwl.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/common-workflow-language/cwlviewer/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:commonwl:cwlviewer:1.2.2:*:*:*:*:*:*:*"
+	}
 }

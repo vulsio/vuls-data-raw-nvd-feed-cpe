@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:facebook:facebook:3.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Facebook 3.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/official-facebook-pixel/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/blog/2021/03/two-vulnerabilities-patched-in-facebook-for-wordpress-plugin/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:facebook:facebook:3.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:facebook:facebook:3.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Facebook 3.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/official-facebook-pixel/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/blog/2021/03/two-vulnerabilities-patched-in-facebook-for-wordpress-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:facebook:facebook:3.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:iksweb:wordpress_ctapt:2.7::~~~wordpress~~",
-  "title": [
-    {
-      "text": "IKSWEB WordPress Ctapt (WordPress Start) 2.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://iksweb.ru/plugins/wordpress-start/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/iksweb/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/iksweb/wordpress-start-plugin-3-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:iksweb:wordpress_ctapt:2.7:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:iksweb:wordpress_ctapt:2.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "IKSWEB WordPress Ctapt (WordPress Start) 2.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://iksweb.ru/plugins/wordpress-start/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/iksweb/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/iksweb/wordpress-start-plugin-3-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:iksweb:wordpress_ctapt:2.7:*:*:*:*:wordpress:*:*"
+	}
 }

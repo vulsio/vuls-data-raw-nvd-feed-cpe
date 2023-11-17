@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:plone:plone:4.3.18::~~alpine~~~",
-  "title": [
-    {
-      "text": "Plone Plone 4.3.18 Alpine Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://plone.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35190"
-    },
-    {
-      "text": "Version",
-      "href": "https://hub.docker.com/_/plone?tab=tags&page=1&ordering=-last_updated&name=alpine"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:alpine:*:*:*"
-  }
+	"name": "cpe:/a:plone:plone:4.3.18::~~alpine~~~",
+	"title": [
+		{
+			"text": "Plone Plone 4.3.18 Alpine Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://plone.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-35190"
+		},
+		{
+			"text": "Version",
+			"href": "https://hub.docker.com/_/plone?tab=tags&page=1&ordering=-last_updated&name=alpine"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plone:plone:4.3.18:*:*:*:alpine:*:*:*"
+	}
 }

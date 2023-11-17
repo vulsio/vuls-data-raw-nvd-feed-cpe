@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:digi:cm_firmware:-",
-  "title": [
-    {
-      "text": "Digi CM Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.digi.com/support/products/infrastructure-management/digi-cm/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:digi:cm_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:digi:cm_firmware:-",
+	"title": [
+		{
+			"text": "Digi CM Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.digi.com/support/products/infrastructure-management/digi-cm/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/reidmefirst/vuln-disclosure/main/2021-02.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:digi:cm_firmware:-:*:*:*:*:*:*:*"
+	}
 }

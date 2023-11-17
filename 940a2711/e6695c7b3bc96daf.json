@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:freebsd:freebsd:12.1:p2",
-  "title": [
-    {
-      "text": "FreeBSD 12.1 Patch 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.freebsd.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=243778"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-20:05.if_oce_ioctl.asc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:freebsd:freebsd:12.1:p2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:freebsd:freebsd:12.1:p2",
+	"title": [
+		{
+			"text": "FreeBSD 12.1 Patch 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.freebsd.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=243778"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-20:05.if_oce_ioctl.asc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:12.1:p2:*:*:*:*:*:*"
+	}
 }

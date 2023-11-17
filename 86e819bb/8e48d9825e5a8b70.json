@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dollar.bank:dollar_bank_mobile:2.5::~~~iphone_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-06-23T18:28:38.497Z",
-  "title": [
-    {
-      "text": "Dollar Bank Mobile 2.5 for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://dollar.bank/Personal.aspx"
-    },
-    {
-      "text": "Product",
-      "href": "https://itunes.apple.com/us/app/dollar-bank-mobile/id380722640?mt=8"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dollar.bank:dollar_bank_mobile:2.5:*:*:*:*:iphone_os:*:*",
-    "deprecation": {
-      "date": "2020-06-23T14:28:38.497-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dollar_bank:dollar_bank_mobile:2.5:*:*:*:*:iphone_os:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dollar.bank:dollar_bank_mobile:2.5::~~~iphone_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-06-23T18:28:38.497Z",
+	"title": [
+		{
+			"text": "Dollar Bank Mobile 2.5 for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://dollar.bank/Personal.aspx"
+		},
+		{
+			"text": "Product",
+			"href": "https://itunes.apple.com/us/app/dollar-bank-mobile/id380722640?mt=8"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dollar.bank:dollar_bank_mobile:2.5:*:*:*:*:iphone_os:*:*",
+		"deprecation": {
+			"date": "2020-06-23T14:28:38.497-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dollar_bank:dollar_bank_mobile:2.5:*:*:*:*:iphone_os:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

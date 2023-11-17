@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:db2:8.0:fixpak8a",
-  "title": [
-    {
-      "text": "IBM DB2 8.0 Fixpak 8a",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v82/APARLIST.TXT"
-    },
-    {
-      "text": "Product",
-      "href": "https://www-01.ibm.com/support/docview.wss?uid=swg21370360#EOS1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:db2:8.0:fixpak8a:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:db2:8.0:fixpak8a",
+	"title": [
+		{
+			"text": "IBM DB2 8.0 Fixpak 8a",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "ftp://ftp.software.ibm.com/ps/products/db2/fixes/english-us/aparlist/db2_v82/APARLIST.TXT"
+		},
+		{
+			"text": "Product",
+			"href": "https://www-01.ibm.com/support/docview.wss?uid=swg21370360#EOS1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:db2:8.0:fixpak8a:*:*:*:*:*:*"
+	}
 }

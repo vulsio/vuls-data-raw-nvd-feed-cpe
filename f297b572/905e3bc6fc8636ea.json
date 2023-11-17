@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sonicwall:email_security_virtual_appliance:10.0.5",
-  "title": [
-    {
-      "text": "SonicWall Email Security Virtual Appliance 10.0.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://software.sonicwall.com/EmailSecurityVA/Documentation/232-005209-00_EmailSecurity_10.0.5_ReleaseNotes_RevA.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0012"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonicwall:email_security_virtual_appliance:10.0.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sonicwall:email_security_virtual_appliance:10.0.5",
+	"title": [
+		{
+			"text": "SonicWall Email Security Virtual Appliance 10.0.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://software.sonicwall.com/EmailSecurityVA/Documentation/232-005209-00_EmailSecurity_10.0.5_ReleaseNotes_RevA.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0012"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:email_security_virtual_appliance:10.0.5:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:serenityos:serenityos:2021-01-27",
-  "title": [
-    {
-      "text": "SerenityOS 2021-01-27",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/SerenityOS/serenity/commit/f6c6047e49f1517778f5565681fb64750b14bf60"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:serenityos:serenityos:2021-01-27:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:serenityos:serenityos:2021-01-27",
+	"title": [
+		{
+			"text": "SerenityOS 2021-01-27",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/SerenityOS/serenity/commit/f6c6047e49f1517778f5565681fb64750b14bf60"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://devcraft.io/2021/02/11/serenityos-writing-a-full-chain-exploit.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:serenityos:serenityos:2021-01-27:*:*:*:*:*:*:*"
+	}
 }

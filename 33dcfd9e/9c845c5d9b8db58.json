@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:realtek:ecos_rsdk_firmware:1.5.7p1",
-  "title": [
-    {
-      "text": "Realtek Ecos Rsdk Firmware 1.5.7p1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.realtek.com/images/safe-report/Realtek_APRouter_SDK_Advisory-CVE-2022-27255.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27255.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:realtek:ecos_rsdk_firmware:1.5.7p1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:realtek:ecos_rsdk_firmware:1.5.7p1",
+	"title": [
+		{
+			"text": "Realtek Ecos Rsdk Firmware 1.5.7p1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.realtek.com/images/safe-report/Realtek_APRouter_SDK_Advisory-CVE-2022-27255.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27255.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:realtek:ecos_rsdk_firmware:1.5.7p1:*:*:*:*:*:*:*"
+	}
 }

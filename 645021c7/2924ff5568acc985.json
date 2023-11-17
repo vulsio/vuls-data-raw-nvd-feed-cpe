@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:messagepack_project:messagepack:1.2.1::~~~go~~",
-  "title": [
-    {
-      "text": "MessagePack Project MessagePack 1.2.1 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2022-0972"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/shamaton/msgpack/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:messagepack_project:messagepack:1.2.1:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:messagepack_project:messagepack:1.2.1::~~~go~~",
+	"title": [
+		{
+			"text": "MessagePack Project MessagePack 1.2.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2022-0972"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/shamaton/msgpack/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:messagepack_project:messagepack:1.2.1:*:*:*:*:go:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:java:-",
-  "title": [
-    {
-      "text": "Kubernetes Java",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes-client/java/issues/1491"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes-client/java/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:java:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:java:-",
+	"title": [
+		{
+			"text": "Kubernetes Java",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes-client/java/issues/1491"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes-client/java/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:java:-:*:*:*:*:*:*:*"
+	}
 }

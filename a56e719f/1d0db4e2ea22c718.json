@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:abb:ao-opc:1.0.0",
-  "title": [
-    {
-      "text": "ABB AO-OPC 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.cve.org/CVERecord?id=CVE-2023-2685"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108468A4093&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:ao-opc:1.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:abb:ao-opc:1.0.0",
+	"title": [
+		{
+			"text": "ABB AO-OPC 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-2685"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108468A4093&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:ao-opc:1.0.0:*:*:*:*:*:*:*"
+	}
 }

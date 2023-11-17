@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vivotek:ipcam_firmware:0x20x",
-  "title": [
-    {
-      "text": "Vivotek Ipcam Firmware 0x20x",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://download.vivotek.com/downloadfile/support/cyber-security/vvtk-sa-2019-002-v1.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.vivotek.com/products/network-cameras"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vivotek:ipcam_firmware:0x20x:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vivotek:ipcam_firmware:0x20x",
+	"title": [
+		{
+			"text": "Vivotek Ipcam Firmware 0x20x",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://download.vivotek.com/downloadfile/support/cyber-security/vvtk-sa-2019-002-v1.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.vivotek.com/products/network-cameras"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vivotek:ipcam_firmware:0x20x:*:*:*:*:*:*:*"
+	}
 }

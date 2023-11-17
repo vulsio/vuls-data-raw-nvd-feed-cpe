@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:ons_15454_optical_transport_platform:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:54.350Z",
-  "title": [
-    {
-      "text": "Cisco ONS 15454 Multiservice Transport Platform (MSTP)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:ons_15454_optical_transport_platform:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:54.350-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:ons_15454_multiservice_transport_platform:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:ons_15454_optical_transport_platform:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:54.350Z",
+	"title": [
+		{
+			"text": "Cisco ONS 15454 Multiservice Transport Platform (MSTP)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:ons_15454_optical_transport_platform:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:54.350-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:ons_15454_multiservice_transport_platform:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

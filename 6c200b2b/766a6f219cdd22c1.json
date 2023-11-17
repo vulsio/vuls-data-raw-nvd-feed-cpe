@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:nexus_5596up_switch:-",
-  "deprecated": true,
-  "deprecation_date": "2014-08-19T15:24:01.290Z",
-  "title": [
-    {
-      "text": "Cisco Nexus 5596UP switch (Nexus 5000 series)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:nexus_5596up_switch:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-08-19T11:24:01.290-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:nexus_5596up:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:nexus_5596up_switch:-",
+	"deprecated": true,
+	"deprecation_date": "2014-08-19T15:24:01.290Z",
+	"title": [
+		{
+			"text": "Cisco Nexus 5596UP switch (Nexus 5000 series)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:nexus_5596up_switch:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-08-19T11:24:01.290-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:nexus_5596up:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:amazon_link_project:amazon_link:3.2.10::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Amazon Link Project Amazon Link 3.2.10 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/915b7d79-f9dd-451d-bf8f-6d14ec3e67d2"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/amazon-link/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon_link_project:amazon_link:3.2.10:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:amazon_link_project:amazon_link:3.2.10::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Amazon Link Project Amazon Link 3.2.10 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/915b7d79-f9dd-451d-bf8f-6d14ec3e67d2"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/amazon-link/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon_link_project:amazon_link:3.2.10:*:*:*:*:wordpress:*:*"
+	}
 }

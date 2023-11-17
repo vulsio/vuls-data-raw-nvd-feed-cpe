@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir-822_firmware:3.10b06",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DIR-822 Firmware 3.10B06",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://support.dlink.com/ProductInfo.aspx?m=DIR-822-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir-822_firmware:3.10b06:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir-822_firmware:3.10b06:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir-822_firmware:3.10b06",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DIR-822 Firmware 3.10B06",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.dlink.com/ProductInfo.aspx?m=DIR-822-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir-822_firmware:3.10b06:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir-822_firmware:3.10b06:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

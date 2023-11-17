@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:11.5.11::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 11.5.11 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://about.gitlab.com/blog/categories/releases/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/gitlabhq/gitlabhq/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:11.5.11:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:11.5.11::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 11.5.11 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://about.gitlab.com/blog/categories/releases/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/gitlabhq/gitlabhq/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:11.5.11:*:*:*:enterprise:*:*:*"
+	}
 }

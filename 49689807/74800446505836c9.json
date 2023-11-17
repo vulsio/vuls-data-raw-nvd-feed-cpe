@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:parsedown_project:parsedown:1.5.4",
-  "deprecated": true,
-  "deprecation_date": "2019-08-01T15:37:05.090Z",
-  "title": [
-    {
-      "text": "Parsedown Project Parsedown 1.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/erusev/parsedown/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:parsedown_project:parsedown:1.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-01T11:37:05.090-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:parsedown:parsedown:1.5.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:parsedown_project:parsedown:1.5.4",
+	"deprecated": true,
+	"deprecation_date": "2019-08-01T15:37:05.090Z",
+	"title": [
+		{
+			"text": "Parsedown Project Parsedown 1.5.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/erusev/parsedown/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:parsedown_project:parsedown:1.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-01T11:37:05.090-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:parsedown:parsedown:1.5.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:postgresql:postgresql:13.0",
-  "title": [
-    {
-      "text": "PostgreSQL 13.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.postgresql.org/about/news/postgresql-13-released-2077/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postgresql:postgresql:13.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:postgresql:postgresql:13.0",
+	"title": [
+		{
+			"text": "PostgreSQL 13.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://git.postgresql.org/gitweb/?p=postgresql.git;a=summary"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.postgresql.org/about/news/postgresql-13-released-2077/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgresql:postgresql:13.0:*:*:*:*:*:*:*"
+	}
 }

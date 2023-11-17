@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:tp-link:tl-wa1201:-",
-  "title": [
-    {
-      "text": "TP-Link TL-WA1201",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.thesecmaster.com/how-to-fix-cve-2021-350034-a-remote-code-execution-vulnerability-on-tp-link-products/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tp-link.com/us/support/download/tl-wa1201/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:tp-link:tl-wa1201:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:tp-link:tl-wa1201:-",
+	"title": [
+		{
+			"text": "TP-Link TL-WA1201",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.thesecmaster.com/how-to-fix-cve-2021-350034-a-remote-code-execution-vulnerability-on-tp-link-products/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tp-link.com/us/support/download/tl-wa1201/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tp-link:tl-wa1201:-:*:*:*:*:*:*:*"
+	}
 }

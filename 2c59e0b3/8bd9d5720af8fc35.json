@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:office:2010:sp2:~~~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Office 2010 Service Pack 2 on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=39647"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x64:*"
-  }
+	"name": "cpe:/a:microsoft:office:2010:sp2:~~~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Office 2010 Service Pack 2 on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=39647"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2010:sp2:*:*:*:*:x64:*"
+	}
 }

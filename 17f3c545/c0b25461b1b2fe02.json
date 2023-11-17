@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:netapp:oncommand_system_manager:8.3",
-  "title": [
-    {
-      "text": "NetApp OnCommand System Manager 8.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.onc-sm-help-960%2Fhome.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/NTAP-20210208-0001/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://kb.netapp.com/support/index?page=content&id=9010100"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:oncommand_system_manager:8.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:netapp:oncommand_system_manager:8.3",
+	"title": [
+		{
+			"text": "NetApp OnCommand System Manager 8.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://docs.netapp.com/ontap-9/index.jsp?topic=%2Fcom.netapp.doc.onc-sm-help-960%2Fhome.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/NTAP-20210208-0001/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://kb.netapp.com/support/index?page=content&id=9010100"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:oncommand_system_manager:8.3:*:*:*:*:*:*:*"
+	}
 }

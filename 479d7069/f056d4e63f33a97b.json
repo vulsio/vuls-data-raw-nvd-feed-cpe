@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:d-link:dwl-2600ap_firmware:4.2.0.17",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DWL-2600AP Firmware 4.2.0.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10113"
-    },
-    {
-      "text": "Product",
-      "href": "https://eu.dlink.com/uk/en/products/dwl-2600ap-unified-wireless-n-poe-access-point"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dwl-2600ap_firmware:4.2.0.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dwl-2600ap_firmware:4.2.0.17:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dwl-2600ap_firmware:4.2.0.17",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DWL-2600AP Firmware 4.2.0.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://supportannouncement.us.dlink.com/announcement/publication.aspx?name=SAP10113"
+		},
+		{
+			"text": "Product",
+			"href": "https://eu.dlink.com/uk/en/products/dwl-2600ap-unified-wireless-n-poe-access-point"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dwl-2600ap_firmware:4.2.0.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dwl-2600ap_firmware:4.2.0.17:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

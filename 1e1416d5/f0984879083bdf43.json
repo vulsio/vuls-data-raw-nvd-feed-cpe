@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.15.0:alpha.3",
-  "deprecated": true,
-  "deprecation_date": "2020-10-05T13:50:49.093Z",
-  "title": [
-    {
-      "text": "Kubernetes 1.15.0 Alpha.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/kubernetes/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.15.0:alpha.3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-05T09:50:49.093-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kubernetes:kubernetes:1.15.0:alpha3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.15.0:alpha.3",
+	"deprecated": true,
+	"deprecation_date": "2020-10-05T13:50:49.093Z",
+	"title": [
+		{
+			"text": "Kubernetes 1.15.0 Alpha.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/kubernetes/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.15.0:alpha.3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-05T09:50:49.093-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kubernetes:kubernetes:1.15.0:alpha3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

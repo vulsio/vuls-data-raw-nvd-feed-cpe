@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pcre:perl_compatible_regular_expression_library:8.38",
-  "deprecated": true,
-  "deprecation_date": "2021-08-06T18:29:13.383Z",
-  "title": [
-    {
-      "text": "PCRE Perl Compatible Regular Expression Library 8.38",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.pcre.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.38:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-06T14:29:13.383-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pcre:pcre:8.38:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pcre:perl_compatible_regular_expression_library:8.38",
+	"deprecated": true,
+	"deprecation_date": "2021-08-06T18:29:13.383Z",
+	"title": [
+		{
+			"text": "PCRE Perl Compatible Regular Expression Library 8.38",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.pcre.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pcre:perl_compatible_regular_expression_library:8.38:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-06T14:29:13.383-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pcre:pcre:8.38:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

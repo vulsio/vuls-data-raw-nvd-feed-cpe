@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:featherjs:feathers-sequelize:6.0.2::~~~node.js~~",
-  "deprecated": true,
-  "deprecation_date": "2023-07-28T14:13:17.130Z",
-  "title": [
-    {
-      "text": "Featherjs feathers-sequelize 6.0.2 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/feathers-sequelize"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/feathersjs-ecosystem/feathers-sequelize/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://feathersjs.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:featherjs:feathers-sequelize:6.0.2:*:*:*:*:node.js:*:*",
-    "deprecation": {
-      "date": "2023-07-28T10:13:17.130-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:feathersjs:feathers-sequelize:6.0.2:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:featherjs:feathers-sequelize:6.0.2::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2023-07-28T14:13:17.130Z",
+	"title": [
+		{
+			"text": "Featherjs feathers-sequelize 6.0.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/feathers-sequelize"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/feathersjs-ecosystem/feathers-sequelize/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://feathersjs.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:featherjs:feathers-sequelize:6.0.2:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2023-07-28T10:13:17.130-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:feathersjs:feathers-sequelize:6.0.2:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

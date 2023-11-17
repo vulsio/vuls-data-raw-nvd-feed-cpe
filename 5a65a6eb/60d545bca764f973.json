@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:arm:cortex-35p_firmware:r0",
-  "deprecated": true,
-  "deprecation_date": "2021-09-22T12:56:04.507Z",
-  "title": [
-    {
-      "text": "ARM Cortex-35P Firmware r0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/support/arm-security-updates/vlldm-instruction-security-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arm:cortex-35p_firmware:r0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-22T08:56:04.507-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:arm:cortex-m35p_firmware:r0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:arm:cortex-35p_firmware:r0",
+	"deprecated": true,
+	"deprecation_date": "2021-09-22T12:56:04.507Z",
+	"title": [
+		{
+			"text": "ARM Cortex-35P Firmware r0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/vlldm-instruction-security-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arm:cortex-35p_firmware:r0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-22T08:56:04.507-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:arm:cortex-m35p_firmware:r0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

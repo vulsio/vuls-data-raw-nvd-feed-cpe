@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mautic:mautic:-",
-  "deprecated": true,
-  "deprecation_date": "2021-01-25T16:49:54.753Z",
-  "title": [
-    {
-      "text": "Mautic",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mautic.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mautic:mautic:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-25T11:49:54.753-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:acquia:mautic:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mautic:mautic:-",
+	"deprecated": true,
+	"deprecation_date": "2021-01-25T16:49:54.753Z",
+	"title": [
+		{
+			"text": "Mautic",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mautic.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mautic:mautic:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-25T11:49:54.753-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:acquia:mautic:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

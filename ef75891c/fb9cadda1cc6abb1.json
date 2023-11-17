@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ijoomla:com_adagency:6.0.9::~~~joomla%21~~",
-  "deprecated": true,
-  "deprecation_date": "2022-10-07T15:11:28.607Z",
-  "title": [
-    {
-      "text": "iJoomla com adagency 6.0.9 for Joomla!",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vulnerability-lab.com/get_content.php?id=1927"
-    },
-    {
-      "text": "Product",
-      "href": "https://adagency.ijoomla.com"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ijoomla:com_adagency:6.0.9:*:*:*:*:joomla\\!:*:*",
-    "deprecation": {
-      "date": "2022-10-07T11:11:28.607-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ijoomla:ad_agency:6.0.9:*:*:*:*:joomla\\!:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ijoomla:com_adagency:6.0.9::~~~joomla%21~~",
+	"deprecated": true,
+	"deprecation_date": "2022-10-07T15:11:28.607Z",
+	"title": [
+		{
+			"text": "iJoomla com adagency 6.0.9 for Joomla!",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vulnerability-lab.com/get_content.php?id=1927"
+		},
+		{
+			"text": "Product",
+			"href": "https://adagency.ijoomla.com"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ijoomla:com_adagency:6.0.9:*:*:*:*:joomla\\!:*:*",
+		"deprecation": {
+			"date": "2022-10-07T11:11:28.607-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ijoomla:ad_agency:6.0.9:*:*:*:*:joomla\\!:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

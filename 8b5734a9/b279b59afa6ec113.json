@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:ericsson:rx8200:-",
-  "deprecated": true,
-  "deprecation_date": "2020-11-12T12:20:25.130Z",
-  "title": [
-    {
-      "text": "Ericsson RX8200",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sateng.com/downloads/Ericsson_RX8200-a.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ericsson.com/en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ericsson:rx8200:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-12T07:20:25.130-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:mediakind:rx8200:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:ericsson:rx8200:-",
+	"deprecated": true,
+	"deprecation_date": "2020-11-12T12:20:25.130Z",
+	"title": [
+		{
+			"text": "Ericsson RX8200",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sateng.com/downloads/Ericsson_RX8200-a.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ericsson.com/en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ericsson:rx8200:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-12T07:20:25.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:mediakind:rx8200:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

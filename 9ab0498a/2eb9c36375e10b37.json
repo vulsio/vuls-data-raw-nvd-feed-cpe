@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:ids:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:36.147Z",
-  "title": [
-    {
-      "text": "Cisco IDS",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ids:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:36.147-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:ids:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:36.147Z",
+	"title": [
+		{
+			"text": "Cisco IDS",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ids:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:36.147-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:ids:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

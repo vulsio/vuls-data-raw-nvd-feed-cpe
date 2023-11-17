@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:quarkus:quarkus:1.12.0:rc1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-08T15:00:02.993Z",
-  "title": [
-    {
-      "text": "Quarkus 1.12.0 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/quarkusio/quarkus"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://quarkus.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:quarkus:quarkus:1.12.0:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-08T11:00:02.993-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:quarkus:quarkus:1.12.0:candidate_release1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:quarkus:quarkus:1.12.0:rc1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-08T15:00:02.993Z",
+	"title": [
+		{
+			"text": "Quarkus 1.12.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/quarkusio/quarkus"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://quarkus.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quarkus:quarkus:1.12.0:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-08T11:00:02.993-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:quarkus:quarkus:1.12.0:candidate_release1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.14:-",
-  "title": [
-    {
-      "text": "Linux Kernel 5.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1989165"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/torvalds/linux/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.14:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.14:-",
+	"title": [
+		{
+			"text": "Linux Kernel 5.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1989165"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/torvalds/linux/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.14:-:*:*:*:*:*:*"
+	}
 }

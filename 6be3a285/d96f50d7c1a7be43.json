@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openssl:openssl:0.9.8g-9",
-  "title": [
-    {
-      "text": "OpenSSL Project OpenSSL 0.9.8g-9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://lists.openid.net/pipermail/openid-security/2008-August/000942.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/5720"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openssl:openssl:0.9.8g-9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openssl:openssl:0.9.8g-9",
+	"title": [
+		{
+			"text": "OpenSSL Project OpenSSL 0.9.8g-9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://lists.openid.net/pipermail/openid-security/2008-August/000942.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/5720"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openssl:openssl:0.9.8g-9:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sap:advanced_business_application_programming_server:7.11",
-  "title": [
-    {
-      "text": "SAP Advanced Business Application Programming (ABAP) Server 7.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=537788812"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.securityfocus.com/bid/107355"
-    },
-    {
-      "text": "Product",
-      "href": "https://developers.sap.com/topics/abap-platform.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:advanced_business_application_programming_server:7.11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sap:advanced_business_application_programming_server:7.11",
+	"title": [
+		{
+			"text": "SAP Advanced Business Application Programming (ABAP) Server 7.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=537788812"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.securityfocus.com/bid/107355"
+		},
+		{
+			"text": "Product",
+			"href": "https://developers.sap.com/topics/abap-platform.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:advanced_business_application_programming_server:7.11:*:*:*:*:*:*:*"
+	}
 }

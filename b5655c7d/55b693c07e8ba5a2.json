@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:monkey-project:monkey_http_daemon:0.8.5",
-  "deprecated": true,
-  "deprecation_date": "2020-03-26T14:23:56.020Z",
-  "title": [
-    {
-      "text": "Monkey Project Monkey HTTP Daemon 0.8.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:monkey-project:monkey_http_daemon:0.8.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-26T10:23:56.020-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:monkey-project:monkey:0.8.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:monkey-project:monkey_http_daemon:0.8.5",
+	"deprecated": true,
+	"deprecation_date": "2020-03-26T14:23:56.020Z",
+	"title": [
+		{
+			"text": "Monkey Project Monkey HTTP Daemon 0.8.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:monkey-project:monkey_http_daemon:0.8.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-26T10:23:56.020-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:monkey-project:monkey:0.8.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

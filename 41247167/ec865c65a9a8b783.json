@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:solarwinds:kiwi_syslog_server:9.5",
-  "title": [
-    {
-      "text": "Solarwinds Kiwi Syslog Server 9.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35231"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://documentation.solarwinds.com/en/success_center/kss/content/release_notes/kss_9-8_release_notes.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:solarwinds:kiwi_syslog_server:9.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:solarwinds:kiwi_syslog_server:9.5",
+	"title": [
+		{
+			"text": "Solarwinds Kiwi Syslog Server 9.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.solarwinds.com/trust-center/security-advisories/cve-2021-35231"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://documentation.solarwinds.com/en/success_center/kss/content/release_notes/kss_9-8_release_notes.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:solarwinds:kiwi_syslog_server:9.5:*:*:*:*:*:*:*"
+	}
 }

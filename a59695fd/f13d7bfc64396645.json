@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_xp:-:sp3:professional",
-  "deprecated": true,
-  "deprecation_date": "2019-05-07T17:48:15.410Z",
-  "title": [
-    {
-      "text": "Microsoft Windows XP Service Pack 3 Professional Edition",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:professional:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-07T13:48:15.410-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_xp:-:sp3:professional",
+	"deprecated": true,
+	"deprecation_date": "2019-05-07T17:48:15.410Z",
+	"title": [
+		{
+			"text": "Microsoft Windows XP Service Pack 3 Professional Edition",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:professional:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-07T13:48:15.410-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:professional:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

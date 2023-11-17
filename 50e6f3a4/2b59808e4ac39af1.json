@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:dell:bsafe_micro_edition_suite:4.5",
-  "deprecated": true,
-  "deprecation_date": "2021-11-30T17:23:33.300Z",
-  "title": [
-    {
-      "text": "Dell BSAFE 4.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000181945/dell-bsafe-product-version-life-cycle"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:bsafe_micro_edition_suite:4.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-30T12:23:33.300-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe:4.5:*:*:*:micro_edition_suite:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:bsafe_micro_edition_suite:4.5",
+	"deprecated": true,
+	"deprecation_date": "2021-11-30T17:23:33.300Z",
+	"title": [
+		{
+			"text": "Dell BSAFE 4.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000181945/dell-bsafe-product-version-life-cycle"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:bsafe_micro_edition_suite:4.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-30T12:23:33.300-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe:4.5:*:*:*:micro_edition_suite:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

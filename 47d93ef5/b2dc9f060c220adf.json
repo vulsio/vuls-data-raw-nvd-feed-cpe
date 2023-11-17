@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:nextcloud:nextcloud:-::~~~windows~~",
-  "title": [
-    {
-      "text": "NextCloud for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nextcloud.com/security/advisory/?id=NC-SA-2020-034"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:nextcloud:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:nextcloud:nextcloud:-::~~~windows~~",
+	"title": [
+		{
+			"text": "NextCloud for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nextcloud.com/security/advisory/?id=NC-SA-2020-034"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud:-:*:*:*:*:windows:*:*"
+	}
 }

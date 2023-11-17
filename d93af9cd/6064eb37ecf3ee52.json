@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:nodejs:node.js:14.4.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T20:02:18.450Z",
-  "title": [
-    {
-      "text": "Nodejs Node.js 14.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://nodejs.org/en/download/releases/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/811502"
-    },
-    {
-      "text": "Version",
-      "href": "https://nodejs.org/dist/latest-v14.x/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:14.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T16:02:18.450-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nodejs:node.js:14.4.0:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nodejs:node.js:14.4.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T20:02:18.450Z",
+	"title": [
+		{
+			"text": "Nodejs Node.js 14.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://nodejs.org/en/download/releases/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/811502"
+		},
+		{
+			"text": "Version",
+			"href": "https://nodejs.org/dist/latest-v14.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:14.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T16:02:18.450-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:14.4.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

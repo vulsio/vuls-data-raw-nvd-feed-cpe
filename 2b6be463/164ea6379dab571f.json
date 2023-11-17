@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:libraw:libraw:0.16.1",
-  "deprecated": true,
-  "deprecation_date": "2020-07-09T17:49:49.560Z",
-  "title": [
-    {
-      "text": "LibRaw 0.16.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/LibRaw/LibRaw/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libraw:libraw:0.16.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-09T13:49:49.560-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libraw:libraw:0.16.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libraw:libraw:0.16.1",
+	"deprecated": true,
+	"deprecation_date": "2020-07-09T17:49:49.560Z",
+	"title": [
+		{
+			"text": "LibRaw 0.16.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/LibRaw/LibRaw/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libraw:libraw:0.16.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-09T13:49:49.560-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libraw:libraw:0.16.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

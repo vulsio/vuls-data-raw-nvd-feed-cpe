@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:my_wpdb_project:my_wpdb:2.5",
-  "title": [
-    {
-      "text": "My wpdb Project My wpdb 2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/c280da92-4ac2-43ea-93a2-6c583b79b98b"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/my-wpdb/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:my_wpdb_project:my_wpdb:2.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:my_wpdb_project:my_wpdb:2.5",
+	"title": [
+		{
+			"text": "My wpdb Project My wpdb 2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/c280da92-4ac2-43ea-93a2-6c583b79b98b"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/my-wpdb/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:my_wpdb_project:my_wpdb:2.5:*:*:*:*:*:*:*"
+	}
 }

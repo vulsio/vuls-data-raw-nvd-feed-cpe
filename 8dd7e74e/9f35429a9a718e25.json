@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:contrastsecurity:service_broker:2.2.0::~~~pivotal_cloud_foundry~~",
-  "title": [
-    {
-      "text": "Contrastsecurity Service Broker 2.2.0 for Pivotal Cloud Foundry",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.pivotal.io/partners/contrast-service-broker/release-notes.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:contrastsecurity:service_broker:2.2.0:*:*:*:*:pivotal_cloud_foundry:*:*"
-  }
+	"name": "cpe:/a:contrastsecurity:service_broker:2.2.0::~~~pivotal_cloud_foundry~~",
+	"title": [
+		{
+			"text": "Contrastsecurity Service Broker 2.2.0 for Pivotal Cloud Foundry",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.pivotal.io/partners/contrast-service-broker/release-notes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contrastsecurity:service_broker:2.2.0:*:*:*:*:pivotal_cloud_foundry:*:*"
+	}
 }

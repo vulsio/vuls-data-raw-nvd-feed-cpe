@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:vmware:vsphere_esxi:6.7:670-201908103",
-  "deprecated": true,
-  "deprecation_date": "2019-11-22T18:36:08.227Z",
-  "title": [
-    {
-      "text": "Vmware vSphere ESXi 6.7 670-201908103",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-67u3-release-notes.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://kb.vmware.com/s/article/2143832"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:vsphere_esxi:6.7:670-201908103:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-22T13:36:08.227-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:vmware:esxi:6.7:670-201908103:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:vmware:vsphere_esxi:6.7:670-201908103",
+	"deprecated": true,
+	"deprecation_date": "2019-11-22T18:36:08.227Z",
+	"title": [
+		{
+			"text": "Vmware vSphere ESXi 6.7 670-201908103",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-esxi-67u3-release-notes.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://kb.vmware.com/s/article/2143832"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:vsphere_esxi:6.7:670-201908103:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-22T13:36:08.227-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:vmware:esxi:6.7:670-201908103:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

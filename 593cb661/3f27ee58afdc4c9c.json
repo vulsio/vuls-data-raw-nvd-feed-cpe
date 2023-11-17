@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:recoverpoint_for_virtual_machines:5.2.0.2",
-  "title": [
-    {
-      "text": "Dell Recoverpoint For Virtual Machines 5.2.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/security/en-us/details/533842/DSA-2019-078-Dell-EMC-RecoverPoint-OS-Command-Injection-Vulnerability"
-    },
-    {
-      "text": "Project",
-      "href": "https://www.emc.com/collateral/TechnicalDocument/docu89970.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:recoverpoint_for_virtual_machines:5.2.0.2",
+	"title": [
+		{
+			"text": "Dell Recoverpoint For Virtual Machines 5.2.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/security/en-us/details/533842/DSA-2019-078-Dell-EMC-RecoverPoint-OS-Command-Injection-Vulnerability"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.emc.com/collateral/TechnicalDocument/docu89970.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:recoverpoint_for_virtual_machines:5.2.0.2:*:*:*:*:*:*:*"
+	}
 }

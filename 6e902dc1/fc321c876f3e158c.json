@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:kaspersky:password_manager:9.0.2:patch_l:~~~windows~~",
-  "title": [
-    {
-      "text": "Kaspersky Password Manager 9.0.2 Patch L for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35052.json"
-    },
-    {
-      "text": "Product",
-      "href": "http://kaspersky-password-manager.freedownloadscenter.com/windows/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zerodayinitiative.com/advisories/ZDI-21-1335/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://support.kaspersky.com/14245"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_l:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:kaspersky:password_manager:9.0.2:patch_l:~~~windows~~",
+	"title": [
+		{
+			"text": "Kaspersky Password Manager 9.0.2 Patch L for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35052.json"
+		},
+		{
+			"text": "Product",
+			"href": "http://kaspersky-password-manager.freedownloadscenter.com/windows/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zerodayinitiative.com/advisories/ZDI-21-1335/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://support.kaspersky.com/14245"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kaspersky:password_manager:9.0.2:patch_l:*:*:*:windows:*:*"
+	}
 }

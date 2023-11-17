@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:stivasoft:phpjabbers_appointment_scheduler:2.3",
-  "deprecated": true,
-  "deprecation_date": "2022-05-26T02:43:59.833Z",
-  "title": [
-    {
-      "text": "StivaSoft PHPJabbers Appointment Scheduler 2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/160502/PHPJabbers-Appointment-Scheduler-2.3-Cross-Site-Scripting.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.stivasoft.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.phpjabbers.com/appointment-scheduler/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:stivasoft:phpjabbers_appointment_scheduler:2.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-25T22:43:59.833-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:onlineonly:phpjabbers_appointment_scheduler:2.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:stivasoft:phpjabbers_appointment_scheduler:2.3",
+	"deprecated": true,
+	"deprecation_date": "2022-05-26T02:43:59.833Z",
+	"title": [
+		{
+			"text": "StivaSoft PHPJabbers Appointment Scheduler 2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/160502/PHPJabbers-Appointment-Scheduler-2.3-Cross-Site-Scripting.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.stivasoft.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.phpjabbers.com/appointment-scheduler/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stivasoft:phpjabbers_appointment_scheduler:2.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-25T22:43:59.833-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:onlineonly:phpjabbers_appointment_scheduler:2.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

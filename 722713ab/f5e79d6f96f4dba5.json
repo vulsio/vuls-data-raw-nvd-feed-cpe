@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:oracle:weblogic_server:12.2.1.2",
-  "deprecated": true,
-  "deprecation_date": "2018-01-10T16:38:34.487Z",
-  "title": [
-    {
-      "text": "Oracle WebLogic Server 12.2.1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/3681811.xml"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.oracle.com/middleware/12212/wls/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:weblogic_server:12.2.1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-01-10T11:38:34.487-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:weblogic_server:12.2.1.2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:weblogic_server:12.2.1.2",
+	"deprecated": true,
+	"deprecation_date": "2018-01-10T16:38:34.487Z",
+	"title": [
+		{
+			"text": "Oracle WebLogic Server 12.2.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/3681811.xml"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/middleware/12212/wls/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:weblogic_server:12.2.1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-01-10T11:38:34.487-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:weblogic_server:12.2.1.2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

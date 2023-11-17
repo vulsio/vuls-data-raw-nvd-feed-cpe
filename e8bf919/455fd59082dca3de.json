@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:moneychainnettoken_project:moneychainnettoken:-",
-  "title": [
-    {
-      "text": "MoneyChainNetToken Project MoneyChainNetToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x77727ef417696f95a10652cf2d02d6421dda5048#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/MoneyChainNetToken"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moneychainnettoken_project:moneychainnettoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:moneychainnettoken_project:moneychainnettoken:-",
+	"title": [
+		{
+			"text": "MoneyChainNetToken Project MoneyChainNetToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x77727ef417696f95a10652cf2d02d6421dda5048#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/MoneyChainNetToken"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moneychainnettoken_project:moneychainnettoken:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:st:stm32l1:-",
-  "title": [
-    {
-      "text": "STMicroelectronics STM32L1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.st.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l1-series.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.usenix.org/system/files/woot19-paper_schink.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:st:stm32l1:-",
+	"title": [
+		{
+			"text": "STMicroelectronics STM32L1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.st.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.st.com/en/microcontrollers-microprocessors/stm32l1-series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.usenix.org/system/files/woot19-paper_schink.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:st:stm32l1:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:amd:ryzen_5_4600ge_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) RYZEN 5 4600GE FIRMWARE -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.amd.com/en/press-releases/2020-07-21-amd-ryzen-4000-series-desktop-processors-amd-radeon-graphics-set-to"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1026"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:ryzen_5_4600ge_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:ryzen_5_4600ge_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) RYZEN 5 4600GE FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/press-releases/2020-07-21-amd-ryzen-4000-series-desktop-processors-amd-radeon-graphics-set-to"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1026"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:ryzen_5_4600ge_firmware:-:*:*:*:*:*:*:*"
+	}
 }

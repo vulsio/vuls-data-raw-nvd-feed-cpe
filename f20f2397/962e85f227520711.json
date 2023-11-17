@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ravpage_project:ravpage:2.16::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Ravpage Project Ravpage 2.16 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/ravpage/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/ravpage/wordpress-ravpage-plugin-2-16-unauthenticated-reflected-cross-site-scripting-xss-vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ravpage_project:ravpage:2.16:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:ravpage_project:ravpage:2.16::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ravpage Project Ravpage 2.16 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/ravpage/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ravpage/wordpress-ravpage-plugin-2-16-unauthenticated-reflected-cross-site-scripting-xss-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ravpage_project:ravpage:2.16:*:*:*:*:wordpress:*:*"
+	}
 }

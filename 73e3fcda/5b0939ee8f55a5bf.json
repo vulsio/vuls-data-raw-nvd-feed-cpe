@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:creston:dmc-stro_firmware:1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-10T16:06:47.027Z",
-  "title": [
-    {
-      "text": "Creston DMC-STRO Firmware 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.quantumleap.it/crestron-dmc-stro-remote-root-rce/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.crestron.com/en-US/Products/Video/DigitalMedia-Modular-Matrix/Output-Cards-Blades/DMC-STRO"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:creston:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-10T11:06:47.027-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:crestron:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:creston:dmc-stro_firmware:1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-10T16:06:47.027Z",
+	"title": [
+		{
+			"text": "Creston DMC-STRO Firmware 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.quantumleap.it/crestron-dmc-stro-remote-root-rce/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.crestron.com/en-US/Products/Video/DigitalMedia-Modular-Matrix/Output-Cards-Blades/DMC-STRO"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:creston:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-10T11:06:47.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:crestron:dmc-stro_firmware:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

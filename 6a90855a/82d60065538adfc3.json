@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:staros:21.22.0",
-  "title": [
-    {
-      "text": "Cisco StarOS 21.22.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asr-mem-leak-dos-MTWGHKk3"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:staros:21.22.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:staros:21.22.0",
+	"title": [
+		{
+			"text": "Cisco StarOS 21.22.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asr-mem-leak-dos-MTWGHKk3"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:staros:21.22.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:abb:fox615_tego1_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:58:30.633Z",
-  "title": [
-    {
-      "text": "ABB FOX615 TEGO1 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://global.abb/group/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8937&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:fox615_tego1_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:58:30.633-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:hitachienergy:fox615_tego1_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:abb:fox615_tego1_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:58:30.633Z",
+	"title": [
+		{
+			"text": "ABB FOX615 TEGO1 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://global.abb/group/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8937&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:fox615_tego1_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:58:30.633-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:hitachienergy:fox615_tego1_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

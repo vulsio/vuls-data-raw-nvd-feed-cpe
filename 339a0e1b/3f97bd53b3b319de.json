@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:codeql:1.0.1::~~~visual_studio_code~~",
-  "title": [
-    {
-      "text": "Microsoft CodeQL 1.0.1 for Visual Studio Code",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/github/vscode-codeql/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:codeql:1.0.1:*:*:*:*:visual_studio_code:*:*"
-  }
+	"name": "cpe:/a:microsoft:codeql:1.0.1::~~~visual_studio_code~~",
+	"title": [
+		{
+			"text": "Microsoft CodeQL 1.0.1 for Visual Studio Code",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/github/vscode-codeql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:codeql:1.0.1:*:*:*:*:visual_studio_code:*:*"
+	}
 }

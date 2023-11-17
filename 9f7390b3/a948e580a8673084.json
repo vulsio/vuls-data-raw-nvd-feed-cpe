@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:device42:cmdb:-",
-  "title": [
-    {
-      "text": "Device42 CMDB (Configuration Management Database)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.bitdefender.com/blog/labs/a-red-team-perspective-on-the-device42-asset-management-appliance/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.device42.com/features/cmdb/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:device42:cmdb:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:device42:cmdb:-",
+	"title": [
+		{
+			"text": "Device42 CMDB (Configuration Management Database)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.bitdefender.com/blog/labs/a-red-team-perspective-on-the-device42-asset-management-appliance/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.device42.com/features/cmdb/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:device42:cmdb:-:*:*:*:*:*:*:*"
+	}
 }

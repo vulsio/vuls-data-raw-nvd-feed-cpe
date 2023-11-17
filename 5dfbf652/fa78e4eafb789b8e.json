@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:amazon:opensearch_security:1.10.0.0:rc1:~~~opensearch~~",
-  "title": [
-    {
-      "text": "Amazon OpenSearch Security 1.10.0.0 Release Candidate 1 for OpenSearch",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/opensearch-project/security/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/opensearch-project/security/security/advisories/GHSA-g8xc-6mf7-h28h"
-    },
-    {
-      "text": "Product",
-      "href": "https://opensearch.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:opensearch_security:1.10.0.0:rc1:*:*:*:opensearch:*:*"
-  }
+	"name": "cpe:/a:amazon:opensearch_security:1.10.0.0:rc1:~~~opensearch~~",
+	"title": [
+		{
+			"text": "Amazon OpenSearch Security 1.10.0.0 Release Candidate 1 for OpenSearch",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/opensearch-project/security/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/opensearch-project/security/security/advisories/GHSA-g8xc-6mf7-h28h"
+		},
+		{
+			"text": "Product",
+			"href": "https://opensearch.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:opensearch_security:1.10.0.0:rc1:*:*:*:opensearch:*:*"
+	}
 }

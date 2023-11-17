@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:adaptive_security_appliance:8.0",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:08.053Z",
-  "title": [
-    {
-      "text": "Cisco Adaptive Security Appliance (ASA) Software 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:adaptive_security_appliance:8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:08.053-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:adaptive_security_appliance:8.0",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:08.053Z",
+	"title": [
+		{
+			"text": "Cisco Adaptive Security Appliance (ASA) Software 8.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:adaptive_security_appliance:8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:08.053-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:adaptive_security_appliance_software:8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

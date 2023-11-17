@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:arm:cortex-x2:-",
-  "title": [
-    {
-      "text": "ARM CORTEX-X2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arm:cortex-x2:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:arm:cortex-x2:-",
+	"title": [
+		{
+			"text": "ARM CORTEX-X2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/speculative-processor-vulnerability/spectre-bhb"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arm:cortex-x2:-:*:*:*:*:*:*:*"
+	}
 }

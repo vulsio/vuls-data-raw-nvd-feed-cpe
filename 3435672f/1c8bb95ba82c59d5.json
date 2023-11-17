@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:bookly_project:bookly:17.7::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-11-14T14:54:32.127Z",
-  "title": [
-    {
-      "text": "Bookly Project Bookly 17.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/#developers"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.booking-wp-plugin.com/change-log/?utm_campaign=wp_FAQ&utm_medium=cpc&utm_source=WP_ORG"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bookly_project:bookly:17.7:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-11-14T09:54:32.127-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:booking-wp-plugin:bookly:17.7:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bookly_project:bookly:17.7::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-11-14T14:54:32.127Z",
+	"title": [
+		{
+			"text": "Bookly Project Bookly 17.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/bookly-responsive-appointment-booking-tool/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.booking-wp-plugin.com/change-log/?utm_campaign=wp_FAQ&utm_medium=cpc&utm_source=WP_ORG"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bookly_project:bookly:17.7:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-11-14T09:54:32.127-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:booking-wp-plugin:bookly:17.7:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

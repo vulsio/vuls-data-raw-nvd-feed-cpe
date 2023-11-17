@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:joinmastodon:mastodon:3.5.0",
-  "title": [
-    {
-      "text": "Joinmastodon Mastodon 3.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://huntr.dev/bounties/d06da292-7716-4d74-a129-dd04773398d7/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0432.json"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mastodon/mastodon/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:joinmastodon:mastodon:3.5.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:joinmastodon:mastodon:3.5.0",
+	"title": [
+		{
+			"text": "Joinmastodon Mastodon 3.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://huntr.dev/bounties/d06da292-7716-4d74-a129-dd04773398d7/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/0xxx/CVE-2022-0432.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mastodon/mastodon/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joinmastodon:mastodon:3.5.0:*:*:*:*:*:*:*"
+	}
 }

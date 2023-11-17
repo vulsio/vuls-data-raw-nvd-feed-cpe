@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:quantumcloud:ai_chatbot:4.9.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "QuantumCloud AI Chatbot 4.9.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/chatbot/chatbot-486-496-authenticated-administrator-stored-cross-site-scripting-in-faq-builder"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/chatbot/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quantumcloud:ai_chatbot:4.9.6:*:*:*:*:wordpress:*:*"
+	}
+}

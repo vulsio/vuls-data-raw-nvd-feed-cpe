@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:impress:givewp:2.5.4::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-02-06T21:17:36.307Z",
-  "title": [
-    {
-      "text": "Impress GiveWP 2.5.4 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://impress.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://givewp.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/give/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:impress:givewp:2.5.4:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-02-06T16:17:36.307-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:givewp:givewp:2.5.4:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:impress:givewp:2.5.4::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-02-06T21:17:36.307Z",
+	"title": [
+		{
+			"text": "Impress GiveWP 2.5.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://impress.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://givewp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/give/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:impress:givewp:2.5.4:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-02-06T16:17:36.307-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:givewp:givewp:2.5.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

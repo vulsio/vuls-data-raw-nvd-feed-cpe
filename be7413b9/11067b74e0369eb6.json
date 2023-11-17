@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:x5672",
-  "deprecated": true,
-  "deprecation_date": "2020-04-27T20:29:07.563Z",
-  "title": [
-    {
-      "text": "Intel Xeon X5672",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:x5672:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-27T16:29:07.563-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon:x5672:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:x5672",
+	"deprecated": true,
+	"deprecation_date": "2020-04-27T20:29:07.563Z",
+	"title": [
+		{
+			"text": "Intel Xeon X5672",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:x5672:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-27T16:29:07.563-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon:x5672:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

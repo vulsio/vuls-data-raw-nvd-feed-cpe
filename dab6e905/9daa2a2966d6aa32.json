@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:debian:apt:0.7.17:exp3",
-  "deprecated": true,
-  "deprecation_date": "2020-01-08T15:11:30.110Z",
-  "title": [
-    {
-      "text": "Debian APT 0.7.17 experimental3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:apt:0.7.17:exp3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-08T10:11:30.110-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:debian:advanced_package_tool:0.7.17:exp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:apt:0.7.17:exp3",
+	"deprecated": true,
+	"deprecation_date": "2020-01-08T15:11:30.110Z",
+	"title": [
+		{
+			"text": "Debian APT 0.7.17 experimental3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:apt:0.7.17:exp3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-08T10:11:30.110-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:debian:advanced_package_tool:0.7.17:exp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:neutrinolabs:xrdp:0.9.22.1",
-  "title": [
-    {
-      "text": "Neutrino Labs xrdp 0.9.22.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/264887"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/neutrinolabs/xrdp/security/advisories/GHSA-f489-557v-47jq"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/neutrinolabs/xrdp/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:neutrinolabs:xrdp:0.9.22.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:neutrinolabs:xrdp:0.9.22.1",
+	"title": [
+		{
+			"text": "Neutrino Labs xrdp 0.9.22.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/264887"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/neutrinolabs/xrdp/security/advisories/GHSA-f489-557v-47jq"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/neutrinolabs/xrdp/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:neutrinolabs:xrdp:0.9.22.1:*:*:*:*:*:*:*"
+	}
 }

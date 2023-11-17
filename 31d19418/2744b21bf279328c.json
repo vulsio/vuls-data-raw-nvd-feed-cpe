@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ncp:vpn_universal_secure_enterprise_client:2.02:-:~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T18:38:47.570Z",
-  "title": [
-    {
-      "text": "NCP VPN Universal Secure Enterprise Client for Mac 2.02",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T14:38:47.570-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ncp-e:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ncp:vpn_universal_secure_enterprise_client:2.02:-:~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T18:38:47.570Z",
+	"title": [
+		{
+			"text": "NCP VPN Universal Secure Enterprise Client for Mac 2.02",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ncp:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T14:38:47.570-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ncp-e:vpn_universal_secure_enterprise_client:2.02:-:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

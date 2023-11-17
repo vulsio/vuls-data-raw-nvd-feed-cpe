@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:neo4j-contrib:neo4j-apoc-procedures:4.0.0.17",
-  "deprecated": true,
-  "deprecation_date": "2023-01-23T15:40:02.270Z",
-  "title": [
-    {
-      "text": "neo4j-contrib neo4j-apoc-procedures 4.0.0.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/neo4j-contrib/neo4j-apoc-procedures/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/neo4j-contrib/neo4j-apoc-procedures"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:neo4j-contrib:neo4j-apoc-procedures:4.0.0.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-01-23T10:40:02.270-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:neo4j:awesome_procedures_on_cyper:4.0.0.17:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:neo4j-contrib:neo4j-apoc-procedures:4.0.0.17",
+	"deprecated": true,
+	"deprecation_date": "2023-01-23T15:40:02.270Z",
+	"title": [
+		{
+			"text": "neo4j-contrib neo4j-apoc-procedures 4.0.0.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/neo4j-contrib/neo4j-apoc-procedures/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/neo4j-contrib/neo4j-apoc-procedures"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:neo4j-contrib:neo4j-apoc-procedures:4.0.0.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-01-23T10:40:02.270-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:neo4j:awesome_procedures_on_cyper:4.0.0.17:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

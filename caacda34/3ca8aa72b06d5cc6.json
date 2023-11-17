@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudflare:warp:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Cloudflare WARP for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudflare.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cloudflare/advisories/security/advisories/GHSA-qc57-v5q8-f22h"
-    },
-    {
-      "text": "Product",
-      "href": "https://developers.cloudflare.com/warp-client/setting-up/windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudflare:warp:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:cloudflare:warp:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Cloudflare WARP for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cloudflare/advisories/security/advisories/GHSA-qc57-v5q8-f22h"
+		},
+		{
+			"text": "Product",
+			"href": "https://developers.cloudflare.com/warp-client/setting-up/windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:warp:-:*:*:*:*:windows:*:*"
+	}
 }

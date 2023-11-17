@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:torproject:tor:0.3.0.2",
-  "deprecated": true,
-  "deprecation_date": "2020-04-13T14:17:26.043Z",
-  "title": [
-    {
-      "text": "Torproject Tor 0.3.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.torproject.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/torproject/tor/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:torproject:tor:0.3.0.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-13T10:17:26.043-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:torproject:tor:0.3.0.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:torproject:tor:0.3.0.2",
+	"deprecated": true,
+	"deprecation_date": "2020-04-13T14:17:26.043Z",
+	"title": [
+		{
+			"text": "Torproject Tor 0.3.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.torproject.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/torproject/tor/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:torproject:tor:0.3.0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-13T10:17:26.043-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:torproject:tor:0.3.0.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

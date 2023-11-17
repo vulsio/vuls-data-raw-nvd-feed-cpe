@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:rice_project:rice:-",
-  "title": [
-    {
-      "text": "Rice Project Rice",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0xad5de4de1a10353126460ead7dfe52e836f4b64d#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rice_project:rice:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:rice_project:rice:-",
+	"title": [
+		{
+			"text": "Rice Project Rice",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0xad5de4de1a10353126460ead7dfe52e836f4b64d#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rice_project:rice:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:quay:-",
-  "title": [
-    {
-      "text": "Red Hat Quay",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2019-3864"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:quay:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:quay:-",
+	"title": [
+		{
+			"text": "Red Hat Quay",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2019-3864"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:quay:-:*:*:*:*:*:*:*"
+	}
 }

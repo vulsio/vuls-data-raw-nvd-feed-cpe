@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:trezor:one_firmware:-",
-  "title": [
-    {
-      "text": "Trezor One Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://trezor.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://shop.trezor.io/product/trezor-one-white"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.trezor.io/details-of-the-oled-vulnerability-and-its-mitigation-d331c4e2001a"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:trezor:one_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:trezor:one_firmware:-",
+	"title": [
+		{
+			"text": "Trezor One Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://trezor.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://shop.trezor.io/product/trezor-one-white"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.trezor.io/details-of-the-oled-vulnerability-and-its-mitigation-d331c4e2001a"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:trezor:one_firmware:-:*:*:*:*:*:*:*"
+	}
 }

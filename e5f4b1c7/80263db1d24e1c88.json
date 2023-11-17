@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpjam_basic_project:wpjam_basic:4.4::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WPJAM Basic Project WPJAM Basic 4.4 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wpjam-basic/wordpress-wpjam-basic-plugin-6-2-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://blog.wpjam.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wpjam-basic/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpjam_basic_project:wpjam_basic:4.4:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpjam_basic_project:wpjam_basic:4.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPJAM Basic Project WPJAM Basic 4.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wpjam-basic/wordpress-wpjam-basic-plugin-6-2-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://blog.wpjam.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpjam-basic/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpjam_basic_project:wpjam_basic:4.4:*:*:*:*:wordpress:*:*"
+	}
 }

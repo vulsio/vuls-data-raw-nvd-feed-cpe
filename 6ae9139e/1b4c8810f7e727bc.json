@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:bloop:airmail_3:3.5.9::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T17:00:41.233Z",
-  "title": [
-    {
-      "text": "Bloop Airmail 3 3.5.9 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://itunes.apple.com/us/app/airmail-3/id918858936?mt=12&app=apps&ign-mpt=uo%3D4"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://bloop.info/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://versprite.com/advisories/airmail-3-for-mac-2/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T13:00:41.233-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bloop:airmail_3:3.5.9::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T17:00:41.233Z",
+	"title": [
+		{
+			"text": "Bloop Airmail 3 3.5.9 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://itunes.apple.com/us/app/airmail-3/id918858936?mt=12&app=apps&ign-mpt=uo%3D4"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://bloop.info/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://versprite.com/advisories/airmail-3-for-mac-2/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T13:00:41.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bloop:airmail_3:3.5.9:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

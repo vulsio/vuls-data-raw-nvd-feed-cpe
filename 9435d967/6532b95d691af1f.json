@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:knime:analytics_platform:4.6.0",
-  "deprecated": true,
-  "deprecation_date": "2022-11-04T17:53:36.283Z",
-  "title": [
-    {
-      "text": "KNIME Analytics Platform 4.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.knime.com/knime-analytics-platform"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:knime:analytics_platform:4.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-11-04T13:53:36.283-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:knime:knime_analytics_platform:4.6.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:knime:analytics_platform:4.6.0",
+	"deprecated": true,
+	"deprecation_date": "2022-11-04T17:53:36.283Z",
+	"title": [
+		{
+			"text": "KNIME Analytics Platform 4.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.knime.com/knime-analytics-platform"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:knime:analytics_platform:4.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-11-04T13:53:36.283-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:knime:knime_analytics_platform:4.6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:librdf:raptor_rdf_syntax_library:2.0.15",
-  "title": [
-    {
-      "text": "Librdf Raptor RDF Syntax Library 2.0.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/LibreOffice/core/blob/master/external/redland/raptor/0001-Calcualte-max-nspace-declarations-correctly-for-XML-.patch.1"
-    },
-    {
-      "text": "Product",
-      "href": "http://librdf.org/raptor/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:librdf:raptor_rdf_syntax_library:2.0.15",
+	"title": [
+		{
+			"text": "Librdf Raptor RDF Syntax Library 2.0.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/LibreOffice/core/blob/master/external/redland/raptor/0001-Calcualte-max-nspace-declarations-correctly-for-XML-.patch.1"
+		},
+		{
+			"text": "Product",
+			"href": "http://librdf.org/raptor/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:librdf:raptor_rdf_syntax_library:2.0.15:*:*:*:*:*:*:*"
+	}
 }

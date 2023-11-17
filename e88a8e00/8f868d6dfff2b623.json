@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cisco:secure_access_control_server:-",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:37:40.710Z",
-  "title": [
-    {
-      "text": "Cisco Secure Access Control Server Solution Engine",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:secure_access_control_server:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:37:40.710-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:cisco:secure_access_control_server_solution_engine:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:secure_access_control_server:-",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:37:40.710Z",
+	"title": [
+		{
+			"text": "Cisco Secure Access Control Server Solution Engine",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_access_control_server:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:37:40.710-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:secure_access_control_server_solution_engine:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

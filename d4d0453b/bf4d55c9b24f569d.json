@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tensorflow:tensorflow:1.12.0:rc1:~~lite~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-08-17T12:50:34.357Z",
-  "title": [
-    {
-      "text": "Tensorflow Tensorflow 1.12.0 Release Candidate 1 Lite Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/tensorflow/tensorflow/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tensorflow:tensorflow:1.12.0:rc1:*:*:lite:*:*:*",
-    "deprecation": {
-      "date": "2021-08-17T08:50:34.357-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:tensorflow:1.12.0:rc1:*:*:lite:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tensorflow:tensorflow:1.12.0:rc1:~~lite~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-08-17T12:50:34.357Z",
+	"title": [
+		{
+			"text": "Tensorflow Tensorflow 1.12.0 Release Candidate 1 Lite Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tensorflow/tensorflow/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tensorflow:tensorflow:1.12.0:rc1:*:*:lite:*:*:*",
+		"deprecation": {
+			"date": "2021-08-17T08:50:34.357-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:tensorflow:1.12.0:rc1:*:*:lite:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

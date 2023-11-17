@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:anti-virus_for_the_enterprise:r8",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T17:53:45.387Z",
-  "title": [
-    {
-      "text": "Computer Associates Anti-Virus for the Enterprise r8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.broadcom.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T13:53:45.387-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:anti-virus_for_the_enterprise:r8",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T17:53:45.387Z",
+	"title": [
+		{
+			"text": "Computer Associates Anti-Virus for the Enterprise r8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.broadcom.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T13:53:45.387-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:anti-virus_for_the_enterprise:r8:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

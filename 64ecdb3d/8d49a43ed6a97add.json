@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:123.chat:123.chat:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "123.chat 123.chat - for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://123.chat/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/123-chat-videochat/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/36285052-8464-4fd6-b4b1-c175e730edad"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:123.chat:123.chat:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:123.chat:123.chat:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "123.chat 123.chat - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://123.chat/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/123-chat-videochat/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/36285052-8464-4fd6-b4b1-c175e730edad"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:123.chat:123.chat:-:*:*:*:*:wordpress:*:*"
+	}
 }

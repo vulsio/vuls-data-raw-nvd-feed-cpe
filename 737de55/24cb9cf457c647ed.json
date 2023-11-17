@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:openbsd:openbsd:7.1",
-  "title": [
-    {
-      "text": "OpenBSD 7.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://github.com/libressl/openbsd"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openbsd.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/envelope.c?f=h#rev1.50.4.1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:openbsd:openbsd:7.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:openbsd:openbsd:7.1",
+	"title": [
+		{
+			"text": "OpenBSD 7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/libressl/openbsd"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openbsd.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/envelope.c?f=h#rev1.50.4.1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:openbsd:openbsd:7.1:*:*:*:*:*:*:*"
+	}
 }

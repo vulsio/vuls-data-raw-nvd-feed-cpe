@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:undertow:2.2.3:sp1",
-  "title": [
-    {
-      "text": "Red Hat Undertow 2.2.3 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/undertow-io/undertow/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1901304"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:undertow:2.2.3:sp1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:undertow:2.2.3:sp1",
+	"title": [
+		{
+			"text": "Red Hat Undertow 2.2.3 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/undertow-io/undertow/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1901304"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:undertow:2.2.3:sp1:*:*:*:*:*:*"
+	}
 }

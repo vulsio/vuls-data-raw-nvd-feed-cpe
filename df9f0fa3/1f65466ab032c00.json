@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux:8.0::~~coreos~~~",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux (RHCOS) 8.0 CoreOS Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.1/html/architecture/architecture-rhcos"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:coreos:*:*:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux:8.0::~~coreos~~~",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux (RHCOS) 8.0 CoreOS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.1/html/architecture/architecture-rhcos"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux:8.0:*:*:*:coreos:*:*:*"
+	}
 }

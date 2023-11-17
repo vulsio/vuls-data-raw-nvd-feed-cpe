@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:dcce:mac1100_plc:-",
-  "title": [
-    {
-      "text": "Dut Computer Control Engineering MAC1100 PLC",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://dcce.com.cn/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.glassdoor.com/Overview/Working-at-DUT-Computer-Control-Engineering-EI_IE1104460.11,43.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Ni9htMar3/vulnerability/blob/master/PLC/DCCE/DCCE%20MAC1100%20PLC_start-stop.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:dcce:mac1100_plc:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:dcce:mac1100_plc:-",
+	"title": [
+		{
+			"text": "Dut Computer Control Engineering MAC1100 PLC",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://dcce.com.cn/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.glassdoor.com/Overview/Working-at-DUT-Computer-Control-Engineering-EI_IE1104460.11,43.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Ni9htMar3/vulnerability/blob/master/PLC/DCCE/DCCE%20MAC1100%20PLC_start-stop.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:dcce:mac1100_plc:-:*:*:*:*:*:*:*"
+	}
 }

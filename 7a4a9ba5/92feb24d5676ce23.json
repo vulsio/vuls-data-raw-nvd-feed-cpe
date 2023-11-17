@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dap_1150_firmware:1.2.94",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-Link DAP 1150 firmware 1.2.94",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.dlink.com.au/products/?pid=735"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dap_1150_firmware:1.2.94:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dap_1150_firmware:1.2.94:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dap_1150_firmware:1.2.94",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-Link DAP 1150 firmware 1.2.94",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.dlink.com.au/products/?pid=735"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dap_1150_firmware:1.2.94:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dap_1150_firmware:1.2.94:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

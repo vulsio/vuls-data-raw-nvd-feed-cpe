@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nintendo:mario_kart_wii:rmce01",
-  "title": [
-    {
-      "text": "Nintendo Mario Kart Wii RMCE01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35856.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/MikeIsAStar/Mario-Kart-Wii-Remote-Code-Execution"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nintendo:mario_kart_wii:rmce01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nintendo:mario_kart_wii:rmce01",
+	"title": [
+		{
+			"text": "Nintendo Mario Kart Wii RMCE01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/35xxx/CVE-2023-35856.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/MikeIsAStar/Mario-Kart-Wii-Remote-Code-Execution"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nintendo:mario_kart_wii:rmce01:*:*:*:*:*:*:*"
+	}
 }

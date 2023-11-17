@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ffjpeg_project:ffjpeg:2017-12-18",
-  "deprecated": true,
-  "deprecation_date": "2023-08-17T14:09:51.107Z",
-  "title": [
-    {
-      "text": "ffjpeg Project ffjpeg 2017-12-18",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/rockcarry/ffjpeg/commits/master"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ffjpeg_project:ffjpeg:2017-12-18:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-08-17T10:09:51.107-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rockcarry:ffjpeg:2017-12-18:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ffjpeg_project:ffjpeg:2017-12-18",
+	"deprecated": true,
+	"deprecation_date": "2023-08-17T14:09:51.107Z",
+	"title": [
+		{
+			"text": "ffjpeg Project ffjpeg 2017-12-18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/rockcarry/ffjpeg/commits/master"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ffjpeg_project:ffjpeg:2017-12-18:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-08-17T10:09:51.107-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rockcarry:ffjpeg:2017-12-18:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

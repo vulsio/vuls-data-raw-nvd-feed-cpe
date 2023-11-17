@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:xrdp:xrdp:0.9.3:rc1",
-  "deprecated": true,
-  "deprecation_date": "2020-07-08T15:50:13.777Z",
-  "title": [
-    {
-      "text": "xrdp 0.9.3 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/neutrinolabs/xrdp/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.xrdp.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xrdp:xrdp:0.9.3:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-08T11:50:13.777-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:neutrinolabs:xrdp:0.9.3:rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:xrdp:xrdp:0.9.3:rc1",
+	"deprecated": true,
+	"deprecation_date": "2020-07-08T15:50:13.777Z",
+	"title": [
+		{
+			"text": "xrdp 0.9.3 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/neutrinolabs/xrdp/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.xrdp.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xrdp:xrdp:0.9.3:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-08T11:50:13.777-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:neutrinolabs:xrdp:0.9.3:rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

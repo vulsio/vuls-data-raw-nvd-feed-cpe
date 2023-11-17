@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:spacewalk-java:1.2.39",
-  "title": [
-    {
-      "text": "Red Hat Spacewalk-java 1.2.39",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2014/3xxx/CVE-2014-3595.json"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/spacewalkproject/spacewalk"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:spacewalk-java:1.2.39:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:spacewalk-java:1.2.39",
+	"title": [
+		{
+			"text": "Red Hat Spacewalk-java 1.2.39",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2014/3xxx/CVE-2014-3595.json"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/spacewalkproject/spacewalk"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:spacewalk-java:1.2.39:*:*:*:*:*:*:*"
+	}
 }

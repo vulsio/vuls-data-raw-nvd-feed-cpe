@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mit:kerberos:5-1.13.1",
-  "deprecated": true,
-  "deprecation_date": "2020-01-21T15:46:58.967Z",
-  "title": [
-    {
-      "text": "MIT Kerberos 5 1.13.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://web.mit.edu/kerberos/krb5-1.13/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://kerberos.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mit:kerberos:5-1.13.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-21T10:46:58.967-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mit:kerberos_5:1.13.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mit:kerberos:5-1.13.1",
+	"deprecated": true,
+	"deprecation_date": "2020-01-21T15:46:58.967Z",
+	"title": [
+		{
+			"text": "MIT Kerberos 5 1.13.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://web.mit.edu/kerberos/krb5-1.13/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://kerberos.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mit:kerberos:5-1.13.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-21T10:46:58.967-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mit:kerberos_5:1.13.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

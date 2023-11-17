@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:nextcloud:cookbook:0.9.16:rc1",
-  "title": [
-    {
-      "text": "Nextcloud Cookbook 0.9.16 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/cookbook/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/cookbook/security/advisories/GHSA-c5pc-mf2f-xq8h"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://securitylab.github.com/research/github-actions-untrusted-input/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:cookbook:0.9.16:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:cookbook:0.9.16:rc1",
+	"title": [
+		{
+			"text": "Nextcloud Cookbook 0.9.16 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/cookbook/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/cookbook/security/advisories/GHSA-c5pc-mf2f-xq8h"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://securitylab.github.com/research/github-actions-untrusted-input/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:cookbook:0.9.16:rc1:*:*:*:*:*:*"
+	}
 }

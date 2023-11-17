@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:bosch:access_easy_controller:-",
-  "title": [
-    {
-      "text": "Bosch Access Easy Controller",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://resources-boschsecurity-cdn.azureedge.net/public/documents/Operation_Manual_enUS_1383840523.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0404bt-cve-2019-6958_security_advisory_improper_access_control.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:bosch:access_easy_controller:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:bosch:access_easy_controller:-",
+	"title": [
+		{
+			"text": "Bosch Access Easy Controller",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://resources-boschsecurity-cdn.azureedge.net/public/documents/Operation_Manual_enUS_1383840523.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://media.boschsecurity.com/fs/media/pb/security_advisories/bosch-2019-0404bt-cve-2019-6958_security_advisory_improper_access_control.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:bosch:access_easy_controller:-:*:*:*:*:*:*:*"
+	}
 }

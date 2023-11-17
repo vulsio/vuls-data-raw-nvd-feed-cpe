@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:smallsrv:small_http_server:3.06",
-  "title": [
-    {
-      "text": "Smallsrv Small HTTP Server 3.06",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/166622/Small-HTTP-Server-3.06-Remote-Buffer-Overflow.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://smallsrv.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:smallsrv:small_http_server:3.06:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:smallsrv:small_http_server:3.06",
+	"title": [
+		{
+			"text": "Smallsrv Small HTTP Server 3.06",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/166622/Small-HTTP-Server-3.06-Remote-Buffer-Overflow.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://smallsrv.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:smallsrv:small_http_server:3.06:*:*:*:*:*:*:*"
+	}
 }

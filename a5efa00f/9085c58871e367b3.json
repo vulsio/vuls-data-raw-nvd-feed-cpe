@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:arqbackup:arq:2.0::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:05:26.393Z",
-  "title": [
-    {
-      "text": "Arq Backup Arq 2.0 Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.arqbackup.com/download/arq5_release_notes.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.arqbackup.com"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arqbackup:arq:2.0:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:05:26.393-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arqbackup:arq:2.0:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:arqbackup:arq:2.0::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:05:26.393Z",
+	"title": [
+		{
+			"text": "Arq Backup Arq 2.0 Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.arqbackup.com/download/arq5_release_notes.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arqbackup.com"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arqbackup:arq:2.0:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:05:26.393-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arqbackup:arq:2.0:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

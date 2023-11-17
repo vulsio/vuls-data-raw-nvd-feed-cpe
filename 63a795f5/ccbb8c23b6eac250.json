@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cisco:firepower_management_center:7.1.0.3",
-  "title": [
-    {
-      "text": "Cisco Firepower Management Center 7.1.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cisco.com/site/us/en/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cmdinj-bTEgufOX"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/20xxx/CVE-2023-20220.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:firepower_management_center:7.1.0.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:firepower_management_center:7.1.0.3",
+	"title": [
+		{
+			"text": "Cisco Firepower Management Center 7.1.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cisco.com/site/us/en/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-cmdinj-bTEgufOX"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/20xxx/CVE-2023-20220.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:firepower_management_center:7.1.0.3:*:*:*:*:*:*:*"
+	}
 }

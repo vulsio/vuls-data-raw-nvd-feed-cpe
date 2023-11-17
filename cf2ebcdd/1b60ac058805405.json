@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:vmware:remote_console:12.0.0::~~~windows~~",
-  "title": [
-    {
-      "text": "VMware Remote Console 12.0.0 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2021-0013.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:remote_console:12.0.0:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:vmware:remote_console:12.0.0::~~~windows~~",
+	"title": [
+		{
+			"text": "VMware Remote Console 12.0.0 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2021-0013.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:remote_console:12.0.0:*:*:*:*:windows:*:*"
+	}
 }

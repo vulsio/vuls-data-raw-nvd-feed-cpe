@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:honeywell:controledge_rtu_firmware:r150",
-  "title": [
-    {
-      "text": "Honeywell ControlEdge RTU Firmware R150",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-175-02"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.honeywellprocess.com/en-US/explore/products/control-monitoring-and-safety-systems/scada-systems/Pages/controledgertu.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:honeywell:controledge_rtu_firmware:r150:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:honeywell:controledge_rtu_firmware:r150",
+	"title": [
+		{
+			"text": "Honeywell ControlEdge RTU Firmware R150",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-175-02"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.honeywellprocess.com/en-US/explore/products/control-monitoring-and-safety-systems/scada-systems/Pages/controledgertu.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:honeywell:controledge_rtu_firmware:r150:*:*:*:*:*:*:*"
+	}
 }

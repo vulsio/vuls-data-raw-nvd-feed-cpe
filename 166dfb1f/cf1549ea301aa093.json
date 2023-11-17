@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:gstreamer_project:gstreamer_plugin:1.14.4",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T16:45:40.897Z",
-  "title": [
-    {
-      "text": "GStreamer Project GStreamer 1.14.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://gstreamer.freedesktop.org/releases/1.14/#1.14.5"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gstreamer_project:gstreamer_plugin:1.14.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T11:45:40.897-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gstreamer_project:gstreamer:1.14.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gstreamer_project:gstreamer_plugin:1.14.4",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T16:45:40.897Z",
+	"title": [
+		{
+			"text": "GStreamer Project GStreamer 1.14.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://gstreamer.freedesktop.org/releases/1.14/#1.14.5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gstreamer_project:gstreamer_plugin:1.14.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T11:45:40.897-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gstreamer_project:gstreamer:1.14.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

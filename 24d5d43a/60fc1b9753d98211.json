@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:se:somachine:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:42:54.627Z",
-  "title": [
-    {
-      "text": "Schneider Electric SoMachine",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-105-02_Modicon+M218_M241_M251_M258_M258_Logic_Controllers_SoMachine_SoMachine_Motion_EcoStruxure_Machine_Expert_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-105-02"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:somachine:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:42:54.627-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:somachine:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:somachine:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:42:54.627Z",
+	"title": [
+		{
+			"text": "Schneider Electric SoMachine",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-105-02_Modicon+M218_M241_M251_M258_M258_Logic_Controllers_SoMachine_SoMachine_Motion_EcoStruxure_Machine_Expert_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-105-02"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:somachine:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:42:54.627-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:somachine:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

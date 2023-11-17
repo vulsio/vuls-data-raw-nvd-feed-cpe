@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:windows_defender_for_endpoint:-::~~~linux~~",
-  "title": [
-    {
-      "text": "Microsoft Windows Defender For Endpoint for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.microsoft.com/en-us/security/blog/2022/04/26/microsoft-finds-new-elevation-of-privilege-linux-vulnerability-nimbuspwn/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:windows_defender_for_endpoint:-:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:microsoft:windows_defender_for_endpoint:-::~~~linux~~",
+	"title": [
+		{
+			"text": "Microsoft Windows Defender For Endpoint for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.microsoft.com/en-us/security/blog/2022/04/26/microsoft-finds-new-elevation-of-privilege-linux-vulnerability-nimbuspwn/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:windows_defender_for_endpoint:-:*:*:*:*:linux:*:*"
+	}
 }

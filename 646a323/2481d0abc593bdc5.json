@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ncurses_project:ncurses:5.81.0",
-  "deprecated": true,
-  "deprecation_date": "2021-02-01T13:12:04.947Z",
-  "title": [
-    {
-      "text": "ncurses Project ncurses 5.81.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://crates.io/crates/ncurses/versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ncurses_project:ncurses:5.81.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-01T08:12:04.947-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ncurses_project:ncurses:5.81.0:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ncurses_project:ncurses:5.81.0",
+	"deprecated": true,
+	"deprecation_date": "2021-02-01T13:12:04.947Z",
+	"title": [
+		{
+			"text": "ncurses Project ncurses 5.81.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://crates.io/crates/ncurses/versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ncurses_project:ncurses:5.81.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-01T08:12:04.947-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ncurses_project:ncurses:5.81.0:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

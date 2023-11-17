@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openvswitch:openvswitch:2.14.7",
-  "title": [
-    {
-      "text": "Open vSwitch 2.14.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/openvswitch/ovs/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2022/12/21/4"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openvswitch:openvswitch:2.14.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openvswitch:openvswitch:2.14.7",
+	"title": [
+		{
+			"text": "Open vSwitch 2.14.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/openvswitch/ovs/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2022/12/21/4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openvswitch:openvswitch:2.14.7:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:legaoo:power_5_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2022-02-10T15:17:17.027Z",
-  "title": [
-    {
-      "text": "Legaoo Power 5 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.leagoo.com/products/power5/power5.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:legaoo:power_5_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-10T10:17:17.027-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:leagoo:power_5_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:legaoo:power_5_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2022-02-10T15:17:17.027Z",
+	"title": [
+		{
+			"text": "Legaoo Power 5 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.leagoo.com/products/power5/power5.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:legaoo:power_5_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-10T10:17:17.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:leagoo:power_5_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

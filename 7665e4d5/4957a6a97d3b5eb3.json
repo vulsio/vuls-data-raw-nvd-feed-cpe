@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:jenkins:jenkins:2.152",
-  "deprecated": true,
-  "deprecation_date": "2019-05-08T16:31:53.580Z",
-  "title": [
-    {
-      "text": "Jenkins 2.152",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/jenkins/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:jenkins:2.152:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-08T12:31:53.580-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jenkins:jenkins:2.152:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jenkins:jenkins:2.152",
+	"deprecated": true,
+	"deprecation_date": "2019-05-08T16:31:53.580Z",
+	"title": [
+		{
+			"text": "Jenkins 2.152",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/jenkins/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:jenkins:2.152:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-08T12:31:53.580-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:jenkins:2.152:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

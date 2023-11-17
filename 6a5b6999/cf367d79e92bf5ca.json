@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:linkerd:linkerd:19.3.3::~~edge~kubernetes~~",
-  "title": [
-    {
-      "text": "Linkerd 19.3.3 Edge Edition for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/linkerd/linkerd2"
-    },
-    {
-      "text": "Product",
-      "href": "https://linkerd.io/releases/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linkerd:linkerd:19.3.3:*:*:*:edge:kubernetes:*:*"
-  }
+	"name": "cpe:/a:linkerd:linkerd:19.3.3::~~edge~kubernetes~~",
+	"title": [
+		{
+			"text": "Linkerd 19.3.3 Edge Edition for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/linkerd/linkerd2"
+		},
+		{
+			"text": "Product",
+			"href": "https://linkerd.io/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linkerd:linkerd:19.3.3:*:*:*:edge:kubernetes:*:*"
+	}
 }

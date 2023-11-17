@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:bond:9.0.1",
-  "title": [
-    {
-      "text": "Microsoft Bond 9.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/microsoft/bond/blob/master/CHANGELOG.md#901-2020-07-14"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1469"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:bond:9.0.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:bond:9.0.1",
+	"title": [
+		{
+			"text": "Microsoft Bond 9.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/bond/blob/master/CHANGELOG.md#901-2020-07-14"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1469"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:bond:9.0.1:*:*:*:*:*:*:*"
+	}
 }

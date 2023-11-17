@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:linecorp:line:4.3.1::~~~mac_os_x~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T18:38:26.677Z",
-  "title": [
-    {
-      "text": "Linecorp LINE 4.3.1 for Mac OS X",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000029.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://linecorp.com/en/business/service"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linecorp:line:4.3.1:*:*:*:*:mac_os_x:*:*",
-    "deprecation": {
-      "date": "2020-05-11T14:38:26.677-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linecorp:line:4.3.1:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:linecorp:line:4.3.1::~~~mac_os_x~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T18:38:26.677Z",
+	"title": [
+		{
+			"text": "Linecorp LINE 4.3.1 for Mac OS X",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://jvndb.jvn.jp/en/contents/2016/JVNDB-2016-000029.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://linecorp.com/en/business/service"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linecorp:line:4.3.1:*:*:*:*:mac_os_x:*:*",
+		"deprecation": {
+			"date": "2020-05-11T14:38:26.677-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linecorp:line:4.3.1:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

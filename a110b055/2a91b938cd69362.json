@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:flatcore:flatcore:-",
-  "title": [
-    {
-      "text": "flatCore",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://flatcore.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sec-consult.com/vulnerability-lab/advisory/multiple-high-risk-vulnerabilities-in-flatcore-cms/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/flatCore/flatCore-CMS/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:flatcore:flatcore:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:flatcore:flatcore:-",
+	"title": [
+		{
+			"text": "flatCore",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://flatcore.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec-consult.com/vulnerability-lab/advisory/multiple-high-risk-vulnerabilities-in-flatcore-cms/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/flatCore/flatCore-CMS/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:flatcore:flatcore:-:*:*:*:*:*:*:*"
+	}
 }

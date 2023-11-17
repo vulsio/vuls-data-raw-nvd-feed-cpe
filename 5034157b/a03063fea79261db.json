@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:agilebits:1password:1.0.9.247::~~~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2020-01-22T14:57:13.643Z",
-  "title": [
-    {
-      "text": "AgileBits 1Password 1.0.9.247 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://app-updates.agilebits.com/product_history/OPW3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:agilebits:1password:1.0.9.247:*:*:*:*:windows:*:*",
-    "deprecation": {
-      "date": "2020-01-22T09:57:13.643-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:1password:1password:1.0.9.247:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:agilebits:1password:1.0.9.247::~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2020-01-22T14:57:13.643Z",
+	"title": [
+		{
+			"text": "AgileBits 1Password 1.0.9.247 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://app-updates.agilebits.com/product_history/OPW3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agilebits:1password:1.0.9.247:*:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2020-01-22T09:57:13.643-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:1password:1password:1.0.9.247:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

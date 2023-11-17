@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_server:2008:-:x32",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T17:35:08.253Z",
-  "title": [
-    {
-      "text": "Microsoft PowerPoint 2008 x32 Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2009/ms09-036"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server:2008:-:x32:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T13:35:08.253-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:-:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server:2008:-:x32",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T17:35:08.253Z",
+	"title": [
+		{
+			"text": "Microsoft PowerPoint 2008 x32 Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://docs.microsoft.com/en-us/security-updates/SecurityBulletins/2009/ms09-036"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server:2008:-:x32:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T13:35:08.253-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:*:*:-:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:canon:lbp223dw_firmware:-",
-  "title": [
-    {
-      "text": "Canon LBP223DW Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.canon-europe.com/support/consumer_products/products/printers/laser/i-sensys-lbp223dw.html?type=drivers&language=en&os=windows%2010%20(64-bit)"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/cxaqhq/CVE-2021-43471"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:canon:lbp223dw_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:canon:lbp223dw_firmware:-",
+	"title": [
+		{
+			"text": "Canon LBP223DW Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.canon-europe.com/support/consumer_products/products/printers/laser/i-sensys-lbp223dw.html?type=drivers&language=en&os=windows%2010%20(64-bit)"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cxaqhq/CVE-2021-43471"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:canon:lbp223dw_firmware:-:*:*:*:*:*:*:*"
+	}
 }

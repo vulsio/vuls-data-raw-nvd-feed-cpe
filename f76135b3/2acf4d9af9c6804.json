@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:robincoin_project:robincoin:-",
-  "title": [
-    {
-      "text": "RobinCoin project RobinCoin",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x757Df3c3cAD364Da4bBe0795f1feA5Cb7e91774e#code"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:robincoin_project:robincoin:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:robincoin_project:robincoin:-",
+	"title": [
+		{
+			"text": "RobinCoin project RobinCoin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x757Df3c3cAD364Da4bBe0795f1feA5Cb7e91774e#code"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:robincoin_project:robincoin:-:*:*:*:*:*:*:*"
+	}
 }

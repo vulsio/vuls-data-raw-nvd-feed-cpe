@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:e7540:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:38:52.077Z",
-  "title": [
-    {
-      "text": "Intel Xeon E7540",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:e7540:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:38:52.077-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e7540:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:e7540:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:38:52.077Z",
+	"title": [
+		{
+			"text": "Intel Xeon E7540",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:e7540:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:38:52.077-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e7540:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

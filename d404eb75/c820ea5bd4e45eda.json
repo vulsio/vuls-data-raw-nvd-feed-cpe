@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:newlib_project:newlib:1.17.0",
-  "title": [
-    {
-      "text": "Newlib Project Newlib 1.17.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://census-labs.com/news/2020/01/31/multiple-null-pointer-dereference-vulnerabilities-in-newlib/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/bminor/newlib/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:newlib_project:newlib:1.17.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:newlib_project:newlib:1.17.0",
+	"title": [
+		{
+			"text": "Newlib Project Newlib 1.17.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://census-labs.com/news/2020/01/31/multiple-null-pointer-dereference-vulnerabilities-in-newlib/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bminor/newlib/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:newlib_project:newlib:1.17.0:*:*:*:*:*:*:*"
+	}
 }

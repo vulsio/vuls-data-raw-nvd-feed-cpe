@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt140i:6.03.18",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:24:00.857Z",
-  "title": [
-    {
-      "text": "Yamaha RT140i 6.03.18",
-      "lang": "en-US"
-    },
-    {
-      "text": "ヤマハ RT140i 6.03.18",
-      "lang": "ja-JP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt140i:6.03.18:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:24:00.857-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt140i:6.03.18:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt140i:6.03.18",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:24:00.857Z",
+	"title": [
+		{
+			"text": "Yamaha RT140i 6.03.18",
+			"lang": "en-US"
+		},
+		{
+			"text": "ヤマハ RT140i 6.03.18",
+			"lang": "ja-JP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt140i:6.03.18:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:24:00.857-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt140i:6.03.18:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:imageworsener_project:imageworsener:1.3.2",
-  "deprecated": true,
-  "deprecation_date": "2019-09-16T14:33:34.913Z",
-  "title": [
-    {
-      "text": "Imageworsener Project Imageworsener 1.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jsummers/imageworsener"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:imageworsener_project:imageworsener:1.3.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-16T10:33:34.913-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:entropymine:imageworsener:1.3.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:imageworsener_project:imageworsener:1.3.2",
+	"deprecated": true,
+	"deprecation_date": "2019-09-16T14:33:34.913Z",
+	"title": [
+		{
+			"text": "Imageworsener Project Imageworsener 1.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jsummers/imageworsener"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:imageworsener_project:imageworsener:1.3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-16T10:33:34.913-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:entropymine:imageworsener:1.3.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

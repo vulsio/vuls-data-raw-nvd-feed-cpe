@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pivotal:uaa-release:2",
-  "deprecated": true,
-  "deprecation_date": "2021-05-25T12:45:11.460Z",
-  "title": [
-    {
-      "text": "Pivotal Uaa-release 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cloudfoundry.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2016-0732"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/cloudfoundry/uaa-release/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-25T08:45:11.460-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cloudfoundry:uaa-release:2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal:uaa-release:2",
+	"deprecated": true,
+	"deprecation_date": "2021-05-25T12:45:11.460Z",
+	"title": [
+		{
+			"text": "Pivotal Uaa-release 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudfoundry.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2016-0732"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudfoundry/uaa-release/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:uaa-release:2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-25T08:45:11.460-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cloudfoundry:uaa-release:2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

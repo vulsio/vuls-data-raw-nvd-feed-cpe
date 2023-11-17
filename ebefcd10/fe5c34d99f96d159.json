@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:evga:precision_x1:1.0.6",
-  "title": [
-    {
-      "text": "EVGA Precision X1 1.0.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://forums.evga.com/EVGA-Precision-X1-106-m3055164.aspx"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.evga.com/precisionx1/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:evga:precision_x1:1.0.6:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:evga:precision_x1:1.0.6",
+	"title": [
+		{
+			"text": "EVGA Precision X1 1.0.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://forums.evga.com/EVGA-Precision-X1-106-m3055164.aspx"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.evga.com/precisionx1/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://posts.specterops.io/cve-2020-14979-local-privilege-escalation-in-evga-precisionx1-cf63c6b95896"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:evga:precision_x1:1.0.6:*:*:*:*:*:*:*"
+	}
 }

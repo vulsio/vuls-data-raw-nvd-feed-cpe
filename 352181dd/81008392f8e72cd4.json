@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:proxyman:proxyman:1.3.4.3::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T14:14:25.027Z",
-  "title": [
-    {
-      "text": "Proxyman 1.3.4.3 Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/ProxymanApp/Proxyman"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://proxyman.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:proxyman:proxyman:1.3.4.3:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T10:14:25.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:proxyman:proxyman:1.3.4.3:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:proxyman:proxyman:1.3.4.3::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T14:14:25.027Z",
+	"title": [
+		{
+			"text": "Proxyman 1.3.4.3 Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ProxymanApp/Proxyman"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://proxyman.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:proxyman:proxyman:1.3.4.3:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T10:14:25.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:proxyman:proxyman:1.3.4.3:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

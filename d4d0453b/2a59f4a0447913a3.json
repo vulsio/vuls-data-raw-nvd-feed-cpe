@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:tensorflow:tensorflow:2.2.0:rc3:~~lite~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-08-17T13:20:04.397Z",
-  "title": [
-    {
-      "text": "TensorFlow 2.2.0 Release Candidate 3 Lite Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.tensorflow.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.tensorflow.org/lite"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/tensorflow/tensorflow/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tensorflow:tensorflow:2.2.0:rc3:*:*:lite:*:*:*",
-    "deprecation": {
-      "date": "2021-08-17T09:20:04.397-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:google:tensorflow:2.2.0:rc3:*:*:lite:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tensorflow:tensorflow:2.2.0:rc3:~~lite~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-08-17T13:20:04.397Z",
+	"title": [
+		{
+			"text": "TensorFlow 2.2.0 Release Candidate 3 Lite Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.tensorflow.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tensorflow.org/lite"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tensorflow/tensorflow/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tensorflow:tensorflow:2.2.0:rc3:*:*:lite:*:*:*",
+		"deprecation": {
+			"date": "2021-08-17T09:20:04.397-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:google:tensorflow:2.2.0:rc3:*:*:lite:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

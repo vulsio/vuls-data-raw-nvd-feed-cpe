@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:silver-peak:unity_edgeconnect_sd-wan:-",
-  "title": [
-    {
-      "text": "Silver Peak Unity EdgeConnect SD-WAN",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.silver-peak.com/sd-wan"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sdnewhop/sdwannewhope/blob/master/reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:silver-peak:unity_edgeconnect_sd-wan:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:silver-peak:unity_edgeconnect_sd-wan:-",
+	"title": [
+		{
+			"text": "Silver Peak Unity EdgeConnect SD-WAN",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.silver-peak.com/sd-wan"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sdnewhop/sdwannewhope/blob/master/reports/Silverpeak%20EdgeConnect%20Multiple%20Vulnerabilities%20-%20032018.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:silver-peak:unity_edgeconnect_sd-wan:-:*:*:*:*:*:*:*"
+	}
 }

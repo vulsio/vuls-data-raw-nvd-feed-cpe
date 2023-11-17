@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:eonweb:eonweb:5.1-0",
-  "deprecated": true,
-  "deprecation_date": "2020-04-29T13:26:03.907Z",
-  "title": [
-    {
-      "text": "eonweb 5.1-0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/EyesOfNetworkCommunity/eonweb/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.eonweb.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eonweb:eonweb:5.1-0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-29T09:26:03.907-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:eyesofnetwork:eonweb:5.1-0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:eonweb:eonweb:5.1-0",
+	"deprecated": true,
+	"deprecation_date": "2020-04-29T13:26:03.907Z",
+	"title": [
+		{
+			"text": "eonweb 5.1-0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/EyesOfNetworkCommunity/eonweb/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.eonweb.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eonweb:eonweb:5.1-0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-29T09:26:03.907-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:eyesofnetwork:eonweb:5.1-0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:spice_project:spice-gtk:0.23",
-  "deprecated": true,
-  "deprecation_date": "2019-06-17T13:49:32.883Z",
-  "title": [
-    {
-      "text": "Spice Project Spice-GTK 0.23",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://cgit.freedesktop.org/spice/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=1501200"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/freedesktop/spice-gtk/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:spice_project:spice-gtk:0.23:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-17T09:49:32.883-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:spice-gtk_project:spice-gtk:0.23:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:spice_project:spice-gtk:0.23",
+	"deprecated": true,
+	"deprecation_date": "2019-06-17T13:49:32.883Z",
+	"title": [
+		{
+			"text": "Spice Project Spice-GTK 0.23",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://cgit.freedesktop.org/spice/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1501200"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/freedesktop/spice-gtk/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:spice_project:spice-gtk:0.23:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-17T09:49:32.883-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:spice-gtk_project:spice-gtk:0.23:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

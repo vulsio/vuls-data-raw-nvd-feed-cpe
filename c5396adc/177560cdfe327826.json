@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:altn:mdaemon_email_server:17.5.1",
-  "title": [
-    {
-      "text": "Altn MDaemon Email Server 17.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Dmitriy-area51/Exploit/blob/master/CVE-2019-19497/README.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.altn.com/Products/MDaemon-Email-Server-Windows/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:altn:mdaemon_email_server:17.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:altn:mdaemon_email_server:17.5.1",
+	"title": [
+		{
+			"text": "Altn MDaemon Email Server 17.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Dmitriy-area51/Exploit/blob/master/CVE-2019-19497/README.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.altn.com/Products/MDaemon-Email-Server-Windows/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:altn:mdaemon_email_server:17.5.1:*:*:*:*:*:*:*"
+	}
 }

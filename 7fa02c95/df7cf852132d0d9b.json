@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:zulip:zulip:1.3.2",
-  "title": [
-    {
-      "text": "Zulip 1.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://securitylab.github.com/advisories/GHSL-2021-118-zulip-zulip/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/zulip/zulip/security/advisories/GHSA-4h36-mqfq-42jg"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://zulip.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/zulip/zulip/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zulip:zulip:1.3.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zulip:zulip:1.3.2",
+	"title": [
+		{
+			"text": "Zulip 1.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://securitylab.github.com/advisories/GHSL-2021-118-zulip-zulip/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zulip/zulip/security/advisories/GHSA-4h36-mqfq-42jg"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://zulip.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/zulip/zulip/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zulip:zulip:1.3.2:*:*:*:*:*:*:*"
+	}
 }

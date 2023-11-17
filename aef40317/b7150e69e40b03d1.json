@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ganeti_project:ganeti:2.10.0:rc2",
-  "deprecated": true,
-  "deprecation_date": "2021-09-08T17:06:14.410Z",
-  "title": [
-    {
-      "text": "Ganeti project Ganeti 2.10.0 release candidate 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "project release information",
-      "href": "http://git.ganeti.org/?p=ganeti.git;a=tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ganeti_project:ganeti:2.10.0:rc2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-08T13:06:14.410-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ganeti_project:ganeti:2.10.0:rc2",
+	"deprecated": true,
+	"deprecation_date": "2021-09-08T17:06:14.410Z",
+	"title": [
+		{
+			"text": "Ganeti project Ganeti 2.10.0 release candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "project release information",
+			"href": "http://git.ganeti.org/?p=ganeti.git;a=tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ganeti_project:ganeti:2.10.0:rc2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-08T13:06:14.410-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:spi-inc:ganeti:2.10.0:rc2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

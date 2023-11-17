@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kde:plasma-workspace:5.2.0",
-  "title": [
-    {
-      "text": "KDE Plasma Workspace 5.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://phabricator.kde.org/source/plasma-workspace/repository/master/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://kde.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://phabricator.kde.org/source/plasma-workspace/tags/master/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kde:plasma-workspace:5.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kde:plasma-workspace:5.2.0",
+	"title": [
+		{
+			"text": "KDE Plasma Workspace 5.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://phabricator.kde.org/source/plasma-workspace/repository/master/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://kde.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://phabricator.kde.org/source/plasma-workspace/tags/master/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kde:plasma-workspace:5.2.0:*:*:*:*:*:*:*"
+	}
 }

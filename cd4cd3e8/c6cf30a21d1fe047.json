@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:microsoft:network_watcher_agent:-::~~~linux~~",
-  "title": [
-    {
-      "text": "Microsoft Network Watcher Agent for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/network-watcher-linux"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:network_watcher_agent:-:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:microsoft:network_watcher_agent:-::~~~linux~~",
+	"title": [
+		{
+			"text": "Microsoft Network Watcher Agent for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/network-watcher-linux"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:network_watcher_agent:-:*:*:*:*:linux:*:*"
+	}
 }

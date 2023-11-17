@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:blueplanet-works:appguard:-::~~enterprise~windows~~",
-  "title": [
-    {
-      "text": "Blue Planet-works AppGuard Enterprise Edition for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0022/MNDT-2022-0022.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.blueplanet-works.com/en/solution/enterprise.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:blueplanet-works:appguard:-:*:*:*:enterprise:windows:*:*"
-  }
+	"name": "cpe:/a:blueplanet-works:appguard:-::~~enterprise~windows~~",
+	"title": [
+		{
+			"text": "Blue Planet-works AppGuard Enterprise Edition for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mandiant/Vulnerability-Disclosures/blob/master/2022/MNDT-2022-0022/MNDT-2022-0022.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.blueplanet-works.com/en/solution/enterprise.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blueplanet-works:appguard:-:*:*:*:enterprise:windows:*:*"
+	}
 }

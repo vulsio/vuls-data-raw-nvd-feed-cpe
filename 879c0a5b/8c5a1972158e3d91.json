@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:digitalzoomstudio:dzs-zoomsounds:-::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-09-02T17:28:22.430Z",
-  "title": [
-    {
-      "text": "Digital Zoom Studio dzs-ZoomSounds for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpvulndb.com/vulnerabilities/8019"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/132124/"
-    },
-    {
-      "text": "Product",
-      "href": "http://digitalzoomstudio.net/docs/wpzoomsounds/#intro"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://digitalzoomstudio.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:-:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-09-02T13:28:22.430-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:digitalzoomstudio:zoomsounds:-:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:digitalzoomstudio:dzs-zoomsounds:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-09-02T17:28:22.430Z",
+	"title": [
+		{
+			"text": "Digital Zoom Studio dzs-ZoomSounds for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpvulndb.com/vulnerabilities/8019"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/132124/"
+		},
+		{
+			"text": "Product",
+			"href": "http://digitalzoomstudio.net/docs/wpzoomsounds/#intro"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://digitalzoomstudio.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digitalzoomstudio:dzs-zoomsounds:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-09-02T13:28:22.430-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:digitalzoomstudio:zoomsounds:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

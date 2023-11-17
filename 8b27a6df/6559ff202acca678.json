@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ffmpeg:ffmpeg:-",
-  "title": [
-    {
-      "text": "FFmpeg",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://trac.ffmpeg.org/ticket/9312"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=de8e6e67e7523e48bb27ac224a0b446df05e1640"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ffmpeg:ffmpeg:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ffmpeg:ffmpeg:-",
+	"title": [
+		{
+			"text": "FFmpeg",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://trac.ffmpeg.org/ticket/9312"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://git.videolan.org/?p=ffmpeg.git;a=commitdiff;h=de8e6e67e7523e48bb27ac224a0b446df05e1640"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ffmpeg:ffmpeg:-:*:*:*:*:*:*:*"
+	}
 }

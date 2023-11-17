@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:magento:magento:2.3.6::~~open_source~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-04-20T13:35:38.863Z",
-  "title": [
-    {
-      "text": "Magento 2.3.6 Open Source Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://magento.com/tech-resources/download"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/magento/apsb20-59.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:magento:magento:2.3.6:*:*:*:open_source:*:*:*",
-    "deprecation": {
-      "date": "2021-04-20T09:35:38.863-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:magento:magento:2.3.6:-:*:*:open_source:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:magento:magento:2.3.6::~~open_source~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-04-20T13:35:38.863Z",
+	"title": [
+		{
+			"text": "Magento 2.3.6 Open Source Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://magento.com/tech-resources/download"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/magento/apsb20-59.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:magento:magento:2.3.6:*:*:*:open_source:*:*:*",
+		"deprecation": {
+			"date": "2021-04-20T09:35:38.863-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:magento:magento:2.3.6:-:*:*:open_source:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

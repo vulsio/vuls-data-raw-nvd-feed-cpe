@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:craftcms:craft_cms:3.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-10-15T09:41:26.473Z",
-  "title": [
-    {
-      "text": "Craftcms Craft Cms 3.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/craftcms/cms"
-    },
-    {
-      "text": "Product",
-      "href": "https://craftcms.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:craftcms:craft_cms:3.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-15T05:41:26.473-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:craftcms:craft_cms:3.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:craftcms:craft_cms:3.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-10-15T09:41:26.473Z",
+	"title": [
+		{
+			"text": "Craftcms Craft Cms 3.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/craftcms/cms"
+		},
+		{
+			"text": "Product",
+			"href": "https://craftcms.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:craftcms:craft_cms:3.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-15T05:41:26.473-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:craftcms:craft_cms:3.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

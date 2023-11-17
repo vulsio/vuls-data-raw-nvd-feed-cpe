@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:valvesoftware:steam_client:-",
-  "title": [
-    {
-      "text": "Valve Software Steam Client",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/583184"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.valvesoftware.com/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://store.steampowered.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:valvesoftware:steam_client:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:valvesoftware:steam_client:-",
+	"title": [
+		{
+			"text": "Valve Software Steam Client",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/583184"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.valvesoftware.com/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://store.steampowered.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:valvesoftware:steam_client:-:*:*:*:*:*:*:*"
+	}
 }

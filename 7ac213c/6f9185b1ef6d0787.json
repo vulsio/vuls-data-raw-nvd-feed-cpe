@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:theforeman:foreman:-",
-  "title": [
-    {
-      "text": "theforeman Foreman",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2018-14643"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.theforeman.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:theforeman:foreman:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:theforeman:foreman:-",
+	"title": [
+		{
+			"text": "theforeman Foreman",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2018-14643"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.theforeman.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:theforeman:foreman:-:*:*:*:*:*:*:*"
+	}
 }

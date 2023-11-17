@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:elastic:elasticsearch:1.4.0",
-  "deprecated": true,
-  "deprecation_date": "2021-05-19T22:18:18.217Z",
-  "title": [
-    {
-      "text": "Elastic Elasticsearch 1.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/elastic/elasticsearch/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.elastic.co/products/elasticsearch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:elastic:elasticsearch:1.4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-19T18:18:18.217-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:elastic:elasticsearch:1.4.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:elastic:elasticsearch:1.4.0",
+	"deprecated": true,
+	"deprecation_date": "2021-05-19T22:18:18.217Z",
+	"title": [
+		{
+			"text": "Elastic Elasticsearch 1.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/elastic/elasticsearch/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.elastic.co/products/elasticsearch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:elastic:elasticsearch:1.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-19T18:18:18.217-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:elastic:elasticsearch:1.4.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

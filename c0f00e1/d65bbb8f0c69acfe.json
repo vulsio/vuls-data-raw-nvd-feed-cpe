@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ftcms:ftcms:2.1",
-  "title": [
-    {
-      "text": "Feitian Station Group System (FTCMS) 2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/whiex/webvue/blob/gh-pages/Ftcms%20CSRF.md"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.ftcms.cn/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/235486"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ftcms:ftcms:2.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ftcms:ftcms:2.1",
+	"title": [
+		{
+			"text": "Feitian Station Group System (FTCMS) 2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/whiex/webvue/blob/gh-pages/Ftcms%20CSRF.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.ftcms.cn/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/235486"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ftcms:ftcms:2.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:fontmeister_project:fontmeister:1.04::~~~wordpress~~",
-  "title": [
-    {
-      "text": "FontMeister Project FontMeister 1.04 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/fontmeister/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/fontmeister/wordpress-fontmeister-plugin-1-08-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fontmeister_project:fontmeister:1.04:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:fontmeister_project:fontmeister:1.04::~~~wordpress~~",
+	"title": [
+		{
+			"text": "FontMeister Project FontMeister 1.04 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/fontmeister/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/fontmeister/wordpress-fontmeister-plugin-1-08-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fontmeister_project:fontmeister:1.04:*:*:*:*:wordpress:*:*"
+	}
 }

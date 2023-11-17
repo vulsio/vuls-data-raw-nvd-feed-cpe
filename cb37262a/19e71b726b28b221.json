@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kaspersky:security_cloud:-",
-  "title": [
-    {
-      "text": "Kaspersky Security Cloud",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/223703"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/27xxx/CVE-2021-27223.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kaspersky:security_cloud:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kaspersky:security_cloud:-",
+	"title": [
+		{
+			"text": "Kaspersky Security Cloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/223703"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/27xxx/CVE-2021-27223.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kaspersky:security_cloud:-:*:*:*:*:*:*:*"
+	}
 }

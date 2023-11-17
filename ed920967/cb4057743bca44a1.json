@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mozilla:seamonkey:1.1::alpha",
-  "deprecated": true,
-  "deprecation_date": "2009-11-25T18:50:26.027Z",
-  "title": [
-    {
-      "text": "Mozilla SeaMonkey 1.1 alpha",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:seamonkey:1.1:*:alpha:*:*:*:*:*",
-    "deprecation": {
-      "date": "2009-11-25T13:50:26.027-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mozilla:seamonkey:1.1:alpha:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mozilla:seamonkey:1.1::alpha",
+	"deprecated": true,
+	"deprecation_date": "2009-11-25T18:50:26.027Z",
+	"title": [
+		{
+			"text": "Mozilla SeaMonkey 1.1 alpha",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:seamonkey:1.1:*:alpha:*:*:*:*:*",
+		"deprecation": {
+			"date": "2009-11-25T13:50:26.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:seamonkey:1.1:alpha:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

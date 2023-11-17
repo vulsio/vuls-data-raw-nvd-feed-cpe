@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:sitaram_chamarty:gitolite:1.4",
-  "deprecated": true,
-  "deprecation_date": "2019-09-09T17:48:45.390Z",
-  "title": [
-    {
-      "text": "Sitaram Chamarty gitolite 1.4",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sitaram_chamarty:gitolite:1.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-09-09T13:48:45.390-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gitolite:gitolite:1.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sitaram_chamarty:gitolite:1.4",
+	"deprecated": true,
+	"deprecation_date": "2019-09-09T17:48:45.390Z",
+	"title": [
+		{
+			"text": "Sitaram Chamarty gitolite 1.4",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sitaram_chamarty:gitolite:1.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-09-09T13:48:45.390-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gitolite:gitolite:1.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

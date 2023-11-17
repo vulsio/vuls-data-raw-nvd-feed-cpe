@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:lcweb:privatecontent:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "LCweb PrivateContent for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/private-content/privatecontent-843-protection-mechanism-bypass"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://lcweb.it/privatecontent/changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lcweb:privatecontent:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:lcweb:privatecontent:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "LCweb PrivateContent for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/private-content/privatecontent-843-protection-mechanism-bypass"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://lcweb.it/privatecontent/changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lcweb:privatecontent:-:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:tasmota_project:tasmota:8.2.0",
-  "deprecated": true,
-  "deprecation_date": "2023-01-12T17:44:49.637Z",
-  "title": [
-    {
-      "text": "Tasmota Project Tasmota 8.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/arendst/Tasmota/pull/16802/commits/066878da4d4762a9b6cb169fdf353e804d735cfd"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/arendst/Tasmota/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tasmota_project:tasmota:8.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-01-12T12:44:49.637-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:tasmota_project:tasmota:8.2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tasmota_project:tasmota:8.2.0",
+	"deprecated": true,
+	"deprecation_date": "2023-01-12T17:44:49.637Z",
+	"title": [
+		{
+			"text": "Tasmota Project Tasmota 8.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/arendst/Tasmota/pull/16802/commits/066878da4d4762a9b6cb169fdf353e804d735cfd"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/arendst/Tasmota/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tasmota_project:tasmota:8.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-01-12T12:44:49.637-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:tasmota_project:tasmota:8.2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

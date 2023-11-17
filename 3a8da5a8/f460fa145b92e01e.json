@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:nvidia:jetson_tx1_l4t:-",
-  "title": [
-    {
-      "text": "Nvidia Jetson TX1 L4T",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.nvidia.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://developer.nvidia.com/embedded/linux-tegra"
-    },
-    {
-      "text": "Version",
-      "href": "https://developer.nvidia.com/embedded/downloads"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:nvidia:jetson_tx1_l4t:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:nvidia:jetson_tx1_l4t:-",
+	"title": [
+		{
+			"text": "Nvidia Jetson TX1 L4T",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nvidia.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.nvidia.com/embedded/linux-tegra"
+		},
+		{
+			"text": "Version",
+			"href": "https://developer.nvidia.com/embedded/downloads"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nvidia:jetson_tx1_l4t:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2022:-::~~standard~~~",
-  "deprecated": true,
-  "deprecation_date": "2023-10-14T21:13:14.933Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2022 - Standard Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:*:*",
-    "deprecation": {
-      "date": "2023-10-14T17:13:14.933-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2022:-::~~standard~~~",
+	"deprecated": true,
+	"deprecation_date": "2023-10-14T21:13:14.933Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2022 - Standard Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/windows-server/get-started/editions-comparison-windows-server-2022"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:*:*",
+		"deprecation": {
+			"date": "2023-10-14T17:13:14.933-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2022:-:*:*:*:standard:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

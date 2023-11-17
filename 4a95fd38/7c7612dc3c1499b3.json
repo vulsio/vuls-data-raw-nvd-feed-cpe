@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:debian:debian_linux:3.1::ppc",
-  "title": [
-    {
-      "text": "Debian Linux 3.1 PPC Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.debian.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.debian.org/releases/sarge/releasenotes"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
-  }
+	"name": "cpe:/o:debian:debian_linux:3.1::ppc",
+	"title": [
+		{
+			"text": "Debian Linux 3.1 PPC Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.debian.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.debian.org/releases/sarge/releasenotes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:debian:debian_linux:3.1:*:ppc:*:*:*:*:*"
+	}
 }

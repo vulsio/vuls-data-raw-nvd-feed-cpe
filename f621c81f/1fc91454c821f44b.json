@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:zyxel:atp100:-",
-  "title": [
-    {
-      "text": "ZyXEL ATP100",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.zyxel.com/me/en/homepage.shtml"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.zyxelguard.com/ATP-Firewalls.asp"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.zyxel.com/support/remote-code-execution-vulnerability-of-NAS-products.shtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:zyxel:atp100:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:zyxel:atp100:-",
+	"title": [
+		{
+			"text": "ZyXEL ATP100",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/me/en/homepage.shtml"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.zyxelguard.com/ATP-Firewalls.asp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/support/remote-code-execution-vulnerability-of-NAS-products.shtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:zyxel:atp100:-:*:*:*:*:*:*:*"
+	}
 }

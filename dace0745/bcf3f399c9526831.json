@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:metabase:metabase:1.42.1",
-  "deprecated": true,
-  "deprecation_date": "2023-07-31T14:29:43.567Z",
-  "title": [
-    {
-      "text": "Metabase 1.42.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.metabase.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/metabase/metabase/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:metabase:metabase:1.42.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-07-31T10:29:43.567-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:metabase:metabase:1.42.1:*:*:*:enterprise:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:metabase:metabase:1.42.1",
+	"deprecated": true,
+	"deprecation_date": "2023-07-31T14:29:43.567Z",
+	"title": [
+		{
+			"text": "Metabase 1.42.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.metabase.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/metabase/metabase/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:metabase:metabase:1.42.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-07-31T10:29:43.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:metabase:metabase:1.42.1:*:*:*:enterprise:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

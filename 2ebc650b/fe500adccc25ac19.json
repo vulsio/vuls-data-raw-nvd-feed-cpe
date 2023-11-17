@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:fnl:scientific_linux:3.0.1",
-  "deprecated": true,
-  "deprecation_date": "2020-03-24T15:35:24.937Z",
-  "title": [
-    {
-      "text": "Fermi National Accelerator Laboratory Scientific Linux 3.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.scientificlinux.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.scientificlinux.org/downloads/sl-versions/sl3/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:fnl:scientific_linux:3.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-24T11:35:24.937-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:fnal:scientific_linux:3.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:fnl:scientific_linux:3.0.1",
+	"deprecated": true,
+	"deprecation_date": "2020-03-24T15:35:24.937Z",
+	"title": [
+		{
+			"text": "Fermi National Accelerator Laboratory Scientific Linux 3.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.scientificlinux.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.scientificlinux.org/downloads/sl-versions/sl3/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:fnl:scientific_linux:3.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-24T11:35:24.937-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:fnal:scientific_linux:3.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_xp:unknown:sp3",
-  "deprecated": true,
-  "deprecation_date": "2009-04-03T18:29:32.827Z",
-  "title": [
-    {
-      "text": "Microsoft Windows XP SP3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_xp:unknown:sp3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2009-04-03T14:29:32.827-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_xp:unknown:sp3",
+	"deprecated": true,
+	"deprecation_date": "2009-04-03T18:29:32.827Z",
+	"title": [
+		{
+			"text": "Microsoft Windows XP SP3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_xp:unknown:sp3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2009-04-03T14:29:32.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

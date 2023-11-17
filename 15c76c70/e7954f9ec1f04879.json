@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hashicorp:vault:1.8.7::~~enterprise~~~",
-  "title": [
-    {
-      "text": "HashiCorp Vault 1.8.7 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/hashicorp/vault/blob/main/CHANGELOG.md"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/hashicorp/vault/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.hashicorp.com/products/vault/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:vault:1.8.7:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:vault:1.8.7::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Vault 1.8.7 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hashicorp/vault/blob/main/CHANGELOG.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hashicorp/vault/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/products/vault/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault:1.8.7:*:*:*:enterprise:*:*:*"
+	}
 }

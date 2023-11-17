@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:microsoft:container_monitoring_solution:-",
-  "title": [
-    {
-      "text": "Microsoft Container Monitoring Solution",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://learn.microsoft.com/en-us/azure/azure-monitor/containers/containers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:container_monitoring_solution:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:container_monitoring_solution:-",
+	"title": [
+		{
+			"text": "Microsoft Container Monitoring Solution",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/azure/azure-monitor/containers/containers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:container_monitoring_solution:-:*:*:*:*:*:*:*"
+	}
 }

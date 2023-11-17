@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bestweather_project:bestweather:7.3.1::~~~android~~",
-  "title": [
-    {
-      "text": "BestWeather Project BestWeather 7.3.1 for Android",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/29xxx/CVE-2023-29745.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://play.google.com/store/apps/details?id=com.icoolme.android.weather"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bestweather_project:bestweather:7.3.1:*:*:*:*:android:*:*"
-  }
+	"name": "cpe:/a:bestweather_project:bestweather:7.3.1::~~~android~~",
+	"title": [
+		{
+			"text": "BestWeather Project BestWeather 7.3.1 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/29xxx/CVE-2023-29745.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.icoolme.android.weather"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bestweather_project:bestweather:7.3.1:*:*:*:*:android:*:*"
+	}
 }

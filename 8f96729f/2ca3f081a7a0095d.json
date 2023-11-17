@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:microsoft:windows_nt:4.0:-:~~workstation~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows NT 4.0 Workstation Edition x64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%20NT"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_nt:4.0:-:*:*:workstation:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows_nt:4.0:-:~~workstation~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows NT 4.0 Workstation Edition x64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/lifecycle/search?alpha=Windows%20Server%20NT"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_nt:4.0:-:*:*:workstation:*:x64:*"
+	}
 }

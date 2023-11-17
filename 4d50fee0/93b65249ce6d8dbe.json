@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:apple:keynote:2.0",
-  "deprecated": true,
-  "deprecation_date": "2013-10-25T14:41:49.060Z",
-  "title": [
-    {
-      "text": "Apple Keynote 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apple:keynote:2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-10-25T10:41:49.060-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apple:keynote:2.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apple:keynote:2.0",
+	"deprecated": true,
+	"deprecation_date": "2013-10-25T14:41:49.060Z",
+	"title": [
+		{
+			"text": "Apple Keynote 2.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apple:keynote:2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-10-25T10:41:49.060-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apple:keynote:2.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

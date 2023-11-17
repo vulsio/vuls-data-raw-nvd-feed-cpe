@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kubernetes:secrets-store-csi-driver:0.3.0",
-  "title": [
-    {
-      "text": "Kubernetes Secrets Store CSI Driver 0.3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://kubernetes.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:secrets-store-csi-driver:0.3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:secrets-store-csi-driver:0.3.0",
+	"title": [
+		{
+			"text": "Kubernetes Secrets Store CSI Driver 0.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://kubernetes.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/kubernetes-sigs/secrets-store-csi-driver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:secrets-store-csi-driver:0.3.0:*:*:*:*:*:*:*"
+	}
 }

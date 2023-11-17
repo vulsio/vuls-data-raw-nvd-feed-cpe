@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:debian:apt:1.4:beta4",
-  "deprecated": true,
-  "deprecation_date": "2020-01-08T15:33:04.263Z",
-  "title": [
-    {
-      "text": "Debian APT 1.4 Beta 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:debian:apt:1.4:beta4:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-08T10:33:04.263-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:debian:advanced_package_tool:1.4:beta4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:debian:apt:1.4:beta4",
+	"deprecated": true,
+	"deprecation_date": "2020-01-08T15:33:04.263Z",
+	"title": [
+		{
+			"text": "Debian APT 1.4 Beta 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://salsa.debian.org/apt-team/apt/-/tags?sort=updated_desc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:apt:1.4:beta4:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-08T10:33:04.263-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:debian:advanced_package_tool:1.4:beta4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

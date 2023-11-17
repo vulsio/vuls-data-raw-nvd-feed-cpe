@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pivotal_software:redis:3.0.1",
-  "deprecated": true,
-  "deprecation_date": "2018-08-07T16:37:11.780Z",
-  "title": [
-    {
-      "text": "Piviotal Software Redis 3.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor Website",
-      "href": "http://redis.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:redis:3.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-08-07T12:37:11.780-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redislabs:redis:3.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:redis:3.0.1",
+	"deprecated": true,
+	"deprecation_date": "2018-08-07T16:37:11.780Z",
+	"title": [
+		{
+			"text": "Piviotal Software Redis 3.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor Website",
+			"href": "http://redis.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:redis:3.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-08-07T12:37:11.780-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redislabs:redis:3.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

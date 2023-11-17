@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:roundcube:webmail:0.6",
-  "deprecated": true,
-  "deprecation_date": "2020-05-11T16:24:18.273Z",
-  "title": [
-    {
-      "text": "RoundCube Webmail 0.6",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:roundcube:webmail:0.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-11T12:24:18.273-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:roundcube:webmail:0.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:roundcube:webmail:0.6",
+	"deprecated": true,
+	"deprecation_date": "2020-05-11T16:24:18.273Z",
+	"title": [
+		{
+			"text": "RoundCube Webmail 0.6",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:roundcube:webmail:0.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-11T12:24:18.273-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:roundcube:webmail:0.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

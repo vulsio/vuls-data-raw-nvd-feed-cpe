@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:100plus:101eip:200925",
-  "deprecated": true,
-  "deprecation_date": "2021-06-10T15:28:05.490Z",
-  "title": [
-    {
-      "text": "100plus 101EIP 200925",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.twcert.org.tw/tw/cp-132-4755-bd590-1.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.100plus.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32539.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:100plus:101eip:200925:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-10T11:28:05.490-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:hundredplus:101eip:200925:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:100plus:101eip:200925",
+	"deprecated": true,
+	"deprecation_date": "2021-06-10T15:28:05.490Z",
+	"title": [
+		{
+			"text": "100plus 101EIP 200925",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.twcert.org.tw/tw/cp-132-4755-bd590-1.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.100plus.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/32xxx/CVE-2021-32539.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:100plus:101eip:200925:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-10T11:28:05.490-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hundredplus:101eip:200925:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

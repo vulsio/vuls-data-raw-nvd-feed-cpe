@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:4.0:update1",
-  "title": [
-    {
-      "text": "VMWare vCenter Server 4.0 Update 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.vmware.com/security/advisories/VMSA-2009-0016.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:4.0:update1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:vcenter_server:4.0:update1",
+	"title": [
+		{
+			"text": "VMWare vCenter Server 4.0 Update 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2009-0016.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:4.0:update1:*:*:*:*:*:*"
+	}
 }

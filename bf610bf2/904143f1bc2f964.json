@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:ansible_collection:4.1.0::~~~aws~~",
-  "title": [
-    {
-      "text": "Red Hat Ansible Collection 4.1.0 for AWS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ansible-collections/amazon.aws/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:ansible_collection:4.1.0:*:*:*:*:aws:*:*"
-  }
+	"name": "cpe:/a:redhat:ansible_collection:4.1.0::~~~aws~~",
+	"title": [
+		{
+			"text": "Red Hat Ansible Collection 4.1.0 for AWS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ansible-collections/amazon.aws/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:ansible_collection:4.1.0:*:*:*:*:aws:*:*"
+	}
 }

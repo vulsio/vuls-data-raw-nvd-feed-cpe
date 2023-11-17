@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:opensid:opensid:18.06-pasca",
-  "deprecated": true,
-  "deprecation_date": "2021-08-12T15:45:06.550Z",
-  "title": [
-    {
-      "text": "OpenSID 18.06-pasca",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://twitter.com/cvenew/status/1013490043095306242?lang=en"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://github.com/OpenSID/OpenSID"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opensid:opensid:18.06-pasca:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-12T11:45:06.550-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:opendesa:opensid:18.06-pasca:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:opensid:opensid:18.06-pasca",
+	"deprecated": true,
+	"deprecation_date": "2021-08-12T15:45:06.550Z",
+	"title": [
+		{
+			"text": "OpenSID 18.06-pasca",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://twitter.com/cvenew/status/1013490043095306242?lang=en"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://github.com/OpenSID/OpenSID"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opensid:opensid:18.06-pasca:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-12T11:45:06.550-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:opendesa:opensid:18.06-pasca:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

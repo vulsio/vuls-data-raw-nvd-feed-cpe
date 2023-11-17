@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:foxmail:foxmail:7.2.0",
-  "deprecated": true,
-  "deprecation_date": "2018-11-14T14:38:06.523Z",
-  "title": [
-    {
-      "text": "Foxmail Foxmail 7.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.foxmail.com/win/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:foxmail:foxmail:7.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-11-14T09:38:06.523-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tencent:foxmail:7.2.0:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:foxmail:foxmail:7.2.0",
+	"deprecated": true,
+	"deprecation_date": "2018-11-14T14:38:06.523Z",
+	"title": [
+		{
+			"text": "Foxmail Foxmail 7.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.foxmail.com/win/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:foxmail:foxmail:7.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-11-14T09:38:06.523-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tencent:foxmail:7.2.0:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

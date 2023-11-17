@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:fullarmor:hapi_file_share_mount:-",
-  "title": [
-    {
-      "text": "Fullarmor HAPI File Share Mount",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35465"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.fullarmor.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/fullarmor-hapi-file-share-mount"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fullarmor:hapi_file_share_mount:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:fullarmor:hapi_file_share_mount:-",
+	"title": [
+		{
+			"text": "Fullarmor HAPI File Share Mount",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35465"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.fullarmor.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/fullarmor-hapi-file-share-mount"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fullarmor:hapi_file_share_mount:-:*:*:*:*:*:*:*"
+	}
 }

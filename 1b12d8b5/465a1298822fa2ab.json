@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:microsoft:windows-nt:xp:sp2:~~pro~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows-NT XP Service Pack 2 Pro Edition on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://msdn.microsoft.com/en-us/library/aa266936(v=vs.60).aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows-nt:xp:sp2:*:*:pro:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows-nt:xp:sp2:~~pro~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows-NT XP Service Pack 2 Pro Edition on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://msdn.microsoft.com/en-us/library/aa266936(v=vs.60).aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows-nt:xp:sp2:*:*:pro:*:x64:*"
+	}
 }

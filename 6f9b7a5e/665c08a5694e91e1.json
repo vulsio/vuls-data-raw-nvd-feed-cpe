@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:intel:active_management_technology:11.12.93",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T21:43:10.670Z",
-  "title": [
-    {
-      "text": "Intel Active Management Technology (AMT) Firmware 11.12.93",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/architecture-and-technology/intel-active-management-technology.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.intel.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00610.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:active_management_technology:11.12.93:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T17:43:10.670-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:intel:active_management_technology_firmware:11.12.93:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:intel:active_management_technology:11.12.93",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T21:43:10.670Z",
+	"title": [
+		{
+			"text": "Intel Active Management Technology (AMT) Firmware 11.12.93",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/architecture-and-technology/intel-active-management-technology.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00610.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:active_management_technology:11.12.93:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T17:43:10.670-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:intel:active_management_technology_firmware:11.12.93:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ovirt:ovirt:3.3.3:rc1",
-  "deprecated": true,
-  "deprecation_date": "2019-11-06T20:35:01.747Z",
-  "title": [
-    {
-      "text": "oVirt 3.3.3 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/oVirt/ovirt-engine/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ovirt:ovirt:3.3.3:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-06T15:35:01.747-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:ovirt-engine:3.3.3:rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ovirt:ovirt:3.3.3:rc1",
+	"deprecated": true,
+	"deprecation_date": "2019-11-06T20:35:01.747Z",
+	"title": [
+		{
+			"text": "oVirt 3.3.3 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/oVirt/ovirt-engine/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ovirt:ovirt:3.3.3:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-06T15:35:01.747-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:ovirt-engine:3.3.3:rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

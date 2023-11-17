@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:riverforest-wp:media-from-ftp:-::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-09-11T15:57:44.350Z",
-  "title": [
-    {
-      "text": "Riverforest-wp Media from FTP for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/0d323b07-c6e7-4aba-85bc-64659ad0c85d"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:riverforest-wp:media-from-ftp:-:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-09-11T11:57:44.350-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:riverforest-wp:media_from_ftp:-:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:riverforest-wp:media-from-ftp:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-09-11T15:57:44.350Z",
+	"title": [
+		{
+			"text": "Riverforest-wp Media from FTP for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/0d323b07-c6e7-4aba-85bc-64659ad0c85d"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:riverforest-wp:media-from-ftp:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-09-11T11:57:44.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:riverforest-wp:media_from_ftp:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

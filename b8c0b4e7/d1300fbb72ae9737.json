@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:4.5:rc6",
-  "title": [
-    {
-      "text": "Linux Kernel 4.5 Release Candidate 6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/torvalds/linux/releases?after=v4.6-rc1"
-    },
-    {
-      "text": "Version",
-      "href": "https://lwn.net/Articles/677898/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:4.5:rc6:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:4.5:rc6",
+	"title": [
+		{
+			"text": "Linux Kernel 4.5 Release Candidate 6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/torvalds/linux/releases?after=v4.6-rc1"
+		},
+		{
+			"text": "Version",
+			"href": "https://lwn.net/Articles/677898/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:4.5:rc6:*:*:*:*:*:*"
+	}
 }

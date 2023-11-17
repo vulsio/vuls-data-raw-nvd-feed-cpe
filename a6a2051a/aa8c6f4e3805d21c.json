@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:bosswerk:inverter:-",
-  "title": [
-    {
-      "text": "Bosswerk Inverter -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.bosswerk.de/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.heise.de/news/Sicherheitsluecke-bei-Mikrowechselrichtern-von-Deye-Haendler-nicht-zustaendig-7483376.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/0xxx/CVE-2023-0808.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:bosswerk:inverter:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:bosswerk:inverter:-",
+	"title": [
+		{
+			"text": "Bosswerk Inverter -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.bosswerk.de/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.heise.de/news/Sicherheitsluecke-bei-Mikrowechselrichtern-von-Deye-Haendler-nicht-zustaendig-7483376.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/0xxx/CVE-2023-0808.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:bosswerk:inverter:-:*:*:*:*:*:*:*"
+	}
 }

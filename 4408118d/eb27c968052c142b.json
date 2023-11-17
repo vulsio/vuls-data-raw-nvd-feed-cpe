@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:jooby:jooby:1.0.0:cr2",
-  "deprecated": true,
-  "deprecation_date": "2021-08-13T15:13:17.987Z",
-  "title": [
-    {
-      "text": "Jooby 1.0.0 Cr2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jooby.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jooby-project/jooby/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jooby:jooby:1.0.0:cr2:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-13T11:13:17.987-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jooby:jooby:1.0.0:candidate_release2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jooby:jooby:1.0.0:cr2",
+	"deprecated": true,
+	"deprecation_date": "2021-08-13T15:13:17.987Z",
+	"title": [
+		{
+			"text": "Jooby 1.0.0 Cr2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jooby.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jooby-project/jooby/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jooby:jooby:1.0.0:cr2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-13T11:13:17.987-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jooby:jooby:1.0.0:candidate_release2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

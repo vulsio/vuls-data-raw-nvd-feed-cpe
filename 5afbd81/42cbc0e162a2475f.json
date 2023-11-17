@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:jgraph:drawio:9.5.4",
-  "deprecated": true,
-  "deprecation_date": "2022-06-07T20:25:28.690Z",
-  "title": [
-    {
-      "text": "JGraph draw.io 9.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jgraph/drawio/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.diagrams.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jgraph:drawio:9.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-07T16:25:28.690-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:diagrams:drawio:9.5.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jgraph:drawio:9.5.4",
+	"deprecated": true,
+	"deprecation_date": "2022-06-07T20:25:28.690Z",
+	"title": [
+		{
+			"text": "JGraph draw.io 9.5.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jgraph/drawio/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.diagrams.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jgraph:drawio:9.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-07T16:25:28.690-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:diagrams:drawio:9.5.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

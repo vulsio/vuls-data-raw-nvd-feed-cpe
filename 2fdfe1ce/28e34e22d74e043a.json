@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtx2000:7.01.53",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:22:59.607Z",
-  "title": [
-    {
-      "text": "ヤマハ RTX2000 7.01.53",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTX2000 7.01.53",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtx2000:7.01.53:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:22:59.607-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtx2000:7.01.53:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtx2000:7.01.53",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:22:59.607Z",
+	"title": [
+		{
+			"text": "ヤマハ RTX2000 7.01.53",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RTX2000 7.01.53",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtx2000:7.01.53:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:22:59.607-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtx2000:7.01.53:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

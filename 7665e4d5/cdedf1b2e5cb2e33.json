@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:jenkins:jenkins:1.469",
-  "deprecated": true,
-  "deprecation_date": "2019-05-08T16:27:43.737Z",
-  "title": [
-    {
-      "text": "Jenkins 1.469",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://jenkins.io/changelog-old/"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/jenkinsci/jenkins"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://jenkins.io/changelog/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:jenkins:1.469:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-08T12:27:43.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jenkins:jenkins:1.469:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jenkins:jenkins:1.469",
+	"deprecated": true,
+	"deprecation_date": "2019-05-08T16:27:43.737Z",
+	"title": [
+		{
+			"text": "Jenkins 1.469",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://jenkins.io/changelog-old/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/jenkinsci/jenkins"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://jenkins.io/changelog/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:jenkins:1.469:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-08T12:27:43.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:jenkins:1.469:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

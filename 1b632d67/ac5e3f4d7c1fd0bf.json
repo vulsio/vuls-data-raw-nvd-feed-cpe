@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openbmc-project:openbmc:2.9.0:dev",
-  "title": [
-    {
-      "text": "Openbmc-project OpenBMC 2.9.0 Dev",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://gerrit.openbmc-project.xyz/q/status:open+-is:wip"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/openbmc/openbmc/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openbmc-project:openbmc:2.9.0:dev:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openbmc-project:openbmc:2.9.0:dev",
+	"title": [
+		{
+			"text": "Openbmc-project OpenBMC 2.9.0 Dev",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://gerrit.openbmc-project.xyz/q/status:open+-is:wip"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openbmc/openbmc/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openbmc-project:openbmc:2.9.0:dev:*:*:*:*:*:*"
+	}
 }

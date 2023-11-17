@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:eclipse:jetty:12.0.0:alpha1",
-  "title": [
-    {
-      "text": "Eclipse Jetty 12.0.0 Alpha 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-p26g-97m4-6q7c"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/eclipse/jetty.project/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eclipse:jetty:12.0.0:alpha1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:eclipse:jetty:12.0.0:alpha1",
+	"title": [
+		{
+			"text": "Eclipse Jetty 12.0.0 Alpha 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/eclipse/jetty.project/security/advisories/GHSA-p26g-97m4-6q7c"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/eclipse/jetty.project/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eclipse:jetty:12.0.0:alpha1:*:*:*:*:*:*"
+	}
 }

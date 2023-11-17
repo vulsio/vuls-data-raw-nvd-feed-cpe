@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:microsoft:storsimple_8020:-",
-  "title": [
-    {
-      "text": "Microsoft StorSimple 8020 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://learn.microsoft.com/en-us/azure/storsimple/storsimple-overview"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38017"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:microsoft:storsimple_8020:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:microsoft:storsimple_8020:-",
+	"title": [
+		{
+			"text": "Microsoft StorSimple 8020 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/azure/storsimple/storsimple-overview"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-38017"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:microsoft:storsimple_8020:-:*:*:*:*:*:*:*"
+	}
 }

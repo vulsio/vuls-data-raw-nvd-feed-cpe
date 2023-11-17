@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:sun:jre:1.4.2:update6",
-  "deprecated": true,
-  "deprecation_date": "2012-02-15T01:08:04.900Z",
-  "title": [
-    {
-      "text": "Sun Jre Update6 1.4.2",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sun:jre:1.4.2:update6:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2012-02-14T20:08:04.900-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sun:jre:1.4.2_6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sun:jre:1.4.2:update6",
+	"deprecated": true,
+	"deprecation_date": "2012-02-15T01:08:04.900Z",
+	"title": [
+		{
+			"text": "Sun Jre Update6 1.4.2",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sun:jre:1.4.2:update6:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2012-02-14T20:08:04.900-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sun:jre:1.4.2_6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

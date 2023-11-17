@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:windows_media_player:xp",
-  "deprecated": true,
-  "deprecation_date": "2013-07-12T18:27:15.197Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Media Player",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:windows_media_player:xp:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-07-12T14:27:15.197-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:windows_media_player:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:windows_media_player:xp",
+	"deprecated": true,
+	"deprecation_date": "2013-07-12T18:27:15.197Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Media Player",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:windows_media_player:xp:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-07-12T14:27:15.197-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:windows_media_player:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

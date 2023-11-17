@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:openwrt:openwrt:18.06.0",
-  "deprecated": true,
-  "deprecation_date": "2023-05-24T15:09:06.687Z",
-  "title": [
-    {
-      "text": "OpenWrt 18.06.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://openwrt.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/openwrt/openwrt/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://openwrt.org/about/history"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:openwrt:openwrt:18.06.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-24T11:09:06.687-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:openwrt:openwrt:18.06.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:openwrt:openwrt:18.06.0",
+	"deprecated": true,
+	"deprecation_date": "2023-05-24T15:09:06.687Z",
+	"title": [
+		{
+			"text": "OpenWrt 18.06.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://openwrt.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openwrt/openwrt/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://openwrt.org/about/history"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:openwrt:openwrt:18.06.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-24T11:09:06.687-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:openwrt:openwrt:18.06.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

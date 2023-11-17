@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tridium:niagra_ax_framework:3.7",
-  "deprecated": true,
-  "deprecation_date": "2023-03-22T13:27:42.677Z",
-  "title": [
-    {
-      "text": "Tridium Niagra AX Framework 3.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.tridium.com/content/dam/tridium/en/documents/events/2020-04-30%20TridiumTalk%20-Niagara%20AX%20EOL%20PPT.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tridium:niagra_ax_framework:3.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-03-22T09:27:42.677-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tridium:niagara_ax:3.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tridium:niagra_ax_framework:3.7",
+	"deprecated": true,
+	"deprecation_date": "2023-03-22T13:27:42.677Z",
+	"title": [
+		{
+			"text": "Tridium Niagra AX Framework 3.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tridium.com/content/dam/tridium/en/documents/events/2020-04-30%20TridiumTalk%20-Niagara%20AX%20EOL%20PPT.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tridium:niagra_ax_framework:3.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-03-22T09:27:42.677-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tridium:niagara_ax:3.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

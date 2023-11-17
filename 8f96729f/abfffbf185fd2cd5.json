@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_nt:4.0:gold:embedded",
-  "deprecated": true,
-  "deprecation_date": "2019-05-08T22:04:40.040Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 4.0 gold embedded",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_nt:4.0:gold:embedded:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-08T18:04:40.040-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_nt:4.0:-:*:*:embedded:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_nt:4.0:gold:embedded",
+	"deprecated": true,
+	"deprecation_date": "2019-05-08T22:04:40.040Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 4.0 gold embedded",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_nt:4.0:gold:embedded:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-08T18:04:40.040-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_nt:4.0:-:*:*:embedded:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

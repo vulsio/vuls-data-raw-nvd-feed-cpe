@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:gl-inet:gl-mt3000_firmware:4.1.0:release_2",
-  "title": [
-    {
-      "text": "GL.iNET GL-MT3000 Firmware 4.1.0 Release 2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.gl-inet.com/products/gl-mt3000/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/OlivierLaflamme/cve/blob/main/GL.iNET/MT3000/get_nginx_log_RCE.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:gl-inet:gl-mt3000_firmware:4.1.0:release_2:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:gl-inet:gl-mt3000_firmware:4.1.0:release_2",
+	"title": [
+		{
+			"text": "GL.iNET GL-MT3000 Firmware 4.1.0 Release 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gl-inet.com/products/gl-mt3000/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/OlivierLaflamme/cve/blob/main/GL.iNET/MT3000/get_nginx_log_RCE.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gl-inet:gl-mt3000_firmware:4.1.0:release_2:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:elementor:elementor:1.5.9::~~pro~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-08-25T12:20:00.833Z",
-  "title": [
-    {
-      "text": "Elementor 1.5.9 Pro Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.contextis.com/en/resources/advisories/cve-2018-18379"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://elementor.com/pro/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:elementor:elementor:1.5.9:*:*:*:pro:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-08-25T08:20:00.833-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:elementor:elementor_page_builder:1.5.9:*:*:*:pro:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:elementor:elementor:1.5.9::~~pro~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-08-25T12:20:00.833Z",
+	"title": [
+		{
+			"text": "Elementor 1.5.9 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.contextis.com/en/resources/advisories/cve-2018-18379"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://elementor.com/pro/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:elementor:elementor:1.5.9:*:*:*:pro:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-08-25T08:20:00.833-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:elementor:elementor_page_builder:1.5.9:*:*:*:pro:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

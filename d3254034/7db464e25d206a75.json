@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:grundfos:cim_500_firmware:-",
-  "title": [
-    {
-      "text": "Grundfos CIM 500 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.grundfos.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-189-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://product-selection.grundfos.com/product-detail.product-detail.html?custid=GMA&productnumber=98301408"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:grundfos:cim_500_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:grundfos:cim_500_firmware:-",
+	"title": [
+		{
+			"text": "Grundfos CIM 500 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.grundfos.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-189-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://product-selection.grundfos.com/product-detail.product-detail.html?custid=GMA&productnumber=98301408"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:grundfos:cim_500_firmware:-:*:*:*:*:*:*:*"
+	}
 }

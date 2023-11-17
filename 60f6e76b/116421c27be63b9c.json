@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:futurxe_project:futurxe:-",
-  "deprecated": true,
-  "deprecation_date": "2020-01-29T12:50:04.110Z",
-  "title": [
-    {
-      "text": "FuturXe Project FuturXe",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/FuturXe"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:futurxe_project:futurxe:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-29T07:50:04.110-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:futurxe:futurxe:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:futurxe_project:futurxe:-",
+	"deprecated": true,
+	"deprecation_date": "2020-01-29T12:50:04.110Z",
+	"title": [
+		{
+			"text": "FuturXe Project FuturXe",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/tree/master/FuturXe"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:futurxe_project:futurxe:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-29T07:50:04.110-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:futurxe:futurxe:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

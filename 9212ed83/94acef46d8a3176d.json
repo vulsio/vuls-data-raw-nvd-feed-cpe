@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:unitrends:backup:4.2.2",
-  "deprecated": true,
-  "deprecation_date": "2021-12-06T15:03:27.207Z",
-  "title": [
-    {
-      "text": "Unitrends Backup 4.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.unitrends.com/UnitrendsBackup/s/topic/0TO40000000Gyp1GAC/backup?tabset-b98ad=2"
-    },
-    {
-      "text": "Version",
-      "href": "https://support.unitrends.com/UnitrendsBackup/s/downloads"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:unitrends:backup:4.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-12-06T10:03:27.207-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kaseya:unitrends_backup:4.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:unitrends:backup:4.2.2",
+	"deprecated": true,
+	"deprecation_date": "2021-12-06T15:03:27.207Z",
+	"title": [
+		{
+			"text": "Unitrends Backup 4.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.unitrends.com/UnitrendsBackup/s/topic/0TO40000000Gyp1GAC/backup?tabset-b98ad=2"
+		},
+		{
+			"text": "Version",
+			"href": "https://support.unitrends.com/UnitrendsBackup/s/downloads"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:unitrends:backup:4.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-12-06T10:03:27.207-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kaseya:unitrends_backup:4.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

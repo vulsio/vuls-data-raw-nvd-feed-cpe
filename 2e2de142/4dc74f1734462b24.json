@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:sd-wan:20.6.2",
-  "title": [
-    {
-      "text": "Cisco SD-WAN 20.6.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://sdwan-docs.cisco.com/Product_Documentation/Software_Features"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-privesc-cli-xkGwmqKu"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:sd-wan:20.6.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cisco:sd-wan:20.6.2",
+	"title": [
+		{
+			"text": "Cisco SD-WAN 20.6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://sdwan-docs.cisco.com/Product_Documentation/Software_Features"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-privesc-cli-xkGwmqKu"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:sd-wan:20.6.2:*:*:*:*:*:*:*"
+	}
 }

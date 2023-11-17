@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:microsoft:windows_mobile:5.0",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:00.243Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Mobile 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:00.243-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:windows_mobile:5.0",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:00.243Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Mobile 5.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:00.243-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_mobile:5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

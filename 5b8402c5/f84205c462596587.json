@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:cognos_controller:10.4.1",
-  "title": [
-    {
-      "text": "IBM Cognos Controller 10.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?product=ibm%2FInformation+Management%2FCognos+8+Controller&fixids=10.4.0.0-BA-CNTRL-Win64-SF001:0&includeSupersedes=0&source=fc&login=true&function=fixId&parent=Cognos"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/security-bulletin-security-vulnerabilties-exist-ibm-cognos-controller"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:cognos_controller:10.4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:cognos_controller:10.4.1",
+	"title": [
+		{
+			"text": "IBM Cognos Controller 10.4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www-945.ibm.com/support/fixcentral/swg/selectFixes?product=ibm%2FInformation+Management%2FCognos+8+Controller&fixids=10.4.0.0-BA-CNTRL-Win64-SF001:0&includeSupersedes=0&source=fc&login=true&function=fixId&parent=Cognos"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-security-vulnerabilties-exist-ibm-cognos-controller"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:cognos_controller:10.4.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sonicwall:analytics:2.5.0.3:-:~~on-prem~~~",
-  "title": [
-    {
-      "text": "SonicWall Analytics 2.5.0.3 On-prem Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.sonicwall.com/gmsvp/Dev-Training/analytics/2.5/GSG.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0007"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sonicwall:analytics:2.5.0.3:-:*:*:on-prem:*:*:*"
-  }
+	"name": "cpe:/a:sonicwall:analytics:2.5.0.3:-:~~on-prem~~~",
+	"title": [
+		{
+			"text": "SonicWall Analytics 2.5.0.3 On-prem Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.sonicwall.com/gmsvp/Dev-Training/analytics/2.5/GSG.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2022-0007"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:analytics:2.5.0.3:-:*:*:on-prem:*:*:*"
+	}
 }

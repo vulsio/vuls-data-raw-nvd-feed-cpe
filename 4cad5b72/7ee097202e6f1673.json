@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:apple:apple_tv:5.2.0",
-  "deprecated": true,
-  "deprecation_date": "2019-03-08T16:06:28.687Z",
-  "title": [
-    {
-      "text": "Apple TV 5.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apple:apple_tv:5.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-08T11:06:28.687-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:apple:tvos:5.2.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apple:apple_tv:5.2.0",
+	"deprecated": true,
+	"deprecation_date": "2019-03-08T16:06:28.687Z",
+	"title": [
+		{
+			"text": "Apple TV 5.2.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apple:apple_tv:5.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-08T11:06:28.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:tvos:5.2.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

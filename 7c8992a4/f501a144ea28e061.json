@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:7-zip:p7zip:18.00",
-  "title": [
-    {
-      "text": "7-Zip p7zip 18.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://landave.io/2018/01/7-zip-multiple-memory-corruptions-via-rar-and-zip/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.7-zip.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://sourceforge.net/u/p7zip/profile/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:7-zip:p7zip:18.00:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:7-zip:p7zip:18.00",
+	"title": [
+		{
+			"text": "7-Zip p7zip 18.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://landave.io/2018/01/7-zip-multiple-memory-corruptions-via-rar-and-zip/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.7-zip.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://sourceforge.net/u/p7zip/profile/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:7-zip:p7zip:18.00:*:*:*:*:*:*:*"
+	}
 }

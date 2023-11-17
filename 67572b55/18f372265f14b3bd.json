@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:cactusvpn:cactusvpn:5.3.6::~~~mac_os~~",
-  "deprecated": true,
-  "deprecation_date": "2020-05-04T13:43:44.833Z",
-  "title": [
-    {
-      "text": "CactusVPN 5.3.6 for Mac OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cactusvpn.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.cactusvpn.com/vpn-software/mac-os-updates/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cactusvpn:cactusvpn:5.3.6:*:*:*:*:mac_os:*:*",
-    "deprecation": {
-      "date": "2020-05-04T09:43:44.833-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cactusvpn:cactusvpn:5.3.6:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cactusvpn:cactusvpn:5.3.6::~~~mac_os~~",
+	"deprecated": true,
+	"deprecation_date": "2020-05-04T13:43:44.833Z",
+	"title": [
+		{
+			"text": "CactusVPN 5.3.6 for Mac OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cactusvpn.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.cactusvpn.com/vpn-software/mac-os-updates/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cactusvpn:cactusvpn:5.3.6:*:*:*:*:mac_os:*:*",
+		"deprecation": {
+			"date": "2020-05-04T09:43:44.833-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cactusvpn:cactusvpn:5.3.6:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

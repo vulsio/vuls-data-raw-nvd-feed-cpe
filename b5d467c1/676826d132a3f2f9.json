@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:tenda:ac6_firmware:15.03.06.23",
-  "title": [
-    {
-      "text": "Tenda AC6 Firmware 15.03.06.23",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.tendacn.com/us/product/ac6.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/cloudv2_setaccount/README.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:tenda:ac6_firmware:15.03.06.23:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:tenda:ac6_firmware:15.03.06.23",
+	"title": [
+		{
+			"text": "Tenda AC6 Firmware 15.03.06.23",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tendacn.com/us/product/ac6.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/FirmRec/IoT-Vulns/blob/main/tenda/cloudv2_setaccount/README.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tenda:ac6_firmware:15.03.06.23:*:*:*:*:*:*:*"
+	}
 }

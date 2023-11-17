@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:change_uploaded_file_permissions_project:change_uploaded_file_permissions:3.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Change Uploaded File Permissions Project Change Uploaded File Permissions 3.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/change-uploaded-file-permissions/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/c39719e5-dadd-4414-a96d-5e70a1e3d462"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/change-uploaded-file-permissions?format=changelog&rev=2743543&limit=100&mode=stop_on_copy"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:change_uploaded_file_permissions_project:change_uploaded_file_permissions:3.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:change_uploaded_file_permissions_project:change_uploaded_file_permissions:3.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Change Uploaded File Permissions Project Change Uploaded File Permissions 3.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/change-uploaded-file-permissions/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/c39719e5-dadd-4414-a96d-5e70a1e3d462"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/change-uploaded-file-permissions?format=changelog&rev=2743543&limit=100&mode=stop_on_copy"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:change_uploaded_file_permissions_project:change_uploaded_file_permissions:3.2:*:*:*:*:wordpress:*:*"
+	}
 }

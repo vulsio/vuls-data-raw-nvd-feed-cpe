@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:rsvpmaker_project:rsvpmaker:4.7.3::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-09-30T03:05:03.850Z",
-  "title": [
-    {
-      "text": "RSVPMaker Project RSVPMaker 4.7.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/rsvpmaker/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rsvpmaker_project:rsvpmaker:4.7.3:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-09-29T23:05:03.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:carrcommunications:rsvpmaker:4.7.3:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rsvpmaker_project:rsvpmaker:4.7.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-09-30T03:05:03.850Z",
+	"title": [
+		{
+			"text": "RSVPMaker Project RSVPMaker 4.7.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/rsvpmaker/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rsvpmaker_project:rsvpmaker:4.7.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-09-29T23:05:03.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:carrcommunications:rsvpmaker:4.7.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

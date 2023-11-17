@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:novell:opensuse:12.3",
-  "deprecated": true,
-  "deprecation_date": "2018-01-25T17:15:37.463Z",
-  "title": [
-    {
-      "text": "Novell openSUSE 12.3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:novell:opensuse:12.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-01-25T12:15:37.463-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:opensuse:opensuse:12.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:novell:opensuse:12.3",
+	"deprecated": true,
+	"deprecation_date": "2018-01-25T17:15:37.463Z",
+	"title": [
+		{
+			"text": "Novell openSUSE 12.3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:novell:opensuse:12.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-01-25T12:15:37.463-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:opensuse:opensuse:12.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

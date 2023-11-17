@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:azure_setup_kubectl:-",
-  "title": [
-    {
-      "text": "Microsoft Azure Setup Kubectl ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Azure/setup-kubectl/security/advisories/GHSA-p756-rfxh-x63h"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Azure/setup-kubectl/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_setup_kubectl:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_setup_kubectl:-",
+	"title": [
+		{
+			"text": "Microsoft Azure Setup Kubectl ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Azure/setup-kubectl/security/advisories/GHSA-p756-rfxh-x63h"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Azure/setup-kubectl/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_setup_kubectl:-:*:*:*:*:*:*:*"
+	}
 }

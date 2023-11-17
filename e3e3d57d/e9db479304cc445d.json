@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:schneider_electric:homelynk_controller_lss100100:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T20:16:04.330Z",
-  "title": [
-    {
-      "text": "Schneider Electric homeLYnk Controller LSS100100",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.schneider-electric.com/en/product/LSS100100/homelynk-logic-controller/?range=62143-homelynk-&node=827516485-products"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider_electric:homelynk_controller_lss100100:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T15:16:04.330-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:homelynk_controller_lss100100:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:schneider_electric:homelynk_controller_lss100100:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T20:16:04.330Z",
+	"title": [
+		{
+			"text": "Schneider Electric homeLYnk Controller LSS100100",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.schneider-electric.com/en/product/LSS100100/homelynk-logic-controller/?range=62143-homelynk-&node=827516485-products"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider_electric:homelynk_controller_lss100100:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T15:16:04.330-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:homelynk_controller_lss100100:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

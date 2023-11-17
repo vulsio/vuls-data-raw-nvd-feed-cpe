@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:msi:dragon_center:-",
-  "title": [
-    {
-      "text": "MSI Dragon Center",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://voidsec.com/advisories/cve-2021-44901/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.msi.com/Landing/dragon-center-download"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:msi:dragon_center:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:msi:dragon_center:-",
+	"title": [
+		{
+			"text": "MSI Dragon Center",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://voidsec.com/advisories/cve-2021-44901/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.msi.com/Landing/dragon-center-download"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:msi:dragon_center:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:golang:http2:0.8.0::~~~go~~",
-  "title": [
-    {
-      "text": "Golang http2 0.8.0 for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://pkg.go.dev/vuln/GO-2023-1571"
-    },
-    {
-      "text": "Version",
-      "href": "https://pkg.go.dev/golang.org/x/net/http2?tab=versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:golang:http2:0.8.0:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:golang:http2:0.8.0::~~~go~~",
+	"title": [
+		{
+			"text": "Golang http2 0.8.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-1571"
+		},
+		{
+			"text": "Version",
+			"href": "https://pkg.go.dev/golang.org/x/net/http2?tab=versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:golang:http2:0.8.0:*:*:*:*:go:*:*"
+	}
 }

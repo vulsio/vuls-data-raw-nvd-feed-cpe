@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:thirstyaffiliates:thirstyaffiliates_affiliate_link_manager:2.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-07-09T15:26:16.297Z",
-  "title": [
-    {
-      "text": "ThirstyAffiliates Affiliate Link Manager 2.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://thirstyaffiliates.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/thirstyaffiliates/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:thirstyaffiliates:thirstyaffiliates_affiliate_link_manager:2.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-07-09T11:26:16.297-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:caseproof:thirstyaffiliates_affiliate_link_manager:2.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:thirstyaffiliates:thirstyaffiliates_affiliate_link_manager:2.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-07-09T15:26:16.297Z",
+	"title": [
+		{
+			"text": "ThirstyAffiliates Affiliate Link Manager 2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://thirstyaffiliates.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/thirstyaffiliates/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thirstyaffiliates:thirstyaffiliates_affiliate_link_manager:2.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-07-09T11:26:16.297-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:caseproof:thirstyaffiliates_affiliate_link_manager:2.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

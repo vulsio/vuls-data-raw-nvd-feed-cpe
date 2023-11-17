@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux_eus:8.6::~~~~arm64~",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux Extended Update Support (EUS) 8.6 on Arm64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2020:4451"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux_eus:8.6:*:*:*:*:*:arm64:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux_eus:8.6::~~~~arm64~",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux Extended Update Support (EUS) 8.6 on Arm64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2020:4451"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux_eus:8.6:*:*:*:*:*:arm64:*"
+	}
 }

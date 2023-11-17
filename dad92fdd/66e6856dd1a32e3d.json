@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:redislabs:redis:2.8.0",
-  "deprecated": true,
-  "deprecation_date": "2020-06-22T19:55:14.770Z",
-  "title": [
-    {
-      "text": "Redis Labs Redis 2.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/antirez/redis/tags?after=3.2.2"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://redislabs.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://redis.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redislabs:redis:2.8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-06-22T15:55:14.770-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redislabs:redis:2.8.0",
+	"deprecated": true,
+	"deprecation_date": "2020-06-22T19:55:14.770Z",
+	"title": [
+		{
+			"text": "Redis Labs Redis 2.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/antirez/redis/tags?after=3.2.2"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://redislabs.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://redis.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redislabs:redis:2.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-06-22T15:55:14.770-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redislabs:redis:2.8.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

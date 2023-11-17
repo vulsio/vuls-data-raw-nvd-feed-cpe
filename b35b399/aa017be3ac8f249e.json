@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:sick:sim2000-2p04g10_firmware:1.2.0",
-  "title": [
-    {
-      "text": "SICK SIM2000-2P04G10 FIRMWARE 1.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/43xxx/CVE-2022-43989.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.sick.com/il/en/integration-products/sensor-integration-machine/sim2x00/c/g463251"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sick:sim2000-2p04g10_firmware:1.2.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:sick:sim2000-2p04g10_firmware:1.2.0",
+	"title": [
+		{
+			"text": "SICK SIM2000-2P04G10 FIRMWARE 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/43xxx/CVE-2022-43989.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sick.com/il/en/integration-products/sensor-integration-machine/sim2x00/c/g463251"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sick:sim2000-2p04g10_firmware:1.2.0:*:*:*:*:*:*:*"
+	}
 }

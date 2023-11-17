@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:atlassian:jira_service_management:5.7.2::~~data_center~~~",
-  "title": [
-    {
-      "text": "Atlassian Jira Service Management 5.7.2 Data Center Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.atlassian.com/software/jira/service-management"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://confluence.atlassian.com/security/ssot-117-cve-2019-13990-xxe-xml-external-entity-injection-vulnerability-in-jira-service-management-data-center-and-jira-service-management-server-1295385959.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:jira_service_management:5.7.2:*:*:*:data_center:*:*:*"
-  }
+	"name": "cpe:/a:atlassian:jira_service_management:5.7.2::~~data_center~~~",
+	"title": [
+		{
+			"text": "Atlassian Jira Service Management 5.7.2 Data Center Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.atlassian.com/software/jira/service-management"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://confluence.atlassian.com/security/ssot-117-cve-2019-13990-xxe-xml-external-entity-injection-vulnerability-in-jira-service-management-data-center-and-jira-service-management-server-1295385959.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:jira_service_management:5.7.2:*:*:*:data_center:*:*:*"
+	}
 }

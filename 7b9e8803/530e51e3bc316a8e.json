@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:hns2600bps_firmware:-",
-  "title": [
-    {
-      "text": "Intel HNS2600BPS Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00223.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/43730/intel-compute-modules.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:hns2600bps_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:hns2600bps_firmware:-",
+	"title": [
+		{
+			"text": "Intel HNS2600BPS Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-00223.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/43730/intel-compute-modules.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:hns2600bps_firmware:-:*:*:*:*:*:*:*"
+	}
 }

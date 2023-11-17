@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:open.edx:edx-platform:2015-03-04",
-  "deprecated": true,
-  "deprecation_date": "2020-01-07T18:10:25.190Z",
-  "title": [
-    {
-      "text": "Open edX Platform 2015-03-04",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/edx/edx-platform/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://open.edx.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:open.edx:edx-platform:2015-03-04:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-07T13:10:25.190-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:edx:edx-platform:2015-03-04:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:open.edx:edx-platform:2015-03-04",
+	"deprecated": true,
+	"deprecation_date": "2020-01-07T18:10:25.190Z",
+	"title": [
+		{
+			"text": "Open edX Platform 2015-03-04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/edx/edx-platform/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://open.edx.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:open.edx:edx-platform:2015-03-04:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-07T13:10:25.190-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:edx:edx-platform:2015-03-04:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

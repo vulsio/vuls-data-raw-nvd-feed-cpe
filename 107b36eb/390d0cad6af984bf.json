@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:11.8.7::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 11.8.7 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://about.gitlab.com/2019/04/10/critical-security-release-gitlab-11-dot-9-dot-7-released/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:11.8.7:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:11.8.7::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 11.8.7 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://about.gitlab.com/2019/04/10/critical-security-release-gitlab-11-dot-9-dot-7-released/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:11.8.7:*:*:*:enterprise:*:*:*"
+	}
 }

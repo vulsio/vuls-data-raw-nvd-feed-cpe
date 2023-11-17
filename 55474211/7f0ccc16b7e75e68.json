@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:nexcom:nio_50_firmware:-",
-  "title": [
-    {
-      "text": "NEXCOM NIO 50 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ipc2u.com/catalog/nio-50"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.nexcom.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-308-02"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nexcom:nio_50_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:nexcom:nio_50_firmware:-",
+	"title": [
+		{
+			"text": "NEXCOM NIO 50 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ipc2u.com/catalog/nio-50"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nexcom.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-308-02"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nexcom:nio_50_firmware:-:*:*:*:*:*:*:*"
+	}
 }

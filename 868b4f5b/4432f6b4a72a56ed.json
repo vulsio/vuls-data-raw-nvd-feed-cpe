@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:veronalabs:wp_statistics:13.2.4.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "VeronaLabs WP Statistics 13.2.4.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://veronalabs.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-statistics/wordpress-wp-statistics-plugin-13-2-10-multiple-authenticated-sql-injection-vulnerabilities?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-statistics/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:veronalabs:wp_statistics:13.2.4.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:veronalabs:wp_statistics:13.2.4.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "VeronaLabs WP Statistics 13.2.4.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://veronalabs.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-statistics/wordpress-wp-statistics-plugin-13-2-10-multiple-authenticated-sql-injection-vulnerabilities?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-statistics/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:veronalabs:wp_statistics:13.2.4.1:*:*:*:*:wordpress:*:*"
+	}
 }

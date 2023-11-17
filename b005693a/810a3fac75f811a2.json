@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ca:release_automation:5.5.2",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T14:13:56.603Z",
-  "title": [
-    {
-      "text": "CA Release Automation 5.5.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://docops.ca.com/home"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160627-01-security-notice-for-release-automation.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:release_automation:5.5.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T10:13:56.603-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:release_automation:5.5.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:release_automation:5.5.2",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T14:13:56.603Z",
+	"title": [
+		{
+			"text": "CA Release Automation 5.5.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://docops.ca.com/home"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://www.ca.com/us/support/ca-support-online/product-content/recommended-reading/security-notices/ca20160627-01-security-notice-for-release-automation.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:release_automation:5.5.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T10:13:56.603-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:release_automation:5.5.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

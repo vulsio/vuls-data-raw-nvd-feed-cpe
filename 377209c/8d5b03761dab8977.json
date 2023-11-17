@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ilia_alshanetsky:fudforum:2.7.4",
-  "deprecated": true,
-  "deprecation_date": "2019-11-25T18:54:45.190Z",
-  "title": [
-    {
-      "text": "Ilia Alshanetsky FUDForum 2.7.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://fudforum.org/forum/"
-    },
-    {
-      "text": "Version information",
-      "href": "http://cvs.prohost.org/index.php/Category:Versions"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ilia_alshanetsky:fudforum:2.7.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-25T13:54:45.190-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:fudforum:fudforum:2.7.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ilia_alshanetsky:fudforum:2.7.4",
+	"deprecated": true,
+	"deprecation_date": "2019-11-25T18:54:45.190Z",
+	"title": [
+		{
+			"text": "Ilia Alshanetsky FUDForum 2.7.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://fudforum.org/forum/"
+		},
+		{
+			"text": "Version information",
+			"href": "http://cvs.prohost.org/index.php/Category:Versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ilia_alshanetsky:fudforum:2.7.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-25T13:54:45.190-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fudforum:fudforum:2.7.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

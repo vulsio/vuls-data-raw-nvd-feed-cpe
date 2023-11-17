@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:altools:alzip:8.51",
-  "deprecated": true,
-  "deprecation_date": "2021-04-29T14:45:42.900Z",
-  "title": [
-    {
-      "text": "altools ALZip 8.51",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://alzip.en.softonic.com/#older-versions"
-    },
-    {
-      "text": "Version",
-      "href": "http://www.altools.com/ALTools/ALZip/Version-History.aspx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:altools:alzip:8.51:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-29T10:45:42.900-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:estsoft:alzip:8.51:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:altools:alzip:8.51",
+	"deprecated": true,
+	"deprecation_date": "2021-04-29T14:45:42.900Z",
+	"title": [
+		{
+			"text": "altools ALZip 8.51",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://alzip.en.softonic.com/#older-versions"
+		},
+		{
+			"text": "Version",
+			"href": "http://www.altools.com/ALTools/ALZip/Version-History.aspx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:altools:alzip:8.51:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-29T10:45:42.900-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:estsoft:alzip:8.51:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

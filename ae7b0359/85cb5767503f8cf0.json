@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:puppet:puppet:2018.1.2::~~enterprise~~~",
-  "deprecated": true,
-  "deprecation_date": "2022-01-24T16:43:54.417Z",
-  "title": [
-    {
-      "text": "Puppet Enterprise 2018.1.2 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://puppet.com/misc/version-history"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppet:puppet:2018.1.2:*:*:*:enterprise:*:*:*",
-    "deprecation": {
-      "date": "2022-01-24T11:43:54.417-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:puppet_enterprise:2018.1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppet:puppet:2018.1.2::~~enterprise~~~",
+	"deprecated": true,
+	"deprecation_date": "2022-01-24T16:43:54.417Z",
+	"title": [
+		{
+			"text": "Puppet Enterprise 2018.1.2 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://puppet.com/misc/version-history"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppet:puppet:2018.1.2:*:*:*:enterprise:*:*:*",
+		"deprecation": {
+			"date": "2022-01-24T11:43:54.417-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:puppet_enterprise:2018.1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

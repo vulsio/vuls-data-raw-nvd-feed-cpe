@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:pix_firewall:4.4%287.202%29",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:37:18.523Z",
-  "title": [
-    {
-      "text": "Cisco PIX Firewall Software 4.4(7.202)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:pix_firewall:4.4\\(7.202\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:37:18.523-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:pix_firewall_software:4.4\\(7.202\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:pix_firewall:4.4%287.202%29",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:37:18.523Z",
+	"title": [
+		{
+			"text": "Cisco PIX Firewall Software 4.4(7.202)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:pix_firewall:4.4\\(7.202\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:37:18.523-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:pix_firewall_software:4.4\\(7.202\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

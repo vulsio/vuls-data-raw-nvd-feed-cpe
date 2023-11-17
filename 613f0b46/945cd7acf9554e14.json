@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:wp-livechat:wp_live_chat_support_pro:7.1.05::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-05-26T18:55:44.427Z",
-  "title": [
-    {
-      "text": "WP-LiveChat WP Live Chat Support 7.1.05 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/wp-live-chat-support/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://wp-livechat.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/wp-live-chat-support/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wp-livechat:wp_live_chat_support_pro:7.1.05:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-05-26T14:55:44.427-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:3cx:live_chat:7.1.05:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:wp-livechat:wp_live_chat_support_pro:7.1.05::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-05-26T18:55:44.427Z",
+	"title": [
+		{
+			"text": "WP-LiveChat WP Live Chat Support 7.1.05 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/wp-live-chat-support/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wp-livechat.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-live-chat-support/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-livechat:wp_live_chat_support_pro:7.1.05:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-05-26T14:55:44.427-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:3cx:live_chat:7.1.05:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

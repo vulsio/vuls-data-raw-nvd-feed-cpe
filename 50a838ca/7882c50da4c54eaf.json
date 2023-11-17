@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:dell:sonicwall_global_management_system:7.2",
-  "deprecated": true,
-  "deprecation_date": "2018-03-12T13:11:15.623Z",
-  "title": [
-    {
-      "text": "Dell SonicWall Global Management System (GMS) 7.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor advisory re. CVE-2014-5024",
-      "href": "https://support.software.dell.com/product-notification/128245"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:sonicwall_global_management_system:7.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-03-12T09:11:15.623-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sonicwall:global_management_system:7.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dell:sonicwall_global_management_system:7.2",
+	"deprecated": true,
+	"deprecation_date": "2018-03-12T13:11:15.623Z",
+	"title": [
+		{
+			"text": "Dell SonicWall Global Management System (GMS) 7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor advisory re. CVE-2014-5024",
+			"href": "https://support.software.dell.com/product-notification/128245"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:sonicwall_global_management_system:7.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-03-12T09:11:15.623-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sonicwall:global_management_system:7.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

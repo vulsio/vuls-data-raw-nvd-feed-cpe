@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:nxp:i.mx_7ds:-",
-  "title": [
-    {
-      "text": "NXP iI.MX 7DS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/OP-TEE/optee_os/security/advisories/GHSA-6q85-3ph3-rm47"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.nxp.com/docs/en/application-note/AN5383.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:nxp:i.mx_7ds:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:nxp:i.mx_7ds:-",
+	"title": [
+		{
+			"text": "NXP iI.MX 7DS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/OP-TEE/optee_os/security/advisories/GHSA-6q85-3ph3-rm47"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.nxp.com/docs/en/application-note/AN5383.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nxp:i.mx_7ds:-:*:*:*:*:*:*:*"
+	}
 }

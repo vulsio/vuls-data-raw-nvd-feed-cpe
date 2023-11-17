@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:llhttp:llhttp:6.0.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "llhttp llhttp 6.0.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://llhttp.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/nodejs/llhttp/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/1238099"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:llhttp:llhttp:6.0.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:llhttp:llhttp:6.0.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "llhttp llhttp 6.0.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://llhttp.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/llhttp/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/1238099"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:llhttp:llhttp:6.0.1:*:*:*:*:node.js:*:*"
+	}
 }

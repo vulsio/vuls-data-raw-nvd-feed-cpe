@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:curtis_galloway:libexif:0.6.15",
-  "deprecated": true,
-  "deprecation_date": "2021-01-26T13:07:32.823Z",
-  "title": [
-    {
-      "text": "Curtis Galloway EXIFTag Parsing Library libexif 0.6.15",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:curtis_galloway:libexif:0.6.15:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-26T08:07:32.823-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libexif_project:libexif:0.6.15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:curtis_galloway:libexif:0.6.15",
+	"deprecated": true,
+	"deprecation_date": "2021-01-26T13:07:32.823Z",
+	"title": [
+		{
+			"text": "Curtis Galloway EXIFTag Parsing Library libexif 0.6.15",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:curtis_galloway:libexif:0.6.15:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-26T08:07:32.823-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libexif_project:libexif:0.6.15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:awesomemotive:wp_mail_logging:1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Awesome Motive WP Mail Logging 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://awesomemotive.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-mail-logging/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-mail-logging/wp-mail-logging-1110-unauthenticated-stored-cross-site-scripting-via-email"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:awesomemotive:wp_mail_logging:1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:awesomemotive:wp_mail_logging:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Awesome Motive WP Mail Logging 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://awesomemotive.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-mail-logging/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-mail-logging/wp-mail-logging-1110-unauthenticated-stored-cross-site-scripting-via-email"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:awesomemotive:wp_mail_logging:1.0:*:*:*:*:wordpress:*:*"
+	}
 }

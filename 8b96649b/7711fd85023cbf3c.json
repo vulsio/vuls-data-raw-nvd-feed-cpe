@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:adminpad_project:adminpad:2.2::~~~wordpress~~",
-  "title": [
-    {
-      "text": "AdminPad Project AdminPad 2.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/cf0b3893-3283-46d6-a497-f3110a35d42a"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/adminpad/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adminpad_project:adminpad:2.2:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:adminpad_project:adminpad:2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AdminPad Project AdminPad 2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/cf0b3893-3283-46d6-a497-f3110a35d42a"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/adminpad/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adminpad_project:adminpad:2.2:*:*:*:*:wordpress:*:*"
+	}
 }

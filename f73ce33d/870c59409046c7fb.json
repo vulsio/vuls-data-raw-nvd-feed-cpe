@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:profilegrid:profilegrid:1.0::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-01-24T16:42:00.310Z",
-  "title": [
-    {
-      "text": "ProfileGrid 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://profilegrid.co"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:profilegrid:profilegrid:1.0:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-01-24T11:42:00.310-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:metagauss:profilegrid:1.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:profilegrid:profilegrid:1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-01-24T16:42:00.310Z",
+	"title": [
+		{
+			"text": "ProfileGrid 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://profilegrid.co"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/profilegrid-user-profiles-groups-and-communities/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:profilegrid:profilegrid:1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-01-24T11:42:00.310-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:metagauss:profilegrid:1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

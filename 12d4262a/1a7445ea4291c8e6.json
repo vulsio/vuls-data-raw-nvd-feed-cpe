@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:sonicwall:sma_500v:-",
-  "title": [
-    {
-      "text": "SonicWall SMA 500V",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sonicwall.com/support/knowledge-base/smb-ssl-vpn-upgrading-firmware-on-sma-500v-virtual-appliance/170502851052498/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0017"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sonicwall:sma_500v:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:sonicwall:sma_500v:-",
+	"title": [
+		{
+			"text": "SonicWall SMA 500V",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicwall.com/support/knowledge-base/smb-ssl-vpn-upgrading-firmware-on-sma-500v-virtual-appliance/170502851052498/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0017"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sonicwall:sma_500v:-:*:*:*:*:*:*:*"
+	}
 }

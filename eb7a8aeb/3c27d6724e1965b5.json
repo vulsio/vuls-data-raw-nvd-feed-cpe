@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:connector%2fj:5.1.40",
-  "title": [
-    {
-      "text": "Oracle Connector/J 5.1.40",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://dev.mysql.com/downloads/connector/j/5.0.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:connector\\/j:5.1.40:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:connector%2fj:5.1.40",
+	"title": [
+		{
+			"text": "Oracle Connector/J 5.1.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://dev.mysql.com/downloads/connector/j/5.0.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:connector\\/j:5.1.40:*:*:*:*:*:*:*"
+	}
 }

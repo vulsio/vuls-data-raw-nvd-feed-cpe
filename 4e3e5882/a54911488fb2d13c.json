@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:d-link:dch-m225:-",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T18:55:28.543Z",
-  "title": [
-    {
-      "text": "D-Link DCH-M225",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://legacy.us.dlink.com/pages/product.aspx?id=442300a08503471ebfc04214f5b4c76c"
-    },
-    {
-      "text": "Version",
-      "href": "http://legacyfiles.us.dlink.com/DCH-M225/REVA/FIRMWARE/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:d-link:dch-m225:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T14:55:28.543-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:dlink:dch-m225:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:d-link:dch-m225:-",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T18:55:28.543Z",
+	"title": [
+		{
+			"text": "D-Link DCH-M225",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://legacy.us.dlink.com/pages/product.aspx?id=442300a08503471ebfc04214f5b4c76c"
+		},
+		{
+			"text": "Version",
+			"href": "http://legacyfiles.us.dlink.com/DCH-M225/REVA/FIRMWARE/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:d-link:dch-m225:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T14:55:28.543-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dlink:dch-m225:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

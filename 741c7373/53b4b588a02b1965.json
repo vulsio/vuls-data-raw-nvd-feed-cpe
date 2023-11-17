@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:thinlinux2:2.1.0.01",
-  "title": [
-    {
-      "text": "Dell ThinLinux2 2.1.0.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/article/us/en/19/sln316104/dsa-2019-022-dell-wyse-password-encoder-hard-coded-cryptographic-key-vulnerability?lang=en"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.dell.com/support/home/us/en/19/drivers/driversdetails?driverId=C4JH3&osCode=THNLX&productCode=wyse-3040-thin-client"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:thinlinux2:2.1.0.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:thinlinux2:2.1.0.01",
+	"title": [
+		{
+			"text": "Dell ThinLinux2 2.1.0.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/article/us/en/19/sln316104/dsa-2019-022-dell-wyse-password-encoder-hard-coded-cryptographic-key-vulnerability?lang=en"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.dell.com/support/home/us/en/19/drivers/driversdetails?driverId=C4JH3&osCode=THNLX&productCode=wyse-3040-thin-client"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:thinlinux2:2.1.0.01:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:samba:ppp:2.4.1",
-  "deprecated": true,
-  "deprecation_date": "2020-02-24T15:55:34.960Z",
-  "title": [
-    {
-      "text": "Samba ppp 2.4.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:ppp:2.4.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-24T10:55:34.960-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:ppp:2.4.1",
+	"deprecated": true,
+	"deprecation_date": "2020-02-24T15:55:34.960Z",
+	"title": [
+		{
+			"text": "Samba ppp 2.4.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:ppp:2.4.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-24T10:55:34.960-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:point-to-point_protocol_project:point-to-point_protocol:2.4.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

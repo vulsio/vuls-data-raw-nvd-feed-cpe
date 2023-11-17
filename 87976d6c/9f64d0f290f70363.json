@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:genua:genuagate_firmware:9.0:p4",
-  "title": [
-    {
-      "text": "Genua Genuagate Firmware 9.0 Patch 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sec-consult.com/vulnerability-lab/advisory/authentication-bypass-genua-genugate/"
-    },
-    {
-      "text": "Version",
-      "href": "https://kunde.genua.de/en/downloads/release-notes.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://kunde.genua.de/en/overview/genugate.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.genua.de/en/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:genua:genuagate_firmware:9.0:p4:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:genua:genuagate_firmware:9.0:p4",
+	"title": [
+		{
+			"text": "Genua Genuagate Firmware 9.0 Patch 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec-consult.com/vulnerability-lab/advisory/authentication-bypass-genua-genugate/"
+		},
+		{
+			"text": "Version",
+			"href": "https://kunde.genua.de/en/downloads/release-notes.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://kunde.genua.de/en/overview/genugate.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.genua.de/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:genua:genuagate_firmware:9.0:p4:*:*:*:*:*:*"
+	}
 }

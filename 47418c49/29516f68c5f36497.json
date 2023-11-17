@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sendgrid:sendgrid:1.11.8::~~~wordpress~~",
-  "title": [
-    {
-      "text": "SendGrid 1.11.8 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://sendgrid.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.sendgrid.com/for-developers/sending-email/wordpress-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:sendgrid:sendgrid:1.11.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SendGrid 1.11.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://sendgrid.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.sendgrid.com/for-developers/sending-email/wordpress-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sendgrid:sendgrid:1.11.8:*:*:*:*:wordpress:*:*"
+	}
 }

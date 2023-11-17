@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:esri:arcgis_server:-::~~~~x64~",
-  "title": [
-    {
-      "text": "Esri ArcGIS Server on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://enterprise.arcgis.com/en/server/latest/deploy/windows/components-of-arcgis-urls.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-server-security-2021-update-1-patch/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/29xxx/CVE-2021-29102.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:esri:arcgis_server:-:*:*:*:*:*:x64:*"
-  }
+	"name": "cpe:/a:esri:arcgis_server:-::~~~~x64~",
+	"title": [
+		{
+			"text": "Esri ArcGIS Server on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://enterprise.arcgis.com/en/server/latest/deploy/windows/components-of-arcgis-urls.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.esri.com/arcgis-blog/products/arcgis-enterprise/administration/arcgis-server-security-2021-update-1-patch/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/29xxx/CVE-2021-29102.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:esri:arcgis_server:-:*:*:*:*:*:x64:*"
+	}
 }

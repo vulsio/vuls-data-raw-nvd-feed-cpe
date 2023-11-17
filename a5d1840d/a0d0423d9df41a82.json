@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:virustotal:yara:4.2.3",
-  "title": [
-    {
-      "text": "VirusTotal YARA 4.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/VirusTotal/yara/issues/1945"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/VirusTotal/yara/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.virustotal.com/gui/home/upload"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:virustotal:yara:4.2.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:virustotal:yara:4.2.3",
+	"title": [
+		{
+			"text": "VirusTotal YARA 4.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/VirusTotal/yara/issues/1945"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/VirusTotal/yara/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.virustotal.com/gui/home/upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:virustotal:yara:4.2.3:*:*:*:*:*:*:*"
+	}
 }

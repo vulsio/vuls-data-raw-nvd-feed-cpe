@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:broadcom:bcm4339_firmware:-",
-  "title": [
-    {
-      "text": "Broadcom BCM4339 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.broadcom.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html#id32"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/seemoo-lab/nexmon/tree/master/firmwares/bcm4339"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:broadcom:bcm4339_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:broadcom:bcm4339_firmware:-",
+	"title": [
+		{
+			"text": "Broadcom BCM4339 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.broadcom.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html#id32"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/seemoo-lab/nexmon/tree/master/firmwares/bcm4339"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:broadcom:bcm4339_firmware:-:*:*:*:*:*:*:*"
+	}
 }

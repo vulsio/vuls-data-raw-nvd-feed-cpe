@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:mongodb:mongodb:3.0.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "MongoDB 3.0.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://jira.mongodb.org/browse/SERVER-20691"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:mongodb:3.0.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:mongodb:mongodb:3.0.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "MongoDB 3.0.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jira.mongodb.org/browse/SERVER-20691"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:mongodb:3.0.0:*:*:*:enterprise:*:*:*"
+	}
 }

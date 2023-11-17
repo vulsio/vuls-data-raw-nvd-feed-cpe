@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:mailoptin:mailoptin:1.2.54.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "MailOptin MailOptin 1.2.54.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://mailoptin.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/mailoptin/wordpress-mailoptin-plugin-1-2-54-0-cross-site-scripting-xss?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/mailoptin/#developers"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.svn.wordpress.org/mailoptin/trunk/changelog.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mailoptin:mailoptin:1.2.54.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:mailoptin:mailoptin:1.2.54.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "MailOptin MailOptin 1.2.54.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mailoptin.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/mailoptin/wordpress-mailoptin-plugin-1-2-54-0-cross-site-scripting-xss?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mailoptin/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/mailoptin/trunk/changelog.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mailoptin:mailoptin:1.2.54.1:*:*:*:*:wordpress:*:*"
+	}
 }

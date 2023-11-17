@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:redhat:ansible_engine:2.10.0",
-  "deprecated": true,
-  "deprecation_date": "2020-09-22T15:06:39.327Z",
-  "title": [
-    {
-      "text": "Red Hat Ansible Engine 2.10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-14330"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ansible.com/products/engine"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:ansible_engine:2.10.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-22T11:06:39.327-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:ansible_engine:2.10.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:ansible_engine:2.10.0",
+	"deprecated": true,
+	"deprecation_date": "2020-09-22T15:06:39.327Z",
+	"title": [
+		{
+			"text": "Red Hat Ansible Engine 2.10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2020-14330"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ansible.com/products/engine"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:ansible_engine:2.10.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-22T11:06:39.327-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:ansible_engine:2.10.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:bluemind:bluemind:3.5.11",
-  "deprecated": true,
-  "deprecation_date": "2019-10-02T18:39:17.323Z",
-  "title": [
-    {
-      "text": "BlueMind 3.5.11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.bluemind.net/en/"
-    },
-    {
-      "text": "Version",
-      "href": "https://forum.bluemind.net/viewforum.php?id=6"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bluemind:bluemind:3.5.11:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-02T14:39:17.323-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:bluemind:bluemind:3.5.11:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:bluemind:bluemind:3.5.11",
+	"deprecated": true,
+	"deprecation_date": "2019-10-02T18:39:17.323Z",
+	"title": [
+		{
+			"text": "BlueMind 3.5.11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.bluemind.net/en/"
+		},
+		{
+			"text": "Version",
+			"href": "https://forum.bluemind.net/viewforum.php?id=6"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bluemind:bluemind:3.5.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-02T14:39:17.323-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bluemind:bluemind:3.5.11:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

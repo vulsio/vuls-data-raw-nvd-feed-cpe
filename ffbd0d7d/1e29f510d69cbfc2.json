@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:intel:core_i7-8706g__firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2023-09-27T20:53:05.570Z",
-  "title": [
-    {
-      "text": "Intel Core i7-8706g  Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark.html#@Processors"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00613.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:core_i7-8706g__firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-27T16:53:05.570-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:intel:core_i7-8706g_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:intel:core_i7-8706g__firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2023-09-27T20:53:05.570Z",
+	"title": [
+		{
+			"text": "Intel Core i7-8706g  Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark.html#@Processors"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00613.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:core_i7-8706g__firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-27T16:53:05.570-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:intel:core_i7-8706g_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

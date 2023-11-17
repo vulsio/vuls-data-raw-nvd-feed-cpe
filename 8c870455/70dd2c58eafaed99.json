@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:samba:samba:4.2.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-10T16:10:22.333Z",
-  "title": [
-    {
-      "text": "Samba 4.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.samba.org/samba/history/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:samba:4.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-10T12:10:22.333-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:samba:samba:4.2.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:samba:samba:4.2.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-10T16:10:22.333Z",
+	"title": [
+		{
+			"text": "Samba 4.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.samba.org/samba/history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:samba:4.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-10T12:10:22.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:samba:samba:4.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:vanillaforums:vanilla_forums:2.0.18:rc1",
-  "deprecated": true,
-  "deprecation_date": "2020-06-04T13:05:25.687Z",
-  "title": [
-    {
-      "text": "Vanilla Forums 2.0.18 release candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vanillaforums:vanilla_forums:2.0.18:rc1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-06-04T09:05:25.687-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vanillaforums:vanilla:2.0.18:rc1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vanillaforums:vanilla_forums:2.0.18:rc1",
+	"deprecated": true,
+	"deprecation_date": "2020-06-04T13:05:25.687Z",
+	"title": [
+		{
+			"text": "Vanilla Forums 2.0.18 release candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vanillaforums:vanilla_forums:2.0.18:rc1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-06-04T09:05:25.687-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vanillaforums:vanilla:2.0.18:rc1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

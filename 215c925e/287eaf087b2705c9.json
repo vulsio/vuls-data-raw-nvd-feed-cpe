@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:badge:2.2.1::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Badge 2.2.1 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/badge"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/badge-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:badge:2.2.1:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:badge:2.2.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Badge 2.2.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/badge"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/badge-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:badge:2.2.1:*:*:*:*:jenkins:*:*"
+	}
 }

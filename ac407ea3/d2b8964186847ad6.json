@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:buildah_project:buildah:1.21.1",
-  "title": [
-    {
-      "text": "Buildah Project Buildah 1.21.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://buildah.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/containers/buildah/security/advisories/GHSA-c3g4-w6cv-6v7h"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2066840"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/containers/buildah/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:buildah_project:buildah:1.21.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:buildah_project:buildah:1.21.1",
+	"title": [
+		{
+			"text": "Buildah Project Buildah 1.21.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://buildah.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/containers/buildah/security/advisories/GHSA-c3g4-w6cv-6v7h"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2066840"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/containers/buildah/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:buildah_project:buildah:1.21.1:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:irssi:irssi:0.8.17",
-  "deprecated": true,
-  "deprecation_date": "2019-07-29T12:13:02.660Z",
-  "title": [
-    {
-      "text": "Irssi 0.8.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/irssi/irssi/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://irssi.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/irssi/irssi"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:irssi:irssi:0.8.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-29T08:13:02.660-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:irssi:irssi:0.8.17:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:irssi:irssi:0.8.17",
+	"deprecated": true,
+	"deprecation_date": "2019-07-29T12:13:02.660Z",
+	"title": [
+		{
+			"text": "Irssi 0.8.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/irssi/irssi/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://irssi.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/irssi/irssi"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:irssi:irssi:0.8.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-29T08:13:02.660-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:irssi:irssi:0.8.17:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:lws:lws_cleaner:2.3.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "LWS Cleaner 2.3.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.lws.fr/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/lws-cleaner/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/lws-cleaner/wordpress-lws-cleaner-plugin-2-3-0-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lws:lws_cleaner:2.3.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:lws:lws_cleaner:2.3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "LWS Cleaner 2.3.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.lws.fr/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/lws-cleaner/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/lws-cleaner/wordpress-lws-cleaner-plugin-2-3-0-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lws:lws_cleaner:2.3.1:*:*:*:*:wordpress:*:*"
+	}
 }

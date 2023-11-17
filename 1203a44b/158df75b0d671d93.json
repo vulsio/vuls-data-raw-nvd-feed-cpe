@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:jetbrains:youtrack:2020.1331",
-  "deprecated": true,
-  "deprecation_date": "2020-08-11T11:01:17.640Z",
-  "title": [
-    {
-      "text": "JetBrains YouTrack 2020.1331",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.jetbrains.com/blog/2020/08/06/jetbrains-security-bulletin-q2-2020/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jetbrains:youtrack:2020.1331:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-11T07:01:17.640-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jetbrains:youtrack:2020.1.1331:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jetbrains:youtrack:2020.1331",
+	"deprecated": true,
+	"deprecation_date": "2020-08-11T11:01:17.640Z",
+	"title": [
+		{
+			"text": "JetBrains YouTrack 2020.1331",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.jetbrains.com/blog/2020/08/06/jetbrains-security-bulletin-q2-2020/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jetbrains:youtrack:2020.1331:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-11T07:01:17.640-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jetbrains:youtrack:2020.1.1331:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

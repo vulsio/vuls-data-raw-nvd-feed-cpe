@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sap:cloud_sdk:1.24.0::~~~java~~",
-  "title": [
-    {
-      "text": "SAP Cloud SDK 1.24.0 for JavaScript",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/SAP/cloud-sdk-js"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/SAP/cloud-sdk-js/security/advisories/GHSA-gp2f-254m-rh32"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:cloud_sdk:1.24.0:*:*:*:*:java:*:*"
-  }
+	"name": "cpe:/a:sap:cloud_sdk:1.24.0::~~~java~~",
+	"title": [
+		{
+			"text": "SAP Cloud SDK 1.24.0 for JavaScript",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/SAP/cloud-sdk-js"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/SAP/cloud-sdk-js/security/advisories/GHSA-gp2f-254m-rh32"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:cloud_sdk:1.24.0:*:*:*:*:java:*:*"
+	}
 }

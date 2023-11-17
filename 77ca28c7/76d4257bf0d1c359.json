@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jellyfin:jellyfin:10.7.0:rc3",
-  "title": [
-    {
-      "text": "Jellyfin 10.7.0 Release Candidate 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jellyfin.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/jellyfin/jellyfin/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/jellyfin/jellyfin/security/advisories/GHSA-rgjw-4fwc-9v96"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jellyfin:jellyfin:10.7.0:rc3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:jellyfin:jellyfin:10.7.0:rc3",
+	"title": [
+		{
+			"text": "Jellyfin 10.7.0 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jellyfin.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jellyfin/jellyfin/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jellyfin/jellyfin/security/advisories/GHSA-rgjw-4fwc-9v96"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jellyfin:jellyfin:10.7.0:rc3:*:*:*:*:*:*"
+	}
 }

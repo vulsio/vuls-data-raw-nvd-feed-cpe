@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:schneider_electric:tableau_server:7.0",
-  "deprecated": true,
-  "deprecation_date": "2021-06-04T14:18:42.593Z",
-  "title": [
-    {
-      "text": "Schneider Electric Tableau Server 7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.tableau.com/products/server"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:schneider_electric:tableau_server:7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-04T10:18:42.593-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:tableau_server:7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:schneider_electric:tableau_server:7.0",
+	"deprecated": true,
+	"deprecation_date": "2021-06-04T14:18:42.593Z",
+	"title": [
+		{
+			"text": "Schneider Electric Tableau Server 7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tableau.com/products/server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:schneider_electric:tableau_server:7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-04T10:18:42.593-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:tableau_server:7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

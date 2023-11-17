@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cncf:knative_func:0.8.0",
-  "deprecated": true,
-  "deprecation_date": "2023-03-14T15:35:34.180Z",
-  "title": [
-    {
-      "text": "Cloud Native Computing Foundation Knative Func 0.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.cncf.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://knative.dev/docs/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/knative/func/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cncf:knative_func:0.8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-03-14T11:35:34.180-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:knative_func:0.8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cncf:knative_func:0.8.0",
+	"deprecated": true,
+	"deprecation_date": "2023-03-14T15:35:34.180Z",
+	"title": [
+		{
+			"text": "Cloud Native Computing Foundation Knative Func 0.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cncf.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://knative.dev/docs/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/knative/func/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cncf:knative_func:0.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-03-14T11:35:34.180-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:knative_func:0.8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

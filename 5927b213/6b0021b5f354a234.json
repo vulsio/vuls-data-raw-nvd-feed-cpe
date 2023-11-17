@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:festo:vtem-s1-27_firmware:-",
-  "title": [
-    {
-      "text": "Festo VTEM-S1-27 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.festo.com/net/SupportPortal/Files/706841/VTEM_2017-10_8071722g1.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert.vde.com/en/advisories/VDE-2022-041/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:festo:vtem-s1-27_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:festo:vtem-s1-27_firmware:-",
+	"title": [
+		{
+			"text": "Festo VTEM-S1-27 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.festo.com/net/SupportPortal/Files/706841/VTEM_2017-10_8071722g1.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert.vde.com/en/advisories/VDE-2022-041/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:festo:vtem-s1-27_firmware:-:*:*:*:*:*:*:*"
+	}
 }

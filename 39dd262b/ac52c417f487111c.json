@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:getcomposer:composer:-",
-  "title": [
-    {
-      "text": "Getcomposer Composer",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/composer/composer/security/advisories/GHSA-h5h8-pc6h-jvvx"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://getcomposer.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/composer/composer/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:getcomposer:composer:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:getcomposer:composer:-",
+	"title": [
+		{
+			"text": "Getcomposer Composer",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/composer/composer/security/advisories/GHSA-h5h8-pc6h-jvvx"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://getcomposer.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/composer/composer/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getcomposer:composer:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:2.6.32",
-  "deprecated": true,
-  "deprecation_date": "2020-08-06T17:17:58.200Z",
-  "title": [
-    {
-      "text": "Linux Kernel 2.6.32",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:2.6.32:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-06T13:17:58.200-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:2.6.32:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:2.6.32",
+	"deprecated": true,
+	"deprecation_date": "2020-08-06T17:17:58.200Z",
+	"title": [
+		{
+			"text": "Linux Kernel 2.6.32",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:2.6.32:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-06T13:17:58.200-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:2.6.32:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

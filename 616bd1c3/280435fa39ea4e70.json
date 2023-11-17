@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:oracle:banking_party_managment:2.7.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-25T15:12:18.207Z",
-  "title": [
-    {
-      "text": "Oracle Banking Party Managment 2.7.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujan2022.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.oracle.com/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:banking_party_managment:2.7.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-25T10:12:18.207-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:banking_party_management:2.7.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:banking_party_managment:2.7.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-25T15:12:18.207Z",
+	"title": [
+		{
+			"text": "Oracle Banking Party Managment 2.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2022.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.oracle.com/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:banking_party_managment:2.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-25T10:12:18.207-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:banking_party_management:2.7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

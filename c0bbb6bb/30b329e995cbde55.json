@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:loom:loom:0.16.0::~~desktop~mac~~",
-  "title": [
-    {
-      "text": "Loom 0.16.0 Desktop Edition for Mac",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.loom.com/blog/loom-desktop-application-security-fix"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://thomask.sdf.org/blog/2019/08/07/cve-2019-14432-loom-desktop-rce-vulnerability.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:loom:loom:0.16.0:*:*:*:desktop:mac:*:*"
-  }
+	"name": "cpe:/a:loom:loom:0.16.0::~~desktop~mac~~",
+	"title": [
+		{
+			"text": "Loom 0.16.0 Desktop Edition for Mac",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.loom.com/blog/loom-desktop-application-security-fix"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://thomask.sdf.org/blog/2019/08/07/cve-2019-14432-loom-desktop-rce-vulnerability.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:loom:loom:0.16.0:*:*:*:desktop:mac:*:*"
+	}
 }

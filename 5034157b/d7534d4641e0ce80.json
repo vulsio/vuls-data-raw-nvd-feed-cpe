@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:agilebits:1password:5.4.1::~~~macos~~",
-  "deprecated": true,
-  "deprecation_date": "2020-01-22T14:57:49.303Z",
-  "title": [
-    {
-      "text": "1Password 5.4.1 for MacOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://app-updates.agilebits.com/product_history/OPM4"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:agilebits:1password:5.4.1:*:*:*:*:macos:*:*",
-    "deprecation": {
-      "date": "2020-01-22T09:57:49.303-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:1password:1password:5.4.1:*:*:*:*:macos:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:agilebits:1password:5.4.1::~~~macos~~",
+	"deprecated": true,
+	"deprecation_date": "2020-01-22T14:57:49.303Z",
+	"title": [
+		{
+			"text": "1Password 5.4.1 for MacOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://app-updates.agilebits.com/product_history/OPM4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agilebits:1password:5.4.1:*:*:*:*:macos:*:*",
+		"deprecation": {
+			"date": "2020-01-22T09:57:49.303-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:1password:1password:5.4.1:*:*:*:*:macos:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

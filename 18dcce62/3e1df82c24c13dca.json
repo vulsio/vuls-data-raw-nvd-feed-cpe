@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:celeron_g5205u:-",
-  "title": [
-    {
-      "text": "Intel Celeron G5205U",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:celeron_g5205u:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:celeron_g5205u:-",
+	"title": [
+		{
+			"text": "Intel Celeron G5205U",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://software.intel.com/security-software-guidance/processors-affected-transient-execution-attack-mitigation-product-cpu-model"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00381.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:celeron_g5205u:-:*:*:*:*:*:*:*"
+	}
 }

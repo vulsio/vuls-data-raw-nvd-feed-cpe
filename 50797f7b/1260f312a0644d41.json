@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:rpm-software-management_project:yum-utils:1.1.31",
-  "deprecated": true,
-  "deprecation_date": "2021-08-11T15:21:55.303Z",
-  "title": [
-    {
-      "text": "rpm-software-management Project yum-utils 1.1.31",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/rpm-software-management/yum-utils/blob/master/ChangeLog"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/rpm-software-management"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rpm-software-management_project:yum-utils:1.1.31:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-11T11:21:55.303-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:rpm:yum-utils:1.1.31:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rpm-software-management_project:yum-utils:1.1.31",
+	"deprecated": true,
+	"deprecation_date": "2021-08-11T15:21:55.303Z",
+	"title": [
+		{
+			"text": "rpm-software-management Project yum-utils 1.1.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rpm-software-management/yum-utils/blob/master/ChangeLog"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/rpm-software-management"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rpm-software-management_project:yum-utils:1.1.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-11T11:21:55.303-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rpm:yum-utils:1.1.31:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/h:juniper:infranet_controller_6000:-",
-  "title": [
-    {
-      "text": "Juniper Infranet Controller 6000 (IF6000)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor security bulletin CVE-2014-3812",
-      "href": "http://kb.juniper.net/InfoCenter/index?page=content&id=JSA10628"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:juniper:infranet_controller_6000:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:juniper:infranet_controller_6000:-",
+	"title": [
+		{
+			"text": "Juniper Infranet Controller 6000 (IF6000)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor security bulletin CVE-2014-3812",
+			"href": "http://kb.juniper.net/InfoCenter/index?page=content&id=JSA10628"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:juniper:infranet_controller_6000:-:*:*:*:*:*:*:*"
+	}
 }

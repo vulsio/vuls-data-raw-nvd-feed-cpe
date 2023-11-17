@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:13.11.3::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 13.11.3 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22213.json"
-    },
-    {
-      "text": "Version",
-      "href": "https://about.gitlab.com/releases/categories/releases/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:13.11.3::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 13.11.3 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-22213.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/releases/categories/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:13.11.3:*:*:*:community:*:*:*"
+	}
 }

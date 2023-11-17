@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:freebsd:freebsd:12.2:p4",
-  "title": [
-    {
-      "text": "FreeBSD 12.2 Patch 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://bokut.in/freebsd-patch-level-table/#releng/12.2"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-21:11.smap.asc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:freebsd:freebsd:12.2:p4:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:freebsd:freebsd:12.2:p4",
+	"title": [
+		{
+			"text": "FreeBSD 12.2 Patch 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://bokut.in/freebsd-patch-level-table/#releng/12.2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-21:11.smap.asc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:12.2:p4:*:*:*:*:*:*"
+	}
 }

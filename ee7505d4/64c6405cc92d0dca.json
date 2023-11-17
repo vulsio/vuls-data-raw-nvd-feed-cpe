@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:plugins-market:wp_visitor_statistics:2.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2022-08-04T16:16:10.403Z",
-  "title": [
-    {
-      "text": "Plugins Market WP Visitor Statistics 2.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.plugins-market.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/0d6b89f5-cf12-4ad4-831b-fed26763ba20"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-stats-manager/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plugins-market:wp_visitor_statistics:2.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2022-08-04T12:16:10.403-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wp_visitor_statistics_project:wp_visitor_statistics:2.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:plugins-market:wp_visitor_statistics:2.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2022-08-04T16:16:10.403Z",
+	"title": [
+		{
+			"text": "Plugins Market WP Visitor Statistics 2.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.plugins-market.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/0d6b89f5-cf12-4ad4-831b-fed26763ba20"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-stats-manager/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plugins-market:wp_visitor_statistics:2.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2022-08-04T12:16:10.403-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wp_visitor_statistics_project:wp_visitor_statistics:2.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

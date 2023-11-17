@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows:server_2008:unknown:x32",
-  "deprecated": true,
-  "deprecation_date": "2009-04-03T18:29:33.017Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2008 x32",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows:server_2008:unknown:x32:*:*:*:*:*",
-    "deprecation": {
-      "date": "2009-04-03T14:29:33.017-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:x32:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows:server_2008:unknown:x32",
+	"deprecated": true,
+	"deprecation_date": "2009-04-03T18:29:33.017Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2008 x32",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows:server_2008:unknown:x32:*:*:*:*:*",
+		"deprecation": {
+			"date": "2009-04-03T14:29:33.017-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2008:-:*:x32:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

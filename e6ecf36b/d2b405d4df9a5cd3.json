@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:garden:garden:0.12.16::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "Garden Garden 0.12.16 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://garden.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/garden-io/garden/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/garden-io/garden/security/advisories/GHSA-f5f3-qrqw-2vqf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:garden:garden:0.12.16:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:garden:garden:0.12.16::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Garden Garden 0.12.16 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://garden.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/garden-io/garden/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/garden-io/garden/security/advisories/GHSA-f5f3-qrqw-2vqf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:garden:garden:0.12.16:*:*:*:*:kubernetes:*:*"
+	}
 }

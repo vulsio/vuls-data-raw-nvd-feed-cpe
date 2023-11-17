@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:sick:sim1004-0p0g311_firmware:2.0.0",
-  "title": [
-    {
-      "text": "SICK SIM1004-0P0G311 Firmware 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27586.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.sick.com/fi/en/integration-products/sensor-integration-machine/sim10xx/c/g506759"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:sick:sim1004-0p0g311_firmware:2.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:sick:sim1004-0p0g311_firmware:2.0.0",
+	"title": [
+		{
+			"text": "SICK SIM1004-0P0G311 Firmware 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/27xxx/CVE-2022-27586.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sick.com/fi/en/integration-products/sensor-integration-machine/sim10xx/c/g506759"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sick:sim1004-0p0g311_firmware:2.0.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:microsoft:visual_studio_code:1.58.1::~~~-~~",
-  "title": [
-    {
-      "text": "Microsoft Visual Studio Code 1.58.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-34479"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/microsoft/vscode/issues/128557"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://code.visualstudio.com/updates/v1_58"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:visual_studio_code:1.58.1:*:*:*:*:-:*:*"
-  }
+	"name": "cpe:/a:microsoft:visual_studio_code:1.58.1::~~~-~~",
+	"title": [
+		{
+			"text": "Microsoft Visual Studio Code 1.58.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-34479"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/microsoft/vscode/issues/128557"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://code.visualstudio.com/updates/v1_58"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:visual_studio_code:1.58.1:*:*:*:*:-:*:*"
+	}
 }

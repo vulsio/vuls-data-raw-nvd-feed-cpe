@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:intel:e7-8895_firmware:-",
-  "title": [
-    {
-      "text": "Intel E7-8895 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://downloadcenter.intel.com/product/84689/Intel-Xeon-Processor-E7-8895-v3-45M-Cache-2-60-GHz-"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.intel.com/content/www/us/en/products/processors/xeon/e7-processors.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:e7-8895_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:e7-8895_firmware:-",
+	"title": [
+		{
+			"text": "Intel E7-8895 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://downloadcenter.intel.com/product/84689/Intel-Xeon-Processor-E7-8895-v3-45M-Cache-2-60-GHz-"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/processors/xeon/e7-processors.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00290.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:e7-8895_firmware:-:*:*:*:*:*:*:*"
+	}
 }

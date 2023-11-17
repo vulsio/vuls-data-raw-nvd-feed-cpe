@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:intel:xl710-am2_controller:-",
-  "title": [
-    {
-      "text": "Intel XL710-AM2 Controller",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.intel.com/content/www/us/en/embedded/products/networking/ethernet-controller-x710-xl710-family-specifications.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00069&languageid=en-fr"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xl710-am2_controller:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:intel:xl710-am2_controller:-",
+	"title": [
+		{
+			"text": "Intel XL710-AM2 Controller",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.intel.com/content/www/us/en/embedded/products/networking/ethernet-controller-x710-xl710-family-specifications.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00069&languageid=en-fr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xl710-am2_controller:-:*:*:*:*:*:*:*"
+	}
 }

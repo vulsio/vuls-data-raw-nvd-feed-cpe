@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:ids:4.1%285b%29",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:36.583Z",
-  "title": [
-    {
-      "text": "Cisco IDS Sensor Software 4.1(5b)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:ids:4.1\\(5b\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:36.583-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:ids_sensor_software:4.1\\(5b\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:ids:4.1%285b%29",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:36.583Z",
+	"title": [
+		{
+			"text": "Cisco IDS Sensor Software 4.1(5b)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:ids:4.1\\(5b\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:36.583-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:ids_sensor_software:4.1\\(5b\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

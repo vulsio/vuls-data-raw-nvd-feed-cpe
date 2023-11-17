@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:d-link:dir505_shareport_mobile_companion_firmware:1.07",
-  "deprecated": true,
-  "deprecation_date": "2023-04-26T19:27:50.760Z",
-  "title": [
-    {
-      "text": "D-LINK DIR505 Shareport Mobile Companion firmware 1.07",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor advisory",
-      "href": "http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10029"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dir505_shareport_mobile_companion_firmware:1.07:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-26T15:27:50.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dir505_shareport_mobile_companion_firmware:1.07:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dir505_shareport_mobile_companion_firmware:1.07",
+	"deprecated": true,
+	"deprecation_date": "2023-04-26T19:27:50.760Z",
+	"title": [
+		{
+			"text": "D-LINK DIR505 Shareport Mobile Companion firmware 1.07",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor advisory",
+			"href": "http://securityadvisories.dlink.com/security/publication.aspx?name=SAP10029"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dir505_shareport_mobile_companion_firmware:1.07:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-26T15:27:50.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dir505_shareport_mobile_companion_firmware:1.07:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

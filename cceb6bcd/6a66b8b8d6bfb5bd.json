@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:opensuse_project:leap:42.2",
-  "deprecated": true,
-  "deprecation_date": "2018-01-25T12:51:09.540Z",
-  "title": [
-    {
-      "text": "OpenSUSE Project Leap 42.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://software.opensuse.org/422/en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:opensuse_project:leap:42.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-01-25T07:51:09.540-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:opensuse:leap:42.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:opensuse_project:leap:42.2",
+	"deprecated": true,
+	"deprecation_date": "2018-01-25T12:51:09.540Z",
+	"title": [
+		{
+			"text": "OpenSUSE Project Leap 42.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://software.opensuse.org/422/en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:opensuse_project:leap:42.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-01-25T07:51:09.540-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:opensuse:leap:42.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:abb:modular_switchgear_monitoring_firmware:2.1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-04-19T15:32:23.947Z",
-  "title": [
-    {
-      "text": "ABB Modular Switchgear Monitoring Firmware 2.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://global.abb/group/en"
-    },
-    {
-      "text": "Product",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=2GHV049587&LanguageCode=en&DocumentPartId=&Action=Launch"
-    },
-    {
-      "text": "Product",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A9057&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-19T11:32:23.947-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:abb:modular_switchgear_monitoring_firmware:2.1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-04-19T15:32:23.947Z",
+	"title": [
+		{
+			"text": "ABB Modular Switchgear Monitoring Firmware 2.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://global.abb/group/en"
+		},
+		{
+			"text": "Product",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=2GHV049587&LanguageCode=en&DocumentPartId=&Action=Launch"
+		},
+		{
+			"text": "Product",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A9057&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-19T11:32:23.947-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:hitachienergy:modular_switchgear_monitoring_firmware:2.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

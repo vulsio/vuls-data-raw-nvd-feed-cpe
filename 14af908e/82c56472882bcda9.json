@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:asus:ws-101_firmware:-",
-  "title": [
-    {
-      "text": "Asus WS-101 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.asus.com/supportonly/WS101/HelpDesk_Manual"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:asus:ws-101_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:asus:ws-101_firmware:-",
+	"title": [
+		{
+			"text": "Asus WS-101 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.asus.com/supportonly/WS101/HelpDesk_Manual"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2019-15912?tab=REFERENCES"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:asus:ws-101_firmware:-:*:*:*:*:*:*:*"
+	}
 }

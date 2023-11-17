@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:qemu:qemu:2.1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-11-02T14:46:11.350Z",
-  "title": [
-    {
-      "text": "QEMU QEMU 2.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://wiki.qemu.org/Main_Page"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qemu:qemu:2.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-02T09:46:11.350-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qemu:qemu:2.1.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:qemu:qemu:2.1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-11-02T14:46:11.350Z",
+	"title": [
+		{
+			"text": "QEMU QEMU 2.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://wiki.qemu.org/Main_Page"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qemu:qemu:2.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-02T09:46:11.350-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qemu:qemu:2.1.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

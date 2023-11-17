@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:git:4.11.3::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Git 4.11.3 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/git/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.jenkins.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-284"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:git:4.11.3:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:git:4.11.3::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Git 4.11.3 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/git/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.jenkins.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-07-27/#SECURITY-284"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:git:4.11.3:*:*:*:*:jenkins:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:tizen:tizen:-",
-  "deprecated": true,
-  "deprecation_date": "2013-05-30T20:33:07.523Z",
-  "title": [
-    {
-      "text": "Tizen",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tizen:tizen:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2013-05-30T16:33:07.523-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tizen:tizen:-",
+	"deprecated": true,
+	"deprecation_date": "2013-05-30T20:33:07.523Z",
+	"title": [
+		{
+			"text": "Tizen",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tizen:tizen:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2013-05-30T16:33:07.523-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:tizen:tizen:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

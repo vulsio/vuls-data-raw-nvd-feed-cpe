@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:element:desktop:1.6.0:rc4:~~~node.js~~",
-  "title": [
-    {
-      "text": "Element Desktop 1.6.0 Release Candidate 4 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://element.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/vector-im/element-desktop/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/vector-im/element-desktop/security/advisories/GHSA-mjrg-9f8r-h3m7"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:element:desktop:1.6.0:rc4:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:element:desktop:1.6.0:rc4:~~~node.js~~",
+	"title": [
+		{
+			"text": "Element Desktop 1.6.0 Release Candidate 4 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://element.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/vector-im/element-desktop/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/vector-im/element-desktop/security/advisories/GHSA-mjrg-9f8r-h3m7"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:element:desktop:1.6.0:rc4:*:*:*:node.js:*:*"
+	}
 }

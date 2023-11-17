@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pypa:pip:8.1.2::~~~python~~",
-  "deprecated": true,
-  "deprecation_date": "2021-03-18T13:36:10.137Z",
-  "title": [
-    {
-      "text": "PyPA pip 8.1.2 for Python",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.pypa.io/en/latest/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/pypa/pip"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pypa:pip:8.1.2:*:*:*:*:python:*:*",
-    "deprecation": {
-      "date": "2021-03-18T09:36:10.137-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pypa:pip:8.1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pypa:pip:8.1.2::~~~python~~",
+	"deprecated": true,
+	"deprecation_date": "2021-03-18T13:36:10.137Z",
+	"title": [
+		{
+			"text": "PyPA pip 8.1.2 for Python",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.pypa.io/en/latest/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/pypa/pip"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pypa:pip:8.1.2:*:*:*:*:python:*:*",
+		"deprecation": {
+			"date": "2021-03-18T09:36:10.137-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pypa:pip:8.1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

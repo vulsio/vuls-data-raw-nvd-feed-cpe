@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:opengamepanel:opengamepanel:-::~~~linux_kernel~~",
-  "title": [
-    {
-      "text": "Opengamepanel for Linux Kernel",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.opengamepanel.org/news.php"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/OpenGamePanel/OGP-Agent-Linux"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/50373"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opengamepanel:opengamepanel:-:*:*:*:*:linux_kernel:*:*"
-  }
+	"name": "cpe:/a:opengamepanel:opengamepanel:-::~~~linux_kernel~~",
+	"title": [
+		{
+			"text": "Opengamepanel for Linux Kernel",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.opengamepanel.org/news.php"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/OpenGamePanel/OGP-Agent-Linux"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/50373"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opengamepanel:opengamepanel:-:*:*:*:*:linux_kernel:*:*"
+	}
 }

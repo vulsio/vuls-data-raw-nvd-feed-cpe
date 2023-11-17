@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:draeger:kappa_firmware:-",
-  "title": [
-    {
-      "text": "Drager Kappa Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://static.draeger.com/security"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-022-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:draeger:kappa_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:draeger:kappa_firmware:-",
+	"title": [
+		{
+			"text": "Drager Kappa Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://static.draeger.com/security"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-19-022-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:draeger:kappa_firmware:-:*:*:*:*:*:*:*"
+	}
 }

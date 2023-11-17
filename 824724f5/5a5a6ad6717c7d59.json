@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:pegasystems:pega_platform:8.3.1",
-  "deprecated": true,
-  "deprecation_date": "2020-08-20T12:42:02.040Z",
-  "title": [
-    {
-      "text": "Pegasystems Pega Platform 8.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://community.pega.com/knowledgebase/products/platform/resolved-issues?f%5B0%5D=version%3A30616&f%5B1%5D=version%3A29621&f%5B2%5D=version%3A26871&f%5B3%5D=version%3A28041&f%5B4%5D=version%3A28366&f%5B5%5D=version%3A28906&f%5B6%5D=version%3A29241"
-    },
-    {
-      "text": "Product",
-      "href": "https://community.pega.com/knowledgebase/articles/system-administration/pega-platform-patch-release-announcements"
-    },
-    {
-      "text": "Product",
-      "href": "https://community.pega.com/knowledgebase/articles/system-administration/pega-platform-patch-release-schedule-and-contents"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pegasystems:pega_platform:8.3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-20T08:42:02.040-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pega:pega_platform:8.3.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pegasystems:pega_platform:8.3.1",
+	"deprecated": true,
+	"deprecation_date": "2020-08-20T12:42:02.040Z",
+	"title": [
+		{
+			"text": "Pegasystems Pega Platform 8.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://community.pega.com/knowledgebase/products/platform/resolved-issues?f%5B0%5D=version%3A30616&f%5B1%5D=version%3A29621&f%5B2%5D=version%3A26871&f%5B3%5D=version%3A28041&f%5B4%5D=version%3A28366&f%5B5%5D=version%3A28906&f%5B6%5D=version%3A29241"
+		},
+		{
+			"text": "Product",
+			"href": "https://community.pega.com/knowledgebase/articles/system-administration/pega-platform-patch-release-announcements"
+		},
+		{
+			"text": "Product",
+			"href": "https://community.pega.com/knowledgebase/articles/system-administration/pega-platform-patch-release-schedule-and-contents"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pegasystems:pega_platform:8.3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-20T08:42:02.040-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pega:pega_platform:8.3.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

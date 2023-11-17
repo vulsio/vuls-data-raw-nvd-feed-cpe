@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_10:21h2",
-  "deprecated": true,
-  "deprecation_date": "2022-12-02T17:25:33.320Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 21h2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.microsoft.com/en-us/windows/release-health/status-windows-10-21h2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-12-02T12:25:33.320-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:arm64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10:21h2",
+	"deprecated": true,
+	"deprecation_date": "2022-12-02T17:25:33.320Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 21h2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.microsoft.com/en-us/windows/release-health/status-windows-10-21h2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-12-02T12:25:33.320-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10:21h2:*:*:*:*:*:arm64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

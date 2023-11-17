@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:gnu:gimp:-",
-  "deprecated": true,
-  "deprecation_date": "2012-07-25T18:31:57.743Z",
-  "title": [
-    {
-      "text": "GIMP",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gnu:gimp:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2012-07-25T14:31:57.743-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gimp:gimp:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gnu:gimp:-",
+	"deprecated": true,
+	"deprecation_date": "2012-07-25T18:31:57.743Z",
+	"title": [
+		{
+			"text": "GIMP",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gnu:gimp:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2012-07-25T14:31:57.743-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gimp:gimp:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

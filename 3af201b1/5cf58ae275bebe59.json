@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:nicdark:hotel_booking:2.9::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Nicdark Hotel Booking 2.9 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/nd-booking/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/nd-booking/wordpress-hotel-booking-plugin-3-0-multiple-authenticated-stored-cross-site-scripting-xss-vulnerabilities"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.nicdark.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://plugins.trac.wordpress.org/log/nd-booking/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nicdark:hotel_booking:2.9:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:nicdark:hotel_booking:2.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Nicdark Hotel Booking 2.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/nd-booking/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/nd-booking/wordpress-hotel-booking-plugin-3-0-multiple-authenticated-stored-cross-site-scripting-xss-vulnerabilities"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nicdark.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/log/nd-booking/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nicdark:hotel_booking:2.9:*:*:*:*:wordpress:*:*"
+	}
 }

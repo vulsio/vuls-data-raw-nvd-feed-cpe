@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:docker:docker:18.09.9::~~community~~~",
-  "title": [
-    {
-      "text": "Docker 18.09.9 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.docker.com/engine/release-notes/prior-releases/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker:18.09.9:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:docker:docker:18.09.9::~~community~~~",
+	"title": [
+		{
+			"text": "Docker 18.09.9 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.docker.com/engine/release-notes/prior-releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker:18.09.9:*:*:*:community:*:*:*"
+	}
 }

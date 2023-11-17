@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:sap:gui:7.60::~~~windows~~",
-  "deprecated": true,
-  "deprecation_date": "2021-01-15T13:29:26.953Z",
-  "title": [
-    {
-      "text": "SAP GUI 7.60 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.sap.com/documents/2019/02/7a9362eb-3a7d-0010-87a3-c30de2ffd8ff.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:gui:7.60:*:*:*:*:windows:*:*",
-    "deprecation": {
-      "date": "2021-01-15T08:29:26.953-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:sap:graphical_user_interface:7.60:*:*:*:*:windows:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:sap:gui:7.60::~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2021-01-15T13:29:26.953Z",
+	"title": [
+		{
+			"text": "SAP GUI 7.60 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.sap.com/documents/2019/02/7a9362eb-3a7d-0010-87a3-c30de2ffd8ff.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:gui:7.60:*:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2021-01-15T08:29:26.953-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sap:graphical_user_interface:7.60:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

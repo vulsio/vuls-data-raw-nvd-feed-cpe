@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:jboss_enterprise_application_platform_continuous_delivery:-",
-  "title": [
-    {
-      "text": "Red Hat JBoss Enterprise Application Platform (EAP) Continuous Delivery",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2020-10683"
-    },
-    {
-      "text": "Product",
-      "href": "https://access.redhat.com/announcements/3411471"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:jboss_enterprise_application_platform_continuous_delivery:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:jboss_enterprise_application_platform_continuous_delivery:-",
+	"title": [
+		{
+			"text": "Red Hat JBoss Enterprise Application Platform (EAP) Continuous Delivery",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2020-10683"
+		},
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/announcements/3411471"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:jboss_enterprise_application_platform_continuous_delivery:-:*:*:*:*:*:*:*"
+	}
 }

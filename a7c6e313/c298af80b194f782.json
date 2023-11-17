@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:redhat:openshift_machine-config-operator:4.9.0",
-  "title": [
-    {
-      "text": "Red Hat Openshift Machine-config-operator 4.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/openshift/machine-config-operator/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/20xxx/CVE-2021-20238.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2021-20238"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift_machine-config-operator:4.9.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:openshift_machine-config-operator:4.9.0",
+	"title": [
+		{
+			"text": "Red Hat Openshift Machine-config-operator 4.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openshift/machine-config-operator/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/20xxx/CVE-2021-20238.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2021-20238"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift_machine-config-operator:4.9.0:*:*:*:*:*:*:*"
+	}
 }

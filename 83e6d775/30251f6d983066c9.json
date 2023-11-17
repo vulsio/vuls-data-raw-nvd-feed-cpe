@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:mysql:mysql:4.1.7",
-  "deprecated": true,
-  "deprecation_date": "2019-12-17T17:12:19.687Z",
-  "title": [
-    {
-      "text": "MySQL MySQL 4.1.7",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mysql:mysql:4.1.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-17T12:12:19.687-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:mysql:4.1.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mysql:mysql:4.1.7",
+	"deprecated": true,
+	"deprecation_date": "2019-12-17T17:12:19.687Z",
+	"title": [
+		{
+			"text": "MySQL MySQL 4.1.7",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mysql:mysql:4.1.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-17T12:12:19.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:mysql:4.1.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

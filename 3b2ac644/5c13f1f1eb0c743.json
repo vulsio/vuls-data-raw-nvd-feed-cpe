@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:pivotal_software:rabbitmq:3.7.0:milestone16",
-  "deprecated": true,
-  "deprecation_date": "2022-03-17T14:03:31.813Z",
-  "title": [
-    {
-      "text": "Pivotal Software RabbitMQ 3.7.0 Milestone 16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/rabbitmq/rabbitmq-server"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal_software:rabbitmq:3.7.0:milestone16:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-17T10:03:31.813-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:rabbitmq:3.7.0:milestone16:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pivotal_software:rabbitmq:3.7.0:milestone16",
+	"deprecated": true,
+	"deprecation_date": "2022-03-17T14:03:31.813Z",
+	"title": [
+		{
+			"text": "Pivotal Software RabbitMQ 3.7.0 Milestone 16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/rabbitmq/rabbitmq-server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal_software:rabbitmq:3.7.0:milestone16:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-17T10:03:31.813-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:rabbitmq:3.7.0:milestone16:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

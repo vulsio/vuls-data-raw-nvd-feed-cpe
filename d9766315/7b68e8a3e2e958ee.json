@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pgadmin:pgadmin:6.14::~~~postgresql~~",
-  "title": [
-    {
-      "text": "Pgadmin Pgadmin 6.14 for Postgresql",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/pgadmin-org/pgadmin4/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jvn.jp/en/jp/JVN03832974/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.pgadmin.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pgadmin:pgadmin:6.14:*:*:*:*:postgresql:*:*"
-  }
+	"name": "cpe:/a:pgadmin:pgadmin:6.14::~~~postgresql~~",
+	"title": [
+		{
+			"text": "Pgadmin Pgadmin 6.14 for Postgresql",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/pgadmin-org/pgadmin4/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jvn.jp/en/jp/JVN03832974/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.pgadmin.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pgadmin:pgadmin:6.14:*:*:*:*:postgresql:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:xfce:xfce:4.16",
-  "title": [
-    {
-      "text": "Xfce 4.16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.xfce.org/xfce/exo/-/commit/c71c04ff5882b2866a0d8506fb460d4ef796de9f"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/32xxx/CVE-2022-32278.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:xfce:xfce:4.16:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:xfce:xfce:4.16",
+	"title": [
+		{
+			"text": "Xfce 4.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.xfce.org/xfce/exo/-/commit/c71c04ff5882b2866a0d8506fb460d4ef796de9f"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/32xxx/CVE-2022-32278.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xfce:xfce:4.16:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:groundhogg:groundhogg:2.7.10.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Groundhogg 2.7.10.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/groundhogg/wordpress-groundhogg-plugin-2-7-10-3-cross-site-request-forgery-csrf?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/groundhogg/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:groundhogg:groundhogg:2.7.10.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:groundhogg:groundhogg:2.7.10.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Groundhogg 2.7.10.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/groundhogg/wordpress-groundhogg-plugin-2-7-10-3-cross-site-request-forgery-csrf?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/groundhogg/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:groundhogg:groundhogg:2.7.10.3:*:*:*:*:wordpress:*:*"
+	}
 }

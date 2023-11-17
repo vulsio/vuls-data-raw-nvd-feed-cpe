@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:dependencytrack:dependency-track:3.2.1",
-  "deprecated": true,
-  "deprecation_date": "2020-02-13T15:08:19.150Z",
-  "title": [
-    {
-      "text": "Dependency-Track 3.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/DependencyTrack/dependency-track"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://dependencytrack.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dependencytrack:dependency-track:3.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-13T10:08:19.150-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:owasp:dependency-track:3.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:dependencytrack:dependency-track:3.2.1",
+	"deprecated": true,
+	"deprecation_date": "2020-02-13T15:08:19.150Z",
+	"title": [
+		{
+			"text": "Dependency-Track 3.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/DependencyTrack/dependency-track"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://dependencytrack.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dependencytrack:dependency-track:3.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-13T10:08:19.150-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:owasp:dependency-track:3.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

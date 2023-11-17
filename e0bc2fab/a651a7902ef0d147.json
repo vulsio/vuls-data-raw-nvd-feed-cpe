@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wpmudev:defender_security:4.1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WPMU DEV Defender Security 4.1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/2b547488-187b-44bc-a57d-f876a7d4c87d/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/defender-security/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpmudev:defender_security:4.1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpmudev:defender_security:4.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPMU DEV Defender Security 4.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/2b547488-187b-44bc-a57d-f876a7d4c87d/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/defender-security/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpmudev:defender_security:4.1.0:*:*:*:*:wordpress:*:*"
+	}
 }

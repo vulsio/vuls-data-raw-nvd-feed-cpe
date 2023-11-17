@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wpwhitesecurity:wp_activity_log:4.5.0::~~premium~wordpress~~",
-  "title": [
-    {
-      "text": "WP White Security WP Activity Log 4.5.0 Premium Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/wp-activity-log-450-missing-capabilities-check-to-user-enumeration"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.wpwhitesecurity.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpwhitesecurity:wp_activity_log:4.5.0:*:*:*:premium:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpwhitesecurity:wp_activity_log:4.5.0::~~premium~wordpress~~",
+	"title": [
+		{
+			"text": "WP White Security WP Activity Log 4.5.0 Premium Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/wp-activity-log-450-missing-capabilities-check-to-user-enumeration"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.wpwhitesecurity.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpwhitesecurity:wp_activity_log:4.5.0:*:*:*:premium:wordpress:*:*"
+	}
 }

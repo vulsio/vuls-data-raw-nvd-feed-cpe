@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:hitachi:tuning_manager:7.1.0::~~~linux_kernel~~",
-  "title": [
-    {
-      "text": "Hitachi Tuning Manger for Linux 7.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor advisory for CVE-2014-4188",
-      "href": "http://www.hitachi.co.jp/Prod/comp/soft1/global/security/info/vuls/HS14-013/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hitachi:tuning_manager:7.1.0:*:*:*:*:linux_kernel:*:*"
-  }
+	"name": "cpe:/a:hitachi:tuning_manager:7.1.0::~~~linux_kernel~~",
+	"title": [
+		{
+			"text": "Hitachi Tuning Manger for Linux 7.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor advisory for CVE-2014-4188",
+			"href": "http://www.hitachi.co.jp/Prod/comp/soft1/global/security/info/vuls/HS14-013/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hitachi:tuning_manager:7.1.0:*:*:*:*:linux_kernel:*:*"
+	}
 }

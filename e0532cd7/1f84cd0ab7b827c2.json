@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:openx:openx_source:2.8.10",
-  "deprecated": true,
-  "deprecation_date": "2014-04-25T17:32:46.523Z",
-  "title": [
-    {
-      "text": "OpenX Source 2.8.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "OpenX Source 2.8.11 upgrade notice",
-      "href": "http://openx.com/blog/important-update-for-openx-source-2-8-10-users/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openx:openx_source:2.8.10:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-04-25T13:32:46.523-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openx:openx:2.8.10:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openx:openx_source:2.8.10",
+	"deprecated": true,
+	"deprecation_date": "2014-04-25T17:32:46.523Z",
+	"title": [
+		{
+			"text": "OpenX Source 2.8.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "OpenX Source 2.8.11 upgrade notice",
+			"href": "http://openx.com/blog/important-update-for-openx-source-2-8-10-users/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openx:openx_source:2.8.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-04-25T13:32:46.523-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openx:openx:2.8.10:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

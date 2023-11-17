@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:git:git:2.26.1",
-  "deprecated": true,
-  "deprecation_date": "2021-01-26T14:47:24.540Z",
-  "title": [
-    {
-      "text": "Git 2.26.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/git/git/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:git:git:2.26.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-26T09:47:24.540-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:git-scm:git:2.26.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:git:git:2.26.1",
+	"deprecated": true,
+	"deprecation_date": "2021-01-26T14:47:24.540Z",
+	"title": [
+		{
+			"text": "Git 2.26.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/git/git/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:git:git:2.26.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-26T09:47:24.540-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:git-scm:git:2.26.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

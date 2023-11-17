@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:garrett:ic_module:-",
-  "title": [
-    {
-      "text": "Garrett Metal Detectors iC Module",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://talosintelligence.com/vulnerability_reports/TALOS-2021-1359"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.kellycodetectors.com/garrett-ic-module-for-security-walkthrough-metal-detectors"
-    },
-    {
-      "text": "Product",
-      "href": "https://garrett.com/security/walk-through/accessories"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:garrett:ic_module:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:garrett:ic_module:-",
+	"title": [
+		{
+			"text": "Garrett Metal Detectors iC Module",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2021-1359"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.kellycodetectors.com/garrett-ic-module-for-security-walkthrough-metal-detectors"
+		},
+		{
+			"text": "Product",
+			"href": "https://garrett.com/security/walk-through/accessories"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:garrett:ic_module:-:*:*:*:*:*:*:*"
+	}
 }

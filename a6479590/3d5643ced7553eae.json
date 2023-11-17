@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2016:2004",
-  "deprecated": true,
-  "deprecation_date": "2023-05-22T14:36:47.827Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2016 2004",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4557957"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1253"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2016:2004:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-22T10:36:47.827-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2004:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_server_2016:2004",
+	"deprecated": true,
+	"deprecation_date": "2023-05-22T14:36:47.827Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2016 2004",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/topic/windows-10-update-history-7dd3071a-3906-fa2c-c342-f7f86728a6e3"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4557957"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1253"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2016:2004:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-22T10:36:47.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2004:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

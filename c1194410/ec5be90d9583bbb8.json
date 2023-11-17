@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:sharp-nec-display:c861q:-",
-  "deprecated": true,
-  "deprecation_date": "2022-05-23T14:11:28.027Z",
-  "title": [
-    {
-      "text": "Sharp NEC Display Solutions C861Q",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.sharpnecdisplays.us/products/displays/c861q"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sharp-nec-display:c861q:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-23T10:11:28.027-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:sharp-nec-displays:c861q:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:sharp-nec-display:c861q:-",
+	"deprecated": true,
+	"deprecation_date": "2022-05-23T14:11:28.027Z",
+	"title": [
+		{
+			"text": "Sharp NEC Display Solutions C861Q",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sharpnecdisplays.us/products/displays/c861q"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sharp-nec-displays.com/global/support/info/A5-1_vulnerability.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sharp-nec-display:c861q:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-23T10:11:28.027-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:sharp-nec-displays:c861q:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

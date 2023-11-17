@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:opennetworking:onos:2.5.8",
-  "title": [
-    {
-      "text": "Open Networking ONOS 2.5.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/opennetworkinglab/onos/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.edoardoottavianelli.it/CVE-2023-24279/index.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://opennetworking.org/onos/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:opennetworking:onos:2.5.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:opennetworking:onos:2.5.8",
+	"title": [
+		{
+			"text": "Open Networking ONOS 2.5.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/opennetworkinglab/onos/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.edoardoottavianelli.it/CVE-2023-24279/index.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://opennetworking.org/onos/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opennetworking:onos:2.5.8:*:*:*:*:*:*:*"
+	}
 }

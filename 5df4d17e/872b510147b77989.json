@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:java_driver:3.0.2::~~~mongodb~~",
-  "title": [
-    {
-      "text": "MongoDB Java Driver 3.0.2 for MongoDB",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.mongodb.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mongodb/mongo-java-driver/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:java_driver:3.0.2:*:*:*:*:mongodb:*:*"
-  }
+	"name": "cpe:/a:mongodb:java_driver:3.0.2::~~~mongodb~~",
+	"title": [
+		{
+			"text": "MongoDB Java Driver 3.0.2 for MongoDB",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.mongodb.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mongodb/mongo-java-driver/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:java_driver:3.0.2:*:*:*:*:mongodb:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:posix_project:posix:4.0.1::~~~node.js~~",
-  "title": [
-    {
-      "text": "Posix Project Posix 4.0.1 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/posix"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-POSIX-2400719"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:posix_project:posix:4.0.1:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:posix_project:posix:4.0.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "Posix Project Posix 4.0.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/posix"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-POSIX-2400719"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:posix_project:posix:4.0.1:*:*:*:*:node.js:*:*"
+	}
 }

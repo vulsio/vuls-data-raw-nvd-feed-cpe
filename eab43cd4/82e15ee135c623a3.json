@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:forefront_endpoint_protection:2010",
-  "title": [
-    {
-      "text": "Microsoft Forefront Endpoint Protection 2010",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.microsoft.com/en-us/topic/description-of-forefront-endpoint-security-definition-updates-b0833c24-fab3-390b-820b-3835beeb03b3"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8558"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:forefront_endpoint_protection:2010:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:forefront_endpoint_protection:2010",
+	"title": [
+		{
+			"text": "Microsoft Forefront Endpoint Protection 2010",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.microsoft.com/en-us/topic/description-of-forefront-endpoint-security-definition-updates-b0833c24-fab3-390b-820b-3835beeb03b3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2017-8558"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:forefront_endpoint_protection:2010:*:*:*:*:*:*:*"
+	}
 }

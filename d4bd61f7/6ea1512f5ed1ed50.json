@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:percona:monitoring_and_management:-",
-  "title": [
-    {
-      "text": "Percona Monitoring and Management",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.percona.com/doc/percona-monitoring-and-management/2.x/release-notes/2.2.1.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://jira.percona.com/browse/PMM-5232"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/percona/pmm-managed/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:percona:monitoring_and_management:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:percona:monitoring_and_management:-",
+	"title": [
+		{
+			"text": "Percona Monitoring and Management",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.percona.com/doc/percona-monitoring-and-management/2.x/release-notes/2.2.1.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jira.percona.com/browse/PMM-5232"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/percona/pmm-managed/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:percona:monitoring_and_management:-:*:*:*:*:*:*:*"
+	}
 }

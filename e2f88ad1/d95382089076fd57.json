@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:cisco:carrier_routing_system:7.0.1",
-  "deprecated": true,
-  "deprecation_date": "2021-04-12T14:21:01.770Z",
-  "title": [
-    {
-      "text": "Cisco Carrier Routing System 7.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190807-iosxr-isis-dos-1910"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.cisco.com/c/en/us/products/routers/carrier-routing-system/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:carrier_routing_system:7.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-12T10:21:01.770-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:carrier_routing_system:7.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:carrier_routing_system:7.0.1",
+	"deprecated": true,
+	"deprecation_date": "2021-04-12T14:21:01.770Z",
+	"title": [
+		{
+			"text": "Cisco Carrier Routing System 7.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190807-iosxr-isis-dos-1910"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/routers/carrier-routing-system/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:carrier_routing_system:7.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-12T10:21:01.770-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:carrier_routing_system:7.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

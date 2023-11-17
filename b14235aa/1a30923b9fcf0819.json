@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:cisco:unified_communications_manager:14su2::~~session_management~~~",
-  "title": [
-    {
-      "text": "Cisco Unified Communications Manager 14SU2 Session Management Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/rel_notes/14_0_1/SU2/cucm_b_release-notes-for-cucm-imp-14su2.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-sql-rpPczR8n"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:session_management:*:*:*"
-  }
+	"name": "cpe:/a:cisco:unified_communications_manager:14su2::~~session_management~~~",
+	"title": [
+		{
+			"text": "Cisco Unified Communications Manager 14SU2 Session Management Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cucm/rel_notes/14_0_1/SU2/cucm_b_release-notes-for-cucm-imp-14su2.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-sql-rpPczR8n"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:unified_communications_manager:14su2:*:*:*:session_management:*:*:*"
+	}
 }

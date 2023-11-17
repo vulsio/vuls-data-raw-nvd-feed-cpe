@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:simple_sign_on_project:simple_sign_on:1.1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-09-08T12:06:16.740Z",
-  "title": [
-    {
-      "text": "Simple Sign On Project Simple Sign On 1.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/single-sign-on-client/#developers"
-    },
-    {
-      "text": "Version",
-      "href": "https://plugins.svn.wordpress.org/single-sign-on-client/tags/?p=2603039"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple_sign_on_project:simple_sign_on:1.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-09-08T08:06:16.740-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:simple_sign_on_project:simple_sign_on:1.1.0:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:simple_sign_on_project:simple_sign_on:1.1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-09-08T12:06:16.740Z",
+	"title": [
+		{
+			"text": "Simple Sign On Project Simple Sign On 1.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/single-sign-on-client/#developers"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.svn.wordpress.org/single-sign-on-client/tags/?p=2603039"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple_sign_on_project:simple_sign_on:1.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-09-08T08:06:16.740-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:simple_sign_on_project:simple_sign_on:1.1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:etcd:etcd:3.4.25",
-  "title": [
-    {
-      "text": "etcd 3.4.25",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/etcd-io/etcd/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/etcd-io/etcd/security/advisories/GHSA-3p4g-rcw5-8298"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:etcd:etcd:3.4.25:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:etcd:etcd:3.4.25",
+	"title": [
+		{
+			"text": "etcd 3.4.25",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/etcd-io/etcd/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/etcd-io/etcd/security/advisories/GHSA-3p4g-rcw5-8298"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:etcd:etcd:3.4.25:*:*:*:*:*:*:*"
+	}
 }

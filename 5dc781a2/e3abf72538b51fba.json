@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.793::~~free~~~",
-  "deprecated": true,
-  "deprecation_date": "2023-01-24T18:57:10.577Z",
-  "title": [
-    {
-      "text": "CentOS Web Panel 0.9.8.793 Free Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://centos-webpanel.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.exploit-db.com/exploits/46784"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.793:*:*:*:free:*:*:*",
-    "deprecation": {
-      "date": "2023-01-24T13:57:10.577-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.793:*:*:*:free:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.793::~~free~~~",
+	"deprecated": true,
+	"deprecation_date": "2023-01-24T18:57:10.577Z",
+	"title": [
+		{
+			"text": "CentOS Web Panel 0.9.8.793 Free Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://centos-webpanel.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.exploit-db.com/exploits/46784"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.793:*:*:*:free:*:*:*",
+		"deprecation": {
+			"date": "2023-01-24T13:57:10.577-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.793:*:*:*:free:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

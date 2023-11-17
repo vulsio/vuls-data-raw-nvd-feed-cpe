@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:abb:relion_670_firmware:1.2.3.17",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T21:02:24.420Z",
-  "title": [
-    {
-      "text": "ABB Relion 670 Firmware 1.2.3.17",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://library.e.abb.com/public/98dae5be72f2436d90491f182d0d7ea6/Relion%20670%20series%20version%20history%20summary%204CAE000226%20RevA.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.us-cert.gov/ics/advisories/icsa-19-330-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:relion_670_firmware:1.2.3.17:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T17:02:24.420-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:hitachienergy:relion_670_firmware:1.2.3.17:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:abb:relion_670_firmware:1.2.3.17",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T21:02:24.420Z",
+	"title": [
+		{
+			"text": "ABB Relion 670 Firmware 1.2.3.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://library.e.abb.com/public/98dae5be72f2436d90491f182d0d7ea6/Relion%20670%20series%20version%20history%20summary%204CAE000226%20RevA.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.us-cert.gov/ics/advisories/icsa-19-330-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:relion_670_firmware:1.2.3.17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T17:02:24.420-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:hitachienergy:relion_670_firmware:1.2.3.17:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

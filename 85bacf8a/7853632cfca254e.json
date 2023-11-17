@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:arris:sbg901:-",
-  "deprecated": true,
-  "deprecation_date": "2021-08-23T17:24:41.650Z",
-  "title": [
-    {
-      "text": "SBG901 SURFboard Wireless Cable Modem",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "vendor product information",
-      "href": "http://moto.arrisi.com/products/product.asp?id=864"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:arris:sbg901:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-23T13:24:41.650-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:commscope:arris_sbg901:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:arris:sbg901:-",
+	"deprecated": true,
+	"deprecation_date": "2021-08-23T17:24:41.650Z",
+	"title": [
+		{
+			"text": "SBG901 SURFboard Wireless Cable Modem",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "vendor product information",
+			"href": "http://moto.arrisi.com/products/product.asp?id=864"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:arris:sbg901:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-23T13:24:41.650-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:commscope:arris_sbg901:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

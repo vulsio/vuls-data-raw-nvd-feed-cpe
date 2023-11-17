@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:anaconda:anaconda3:-",
-  "title": [
-    {
-      "text": "Anaconda Anaconda3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.anaconda.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://improsec.com/tech-blog/privilege-escalation-vulnerability-in-anaconda3-and-miniconda3"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:anaconda:anaconda3:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:anaconda:anaconda3:-",
+	"title": [
+		{
+			"text": "Anaconda Anaconda3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.anaconda.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://improsec.com/tech-blog/privilege-escalation-vulnerability-in-anaconda3-and-miniconda3"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:anaconda:anaconda3:-:*:*:*:*:*:*:*"
+	}
 }

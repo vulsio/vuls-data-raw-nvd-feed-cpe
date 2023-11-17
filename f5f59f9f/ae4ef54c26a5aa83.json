@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:splunk:splunk:8.2.10::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Splunk Splunk 8.2.10 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://advisory.splunk.com/advisories/SVD-2023-0201"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:splunk:splunk:8.2.10:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:splunk:splunk:8.2.10::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Splunk Splunk 8.2.10 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://advisory.splunk.com/advisories/SVD-2023-0201"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:splunk:splunk:8.2.10:*:*:*:enterprise:*:*:*"
+	}
 }

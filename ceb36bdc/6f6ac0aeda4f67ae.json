@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/h:abb:relion_sam600-io:-",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:56:47.737Z",
-  "title": [
-    {
-      "text": "ABB RELION SAM600-IO",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://global.abb/group/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8932&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:abb:relion_sam600-io:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:56:47.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:hitachienergy:relion_sam600-io:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:abb:relion_sam600-io:-",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:56:47.737Z",
+	"title": [
+		{
+			"text": "ABB RELION SAM600-IO",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://global.abb/group/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8932&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:abb:relion_sam600-io:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:56:47.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:hitachienergy:relion_sam600-io:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

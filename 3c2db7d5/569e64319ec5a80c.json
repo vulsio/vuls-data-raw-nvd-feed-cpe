@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:netwavepr:outdoor_ip_camera_firmware:-",
-  "title": [
-    {
-      "text": "Netwavepr Outdoor Ip Camera Firmware -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://netwavepr.com/surveillance-camera/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2018/17xxx/CVE-2018-17240.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BBge/CVE-2018-17240/blob/main/exploit.py"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netwavepr:outdoor_ip_camera_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:netwavepr:outdoor_ip_camera_firmware:-",
+	"title": [
+		{
+			"text": "Netwavepr Outdoor Ip Camera Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://netwavepr.com/surveillance-camera/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2018/17xxx/CVE-2018-17240.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BBge/CVE-2018-17240/blob/main/exploit.py"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netwavepr:outdoor_ip_camera_firmware:-:*:*:*:*:*:*:*"
+	}
 }

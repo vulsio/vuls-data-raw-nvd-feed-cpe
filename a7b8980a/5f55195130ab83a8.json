@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_2003_server:-:gold:enterprise",
-  "deprecated": true,
-  "deprecation_date": "2021-07-07T16:08:32.760Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 2003 Gold Enterprise",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_2003_server:-:gold:enterprise:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-07T12:08:32.760-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_server_2003:-:-:*:*:enterprise:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_2003_server:-:gold:enterprise",
+	"deprecated": true,
+	"deprecation_date": "2021-07-07T16:08:32.760Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 2003 Gold Enterprise",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_2003_server:-:gold:enterprise:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-07T12:08:32.760-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_server_2003:-:-:*:*:enterprise:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:emc:rsa_bsafe:3.2.4::~~micro_edition_suite~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-11-30T17:23:50.223Z",
-  "title": [
-    {
-      "text": "EMC RSA BSAFE Micro Edition Suite 3.2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product information",
-      "href": "http://www.emc.com/security/rsa-bsafe.htm"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:rsa_bsafe:3.2.4:*:*:*:micro_edition_suite:*:*:*",
-    "deprecation": {
-      "date": "2021-11-30T12:23:50.223-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:bsafe:3.2.4:*:*:*:micro_edition_suite:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:rsa_bsafe:3.2.4::~~micro_edition_suite~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-11-30T17:23:50.223Z",
+	"title": [
+		{
+			"text": "EMC RSA BSAFE Micro Edition Suite 3.2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product information",
+			"href": "http://www.emc.com/security/rsa-bsafe.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:rsa_bsafe:3.2.4:*:*:*:micro_edition_suite:*:*:*",
+		"deprecation": {
+			"date": "2021-11-30T12:23:50.223-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:bsafe:3.2.4:*:*:*:micro_edition_suite:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

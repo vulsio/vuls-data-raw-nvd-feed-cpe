@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:microsoft:pinyin_ime:2010::~~~x64~~",
-  "deprecated": true,
-  "deprecation_date": "2014-12-08T18:29:25.523Z",
-  "title": [
-    {
-      "text": "Microsoft Pinyin IME 2010 x64 (64-bit)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "ms13-075 bulletin",
-      "href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-075"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x64:*:*",
-    "deprecation": {
-      "date": "2014-12-08T13:29:25.523-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:pinyin_ime:2010::~~~x64~~",
+	"deprecated": true,
+	"deprecation_date": "2014-12-08T18:29:25.523Z",
+	"title": [
+		{
+			"text": "Microsoft Pinyin IME 2010 x64 (64-bit)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "ms13-075 bulletin",
+			"href": "http://technet.microsoft.com/en-us/security/bulletin/ms13-075"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:x64:*:*",
+		"deprecation": {
+			"date": "2014-12-08T13:29:25.523-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:pinyin_ime:2010:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

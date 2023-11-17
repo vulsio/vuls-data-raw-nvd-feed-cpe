@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:12.10.12::~~community~~~",
-  "title": [
-    {
-      "text": "GitLab 12.10.12 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/gitlab-org/gitlab/-/issues/215970"
-    },
-    {
-      "text": "Version",
-      "href": "https://about.gitlab.com/releases/categories/releases/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:12.10.12:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:12.10.12::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 12.10.12 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/gitlab-org/gitlab/-/issues/215970"
+		},
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/releases/categories/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:12.10.12:*:*:*:community:*:*:*"
+	}
 }

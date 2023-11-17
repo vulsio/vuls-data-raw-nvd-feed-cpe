@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:mattermost:mattermost_server:5.18.0",
-  "deprecated": true,
-  "deprecation_date": "2020-06-19T21:26:48.337Z",
-  "title": [
-    {
-      "text": "Mattermost Server 5.18.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mattermost/mattermost-server"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-06-19T17:26:48.337-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mattermost:mattermost_server:5.18.0",
+	"deprecated": true,
+	"deprecation_date": "2020-06-19T21:26:48.337Z",
+	"title": [
+		{
+			"text": "Mattermost Server 5.18.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mattermost/mattermost-server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-06-19T17:26:48.337-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

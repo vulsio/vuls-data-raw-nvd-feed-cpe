@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:openmodelica:omcompiler:1.13.0",
-  "deprecated": true,
-  "deprecation_date": "2019-08-01T12:09:10.467Z",
-  "title": [
-    {
-      "text": "OpenModelica OMcompiler 1.13.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://trac.openmodelica.org/OpenModelica/ticket/4787#trac-add-comment"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/OpenModelica/OMCompiler/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openmodelica:omcompiler:1.13.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-08-01T08:09:10.467-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openmodelica:omcompiler:1.13.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openmodelica:omcompiler:1.13.0",
+	"deprecated": true,
+	"deprecation_date": "2019-08-01T12:09:10.467Z",
+	"title": [
+		{
+			"text": "OpenModelica OMcompiler 1.13.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://trac.openmodelica.org/OpenModelica/ticket/4787#trac-add-comment"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/OpenModelica/OMCompiler/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openmodelica:omcompiler:1.13.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-08-01T08:09:10.467-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openmodelica:omcompiler:1.13.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:airflow_hdfs_provider:-",
-  "title": [
-    {
-      "text": "Apache Software Foundation Airflow HDFS Provider",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://airflow.apache.org/docs/apache-airflow-providers-apache-hdfs/stable/changelog.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread/ggthr5pn42bn6wcr25hxnykjzh4ntw7z"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:airflow_hdfs_provider:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:airflow_hdfs_provider:-",
+	"title": [
+		{
+			"text": "Apache Software Foundation Airflow HDFS Provider",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://airflow.apache.org/docs/apache-airflow-providers-apache-hdfs/stable/changelog.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/ggthr5pn42bn6wcr25hxnykjzh4ntw7z"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:airflow_hdfs_provider:-:*:*:*:*:*:*:*"
+	}
 }

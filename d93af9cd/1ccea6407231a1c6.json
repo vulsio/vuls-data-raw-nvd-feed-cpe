@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:nodejs:node.js:7.6.0",
-  "deprecated": true,
-  "deprecation_date": "2020-02-10T18:04:44.800Z",
-  "title": [
-    {
-      "text": "Nodejs Node.js 7.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://nodejs.org/docs/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nodejs:node.js:7.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-10T13:04:44.800-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nodejs:node.js:7.6.0:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nodejs:node.js:7.6.0",
+	"deprecated": true,
+	"deprecation_date": "2020-02-10T18:04:44.800Z",
+	"title": [
+		{
+			"text": "Nodejs Node.js 7.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://nodejs.org/docs/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nodejs:node.js:7.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-10T13:04:44.800-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:7.6.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

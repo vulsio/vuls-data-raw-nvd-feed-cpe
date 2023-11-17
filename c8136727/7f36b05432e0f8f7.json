@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:pulsesecure:pulse_connect_secure:7.4r9.2",
-  "deprecated": true,
-  "deprecation_date": "2020-02-27T18:05:12.093Z",
-  "title": [
-    {
-      "text": "PulseSecure Pulse Connect Secure (PCS) 7.4R9.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://kb.pulsesecure.net/?l=en_US"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.pulsesecure.net/techpubs/pulse-connect-secure/pcs/7.4rx"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.4r9.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-02-27T13:05:12.093-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.4:r9.2:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:pulsesecure:pulse_connect_secure:7.4r9.2",
+	"deprecated": true,
+	"deprecation_date": "2020-02-27T18:05:12.093Z",
+	"title": [
+		{
+			"text": "PulseSecure Pulse Connect Secure (PCS) 7.4R9.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://kb.pulsesecure.net/?l=en_US"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.pulsesecure.net/techpubs/pulse-connect-secure/pcs/7.4rx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.4r9.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-02-27T13:05:12.093-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:7.4:r9.2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

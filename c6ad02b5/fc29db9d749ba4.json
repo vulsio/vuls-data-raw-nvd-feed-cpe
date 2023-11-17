@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nvidia:gpumodeswitch:2019-11",
-  "title": [
-    {
-      "text": "NVIDIA GPUModeSwitch 2019-11",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.nvidia.com/grid/latest/pdf/grid-gpumodeswitch-user-guide.pdf"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4928"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvidia:gpumodeswitch:2019-11:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:nvidia:gpumodeswitch:2019-11",
+	"title": [
+		{
+			"text": "NVIDIA GPUModeSwitch 2019-11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.nvidia.com/grid/latest/pdf/grid-gpumodeswitch-user-guide.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4928"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:gpumodeswitch:2019-11:*:*:*:*:*:*:*"
+	}
 }

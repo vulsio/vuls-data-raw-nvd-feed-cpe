@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:netapp:clustered_data_ontap:9.8:p7",
-  "title": [
-    {
-      "text": "NetApp Clustered Data ONTAP 9.8 Patch 7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/NTAP-20210601-0001/"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-acg%2FGUID-53AD40A6-C793-42F8-BFC0-2936C67399F5.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:clustered_data_ontap:9.8:p7:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:netapp:clustered_data_ontap:9.8:p7",
+	"title": [
+		{
+			"text": "NetApp Clustered Data ONTAP 9.8 Patch 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/NTAP-20210601-0001/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-acg%2FGUID-53AD40A6-C793-42F8-BFC0-2936C67399F5.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:clustered_data_ontap:9.8:p7:*:*:*:*:*:*"
+	}
 }

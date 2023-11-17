@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:wildfly_openssl:-",
-  "title": [
-    {
-      "text": "Red Hat Wildfly OpenSSL",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2020-25644"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly_openssl:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:wildfly_openssl:-",
+	"title": [
+		{
+			"text": "Red Hat Wildfly OpenSSL",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2020-25644"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly_openssl:-:*:*:*:*:*:*:*"
+	}
 }

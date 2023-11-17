@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:service_project:service:-::~~~go~~",
-  "title": [
-    {
-      "text": "Service Project Service for Go",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kardianos/service/pull/290"
-    },
-    {
-      "text": "Project",
-      "href": "https://github.com/kardianos/service"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:service_project:service:-:*:*:*:*:go:*:*"
-  }
+	"name": "cpe:/a:service_project:service:-::~~~go~~",
+	"title": [
+		{
+			"text": "Service Project Service for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kardianos/service/pull/290"
+		},
+		{
+			"text": "Project",
+			"href": "https://github.com/kardianos/service"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:service_project:service:-:*:*:*:*:go:*:*"
+	}
 }

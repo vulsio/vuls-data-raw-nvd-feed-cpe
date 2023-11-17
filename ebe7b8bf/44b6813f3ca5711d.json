@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:open-xchange:open-xchange_appsuite:7.10.2",
-  "deprecated": true,
-  "deprecation_date": "2020-10-15T17:27:30.763Z",
-  "title": [
-    {
-      "text": "Open-Xchange AppSuite 7.10.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://documentation.open-xchange.com/components/releasenotes/7.10.2/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-15T13:27:30.763-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:open-xchange:open-xchange_appsuite:7.10.2",
+	"deprecated": true,
+	"deprecation_date": "2020-10-15T17:27:30.763Z",
+	"title": [
+		{
+			"text": "Open-Xchange AppSuite 7.10.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://documentation.open-xchange.com/components/releasenotes/7.10.2/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-15T13:27:30.763-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:open-xchange:open-xchange_appsuite:7.10.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

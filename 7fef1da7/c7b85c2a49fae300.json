@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:airswaptoken_project:airswaptoken:-",
-  "title": [
-    {
-      "text": "AirSwapToken Project AirSwapToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x27054b13b1b798b345b591a4d22e6562d47ea75a#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:airswaptoken_project:airswaptoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:airswaptoken_project:airswaptoken:-",
+	"title": [
+		{
+			"text": "AirSwapToken Project AirSwapToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x27054b13b1b798b345b591a4d22e6562d47ea75a#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/ETHEREUMBLACK/sell%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:airswaptoken_project:airswaptoken:-:*:*:*:*:*:*:*"
+	}
 }

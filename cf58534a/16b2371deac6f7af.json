@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:iobroker:iobroker.admin:1.6.3::~~~node.js~~",
-  "title": [
-    {
-      "text": "ioBroker iobroker.admin 1.6.3 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://snyk.io/vuln/SNYK-JS-IOBROKERADMIN-534634"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.iobroker.net/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.npmjs.com/package/iobroker.admin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:iobroker:iobroker.admin:1.6.3:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:iobroker:iobroker.admin:1.6.3::~~~node.js~~",
+	"title": [
+		{
+			"text": "ioBroker iobroker.admin 1.6.3 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://snyk.io/vuln/SNYK-JS-IOBROKERADMIN-534634"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.iobroker.net/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/iobroker.admin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:iobroker:iobroker.admin:1.6.3:*:*:*:*:node.js:*:*"
+	}
 }

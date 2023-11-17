@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:apache:xml_security_for_java:1.5.0",
-  "deprecated": true,
-  "deprecation_date": "2023-04-18T19:06:24.877Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Santuario XML Security for Java 1.5.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://santuario.apache.org/javareleasenotes.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.apache.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:xml_security_for_java:1.5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-18T15:06:24.877-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:santuario_xml_security_for_java:1.5.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:xml_security_for_java:1.5.0",
+	"deprecated": true,
+	"deprecation_date": "2023-04-18T19:06:24.877Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Santuario XML Security for Java 1.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://santuario.apache.org/javareleasenotes.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.apache.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:xml_security_for_java:1.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-18T15:06:24.877-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:santuario_xml_security_for_java:1.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

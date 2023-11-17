@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:brew:mruby:2.1.2::~~~ruby~~",
-  "deprecated": true,
-  "deprecation_date": "2023-01-17T20:51:28.373Z",
-  "title": [
-    {
-      "text": "Brew Mruby 2.1.2 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://brew.sh/"
-    },
-    {
-      "text": "Product",
-      "href": "https://mruby.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://formulae.brew.sh/formula/mruby"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://huntr.dev/bounties/a980ce4d-c359-4425-92c4-e844c0055879/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:brew:mruby:2.1.2:*:*:*:*:ruby:*:*",
-    "deprecation": {
-      "date": "2023-01-17T15:51:28.373-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mruby:mruby:2.1.2:-:*:*:*:ruby:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:brew:mruby:2.1.2::~~~ruby~~",
+	"deprecated": true,
+	"deprecation_date": "2023-01-17T20:51:28.373Z",
+	"title": [
+		{
+			"text": "Brew Mruby 2.1.2 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://brew.sh/"
+		},
+		{
+			"text": "Product",
+			"href": "https://mruby.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://formulae.brew.sh/formula/mruby"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://huntr.dev/bounties/a980ce4d-c359-4425-92c4-e844c0055879/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brew:mruby:2.1.2:*:*:*:*:ruby:*:*",
+		"deprecation": {
+			"date": "2023-01-17T15:51:28.373-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mruby:mruby:2.1.2:-:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

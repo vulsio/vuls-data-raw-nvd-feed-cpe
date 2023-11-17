@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:kubernetes:kubernetes:1.19.0:rc4",
-  "title": [
-    {
-      "text": "Kubernetes 1.19.0 Release Candidate 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/kubernetes/kubernetes/issues/95622"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/kubernetes/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc4:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:kubernetes:1.19.0:rc4",
+	"title": [
+		{
+			"text": "Kubernetes 1.19.0 Release Candidate 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/kubernetes/kubernetes/issues/95622"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/kubernetes/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.19.0:rc4:*:*:*:*:*:*"
+	}
 }

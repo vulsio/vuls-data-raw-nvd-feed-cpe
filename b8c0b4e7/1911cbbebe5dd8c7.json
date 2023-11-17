@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.5.8",
-  "title": [
-    {
-      "text": "Linux Kernel 5.5.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.5.8"
-    },
-    {
-      "text": "Version",
-      "href": "https://lwn.net/Articles/813932/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.5.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.5.8",
+	"title": [
+		{
+			"text": "Linux Kernel 5.5.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.5.8"
+		},
+		{
+			"text": "Version",
+			"href": "https://lwn.net/Articles/813932/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.5.8:*:*:*:*:*:*:*"
+	}
 }

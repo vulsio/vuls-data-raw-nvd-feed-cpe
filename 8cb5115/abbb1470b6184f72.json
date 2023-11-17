@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:emc:unisphere:1.1:-:~~~vmax~~",
-  "deprecated": true,
-  "deprecation_date": "2021-08-05T14:45:49.570Z",
-  "title": [
-    {
-      "text": "EMC Unisphere 1.1 for VMAX",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version infomation via EMC advisory",
-      "href": "http://archives.neohapsis.com/archives/bugtraq/2013-10/att-0155/ESA-2013-074.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:emc:unisphere:1.1:-:*:*:*:vmax:*:*",
-    "deprecation": {
-      "date": "2021-08-05T10:45:49.570-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:dell:emc_unisphere:1.1:*:*:*:*:vmax:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:emc:unisphere:1.1:-:~~~vmax~~",
+	"deprecated": true,
+	"deprecation_date": "2021-08-05T14:45:49.570Z",
+	"title": [
+		{
+			"text": "EMC Unisphere 1.1 for VMAX",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version infomation via EMC advisory",
+			"href": "http://archives.neohapsis.com/archives/bugtraq/2013-10/att-0155/ESA-2013-074.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:emc:unisphere:1.1:-:*:*:*:vmax:*:*",
+		"deprecation": {
+			"date": "2021-08-05T10:45:49.570-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:dell:emc_unisphere:1.1:*:*:*:*:vmax:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

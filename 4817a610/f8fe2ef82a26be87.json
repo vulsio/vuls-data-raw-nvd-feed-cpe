@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:seiko-sol:skybridge_mb-a100_firmware:-",
-  "title": [
-    {
-      "text": "Seiko Solutions Skybridge MB-A100 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36557"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.seiko-sol.co.jp/products/skybridge/lineup/mb-a100/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:seiko-sol:skybridge_mb-a100_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:seiko-sol:skybridge_mb-a100_firmware:-",
+	"title": [
+		{
+			"text": "Seiko Solutions Skybridge MB-A100 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36557"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.seiko-sol.co.jp/products/skybridge/lineup/mb-a100/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:seiko-sol:skybridge_mb-a100_firmware:-:*:*:*:*:*:*:*"
+	}
 }

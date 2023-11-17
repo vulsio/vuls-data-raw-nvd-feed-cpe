@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:chcnav:p5e_gnss_firmware:4.1",
-  "title": [
-    {
-      "text": "CHCNAV P5E GNSS Firmware 4.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://chcnav.com/product-detail/p5e-gnss#:~:text=P5E%3A%20Advanced%20GNSS%20Reference%20Station%20%7C%20CHCNAV&text=GNSS%20reference%20station%20for%20uninterrupted%20performances%20in%20geodetic%20and%20scientific%20applications.&text=Powered%20by%20a%20336%2Dchannel,surveying%20project%20and%20s"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/30xxx/CVE-2022-30622.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:chcnav:p5e_gnss_firmware:4.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:chcnav:p5e_gnss_firmware:4.1",
+	"title": [
+		{
+			"text": "CHCNAV P5E GNSS Firmware 4.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://chcnav.com/product-detail/p5e-gnss#:~:text=P5E%3A%20Advanced%20GNSS%20Reference%20Station%20%7C%20CHCNAV&text=GNSS%20reference%20station%20for%20uninterrupted%20performances%20in%20geodetic%20and%20scientific%20applications.&text=Powered%20by%20a%20336%2Dchannel,surveying%20project%20and%20s"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/30xxx/CVE-2022-30622.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:chcnav:p5e_gnss_firmware:4.1:*:*:*:*:*:*:*"
+	}
 }

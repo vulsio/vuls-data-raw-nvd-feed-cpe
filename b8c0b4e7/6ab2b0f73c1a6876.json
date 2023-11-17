@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:linux:linux_kernel:5.4.33",
-  "deprecated": true,
-  "deprecation_date": "2022-06-22T15:55:37.900Z",
-  "title": [
-    {
-      "text": "Linux Kernel 5.4.33",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.33"
-    },
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linux:linux_kernel:5.4.33:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-22T11:55:37.900-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:5.4.33:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:linux:linux_kernel:5.4.33",
+	"deprecated": true,
+	"deprecation_date": "2022-06-22T15:55:37.900Z",
+	"title": [
+		{
+			"text": "Linux Kernel 5.4.33",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.4.33"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linux:linux_kernel:5.4.33:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-22T11:55:37.900-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:5.4.33:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

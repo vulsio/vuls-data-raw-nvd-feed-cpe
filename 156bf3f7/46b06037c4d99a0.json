@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mozilla:pollbot:1.4.0",
-  "title": [
-    {
-      "text": "Mozilla PollBot 1.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/mozilla/PollBot/security/advisories/GHSA-jhgx-wmq8-jc24"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mozilla/PollBot/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.mozilla.org/en-US/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mozilla:pollbot:1.4.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mozilla:pollbot:1.4.0",
+	"title": [
+		{
+			"text": "Mozilla PollBot 1.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mozilla/PollBot/security/advisories/GHSA-jhgx-wmq8-jc24"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mozilla/PollBot/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mozilla.org/en-US/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:pollbot:1.4.0:*:*:*:*:*:*:*"
+	}
 }

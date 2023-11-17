@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puppetlabs:stdlib:2.4.0::~~~puppet~~",
-  "deprecated": true,
-  "deprecation_date": "2019-07-11T13:44:25.653Z",
-  "title": [
-    {
-      "text": "Puppetlabs stdlib for Puppet 2.4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "https://forge.puppetlabs.com/puppetlabs/stdlib/readme"
-    },
-    {
-      "text": "Product changelog",
-      "href": "https://forge.puppetlabs.com/puppetlabs/stdlib/changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puppetlabs:stdlib:2.4.0:*:*:*:*:puppet:*:*",
-    "deprecation": {
-      "date": "2019-07-11T09:44:25.653-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puppet:stdlib:2.4.0:*:*:*:*:puppet:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puppetlabs:stdlib:2.4.0::~~~puppet~~",
+	"deprecated": true,
+	"deprecation_date": "2019-07-11T13:44:25.653Z",
+	"title": [
+		{
+			"text": "Puppetlabs stdlib for Puppet 2.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "https://forge.puppetlabs.com/puppetlabs/stdlib/readme"
+		},
+		{
+			"text": "Product changelog",
+			"href": "https://forge.puppetlabs.com/puppetlabs/stdlib/changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puppetlabs:stdlib:2.4.0:*:*:*:*:puppet:*:*",
+		"deprecation": {
+			"date": "2019-07-11T09:44:25.653-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puppet:stdlib:2.4.0:*:*:*:*:puppet:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

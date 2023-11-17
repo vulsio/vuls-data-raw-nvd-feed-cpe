@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ca:ca_api_developer_portal:4.2.2",
-  "deprecated": true,
-  "deprecation_date": "2021-04-07T18:53:37.023Z",
-  "title": [
-    {
-      "text": "CA API Developer Portal 4.2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docops.ca.com/ca-api-developer-portal-enhanced-experience/4-2/en/release-notes-api-developer-portal/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:ca_api_developer_portal:4.2.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-07T14:53:37.023-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:ca_api_developer_portal:4.2.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:ca_api_developer_portal:4.2.2",
+	"deprecated": true,
+	"deprecation_date": "2021-04-07T18:53:37.023Z",
+	"title": [
+		{
+			"text": "CA API Developer Portal 4.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docops.ca.com/ca-api-developer-portal-enhanced-experience/4-2/en/release-notes-api-developer-portal/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:ca_api_developer_portal:4.2.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-07T14:53:37.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:ca_api_developer_portal:4.2.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

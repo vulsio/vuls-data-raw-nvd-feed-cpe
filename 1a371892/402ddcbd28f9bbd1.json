@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:adobe:acrobat_dc:2015.006.30060::~~classic~~~",
-  "deprecated": true,
-  "deprecation_date": "2019-03-06T18:58:20.217Z",
-  "title": [
-    {
-      "text": "Adobe Acrobat DC 2015.006.30060 Classic Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.adobe.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:adobe:acrobat_dc:2015.006.30060:*:*:*:classic:*:*:*",
-    "deprecation": {
-      "date": "2019-03-06T13:58:20.217-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:adobe:acrobat_dc:15.006.30060:*:*:*:classic:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:adobe:acrobat_dc:2015.006.30060::~~classic~~~",
+	"deprecated": true,
+	"deprecation_date": "2019-03-06T18:58:20.217Z",
+	"title": [
+		{
+			"text": "Adobe Acrobat DC 2015.006.30060 Classic Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://helpx.adobe.com/acrobat/release-note/release-notes-acrobat-reader.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.adobe.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:acrobat_dc:2015.006.30060:*:*:*:classic:*:*:*",
+		"deprecation": {
+			"date": "2019-03-06T13:58:20.217-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:acrobat_dc:15.006.30060:*:*:*:classic:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

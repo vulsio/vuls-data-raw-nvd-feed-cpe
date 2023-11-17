@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.1058",
-  "deprecated": true,
-  "deprecation_date": "2023-01-24T18:57:10.577Z",
-  "title": [
-    {
-      "text": "CentOS Web Panel 0.9.8.1058",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://centos-webpanel.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "http://centos-webpanel.com/changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.1058:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-01-24T13:57:10.577-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.1058:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:centos-webpanel:centos_web_panel:0.9.8.1058",
+	"deprecated": true,
+	"deprecation_date": "2023-01-24T18:57:10.577Z",
+	"title": [
+		{
+			"text": "CentOS Web Panel 0.9.8.1058",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://centos-webpanel.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "http://centos-webpanel.com/changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:centos-webpanel:centos_web_panel:0.9.8.1058:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-01-24T13:57:10.577-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:control-webpanel:webpanel:0.9.8.1058:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

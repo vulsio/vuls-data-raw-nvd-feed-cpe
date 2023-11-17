@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:chronoscan:chronoscan:1.5.4.3::~~enterprise~~~",
-  "title": [
-    {
-      "text": "ChronoScan Capture ChronoScan 1.5.4.3 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://redsec.io/chronoscan-enterprise-unauthenticated-sql-injection"
-    },
-    {
-      "text": "Product",
-      "href": "http://www.chronoscan.org/ent_features_default.asp"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:chronoscan:chronoscan:1.5.4.3:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:chronoscan:chronoscan:1.5.4.3::~~enterprise~~~",
+	"title": [
+		{
+			"text": "ChronoScan Capture ChronoScan 1.5.4.3 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://redsec.io/chronoscan-enterprise-unauthenticated-sql-injection"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.chronoscan.org/ent_features_default.asp"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:chronoscan:chronoscan:1.5.4.3:*:*:*:enterprise:*:*:*"
+	}
 }

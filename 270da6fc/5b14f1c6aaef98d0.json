@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:advisto:peel_shopping:9.2.1",
-  "deprecated": true,
-  "deprecation_date": "2021-02-22T18:45:38.033Z",
-  "title": [
-    {
-      "text": "Advisto Peel Shopping 9.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/advisto/peel-shopping"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.peel-shopping.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.advisto.fr/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:advisto:peel_shopping:9.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-22T13:45:38.033-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:peel:peel_shopping:9.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:advisto:peel_shopping:9.2.1",
+	"deprecated": true,
+	"deprecation_date": "2021-02-22T18:45:38.033Z",
+	"title": [
+		{
+			"text": "Advisto Peel Shopping 9.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/advisto/peel-shopping"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.peel-shopping.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.advisto.fr/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:advisto:peel_shopping:9.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-22T13:45:38.033-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:peel:peel_shopping:9.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

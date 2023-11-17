@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:elementor:elementor:2.9.4::~~pro~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2020-08-25T12:36:10.213Z",
-  "title": [
-    {
-      "text": "Elementor 2.9.4 Pro Edition for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://elementor.com/pro/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:elementor:elementor:2.9.4:*:*:*:pro:wordpress:*:*",
-    "deprecation": {
-      "date": "2020-08-25T08:36:10.213-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:elementor:elementor_page_builder:2.9.4:*:*:*:pro:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:elementor:elementor:2.9.4::~~pro~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2020-08-25T12:36:10.213Z",
+	"title": [
+		{
+			"text": "Elementor 2.9.4 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://elementor.com/pro/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:elementor:elementor:2.9.4:*:*:*:pro:wordpress:*:*",
+		"deprecation": {
+			"date": "2020-08-25T08:36:10.213-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:elementor:elementor_page_builder:2.9.4:*:*:*:pro:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

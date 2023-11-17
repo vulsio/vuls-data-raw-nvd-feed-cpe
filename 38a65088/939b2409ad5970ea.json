@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:6.0:u1",
-  "deprecated": true,
-  "deprecation_date": "2018-02-22T18:57:03.110Z",
-  "title": [
-    {
-      "text": "VMware vCenter Server 6.0 Update 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.vmware.com/products/vcenter-server.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:6.0:u1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-02-22T13:57:03.110-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:vcenter_server:6.0:1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:vcenter_server:6.0:u1",
+	"deprecated": true,
+	"deprecation_date": "2018-02-22T18:57:03.110Z",
+	"title": [
+		{
+			"text": "VMware vCenter Server 6.0 Update 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.vmware.com/products/vcenter-server.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:6.0:u1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-02-22T13:57:03.110-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:vcenter_server:6.0:1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

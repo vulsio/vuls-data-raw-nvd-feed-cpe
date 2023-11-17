@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:garden:garden:0.12.51::~~~kubernetes~~",
-  "title": [
-    {
-      "text": "Garden 0.12.51 for Kubernetes",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/garden-io/garden/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/garden-io/garden"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://garden.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:garden:garden:0.12.51:*:*:*:*:kubernetes:*:*"
-  }
+	"name": "cpe:/a:garden:garden:0.12.51::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Garden 0.12.51 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/garden-io/garden/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/garden-io/garden"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://garden.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:garden:garden:0.12.51:*:*:*:*:kubernetes:*:*"
+	}
 }

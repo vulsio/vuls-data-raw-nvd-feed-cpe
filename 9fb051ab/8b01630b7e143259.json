@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:ios:12.0sc",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:41.647Z",
-  "title": [
-    {
-      "text": "Cisco IOS 12.0SC",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:ios:12.0sc:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:41.647-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:ios:12.0sc:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:ios:12.0sc",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:41.647Z",
+	"title": [
+		{
+			"text": "Cisco IOS 12.0SC",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:ios:12.0sc:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:41.647-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:ios:12.0sc:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

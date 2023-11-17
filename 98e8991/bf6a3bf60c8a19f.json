@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:kernel:util-linux:2.24",
-  "deprecated": true,
-  "deprecation_date": "2020-09-10T18:08:26.293Z",
-  "title": [
-    {
-      "text": "Kernel util-linux 2.24",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www.kernel.org/pub/linux/utils/util-linux/"
-    },
-    {
-      "text": "Version",
-      "href": "https://cdn.kernel.org/pub/linux/utils/util-linux/v2.33"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kernel:util-linux:2.24:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-09-10T14:08:26.293-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kernel:util-linux:2.24:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:kernel:util-linux:2.24",
+	"deprecated": true,
+	"deprecation_date": "2020-09-10T18:08:26.293Z",
+	"title": [
+		{
+			"text": "Kernel util-linux 2.24",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www.kernel.org/pub/linux/utils/util-linux/"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/utils/util-linux/v2.33"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kernel:util-linux:2.24:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-09-10T14:08:26.293-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kernel:util-linux:2.24:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

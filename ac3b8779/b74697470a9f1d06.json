@@ -1,43 +1,43 @@
 {
-  "name": "cpe:/a:progress:ipswitch_ws_ftp_server:8.5.4",
-  "deprecated": true,
-  "deprecation_date": "2023-10-11T14:45:43.970Z",
-  "title": [
-    {
-      "text": "Progress WS_FTP Server 8.5.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://community.progress.com/s/article/How-do-I-upgrade-WS-FTP-Server"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.progress.com/ws_ftp"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://community.progress.com/s/article/WS-FTP-Server-Critical-Security-Product-Alert-Bulletin-January-2023?popup=true"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.progress.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://community.ipswitch.com/s/article/WS-FTP-Server-Previous-Version-Support-Documents-and-Guides"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:progress:ipswitch_ws_ftp_server:8.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-11T10:45:43.970-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:progress:ws_ftp_server:8.5.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:progress:ipswitch_ws_ftp_server:8.5.4",
+	"deprecated": true,
+	"deprecation_date": "2023-10-11T14:45:43.970Z",
+	"title": [
+		{
+			"text": "Progress WS_FTP Server 8.5.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://community.progress.com/s/article/How-do-I-upgrade-WS-FTP-Server"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.progress.com/ws_ftp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://community.progress.com/s/article/WS-FTP-Server-Critical-Security-Product-Alert-Bulletin-January-2023?popup=true"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.progress.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://community.ipswitch.com/s/article/WS-FTP-Server-Previous-Version-Support-Documents-and-Guides"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:progress:ipswitch_ws_ftp_server:8.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-11T10:45:43.970-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:progress:ws_ftp_server:8.5.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

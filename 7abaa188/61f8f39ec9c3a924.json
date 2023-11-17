@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/h:cisco:unified_contact_center_express:-",
-  "deprecated": true,
-  "deprecation_date": "2014-02-27T21:31:09.277Z",
-  "title": [
-    {
-      "text": "Cisco Unified Contact Center Express (aka Unified CCX)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:cisco:unified_contact_center_express:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2014-02-27T16:31:09.277-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:unified_contact_center_express_editor_software:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:cisco:unified_contact_center_express:-",
+	"deprecated": true,
+	"deprecation_date": "2014-02-27T21:31:09.277Z",
+	"title": [
+		{
+			"text": "Cisco Unified Contact Center Express (aka Unified CCX)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cisco:unified_contact_center_express:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2014-02-27T16:31:09.277-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:unified_contact_center_express_editor_software:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

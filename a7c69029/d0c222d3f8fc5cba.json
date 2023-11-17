@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:fit2cloud:kubepi:1.5.1",
-  "title": [
-    {
-      "text": "FIT2CLOUD KubePi 1.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.fit2cloud.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://kubeoperator.io/docs/kubepi/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/KubeOperator/KubePi/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/KubeOperator/KubePi/security/advisories/GHSA-vjhf-8vqx-vqpq"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fit2cloud:kubepi:1.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:fit2cloud:kubepi:1.5.1",
+	"title": [
+		{
+			"text": "FIT2CLOUD KubePi 1.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.fit2cloud.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://kubeoperator.io/docs/kubepi/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/KubeOperator/KubePi/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/KubeOperator/KubePi/security/advisories/GHSA-vjhf-8vqx-vqpq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fit2cloud:kubepi:1.5.1:*:*:*:*:*:*:*"
+	}
 }

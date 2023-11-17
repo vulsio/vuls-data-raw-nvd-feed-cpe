@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:postgresql:postgresql:11.21",
-  "title": [
-    {
-      "text": "PostgreSQL 11.21",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.postgresql.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.postgresql.org/support/versioning/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postgresql:postgresql:11.21:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:postgresql:postgresql:11.21",
+	"title": [
+		{
+			"text": "PostgreSQL 11.21",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.postgresql.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.postgresql.org/support/versioning/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgresql:postgresql:11.21:*:*:*:*:*:*:*"
+	}
 }

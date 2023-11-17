@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:baxter:em1200_firmware:1.1",
-  "title": [
-    {
-      "text": "Baxter EM1200 Firmware 1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-170-01"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.baxtermedicationdeliveryproducts.com/pdf/Exactamix%20Proven%20Choice%20Brochure.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:baxter:em1200_firmware:1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:baxter:em1200_firmware:1.1",
+	"title": [
+		{
+			"text": "Baxter EM1200 Firmware 1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsma-20-170-01"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.baxtermedicationdeliveryproducts.com/pdf/Exactamix%20Proven%20Choice%20Brochure.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:baxter:em1200_firmware:1.1:*:*:*:*:*:*:*"
+	}
 }

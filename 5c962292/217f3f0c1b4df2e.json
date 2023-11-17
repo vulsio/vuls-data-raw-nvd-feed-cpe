@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:microsoft:windows_10:1511::~~~~x64~",
-  "deprecated": true,
-  "deprecation_date": "2022-12-09T18:15:16.973Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 1511 64-bit",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product Information",
-      "href": "https://support.microsoft.com/en-us/kb/3105211"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10:1511:*:*:*:*:*:x64:*",
-    "deprecation": {
-      "date": "2022-12-09T13:15:16.973-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_1511:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10:1511::~~~~x64~",
+	"deprecated": true,
+	"deprecation_date": "2022-12-09T18:15:16.973Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 1511 64-bit",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product Information",
+			"href": "https://support.microsoft.com/en-us/kb/3105211"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10:1511:*:*:*:*:*:x64:*",
+		"deprecation": {
+			"date": "2022-12-09T13:15:16.973-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_1511:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

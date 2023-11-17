@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:redhat:resteasy:2.0.0",
-  "deprecated": true,
-  "deprecation_date": "2021-06-03T17:02:38.370Z",
-  "title": [
-    {
-      "text": "RedHat RESTeasy 2.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:resteasy:2.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-03T13:02:38.370-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:resteasy:2.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:resteasy:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2021-06-03T17:02:38.370Z",
+	"title": [
+		{
+			"text": "RedHat RESTeasy 2.0.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:resteasy:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-03T13:02:38.370-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:resteasy:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

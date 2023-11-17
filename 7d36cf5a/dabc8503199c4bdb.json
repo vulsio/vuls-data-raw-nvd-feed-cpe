@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:kuka:kss:-",
-  "title": [
-    {
-      "text": "KUKA System Software (KSS)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.kuka.com/en-us/products/robotics-systems/software/system-software"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.kuka.com/en-us/products/robotics-systems/software/system-software/kuka_systemsoftware"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-208-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:kuka:kss:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:kuka:kss:-",
+	"title": [
+		{
+			"text": "KUKA System Software (KSS)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kuka.com/en-us/products/robotics-systems/software/system-software"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.kuka.com/en-us/products/robotics-systems/software/system-software/kuka_systemsoftware"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/uscert/ics/advisories/icsa-21-208-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:kuka:kss:-:*:*:*:*:*:*:*"
+	}
 }

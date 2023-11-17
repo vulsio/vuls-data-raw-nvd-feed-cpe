@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:autopi:4g%2flte_firmware:-",
-  "title": [
-    {
-      "text": "AutoPi 4G/LTE Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.kth.se/polopoly_fs/1.931922.1571071632!/Burdzovic_Matsson_dongle_v2.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.autopi.io/blog/autopi-wifi-edition-with-narrowband-cat-m1/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:autopi:4g\\/lte_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:autopi:4g%2flte_firmware:-",
+	"title": [
+		{
+			"text": "AutoPi 4G/LTE Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.kth.se/polopoly_fs/1.931922.1571071632!/Burdzovic_Matsson_dongle_v2.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.autopi.io/blog/autopi-wifi-edition-with-narrowband-cat-m1/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:autopi:4g\\/lte_firmware:-:*:*:*:*:*:*:*"
+	}
 }

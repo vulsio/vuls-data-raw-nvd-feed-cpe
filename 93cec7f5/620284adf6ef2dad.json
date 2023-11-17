@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:docker:0.5.3",
-  "title": [
-    {
-      "text": "Docker 0.5.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.docker.com/release-notes/docker-engine/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.docker.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:docker:0.5.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:docker:0.5.3",
+	"title": [
+		{
+			"text": "Docker 0.5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.docker.com/release-notes/docker-engine/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.docker.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:docker:0.5.3:*:*:*:*:*:*:*"
+	}
 }

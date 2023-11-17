@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_2000_terminal_services:-:sp3",
-  "deprecated": true,
-  "deprecation_date": "2010-12-29T17:11:00.103Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 2000 Terminal Services Service Pack 3",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_2000_terminal_services:-:sp3:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-29T12:11:00.103-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:windows_2000_terminal_services:-:sp3:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_2000_terminal_services:-:sp3",
+	"deprecated": true,
+	"deprecation_date": "2010-12-29T17:11:00.103Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 2000 Terminal Services Service Pack 3",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_2000_terminal_services:-:sp3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-29T12:11:00.103-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:windows_2000_terminal_services:-:sp3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

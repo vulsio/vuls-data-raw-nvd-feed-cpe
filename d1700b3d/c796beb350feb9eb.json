@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:matrix:synapse:1.85.0:rc1",
-  "title": [
-    {
-      "text": "Matrix Synapse 1.85.0 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/matrix-org/synapse"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://matrix.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/matrix-org/synapse/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:matrix:synapse:1.85.0:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:matrix:synapse:1.85.0:rc1",
+	"title": [
+		{
+			"text": "Matrix Synapse 1.85.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/matrix-org/synapse"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://matrix.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/matrix-org/synapse/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matrix:synapse:1.85.0:rc1:*:*:*:*:*:*"
+	}
 }

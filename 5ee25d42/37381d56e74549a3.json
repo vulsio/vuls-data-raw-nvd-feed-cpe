@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:sylabs:singularity_image_format:2.3.2",
-  "title": [
-    {
-      "text": "Sylabs Singularity Image Format 2.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sylabs/sif/security/advisories/GHSA-m5m3-46gj-wch8"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/sylabs/sif/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sylabs:singularity_image_format:2.3.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:sylabs:singularity_image_format:2.3.2",
+	"title": [
+		{
+			"text": "Sylabs Singularity Image Format 2.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sylabs/sif/security/advisories/GHSA-m5m3-46gj-wch8"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/sylabs/sif/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sylabs:singularity_image_format:2.3.2:*:*:*:*:*:*:*"
+	}
 }

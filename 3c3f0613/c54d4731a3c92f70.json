@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:dell:dbutildrv2.sys:2.5",
-  "title": [
-    {
-      "text": "Dell DBUtilDrv2.sys driver 2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.dell.com/support/kbdoc/en-us/000190105/dsa-2021-152-dell-client-platform-security-update-for-an-insufficient-access-control-vulnerability-in-the-dell-dbutildrv2-sys-driver"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.dell.com/en-us"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:dell:dbutildrv2.sys:2.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:dell:dbutildrv2.sys:2.5",
+	"title": [
+		{
+			"text": "Dell DBUtilDrv2.sys driver 2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000190105/dsa-2021-152-dell-client-platform-security-update-for-an-insufficient-access-control-vulnerability-in-the-dell-dbutildrv2-sys-driver"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.dell.com/en-us"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:dbutildrv2.sys:2.5:*:*:*:*:*:*:*"
+	}
 }

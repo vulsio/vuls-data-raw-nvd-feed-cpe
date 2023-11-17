@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:oracle:jre:1.5.0:update_36",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T14:49:14.883Z",
-  "title": [
-    {
-      "text": "Oracle JRE 1.5.0 Update 36",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jre:1.5.0:update_36:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T10:49:14.883-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jre:1.5.0:update36:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jre:1.5.0:update_36",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T14:49:14.883Z",
+	"title": [
+		{
+			"text": "Oracle JRE 1.5.0 Update 36",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jre:1.5.0:update_36:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T10:49:14.883-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jre:1.5.0:update36:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

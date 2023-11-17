@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:freebsd:freebsd:12.1:p5",
-  "title": [
-    {
-      "text": "FreeBSD FreeBSD 12.1 Patch 5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-20:17.usb.asc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.freebsd.org/security/advisories/FreeBSD-EN-20:10.build.asc"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:freebsd:freebsd:12.1:p5:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:freebsd:freebsd:12.1:p5",
+	"title": [
+		{
+			"text": "FreeBSD FreeBSD 12.1 Patch 5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-20:17.usb.asc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories/FreeBSD-EN-20:10.build.asc"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:12.1:p5:*:*:*:*:*:*"
+	}
 }

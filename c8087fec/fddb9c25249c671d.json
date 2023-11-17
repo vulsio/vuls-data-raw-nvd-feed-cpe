@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:cloudbase:open_vswitch:3.1.1",
-  "title": [
-    {
-      "text": "Cloudbase Open vSwitch 3.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://cloudbase.it/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.openwall.com/lists/oss-security/2023/04/06/1"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/openvswitch/ovs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudbase:open_vswitch:3.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:cloudbase:open_vswitch:3.1.1",
+	"title": [
+		{
+			"text": "Cloudbase Open vSwitch 3.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://cloudbase.it/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2023/04/06/1"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/openvswitch/ovs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudbase:open_vswitch:3.1.1:*:*:*:*:*:*:*"
+	}
 }

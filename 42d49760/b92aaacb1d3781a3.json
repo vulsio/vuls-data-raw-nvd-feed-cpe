@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:selenium:selenium_grid:4.0.0:alpha3",
-  "title": [
-    {
-      "text": "Selenium Selenium Grid 4.0.0 Alpha 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.gabriel.urdhr.fr/2022/02/07/selenium-standalone-server-csrf-dns-rebinding-rce/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/SeleniumHQ/selenium/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.selenium.dev/documentation/grid/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:selenium:selenium_grid:4.0.0:alpha3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:selenium:selenium_grid:4.0.0:alpha3",
+	"title": [
+		{
+			"text": "Selenium Selenium Grid 4.0.0 Alpha 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.gabriel.urdhr.fr/2022/02/07/selenium-standalone-server-csrf-dns-rebinding-rce/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/SeleniumHQ/selenium/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.selenium.dev/documentation/grid/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:selenium:selenium_grid:4.0.0:alpha3:*:*:*:*:*:*"
+	}
 }

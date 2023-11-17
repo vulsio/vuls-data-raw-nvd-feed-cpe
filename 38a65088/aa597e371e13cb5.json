@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:5.0",
-  "deprecated": true,
-  "deprecation_date": "2020-07-13T11:17:03.360Z",
-  "title": [
-    {
-      "text": "VMware vCenter Server 5.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:5.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-13T07:17:03.360-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:vcenter_server:5.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:vcenter_server:5.0",
+	"deprecated": true,
+	"deprecation_date": "2020-07-13T11:17:03.360Z",
+	"title": [
+		{
+			"text": "VMware vCenter Server 5.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-13T07:17:03.360-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:vcenter_server:5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

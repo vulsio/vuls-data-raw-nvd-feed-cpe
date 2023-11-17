@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:zeromq:libzmq:4.3.2",
-  "title": [
-    {
-      "text": "ZeroMQ libzmq 4.3.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://zeromq.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/zeromq/libzmq"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.tenable.com/cve/CVE-2019-13132"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zeromq:libzmq:4.3.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zeromq:libzmq:4.3.2",
+	"title": [
+		{
+			"text": "ZeroMQ libzmq 4.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://zeromq.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/zeromq/libzmq"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/cve/CVE-2019-13132"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zeromq:libzmq:4.3.2:*:*:*:*:*:*:*"
+	}
 }

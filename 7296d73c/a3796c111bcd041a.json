@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tableau:server:2020.3.3",
-  "deprecated": true,
-  "deprecation_date": "2020-12-01T12:54:03.373Z",
-  "title": [
-    {
-      "text": "Tableau Server 2020.3.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.tableau.com/support/releases/server"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tableau:server:2020.3.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-01T07:54:03.373-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:tableau:tableau_server:2020.3.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tableau:server:2020.3.3",
+	"deprecated": true,
+	"deprecation_date": "2020-12-01T12:54:03.373Z",
+	"title": [
+		{
+			"text": "Tableau Server 2020.3.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.tableau.com/support/releases/server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tableau:server:2020.3.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-01T07:54:03.373-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tableau:tableau_server:2020.3.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

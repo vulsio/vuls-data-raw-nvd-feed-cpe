@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:foxitsoftware:pdf_reader:11.0.0.49893",
-  "deprecated": true,
-  "deprecation_date": "2022-02-08T18:30:22.343Z",
-  "title": [
-    {
-      "text": "Foxit Software PDF Reader 11.0.0.49893",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.foxit.com/pdf-reader/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.foxit.com/support/security-bulletins.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:foxitsoftware:pdf_reader:11.0.0.49893:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-08T13:30:22.343-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:foxit:pdf_reader:11.0.0.49893:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:foxitsoftware:pdf_reader:11.0.0.49893",
+	"deprecated": true,
+	"deprecation_date": "2022-02-08T18:30:22.343Z",
+	"title": [
+		{
+			"text": "Foxit Software PDF Reader 11.0.0.49893",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.foxit.com/pdf-reader/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.foxit.com/support/security-bulletins.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:foxitsoftware:pdf_reader:11.0.0.49893:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-08T13:30:22.343-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:foxit:pdf_reader:11.0.0.49893:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

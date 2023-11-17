@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:apache:deltaspike:1.9.2",
-  "title": [
-    {
-      "text": "Apache Software Foundation DeltaSpike 1.9.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://issues.apache.org/jira/issues/?jql=project%20%3D%20DELTASPIKE%20AND%20fixVersion%20%3D%201.9.3"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread.html/r8f327712b2b07f867fde1e77cbafcf8cc6a3facaa693ffdd2c3285e3%40%3Cdev.deltaspike.apache.org%3E"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:deltaspike:1.9.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:deltaspike:1.9.2",
+	"title": [
+		{
+			"text": "Apache Software Foundation DeltaSpike 1.9.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://issues.apache.org/jira/issues/?jql=project%20%3D%20DELTASPIKE%20AND%20fixVersion%20%3D%201.9.3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread.html/r8f327712b2b07f867fde1e77cbafcf8cc6a3facaa693ffdd2c3285e3%40%3Cdev.deltaspike.apache.org%3E"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:deltaspike:1.9.2:*:*:*:*:*:*:*"
+	}
 }

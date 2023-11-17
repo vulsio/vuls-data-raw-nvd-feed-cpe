@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/h:apple:iphone:1.02",
-  "deprecated": true,
-  "deprecation_date": "2022-08-09T13:48:52.630Z",
-  "title": [
-    {
-      "text": "アップル iPhone 1.02",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Apple iPhone 1.02",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://apple.fandom.com/wiki/IOS_1"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.apple.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:apple:iphone:1.02:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-08-09T09:48:52.630-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:apple:iphone_os:1.0.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:apple:iphone:1.02",
+	"deprecated": true,
+	"deprecation_date": "2022-08-09T13:48:52.630Z",
+	"title": [
+		{
+			"text": "アップル iPhone 1.02",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Apple iPhone 1.02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://apple.fandom.com/wiki/IOS_1"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.apple.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:apple:iphone:1.02:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-08-09T09:48:52.630-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:iphone_os:1.0.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

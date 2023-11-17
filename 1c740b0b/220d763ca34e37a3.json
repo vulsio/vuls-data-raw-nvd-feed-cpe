@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:stylist_project:stylist:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Stylist Project Stylist - for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/stylist/wordpress-extra-block-design-style-css-for-any-gutenberg-blocks-plugin-0-2-6-cross-site-request-forgery-csrf?_s_id=cve"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/stylist/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:stylist_project:stylist:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:stylist_project:stylist:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Stylist Project Stylist - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/stylist/wordpress-extra-block-design-style-css-for-any-gutenberg-blocks-plugin-0-2-6-cross-site-request-forgery-csrf?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/stylist/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stylist_project:stylist:-:*:*:*:*:wordpress:*:*"
+	}
 }

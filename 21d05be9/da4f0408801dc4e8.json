@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:microsoft:windows_10_20h2:10.0.19044.2965::~~~~x64~",
-  "deprecated": true,
-  "deprecation_date": "2023-10-19T18:30:07.707Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 20h2 10.0.19044.2965 on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19044.2965:*:*:*:*:*:x64:*",
-    "deprecation": {
-      "date": "2023-10-19T14:30:07.707-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.2965:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10_20h2:10.0.19044.2965::~~~~x64~",
+	"deprecated": true,
+	"deprecation_date": "2023-10-19T18:30:07.707Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 20h2 10.0.19044.2965 on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10_20h2:10.0.19044.2965:*:*:*:*:*:x64:*",
+		"deprecation": {
+			"date": "2023-10-19T14:30:07.707-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.2965:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

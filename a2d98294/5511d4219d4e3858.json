@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mbed:mbedtls:2.7.16",
-  "deprecated": true,
-  "deprecation_date": "2020-11-05T15:54:42.007Z",
-  "title": [
-    {
-      "text": "mbedTLS 2.7.16",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ARMmbed/mbedtls/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-1"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mbed:mbedtls:2.7.16:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-05T10:54:42.007-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arm:mbed_tls:2.7.16:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mbed:mbedtls:2.7.16",
+	"deprecated": true,
+	"deprecation_date": "2020-11-05T15:54:42.007Z",
+	"title": [
+		{
+			"text": "mbedTLS 2.7.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ARMmbed/mbedtls/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mbed:mbedtls:2.7.16:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-05T10:54:42.007-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arm:mbed_tls:2.7.16:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:freedesktop:systemd:238",
-  "deprecated": true,
-  "deprecation_date": "2022-01-28T19:09:42.747Z",
-  "title": [
-    {
-      "text": "freedesktop Systemd 238",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/systemd/systemd/releases?after=v231"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freedesktop:systemd:238:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-28T14:09:42.747-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freedesktop:systemd:238",
+	"deprecated": true,
+	"deprecation_date": "2022-01-28T19:09:42.747Z",
+	"title": [
+		{
+			"text": "freedesktop Systemd 238",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/systemd/systemd/releases?after=v231"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freedesktop:systemd:238:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-28T14:09:42.747-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:systemd_project:systemd:238:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:samba:ppp:-::~~~linux~~",
-  "title": [
-    {
-      "text": "Samba PPP (Paul's PPP Package) for Linux",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ppp-project/ppp/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ppp-project/ppp/commit/a75fb7b198eed50d769c80c36629f38346882cbf"
-    },
-    {
-      "text": "Product",
-      "href": "https://ppp.samba.org/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:samba:ppp:-:*:*:*:*:linux:*:*"
-  }
+	"name": "cpe:/a:samba:ppp:-::~~~linux~~",
+	"title": [
+		{
+			"text": "Samba PPP (Paul's PPP Package) for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ppp-project/ppp/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ppp-project/ppp/commit/a75fb7b198eed50d769c80c36629f38346882cbf"
+		},
+		{
+			"text": "Product",
+			"href": "https://ppp.samba.org/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samba:ppp:-:*:*:*:*:linux:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:haxx:libcurl:7.65.3",
-  "title": [
-    {
-      "text": "Haxx libcurl 7.65.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://curl.se/docs/CVE-2020-8231.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://hackerone.com/reports/948876"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/curl/curl/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:haxx:libcurl:7.65.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:haxx:libcurl:7.65.3",
+	"title": [
+		{
+			"text": "Haxx libcurl 7.65.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://curl.se/docs/CVE-2020-8231.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/948876"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/curl/curl/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:haxx:libcurl:7.65.3:*:*:*:*:*:*:*"
+	}
 }

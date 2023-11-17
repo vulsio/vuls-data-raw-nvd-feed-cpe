@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pivotal:on_demand_service_broker:0.27.0",
-  "title": [
-    {
-      "text": "Pivotal On Demand Service Broker 0.27.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/pivotal-cf/on-demand-service-broker/releases?after=v0.17.1-alpha1"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://pivotal.io/security/cve-2019-3800"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pivotal:on_demand_service_broker:0.27.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:pivotal:on_demand_service_broker:0.27.0",
+	"title": [
+		{
+			"text": "Pivotal On Demand Service Broker 0.27.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/pivotal-cf/on-demand-service-broker/releases?after=v0.17.1-alpha1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cloudfoundry.org/blog/cve-2019-3800/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pivotal.io/security/cve-2019-3800"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:on_demand_service_broker:0.27.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_vista:-::x64-ultimate",
-  "deprecated": true,
-  "deprecation_date": "2019-04-30T12:34:26.930Z",
-  "title": [
-    {
-      "text": "Microsoft Windows Vista x64 (64-bit) Ultimate Edition",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-ultimate:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-04-30T08:34:26.930-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_vista:-::x64-ultimate",
+	"deprecated": true,
+	"deprecation_date": "2019-04-30T12:34:26.930Z",
+	"title": [
+		{
+			"text": "Microsoft Windows Vista x64 (64-bit) Ultimate Edition",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_vista:-:*:x64-ultimate:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-04-30T08:34:26.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_vista:-:-:*:*:ultimate:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

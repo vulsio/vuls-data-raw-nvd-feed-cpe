@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2016:-:-:~~multipoint_premium_server~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2016 Multipoint Premium Server Edition on X64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.microsoft.com/en-us/windows-server/remote/multipoint-services/introducing-multipoint-services"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2016:-:-:~~multipoint_premium_server~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2016 Multipoint Premium Server Edition on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.microsoft.com/en-us/windows-server/remote/multipoint-services/introducing-multipoint-services"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2016:-:-:*:*:multipoint_premium_server:*:x64:*"
+	}
 }

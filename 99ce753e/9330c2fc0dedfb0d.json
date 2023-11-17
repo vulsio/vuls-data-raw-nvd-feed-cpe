@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:core_i5-6600_firmware:-",
-  "title": [
-    {
-      "text": "Intel Core i5-6600 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/content/www/us/en/ark/products/series/88393/6th-generation-intel-core-i5-processors.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00164.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:core_i5-6600_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:core_i5-6600_firmware:-",
+	"title": [
+		{
+			"text": "Intel Core i5-6600 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/content/www/us/en/ark/products/series/88393/6th-generation-intel-core-i5-processors.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00164.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:core_i5-6600_firmware:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:abb:gms600_firmware:-",
-  "deprecated": true,
-  "deprecation_date": "2023-05-16T20:59:37.567Z",
-  "title": [
-    {
-      "text": "ABB GMS600 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://global.abb/group/en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A9058&LanguageCode=en&DocumentPartId=&Action=Launch"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:abb:gms600_firmware:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-16T16:59:37.567-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:hitachienergy:gms600_firmware:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:abb:gms600_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2023-05-16T20:59:37.567Z",
+	"title": [
+		{
+			"text": "ABB GMS600 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://global.abb/group/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A9058&LanguageCode=en&DocumentPartId=&Action=Launch"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:abb:gms600_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-16T16:59:37.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:hitachienergy:gms600_firmware:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

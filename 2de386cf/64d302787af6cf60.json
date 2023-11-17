@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cloudbees:jenkins:1.378",
-  "deprecated": true,
-  "deprecation_date": "2016-06-13T10:55:26.450Z",
-  "title": [
-    {
-      "text": "CloudBees Jenkins 1.378",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cloudbees:jenkins:1.378:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-06-13T06:55:26.450-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:jenkins:jenkins:1.378:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cloudbees:jenkins:1.378",
+	"deprecated": true,
+	"deprecation_date": "2016-06-13T10:55:26.450Z",
+	"title": [
+		{
+			"text": "CloudBees Jenkins 1.378",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudbees:jenkins:1.378:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-06-13T06:55:26.450-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:jenkins:1.378:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

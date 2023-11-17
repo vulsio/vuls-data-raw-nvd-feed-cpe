@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:redhat:ansible_automation_platform:2.4",
-  "title": [
-    {
-      "text": "Red Hat Ansible Automation Platform 2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/errata/RHSA-2023:4590"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2023-3971"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:ansible_automation_platform:2.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:ansible_automation_platform:2.4",
+	"title": [
+		{
+			"text": "Red Hat Ansible Automation Platform 2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2023:4590"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2023-3971"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:ansible_automation_platform:2.4:*:*:*:*:*:*:*"
+	}
 }

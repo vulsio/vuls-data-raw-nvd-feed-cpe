@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:novell:suse_linux_enterprise_software_development_kit:12.0:sp1",
-  "deprecated": true,
-  "deprecation_date": "2023-09-12T14:45:03.143Z",
-  "title": [
-    {
-      "text": "Novell SUSE Linux Enterprise Software Development Kit 12.0 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.suse.com/releasenotes/"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.suse.com/releasenotes/index.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.suse.com/products/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:novell:suse_linux_enterprise_software_development_kit:12.0:sp1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-12T10:45:03.143-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:novell:suse_linux_enterprise_software_development_kit:12.0:sp1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:novell:suse_linux_enterprise_software_development_kit:12.0:sp1",
+	"deprecated": true,
+	"deprecation_date": "2023-09-12T14:45:03.143Z",
+	"title": [
+		{
+			"text": "Novell SUSE Linux Enterprise Software Development Kit 12.0 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.suse.com/releasenotes/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.suse.com/releasenotes/index.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.suse.com/products/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:novell:suse_linux_enterprise_software_development_kit:12.0:sp1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-12T10:45:03.143-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:novell:suse_linux_enterprise_software_development_kit:12.0:sp1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

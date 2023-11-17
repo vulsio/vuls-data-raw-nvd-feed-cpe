@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:paloaltonetworks:prisma_access:2.2::~~preferred~~~",
-  "title": [
-    {
-      "text": "Palo Alto Networks Prisma Access 2.2 Preferred Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.paloaltonetworks.com/CVE-2022-0011"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.paloaltonetworks.com/prisma/prisma-access/preferred/2-2/prisma-access-panorama-admin/prepare-the-prisma-access-infrastructure/get-started-with-prisma-access-overview.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paloaltonetworks:prisma_access:2.2:*:*:*:preferred:*:*:*"
-  }
+	"name": "cpe:/a:paloaltonetworks:prisma_access:2.2::~~preferred~~~",
+	"title": [
+		{
+			"text": "Palo Alto Networks Prisma Access 2.2 Preferred Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.paloaltonetworks.com/CVE-2022-0011"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.paloaltonetworks.com/prisma/prisma-access/preferred/2-2/prisma-access-panorama-admin/prepare-the-prisma-access-infrastructure/get-started-with-prisma-access-overview.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paloaltonetworks:prisma_access:2.2:*:*:*:preferred:*:*:*"
+	}
 }

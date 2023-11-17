@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:vm_virtualbox:6.0.14",
-  "title": [
-    {
-      "text": "Oracle VM VirtualBox 6.0.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:vm_virtualbox:6.0.14:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:vm_virtualbox:6.0.14",
+	"title": [
+		{
+			"text": "Oracle VM VirtualBox 6.0.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.oracle.com/technetwork/security-advisory/cpuoct2019-5072832.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:vm_virtualbox:6.0.14:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:cadence_vmanager:3.0.0::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Cadence vManager 3.0.0 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/vmanager-plugin/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1936"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/vmanager-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:cadence_vmanager:3.0.0:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:cadence_vmanager:3.0.0::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Cadence vManager 3.0.0 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/vmanager-plugin/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2020-09-01/#SECURITY-1936"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/vmanager-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:cadence_vmanager:3.0.0:*:*:*:*:jenkins:*:*"
+	}
 }

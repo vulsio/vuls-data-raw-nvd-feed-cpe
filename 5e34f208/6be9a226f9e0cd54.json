@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:abb:ip_gateway:-",
-  "title": [
-    {
-      "text": "ABB IP Gateway",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://new.abb.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-18-156-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:abb:ip_gateway:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:abb:ip_gateway:-",
+	"title": [
+		{
+			"text": "ABB IP Gateway",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://new.abb.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-18-156-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:abb:ip_gateway:-:*:*:*:*:*:*:*"
+	}
 }

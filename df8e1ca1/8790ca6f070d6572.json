@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:suse:linux_enterprise_server:12::~~ltss~~~",
-  "title": [
-    {
-      "text": "SUSE Linux Enterprise Server (SLES) 12 Ltss Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://lists.opensuse.org/opensuse-security-announce/2017-02/msg00048.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:suse:linux_enterprise_server:12:*:*:*:ltss:*:*:*"
-  }
+	"name": "cpe:/o:suse:linux_enterprise_server:12::~~ltss~~~",
+	"title": [
+		{
+			"text": "SUSE Linux Enterprise Server (SLES) 12 Ltss Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://lists.opensuse.org/opensuse-security-announce/2017-02/msg00048.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:suse:linux_enterprise_server:12:*:*:*:ltss:*:*:*"
+	}
 }

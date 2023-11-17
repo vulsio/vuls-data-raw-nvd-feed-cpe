@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:libav:libav:9.0:beta3",
-  "title": [
-    {
-      "text": "libav 9.0 Beta3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.12"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://libav.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://libav.org/releases/libav-11.11.changelog"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libav:libav:9.0:beta3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:libav:libav:9.0:beta3",
+	"title": [
+		{
+			"text": "libav 9.0 Beta3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://git.libav.org/?p=libav.git;a=blob;f=Changelog;hb=refs/tags/v11.12"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://libav.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://libav.org/releases/libav-11.11.changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libav:libav:9.0:beta3:*:*:*:*:*:*"
+	}
 }

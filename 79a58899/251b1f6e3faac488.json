@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:magento:magento:2.2.11::~~commerce~~~",
-  "title": [
-    {
-      "text": "Magento 2.2.11 Commerce Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://magento.com/tech-resources/download"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://helpx.adobe.com/security/products/magento/apsb20-22.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:magento:magento:2.2.11:*:*:*:commerce:*:*:*"
-  }
+	"name": "cpe:/a:magento:magento:2.2.11::~~commerce~~~",
+	"title": [
+		{
+			"text": "Magento 2.2.11 Commerce Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://magento.com/tech-resources/download"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/magento/apsb20-22.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:magento:magento:2.2.11:*:*:*:commerce:*:*:*"
+	}
 }

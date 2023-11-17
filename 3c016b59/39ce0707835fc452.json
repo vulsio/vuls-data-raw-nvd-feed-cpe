@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:clamav:clamav:0.103.0::~~lts~~~",
-  "title": [
-    {
-      "text": "ClamAV 0.103.0 LTS Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.clamav.net/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Cisco-Talos/clamav/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.clamav.net/downloads"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:clamav:clamav:0.103.0:*:*:*:lts:*:*:*"
-  }
+	"name": "cpe:/a:clamav:clamav:0.103.0::~~lts~~~",
+	"title": [
+		{
+			"text": "ClamAV 0.103.0 LTS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.clamav.net/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Cisco-Talos/clamav/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.clamav.net/downloads"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clamav:clamav:0.103.0:*:*:*:lts:*:*:*"
+	}
 }

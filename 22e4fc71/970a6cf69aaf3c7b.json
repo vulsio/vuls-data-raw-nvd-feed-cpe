@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:apache:groovy:3.0.0:-",
-  "title": [
-    {
-      "text": "Apache Software Foundation Groovy 3.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://groovy-lang.org/index.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/apache/groovy/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://groovy-lang.org/security.html#CVE-2020-17521"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:groovy:3.0.0:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:groovy:3.0.0:-",
+	"title": [
+		{
+			"text": "Apache Software Foundation Groovy 3.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://groovy-lang.org/index.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/groovy/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://groovy-lang.org/security.html#CVE-2020-17521"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:groovy:3.0.0:-:*:*:*:*:*:*"
+	}
 }

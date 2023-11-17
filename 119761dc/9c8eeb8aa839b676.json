@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:trendnet:tew-827dru_firmware:2.04",
-  "title": [
-    {
-      "text": "TRENDnet TEW-827DRU Firmware 2.04",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.trendnet.com/home"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/fuzzywalls/TRENDNetExploits/tree/master/CVE-2019-13280"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.trendnet.com/support/support-detail.asp?prod=100_TEW-827DRU"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:trendnet:tew-827dru_firmware:2.04:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:trendnet:tew-827dru_firmware:2.04",
+	"title": [
+		{
+			"text": "TRENDnet TEW-827DRU Firmware 2.04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.trendnet.com/home"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fuzzywalls/TRENDNetExploits/tree/master/CVE-2019-13280"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.trendnet.com/support/support-detail.asp?prod=100_TEW-827DRU"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:trendnet:tew-827dru_firmware:2.04:*:*:*:*:*:*:*"
+	}
 }

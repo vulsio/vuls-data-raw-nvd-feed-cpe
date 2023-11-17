@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:siemens:logo%21_8_bm_firmware:-",
-  "title": [
-    {
-      "text": "Siemens LOGO! 8 BM Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-161-03"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.industry.siemens.com/cs/document/109749864/sales-and-delivery-release-for-logo!-8-bm-fs05-and-logo!-soft-comfort-v8-1-1-(sp1)?dti=0&lc=en-WW"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:logo\\!_8_bm_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:logo%21_8_bm_firmware:-",
+	"title": [
+		{
+			"text": "Siemens LOGO! 8 BM Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-161-03"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.industry.siemens.com/cs/document/109749864/sales-and-delivery-release-for-logo!-8-bm-fs05-and-logo!-soft-comfort-v8-1-1-(sp1)?dti=0&lc=en-WW"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:logo\\!_8_bm_firmware:-:*:*:*:*:*:*:*"
+	}
 }

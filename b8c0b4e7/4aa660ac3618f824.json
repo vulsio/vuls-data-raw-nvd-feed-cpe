@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:linux:linux_kernel:5.8",
-  "deprecated": true,
-  "deprecation_date": "2023-06-05T20:37:24.040Z",
-  "title": [
-    {
-      "text": "Linux Kernel 5.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.kernel.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/torvalds/linux/tags"
-    },
-    {
-      "text": "Project",
-      "href": "https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linux:linux_kernel:5.8:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-06-05T16:37:24.040-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linux:linux_kernel:5.8:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linux:linux_kernel:5.8",
+	"deprecated": true,
+	"deprecation_date": "2023-06-05T20:37:24.040Z",
+	"title": [
+		{
+			"text": "Linux Kernel 5.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/torvalds/linux/tags"
+		},
+		{
+			"text": "Project",
+			"href": "https://lore.kernel.org/lkml/CAHk-=whfuea587g8rh2DeLFFGYxiVuh-bzq22osJwz3q4SOfmA@mail.gmail.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-06-05T16:37:24.040-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:5.8:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

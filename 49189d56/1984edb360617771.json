@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:honeywell:controledge_plc_firmware:r140",
-  "title": [
-    {
-      "text": "Honeywell ControlEdge PLC Firmware R140",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-175-02"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.honeywellprocess.com/library/marketing/notes/PIN-ControlEdgePLC-R151.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:honeywell:controledge_plc_firmware:r140:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:honeywell:controledge_plc_firmware:r140",
+	"title": [
+		{
+			"text": "Honeywell ControlEdge PLC Firmware R140",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-20-175-02"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.honeywellprocess.com/library/marketing/notes/PIN-ControlEdgePLC-R151.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:honeywell:controledge_plc_firmware:r140:*:*:*:*:*:*:*"
+	}
 }

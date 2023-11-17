@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:redhat:openshift:2.0::enterprise",
-  "deprecated": true,
-  "deprecation_date": "2019-12-17T17:41:03.170Z",
-  "title": [
-    {
-      "text": "RedHat OpenShift Enterprise 2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://access.redhat.com/site/documentation/en-US/OpenShift_Enterprise/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:openshift:2.0:*:enterprise:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-17T12:41:03.170-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:openshift:2.0:*:*:*:enterprise:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:openshift:2.0::enterprise",
+	"deprecated": true,
+	"deprecation_date": "2019-12-17T17:41:03.170Z",
+	"title": [
+		{
+			"text": "RedHat OpenShift Enterprise 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://access.redhat.com/site/documentation/en-US/OpenShift_Enterprise/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift:2.0:*:enterprise:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-17T12:41:03.170-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:openshift:2.0:*:*:*:enterprise:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

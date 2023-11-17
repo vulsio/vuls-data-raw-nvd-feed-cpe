@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:d-link:dcs-5222l__firmware:2.12.00",
-  "deprecated": true,
-  "deprecation_date": "2021-06-17T16:30:02.703Z",
-  "title": [
-    {
-      "text": "D-Link DCS-5222L  Firmware 2.12.00",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://us.dlink.com/"
-    },
-    {
-      "text": "Product",
-      "href": "http://us.dlink.com/product-category/home-solutions/view/network-cameras/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.qualys.com/2017/02/22/qsa-2017-02-22/qsa-2017-02-22.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:d-link:dcs-5222l__firmware:2.12.00:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-17T12:30:02.703-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:dlink:dcs-5222l_firmware:2.12.00:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:d-link:dcs-5222l__firmware:2.12.00",
+	"deprecated": true,
+	"deprecation_date": "2021-06-17T16:30:02.703Z",
+	"title": [
+		{
+			"text": "D-Link DCS-5222L  Firmware 2.12.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://us.dlink.com/"
+		},
+		{
+			"text": "Product",
+			"href": "http://us.dlink.com/product-category/home-solutions/view/network-cameras/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qualys.com/2017/02/22/qsa-2017-02-22/qsa-2017-02-22.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:d-link:dcs-5222l__firmware:2.12.00:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-17T12:30:02.703-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:dlink:dcs-5222l_firmware:2.12.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

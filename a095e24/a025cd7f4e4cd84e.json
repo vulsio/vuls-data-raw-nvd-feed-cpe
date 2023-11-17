@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:amazon:aws-lambda:0.0.13",
-  "deprecated": true,
-  "deprecation_date": "2021-05-10T16:28:29.940Z",
-  "title": [
-    {
-      "text": "Amazon AWS Lambda 0.0.13",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://aws.amazon.com/lambda/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://snyk.io/vuln/npm:aws-lambda"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:aws-lambda:0.0.13:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-10T12:28:29.940-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:amazon:aws_lambda:0.0.13:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:amazon:aws-lambda:0.0.13",
+	"deprecated": true,
+	"deprecation_date": "2021-05-10T16:28:29.940Z",
+	"title": [
+		{
+			"text": "Amazon AWS Lambda 0.0.13",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://aws.amazon.com/lambda/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://snyk.io/vuln/npm:aws-lambda"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:aws-lambda:0.0.13:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-10T12:28:29.940-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:amazon:aws_lambda:0.0.13:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

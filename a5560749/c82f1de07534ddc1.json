@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:webartesanal:mantenimiento_web:0.12::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Web Artesanal Mantenimiento Web (Web Maintenance) 0.12 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/mantenimiento-web/wordpress-mantenimiento-web-plugin-0-13-cross-site-request-forgery-csrf-vulnerability-leading-to-stored-cross-site-scripting-xss?_s_id=cve"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://webartesanal.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/mantenimiento-web/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:webartesanal:mantenimiento_web:0.12:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:webartesanal:mantenimiento_web:0.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Web Artesanal Mantenimiento Web (Web Maintenance) 0.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/mantenimiento-web/wordpress-mantenimiento-web-plugin-0-13-cross-site-request-forgery-csrf-vulnerability-leading-to-stored-cross-site-scripting-xss?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://webartesanal.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mantenimiento-web/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:webartesanal:mantenimiento_web:0.12:*:*:*:*:wordpress:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:beaker_builder:1.10::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Beaker Builder 1.10 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/beaker-builder/#releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.jenkins.io/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2248"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:beaker_builder:1.10:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:beaker_builder:1.10::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Beaker Builder 1.10 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/beaker-builder/#releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.jenkins.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-06-22/#SECURITY-2248"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:beaker_builder:1.10:*:*:*:*:jenkins:*:*"
+	}
 }

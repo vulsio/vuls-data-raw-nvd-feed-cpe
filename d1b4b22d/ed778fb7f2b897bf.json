@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:mongodb:mongodb:4.2.14:-",
-  "title": [
-    {
-      "text": "MongoDB 4.2.14",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mongodb/mongo/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.mongodb.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongodb:mongodb:4.2.14:-:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mongodb:mongodb:4.2.14:-",
+	"title": [
+		{
+			"text": "MongoDB 4.2.14",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mongodb/mongo/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mongodb.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:mongodb:4.2.14:-:*:*:*:*:*:*"
+	}
 }

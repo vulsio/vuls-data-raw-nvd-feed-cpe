@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:vmware:esxi:6.0",
-  "title": [
-    {
-      "text": "VMWare ESXi 6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.vmware.com/products/esxi-and-esx/overview"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.vmware.com/support/vsphere6/doc/vsphere-esxi-vcenter-server-60-release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:vmware:esxi:6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:vmware:esxi:6.0",
+	"title": [
+		{
+			"text": "VMWare ESXi 6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.vmware.com/products/esxi-and-esx/overview"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.vmware.com/support/vsphere6/doc/vsphere-esxi-vcenter-server-60-release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vmware:esxi:6.0:*:*:*:*:*:*:*"
+	}
 }

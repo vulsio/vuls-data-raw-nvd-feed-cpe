@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:redhat:enterprise_linux:9.0",
-  "title": [
-    {
-      "text": "Red Hat Enterprise Linux 9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2022-1586"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:redhat:enterprise_linux:9.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:redhat:enterprise_linux:9.0",
+	"title": [
+		{
+			"text": "Red Hat Enterprise Linux 9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2022-1586"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redhat:enterprise_linux:9.0:*:*:*:*:*:*:*"
+	}
 }

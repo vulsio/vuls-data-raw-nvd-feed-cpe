@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:citrix:netscaler_sd-wan:10.2.4",
-  "deprecated": true,
-  "deprecation_date": "2020-03-30T15:34:57.737Z",
-  "title": [
-    {
-      "text": "Citrix NetScaler SD-WAN 10.2.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.citrix.com/downloads/citrix-sd-wan/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:citrix:netscaler_sd-wan:10.2.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-03-30T11:34:57.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:citrix:sd-wan:10.2.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:citrix:netscaler_sd-wan:10.2.4",
+	"deprecated": true,
+	"deprecation_date": "2020-03-30T15:34:57.737Z",
+	"title": [
+		{
+			"text": "Citrix NetScaler SD-WAN 10.2.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.citrix.com/downloads/citrix-sd-wan/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:citrix:netscaler_sd-wan:10.2.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-03-30T11:34:57.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:citrix:sd-wan:10.2.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

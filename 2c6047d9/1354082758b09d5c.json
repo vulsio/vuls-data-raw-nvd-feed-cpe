@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:yithemes:yith_pre-order_for_woocommerce:1.1.9::~~free~~~",
-  "deprecated": true,
-  "deprecation_date": "2021-04-20T17:32:11.890Z",
-  "title": [
-    {
-      "text": "Yithemes YITH Pre-Order for WooCommerce 1.1.9 Free Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.yithemes.com/yith-woocommerce-pre-order/changelog/changelog-free-version/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://docs.yithemes.com/yith-woocommerce-pre-order/category/changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yithemes:yith_pre-order_for_woocommerce:1.1.9:*:*:*:free:*:*:*",
-    "deprecation": {
-      "date": "2021-04-20T13:32:11.890-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:yithemes:yith_pre-order_for_woocommerce:1.1.9:*:*:*:free:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:yithemes:yith_pre-order_for_woocommerce:1.1.9::~~free~~~",
+	"deprecated": true,
+	"deprecation_date": "2021-04-20T17:32:11.890Z",
+	"title": [
+		{
+			"text": "Yithemes YITH Pre-Order for WooCommerce 1.1.9 Free Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.yithemes.com/yith-woocommerce-pre-order/changelog/changelog-free-version/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.yithemes.com/yith-woocommerce-pre-order/category/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yithemes:yith_pre-order_for_woocommerce:1.1.9:*:*:*:free:*:*:*",
+		"deprecation": {
+			"date": "2021-04-20T13:32:11.890-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:yithemes:yith_pre-order_for_woocommerce:1.1.9:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

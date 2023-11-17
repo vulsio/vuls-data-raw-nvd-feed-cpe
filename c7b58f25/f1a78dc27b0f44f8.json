@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:jira:2.3::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins JIRA 2.3 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/jira"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/jira-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:jira:2.3:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:jira:2.3::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins JIRA 2.3 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/jira"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/jira-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:jira:2.3:*:*:*:*:jenkins:*:*"
+	}
 }

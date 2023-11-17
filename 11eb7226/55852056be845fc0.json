@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:digia:qt:5.1.0",
-  "deprecated": true,
-  "deprecation_date": "2021-06-16T12:40:33.257Z",
-  "title": [
-    {
-      "text": "Digia Qt 5.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "product archive",
-      "href": "http://download.qt-project.org/archive/qt/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:digia:qt:5.1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-16T08:40:33.257-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qt:qt:5.1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:digia:qt:5.1.0",
+	"deprecated": true,
+	"deprecation_date": "2021-06-16T12:40:33.257Z",
+	"title": [
+		{
+			"text": "Digia Qt 5.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "product archive",
+			"href": "http://download.qt-project.org/archive/qt/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digia:qt:5.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-16T08:40:33.257-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qt:qt:5.1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:atarim:atarim:3.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Atarim 3.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://atarim.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/atarim-visual-collaboration/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/atarim-visual-collaboration/wordpress-atarim-plugin-3-9-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atarim:atarim:3.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:atarim:atarim:3.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Atarim 3.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://atarim.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/atarim-visual-collaboration/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/atarim-visual-collaboration/wordpress-atarim-plugin-3-9-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atarim:atarim:3.3:*:*:*:*:wordpress:*:*"
+	}
 }

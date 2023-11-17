@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:util-linux_project:util-linux:2.24.2-1",
-  "deprecated": true,
-  "deprecation_date": "2019-01-04T14:14:11.787Z",
-  "title": [
-    {
-      "text": "util-linux Project util-linux 2.24.2-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/karelzak/util-linux"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815922"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:util-linux_project:util-linux:2.24.2-1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-01-04T09:14:11.787-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:kernel:util-linux:2.24.2-1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:util-linux_project:util-linux:2.24.2-1",
+	"deprecated": true,
+	"deprecation_date": "2019-01-04T14:14:11.787Z",
+	"title": [
+		{
+			"text": "util-linux Project util-linux 2.24.2-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/karelzak/util-linux"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=815922"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:util-linux_project:util-linux:2.24.2-1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-01-04T09:14:11.787-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kernel:util-linux:2.24.2-1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

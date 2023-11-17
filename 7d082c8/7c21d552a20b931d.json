@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:vmware:greenplum_database:5.17.0",
-  "title": [
-    {
-      "text": "VMWare Greenplum Database (GPDB) 5.17.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/greenplum-db/gpdb/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://greenplum.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:greenplum_database:5.17.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:greenplum_database:5.17.0",
+	"title": [
+		{
+			"text": "VMWare Greenplum Database (GPDB) 5.17.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/greenplum-db/gpdb/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://greenplum.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:greenplum_database:5.17.0:*:*:*:*:*:*:*"
+	}
 }

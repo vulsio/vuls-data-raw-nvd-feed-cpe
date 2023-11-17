@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:vmware:vcenter_server:6.7:u2c",
-  "deprecated": true,
-  "deprecation_date": "2021-08-24T10:58:14.827Z",
-  "title": [
-    {
-      "text": "VMWare vCenter Server 6.7 U2c",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3l-release-notes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:vcenter_server:6.7:u2c:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-24T06:58:14.827-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:vmware:vcenter_server:6.7:update2c:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:vmware:vcenter_server:6.7:u2c",
+	"deprecated": true,
+	"deprecation_date": "2021-08-24T10:58:14.827Z",
+	"title": [
+		{
+			"text": "VMWare vCenter Server 6.7 U2c",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://docs.vmware.com/en/VMware-vSphere/6.7/rn/vsphere-vcenter-server-67u3l-release-notes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:6.7:u2c:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-24T06:58:14.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vmware:vcenter_server:6.7:update2c:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

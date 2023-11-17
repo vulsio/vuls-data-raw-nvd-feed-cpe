@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:apsystems:energy_communication_unit_firmware:c1.2.5",
-  "title": [
-    {
-      "text": "Apsystems Energy Communication Unit Firmware C1.2.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ahmedalroky/Disclosures/blob/main/apesystems/os_command_injection.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://global.apsystems.com/wp-content/uploads/2018/04/05.APsystems-Single-Phase-ECU-3-user-manual.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:apsystems:energy_communication_unit_firmware:c1.2.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:apsystems:energy_communication_unit_firmware:c1.2.5",
+	"title": [
+		{
+			"text": "Apsystems Energy Communication Unit Firmware C1.2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ahmedalroky/Disclosures/blob/main/apesystems/os_command_injection.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://global.apsystems.com/wp-content/uploads/2018/04/05.APsystems-Single-Phase-ECU-3-user-manual.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apsystems:energy_communication_unit_firmware:c1.2.5:*:*:*:*:*:*:*"
+	}
 }

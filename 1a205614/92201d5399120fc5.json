@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:objective_development:little_snitch:3.3.3",
-  "deprecated": true,
-  "deprecation_date": "2020-11-09T03:03:19.333Z",
-  "title": [
-    {
-      "text": "Objective Development Little Snitch 3.3.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.obdev.at/products/littlesnitch/releasenotes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:objective_development:little_snitch:3.3.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-08T22:03:19.333-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:obdev:little_snitch:3.3.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:objective_development:little_snitch:3.3.3",
+	"deprecated": true,
+	"deprecation_date": "2020-11-09T03:03:19.333Z",
+	"title": [
+		{
+			"text": "Objective Development Little Snitch 3.3.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.obdev.at/products/littlesnitch/releasenotes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:objective_development:little_snitch:3.3.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-08T22:03:19.333-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:obdev:little_snitch:3.3.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

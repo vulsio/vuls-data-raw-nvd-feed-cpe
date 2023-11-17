@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ransomchristofferson:pdq_csv:1.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Ransom Christofferson PDQ CSV 1.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://ransomchristofferson.com/"
-    },
-    {
-      "text": "Project",
-      "href": "https://wordpress.org/plugins/pdq-csv/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/pdq-csv/wordpress-pdq-csv-plugin-1-0-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ransomchristofferson:pdq_csv:1.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:ransomchristofferson:pdq_csv:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ransom Christofferson PDQ CSV 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://ransomchristofferson.com/"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/pdq-csv/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pdq-csv/wordpress-pdq-csv-plugin-1-0-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ransomchristofferson:pdq_csv:1.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

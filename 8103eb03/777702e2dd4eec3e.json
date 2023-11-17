@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:tribulant:newsletter:6.8.2::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-05-18T15:04:35.757Z",
-  "title": [
-    {
-      "text": "Tribulant Newsletter 6.8.2 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/blog/2020/08/newsletter-plugin-vulnerabilities-affect-over-300000-sites/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:tribulant:newsletter:6.8.2:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-05-18T11:04:35.757-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:thenewsletterplugin:newsletter:6.8.2:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:tribulant:newsletter:6.8.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-05-18T15:04:35.757Z",
+	"title": [
+		{
+			"text": "Tribulant Newsletter 6.8.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/blog/2020/08/newsletter-plugin-vulnerabilities-affect-over-300000-sites/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tribulant:newsletter:6.8.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-05-18T11:04:35.757-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:thenewsletterplugin:newsletter:6.8.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

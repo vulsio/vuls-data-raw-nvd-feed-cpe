@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:sonoff:th10:-",
-  "title": [
-    {
-      "text": "Sonoff TH10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://sku11army.blogspot.com/2020/01/sonoff-sonoff-th-module-vuln-xss.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://sonoff.tech/product/wifi-diy-smart-switches/th10-th16"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:sonoff:th10:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:sonoff:th10:-",
+	"title": [
+		{
+			"text": "Sonoff TH10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sku11army.blogspot.com/2020/01/sonoff-sonoff-th-module-vuln-xss.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://sonoff.tech/product/wifi-diy-smart-switches/th10-th16"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sonoff:th10:-:*:*:*:*:*:*:*"
+	}
 }

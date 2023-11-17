@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:libxpm_project:libxpm:3.5.15",
-  "deprecated": true,
-  "deprecation_date": "2023-10-17T15:55:35.850Z",
-  "title": [
-    {
-      "text": "Libxpm Project Libxpm 3.5.15",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bugzilla.redhat.com/show_bug.cgi?id=2160193"
-    },
-    {
-      "text": "Version",
-      "href": "https://gitlab.freedesktop.org/xorg/lib/libxpm/-/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libxpm_project:libxpm:3.5.15:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-17T11:55:35.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:x.org:libxpm:3.5.15:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libxpm_project:libxpm:3.5.15",
+	"deprecated": true,
+	"deprecation_date": "2023-10-17T15:55:35.850Z",
+	"title": [
+		{
+			"text": "Libxpm Project Libxpm 3.5.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2160193"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitlab.freedesktop.org/xorg/lib/libxpm/-/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libxpm_project:libxpm:3.5.15:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-17T11:55:35.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:x.org:libxpm:3.5.15:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

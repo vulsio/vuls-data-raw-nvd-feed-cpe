@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:acquia:mautic:2.13.0",
-  "deprecated": true,
-  "deprecation_date": "2021-02-17T16:04:40.510Z",
-  "title": [
-    {
-      "text": "Acquia Mautic 2.13.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.acquia.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/mautic/mautic/releases/tag/2.14.0"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:acquia:mautic:2.13.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-02-17T11:04:40.510-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:acquia:mautic:2.13.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:acquia:mautic:2.13.0",
+	"deprecated": true,
+	"deprecation_date": "2021-02-17T16:04:40.510Z",
+	"title": [
+		{
+			"text": "Acquia Mautic 2.13.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.acquia.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mautic/mautic/releases/tag/2.14.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:acquia:mautic:2.13.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-02-17T11:04:40.510-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:acquia:mautic:2.13.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

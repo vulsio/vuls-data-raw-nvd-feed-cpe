@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:askapplications:fromdoctopdf:-::~~~chrome~~",
-  "deprecated": true,
-  "deprecation_date": "2020-06-04T14:35:11.910Z",
-  "title": [
-    {
-      "text": "Ask Applications FromDocToPDF for Chrome",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.askapplications.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.fromdoctopdf.com/index.jhtml"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:askapplications:fromdoctopdf:-:*:*:*:*:chrome:*:*",
-    "deprecation": {
-      "date": "2020-06-04T10:35:11.910-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:iac:fromdoctopdf:-:*:*:*:*:chrome:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:askapplications:fromdoctopdf:-::~~~chrome~~",
+	"deprecated": true,
+	"deprecation_date": "2020-06-04T14:35:11.910Z",
+	"title": [
+		{
+			"text": "Ask Applications FromDocToPDF for Chrome",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.askapplications.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.fromdoctopdf.com/index.jhtml"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:askapplications:fromdoctopdf:-:*:*:*:*:chrome:*:*",
+		"deprecation": {
+			"date": "2020-06-04T10:35:11.910-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:iac:fromdoctopdf:-:*:*:*:*:chrome:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

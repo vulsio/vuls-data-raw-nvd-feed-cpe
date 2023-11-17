@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:amd:ryzen_5_pro_4400g_firmware:-",
-  "title": [
-    {
-      "text": "Advanced Micro Devices (AMD) RYZEN 5 PRO 4400G Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://gadgetversus.com/processor/amd-ryzen-4000-processors-list/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cmpxchg8b.com/zenbleed.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:amd:ryzen_5_pro_4400g_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:amd:ryzen_5_pro_4400g_firmware:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) RYZEN 5 PRO 4400G Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://gadgetversus.com/processor/amd-ryzen-4000-processors-list/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cmpxchg8b.com/zenbleed.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:ryzen_5_pro_4400g_firmware:-:*:*:*:*:*:*:*"
+	}
 }

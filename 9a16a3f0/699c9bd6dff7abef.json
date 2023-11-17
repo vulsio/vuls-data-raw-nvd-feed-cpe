@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:isaac_sukin:browserid:7.x-1.0",
-  "deprecated": true,
-  "deprecation_date": "2020-01-27T16:24:20.870Z",
-  "title": [
-    {
-      "text": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-27T11:24:20.870-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:isaac_sukin:browserid:7.x-1.0",
+	"deprecated": true,
+	"deprecation_date": "2020-01-27T16:24:20.870Z",
+	"title": [
+		{
+			"text": "Isaac Sukin BrowserID (Mozilla Persona) module for Drupal 7.x-1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:isaac_sukin:browserid:7.x-1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-27T11:24:20.870-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:browserid_project:browserid:7.x-1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

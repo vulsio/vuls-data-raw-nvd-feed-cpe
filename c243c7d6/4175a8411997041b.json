@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openstack:compute:12.0.2",
-  "title": [
-    {
-      "text": "OpenStack Compute (Liberty) 12.0.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://wiki.openstack.org/wiki/Releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openstack.org/software/openstack-compute/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:compute:12.0.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:compute:12.0.2",
+	"title": [
+		{
+			"text": "OpenStack Compute (Liberty) 12.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://wiki.openstack.org/wiki/Releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openstack.org/software/openstack-compute/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:compute:12.0.2:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:grpc:grpc:1.2.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-03T14:38:53.873Z",
-  "title": [
-    {
-      "text": "gRPC 1.2.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.grpc.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/grpc/grpc"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://grpc.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-03T09:38:53.873-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:-:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:grpc:grpc:1.2.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-03T14:38:53.873Z",
+	"title": [
+		{
+			"text": "gRPC 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.grpc.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/grpc/grpc"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://grpc.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-03T09:38:53.873-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:grpc:grpc:1.2.0:*:*:*:*:-:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

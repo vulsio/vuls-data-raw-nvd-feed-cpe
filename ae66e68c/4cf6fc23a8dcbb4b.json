@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:cwi:nethack:3.6.4",
-  "deprecated": true,
-  "deprecation_date": "2020-12-08T22:02:18.003Z",
-  "title": [
-    {
-      "text": "CWI NetHack 3.6.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nethack.org/security/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cwi.nl/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/NetHack/NetHack/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cwi:nethack:3.6.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-08T17:02:18.003-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nethack:nethack:3.6.4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cwi:nethack:3.6.4",
+	"deprecated": true,
+	"deprecation_date": "2020-12-08T22:02:18.003Z",
+	"title": [
+		{
+			"text": "CWI NetHack 3.6.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nethack.org/security/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cwi.nl/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/NetHack/NetHack/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cwi:nethack:3.6.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-08T17:02:18.003-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nethack:nethack:3.6.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

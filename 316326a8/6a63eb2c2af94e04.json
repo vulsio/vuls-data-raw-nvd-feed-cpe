@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:idera:yellowfin_business_intelligence:7.3",
-  "title": [
-    {
-      "text": "Idera Yellowfin Business Intelligence 7.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/Deepak983/CVE-2020-19587/blob/main/_Stored%20XSS%20in%20MIAdminStyles.i4%20through%20privileges%20escalation.pdf"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.idera.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.yellowfinbi.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:idera:yellowfin_business_intelligence:7.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:idera:yellowfin_business_intelligence:7.3",
+	"title": [
+		{
+			"text": "Idera Yellowfin Business Intelligence 7.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Deepak983/CVE-2020-19587/blob/main/_Stored%20XSS%20in%20MIAdminStyles.i4%20through%20privileges%20escalation.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.idera.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.yellowfinbi.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:idera:yellowfin_business_intelligence:7.3:*:*:*:*:*:*:*"
+	}
 }

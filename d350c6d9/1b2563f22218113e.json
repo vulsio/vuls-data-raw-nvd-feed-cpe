@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:linux:dhcp6c:-",
-  "title": [
-    {
-      "text": "Linux dhcp6c",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://linux.die.net/man/8/dhcp6c"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/cve-2011-2717"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linux:dhcp6c:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linux:dhcp6c:-",
+	"title": [
+		{
+			"text": "Linux dhcp6c",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://linux.die.net/man/8/dhcp6c"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/cve-2011-2717"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linux:dhcp6c:-:*:*:*:*:*:*:*"
+	}
 }

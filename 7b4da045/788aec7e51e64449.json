@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:nitro:nitro_pro:11.0.3.173",
-  "deprecated": true,
-  "deprecation_date": "2020-08-04T13:57:01.383Z",
-  "title": [
-    {
-      "text": "Nitro Pro 11.0.3.173",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.gonitro.com/nps/product-details/release-notes"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://srcincite.io/advisories/src-2017-0005/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.gonitro.com/product"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nitro:nitro_pro:11.0.3.173:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-08-04T09:57:01.383-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gonitro:nitro_pro:11.0.3.173:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nitro:nitro_pro:11.0.3.173",
+	"deprecated": true,
+	"deprecation_date": "2020-08-04T13:57:01.383Z",
+	"title": [
+		{
+			"text": "Nitro Pro 11.0.3.173",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.gonitro.com/nps/product-details/release-notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://srcincite.io/advisories/src-2017-0005/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.gonitro.com/product"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nitro:nitro_pro:11.0.3.173:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-08-04T09:57:01.383-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gonitro:nitro_pro:11.0.3.173:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

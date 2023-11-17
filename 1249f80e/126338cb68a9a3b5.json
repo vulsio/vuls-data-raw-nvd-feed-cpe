@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:zephyrproject:zephyr:1.9.0:rc4",
-  "deprecated": true,
-  "deprecation_date": "2020-05-13T18:22:17.933Z",
-  "title": [
-    {
-      "text": "Zephyrproject Zephyr 1.9.0 Release Candidate 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/zephyrproject-rtos/zephyr/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zephyrproject:zephyr:1.9.0:rc4:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-05-13T14:22:17.933-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:zephyrproject:zephyr:1.9.0:rc4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:zephyrproject:zephyr:1.9.0:rc4",
+	"deprecated": true,
+	"deprecation_date": "2020-05-13T18:22:17.933Z",
+	"title": [
+		{
+			"text": "Zephyrproject Zephyr 1.9.0 Release Candidate 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/zephyrproject-rtos/zephyr/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zephyrproject:zephyr:1.9.0:rc4:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-05-13T14:22:17.933-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:zephyrproject:zephyr:1.9.0:rc4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

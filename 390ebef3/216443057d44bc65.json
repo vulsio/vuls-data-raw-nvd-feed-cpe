@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:vmware:spring_cloud_gateway:3.0.0:milestone3",
-  "title": [
-    {
-      "text": "VMware Spring Cloud Gateway 3.0.0 Milestone 3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/spring-cloud/spring-cloud-gateway/tags"
-    },
-    {
-      "text": "Product",
-      "href": "https://spring.io/projects/spring-cloud-gateway"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tanzu.vmware.com/security/cve-2021-22051"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:vmware:spring_cloud_gateway:3.0.0:milestone3:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:vmware:spring_cloud_gateway:3.0.0:milestone3",
+	"title": [
+		{
+			"text": "VMware Spring Cloud Gateway 3.0.0 Milestone 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-cloud/spring-cloud-gateway/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-cloud-gateway"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tanzu.vmware.com/security/cve-2021-22051"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_cloud_gateway:3.0.0:milestone3:*:*:*:*:*:*"
+	}
 }

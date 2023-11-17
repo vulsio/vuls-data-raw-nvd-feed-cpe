@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:creston:dm-nvx-dir160_firmware:1.0.1.788",
-  "deprecated": true,
-  "deprecation_date": "2022-02-10T16:06:47.027Z",
-  "title": [
-    {
-      "text": "Creston DM-NVX-DIR-160 Firmware 1.0.1.788",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.crestron.com/Products/Video/DigitalMedia-Streaming-Solutions/Management-Tools/DM-NVX-DIR-160"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:creston:dm-nvx-dir160_firmware:1.0.1.788:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-10T11:06:47.027-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:crestron:dm-nvx-dir-160_firmware:1.0.1.788:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:creston:dm-nvx-dir160_firmware:1.0.1.788",
+	"deprecated": true,
+	"deprecation_date": "2022-02-10T16:06:47.027Z",
+	"title": [
+		{
+			"text": "Creston DM-NVX-DIR-160 Firmware 1.0.1.788",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.crestron.com/Products/Video/DigitalMedia-Streaming-Solutions/Management-Tools/DM-NVX-DIR-160"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:creston:dm-nvx-dir160_firmware:1.0.1.788:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-10T11:06:47.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:crestron:dm-nvx-dir-160_firmware:1.0.1.788:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

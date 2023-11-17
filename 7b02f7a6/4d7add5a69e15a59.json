@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:allura:1.0.0",
-  "deprecated": true,
-  "deprecation_date": "2019-06-19T21:44:44.877Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Allura 1.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.apache.org/"
-    },
-    {
-      "text": "Product",
-      "href": "https://allura.apache.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/apache/allura/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-06-19T17:44:44.877-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:allura:1.0.0",
+	"deprecated": true,
+	"deprecation_date": "2019-06-19T21:44:44.877Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Allura 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.apache.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://allura.apache.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/allura/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:allura:1.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-06-19T17:44:44.877-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:allura:1.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

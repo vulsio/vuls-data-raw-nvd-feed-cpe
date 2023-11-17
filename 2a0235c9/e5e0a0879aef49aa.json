@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ibm:domino:9.0.0",
-  "deprecated": true,
-  "deprecation_date": "2019-10-16T12:40:29.377Z",
-  "title": [
-    {
-      "text": "IBM Domino 9.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product Information",
-      "href": "http://www-10.lotus.com/ldd/dominowiki.nsf"
-    },
-    {
-      "text": "Version Information",
-      "href": "http://www-933.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=ibm%2fLotus%3bibm%2fLotus%2fLotus+Domino"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:domino:9.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-10-16T08:40:29.377-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:domino:9.0.0.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ibm:domino:9.0.0",
+	"deprecated": true,
+	"deprecation_date": "2019-10-16T12:40:29.377Z",
+	"title": [
+		{
+			"text": "IBM Domino 9.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product Information",
+			"href": "http://www-10.lotus.com/ldd/dominowiki.nsf"
+		},
+		{
+			"text": "Version Information",
+			"href": "http://www-933.ibm.com/support/fixcentral/options?selectionBean.selectedTab=find&selection=ibm%2fLotus%3bibm%2fLotus%2fLotus+Domino"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:domino:9.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-10-16T08:40:29.377-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:domino:9.0.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

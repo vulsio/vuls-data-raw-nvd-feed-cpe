@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ntp:ntp:p96",
-  "deprecated": true,
-  "deprecation_date": "2016-01-28T19:24:41.960Z",
-  "title": [
-    {
-      "text": "NTP Patch 96",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://archive.ntp.org/ntp4/ChangeLog-stable"
-    },
-    {
-      "text": "Vendor",
-      "href": "http://www.ntp.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ntp:ntp:p96:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2016-01-28T14:24:41.960-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ntp:ntp:4.2.7:p96:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ntp:ntp:p96",
+	"deprecated": true,
+	"deprecation_date": "2016-01-28T19:24:41.960Z",
+	"title": [
+		{
+			"text": "NTP Patch 96",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://archive.ntp.org/ntp4/ChangeLog-stable"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.ntp.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ntp:ntp:p96:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2016-01-28T14:24:41.960-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ntp:ntp:4.2.7:p96:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

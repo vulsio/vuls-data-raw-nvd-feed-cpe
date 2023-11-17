@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_jasmine:3.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:29:22.890Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Jasmine 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_jasmine:3.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:29:22.890-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_jasmine:3.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_jasmine:3.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:29:22.890Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Jasmine 3.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_jasmine:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:29:22.890-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_jasmine:3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

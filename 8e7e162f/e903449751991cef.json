@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:dlink:dir-859_firmware:1.06:beta1",
-  "title": [
-    {
-      "text": "D-Link DIR-859 Firmware 1.06 Beta 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@s1kr10s/d-link-dir-859-rce-unautenticated-cve-2019-17621-en-d94b47a15104"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.dlink.com/ProductInfo.aspx?m=DIR-859"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:dlink:dir-859_firmware:1.06:beta1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:dlink:dir-859_firmware:1.06:beta1",
+	"title": [
+		{
+			"text": "D-Link DIR-859 Firmware 1.06 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@s1kr10s/d-link-dir-859-rce-unautenticated-cve-2019-17621-en-d94b47a15104"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.dlink.com/ProductInfo.aspx?m=DIR-859"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dir-859_firmware:1.06:beta1:*:*:*:*:*:*"
+	}
 }

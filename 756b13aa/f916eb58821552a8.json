@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:quizandsurveymaster:quiz_and_survey_master:4.2.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2019-12-18T17:28:18.547Z",
-  "title": [
-    {
-      "text": "Quiz and Survey Master 4.2.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://quizandsurveymaster.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/quiz-master-next/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:quizandsurveymaster:quiz_and_survey_master:4.2.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2019-12-18T12:28:18.547-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:expresstech:quiz_and_survey_master:4.2.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:quizandsurveymaster:quiz_and_survey_master:4.2.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2019-12-18T17:28:18.547Z",
+	"title": [
+		{
+			"text": "Quiz and Survey Master 4.2.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://quizandsurveymaster.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/quiz-master-next/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quizandsurveymaster:quiz_and_survey_master:4.2.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2019-12-18T12:28:18.547-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:expresstech:quiz_and_survey_master:4.2.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

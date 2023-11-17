@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:jenkins:docker:0.3.4::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Docker 0.3.4 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/docker-plugin"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:docker:0.3.4:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:docker:0.3.4::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Docker 0.3.4 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/docker-plugin"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:docker:0.3.4:*:*:*:*:jenkins:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:microsoft:windows_10_1507:10.0.10240.20162",
-  "deprecated": true,
-  "deprecation_date": "2023-10-17T17:06:21.863Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 1507 10.0.10240.20162",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20162:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-17T13:06:21.863-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20162:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10_1507:10.0.10240.20162",
+	"deprecated": true,
+	"deprecation_date": "2023-10-17T17:06:21.863Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 1507 10.0.10240.20162",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20162:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-17T13:06:21.863-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_1507:10.0.10240.20162:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

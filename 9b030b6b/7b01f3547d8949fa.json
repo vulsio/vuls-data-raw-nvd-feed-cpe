@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:rsa:netwitness:12.2",
-  "title": [
-    {
-      "text": "RSA NetWitness 12.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://hyp3rlinx.altervista.org/advisories/RSA_NETWITNESS_EDR_AGENT_INCORRECT_ACCESS_CONTROL_CVE-2022-47529.txt"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/47xxx/CVE-2022-47529.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rsa:netwitness:12.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:rsa:netwitness:12.2",
+	"title": [
+		{
+			"text": "RSA NetWitness 12.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://hyp3rlinx.altervista.org/advisories/RSA_NETWITNESS_EDR_AGENT_INCORRECT_ACCESS_CONTROL_CVE-2022-47529.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/47xxx/CVE-2022-47529.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rsa:netwitness:12.2:*:*:*:*:*:*:*"
+	}
 }

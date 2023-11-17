@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:postgresql:postgresql_jdbc_driver:9.2-1004",
-  "title": [
-    {
-      "text": "PostgreSQL JDBC Driver 9.2-1004",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.postgresql.org/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://jdbc.postgresql.org/documentation/changelog.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:9.2-1004:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:postgresql:postgresql_jdbc_driver:9.2-1004",
+	"title": [
+		{
+			"text": "PostgreSQL JDBC Driver 9.2-1004",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.postgresql.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://jdbc.postgresql.org/documentation/changelog.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgresql:postgresql_jdbc_driver:9.2-1004:*:*:*:*:*:*:*"
+	}
 }

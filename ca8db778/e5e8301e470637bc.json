@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:etrust_admin:8.0",
-  "deprecated": true,
-  "deprecation_date": "2021-04-09T13:51:27.590Z",
-  "title": [
-    {
-      "text": "Computer Associates eTrust Admin 8.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:etrust_admin:8.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-09T09:51:27.590-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:etrust_admin:8.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:etrust_admin:8.0",
+	"deprecated": true,
+	"deprecation_date": "2021-04-09T13:51:27.590Z",
+	"title": [
+		{
+			"text": "Computer Associates eTrust Admin 8.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:etrust_admin:8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-09T09:51:27.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:etrust_admin:8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

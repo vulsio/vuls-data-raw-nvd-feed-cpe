@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bluecatnetworks:device_registration_portal:2.2",
-  "title": [
-    {
-      "text": "Bluecatnetworks Device Registration Portal 2.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://bluecatnetworks.com/integrations/adaptive-application/device-registration-portal-drp/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/colemanjp/XXE-Vulnerability-in-Bluecat-Device-Registration-Portal-DRP"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bluecatnetworks:device_registration_portal:2.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bluecatnetworks:device_registration_portal:2.2",
+	"title": [
+		{
+			"text": "Bluecatnetworks Device Registration Portal 2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://bluecatnetworks.com/integrations/adaptive-application/device-registration-portal-drp/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/colemanjp/XXE-Vulnerability-in-Bluecat-Device-Registration-Portal-DRP"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bluecatnetworks:device_registration_portal:2.2:*:*:*:*:*:*:*"
+	}
 }

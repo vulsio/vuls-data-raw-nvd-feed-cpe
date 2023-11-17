@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:cmder_project:cmder:-",
-  "deprecated": true,
-  "deprecation_date": "2023-10-03T15:24:07.390Z",
-  "title": [
-    {
-      "text": "Cmder Project Cmder ",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://gist.github.com/dgl/05ca60cdc7efc9e47bbc58d0c952635e"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cmderdev/cmder/blob/master/CHANGELOG.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cmder_project:cmder:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-03T11:24:07.390-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cmder:cmder:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cmder_project:cmder:-",
+	"deprecated": true,
+	"deprecation_date": "2023-10-03T15:24:07.390Z",
+	"title": [
+		{
+			"text": "Cmder Project Cmder ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gist.github.com/dgl/05ca60cdc7efc9e47bbc58d0c952635e"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cmderdev/cmder/blob/master/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cmder_project:cmder:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-03T11:24:07.390-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cmder:cmder:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

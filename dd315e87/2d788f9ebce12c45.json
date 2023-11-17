@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:solokeys:solo:-",
-  "title": [
-    {
-      "text": "Solokeys Solo",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://solokeys.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27208.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202238"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:solokeys:solo:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:solokeys:solo:-",
+	"title": [
+		{
+			"text": "Solokeys Solo",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://solokeys.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27208.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/202238"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:solokeys:solo:-:*:*:*:*:*:*:*"
+	}
 }

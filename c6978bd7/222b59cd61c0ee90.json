@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:exgroup_project:exgroup:-",
-  "title": [
-    {
-      "text": "EXGROUP project EXGROUP",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0xa7a3de21f9505eaa8a4d34ae2d5497f8d5df35c2"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:exgroup_project:exgroup:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:exgroup_project:exgroup:-",
+	"title": [
+		{
+			"text": "EXGROUP project EXGROUP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0xa7a3de21f9505eaa8a4d34ae2d5497f8d5df35c2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:exgroup_project:exgroup:-:*:*:*:*:*:*:*"
+	}
 }

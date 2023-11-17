@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:heidenhain:heros:5.08.3",
-  "title": [
-    {
-      "text": "HEIDENHAIN HEROS 5.08.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/41xxx/CVE-2022-41648.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.heidenhain.us/addl-materials/HIT_3-Axis-Programming_DEMO/media/896020-xx_tnc640_oem_hsci_original.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:heidenhain:heros:5.08.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:heidenhain:heros:5.08.3",
+	"title": [
+		{
+			"text": "HEIDENHAIN HEROS 5.08.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/41xxx/CVE-2022-41648.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.heidenhain.us/addl-materials/HIT_3-Axis-Programming_DEMO/media/896020-xx_tnc640_oem_hsci_original.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:heidenhain:heros:5.08.3:*:*:*:*:*:*:*"
+	}
 }

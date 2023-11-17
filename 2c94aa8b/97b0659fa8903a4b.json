@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:schneider_electric:struxureware_building_operations_automation_server_as-p_firmware:1.7",
-  "deprecated": true,
-  "deprecation_date": "2018-09-24T16:21:37.850Z",
-  "title": [
-    {
-      "text": "Schneider Electric Struxureware Building Operations Automation Server Firmware 1.7 AS-P",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.schneider-electric.com/ww/en/"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2016-025-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:schneider_electric:struxureware_building_operations_automation_server_as-p_firmware:1.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-09-24T12:21:37.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:schneider-electric:struxureware_building_operations_automation_server_as-p_firmware:1.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:schneider_electric:struxureware_building_operations_automation_server_as-p_firmware:1.7",
+	"deprecated": true,
+	"deprecation_date": "2018-09-24T16:21:37.850Z",
+	"title": [
+		{
+			"text": "Schneider Electric Struxureware Building Operations Automation Server Firmware 1.7 AS-P",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.schneider-electric.com/ww/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2016-025-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:schneider_electric:struxureware_building_operations_automation_server_as-p_firmware:1.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-09-24T12:21:37.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:schneider-electric:struxureware_building_operations_automation_server_as-p_firmware:1.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

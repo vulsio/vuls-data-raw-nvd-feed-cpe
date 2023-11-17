@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:artstation:the_isle_evrima:-",
-  "title": [
-    {
-      "text": "ARTSTATION The Isle Evrima",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/38xxx/CVE-2022-38221.json"
-    },
-    {
-      "text": "Product",
-      "href": "https://survivetheisle.com/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.artstation.com/?sort_by=community"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://takethebait.net/discovering-a-buffer-overflow-in-the-isle-evrima-dedicated-server/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:artstation:the_isle_evrima:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:artstation:the_isle_evrima:-",
+	"title": [
+		{
+			"text": "ARTSTATION The Isle Evrima",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/38xxx/CVE-2022-38221.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://survivetheisle.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.artstation.com/?sort_by=community"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://takethebait.net/discovering-a-buffer-overflow-in-the-isle-evrima-dedicated-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:artstation:the_isle_evrima:-:*:*:*:*:*:*:*"
+	}
 }

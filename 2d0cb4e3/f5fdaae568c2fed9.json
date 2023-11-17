@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ibm:security_access_manager_for_web:6.0",
-  "title": [
-    {
-      "text": "IBM Security Access Manager for Web 6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://www-947.ibm.com/support/entry/portal/product/enterprise_content_management/content_manager_ondemand_for_multiplatforms?productContext=-816420431"
-    },
-    {
-      "text": "IBM Security Bulletin: CM OnDemand GSKit Vulnerability (CVE-2013-6329)",
-      "href": "http://www-01.ibm.com/support/docview.wss?uid=swg21659716"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:security_access_manager_for_web:6.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:security_access_manager_for_web:6.0",
+	"title": [
+		{
+			"text": "IBM Security Access Manager for Web 6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://www-947.ibm.com/support/entry/portal/product/enterprise_content_management/content_manager_ondemand_for_multiplatforms?productContext=-816420431"
+		},
+		{
+			"text": "IBM Security Bulletin: CM OnDemand GSKit Vulnerability (CVE-2013-6329)",
+			"href": "http://www-01.ibm.com/support/docview.wss?uid=swg21659716"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:security_access_manager_for_web:6.0:*:*:*:*:*:*:*"
+	}
 }

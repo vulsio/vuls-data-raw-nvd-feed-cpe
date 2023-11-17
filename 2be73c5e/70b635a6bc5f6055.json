@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:squid-cache:squid:3.5.1",
-  "title": [
-    {
-      "text": "squid-cache.org Squid 3.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/squid-cache/squid/blob/master/ChangeLog"
-    },
-    {
-      "text": "Vendor Advisory",
-      "href": "http://www.squid-cache.org/Advisories/SQUID-2015_1.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squid-cache:squid:3.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:squid-cache:squid:3.5.1",
+	"title": [
+		{
+			"text": "squid-cache.org Squid 3.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/squid-cache/squid/blob/master/ChangeLog"
+		},
+		{
+			"text": "Vendor Advisory",
+			"href": "http://www.squid-cache.org/Advisories/SQUID-2015_1.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squid-cache:squid:3.5.1:*:*:*:*:*:*:*"
+	}
 }

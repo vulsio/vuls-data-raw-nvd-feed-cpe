@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:openid:openid_connect:1.5.2::~~~doorkeeper~~",
-  "title": [
-    {
-      "text": "OpenID Connect 1.5.2 for Doorkeeper",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://openid.net/connect/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/doorkeeper-gem/doorkeeper-openid_connect"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openid:openid_connect:1.5.2:*:*:*:*:doorkeeper:*:*"
-  }
+	"name": "cpe:/a:openid:openid_connect:1.5.2::~~~doorkeeper~~",
+	"title": [
+		{
+			"text": "OpenID Connect 1.5.2 for Doorkeeper",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://openid.net/connect/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/doorkeeper-gem/doorkeeper-openid_connect"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openid:openid_connect:1.5.2:*:*:*:*:doorkeeper:*:*"
+	}
 }

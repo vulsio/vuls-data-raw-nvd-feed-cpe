@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_management_microsoft_exchange:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:30:31.767Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Management Microsoft Exchange",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:30:31.767-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_management_microsoft_exchange:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:30:31.767Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Management Microsoft Exchange",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:30:31.767-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_management_microsoft_exchange:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

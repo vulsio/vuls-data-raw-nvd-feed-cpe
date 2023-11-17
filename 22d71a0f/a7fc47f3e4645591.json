@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:getfilecloud:filecloud:13.0.0.32395",
-  "deprecated": true,
-  "deprecation_date": "2022-02-23T01:05:08.367Z",
-  "title": [
-    {
-      "text": "CodeLathe Technologies Inc FileCloud 13.0.0.32395",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.getfilecloud.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://www.getfilecloud.com/releasenotes/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:getfilecloud:filecloud:13.0.0.32395:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-22T20:05:08.367-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:filecloud:filecloud:13.0.0.32395:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:getfilecloud:filecloud:13.0.0.32395",
+	"deprecated": true,
+	"deprecation_date": "2022-02-23T01:05:08.367Z",
+	"title": [
+		{
+			"text": "CodeLathe Technologies Inc FileCloud 13.0.0.32395",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.getfilecloud.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.getfilecloud.com/releasenotes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getfilecloud:filecloud:13.0.0.32395:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-22T20:05:08.367-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:filecloud:filecloud:13.0.0.32395:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

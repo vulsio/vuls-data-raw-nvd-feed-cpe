@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:microsoft:azure_kubernetes_service:-",
-  "title": [
-    {
-      "text": "Microsoft Azure Kubernetes Service",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://azure.microsoft.com/en-us/overview/kubernetes-on-azure/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-1677"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:azure_kubernetes_service:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:microsoft:azure_kubernetes_service:-",
+	"title": [
+		{
+			"text": "Microsoft Azure Kubernetes Service",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://azure.microsoft.com/en-us/overview/kubernetes-on-azure/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2021-1677"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_kubernetes_service:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:arubanetworks:sd-wan:2.2.0.3",
-  "deprecated": true,
-  "deprecation_date": "2021-11-18T18:16:57.653Z",
-  "title": [
-    {
-      "text": "Aruba Networks SD-WAN 2.2.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.arubanetworks.com/products/sd-wan/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=emr_na-hpesbnw04072en_us"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-016.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:arubanetworks:sd-wan:2.2.0.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-11-18T13:16:57.653-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arubanetworks:sd-wan:2.2.0.3:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:arubanetworks:sd-wan:2.2.0.3",
+	"deprecated": true,
+	"deprecation_date": "2021-11-18T18:16:57.653Z",
+	"title": [
+		{
+			"text": "Aruba Networks SD-WAN 2.2.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.arubanetworks.com/products/sd-wan/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=emr_na-hpesbnw04072en_us"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.arubanetworks.com/assets/alert/ARUBA-PSA-2021-016.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arubanetworks:sd-wan:2.2.0.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-11-18T13:16:57.653-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arubanetworks:sd-wan:2.2.0.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

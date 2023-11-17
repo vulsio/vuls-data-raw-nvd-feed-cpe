@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:simple-git_project:simple-git:3.16.0::~~~node.js~~",
-  "title": [
-    {
-      "text": "Simple-git Project Simple-git 3.16.0 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-3177391"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/steveukx/git-js/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple-git_project:simple-git:3.16.0:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:simple-git_project:simple-git:3.16.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Simple-git Project Simple-git 3.16.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-3177391"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/steveukx/git-js/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple-git_project:simple-git:3.16.0:*:*:*:*:node.js:*:*"
+	}
 }

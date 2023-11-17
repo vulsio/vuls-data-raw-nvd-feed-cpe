@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:wpkube:authors_list:1.2.5::~~~wordpress~~",
-  "title": [
-    {
-      "text": "WPKube Authors List 1.2.5 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/authors-list/#developers"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/authors-list/wordpress-authors-list-plugin-2-0-2-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpkube:authors_list:1.2.5:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpkube:authors_list:1.2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPKube Authors List 1.2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/authors-list/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/authors-list/wordpress-authors-list-plugin-2-0-2-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpkube:authors_list:1.2.5:*:*:*:*:wordpress:*:*"
+	}
 }

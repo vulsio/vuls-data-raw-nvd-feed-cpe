@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:siemens:scalance_x-300_firmware:-",
-  "title": [
-    {
-      "text": "Siemens SCALANCE X-300 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-443566.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x-switches-media-converters/scalance-x-300-managed.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:scalance_x-300_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:scalance_x-300_firmware:-",
+	"title": [
+		{
+			"text": "Siemens SCALANCE X-300 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-443566.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://new.siemens.com/global/en/products/automation/industrial-communication/industrial-ethernet/scalance-x-switches-media-converters/scalance-x-300-managed.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:scalance_x-300_firmware:-:*:*:*:*:*:*:*"
+	}
 }

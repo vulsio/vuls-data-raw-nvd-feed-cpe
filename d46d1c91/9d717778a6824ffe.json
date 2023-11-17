@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mindspore:mindspore:1.0.1::~~~openeuler~~",
-  "title": [
-    {
-      "text": "Mindspore Mindspore 1.0.1 for Openeuler",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33647.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitee.com/mindspore/community/blob/master/security/security_advisory_list/mssa-2021-008_en.md#cve"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.mindspore.cn/versions/en"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mindspore:mindspore:1.0.1:*:*:*:*:openeuler:*:*"
-  }
+	"name": "cpe:/a:mindspore:mindspore:1.0.1::~~~openeuler~~",
+	"title": [
+		{
+			"text": "Mindspore Mindspore 1.0.1 for Openeuler",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33647.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitee.com/mindspore/community/blob/master/security/security_advisory_list/mssa-2021-008_en.md#cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.mindspore.cn/versions/en"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mindspore:mindspore:1.0.1:*:*:*:*:openeuler:*:*"
+	}
 }

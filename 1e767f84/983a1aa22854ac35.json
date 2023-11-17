@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:nvidia:dgx_a100_firmware:-::~~bmc~~~",
-  "title": [
-    {
-      "text": "NVIDIA DGX A100 Firmware BMC Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5435"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nvidia:dgx_a100_firmware:-:*:*:*:bmc:*:*:*"
-  }
+	"name": "cpe:/o:nvidia:dgx_a100_firmware:-::~~bmc~~~",
+	"title": [
+		{
+			"text": "NVIDIA DGX A100 Firmware BMC Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nvidia.com/en-us/data-center/dgx-a100/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5435"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:dgx_a100_firmware:-:*:*:*:bmc:*:*:*"
+	}
 }

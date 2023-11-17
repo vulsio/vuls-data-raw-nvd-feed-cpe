@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kubernetes:nginx_ingress_controller:0.9.0:beta19",
-  "title": [
-    {
-      "text": "Kubernetes NGINX Ingress Controller 0.9.0 Beta 19",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/kubernetes/ingress-nginx"
-    },
-    {
-      "text": "Product",
-      "href": "https://kubernetes.io/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/kubernetes/ingress-nginx/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.0:beta19:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:nginx_ingress_controller:0.9.0:beta19",
+	"title": [
+		{
+			"text": "Kubernetes NGINX Ingress Controller 0.9.0 Beta 19",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/kubernetes/ingress-nginx"
+		},
+		{
+			"text": "Product",
+			"href": "https://kubernetes.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubernetes/ingress-nginx/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:nginx_ingress_controller:0.9.0:beta19:*:*:*:*:*:*"
+	}
 }

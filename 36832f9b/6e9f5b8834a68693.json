@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:intel:openbmc:egs-0.91-179",
-  "title": [
-    {
-      "text": "Intel OpenBMC egs-0.91-179",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/openbmc/openbmc"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00737.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:intel:openbmc:egs-0.91-179",
+	"title": [
+		{
+			"text": "Intel OpenBMC egs-0.91-179",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/openbmc/openbmc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00737.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:openbmc:egs-0.91-179:*:*:*:*:*:*:*"
+	}
 }

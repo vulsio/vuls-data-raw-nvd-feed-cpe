@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:ellislab:expressionengine:4.3.5",
-  "deprecated": true,
-  "deprecation_date": "2020-07-06T20:05:39.300Z",
-  "title": [
-    {
-      "text": "EllisLab ExpressionEngine 4.3.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://ellislab.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.expressionengine.com/v4/about/changelog.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ellislab:expressionengine:4.3.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-06T16:05:39.300-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:expressionengine:expressionengine:4.3.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ellislab:expressionengine:4.3.5",
+	"deprecated": true,
+	"deprecation_date": "2020-07-06T20:05:39.300Z",
+	"title": [
+		{
+			"text": "EllisLab ExpressionEngine 4.3.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://ellislab.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.expressionengine.com/v4/about/changelog.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ellislab:expressionengine:4.3.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-06T16:05:39.300-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:expressionengine:expressionengine:4.3.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

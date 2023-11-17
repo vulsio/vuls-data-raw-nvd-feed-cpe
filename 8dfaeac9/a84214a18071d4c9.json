@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:gparted:gparted:14.1",
-  "deprecated": true,
-  "deprecation_date": "2021-05-13T11:20:39.397Z",
-  "title": [
-    {
-      "text": "GParted 14.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor website",
-      "href": "http://gparted.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gparted:gparted:14.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-13T07:20:39.397-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:gparted:gparted:0.14.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:gparted:gparted:14.1",
+	"deprecated": true,
+	"deprecation_date": "2021-05-13T11:20:39.397Z",
+	"title": [
+		{
+			"text": "GParted 14.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor website",
+			"href": "http://gparted.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gparted:gparted:14.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-13T07:20:39.397-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gparted:gparted:0.14.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

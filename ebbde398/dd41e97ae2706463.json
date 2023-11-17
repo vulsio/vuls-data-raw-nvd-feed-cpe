@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:redhat:wildfly:16.0.0",
-  "deprecated": true,
-  "deprecation_date": "2019-12-02T16:00:38.250Z",
-  "title": [
-    {
-      "text": "Red Hat WildFly 16.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/wildfly/wildfly/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/wildfly/wildfly"
-    },
-    {
-      "text": "Product",
-      "href": "https://wildfly.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:wildfly:16.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-12-02T11:00:38.250-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:redhat:wildfly:16.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:redhat:wildfly:16.0.0",
+	"deprecated": true,
+	"deprecation_date": "2019-12-02T16:00:38.250Z",
+	"title": [
+		{
+			"text": "Red Hat WildFly 16.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/wildfly/wildfly/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/wildfly/wildfly"
+		},
+		{
+			"text": "Product",
+			"href": "https://wildfly.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:wildfly:16.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-12-02T11:00:38.250-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:redhat:wildfly:16.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

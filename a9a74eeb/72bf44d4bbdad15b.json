@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:abb:robotware:5.09",
-  "title": [
-    {
-      "text": "ABB RobotWare 5.09",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/aliasrobotics/RVD/issues/3327"
-    },
-    {
-      "text": "Product",
-      "href": "https://library.e.abb.com/public/c351e246eeb20a19c12570b90039d5dc/RobotWare%20data%20sheet.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:abb:robotware:5.09:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:abb:robotware:5.09",
+	"title": [
+		{
+			"text": "ABB RobotWare 5.09",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aliasrobotics/RVD/issues/3327"
+		},
+		{
+			"text": "Product",
+			"href": "https://library.e.abb.com/public/c351e246eeb20a19c12570b90039d5dc/RobotWare%20data%20sheet.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abb:robotware:5.09:*:*:*:*:*:*:*"
+	}
 }

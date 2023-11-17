@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/h:schneider_electric:mps110-1:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T20:16:04.330Z",
-  "title": [
-    {
-      "text": "Schneider Electric MPS110-1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.pelco.com/fixed-ip-sarix-professional-series"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.pelco.com/search#keyword/v3.29.67/tab/documents"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Id=9555022340&p_File_Name=SEVD-2018-058-01+Pelco+Sarix+Professional+v1.1.pdf&p_Reference=SEVD-2018-058-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider_electric:mps110-1:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T15:16:04.330-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:mps110-1:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:schneider_electric:mps110-1:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T20:16:04.330Z",
+	"title": [
+		{
+			"text": "Schneider Electric MPS110-1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.pelco.com/fixed-ip-sarix-professional-series"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.pelco.com/search#keyword/v3.29.67/tab/documents"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Id=9555022340&p_File_Name=SEVD-2018-058-01+Pelco+Sarix+Professional+v1.1.pdf&p_Reference=SEVD-2018-058-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider_electric:mps110-1:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T15:16:04.330-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:mps110-1:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

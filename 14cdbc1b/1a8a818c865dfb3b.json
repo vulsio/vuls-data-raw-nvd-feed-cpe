@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linuxfoundation:auth_backend:0.1.1:alpha18:~~~node.js~~",
-  "title": [
-    {
-      "text": "Linux Foundation Auth Backend 0.1.1 Alpha 18 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/backstage/backstage/tree/master/plugins/auth-backend"
-    },
-    {
-      "text": "Product",
-      "href": "https://backstage.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.npmjs.com/package/@backstage/plugin-auth-backend"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linuxfoundation:auth_backend:0.1.1:alpha18:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:linuxfoundation:auth_backend:0.1.1:alpha18:~~~node.js~~",
+	"title": [
+		{
+			"text": "Linux Foundation Auth Backend 0.1.1 Alpha 18 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/backstage/backstage/tree/master/plugins/auth-backend"
+		},
+		{
+			"text": "Product",
+			"href": "https://backstage.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/@backstage/plugin-auth-backend"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:auth_backend:0.1.1:alpha18:*:*:*:node.js:*:*"
+	}
 }

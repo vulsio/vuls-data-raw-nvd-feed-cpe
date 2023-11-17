@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:x7542:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:38:58.500Z",
-  "title": [
-    {
-      "text": "Intel Xeon X7542",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:x7542:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:38:58.500-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_x7542:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:x7542:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:38:58.500Z",
+	"title": [
+		{
+			"text": "Intel Xeon X7542",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:x7542:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:38:58.500-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_x7542:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

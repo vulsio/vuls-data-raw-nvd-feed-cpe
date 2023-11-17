@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:gradle:build_action:-",
-  "title": [
-    {
-      "text": "Gradle Build Action",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/gradle/gradle-build-action/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/gradle/gradle-build-action/security/advisories/GHSA-h3qr-39j9-4r5v"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://gradle.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gradle:build_action:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:gradle:build_action:-",
+	"title": [
+		{
+			"text": "Gradle Build Action",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gradle/gradle-build-action/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gradle/gradle-build-action/security/advisories/GHSA-h3qr-39j9-4r5v"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://gradle.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gradle:build_action:-:*:*:*:*:*:*:*"
+	}
 }

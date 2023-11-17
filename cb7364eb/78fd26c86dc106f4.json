@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:netiq:namespace_server:2.54",
-  "deprecated": true,
-  "deprecation_date": "2021-04-13T16:05:53.350Z",
-  "title": [
-    {
-      "text": "Netiq Namespace Server 2.54",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netiq:namespace_server:2.54:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-13T12:05:53.350-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microfocus:namespace_server:2.54:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:netiq:namespace_server:2.54",
+	"deprecated": true,
+	"deprecation_date": "2021-04-13T16:05:53.350Z",
+	"title": [
+		{
+			"text": "Netiq Namespace Server 2.54",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netiq:namespace_server:2.54:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-13T12:05:53.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microfocus:namespace_server:2.54:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

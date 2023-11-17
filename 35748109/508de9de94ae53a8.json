@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e:2124g",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:51:53.503Z",
-  "title": [
-    {
-      "text": "Intel Xeon E 2124g",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ark.intel.com/products/series/134861/Intel-Xeon-E-Processor"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e:2124g:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:51:53.503-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e-2124g:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e:2124g",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:51:53.503Z",
+	"title": [
+		{
+			"text": "Intel Xeon E 2124g",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ark.intel.com/products/series/134861/Intel-Xeon-E-Processor"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e:2124g:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:51:53.503-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e-2124g:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

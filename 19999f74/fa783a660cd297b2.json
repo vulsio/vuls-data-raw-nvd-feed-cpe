@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:schneider-electric:bmep581020:-",
-  "deprecated": true,
-  "deprecation_date": "2021-08-18T22:41:13.633Z",
-  "title": [
-    {
-      "text": "Schneider Electric Bmep581020 -",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2019-134-10+-+Modicon+Controller.pdf&p_Doc_Ref=SEVD-2019-134-10"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:schneider-electric:bmep581020:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-18T18:41:13.633-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:modicon_m580_bmep581020:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:schneider-electric:bmep581020:-",
+	"deprecated": true,
+	"deprecation_date": "2021-08-18T22:41:13.633Z",
+	"title": [
+		{
+			"text": "Schneider Electric Bmep581020 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2019-134-10+-+Modicon+Controller.pdf&p_Doc_Ref=SEVD-2019-134-10"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:schneider-electric:bmep581020:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-18T18:41:13.633-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:modicon_m580_bmep581020:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

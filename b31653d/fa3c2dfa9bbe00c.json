@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:net2_project:net2:0.2.29",
-  "deprecated": true,
-  "deprecation_date": "2021-01-07T13:04:06.933Z",
-  "title": [
-    {
-      "text": "net2 Project net2 0.2.29",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://rustsec.org/advisories/RUSTSEC-2020-0078.html"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/deprecrated/net2-rs/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:net2_project:net2:0.2.29:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-07T08:04:06.933-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:net2_project:net2:0.2.29:*:*:*:*:rust:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:net2_project:net2:0.2.29",
+	"deprecated": true,
+	"deprecation_date": "2021-01-07T13:04:06.933Z",
+	"title": [
+		{
+			"text": "net2 Project net2 0.2.29",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://rustsec.org/advisories/RUSTSEC-2020-0078.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/deprecrated/net2-rs/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:net2_project:net2:0.2.29:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-07T08:04:06.933-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:net2_project:net2:0.2.29:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

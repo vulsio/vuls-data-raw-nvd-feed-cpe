@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:deviniti:issue_sync:-::~~~jira~~",
-  "title": [
-    {
-      "text": "Deviniti Issue Sync - for Jira",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://deviniti.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/D23K4N/CVE/blob/main/CVE-2023-30285.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://marketplace.atlassian.com/apps/1213346/issue-sync-synchronization-for-jira?tab=overview&hosting=cloud"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:deviniti:issue_sync:-:*:*:*:*:jira:*:*"
-  }
+	"name": "cpe:/a:deviniti:issue_sync:-::~~~jira~~",
+	"title": [
+		{
+			"text": "Deviniti Issue Sync - for Jira",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://deviniti.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/D23K4N/CVE/blob/main/CVE-2023-30285.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://marketplace.atlassian.com/apps/1213346/issue-sync-synchronization-for-jira?tab=overview&hosting=cloud"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:deviniti:issue_sync:-:*:*:*:*:jira:*:*"
+	}
 }

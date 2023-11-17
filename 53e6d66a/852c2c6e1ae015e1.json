@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:oracle:mysql_connectors:-",
-  "title": [
-    {
-      "text": "Oracle MySQL Connectors",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.mysql.com/products/connector/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.oracle.com/security-alerts/cpujan2019.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:mysql_connectors:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:oracle:mysql_connectors:-",
+	"title": [
+		{
+			"text": "Oracle MySQL Connectors",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mysql.com/products/connector/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2019.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql_connectors:-:*:*:*:*:*:*:*"
+	}
 }

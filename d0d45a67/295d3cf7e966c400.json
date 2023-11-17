@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:maxhouse_project:maxhouse:-",
-  "title": [
-    {
-      "text": "MaxHouse Project MaxHouse",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x8d397626b256be03dd718b77e217eee82c4940b4#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:maxhouse_project:maxhouse:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:maxhouse_project:maxhouse:-",
+	"title": [
+		{
+			"text": "MaxHouse Project MaxHouse",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x8d397626b256be03dd718b77e217eee82c4940b4#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:maxhouse_project:maxhouse:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rtw65i:5.03.25",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:45.090Z",
-  "title": [
-    {
-      "text": "ヤマハ RTW65i 5.03.25",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RTW65i 5.03.25",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rtw65i:5.03.25:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:45.090-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rtw65i:5.03.25:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rtw65i:5.03.25",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:45.090Z",
+	"title": [
+		{
+			"text": "ヤマハ RTW65i 5.03.25",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RTW65i 5.03.25",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rtw65i:5.03.25:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:45.090-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rtw65i:5.03.25:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

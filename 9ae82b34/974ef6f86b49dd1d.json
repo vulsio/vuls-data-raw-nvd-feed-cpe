@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:se:vijeo_designer:6.2::~~-~~~",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:42:54.627Z",
-  "title": [
-    {
-      "text": "Schneider Electric Vijeo Designer 6.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.se.com/us/en/product-range/1054-vijeo-designer-hmi-software/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.se.com/us/en/product/VJDUPDTGAV62M/vijeo-designer---update-6.2-license---configuration-software/?range=1054-vijeo-designer-hmi-software&node=166533890-software&parent-category-id=88847&filter=business-1-industrial-automation-and-control"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-105-03_Vijeo_Designer_and_Vijeo_Designer_Basic_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-105-03"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:vijeo_designer:6.2:*:*:*:-:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:42:54.627-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:vijeo_designer:6.2:*:*:*:-:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:vijeo_designer:6.2::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:42:54.627Z",
+	"title": [
+		{
+			"text": "Schneider Electric Vijeo Designer 6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.se.com/us/en/product-range/1054-vijeo-designer-hmi-software/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.se.com/us/en/product/VJDUPDTGAV62M/vijeo-designer---update-6.2-license---configuration-software/?range=1054-vijeo-designer-hmi-software&node=166533890-software&parent-category-id=88847&filter=business-1-industrial-automation-and-control"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://download.schneider-electric.com/files?p_enDocType=Technical+leaflet&p_File_Name=SEVD-2020-105-03_Vijeo_Designer_and_Vijeo_Designer_Basic_Security_Notification.pdf&p_Doc_Ref=SEVD-2020-105-03"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:vijeo_designer:6.2:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:42:54.627-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:vijeo_designer:6.2:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

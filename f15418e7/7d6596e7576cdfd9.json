@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:losant:arduino_mqtt_client:1.7",
-  "title": [
-    {
-      "text": "Losant Arduino MQTT Client 1.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.losant.com/mqtt/arduino/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/knolleary/pubsubclient"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:losant:arduino_mqtt_client:1.7:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:losant:arduino_mqtt_client:1.7",
+	"title": [
+		{
+			"text": "Losant Arduino MQTT Client 1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.losant.com/mqtt/arduino/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/knolleary/pubsubclient"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:losant:arduino_mqtt_client:1.7:*:*:*:*:*:*:*"
+	}
 }

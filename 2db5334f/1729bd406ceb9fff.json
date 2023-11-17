@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:coscale_agent_project:coscale_agent:3.16.0",
-  "title": [
-    {
-      "text": "CoScale Agent Project CoScale Agent 3.16.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/r/coscale/coscale-agent/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35462"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:coscale_agent_project:coscale_agent:3.16.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:coscale_agent_project:coscale_agent:3.16.0",
+	"title": [
+		{
+			"text": "CoScale Agent Project CoScale Agent 3.16.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/r/coscale/coscale-agent/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/donghyunlee00/CVE/blob/main/CVE-2020-35462"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:coscale_agent_project:coscale_agent:3.16.0:*:*:*:*:*:*:*"
+	}
 }

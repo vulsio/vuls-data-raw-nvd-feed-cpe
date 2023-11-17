@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:simon_tatham:putty:0.52",
-  "deprecated": true,
-  "deprecation_date": "2019-03-21T17:04:56.923Z",
-  "title": [
-    {
-      "text": "PuTTY 0.52",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simon_tatham:putty:0.52:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-03-21T13:04:56.923-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:putty:putty:0.52:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:simon_tatham:putty:0.52",
+	"deprecated": true,
+	"deprecation_date": "2019-03-21T17:04:56.923Z",
+	"title": [
+		{
+			"text": "PuTTY 0.52",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simon_tatham:putty:0.52:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-03-21T13:04:56.923-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:putty:putty:0.52:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

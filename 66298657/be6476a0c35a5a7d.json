@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:mobile_detect_project:mobile_detect:2.8.31",
-  "deprecated": true,
-  "deprecation_date": "2023-10-24T16:35:17.970Z",
-  "title": [
-    {
-      "text": "Mobile Detect Project Mobile Detect 2.8.31",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/serbanghita/Mobile-Detect/tags"
-    },
-    {
-      "text": "Product",
-      "href": "http://mobiledetect.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mobile_detect_project:mobile_detect:2.8.31:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-24T12:35:17.970-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mobiledetect:mobiledetect:2.8.31:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mobile_detect_project:mobile_detect:2.8.31",
+	"deprecated": true,
+	"deprecation_date": "2023-10-24T16:35:17.970Z",
+	"title": [
+		{
+			"text": "Mobile Detect Project Mobile Detect 2.8.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/serbanghita/Mobile-Detect/tags"
+		},
+		{
+			"text": "Product",
+			"href": "http://mobiledetect.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mobile_detect_project:mobile_detect:2.8.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-24T12:35:17.970-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mobiledetect:mobiledetect:2.8.31:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:application_server_10g:10.1.2.3",
-  "deprecated": true,
-  "deprecation_date": "2021-07-13T17:54:48.623Z",
-  "title": [
-    {
-      "text": "Oracle Application Server 10g 10.1.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/webfolder/community/middleware/4139328.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:application_server_10g:10.1.2.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-13T13:54:48.623-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:application_server:10.1.2.3.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:application_server_10g:10.1.2.3",
+	"deprecated": true,
+	"deprecation_date": "2021-07-13T17:54:48.623Z",
+	"title": [
+		{
+			"text": "Oracle Application Server 10g 10.1.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/webfolder/community/middleware/4139328.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:application_server_10g:10.1.2.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-13T13:54:48.623-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:application_server:10.1.2.3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

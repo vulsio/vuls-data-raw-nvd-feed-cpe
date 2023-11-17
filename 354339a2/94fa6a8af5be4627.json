@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:ubnt:af5_firmware:2.2.1",
-  "deprecated": true,
-  "deprecation_date": "2021-08-12T16:42:20.340Z",
-  "title": [
-    {
-      "text": "Ubnt AF5 Firmware 2.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://community.ubnt.com/t5/airMAX-Updates-Blog/Important-Security-Notice-and-airOS-5-6-5-Release/ba-p/1565949"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ubnt:af5_firmware:2.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-08-12T12:42:20.340-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:ui:af5_firmware:2.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:ubnt:af5_firmware:2.2.1",
+	"deprecated": true,
+	"deprecation_date": "2021-08-12T16:42:20.340Z",
+	"title": [
+		{
+			"text": "Ubnt AF5 Firmware 2.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://community.ubnt.com/t5/airMAX-Updates-Blog/Important-Security-Notice-and-airOS-5-6-5-Release/ba-p/1565949"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ubnt:af5_firmware:2.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-08-12T12:42:20.340-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:ui:af5_firmware:2.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

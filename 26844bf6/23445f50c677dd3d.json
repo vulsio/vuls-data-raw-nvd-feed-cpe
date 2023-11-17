@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:mit:kerberos_5:1.2",
-  "deprecated": true,
-  "deprecation_date": "2020-01-21T16:02:04.557Z",
-  "title": [
-    {
-      "text": "Mit Kerberos 5 1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://web.mit.edu/"
-    },
-    {
-      "text": "Product",
-      "href": "https://kerberos.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/krb5/krb5"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mit:kerberos_5:1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-21T11:02:04.557-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:mit:kerberos_5:1.2:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mit:kerberos_5:1.2",
+	"deprecated": true,
+	"deprecation_date": "2020-01-21T16:02:04.557Z",
+	"title": [
+		{
+			"text": "Mit Kerberos 5 1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://web.mit.edu/"
+		},
+		{
+			"text": "Product",
+			"href": "https://kerberos.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/krb5/krb5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mit:kerberos_5:1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-21T11:02:04.557-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mit:kerberos_5:1.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

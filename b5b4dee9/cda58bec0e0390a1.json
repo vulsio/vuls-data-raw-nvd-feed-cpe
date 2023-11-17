@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:freetype:freetype:2.1.5",
-  "deprecated": true,
-  "deprecation_date": "2021-01-26T12:41:35.217Z",
-  "title": [
-    {
-      "text": "FreeType 2.1.5",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freetype:freetype:2.1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-01-26T07:41:35.217-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:freetype:freetype:2.1.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:freetype:freetype:2.1.5",
+	"deprecated": true,
+	"deprecation_date": "2021-01-26T12:41:35.217Z",
+	"title": [
+		{
+			"text": "FreeType 2.1.5",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freetype:freetype:2.1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-01-26T07:41:35.217-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:freetype:freetype:2.1.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

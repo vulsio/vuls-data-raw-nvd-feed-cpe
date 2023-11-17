@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:frappe:frappe:4.0.0",
-  "deprecated": true,
-  "deprecation_date": "2020-12-14T15:09:15.267Z",
-  "title": [
-    {
-      "text": "Frappé 4.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://frappe.io/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/frappe/frappe/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:frappe:frappe:4.0.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-14T10:09:15.267-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:frappe:frappe:4.0.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:frappe:frappe:4.0.0",
+	"deprecated": true,
+	"deprecation_date": "2020-12-14T15:09:15.267Z",
+	"title": [
+		{
+			"text": "Frappé 4.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://frappe.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/frappe/frappe/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:frappe:frappe:4.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-14T10:09:15.267-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:frappe:frappe:4.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

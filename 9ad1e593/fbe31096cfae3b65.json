@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:core_i9:8950hk",
-  "deprecated": true,
-  "deprecation_date": "2023-09-26T13:34:56.343Z",
-  "title": [
-    {
-      "text": "Intel Core I9 8950hk",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ark.intel.com/products/series/134928/8th-Generation-Intel-Core-i9-Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:core_i9:8950hk:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-26T09:34:56.343-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:core_i9-8950hk:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:core_i9:8950hk",
+	"deprecated": true,
+	"deprecation_date": "2023-09-26T13:34:56.343Z",
+	"title": [
+		{
+			"text": "Intel Core I9 8950hk",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ark.intel.com/products/series/134928/8th-Generation-Intel-Core-i9-Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:core_i9:8950hk:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-26T09:34:56.343-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:core_i9-8950hk:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

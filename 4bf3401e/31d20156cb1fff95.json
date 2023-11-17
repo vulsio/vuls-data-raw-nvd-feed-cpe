@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:redhat:certificate_system:10.0",
-  "title": [
-    {
-      "text": "Red Hat Certificate System 10.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://access.redhat.com/security/cve/CVE-2020-1696"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:redhat:certificate_system:10.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:redhat:certificate_system:10.0",
+	"title": [
+		{
+			"text": "Red Hat Certificate System 10.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2020-1696"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:certificate_system:10.0:*:*:*:*:*:*:*"
+	}
 }

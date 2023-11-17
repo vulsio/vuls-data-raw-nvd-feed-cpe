@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon:x6550:-",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T11:38:58.357Z",
-  "title": [
-    {
-      "text": "Intel Xeon X6550",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon:x6550:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T07:38:58.357-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_x6550:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon:x6550:-",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T11:38:58.357Z",
+	"title": [
+		{
+			"text": "Intel Xeon X6550",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon:x6550:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T07:38:58.357-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_x6550:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

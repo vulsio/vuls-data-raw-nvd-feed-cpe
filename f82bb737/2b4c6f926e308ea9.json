@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:file_manager_project:file_manager:7.1.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2023-05-26T17:54:54.117Z",
-  "title": [
-    {
-      "text": "File Manager Project File Manager 7.1.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-file-manager/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:file_manager_project:file_manager:7.1.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2023-05-26T13:54:54.117-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:webdesi9:file_manager:7.1.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:file_manager_project:file_manager:7.1.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-05-26T17:54:54.117Z",
+	"title": [
+		{
+			"text": "File Manager Project File Manager 7.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-file-manager/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:file_manager_project:file_manager:7.1.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-05-26T13:54:54.117-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:webdesi9:file_manager:7.1.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

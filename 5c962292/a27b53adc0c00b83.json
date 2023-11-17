@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:microsoft:windows_10:-::~~~~x64~",
-  "deprecated": true,
-  "deprecation_date": "2022-12-13T18:06:14.753Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 10 64-bit",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/windows/features"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x64:*",
-    "deprecation": {
-      "date": "2022-12-13T13:06:14.753-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_10_1507:-:*:*:*:*:*:x64:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_10:-::~~~~x64~",
+	"deprecated": true,
+	"deprecation_date": "2022-12-13T18:06:14.753Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 10 64-bit",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/windows/features"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:x64:*",
+		"deprecation": {
+			"date": "2022-12-13T13:06:14.753-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_1507:-:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

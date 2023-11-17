@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:malwarebytes:malwarebytes:-::~~-~macos~~",
-  "title": [
-    {
-      "text": "Malwarebytes for macOS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.malwarebytes.com/mac/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.malwarebytes.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://wojciechregula.blog/post/learn-xpc-exploitation-part-2-say-no-to-the-pid/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:malwarebytes:malwarebytes:-:*:*:*:-:macos:*:*"
-  }
+	"name": "cpe:/a:malwarebytes:malwarebytes:-::~~-~macos~~",
+	"title": [
+		{
+			"text": "Malwarebytes for macOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.malwarebytes.com/mac/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.malwarebytes.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wojciechregula.blog/post/learn-xpc-exploitation-part-2-say-no-to-the-pid/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:malwarebytes:malwarebytes:-:*:*:*:-:macos:*:*"
+	}
 }

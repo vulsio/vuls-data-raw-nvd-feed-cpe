@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:se:somachine_basic:1.5",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:42:54.627Z",
-  "title": [
-    {
-      "text": "Schneider Electric SoMachine Basic 1.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.se.com/us/en/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.se.com/ww/en/product-range/2226-ecostruxure-machine-expert-%28somachine%29/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:se:somachine_basic:1.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:42:54.627-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:somachine_basic:1.5:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:se:somachine_basic:1.5",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:42:54.627Z",
+	"title": [
+		{
+			"text": "Schneider Electric SoMachine Basic 1.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.se.com/us/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.se.com/ww/en/product-range/2226-ecostruxure-machine-expert-%28somachine%29/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:se:somachine_basic:1.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:42:54.627-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:somachine_basic:1.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

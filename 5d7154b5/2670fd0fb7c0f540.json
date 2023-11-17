@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:piwik:piwik:0.2.14",
-  "deprecated": true,
-  "deprecation_date": "2019-11-21T13:28:52.567Z",
-  "title": [
-    {
-      "text": "Piwik 0.2.14",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:piwik:piwik:0.2.14:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-11-21T08:28:52.567-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:matomo:matomo:0.2.14:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:piwik:piwik:0.2.14",
+	"deprecated": true,
+	"deprecation_date": "2019-11-21T13:28:52.567Z",
+	"title": [
+		{
+			"text": "Piwik 0.2.14",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:piwik:piwik:0.2.14:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-11-21T08:28:52.567-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:matomo:matomo:0.2.14:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

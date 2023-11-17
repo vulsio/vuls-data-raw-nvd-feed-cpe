@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:kubernetes:cri-o:1.25.0",
-  "title": [
-    {
-      "text": "Kubernetes Cri-o 1.25.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2995.json"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cri-o/cri-o/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:kubernetes:cri-o:1.25.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:kubernetes:cri-o:1.25.0",
+	"title": [
+		{
+			"text": "Kubernetes Cri-o 1.25.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.benthamsgaze.org/2022/08/22/vulnerability-in-linux-containers-investigation-and-mitigation/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/2xxx/CVE-2022-2995.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cri-o/cri-o/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:cri-o:1.25.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:easycorp:zentao:18.3",
+	"title": [
+		{
+			"text": "Easycorp Zentao 18.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/elementalSec/CVE-Disclosures/blob/main/ZentaoPMS/CVE-2023-46475/CVE-2023-46475%20-%20Cross-Site%20Scripting%20%28Stored%29.md"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/easysoft/zentaopms/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:easycorp:zentao:18.3:*:*:*:*:*:*:*"
+	}
+}

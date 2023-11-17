@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:libxpm_project:libxpm:3.5.9",
-  "deprecated": true,
-  "deprecation_date": "2023-10-17T15:55:35.850Z",
-  "title": [
-    {
-      "text": "LibXpm Project LibXpm 3.5.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://cgit.freedesktop.org/xorg/lib/libXpm/refs/tags"
-    },
-    {
-      "text": "Version",
-      "href": "https://cgit.freedesktop.org/xorg/lib/libXpm/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libxpm_project:libxpm:3.5.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-10-17T11:55:35.850-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:x.org:libxpm:3.5.9:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libxpm_project:libxpm:3.5.9",
+	"deprecated": true,
+	"deprecation_date": "2023-10-17T15:55:35.850Z",
+	"title": [
+		{
+			"text": "LibXpm Project LibXpm 3.5.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://cgit.freedesktop.org/xorg/lib/libXpm/refs/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://cgit.freedesktop.org/xorg/lib/libXpm/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libxpm_project:libxpm:3.5.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-10-17T11:55:35.850-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:x.org:libxpm:3.5.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

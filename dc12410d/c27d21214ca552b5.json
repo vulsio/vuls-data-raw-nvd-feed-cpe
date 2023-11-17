@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:squaredup:squaredup:4.6::~~system_center_operations_manager~~~",
-  "title": [
-    {
-      "text": "SquaredUp 4.6 System Center Operations Manager (SCOM) Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4410635415569-CVE-2020-9388-API-Endpoints-are-not-protected-against-CSRF"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4406754117521-Release-Notes-for-SquaredUp-for-SCOM"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:system_center_operations_manager:*:*:*"
-  }
+	"name": "cpe:/a:squaredup:squaredup:4.6::~~system_center_operations_manager~~~",
+	"title": [
+		{
+			"text": "SquaredUp 4.6 System Center Operations Manager (SCOM) Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4410635415569-CVE-2020-9388-API-Endpoints-are-not-protected-against-CSRF"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4406754117521-Release-Notes-for-SquaredUp-for-SCOM"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squaredup:squaredup:4.6:*:*:*:system_center_operations_manager:*:*:*"
+	}
 }

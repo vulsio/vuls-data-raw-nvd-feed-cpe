@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:zscaler:zscaler_proxy:-::~~~windows~~",
-  "title": [
-    {
-      "text": "Zscaler Proxy for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/federella/CVE-2023-41717"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zscaler:zscaler_proxy:-:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:zscaler:zscaler_proxy:-::~~~windows~~",
+	"title": [
+		{
+			"text": "Zscaler Proxy for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/federella/CVE-2023-41717"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zscaler:zscaler_proxy:-:*:*:*:*:windows:*:*"
+	}
 }

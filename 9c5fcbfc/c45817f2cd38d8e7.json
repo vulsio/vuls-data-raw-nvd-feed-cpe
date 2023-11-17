@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:freebsd:name_server_daemon:-",
-  "title": [
-    {
-      "text": "FreeBSD Name Server Daemon",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.nlnetlabs.nl/downloads/nsd/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:freebsd:name_server_daemon:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:freebsd:name_server_daemon:-",
+	"title": [
+		{
+			"text": "FreeBSD Name Server Daemon",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.nlnetlabs.nl/downloads/nsd/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freebsd:name_server_daemon:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:supermicro:m11sdv-8ct-ln4f_firmware:3.15",
-  "title": [
-    {
-      "text": "Supermicro M11SDV-8CT-LN4F Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=X9#tab"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:supermicro:m11sdv-8ct-ln4f_firmware:3.15:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:supermicro:m11sdv-8ct-ln4f_firmware:3.15",
+	"title": [
+		{
+			"text": "Supermicro M11SDV-8CT-LN4F Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://eclypsium.com/2019/09/03/usbanywhere-bmc-vulnerability-opens-servers-to-remote-attack/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/support/security_Intel-SA.cfm?pg=X9#tab"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:m11sdv-8ct-ln4f_firmware:3.15:*:*:*:*:*:*:*"
+	}
 }

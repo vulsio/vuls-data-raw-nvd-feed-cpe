@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:shelljs_project:shelljs:0.5.3::~~node.js~~~",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T14:03:52.927Z",
-  "title": [
-    {
-      "text": "ShellJS Project ShellJS 0.5.3 Node.js Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/shelljs/shelljs/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:shelljs_project:shelljs:0.5.3:*:*:*:node.js:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T09:03:52.927-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:shelljs_project:shelljs:0.5.3:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:shelljs_project:shelljs:0.5.3::~~node.js~~~",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T14:03:52.927Z",
+	"title": [
+		{
+			"text": "ShellJS Project ShellJS 0.5.3 Node.js Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/shelljs/shelljs/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shelljs_project:shelljs:0.5.3:*:*:*:node.js:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T09:03:52.927-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:shelljs_project:shelljs:0.5.3:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

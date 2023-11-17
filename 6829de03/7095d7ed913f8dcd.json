@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:password_recovery_project:password_recovery:1.2::~~~roundcube~~",
-  "title": [
-    {
-      "text": "Password Recovery Project Password Recovery 1.2 for Roundcube",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-roundcube-password-recovery-plugin"
-    },
-    {
-      "text": "Project",
-      "href": "https://packagist.org/packages/alfnru/password_recovery"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:password_recovery_project:password_recovery:1.2:*:*:*:*:roundcube:*:*"
-  }
+	"name": "cpe:/a:password_recovery_project:password_recovery:1.2::~~~roundcube~~",
+	"title": [
+		{
+			"text": "Password Recovery Project Password Recovery 1.2 for Roundcube",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-roundcube-password-recovery-plugin"
+		},
+		{
+			"text": "Project",
+			"href": "https://packagist.org/packages/alfnru/password_recovery"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:password_recovery_project:password_recovery:1.2:*:*:*:*:roundcube:*:*"
+	}
 }

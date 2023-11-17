@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:controlmicrosystems:clearscada_2009:1.0",
-  "deprecated": true,
-  "deprecation_date": "2018-11-28T15:13:37.883Z",
-  "title": [
-    {
-      "text": "Control Microsystems ClearSCADA 2009 Release 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:controlmicrosystems:clearscada_2009:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2018-11-28T10:13:37.883-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:schneider-electric:clearscada_2009:r1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:controlmicrosystems:clearscada_2009:1.0",
+	"deprecated": true,
+	"deprecation_date": "2018-11-28T15:13:37.883Z",
+	"title": [
+		{
+			"text": "Control Microsystems ClearSCADA 2009 Release 1.0",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:controlmicrosystems:clearscada_2009:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2018-11-28T10:13:37.883-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:schneider-electric:clearscada_2009:r1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

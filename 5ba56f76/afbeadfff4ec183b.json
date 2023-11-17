@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:omron:nj501-140_firmware:-",
-  "title": [
-    {
-      "text": "OMRON NJ501-140 Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ia.omron.com/products/category/automation-systems/machine-automation-controllers/controller-nj-series/cpu-units/index.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ia.omron.com/product/vulnerability/OMSR-2022-001_en.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:omron:nj501-140_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:omron:nj501-140_firmware:-",
+	"title": [
+		{
+			"text": "OMRON NJ501-140 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ia.omron.com/products/category/automation-systems/machine-automation-controllers/controller-nj-series/cpu-units/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ia.omron.com/product/vulnerability/OMSR-2022-001_en.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:omron:nj501-140_firmware:-:*:*:*:*:*:*:*"
+	}
 }

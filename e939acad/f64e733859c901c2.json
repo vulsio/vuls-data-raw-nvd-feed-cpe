@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:nvidia:tesla_firmware:440.33.01",
-  "title": [
-    {
-      "text": "NVIDIA Tesla Firmware 440.33.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4996"
-    },
-    {
-      "text": "Product",
-      "href": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-440-3301/index.html#hardware-software-support"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:nvidia:tesla_firmware:440.33.01:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:nvidia:tesla_firmware:440.33.01",
+	"title": [
+		{
+			"text": "NVIDIA Tesla Firmware 440.33.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/4996"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-440-3301/index.html#hardware-software-support"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:tesla_firmware:440.33.01:*:*:*:*:*:*:*"
+	}
 }

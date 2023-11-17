@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:apple:tvos:12",
-  "deprecated": true,
-  "deprecation_date": "2020-10-29T11:51:51.420Z",
-  "title": [
-    {
-      "text": "Apple tvOS 12",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.apple.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.apple.com/tvos/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:apple:tvos:12:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-29T07:51:51.420-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:apple:tvos:12.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:apple:tvos:12",
+	"deprecated": true,
+	"deprecation_date": "2020-10-29T11:51:51.420Z",
+	"title": [
+		{
+			"text": "Apple tvOS 12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.apple.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.apple.com/tvos/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apple:tvos:12:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-29T07:51:51.420-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:tvos:12.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

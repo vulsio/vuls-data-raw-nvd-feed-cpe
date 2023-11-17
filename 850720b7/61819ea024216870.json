@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:bgcgtoken_project:bgcgtoken:-",
-  "title": [
-    {
-      "text": "BGCGToken Project BGCGToken",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/address/0x8444ccf30e86b5b8d27c5341ee2f77ae6f017072#code"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:bgcgtoken_project:bgcgtoken:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:bgcgtoken_project:bgcgtoken:-",
+	"title": [
+		{
+			"text": "BGCGToken Project BGCGToken",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/address/0x8444ccf30e86b5b8d27c5341ee2f77ae6f017072#code"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bgcgtoken_project:bgcgtoken:-:*:*:*:*:*:*:*"
+	}
 }

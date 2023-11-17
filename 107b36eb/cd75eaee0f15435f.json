@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:gitlab:gitlab:14.8.2::~~enterprise~~~",
-  "title": [
-    {
-      "text": "GitLab 14.8.2 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://about.gitlab.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-4191.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:gitlab:gitlab:14.8.2:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:gitlab:gitlab:14.8.2::~~enterprise~~~",
+	"title": [
+		{
+			"text": "GitLab 14.8.2 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://about.gitlab.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/gitlab-org/cves/-/blob/master/2021/CVE-2021-4191.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:14.8.2:*:*:*:enterprise:*:*:*"
+	}
 }

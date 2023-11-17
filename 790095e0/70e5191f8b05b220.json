@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:se:powerlogic_egx100:-",
-  "deprecated": true,
-  "deprecation_date": "2022-01-31T19:44:14.463Z",
-  "title": [
-    {
-      "text": "Schneider Electric PowerLogic EGX100",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.se.com/ww/en/product-range/1432-powerlogic-egx100/#overview"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:se:powerlogic_egx100:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-01-31T14:44:14.463-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:schneider-electric:powerlogic_egx100:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:se:powerlogic_egx100:-",
+	"deprecated": true,
+	"deprecation_date": "2022-01-31T19:44:14.463Z",
+	"title": [
+		{
+			"text": "Schneider Electric PowerLogic EGX100",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.se.com/ww/en/product-range/1432-powerlogic-egx100/#overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:se:powerlogic_egx100:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-01-31T14:44:14.463-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:schneider-electric:powerlogic_egx100:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

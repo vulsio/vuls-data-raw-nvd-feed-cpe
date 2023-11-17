@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:easycorp:zentao:15.0:-:~~demo~~~",
-  "title": [
-    {
-      "text": "Easycorp Zentao 15.0 Demo Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@sc0p3hacker/cve-2022-37700-directory-transversal-in-zentao-easy-soft-alm-2573c1f0fc21"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.easycorp.ltd/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.zentao.pm/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:easycorp:zentao:15.0:-:*:*:demo:*:*:*"
-  }
+	"name": "cpe:/a:easycorp:zentao:15.0:-:~~demo~~~",
+	"title": [
+		{
+			"text": "Easycorp Zentao 15.0 Demo Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@sc0p3hacker/cve-2022-37700-directory-transversal-in-zentao-easy-soft-alm-2573c1f0fc21"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.easycorp.ltd/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.zentao.pm/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:easycorp:zentao:15.0:-:*:*:demo:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:atlassian:jira:7.11.1",
-  "deprecated": true,
-  "deprecation_date": "2022-03-25T17:19:47.553Z",
-  "title": [
-    {
-      "text": "Atlassian JIRA 7.11.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:jira:7.11.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-03-25T13:19:47.553-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:atlassian:jira_server:7.11.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:atlassian:jira:7.11.1",
+	"deprecated": true,
+	"deprecation_date": "2022-03-25T17:19:47.553Z",
+	"title": [
+		{
+			"text": "Atlassian JIRA 7.11.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:jira:7.11.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-03-25T13:19:47.553-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:atlassian:jira_server:7.11.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

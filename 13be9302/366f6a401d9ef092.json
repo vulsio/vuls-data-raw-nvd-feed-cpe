@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:broadcom:ssl_visibility_aapliance:3.12",
-  "deprecated": true,
-  "deprecation_date": "2021-07-02T18:59:20.017Z",
-  "title": [
-    {
-      "text": "Broadcom SSL Visibility Appliance 3.12",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.12:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-02T14:59:20.017-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:ssl_visibility_appliance:3.12:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:broadcom:ssl_visibility_aapliance:3.12",
+	"deprecated": true,
+	"deprecation_date": "2021-07-02T18:59:20.017Z",
+	"title": [
+		{
+			"text": "Broadcom SSL Visibility Appliance 3.12",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:ssl_visibility_aapliance:3.12:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-02T14:59:20.017-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:ssl_visibility_appliance:3.12:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

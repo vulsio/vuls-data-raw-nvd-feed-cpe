@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:paloaltonetworks:cortex_xdr_agent:7.5::~~critical_environment~~~",
-  "title": [
-    {
-      "text": "Palo Alto Networks Cortex XDR Agent 7.5 Critical Environment Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.5ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.5-CE-Release-Information"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.paloaltonetworks.com/CVE-2023-0002"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:*:*:*:critical_environment:*:*:*"
-  }
+	"name": "cpe:/a:paloaltonetworks:cortex_xdr_agent:7.5::~~critical_environment~~~",
+	"title": [
+		{
+			"text": "Palo Alto Networks Cortex XDR Agent 7.5 Critical Environment Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/7.5ce/Cortex-XDR-Agent-Release-Notes/Cortex-XDR-Agent-7.5-CE-Release-Information"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.paloaltonetworks.com/CVE-2023-0002"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paloaltonetworks:cortex_xdr_agent:7.5:*:*:*:critical_environment:*:*:*"
+	}
 }

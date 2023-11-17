@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:insyde:insydeh20:05.18.03",
-  "deprecated": true,
-  "deprecation_date": "2023-08-14T18:21:19.413Z",
-  "title": [
-    {
-      "text": "Insyde InsydeH2O 05.18.03",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.insyde.com/security-pledge/SA-2023019"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:insyde:insydeh20:05.18.03:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-08-14T14:21:19.413-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:insyde:insydeh2o:05.18.03:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:insyde:insydeh20:05.18.03",
+	"deprecated": true,
+	"deprecation_date": "2023-08-14T18:21:19.413Z",
+	"title": [
+		{
+			"text": "Insyde InsydeH2O 05.18.03",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.insyde.com/security-pledge/SA-2023019"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:insyde:insydeh20:05.18.03:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-08-14T14:21:19.413-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:insyde:insydeh2o:05.18.03:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

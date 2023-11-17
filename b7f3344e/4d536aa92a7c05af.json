@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:icecast:ezstream:0.1.2",
-  "deprecated": true,
-  "deprecation_date": "2021-07-12T17:11:56.613Z",
-  "title": [
-    {
-      "text": "Icecast Ezstream 0.1.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://ftp.osuosl.org/pub/xiph/releases/ezstream/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.icecast.org/ezstream/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:icecast:ezstream:0.1.2:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-07-12T13:11:56.613-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:xiph:icecast_ezstream:0.1.2:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:icecast:ezstream:0.1.2",
+	"deprecated": true,
+	"deprecation_date": "2021-07-12T17:11:56.613Z",
+	"title": [
+		{
+			"text": "Icecast Ezstream 0.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ftp.osuosl.org/pub/xiph/releases/ezstream/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.icecast.org/ezstream/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:icecast:ezstream:0.1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-07-12T13:11:56.613-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xiph:icecast_ezstream:0.1.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

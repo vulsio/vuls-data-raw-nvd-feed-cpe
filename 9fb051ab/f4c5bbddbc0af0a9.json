@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/o:cisco:ios:12.2%5c%2825%5c%29see4",
-  "deprecated": true,
-  "deprecation_date": "2022-07-19T18:01:38.857Z",
-  "title": [
-    {
-      "text": "Cisco IOS 12.2\\(25\\)SEE4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410"
-    },
-    {
-      "text": "Version",
-      "href": "https://software.cisco.com/download/home/281458045"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:ios:12.2\\\\\\(25\\\\\\)see4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-07-19T14:01:38.857-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:ios:12.2\\(25\\)see4:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:ios:12.2%5c%2825%5c%29see4",
+	"deprecated": true,
+	"deprecation_date": "2022-07-19T18:01:38.857Z",
+	"title": [
+		{
+			"text": "Cisco IOS 12.2\\(25\\)SEE4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160323-smi"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCuv45410"
+		},
+		{
+			"text": "Version",
+			"href": "https://software.cisco.com/download/home/281458045"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:ios:12.2\\\\\\(25\\\\\\)see4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-07-19T14:01:38.857-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:ios:12.2\\(25\\)see4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

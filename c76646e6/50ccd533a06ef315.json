@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:amazon:web_services_identity_and_access_management:-",
-  "deprecated": true,
-  "deprecation_date": "2021-05-10T15:58:17.340Z",
-  "title": [
-    {
-      "text": "Amazon Web Services Identity and Access Management",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://aws.amazon.com/iam/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:amazon:web_services_identity_and_access_management:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-05-10T11:58:17.340-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:amazon:aws_identity_and_access_management:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:amazon:web_services_identity_and_access_management:-",
+	"deprecated": true,
+	"deprecation_date": "2021-05-10T15:58:17.340Z",
+	"title": [
+		{
+			"text": "Amazon Web Services Identity and Access Management",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://aws.amazon.com/iam/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:web_services_identity_and_access_management:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-05-10T11:58:17.340-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:amazon:aws_identity_and_access_management:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

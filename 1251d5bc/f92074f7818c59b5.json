@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:ti:real-time_operating_system:-",
-  "title": [
-    {
-      "text": "Texas Instruments Real-Time Operating System (RTOS)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.ti.com/tool/TI-RTOS-MCU"
-    },
-    {
-      "text": "Advisory",
-      "href": "http://software-dl.ti.com/simplelink/esd/simplelink_cc13x2_26x2_sdk/3.20.00.68/exports/changelog.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:ti:real-time_operating_system:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:ti:real-time_operating_system:-",
+	"title": [
+		{
+			"text": "Texas Instruments Real-Time Operating System (RTOS)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ti.com/tool/TI-RTOS-MCU"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://software-dl.ti.com/simplelink/esd/simplelink_cc13x2_26x2_sdk/3.20.00.68/exports/changelog.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ti:real-time_operating_system:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:netapp:clustered_data_ontap:9.5",
-  "deprecated": true,
-  "deprecation_date": "2021-10-18T11:30:13.000Z",
-  "title": [
-    {
-      "text": "NetApp Clustered Data ONTAP 9.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=62286"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:netapp:clustered_data_ontap:9.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-10-18T07:30:13.000-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:netapp:clustered_data_ontap:9.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:netapp:clustered_data_ontap:9.5",
+	"deprecated": true,
+	"deprecation_date": "2021-10-18T11:30:13.000Z",
+	"title": [
+		{
+			"text": "NetApp Clustered Data ONTAP 9.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=62286"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netapp:clustered_data_ontap:9.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-10-18T07:30:13.000-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:netapp:clustered_data_ontap:9.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

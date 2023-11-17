@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:qt:qt:6.2.10",
-  "title": [
-    {
-      "text": "Qt 6.2.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://codereview.qt-project.org/c/qt/qtbase/+/488960"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2023/38xxx/CVE-2023-38197.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:qt:qt:6.2.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:qt:qt:6.2.10",
+	"title": [
+		{
+			"text": "Qt 6.2.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://codereview.qt-project.org/c/qt/qtbase/+/488960"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/38xxx/CVE-2023-38197.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qt:qt:6.2.10:*:*:*:*:*:*:*"
+	}
 }

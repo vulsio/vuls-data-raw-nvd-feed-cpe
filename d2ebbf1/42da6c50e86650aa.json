@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:jenkins:tinfoil_security:1.2::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Tinfoil Security 1.2 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://jenkins.io/"
-    },
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/tinfoil-scan"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/tinfoil-scan-plugin/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:tinfoil_security:1.2:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:tinfoil_security:1.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Tinfoil Security 1.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jenkins.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/tinfoil-scan"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/tinfoil-scan-plugin/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:tinfoil_security:1.2:*:*:*:*:jenkins:*:*"
+	}
 }

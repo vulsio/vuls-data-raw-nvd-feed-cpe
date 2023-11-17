@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:woocommerce:automatewoo:-::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Woocommerce Automatewoo - for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://woocommerce.com/products/automatewoo/"
-    },
-    {
-      "text": "Product",
-      "href": "https://automatewoo.com/follow-up-emails/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/woocommerce-follow-up-emails/wordpress-woocommerce-follow-up-emails-plugin-4-9-40-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:woocommerce:automatewoo:-:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:woocommerce:automatewoo:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Woocommerce Automatewoo - for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://woocommerce.com/products/automatewoo/"
+		},
+		{
+			"text": "Product",
+			"href": "https://automatewoo.com/follow-up-emails/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-follow-up-emails/wordpress-woocommerce-follow-up-emails-plugin-4-9-40-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woocommerce:automatewoo:-:*:*:*:*:wordpress:*:*"
+	}
 }

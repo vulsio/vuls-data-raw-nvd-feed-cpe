@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:strapi:strapi:3.0.0:alpha.6.4",
-  "deprecated": true,
-  "deprecation_date": "2020-06-24T02:42:00.647Z",
-  "title": [
-    {
-      "text": "Strapi 3.0.0 Alpha.6.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/strapi/strapi/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:strapi:strapi:3.0.0:alpha.6.4:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-06-23T22:42:00.647-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:strapi:strapi:3.0.0:alpha6.4:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:strapi:strapi:3.0.0:alpha.6.4",
+	"deprecated": true,
+	"deprecation_date": "2020-06-24T02:42:00.647Z",
+	"title": [
+		{
+			"text": "Strapi 3.0.0 Alpha.6.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/strapi/strapi/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strapi:strapi:3.0.0:alpha.6.4:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-06-23T22:42:00.647-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:strapi:strapi:3.0.0:alpha6.4:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

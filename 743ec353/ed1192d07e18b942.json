@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:multivendorx:multivendorx:3.4.7::~~~wordpress~~",
-  "title": [
-    {
-      "text": "MultiVendorX 3.4.7 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://multivendorx.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/dc-woocommerce-multi-vendor/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:multivendorx:multivendorx:3.4.7:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:multivendorx:multivendorx:3.4.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "MultiVendorX 3.4.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.nintechnet.com/25-wordpress-plugins-vulnerable-to-csrf-attacks/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://multivendorx.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/dc-woocommerce-multi-vendor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:multivendorx:multivendorx:3.4.7:*:*:*:*:wordpress:*:*"
+	}
 }

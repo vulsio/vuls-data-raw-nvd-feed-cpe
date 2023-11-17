@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:sonar_gerrit:-::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Sonar Gerrit for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-1002"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.jenkins.io/sonar-gerrit/#releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:sonar_gerrit:-:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:sonar_gerrit:-::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Sonar Gerrit for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2022-12-07/#SECURITY-1002"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/sonar-gerrit/#releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:sonar_gerrit:-:*:*:*:*:jenkins:*:*"
+	}
 }

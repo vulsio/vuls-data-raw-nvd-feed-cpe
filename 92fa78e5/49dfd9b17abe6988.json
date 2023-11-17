@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:matomo:piwik_fpm-alpine_docker_image:3.5.1",
-  "title": [
-    {
-      "text": "Matomo Piwik Fpm-alpine Docker Image 3.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29578"
-    },
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/piwik"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://matomo.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:matomo:piwik_fpm-alpine_docker_image:3.5.1",
+	"title": [
+		{
+			"text": "Matomo Piwik Fpm-alpine Docker Image 3.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29578"
+		},
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/piwik"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://matomo.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matomo:piwik_fpm-alpine_docker_image:3.5.1:*:*:*:*:*:*:*"
+	}
 }

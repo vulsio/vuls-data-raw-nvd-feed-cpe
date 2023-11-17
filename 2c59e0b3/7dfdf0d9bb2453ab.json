@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:microsoft:office:2016:-:~~~-~-~",
-  "deprecated": true,
-  "deprecation_date": "2020-06-12T14:36:20.267Z",
-  "title": [
-    {
-      "text": "Microsoft Office 2016",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2016"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://technet.microsoft.com/library/security/ms16-004"
-    },
-    {
-      "text": "Product",
-      "href": "https://products.office.com/en-US/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
-    "deprecation": {
-      "date": "2020-06-12T10:36:20.267-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:microsoft:office:2016:-:~~~-~-~",
+	"deprecated": true,
+	"deprecation_date": "2020-06-12T14:36:20.267Z",
+	"title": [
+		{
+			"text": "Microsoft Office 2016",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-office-2016"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://technet.microsoft.com/library/security/ms16-004"
+		},
+		{
+			"text": "Product",
+			"href": "https://products.office.com/en-US/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:office:2016:-:*:*:*:-:-:*",
+		"deprecation": {
+			"date": "2020-06-12T10:36:20.267-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:office:2016:*:-:*:-:*:-:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

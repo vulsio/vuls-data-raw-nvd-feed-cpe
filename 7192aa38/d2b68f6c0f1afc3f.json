@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:yandex:clickhouse:21.4",
-  "title": [
-    {
-      "text": "Yandex ClickHouse 21.4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://clickhouse.tech/docs/en/whats-new/changelog/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://clickhouse.tech/docs/en/whats-new/security-changelog/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:yandex:clickhouse:21.4:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:yandex:clickhouse:21.4",
+	"title": [
+		{
+			"text": "Yandex ClickHouse 21.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://clickhouse.tech/docs/en/whats-new/changelog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://clickhouse.tech/docs/en/whats-new/security-changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yandex:clickhouse:21.4:*:*:*:*:*:*:*"
+	}
 }

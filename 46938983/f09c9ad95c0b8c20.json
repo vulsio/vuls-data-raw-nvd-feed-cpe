@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:docker:crux_linux_docker_image:3.0",
-  "title": [
-    {
-      "text": "Docker Crux Linux Docker Image 3.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://hub.docker.com/_/crux"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29389"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:docker:crux_linux_docker_image:3.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:docker:crux_linux_docker_image:3.0",
+	"title": [
+		{
+			"text": "Docker Crux Linux Docker Image 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://hub.docker.com/_/crux"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/koharin/koharin2/blob/main/CVE-2020-29389"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:docker:crux_linux_docker_image:3.0:*:*:*:*:*:*:*"
+	}
 }

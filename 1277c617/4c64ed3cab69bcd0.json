@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:cabrerahector:popular_posts:2.1.1::~~~wordpress~~",
-  "deprecated": true,
-  "deprecation_date": "2021-09-28T17:29:26.860Z",
-  "title": [
-    {
-      "text": "Cabrera Hector Popular Posts 2.1.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://cabrerahector.com/projects/wordpress-popular-posts/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wordpress.org/plugins/wordpress-popular-posts/"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://cabrerahector.com/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/cabrerahector/wordpress-popular-posts/blob/master/changelog.md"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cabrerahector:popular_posts:2.1.1:*:*:*:*:wordpress:*:*",
-    "deprecation": {
-      "date": "2021-09-28T13:29:26.860-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:wordpress_popular_posts_project:wordpress_popular_posts:2.1.1:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cabrerahector:popular_posts:2.1.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2021-09-28T17:29:26.860Z",
+	"title": [
+		{
+			"text": "Cabrera Hector Popular Posts 2.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://cabrerahector.com/projects/wordpress-popular-posts/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wordpress-popular-posts/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cabrerahector.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cabrerahector/wordpress-popular-posts/blob/master/changelog.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cabrerahector:popular_posts:2.1.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2021-09-28T13:29:26.860-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wordpress_popular_posts_project:wordpress_popular_posts:2.1.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

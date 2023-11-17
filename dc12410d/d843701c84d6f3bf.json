@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:squaredup:squaredup:5.3.1::~~community~~~",
-  "title": [
-    {
-      "text": "SquaredUp 5.3.1 Community Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4409024403985-Release-Notes-for-Dashboard-Server-Community-Edition"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://download.squaredup.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:squaredup:squaredup:5.3.1:*:*:*:community:*:*:*"
-  }
+	"name": "cpe:/a:squaredup:squaredup:5.3.1::~~community~~~",
+	"title": [
+		{
+			"text": "SquaredUp 5.3.1 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4409024403985-Release-Notes-for-Dashboard-Server-Community-Edition"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://download.squaredup.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.squaredup.com/hc/en-us/articles/4410635419153-CVE-2021-40095-Reading-arbitrary-files"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squaredup:squaredup:5.3.1:*:*:*:community:*:*:*"
+	}
 }

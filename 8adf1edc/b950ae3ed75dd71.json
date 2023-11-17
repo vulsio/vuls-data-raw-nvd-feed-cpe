@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt58i:9.01.21",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:14.637Z",
-  "title": [
-    {
-      "text": "ヤマハ RT58i 9.01.21",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT58i 9.01.21",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt58i:9.01.21:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:14.637-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt58i:9.01.21:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt58i:9.01.21",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:14.637Z",
+	"title": [
+		{
+			"text": "ヤマハ RT58i 9.01.21",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT58i 9.01.21",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt58i:9.01.21:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:14.637-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt58i:9.01.21:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

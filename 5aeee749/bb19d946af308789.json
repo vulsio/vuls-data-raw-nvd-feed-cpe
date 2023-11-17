@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:rancher:rancher:2.5.1",
-  "deprecated": true,
-  "deprecation_date": "2022-04-13T23:40:29.773Z",
-  "title": [
-    {
-      "text": "Rancher 2.5.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://forums.rancher.com/c/announcements/12/l/latest"
-    },
-    {
-      "text": "Product",
-      "href": "https://rancher.com/products/rancher/2.5"
-    },
-    {
-      "text": "Product",
-      "href": "https://rancher.com/products/rancher/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:rancher:rancher:2.5.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-13T19:40:29.773-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:suse:rancher:2.5.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:rancher:rancher:2.5.1",
+	"deprecated": true,
+	"deprecation_date": "2022-04-13T23:40:29.773Z",
+	"title": [
+		{
+			"text": "Rancher 2.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://forums.rancher.com/c/announcements/12/l/latest"
+		},
+		{
+			"text": "Product",
+			"href": "https://rancher.com/products/rancher/2.5"
+		},
+		{
+			"text": "Product",
+			"href": "https://rancher.com/products/rancher/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rancher:rancher:2.5.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-13T19:40:29.773-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:suse:rancher:2.5.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

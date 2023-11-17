@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:netapp:vasa_provider:6.x::~~~clustered_data_ontap~~",
-  "title": [
-    {
-      "text": "NetApp Vasa Provider 6.x for Clustered Data ONTAP",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://library.netapp.com/ecmdocs/ECMP12405937/html/GUID-2478BE29-CA8B-40E9-ADB7-F2EF6DFDD323.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://security.netapp.com/advisory/ntap-20190404-0003/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:netapp:vasa_provider:6.x:*:*:*:*:clustered_data_ontap:*:*"
-  }
+	"name": "cpe:/a:netapp:vasa_provider:6.x::~~~clustered_data_ontap~~",
+	"title": [
+		{
+			"text": "NetApp Vasa Provider 6.x for Clustered Data ONTAP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://library.netapp.com/ecmdocs/ECMP12405937/html/GUID-2478BE29-CA8B-40E9-ADB7-F2EF6DFDD323.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20190404-0003/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:vasa_provider:6.x:*:*:*:*:clustered_data_ontap:*:*"
+	}
 }

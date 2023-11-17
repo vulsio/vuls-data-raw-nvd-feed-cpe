@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:jeff_sterup:plugin-organizer:2.5.4",
-  "deprecated": true,
-  "deprecation_date": "2017-11-22T15:42:00.827Z",
-  "title": [
-    {
-      "text": "Jeff Sterup Organizer plugin (plugin-organizer) 2.5.4 for Wordpress",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jeff_sterup:plugin-organizer:2.5.4:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-11-22T10:42:00.827-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:plugin-organizer_project:plugin-organizer:2.5.4:*:*:*:*:wordpress:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:jeff_sterup:plugin-organizer:2.5.4",
+	"deprecated": true,
+	"deprecation_date": "2017-11-22T15:42:00.827Z",
+	"title": [
+		{
+			"text": "Jeff Sterup Organizer plugin (plugin-organizer) 2.5.4 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jeff_sterup:plugin-organizer:2.5.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-11-22T10:42:00.827-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:plugin-organizer_project:plugin-organizer:2.5.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

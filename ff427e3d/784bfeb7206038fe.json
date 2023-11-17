@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:cisco:nx-os:8.3%280%29cv%280.345%29::~~~nexus_9000_series~~",
-  "deprecated": true,
-  "deprecation_date": "2021-12-03T17:07:32.007Z",
-  "title": [
-    {
-      "text": "Cisco NX-OS 8.3(0)CV(0.345) for Nexus 9000 Series",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:nx-os:8.3\\(0\\)cv\\(0.345\\):*:*:*:*:nexus_9000_series:*:*",
-    "deprecation": {
-      "date": "2021-12-03T12:07:32.007-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:nx-os:8.3\\(0\\)cv\\(0.345\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:nx-os:8.3%280%29cv%280.345%29::~~~nexus_9000_series~~",
+	"deprecated": true,
+	"deprecation_date": "2021-12-03T17:07:32.007Z",
+	"title": [
+		{
+			"text": "Cisco NX-OS 8.3(0)CV(0.345) for Nexus 9000 Series",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:nx-os:8.3\\(0\\)cv\\(0.345\\):*:*:*:*:nexus_9000_series:*:*",
+		"deprecation": {
+			"date": "2021-12-03T12:07:32.007-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:nx-os:8.3\\(0\\)cv\\(0.345\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

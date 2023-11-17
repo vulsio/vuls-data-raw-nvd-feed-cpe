@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:hazelcast:hazelcast:5.2.0::~~enterprise~~~",
-  "title": [
-    {
-      "text": "Hazelcast 5.2.0 Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://hazelcast.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.hazelcast.com/s/article/Security-Advisory-for-CVE-2023-33265"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hazelcast:hazelcast:5.2.0:*:*:*:enterprise:*:*:*"
-  }
+	"name": "cpe:/a:hazelcast:hazelcast:5.2.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Hazelcast 5.2.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://hazelcast.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.hazelcast.com/s/article/Security-Advisory-for-CVE-2023-33265"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hazelcast:hazelcast:5.2.0:*:*:*:enterprise:*:*:*"
+	}
 }

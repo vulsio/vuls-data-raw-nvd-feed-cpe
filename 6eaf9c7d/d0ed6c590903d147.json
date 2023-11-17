@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jamf:self_service:10.9.0",
-  "title": [
-    {
-      "text": "Jamf Self Service 10.9.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/PAGalaxyLab/VulInfo/blob/master/JAMF/JAMF%20software%20%20local%20permission%20promotion%20vulnerability.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.jamf.com/products/jamf-pro/self-service/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jamf:self_service:10.9.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:jamf:self_service:10.9.0",
+	"title": [
+		{
+			"text": "Jamf Self Service 10.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/PAGalaxyLab/VulInfo/blob/master/JAMF/JAMF%20software%20%20local%20permission%20promotion%20vulnerability.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.jamf.com/products/jamf-pro/self-service/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jamf:self_service:10.9.0:*:*:*:*:*:*:*"
+	}
 }

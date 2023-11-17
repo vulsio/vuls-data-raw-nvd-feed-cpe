@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:smtp_mailing_queue_project:smtp_mailing_queue:2.0.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "SMTP Mailing Queue Project SMTP Mailing Queue 2.0.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://wpscan.com/vulnerability/d470dd6c-dcac-4a3e-b42a-2489a31aca45"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/smtp-mailing-queue/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:smtp_mailing_queue_project:smtp_mailing_queue:2.0.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:smtp_mailing_queue_project:smtp_mailing_queue:2.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SMTP Mailing Queue Project SMTP Mailing Queue 2.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/d470dd6c-dcac-4a3e-b42a-2489a31aca45"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/smtp-mailing-queue/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:smtp_mailing_queue_project:smtp_mailing_queue:2.0.0:*:*:*:*:wordpress:*:*"
+	}
 }

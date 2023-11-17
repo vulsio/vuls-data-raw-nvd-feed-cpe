@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:apache:zookeeper:3.5.9",
-  "title": [
-    {
-      "text": "Apache Software Foundation ZooKeeper 3.5.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://zookeeper.apache.org/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://issues.apache.org/jira/browse/ZOOKEEPER-4390"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread/nlvld1pk13lz30lo5gzprl7sbtgp62vv"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:zookeeper:3.5.9:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:apache:zookeeper:3.5.9",
+	"title": [
+		{
+			"text": "Apache Software Foundation ZooKeeper 3.5.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://zookeeper.apache.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://issues.apache.org/jira/browse/ZOOKEEPER-4390"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/nlvld1pk13lz30lo5gzprl7sbtgp62vv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:zookeeper:3.5.9:*:*:*:*:*:*:*"
+	}
 }

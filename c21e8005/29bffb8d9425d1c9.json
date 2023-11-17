@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:postgis:postgis:1.3.2::~~~postgresql~~",
-  "title": [
-    {
-      "text": "PostGIS 1.3.2 for PostgreSQL",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://svn.osgeo.org/postgis/trunk/NEWS"
-    },
-    {
-      "text": "Product",
-      "href": "https://postgis.net/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:postgis:postgis:1.3.2:*:*:*:*:postgresql:*:*"
-  }
+	"name": "cpe:/a:postgis:postgis:1.3.2::~~~postgresql~~",
+	"title": [
+		{
+			"text": "PostGIS 1.3.2 for PostgreSQL",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://svn.osgeo.org/postgis/trunk/NEWS"
+		},
+		{
+			"text": "Product",
+			"href": "https://postgis.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgis:postgis:1.3.2:*:*:*:*:postgresql:*:*"
+	}
 }

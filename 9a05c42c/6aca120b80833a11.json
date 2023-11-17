@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:pixelgrade:pixtypes:1.1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Pixelgrade PixTypes 1.1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://pixelgrade.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/pixtypes/wordpress-pixtypes-plugin-1-4-14-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/pixtypes/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:pixelgrade:pixtypes:1.1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:pixelgrade:pixtypes:1.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Pixelgrade PixTypes 1.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pixelgrade.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pixtypes/wordpress-pixtypes-plugin-1-4-14-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/pixtypes/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pixelgrade:pixtypes:1.1.0:*:*:*:*:wordpress:*:*"
+	}
 }

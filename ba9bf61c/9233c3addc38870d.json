@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:wavlink:wl-wn531a6-a_firmware:-",
-  "title": [
-    {
-      "text": "Wavlink WL-WN531A6-A Firmware",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.wavlink.com/en_us/firmware.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/shellpei/WAVLINK-Reset/blob/main/CVE-2023-29708"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:wavlink:wl-wn531a6-a_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:wavlink:wl-wn531a6-a_firmware:-",
+	"title": [
+		{
+			"text": "Wavlink WL-WN531A6-A Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.wavlink.com/en_us/firmware.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/shellpei/WAVLINK-Reset/blob/main/CVE-2023-29708"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:wavlink:wl-wn531a6-a_firmware:-:*:*:*:*:*:*:*"
+	}
 }

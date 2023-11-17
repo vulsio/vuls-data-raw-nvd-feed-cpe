@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:openstack:compute:2014.2",
-  "title": [
-    {
-      "text": "OpenStack Compute (Nova) 2014.2",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://releases.openstack.org/teams/nova.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:compute:2014.2:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:compute:2014.2",
+	"title": [
+		{
+			"text": "OpenStack Compute (Nova) 2014.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://releases.openstack.org/teams/nova.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:compute:2014.2:*:*:*:*:*:*:*"
+	}
 }

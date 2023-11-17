@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:puma:puma:v5.2.2::~~~ruby~~",
-  "deprecated": true,
-  "deprecation_date": "2021-10-14T17:29:15.477Z",
-  "title": [
-    {
-      "text": "Puma V5.2.2 for Ruby",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/puma/puma/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://puma.io/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:puma:puma:v5.2.2:*:*:*:*:ruby:*:*",
-    "deprecation": {
-      "date": "2021-10-14T13:29:15.477-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:puma:puma:5.2.2:*:*:*:*:ruby:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:puma:puma:v5.2.2::~~~ruby~~",
+	"deprecated": true,
+	"deprecation_date": "2021-10-14T17:29:15.477Z",
+	"title": [
+		{
+			"text": "Puma V5.2.2 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/puma/puma/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://puma.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puma:puma:v5.2.2:*:*:*:*:ruby:*:*",
+		"deprecation": {
+			"date": "2021-10-14T13:29:15.477-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:puma:puma:5.2.2:*:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

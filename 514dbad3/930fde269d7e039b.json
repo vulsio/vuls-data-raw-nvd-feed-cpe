@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:apache:heron:0.20.5-incubating",
-  "deprecated": true,
-  "deprecation_date": "2023-05-22T11:21:09.290Z",
-  "title": [
-    {
-      "text": "Apache Software Foundation Heron 0.20.5-incubating",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://github.com/apache/incubator-heron"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://incubator.apache.org/projects/heron.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://lists.apache.org/thread/j65nwr8n7jchngwqptzh100drcr4ry2q"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:apache:heron:0.20.5-incubating:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-05-22T07:21:09.290-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:apache:heron:0.20.5:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:apache:heron:0.20.5-incubating",
+	"deprecated": true,
+	"deprecation_date": "2023-05-22T11:21:09.290Z",
+	"title": [
+		{
+			"text": "Apache Software Foundation Heron 0.20.5-incubating",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/apache/incubator-heron"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://incubator.apache.org/projects/heron.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/j65nwr8n7jchngwqptzh100drcr4ry2q"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:heron:0.20.5-incubating:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-05-22T07:21:09.290-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:heron:0.20.5:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

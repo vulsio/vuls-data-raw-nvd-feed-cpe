@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:cisco:fxos:12.3%281e%29",
-  "deprecated": true,
-  "deprecation_date": "2023-04-20T17:13:26.440Z",
-  "title": [
-    {
-      "text": "Cisco FXOS 12.3(1e)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvj94174"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:fxos:12.3\\(1e\\):*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-04-20T13:13:26.440-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:cisco:nx-os:12.3\\(1e\\):*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:fxos:12.3%281e%29",
+	"deprecated": true,
+	"deprecation_date": "2023-04-20T17:13:26.440Z",
+	"title": [
+		{
+			"text": "Cisco FXOS 12.3(1e)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvj94174"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:fxos:12.3\\(1e\\):*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-04-20T13:13:26.440-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:cisco:nx-os:12.3\\(1e\\):*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

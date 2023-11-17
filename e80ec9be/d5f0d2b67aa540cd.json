@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:ca:unicenter_management_web_servers:-",
-  "deprecated": true,
-  "deprecation_date": "2021-04-14T15:32:04.820Z",
-  "title": [
-    {
-      "text": "Computer Associates Unicenter Management Web Servers",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ca:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-04-14T11:32:04.820-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:broadcom:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ca:unicenter_management_web_servers:-",
+	"deprecated": true,
+	"deprecation_date": "2021-04-14T15:32:04.820Z",
+	"title": [
+		{
+			"text": "Computer Associates Unicenter Management Web Servers",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ca:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-04-14T11:32:04.820-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:broadcom:unicenter_management_web_servers:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

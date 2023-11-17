@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/h:silver-peak:nx-7000:-",
-  "deprecated": true,
-  "deprecation_date": "2023-11-07T21:16:03.090Z",
-  "title": [
-    {
-      "text": "Silver Peak NX-7000",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.silver-peak.com/"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.silver-peak.com/products/wan-optimization/vx-virtual-appliances"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.silver-peak.com/sites/default/files/advisory/security_advisory_notice_rogue_portal-cve_2020_12144.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:silver-peak:nx-7000:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-07T16:16:03.090-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:arubanetworks:nx-7000:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:silver-peak:nx-7000:-",
+	"deprecated": true,
+	"deprecation_date": "2023-11-07T21:16:03.090Z",
+	"title": [
+		{
+			"text": "Silver Peak NX-7000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.silver-peak.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.silver-peak.com/products/wan-optimization/vx-virtual-appliances"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.silver-peak.com/sites/default/files/advisory/security_advisory_notice_rogue_portal-cve_2020_12144.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:silver-peak:nx-7000:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-07T16:16:03.090-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:arubanetworks:nx-7000:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

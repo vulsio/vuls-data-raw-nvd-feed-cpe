@@ -1,25 +1,25 @@
 {
-  "name": "cpe:/o:yahama:rt300i:6.00.11",
-  "deprecated": true,
-  "deprecation_date": "2011-04-20T14:23:07.950Z",
-  "title": [
-    {
-      "text": "ヤマハ RT300i 6.00.11",
-      "lang": "ja-JP"
-    },
-    {
-      "text": "Yamaha RT300i 6.00.11",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:yahama:rt300i:6.00.11:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2011-04-20T10:23:07.950-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:yamaha:rt300i:6.00.11:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:yahama:rt300i:6.00.11",
+	"deprecated": true,
+	"deprecation_date": "2011-04-20T14:23:07.950Z",
+	"title": [
+		{
+			"text": "ヤマハ RT300i 6.00.11",
+			"lang": "ja-JP"
+		},
+		{
+			"text": "Yamaha RT300i 6.00.11",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yahama:rt300i:6.00.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2011-04-20T10:23:07.950-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:yamaha:rt300i:6.00.11:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

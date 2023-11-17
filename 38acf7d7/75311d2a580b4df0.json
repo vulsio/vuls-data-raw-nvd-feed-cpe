@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:ez:ez_publish:3.6.0",
-  "deprecated": true,
-  "deprecation_date": "2019-07-30T15:51:42.943Z",
-  "title": [
-    {
-      "text": "eZ Publish 3.6.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://doc.ez.no/eZ-Publish/Upgrading/Upgrading-to-3.6/from-3.6.x-to-3.6.y"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ez:ez_publish:3.6.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-07-30T11:51:42.943-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ez:ez_publish:3.6.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:ez:ez_publish:3.6.0",
+	"deprecated": true,
+	"deprecation_date": "2019-07-30T15:51:42.943Z",
+	"title": [
+		{
+			"text": "eZ Publish 3.6.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://doc.ez.no/eZ-Publish/Upgrading/Upgrading-to-3.6/from-3.6.x-to-3.6.y"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ez:ez_publish:3.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-07-30T11:51:42.943-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ez:ez_publish:3.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:keyfactor:ejbca:8.0.0",
-  "title": [
-    {
-      "text": "Keyfactor EJBCA 8.0.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.keyfactor.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.keyfactor.com/hc/en-us/articles/16671824556827-EJBCA-Security-Advisory-Partial-denial-of-service-attack-on-certificate-distribution-servlet-ejbca-ra-cert"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:keyfactor:ejbca:8.0.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:keyfactor:ejbca:8.0.0",
+	"title": [
+		{
+			"text": "Keyfactor EJBCA 8.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.keyfactor.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.keyfactor.com/hc/en-us/articles/16671824556827-EJBCA-Security-Advisory-Partial-denial-of-service-attack-on-certificate-distribution-servlet-ejbca-ra-cert"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:keyfactor:ejbca:8.0.0:*:*:*:*:*:*:*"
+	}
 }

@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:nvida:federated_learning_application_runtime_environment:2.0.1",
-  "deprecated": true,
-  "deprecation_date": "2022-06-15T13:54:51.240Z",
-  "title": [
-    {
-      "text": "NVIDA Federated Learning Application Runtime Environment (FLARE) 2.0.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/NVIDIA/NVFlare/security/advisories/GHSA-jx8f-cpx7-fv47"
-    },
-    {
-      "text": "Product",
-      "href": "https://nvidia.github.io/NVFlare/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/NVIDIA/NVFlare/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nvida:federated_learning_application_runtime_environment:2.0.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-06-15T09:54:51.240-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:nvidia:federated_learning_application_runtime_environment:2.0.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:nvida:federated_learning_application_runtime_environment:2.0.1",
+	"deprecated": true,
+	"deprecation_date": "2022-06-15T13:54:51.240Z",
+	"title": [
+		{
+			"text": "NVIDA Federated Learning Application Runtime Environment (FLARE) 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/NVIDIA/NVFlare/security/advisories/GHSA-jx8f-cpx7-fv47"
+		},
+		{
+			"text": "Product",
+			"href": "https://nvidia.github.io/NVFlare/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/NVIDIA/NVFlare/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvida:federated_learning_application_runtime_environment:2.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-06-15T09:54:51.240-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nvidia:federated_learning_application_runtime_environment:2.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

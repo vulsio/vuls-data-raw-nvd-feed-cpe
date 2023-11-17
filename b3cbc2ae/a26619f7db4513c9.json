@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:eset:mail_security:8.0.10018.0::~~~exchange_server~~",
-  "title": [
-    {
-      "text": "ESET Mail Security 8.0.10018.0 for Exchange Server",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.eset.com/ch-en/business/download/mail-security-exchange/"
-    },
-    {
-      "text": "Version",
-      "href": "https://help.eset.com/latestVersions/?lang=en"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:eset:mail_security:8.0.10018.0:*:*:*:*:exchange_server:*:*"
-  }
+	"name": "cpe:/a:eset:mail_security:8.0.10018.0::~~~exchange_server~~",
+	"title": [
+		{
+			"text": "ESET Mail Security 8.0.10018.0 for Exchange Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.eset.com/ch-en/business/download/mail-security-exchange/"
+		},
+		{
+			"text": "Version",
+			"href": "https://help.eset.com/latestVersions/?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:mail_security:8.0.10018.0:*:*:*:*:exchange_server:*:*"
+	}
 }

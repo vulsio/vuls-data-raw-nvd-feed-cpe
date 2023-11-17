@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:linux_audit_project:linux_audit:2.8.0",
-  "title": [
-    {
-      "text": "Linux Audit Project Linux Audit 2.8.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "http://people.redhat.com/sgrubb/audit/ChangeLog"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/linux-audit/audit-userspace/releases"
-    },
-    {
-      "text": "Product",
-      "href": "http://people.redhat.com/sgrubb/audit/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:linux_audit_project:linux_audit:2.8.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:linux_audit_project:linux_audit:2.8.0",
+	"title": [
+		{
+			"text": "Linux Audit Project Linux Audit 2.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://people.redhat.com/sgrubb/audit/ChangeLog"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/linux-audit/audit-userspace/releases"
+		},
+		{
+			"text": "Product",
+			"href": "http://people.redhat.com/sgrubb/audit/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linux_audit_project:linux_audit:2.8.0:*:*:*:*:*:*:*"
+	}
 }

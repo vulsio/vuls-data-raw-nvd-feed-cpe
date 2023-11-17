@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/o:microsoft:windows_server_2003:-:sp1:~~datacenter~~x64~",
-  "title": [
-    {
-      "text": "Microsoft Windows Server 2003 Service Pack 1 Datacenter Edition on x64",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.microsoft.com/en-us/download/details.aspx?id=11435"
-    },
-    {
-      "text": "Version",
-      "href": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-c00353754"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.microsoft.com/en-sa/cloud-platform/windows-server-2003"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.microsoft.com/en-us/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:datacenter:*:x64:*"
-  }
+	"name": "cpe:/o:microsoft:windows_server_2003:-:sp1:~~datacenter~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2003 Service Pack 1 Datacenter Edition on x64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=11435"
+		},
+		{
+			"text": "Version",
+			"href": "https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-c00353754"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-sa/cloud-platform/windows-server-2003"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2003:-:sp1:*:*:datacenter:*:x64:*"
+	}
 }

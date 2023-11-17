@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:zabbix:frontend:5.0.20",
-  "title": [
-    {
-      "text": "Zabbix Frontend 5.0.20",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.zabbix.com/browse/ZBX-20680"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24917.json"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:zabbix:frontend:5.0.20:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:zabbix:frontend:5.0.20",
+	"title": [
+		{
+			"text": "Zabbix Frontend 5.0.20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.zabbix.com/browse/ZBX-20680"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24917.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zabbix:frontend:5.0.20:*:*:*:*:*:*:*"
+	}
 }

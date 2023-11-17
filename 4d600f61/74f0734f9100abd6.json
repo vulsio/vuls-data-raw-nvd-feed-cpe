@@ -1,30 +1,30 @@
 {
-  "name": "cpe:/a:ibm:sterling_connect%3aexpress_for_unix:1.5.0.1609",
-  "title": [
-    {
-      "text": "IBM Sterling Connect:Express for Unix 1.5.0.1609",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/security-bulletin-ibm-sterling-connectexpress-unix-vulnerable-denial-service-due-openssl-cve-2022-0778-0"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.ibm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.ibm.com/support/pages/node/7010925"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ibm.com/support/pages/sterling-connectexpress-unix-documentation"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ibm:sterling_connect\\:express_for_unix:1.5.0.1609:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ibm:sterling_connect%3aexpress_for_unix:1.5.0.1609",
+	"title": [
+		{
+			"text": "IBM Sterling Connect:Express for Unix 1.5.0.1609",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-ibm-sterling-connectexpress-unix-vulnerable-denial-service-due-openssl-cve-2022-0778-0"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ibm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/node/7010925"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ibm.com/support/pages/sterling-connectexpress-unix-documentation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:sterling_connect\\:express_for_unix:1.5.0.1609:*:*:*:*:*:*:*"
+	}
 }

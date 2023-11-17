@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:moodle:moodle:2.9",
-  "deprecated": true,
-  "deprecation_date": "2020-12-01T14:52:48.487Z",
-  "title": [
-    {
-      "text": "Moodle 2.9",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "http://docs.moodle.org/dev/Releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://moodle.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:moodle:moodle:2.9:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-12-01T09:52:48.487-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:moodle:moodle:2.9.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:moodle:moodle:2.9",
+	"deprecated": true,
+	"deprecation_date": "2020-12-01T14:52:48.487Z",
+	"title": [
+		{
+			"text": "Moodle 2.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://docs.moodle.org/dev/Releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://moodle.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moodle:moodle:2.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-12-01T09:52:48.487-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:moodle:moodle:2.9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

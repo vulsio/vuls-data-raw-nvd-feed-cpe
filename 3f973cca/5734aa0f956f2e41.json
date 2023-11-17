@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:broadcom:symantec_messaging_gateway:-",
-  "title": [
-    {
-      "text": "Broadcom Symantec Messaging Gateway (SMG)",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://support.broadcom.com/security-advisory/content/security-advisories/Privilege-Escalation-and-Information-Disclosure-Vulnerabilities-in-SMG/SYMSA16609"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.broadcom.com/products/cyber-security/network/messaging/gateway"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:broadcom:symantec_messaging_gateway:-",
+	"title": [
+		{
+			"text": "Broadcom Symantec Messaging Gateway (SMG)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://support.broadcom.com/security-advisory/content/security-advisories/Privilege-Escalation-and-Information-Disclosure-Vulnerabilities-in-SMG/SYMSA16609"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.broadcom.com/products/cyber-security/network/messaging/gateway"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:symantec_messaging_gateway:-:*:*:*:*:*:*:*"
+	}
 }

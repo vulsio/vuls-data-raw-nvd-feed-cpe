@@ -1,18 +1,18 @@
 {
-  "name": "cpe:/a:openstack:keystone:-",
-  "title": [
-    {
-      "text": "OpenStack Keystone",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://docs.openstack.org/keystone/latest/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openstack:keystone:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:openstack:keystone:-",
+	"title": [
+		{
+			"text": "OpenStack Keystone",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.openstack.org/keystone/latest/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:keystone:-:*:*:*:*:*:*:*"
+	}
 }

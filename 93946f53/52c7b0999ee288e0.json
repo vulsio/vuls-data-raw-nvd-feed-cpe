@@ -1,34 +1,34 @@
 {
-  "name": "cpe:/a:megaeis:dbd%2b:1.4.4::~~~iphone_os~~",
-  "title": [
-    {
-      "text": "Megaeis DBD+ 1.4.4 for iPhone OS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://apps.apple.com/us/app/dbd/id1532426159"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.megafeis.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/WithSecureLabs/megafeis-palm/tree/main/CVE-2022-45634"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45634.json"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://labs.withsecure.com/advisories/username-disclosure-vulnerability-in-dbd--application-used-by-me"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:megaeis:dbd\\+:1.4.4:*:*:*:*:iphone_os:*:*"
-  }
+	"name": "cpe:/a:megaeis:dbd%2b:1.4.4::~~~iphone_os~~",
+	"title": [
+		{
+			"text": "Megaeis DBD+ 1.4.4 for iPhone OS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/dbd/id1532426159"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.megafeis.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/WithSecureLabs/megafeis-palm/tree/main/CVE-2022-45634"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45634.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://labs.withsecure.com/advisories/username-disclosure-vulnerability-in-dbd--application-used-by-me"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:megaeis:dbd\\+:1.4.4:*:*:*:*:iphone_os:*:*"
+	}
 }

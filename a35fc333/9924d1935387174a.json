@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:wpvibes:wp_mail_log:1.0.1::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Wpvibes WP Mail Log 1.0.1 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://wpvibes.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://patchstack.com/database/vulnerability/wp-mail-log/wordpress-wp-mail-log-plugin-1-0-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/wp-mail-log/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.1:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:wpvibes:wp_mail_log:1.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Wpvibes WP Mail Log 1.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpvibes.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-mail-log/wordpress-wp-mail-log-plugin-1-0-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-mail-log/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpvibes:wp_mail_log:1.0.1:*:*:*:*:wordpress:*:*"
+	}
 }

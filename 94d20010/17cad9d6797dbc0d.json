@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_7:-::x86",
-  "deprecated": true,
-  "deprecation_date": "2019-05-08T22:19:57.980Z",
-  "title": [
-    {
-      "text": "Microsoft Windows 7 x86 (32-bit)",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_7:-:*:x86:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-08T18:19:57.980-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_7:-:-:*:*:ultimate_n:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_7:-::x86",
+	"deprecated": true,
+	"deprecation_date": "2019-05-08T22:19:57.980Z",
+	"title": [
+		{
+			"text": "Microsoft Windows 7 x86 (32-bit)",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_7:-:*:x86:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-08T18:19:57.980-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_7:-:-:*:*:ultimate_n:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

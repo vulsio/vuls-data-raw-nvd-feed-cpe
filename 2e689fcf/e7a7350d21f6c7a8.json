@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:plato_project:plato:-",
-  "title": [
-    {
-      "text": "Plato Project Plato",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
-    },
-    {
-      "text": "Product",
-      "href": "https://etherscan.io/token/0x990da731331aE62c3e8f3f73cB4ebeb6F082Bc7c"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:plato_project:plato:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:plato_project:plato:-",
+	"title": [
+		{
+			"text": "Plato Project Plato",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BlockChainsSecurity/EtherTokens/blob/master/GEMCHAIN/mint%20integer%20overflow.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://etherscan.io/token/0x990da731331aE62c3e8f3f73cB4ebeb6F082Bc7c"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plato_project:plato:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:cisco:cloud_services_router_1000v_firmware:17.1.1",
-  "title": [
-    {
-      "text": "Cisco Cloud Services Router 1000v Firmware 17.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp78858"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-webui-cmd-injection"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:cloud_services_router_1000v_firmware:17.1.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:cisco:cloud_services_router_1000v_firmware:17.1.1",
+	"title": [
+		{
+			"text": "Cisco Cloud Services Router 1000v Firmware 17.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvp78858"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20190925-webui-cmd-injection"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:cloud_services_router_1000v_firmware:17.1.1:*:*:*:*:*:*:*"
+	}
 }

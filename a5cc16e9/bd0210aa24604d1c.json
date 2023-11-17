@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/o:aeotech:zw130-a_firmware:2.3",
-  "title": [
-    {
-      "text": "Aeotech ZW130-A Firmware 2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://aeotec.com/products/aeotec-wallmote-quad/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/iot-sec23/IoT-CVE/blob/main/Aeotec%20WallMote%20Switch%20Vulnerability%20Report.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:aeotech:zw130-a_firmware:2.3:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:aeotech:zw130-a_firmware:2.3",
+	"title": [
+		{
+			"text": "Aeotech ZW130-A Firmware 2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://aeotec.com/products/aeotec-wallmote-quad/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/iot-sec23/IoT-CVE/blob/main/Aeotec%20WallMote%20Switch%20Vulnerability%20Report.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:aeotech:zw130-a_firmware:2.3:*:*:*:*:*:*:*"
+	}
 }

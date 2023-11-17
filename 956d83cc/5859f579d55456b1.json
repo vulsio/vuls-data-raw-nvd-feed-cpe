@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:ibm:security_access_manager_appliance:9.0.7",
-  "deprecated": true,
-  "deprecation_date": "2020-10-27T11:37:22.883Z",
-  "title": [
-    {
-      "text": "IBM Security Access Manager Appliance 9.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.ibm.com/support/knowledgecenter/SSPREK_9.0.7/com.ibm.isam.doc/wrp_config/concept/con_sam_intro.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:ibm:security_access_manager_appliance:9.0.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-10-27T07:37:22.883-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ibm:security_access_manager:9.0.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:ibm:security_access_manager_appliance:9.0.7",
+	"deprecated": true,
+	"deprecation_date": "2020-10-27T11:37:22.883Z",
+	"title": [
+		{
+			"text": "IBM Security Access Manager Appliance 9.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/knowledgecenter/SSPREK_9.0.7/com.ibm.isam.doc/wrp_config/concept/con_sam_intro.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ibm:security_access_manager_appliance:9.0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-10-27T07:37:22.883-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:security_access_manager:9.0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

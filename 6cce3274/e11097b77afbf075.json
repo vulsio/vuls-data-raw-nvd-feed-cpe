@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:intel:raid_web_console_3:7.009.011.000::~~~windows~~",
-  "title": [
-    {
-      "text": "Intel RAID Web Console 3 7.009.011.000 for Windows",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00259.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://downloadcenter.intel.com/download/28781/Intel-RAID-Web-Console-3-for-Windows-?product=43732"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:intel:raid_web_console_3:7.009.011.000:*:*:*:*:windows:*:*"
-  }
+	"name": "cpe:/a:intel:raid_web_console_3:7.009.011.000::~~~windows~~",
+	"title": [
+		{
+			"text": "Intel RAID Web Console 3 7.009.011.000 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00259.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://downloadcenter.intel.com/download/28781/Intel-RAID-Web-Console-3-for-Windows-?product=43732"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:raid_web_console_3:7.009.011.000:*:*:*:*:windows:*:*"
+	}
 }

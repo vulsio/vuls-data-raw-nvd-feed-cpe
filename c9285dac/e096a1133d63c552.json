@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mongoosejs:mongoose:6.10.4::~~~node.js~~",
-  "title": [
-    {
-      "text": "Mongoosejs Mongoose 6.10.4 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://mongoosejs.com/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/Automattic/mongoose/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mongoosejs:mongoose:6.10.4:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:mongoosejs:mongoose:6.10.4::~~~node.js~~",
+	"title": [
+		{
+			"text": "Mongoosejs Mongoose 6.10.4 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mongoosejs.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Automattic/mongoose/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongoosejs:mongoose:6.10.4:*:*:*:*:node.js:*:*"
+	}
 }

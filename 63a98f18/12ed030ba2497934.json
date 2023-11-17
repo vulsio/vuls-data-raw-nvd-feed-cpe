@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/h:siemens:sicam_tm:-",
-  "title": [
-    {
-      "text": "Siemens SICAM TM",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "http://w3.siemens.com/smartgrid/global/en/products-systems-solutions/substation-automation/remote-terminal-units/pages/overview.aspx"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-299-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:siemens:sicam_tm:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:siemens:sicam_tm:-",
+	"title": [
+		{
+			"text": "Siemens SICAM TM",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "http://w3.siemens.com/smartgrid/global/en/products-systems-solutions/substation-automation/remote-terminal-units/pages/overview.aspx"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-299-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:siemens:sicam_tm:-:*:*:*:*:*:*:*"
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:arm:mbed_tls:2.4.2:rc1",
-  "title": [
-    {
-      "text": "ARM mbed TLS 2.4.2 Release Candidate 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.arm.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2018-01"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/ARMmbed/mbedtls"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:arm:mbed_tls:2.4.2:rc1:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:arm:mbed_tls:2.4.2:rc1",
+	"title": [
+		{
+			"text": "ARM mbed TLS 2.4.2 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2018-01"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ARMmbed/mbedtls"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:mbed_tls:2.4.2:rc1:*:*:*:*:*:*"
+	}
 }

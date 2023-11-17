@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:cisco:content_router_4430:4.1",
-  "deprecated": true,
-  "deprecation_date": "2010-12-28T17:36:33.287Z",
-  "title": [
-    {
-      "text": "Cisco Enterprise Content Delivery Network (ECDN) Software 4.1",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:cisco:content_router_4430:4.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2010-12-28T12:36:33.287-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:enterprise_content_delivery_network_software:4.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:cisco:content_router_4430:4.1",
+	"deprecated": true,
+	"deprecation_date": "2010-12-28T17:36:33.287Z",
+	"title": [
+		{
+			"text": "Cisco Enterprise Content Delivery Network (ECDN) Software 4.1",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:content_router_4430:4.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2010-12-28T12:36:33.287-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:enterprise_content_delivery_network_software:4.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

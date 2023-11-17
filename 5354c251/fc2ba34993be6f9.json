@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:myks:websockets:4.0",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T14:49:48.703Z",
-  "title": [
-    {
-      "text": "Myks Websockets 4.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/aaugustin/websockets/releases"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://myks.org/en/projects/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:myks:websockets:4.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T09:49:48.703-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:websockets_project:websockets:4.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:myks:websockets:4.0",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T14:49:48.703Z",
+	"title": [
+		{
+			"text": "Myks Websockets 4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/aaugustin/websockets/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://myks.org/en/projects/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:myks:websockets:4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T09:49:48.703-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:websockets_project:websockets:4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

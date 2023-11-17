@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:svelte:sveltekit:1.15.2::~~~node.js~~",
-  "title": [
-    {
-      "text": "Svelte Sveltekit 1.15.2 for Node.js",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/sveltejs/kit/security/advisories/GHSA-gv7g-x59x-wf8f"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://svelte.dev/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/sveltejs/kit/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:svelte:sveltekit:1.15.2:*:*:*:*:node.js:*:*"
-  }
+	"name": "cpe:/a:svelte:sveltekit:1.15.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "Svelte Sveltekit 1.15.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sveltejs/kit/security/advisories/GHSA-gv7g-x59x-wf8f"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://svelte.dev/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/sveltejs/kit/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:svelte:sveltekit:1.15.2:*:*:*:*:node.js:*:*"
+	}
 }

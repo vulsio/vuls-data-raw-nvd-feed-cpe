@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:ipswitch:moveit_transfer:11.0",
-  "title": [
-    {
-      "text": "Ipswitch MOVEit Transfer 11.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://docs.ipswitch.com/MOVEit/Transfer2019/ReleaseNotes/en/index.htm#48303.htm"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://community.ipswitch.com/s/article/SQL-Injection-Vulnerability"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ipswitch:moveit_transfer:11.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ipswitch:moveit_transfer:11.0",
+	"title": [
+		{
+			"text": "Ipswitch MOVEit Transfer 11.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.ipswitch.com/MOVEit/Transfer2019/ReleaseNotes/en/index.htm#48303.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://community.ipswitch.com/s/article/SQL-Injection-Vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ipswitch:moveit_transfer:11.0:*:*:*:*:*:*:*"
+	}
 }

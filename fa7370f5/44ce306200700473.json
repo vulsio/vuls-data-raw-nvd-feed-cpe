@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:cisco:prime_service_catalog:12.1",
-  "deprecated": true,
-  "deprecation_date": "2022-02-15T18:00:28.290Z",
-  "title": [
-    {
-      "text": "Cisco Prime Service Catalog 12.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://www.cisco.com/c/en/us/support/cloud-systems-management/prime-service-catalog/products-installation-guides-list.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cisco:prime_service_catalog:12.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-15T13:00:28.290-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:cisco:prime_service_catalog:12.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cisco:prime_service_catalog:12.1",
+	"deprecated": true,
+	"deprecation_date": "2022-02-15T18:00:28.290Z",
+	"title": [
+		{
+			"text": "Cisco Prime Service Catalog 12.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/support/cloud-systems-management/prime-service-catalog/products-installation-guides-list.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:prime_service_catalog:12.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-15T13:00:28.290-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cisco:prime_service_catalog:12.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

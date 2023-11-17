@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:idqk:masuit.tools:-",
-  "deprecated": true,
-  "deprecation_date": "2022-10-07T15:11:28.607Z",
-  "title": [
-    {
-      "text": "Idqk Masuit.tools",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security.snyk.io/vuln/SNYK-DOTNET-MASUITTOOLSCORE-2316875"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/ldqk/Masuit.Tools"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://ldqk.xyz/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-10-07T11:11:28.607-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:ldqk:masuit.tools:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:idqk:masuit.tools:-",
+	"deprecated": true,
+	"deprecation_date": "2022-10-07T15:11:28.607Z",
+	"title": [
+		{
+			"text": "Idqk Masuit.tools",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-DOTNET-MASUITTOOLSCORE-2316875"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/ldqk/Masuit.Tools"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://ldqk.xyz/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:idqk:masuit.tools:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-10-07T11:11:28.607-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ldqk:masuit.tools:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

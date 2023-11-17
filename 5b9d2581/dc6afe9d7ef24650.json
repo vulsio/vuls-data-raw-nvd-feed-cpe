@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/a:irfanview:irfanview:2.92",
-  "deprecated": true,
-  "deprecation_date": "2020-01-27T13:03:45.750Z",
-  "title": [
-    {
-      "text": "IrfanView  2.92",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:irfanview:irfanview:2.92:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-27T08:03:45.750-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:irfanview:irfanview:2.92:*:*:*:*:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:irfanview:irfanview:2.92",
+	"deprecated": true,
+	"deprecation_date": "2020-01-27T13:03:45.750Z",
+	"title": [
+		{
+			"text": "IrfanView  2.92",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:irfanview:irfanview:2.92:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-27T08:03:45.750-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:irfanview:irfanview:2.92:*:*:*:*:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

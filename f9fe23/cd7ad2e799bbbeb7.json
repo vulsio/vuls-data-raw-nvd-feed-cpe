@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:private-ip_project:private-ip:1.0.5",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T14:43:55.293Z",
-  "title": [
-    {
-      "text": "Private-IP Project Private-IP 1.0.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/frenchbread/private-ip/releases/tag/1.0.5"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:private-ip_project:private-ip:1.0.5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-24T10:43:55.293-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:private-ip_project:private-ip:1.0.5:*:*:*:*:node.js:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:private-ip_project:private-ip:1.0.5",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T14:43:55.293Z",
+	"title": [
+		{
+			"text": "Private-IP Project Private-IP 1.0.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/frenchbread/private-ip/releases/tag/1.0.5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:private-ip_project:private-ip:1.0.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-24T10:43:55.293-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:private-ip_project:private-ip:1.0.5:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

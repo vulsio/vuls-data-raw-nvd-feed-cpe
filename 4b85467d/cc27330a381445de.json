@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:moxa:edr_g903_firmware:1.0",
-  "deprecated": true,
-  "deprecation_date": "2022-04-12T14:28:33.443Z",
-  "title": [
-    {
-      "text": "Moxa EDR-G903 Firmware 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.moxa.com/en/products/industrial-network-infrastructure/secure-routers/secure-routers/edr-g903-series#resources"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:moxa:edr_g903_firmware:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-04-12T10:28:33.443-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:moxa:edr-g903_firmware:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:moxa:edr_g903_firmware:1.0",
+	"deprecated": true,
+	"deprecation_date": "2022-04-12T14:28:33.443Z",
+	"title": [
+		{
+			"text": "Moxa EDR-G903 Firmware 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.moxa.com/en/products/industrial-network-infrastructure/secure-routers/secure-routers/edr-g903-series#resources"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:moxa:edr_g903_firmware:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-04-12T10:28:33.443-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:moxa:edr-g903_firmware:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

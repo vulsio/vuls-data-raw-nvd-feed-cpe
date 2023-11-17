@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/h:korenix:jetwave_4706:-",
-  "title": [
-    {
-      "text": "Korenix JetWave 4706",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/162903/Korenix-CSRF-Backdoor-Accounts-Command-Injection-Missing-Authentication.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://seclists.org/fulldisclosure/2021/Jun/0"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.korenix.com/en/product/search.aspx?page=1&kw=JetWave"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:korenix:jetwave_4706:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/h:korenix:jetwave_4706:-",
+	"title": [
+		{
+			"text": "Korenix JetWave 4706",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/162903/Korenix-CSRF-Backdoor-Accounts-Command-Injection-Missing-Authentication.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2021/Jun/0"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.korenix.com/en/product/search.aspx?page=1&kw=JetWave"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:korenix:jetwave_4706:-:*:*:*:*:*:*:*"
+	}
 }

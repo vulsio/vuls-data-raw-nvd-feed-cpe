@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:fontforge_project:fontforge:20110222",
-  "deprecated": true,
-  "deprecation_date": "2020-01-13T14:23:30.817Z",
-  "title": [
-    {
-      "text": "FontForge Project FontForge 20110222",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://fontforge.github.io/en-US/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/fontforge/fontforge/releases"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:fontforge_project:fontforge:20110222:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-01-13T09:23:30.817-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:fontforge:fontforge:20110222:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:fontforge_project:fontforge:20110222",
+	"deprecated": true,
+	"deprecation_date": "2020-01-13T14:23:30.817Z",
+	"title": [
+		{
+			"text": "FontForge Project FontForge 20110222",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://fontforge.github.io/en-US/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/fontforge/fontforge/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fontforge_project:fontforge:20110222:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-01-13T09:23:30.817-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fontforge:fontforge:20110222:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

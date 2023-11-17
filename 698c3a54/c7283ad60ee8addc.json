@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:clastix:capsule:0.3.1",
-  "title": [
-    {
-      "text": "Clastix Capsule 0.3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/projectcapsule/capsule-proxy/security/advisories/GHSA-6758-979h-249x"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/projectcapsule/capsule/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:clastix:capsule:0.3.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:clastix:capsule:0.3.1",
+	"title": [
+		{
+			"text": "Clastix Capsule 0.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/projectcapsule/capsule-proxy/security/advisories/GHSA-6758-979h-249x"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/projectcapsule/capsule/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clastix:capsule:0.3.1:*:*:*:*:*:*:*"
+	}
 }

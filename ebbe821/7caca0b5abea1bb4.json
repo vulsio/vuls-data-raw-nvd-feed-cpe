@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:sap:point_of_sale_xpress_server:1020::~~~pos~~",
-  "title": [
-    {
-      "text": "Sap Point of Sale XPress Server 1020 for POS",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://erpscan.com/advisories/erpscan-17-033-sap-pos-missing-authentication-xpressserver/"
-    },
-    {
-      "text": "Product",
-      "href": "https://wiki.scn.sap.com/wiki/display/Retail/SAP+Point+of+Sale"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.sap.com/index.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:sap:point_of_sale_xpress_server:1020:*:*:*:*:pos:*:*"
-  }
+	"name": "cpe:/a:sap:point_of_sale_xpress_server:1020::~~~pos~~",
+	"title": [
+		{
+			"text": "Sap Point of Sale XPress Server 1020 for POS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://erpscan.com/advisories/erpscan-17-033-sap-pos-missing-authentication-xpressserver/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wiki.scn.sap.com/wiki/display/Retail/SAP+Point+of+Sale"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sap.com/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:point_of_sale_xpress_server:1020:*:*:*:*:pos:*:*"
+	}
 }

@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:atlassian:jira_service_desk_server:3.2.3",
-  "deprecated": true,
-  "deprecation_date": "2022-02-01T17:35:27.607Z",
-  "title": [
-    {
-      "text": "Atlassian Jira Service Desk Server 3.2.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://confluence.atlassian.com/servicedesk/jira-service-desk-release-notes-780083086.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:atlassian:jira_service_desk_server:3.2.3:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-01T12:35:27.607-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:atlassian:jira_service_desk:3.2.3:*:*:*:data_center:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:atlassian:jira_service_desk_server:3.2.3",
+	"deprecated": true,
+	"deprecation_date": "2022-02-01T17:35:27.607Z",
+	"title": [
+		{
+			"text": "Atlassian Jira Service Desk Server 3.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://confluence.atlassian.com/servicedesk/jira-service-desk-release-notes-780083086.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:jira_service_desk_server:3.2.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-01T12:35:27.607-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:atlassian:jira_service_desk:3.2.3:*:*:*:data_center:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

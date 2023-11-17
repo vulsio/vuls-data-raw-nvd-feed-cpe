@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:nextcloud:nextcloud_server:26.0.3::~~-~~~",
-  "title": [
-    {
-      "text": "Nextcloud Server 26.0.3",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/nextcloud/server/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-cq8w-v4fh-4rjq"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.3:*:*:*:-:*:*:*"
-  }
+	"name": "cpe:/a:nextcloud:nextcloud_server:26.0.3::~~-~~~",
+	"title": [
+		{
+			"text": "Nextcloud Server 26.0.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/server/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-cq8w-v4fh-4rjq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud_server:26.0.3:*:*:*:-:*:*:*"
+	}
 }

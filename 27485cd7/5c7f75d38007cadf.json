@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:libtiff_project:libtiff:4.0.6",
-  "deprecated": true,
-  "deprecation_date": "2017-12-13T18:15:38.120Z",
-  "title": [
-    {
-      "text": "Libtiff Project Libtiff 4.0.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "http://www.libtiff.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:libtiff_project:libtiff:4.0.6:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2017-12-13T13:15:38.120-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:libtiff:libtiff:4.0.6:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:libtiff_project:libtiff:4.0.6",
+	"deprecated": true,
+	"deprecation_date": "2017-12-13T18:15:38.120Z",
+	"title": [
+		{
+			"text": "Libtiff Project Libtiff 4.0.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.libtiff.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libtiff_project:libtiff:4.0.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2017-12-13T13:15:38.120-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:libtiff:libtiff:4.0.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

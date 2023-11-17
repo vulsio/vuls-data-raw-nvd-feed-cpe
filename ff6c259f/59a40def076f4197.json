@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:oracle:talent_acquisition_cloud:-::~~taleo_enterprise~~~",
-  "title": [
-    {
-      "text": "Oracle Talent Acquisition Cloud Taleo Enterprise Edition",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35689.json"
-    },
-    {
-      "text": "Version",
-      "href": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/taleo/17-talent-acq-wn.htm"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.oracle.com/a/ocom/docs/applications/hcm/oracle-hcm-talent-acquisition-ds.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:talent_acquisition_cloud:-:*:*:*:taleo_enterprise:*:*:*"
-  }
+	"name": "cpe:/a:oracle:talent_acquisition_cloud:-::~~taleo_enterprise~~~",
+	"title": [
+		{
+			"text": "Oracle Talent Acquisition Cloud Taleo Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/35xxx/CVE-2021-35689.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.oracle.com/webfolder/technetwork/tutorials/tutorial/cloud/taleo/17-talent-acq-wn.htm"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/a/ocom/docs/applications/hcm/oracle-hcm-talent-acquisition-ds.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:talent_acquisition_cloud:-:*:*:*:taleo_enterprise:*:*:*"
+	}
 }

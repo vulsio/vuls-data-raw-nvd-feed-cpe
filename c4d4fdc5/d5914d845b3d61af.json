@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:phillips:iscv:3.1",
-  "deprecated": true,
-  "deprecation_date": "2022-02-09T17:46:38.950Z",
-  "title": [
-    {
-      "text": "Phillips IntelliSpace Cardiovascular (ISCV) 3.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Project",
-      "href": "https://www.usa.philips.com/healthcare/product/HCNOCTN198/intellispace-cardiovascular/overview"
-    },
-    {
-      "text": "Project",
-      "href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-226-01"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phillips:iscv:3.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-09T12:46:38.950-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phillips:iscv:3.1",
+	"deprecated": true,
+	"deprecation_date": "2022-02-09T17:46:38.950Z",
+	"title": [
+		{
+			"text": "Phillips IntelliSpace Cardiovascular (ISCV) 3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.usa.philips.com/healthcare/product/HCNOCTN198/intellispace-cardiovascular/overview"
+		},
+		{
+			"text": "Project",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSMA-18-226-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phillips:iscv:3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-09T12:46:38.950-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:philips:intellispace_cardiovascular:3.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

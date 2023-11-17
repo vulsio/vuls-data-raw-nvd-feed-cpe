@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ellucian:ethos_identity:5.10.5",
-  "title": [
-    {
-      "text": "Ellucian Ethos Identity 5.10.5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://vuldb.com/?id.229596"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://medium.com/@cyberninja717/reflected-cross-site-scripting-vulnerability-in-ellucian-ethos-identity-cas-logout-page-685bb1675dfb"
-    },
-    {
-      "text": "Product",
-      "href": "https://www.ellucian.com/assets/emea-ap/solution-sheet/emea-ellucian-ethos-identity.pdf"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ellucian:ethos_identity:5.10.5:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:ellucian:ethos_identity:5.10.5",
+	"title": [
+		{
+			"text": "Ellucian Ethos Identity 5.10.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.229596"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@cyberninja717/reflected-cross-site-scripting-vulnerability-in-ellucian-ethos-identity-cas-logout-page-685bb1675dfb"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ellucian.com/assets/emea-ap/solution-sheet/emea-ellucian-ethos-identity.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ellucian:ethos_identity:5.10.5:*:*:*:*:*:*:*"
+	}
 }

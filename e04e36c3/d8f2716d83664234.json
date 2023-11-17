@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:lexmark:universal_print_driver:2.15.1.0",
-  "title": [
-    {
-      "text": "Lexmark Universal Print Driver 2.15.1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.lexmark.com/en_us/support/download-search.html?q=universal+print+driver"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:lexmark:universal_print_driver:2.15.1.0:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:lexmark:universal_print_driver:2.15.1.0",
+	"title": [
+		{
+			"text": "Lexmark Universal Print Driver 2.15.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.lexmark.com/en_us/support/download-search.html?q=universal+print+driver"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://raw.githubusercontent.com/jacob-baines/vuln_disclosure/main/vuln_2021_02.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lexmark:universal_print_driver:2.15.1.0:*:*:*:*:*:*:*"
+	}
 }

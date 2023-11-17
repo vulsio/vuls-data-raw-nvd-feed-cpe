@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:helm:helm:3.10.1",
-  "title": [
-    {
-      "text": "Helm 3.10.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://helm.sh/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/helm/helm/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/helm/helm/security/advisories/GHSA-67fx-wx78-jx33"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:helm:helm:3.10.1:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:helm:helm:3.10.1",
+	"title": [
+		{
+			"text": "Helm 3.10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://helm.sh/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/helm/helm/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/helm/helm/security/advisories/GHSA-67fx-wx78-jx33"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:helm:helm:3.10.1:*:*:*:*:*:*:*"
+	}
 }

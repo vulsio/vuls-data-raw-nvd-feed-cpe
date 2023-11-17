@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/a:oracle:jdk:1.6.0:update_45",
-  "deprecated": true,
-  "deprecation_date": "2022-05-13T14:35:08.573Z",
-  "title": [
-    {
-      "text": "Oracle JDK 1.6.0 Update 45",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://www.oracle.com/java/technologies/javase/6-relnotes.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:oracle:jdk:1.6.0:update_45:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-05-13T10:35:08.573-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:oracle:jdk:1.6.0:update45:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:oracle:jdk:1.6.0:update_45",
+	"deprecated": true,
+	"deprecation_date": "2022-05-13T14:35:08.573Z",
+	"title": [
+		{
+			"text": "Oracle JDK 1.6.0 Update 45",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.oracle.com/java/technologies/javase/6-relnotes.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.6.0:update_45:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-05-13T10:35:08.573-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:1.6.0:update45:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

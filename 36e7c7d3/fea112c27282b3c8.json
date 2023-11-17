@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:hashicorp:vault-action:-",
-  "title": [
-    {
-      "text": "Hashicorp Vault-action",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/hashicorp/vault-action/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/hashicorp/vault-action/issues/205"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://discuss.hashicorp.com/t/hcsec-2021-13-vault-github-action-did-not-correctly-mask-multi-line-secrets-in-output/24128"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:hashicorp:vault-action:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:hashicorp:vault-action:-",
+	"title": [
+		{
+			"text": "Hashicorp Vault-action",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hashicorp/vault-action/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/hashicorp/vault-action/issues/205"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2021-13-vault-github-action-did-not-correctly-mask-multi-line-secrets-in-output/24128"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault-action:-:*:*:*:*:*:*:*"
+	}
 }

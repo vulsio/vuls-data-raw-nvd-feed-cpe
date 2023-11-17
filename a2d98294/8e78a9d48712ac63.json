@@ -1,35 +1,35 @@
 {
-  "name": "cpe:/a:mbed:mbedtls:2.2.1",
-  "deprecated": true,
-  "deprecation_date": "2020-11-05T15:27:15.237Z",
-  "title": [
-    {
-      "text": "mbedTLS 2.2.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.mbed.com/en/"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ARMmbed/mbedtls/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://tls.mbed.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mbed:mbedtls:2.2.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-11-05T10:27:15.237-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:arm:mbed_tls:2.2.1:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:mbed:mbedtls:2.2.1",
+	"deprecated": true,
+	"deprecation_date": "2020-11-05T15:27:15.237Z",
+	"title": [
+		{
+			"text": "mbedTLS 2.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.mbed.com/en/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ARMmbed/mbedtls/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://tls.mbed.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mbed:mbedtls:2.2.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-11-05T10:27:15.237-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:arm:mbed_tls:2.2.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:logback:logback:1.0.7",
-  "deprecated": true,
-  "deprecation_date": "2021-06-24T16:40:30.280Z",
-  "title": [
-    {
-      "text": "LOGBack 1.0.7",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://logback.qos.ch/news.html"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://logback.qos.ch/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:logback:logback:1.0.7:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-06-24T12:40:30.280-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:qos:logback:1.0.7:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:logback:logback:1.0.7",
+	"deprecated": true,
+	"deprecation_date": "2021-06-24T16:40:30.280Z",
+	"title": [
+		{
+			"text": "LOGBack 1.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://logback.qos.ch/news.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://logback.qos.ch/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:logback:logback:1.0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-06-24T12:40:30.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:qos:logback:1.0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

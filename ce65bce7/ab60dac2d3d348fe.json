@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0",
-  "deprecated": true,
-  "deprecation_date": "2023-11-14T22:38:25.430Z",
-  "title": [
-    {
-      "text": "PHPGurukul Car Rental Project PHPGurukul Car Rental 1.0",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://packetstormsecurity.com/files/155925/Car-Rental-Project-1.0-Remote-Code-Execution.html"
-    },
-    {
-      "text": "Product",
-      "href": "https://phpgurukul.com/car-rental-project-php-mysql-free-download/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-11-14T17:38:25.430-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:phpgurukul:car_rental_portal:1.0:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-14T22:38:25.430Z",
+	"title": [
+		{
+			"text": "PHPGurukul Car Rental Project PHPGurukul Car Rental 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/155925/Car-Rental-Project-1.0-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://phpgurukul.com/car-rental-project-php-mysql-free-download/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul_car_rental_project:phpgurukul_car_rental:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-14T17:38:25.430-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpgurukul:car_rental_portal:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

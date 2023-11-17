@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:jenkins:queue_cleanup:1.2::~~~jenkins~~",
-  "title": [
-    {
-      "text": "Jenkins Queue Cleanup 1.2 for Jenkins",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://plugins.jenkins.io/queue-cleanup/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/jenkinsci/queue-cleanup-plugin/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:jenkins:queue_cleanup:1.2:*:*:*:*:jenkins:*:*"
-  }
+	"name": "cpe:/a:jenkins:queue_cleanup:1.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Queue Cleanup 1.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/queue-cleanup/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/queue-cleanup-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:queue_cleanup:1.2:*:*:*:*:jenkins:*:*"
+	}
 }

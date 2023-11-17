@@ -1,39 +1,39 @@
 {
-  "name": "cpe:/a:cncf:harbor:1.8.6:-",
-  "deprecated": true,
-  "deprecation_date": "2020-07-17T16:37:13.797Z",
-  "title": [
-    {
-      "text": "CLOUD NATIVE COMPUTING FOUNDATION Harbor 1.8.6",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/goharbor/harbor/releases"
-    },
-    {
-      "text": "Product",
-      "href": "https://github.com/goharbor/harbor/security/advisories"
-    },
-    {
-      "text": "Product",
-      "href": "https://landscape.cncf.io/selected=harbor"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.cncf.io/webinars/intro-to-harbor/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:cncf:harbor:1.8.6:-:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-07-17T12:37:13.797-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:linuxfoundation:harbor:1.8.6:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:cncf:harbor:1.8.6:-",
+	"deprecated": true,
+	"deprecation_date": "2020-07-17T16:37:13.797Z",
+	"title": [
+		{
+			"text": "CLOUD NATIVE COMPUTING FOUNDATION Harbor 1.8.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/goharbor/harbor/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/goharbor/harbor/security/advisories"
+		},
+		{
+			"text": "Product",
+			"href": "https://landscape.cncf.io/selected=harbor"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cncf.io/webinars/intro-to-harbor/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cncf:harbor:1.8.6:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-07-17T12:37:13.797-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:linuxfoundation:harbor:1.8.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

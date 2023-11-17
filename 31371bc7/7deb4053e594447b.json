@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:simple-membership-plugin:simple_membership_wp_user_import:1.0::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Simple Membership Plugin Simple Membership WP User Import 1.0 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://simple-membership-plugin.com/"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-membership-wp-user-import/simple-membership-wp-user-import-17-authenticated-admin-sql-injection"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://wordpress.org/plugins/simple-membership-wp-user-import/#developers"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simple-membership-plugin:simple_membership_wp_user_import:1.0:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:simple-membership-plugin:simple_membership_wp_user_import:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Simple Membership Plugin Simple Membership WP User Import 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://simple-membership-plugin.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-membership-wp-user-import/simple-membership-wp-user-import-17-authenticated-admin-sql-injection"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/simple-membership-wp-user-import/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simple-membership-plugin:simple_membership_wp_user_import:1.0:*:*:*:*:wordpress:*:*"
+	}
 }

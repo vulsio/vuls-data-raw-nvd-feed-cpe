@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:ostree_project:ostree:2022.3::~~~rust~~",
-  "title": [
-    {
-      "text": "Ostree Project Ostree 2022.3 for Rust",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Change Log",
-      "href": "https://github.com/ostreedev/ostree/releases"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/ostreedev/ostree/issues/2775"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://doc.rust-lang.org/std/macro.eprintln.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:ostree_project:ostree:2022.3:*:*:*:*:rust:*:*"
-  }
+	"name": "cpe:/a:ostree_project:ostree:2022.3::~~~rust~~",
+	"title": [
+		{
+			"text": "Ostree Project Ostree 2022.3 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ostreedev/ostree/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ostreedev/ostree/issues/2775"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://doc.rust-lang.org/std/macro.eprintln.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ostree_project:ostree:2022.3:*:*:*:*:rust:*:*"
+	}
 }

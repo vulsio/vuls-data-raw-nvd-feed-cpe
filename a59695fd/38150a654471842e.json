@@ -1,21 +1,21 @@
 {
-  "name": "cpe:/o:microsoft:windows_xp:-:sp3:embedded",
-  "deprecated": true,
-  "deprecation_date": "2019-05-07T17:48:15.083Z",
-  "title": [
-    {
-      "text": "Microsoft Windows XP Service Pack 3 Embedded Edition",
-      "lang": "en-US"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:embedded:*:*:*:*:*",
-    "deprecation": {
-      "date": "2019-05-07T13:48:15.083-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x86:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:microsoft:windows_xp:-:sp3:embedded",
+	"deprecated": true,
+	"deprecation_date": "2019-05-07T17:48:15.083Z",
+	"title": [
+		{
+			"text": "Microsoft Windows XP Service Pack 3 Embedded Edition",
+			"lang": "en-US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:embedded:*:*:*:*:*",
+		"deprecation": {
+			"date": "2019-05-07T13:48:15.083-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_xp:-:sp3:*:*:embedded:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

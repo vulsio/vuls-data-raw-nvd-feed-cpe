@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:simplifile:recordfusion:-",
-  "title": [
-    {
-      "text": "Simplifile RecordFusion",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://security-tracker.debian.org/tracker/CVE-2019-19264"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://www.securenetworkinc.com/news/2019/11/26/recordfusion-local-file-inclusion-vulnerability-cve-2019-19264"
-    },
-    {
-      "text": "Product",
-      "href": "https://simplifile.com/about-simplifile/simplifile-partners/recordfusion/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:simplifile:recordfusion:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:simplifile:recordfusion:-",
+	"title": [
+		{
+			"text": "Simplifile RecordFusion",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security-tracker.debian.org/tracker/CVE-2019-19264"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.securenetworkinc.com/news/2019/11/26/recordfusion-local-file-inclusion-vulnerability-cve-2019-19264"
+		},
+		{
+			"text": "Product",
+			"href": "https://simplifile.com/about-simplifile/simplifile-partners/recordfusion/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simplifile:recordfusion:-:*:*:*:*:*:*:*"
+	}
 }

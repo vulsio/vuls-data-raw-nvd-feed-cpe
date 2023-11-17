@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:musicpd:music_player_daemon:0.23.10",
-  "title": [
-    {
-      "text": "Musicpd Music Player Daemon 0.23.10",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.musicpd.org/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/MusicPlayerDaemon/MPD/tags"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://github.com/MusicPlayerDaemon/MPD/issues/1676"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:musicpd:music_player_daemon:0.23.10:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:musicpd:music_player_daemon:0.23.10",
+	"title": [
+		{
+			"text": "Musicpd Music Player Daemon 0.23.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.musicpd.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/MusicPlayerDaemon/MPD/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/MusicPlayerDaemon/MPD/issues/1676"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:musicpd:music_player_daemon:0.23.10:*:*:*:*:*:*:*"
+	}
 }

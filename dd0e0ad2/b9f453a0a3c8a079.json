@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/o:linaro:op-tee:3.20",
-  "deprecated": true,
-  "deprecation_date": "2023-09-20T17:09:19.337Z",
-  "title": [
-    {
-      "text": "Linaro OP-TEE 3.20",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://www.trustedfirmware.org/projects/op-tee/"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/OP-TEE/optee_os/tags"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:linaro:op-tee:3.20:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-09-20T13:09:19.337-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:linaro:op-tee:3.20.0:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:linaro:op-tee:3.20",
+	"deprecated": true,
+	"deprecation_date": "2023-09-20T17:09:19.337Z",
+	"title": [
+		{
+			"text": "Linaro OP-TEE 3.20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.trustedfirmware.org/projects/op-tee/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/OP-TEE/optee_os/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linaro:op-tee:3.20:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-09-20T13:09:19.337-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linaro:op-tee:3.20.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/o:siemens:cpu_1507d_tf_firmware:-",
-  "title": [
-    {
-      "text": "Siemens CPU 1507D TF FIRMWARE",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Vendor",
-      "href": "https://www.siemens.com/global/en.html"
-    },
-    {
-      "text": "Advisory",
-      "href": "https://cert-portal.siemens.com/productcert/pdf/ssa-865327.pdf"
-    },
-    {
-      "text": "Product",
-      "href": "https://support.industry.siemens.com/cs/document/109773914/firmware-update-for-simatic-drive-controller-cpu-1504d-tf-and-cpu-1507d-tf?dti=0&lc=en-WW"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:cpu_1507d_tf_firmware:-:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/o:siemens:cpu_1507d_tf_firmware:-",
+	"title": [
+		{
+			"text": "Siemens CPU 1507D TF FIRMWARE",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.siemens.com/global/en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-865327.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.industry.siemens.com/cs/document/109773914/firmware-update-for-simatic-drive-controller-cpu-1504d-tf-and-cpu-1507d-tf?dti=0&lc=en-WW"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:cpu_1507d_tf_firmware:-:*:*:*:*:*:*:*"
+	}
 }

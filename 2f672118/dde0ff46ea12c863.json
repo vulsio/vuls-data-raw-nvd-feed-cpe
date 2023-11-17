@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/h:intel:xeon_e3:1245_v5",
-  "deprecated": true,
-  "deprecation_date": "2020-04-28T12:09:04.737Z",
-  "title": [
-    {
-      "text": "Intel Xeon E3 1245 V5",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://ark.intel.com/#@Processors"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:h:intel:xeon_e3:1245_v5:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2020-04-28T08:09:04.737-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:h:intel:xeon_e3_1245_v5:-:*:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/h:intel:xeon_e3:1245_v5",
+	"deprecated": true,
+	"deprecation_date": "2020-04-28T12:09:04.737Z",
+	"title": [
+		{
+			"text": "Intel Xeon E3 1245 V5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ark.intel.com/#@Processors"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:xeon_e3:1245_v5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2020-04-28T08:09:04.737-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:intel:xeon_e3_1245_v5:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

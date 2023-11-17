@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:riot-os:riot:2021.01",
-  "deprecated": true,
-  "deprecation_date": "2023-03-06T18:37:43.477Z",
-  "title": [
-    {
-      "text": "RIOT-OS RIOT 2021.01",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/RIOT-OS/RIOT"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:riot-os:riot:2021.01:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2023-03-06T13:37:43.477-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:o:riot-os:riot:2021.01:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:riot-os:riot:2021.01",
+	"deprecated": true,
+	"deprecation_date": "2023-03-06T18:37:43.477Z",
+	"title": [
+		{
+			"text": "RIOT-OS RIOT 2021.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/RIOT-OS/RIOT"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:riot-os:riot:2021.01:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-03-06T13:37:43.477-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:riot-os:riot:2021.01:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

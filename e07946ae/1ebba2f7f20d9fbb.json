@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:shortcode_menu_project:shortcod_menu:1.3::~~~wordpress~~",
-  "title": [
-    {
-      "text": "Shortcode Menu Project Shortcod Menu 1.3 for WordPress",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shortcode-menu/shortcode-menu-32-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
-    },
-    {
-      "text": "Change Log",
-      "href": "https://plugins.trac.wordpress.org/log/shortcode-menu/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:shortcode_menu_project:shortcod_menu:1.3:*:*:*:*:wordpress:*:*"
-  }
+	"name": "cpe:/a:shortcode_menu_project:shortcod_menu:1.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Shortcode Menu Project Shortcod Menu 1.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shortcode-menu/shortcode-menu-32-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/shortcode-menu/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shortcode_menu_project:shortcod_menu:1.3:*:*:*:*:wordpress:*:*"
+	}
 }

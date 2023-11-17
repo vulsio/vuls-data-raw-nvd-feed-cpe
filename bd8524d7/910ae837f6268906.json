@@ -1,22 +1,22 @@
 {
-  "name": "cpe:/a:distributed_ruby_project:distributed_ruby:1.8",
-  "title": [
-    {
-      "text": "Distributed Ruby Project Distributed Ruby 1.8",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://www.exploit-db.com/exploits/17031"
-    },
-    {
-      "text": "Project",
-      "href": "https://ruby-doc.org/stdlib-2.7.0/libdoc/drb/rdoc/DRb.html"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:distributed_ruby_project:distributed_ruby:1.8:*:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:distributed_ruby_project:distributed_ruby:1.8",
+	"title": [
+		{
+			"text": "Distributed Ruby Project Distributed Ruby 1.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/17031"
+		},
+		{
+			"text": "Project",
+			"href": "https://ruby-doc.org/stdlib-2.7.0/libdoc/drb/rdoc/DRb.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:distributed_ruby_project:distributed_ruby:1.8:*:*:*:*:*:*:*"
+	}
 }

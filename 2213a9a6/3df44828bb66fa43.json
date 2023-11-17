@@ -1,27 +1,27 @@
 {
-  "name": "cpe:/o:siemens:sinema_server_firmware:14.0:sp1",
-  "deprecated": true,
-  "deprecation_date": "2021-09-17T12:17:41.920Z",
-  "title": [
-    {
-      "text": "Siemens SINEMA Server Firmware 14.0 Service Pack 1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Product",
-      "href": "https://support.industry.siemens.com/cs/document/109761825/sinema-server-v14-sp1-software-(including-21-day-trial-license)-download?dti=0&lc=en-CR"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp1:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2021-09-17T08:17:41.920-04:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:siemens:sinema_server:14.0:sp1:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/o:siemens:sinema_server_firmware:14.0:sp1",
+	"deprecated": true,
+	"deprecation_date": "2021-09-17T12:17:41.920Z",
+	"title": [
+		{
+			"text": "Siemens SINEMA Server Firmware 14.0 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.industry.siemens.com/cs/document/109761825/sinema-server-v14-sp1-software-(including-21-day-trial-license)-download?dti=0&lc=en-CR"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siemens:sinema_server_firmware:14.0:sp1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2021-09-17T08:17:41.920-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siemens:sinema_server:14.0:sp1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }

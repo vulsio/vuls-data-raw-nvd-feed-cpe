@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:app1pro:shopicial:20230830::~~~shopify~~",
-  "title": [
-    {
-      "text": "App1pro Shopicial 20230830 for Shopify",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Advisory",
-      "href": "https://github.com/advisories/GHSA-69rm-qgvq-5q68"
-    },
-    {
-      "text": "Product",
-      "href": "https://apps.shopify.com/shopicial?surface_intra_position=2&surface_type=partners&surface_version=redesign"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://app1pro.com/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:app1pro:shopicial:20230830:*:*:*:*:shopify:*:*"
-  }
+	"name": "cpe:/a:app1pro:shopicial:20230830::~~~shopify~~",
+	"title": [
+		{
+			"text": "App1pro Shopicial 20230830 for Shopify",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-69rm-qgvq-5q68"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.shopify.com/shopicial?surface_intra_position=2&surface_type=partners&surface_version=redesign"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://app1pro.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:app1pro:shopicial:20230830:*:*:*:*:shopify:*:*"
+	}
 }

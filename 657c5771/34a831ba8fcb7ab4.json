@@ -1,26 +1,26 @@
 {
-  "name": "cpe:/a:mattermost:mattermost_server:5.18.0:rc4",
-  "title": [
-    {
-      "text": "Mattermost Server 5.18.0 Release Candidate 4",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/mattermost/mattermost-server/releases"
-    },
-    {
-      "text": "Version",
-      "href": "https://docs.mattermost.com/administration/version-archive.html?src=dl"
-    },
-    {
-      "text": "Version",
-      "href": "https://github.com/mattermost"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:rc4:*:*:*:*:*:*"
-  }
+	"name": "cpe:/a:mattermost:mattermost_server:5.18.0:rc4",
+	"title": [
+		{
+			"text": "Mattermost Server 5.18.0 Release Candidate 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mattermost/mattermost-server/releases"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.mattermost.com/administration/version-archive.html?src=dl"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/mattermost"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattermost:mattermost_server:5.18.0:rc4:*:*:*:*:*:*"
+	}
 }

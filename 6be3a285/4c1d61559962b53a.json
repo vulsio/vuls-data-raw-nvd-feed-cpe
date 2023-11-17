@@ -1,31 +1,31 @@
 {
-  "name": "cpe:/a:openssl:openssl:1.1.1",
-  "deprecated": true,
-  "deprecation_date": "2022-02-02T13:51:58.427Z",
-  "title": [
-    {
-      "text": "OpenSSL Project OpenSSL 1.1.1",
-      "lang": "en-US"
-    }
-  ],
-  "references": [
-    {
-      "text": "Version",
-      "href": "https://github.com/openssl/openssl/tags"
-    },
-    {
-      "text": "Vendor",
-      "href": "https://www.openssl.org/"
-    }
-  ],
-  "cpe_23_item": {
-    "name": "cpe:2.3:a:openssl:openssl:1.1.1:*:*:*:*:*:*:*",
-    "deprecation": {
-      "date": "2022-02-02T08:51:58.427-05:00",
-      "deprecated_by": {
-        "name": "cpe:2.3:a:openssl:openssl:1.1.1:-:*:*:*:*:*:*",
-        "type": "NAME_CORRECTION"
-      }
-    }
-  }
+	"name": "cpe:/a:openssl:openssl:1.1.1",
+	"deprecated": true,
+	"deprecation_date": "2022-02-02T13:51:58.427Z",
+	"title": [
+		{
+			"text": "OpenSSL Project OpenSSL 1.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/openssl/openssl/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openssl.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openssl:openssl:1.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2022-02-02T08:51:58.427-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openssl:openssl:1.1.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
 }
