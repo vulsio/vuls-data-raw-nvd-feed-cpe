@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ibenic:simple_giveaways:2.47.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ibenic Simple Giveaways 2.47.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/giveasap/wordpress-simple-giveaways-plugin-2-45-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ibenic.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/giveasap/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibenic:simple_giveaways:2.47.0:*:*:*:*:wordpress:*:*"
+	}
+}

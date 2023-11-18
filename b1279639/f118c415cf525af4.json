@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:apereo:central_authentication_service:6.5.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-17T15:24:25.877Z",
 	"title": [
 		{
 			"text": "Apereo Central Authentication Service (CAS) 6.5.0",
@@ -8,16 +10,12 @@
 	],
 	"references": [
 		{
+			"text": "Product",
+			"href": "https://github.com/apereo/cas"
+		},
+		{
 			"text": "Vendor",
 			"href": "https://www.apereo.org/"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://securitylab.github.com/advisories/GHSL-2023-009_Apereo_CAS/"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://apereo.github.io/2023/02/20/x509-vuln/"
 		},
 		{
 			"text": "Change Log",
@@ -25,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-17T10:24:25.877-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apereo:central_authentication_service:6.5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
