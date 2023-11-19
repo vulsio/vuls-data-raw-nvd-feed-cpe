@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:veritas:backup_exec:10.0::~~~windows_server~~",
+	"title": [
+		{
+			"text": "Veritas Backup Exec 10.0 for Windows Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.veritas.com/protection/backup-exec"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2005/0xxx/CVE-2005-0772.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:veritas:backup_exec:10.0:*:*:*:*:windows_server:*:*"
+	}
+}

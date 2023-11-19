@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:vikwp:vikbooking_hotel_booking_engine_%26_pms:1.6.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "VikWP VikBooking Hotel Booking Engine & PMS 1.6.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://vikwp.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/vikbooking/wordpress-vikbooking-hotel-booking-engine-pms-plugin-1-6-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/vikbooking/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/vikbooking/trunk/changelog.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vikwp:vikbooking_hotel_booking_engine_\\&_pms:1.6.5:*:*:*:*:wordpress:*:*"
+	}
+}

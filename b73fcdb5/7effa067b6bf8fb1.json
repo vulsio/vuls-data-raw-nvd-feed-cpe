@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:thm:pilos:2.1.1",
+	"title": [
+		{
+			"text": "THM PILOS 2.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.thm.de/ges/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/THM-Health/PILOS/security/advisories/GHSA-mc6f-fj9h-5735"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/THM-Health/PILOS/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thm:pilos:2.1.1:*:*:*:*:*:*:*"
+	}
+}

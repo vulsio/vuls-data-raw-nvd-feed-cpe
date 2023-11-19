@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:tinylab:cloud_lab:0.8:rc2",
+	"title": [
+		{
+			"text": "Tinylab Cloud Lab 0.8 Release Candidate 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tinylab.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/eBPF-Research/eBPF-Attack/blob/main/PoC.md#attack-requirements"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/tinyclub/cloud-lab/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/42xxx/CVE-2022-42150.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tinylab:cloud_lab:0.8:rc2:*:*:*:*:*:*"
+	}
+}

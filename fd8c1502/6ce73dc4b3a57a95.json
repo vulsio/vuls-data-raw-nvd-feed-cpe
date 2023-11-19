@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:stellar:rs-stellar-strkey:0.0.7::~~~rust~~",
+	"title": [
+		{
+			"text": "Stellar Rs-stellar-strkey 0.0.7 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/stellar/rs-stellar-strkey/security/advisories/GHSA-5873-6fwq-463f"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://stellar.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/stellar/rs-stellar-strkey/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stellar:rs-stellar-strkey:0.0.7:*:*:*:*:rust:*:*"
+	}
+}
