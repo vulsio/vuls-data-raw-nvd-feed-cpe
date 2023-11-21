@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:microsoft:azure_cli:2.27.1",
+	"title": [
+		{
+			"text": "Microsoft Azure CLI 2.27.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Azure/azure-cli/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36052"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/cli/azure/release-notes-azure-cli"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_cli:2.27.1:*:*:*:*:*:*:*"
+	}
+}

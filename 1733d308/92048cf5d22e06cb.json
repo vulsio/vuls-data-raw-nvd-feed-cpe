@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:azure_stack_hci:-",
+	"title": [
+		{
+			"text": "Microsoft Azure Stack HCI",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
+		},
+		{
+			"text": "Product",
+			"href": "https://azure.microsoft.com/en-us/products/azure-stack/hci"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5491"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_stack_hci:-:*:*:*:*:*:*:*"
+	}
+}
