@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:intel:openvino_model_server:2023.2",
+	"title": [
+		{
+			"text": "Intel OpenVINO Model Server 2023.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/openvinotoolkit/model_server"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/openvinotoolkit/model_server/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:intel:openvino_model_server:2023.2:*:*:*:*:*:*:*"
+	}
+}

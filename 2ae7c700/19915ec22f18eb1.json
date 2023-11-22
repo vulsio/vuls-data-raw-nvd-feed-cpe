@@ -1,18 +1,21 @@
 {
 	"name": "cpe:/a:oracle:jdk:1.9.0.1",
+	"deprecated": true,
+	"deprecation_date": "2023-11-21T20:20:07.820Z",
 	"title": [
 		{
 			"text": "Oracle JDK 1.9.0.1",
 			"lang": "en-US"
 		}
 	],
-	"references": [
-		{
-			"text": "Product",
-			"href": "https://www.oracle.com/technetwork/java/javase/downloads/index.html"
-		}
-	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:oracle:jdk:1.9.0.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:oracle:jdk:1.9.0.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-21T15:20:07.820-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:9.0.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

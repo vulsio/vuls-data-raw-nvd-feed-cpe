@@ -1,18 +1,21 @@
 {
 	"name": "cpe:/a:oracle:jdk:1.9.0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-21T19:55:48.063Z",
 	"title": [
 		{
 			"text": "Oracle Java Development Kit (JDK) 1.9.0",
 			"lang": "en-US"
 		}
 	],
-	"references": [
-		{
-			"text": "Advisory",
-			"href": "http://www.oracle.com/ocom/groups/public/@otn/documents/webcontent/3937099.xml"
-		}
-	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:oracle:jdk:1.9.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:oracle:jdk:1.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-21T14:55:48.063-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:jdk:9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
