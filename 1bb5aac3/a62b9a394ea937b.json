@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:paytm:payment_gateway:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Paytm Payment Gateway - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/paytm-payments/wordpress-paytm-payment-gateway-plugin-2-7-3-auth-sql-injection-sqli-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://business.paytm.com/payment-gateway"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/paytm-payments/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:paytm:payment_gateway:-:*:*:*:*:wordpress:*:*"
+	}
+}

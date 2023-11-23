@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:amd:epyc_9754_firmware:genoapi_1.0.0.8",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 9754 Firmware GenoaPI 1.0.0.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3002.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_9754_firmware:genoapi_1.0.0.8:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:mikrotik:routeros:7.12:rc7:~~-~~~",
+	"title": [
+		{
+			"text": "MikroTik RouterOS 7.12 Release Candidate 7 - Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.enricobassetti.it/2023/11/cve-2023-41570-access-control-vulnerability-in-mikrotik-rest-api/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://mikrotik.com/download/changelogs/testing-release-tree"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:mikrotik:routeros:7.12:rc7:*:*:-:*:*:*"
+	}
+}

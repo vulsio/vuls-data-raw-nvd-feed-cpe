@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:aiohttp_project:aiohttp:3.7.0:beta0",
+	"deprecated": true,
+	"deprecation_date": "2023-11-22T17:09:16.157Z",
 	"title": [
 		{
 			"text": "Aiohttp Project Aiohttp 3.7.0 Beta 0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:aiohttp_project:aiohttp:3.7.0:beta0:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-11-22T12:09:16.157-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:aiohttp:aiohttp:3.7.0:beta0:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
