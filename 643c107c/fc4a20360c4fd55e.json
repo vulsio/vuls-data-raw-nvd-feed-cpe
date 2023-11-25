@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:shawfactor:lh-password-changer:1.55::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Shawfactor Lh-password-changer 1.55 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://shawfactor.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/lh-password-changer/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/lh-password-changer/wordpress-lh-password-changer-plugin-1-55-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shawfactor:lh-password-changer:1.55:*:*:*:*:wordpress:*:*"
+	}
+}

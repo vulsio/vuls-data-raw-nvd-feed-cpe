@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:so-wp:pinyin_slugs:2.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SO-WP Pinyin Slugs 2.0.1 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://so-wp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/so-pinyin-slugs/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/so-pinyin-slugs/wordpress-pinyin-slugs-plugin-2-3-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:so-wp:pinyin_slugs:2.0.1:*:*:*:*:wordpress:*:*"
+	}
+}

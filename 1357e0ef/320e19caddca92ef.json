@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bocinec:advanced_menu_widget:0.4.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "JohnnyPea Advanced Menu Widget 0.4.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/advanced-menu-widget/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-menu-widget/advanced-menu-widget-041-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bocinec:advanced_menu_widget:0.4.1:*:*:*:*:wordpress:*:*"
+	}
+}

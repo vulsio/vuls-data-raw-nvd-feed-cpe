@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:tagdiv:tagdiv_composer:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "tagDiv tagDiv Composer - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://themesinfo.com/wordpress-plugins/wordpress-td-composer-plugin-dgnh"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/td-composer/wordpress-tagdiv-composer-plugin-4-1-csrf-to-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tagdiv:tagdiv_composer:-:*:*:*:*:wordpress:*:*"
+	}
+}

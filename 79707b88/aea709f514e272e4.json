@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:shopfiles:ebook_store:5.785::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Shopfiles Ebook Store 5.785 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ebook-store/wordpress-ebook-store-plugin-5-784-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ebook-store/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shopfiles:ebook_store:5.785:*:*:*:*:wordpress:*:*"
+	}
+}

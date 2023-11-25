@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:evo:evolution_cms:3.2.3",
+	"title": [
+		{
+			"text": "Evolution CMS 3.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://evo.im/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/evolution-cms/evolution/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sromanhu/-CVE-2023-43340-Evolution-Reflected-XSS---Installation-Admin-Options"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:evo:evolution_cms:3.2.3:*:*:*:*:*:*:*"
+	}
+}

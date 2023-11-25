@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:zendrop:zendrop:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Zendrop Zendrop 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://zendrop.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/zendrop-dropshipping-and-fulfillment/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/zendrop-dropshipping-and-fulfillment/wordpress-zendrop-global-dropshipping-plugin-1-0-0-arbitrary-code-execution?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zendrop:zendrop:1.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

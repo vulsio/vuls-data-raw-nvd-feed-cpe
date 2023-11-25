@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:projectcontour:contour:2023-10-11::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Projectcontour Contour 2023-10-11 for Kubernetes",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/projectcontour/contour/pull/5826"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/projectcontour/contour/pull/5826/commits/38f60f15395b19f34f3ffd9f635f7e0565d15857"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:projectcontour:contour:2023-10-11:*:*:*:*:kubernetes:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:adobe:css-tools:3.0.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Adobe CSS-Tools 3.0.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adobe/css-tools/security/advisories/GHSA-hpx4-r86g-5jrg"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/adobe/css-tools/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:css-tools:3.0.0:*:*:*:*:node.js:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:apppresser:apppresser:2.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AppPresser 2.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://apppresser.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/apppresser/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/apppresser/apppresser-425-insecure-password-reset-mechanism"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apppresser:apppresser:2.2.0:*:*:*:*:wordpress:*:*"
+	}
+}

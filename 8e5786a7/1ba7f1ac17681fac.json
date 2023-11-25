@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:amd:epyc_7513_firmware:milanpi_1.0.0.7",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC 7513 Firmware MilanPI 1.0.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3002.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/processors/epyc-7003-series"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:amd:epyc_7513_firmware:milanpi_1.0.0.7:*:*:*:*:*:*:*"
+	}
+}

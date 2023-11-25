@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kubernetes:kubernetes:1.28.2",
+	"title": [
+		{
+			"text": "Kubernetes 1.28.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://groups.google.com/g/kubernetes-security-announce/c/SL_d4NR8pzA"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/kubernetes/kubernetes/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.28.2:*:*:*:*:*:*:*"
+	}
+}

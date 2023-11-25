@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:dmpop:mejiro:-",
+	"title": [
+		{
+			"text": "Dmpop Mejiro -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.0xzon.dev/2023-10-15-Mejiro-Reflected-XSS-Via-Remote-File-Inclusion-CVE-2023-46448/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/dmpop/mejiro/commit/309639339f5816408865902befe8c90cb6862537"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dmpop:mejiro:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:adobe:css-tools:4.3.0:rc1:~~~node.js~~",
+	"title": [
+		{
+			"text": "Adobe CSS-Tools 4.3.0 Release Candidate 1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adobe/css-tools/security/advisories/GHSA-hpx4-r86g-5jrg"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/@adobe/css-tools?activeTab=versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:css-tools:4.3.0:rc1:*:*:*:node.js:*:*"
+	}
+}

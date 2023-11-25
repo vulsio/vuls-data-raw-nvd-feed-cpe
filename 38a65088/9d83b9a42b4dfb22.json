@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:vmware:vcenter_server:8.0:update1d",
+	"title": [
+		{
+			"text": "VMware vCenter Server 8.0 Update1d",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2023-0023.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://customerconnect.vmware.com/downloads/details?downloadGroup=VC80U2&productId=1345&rPId=110105"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:8.0:update1d:*:*:*:*:*:*"
+	}
+}

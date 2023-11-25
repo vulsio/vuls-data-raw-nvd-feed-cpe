@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:vmware:vcenter_server:7.0:update3n",
+	"title": [
+		{
+			"text": "VMware vCenter Server 7.0 Update3n",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://customerconnect.vmware.com/downloads/details?downloadGroup=VC70U3O&productId=974&rPId=110262"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.vmware.com/security/advisories/VMSA-2023-0023.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:vcenter_server:7.0:update3n:*:*:*:*:*:*"
+	}
+}
