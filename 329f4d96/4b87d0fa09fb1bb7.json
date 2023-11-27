@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mondula:multi_step_form:1.7.11::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Mondula Multi Step Form 1.7.11 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/multi-step-form/wordpress-multi-step-form-plugin-1-7-11-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/multi-step-form/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mondula:multi_step_form:1.7.11:*:*:*:*:wordpress:*:*"
+	}
+}

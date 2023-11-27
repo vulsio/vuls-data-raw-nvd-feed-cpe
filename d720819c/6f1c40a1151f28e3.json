@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:intel:stratix_10_sx_1650_fpga_firmware:2.8.1",
+	"title": [
+		{
+			"text": "Intel Stratix 10 Sx 1650 FPGA Firmware 2.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/altera-opensource/arm-trusted-firmware/commits/socfpga_v2.8.1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00957.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:stratix_10_sx_1650_fpga_firmware:2.8.1:*:*:*:*:*:*:*"
+	}
+}

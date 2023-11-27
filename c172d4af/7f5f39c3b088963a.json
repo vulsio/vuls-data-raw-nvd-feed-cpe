@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:combust:mleap:0.23.0",
+	"title": [
+		{
+			"text": "Combust Mleap 0.23.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://research.jfrog.com/vulnerabilities/mleap-path-traversal-rce-xray-532656/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/combust/mleap/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:combust:mleap:0.23.0:*:*:*:*:*:*:*"
+	}
+}

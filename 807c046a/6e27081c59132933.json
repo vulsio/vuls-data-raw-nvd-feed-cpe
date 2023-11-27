@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:intel:agilex_7_fpga_f-series_008_firmware:2.8.1",
+	"title": [
+		{
+			"text": "Intel Agilex 7 FPGA F-series 008 Firmware 2.8.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/products/details/fpga/agilex/7/f-series/products.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/altera-opensource/arm-trusted-firmware/commits/socfpga_v2.8.1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00957.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:intel:agilex_7_fpga_f-series_008_firmware:2.8.1:*:*:*:*:*:*:*"
+	}
+}
