@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:aweber:aweber:5.0.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AWeber 5.0.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.aweber.com/index-t2.htm"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/aweber-web-form-widget/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/aweber-web-form-widget/wordpress-aweber-plugin-7-3-9-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aweber:aweber:5.0.8:*:*:*:*:wordpress:*:*"
+	}
+}

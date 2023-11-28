@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:openvpn:openvpn:2.0:rc20:~~community~~~",
+	"title": [
+		{
+			"text": "OpenVPN 2.0 Release Candidate 20 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/OpenVPN/openvpn"
+		},
+		{
+			"text": "Product",
+			"href": "https://openvpn.net/open-source-or-access-server/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn20"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openvpn:openvpn:2.0:rc20:*:*:community:*:*:*"
+	}
+}

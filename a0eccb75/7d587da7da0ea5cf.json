@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:openvpn:openvpn:2.4.5::~~community~~~",
+	"title": [
+		{
+			"text": "OpenVPN 2.4.5 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/OpenVPN/openvpn/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/OpenVPN/openvpn"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn24"
+		},
+		{
+			"text": "Product",
+			"href": "https://openvpn.net/open-source-or-access-server/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openvpn:openvpn:2.4.5:*:*:*:community:*:*:*"
+	}
+}

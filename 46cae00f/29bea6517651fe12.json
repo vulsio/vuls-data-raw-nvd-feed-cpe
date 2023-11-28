@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:torchbox:wagtail:4.2:-",
+	"title": [
+		{
+			"text": "Torchbox Wagtail 4.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://torchbox.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/wagtail/wagtail/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://wagtail.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/wagtail/wagtail/security/advisories/GHSA-fc75-58r8-rm3h"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:torchbox:wagtail:4.2:-:*:*:*:*:*:*"
+	}
+}

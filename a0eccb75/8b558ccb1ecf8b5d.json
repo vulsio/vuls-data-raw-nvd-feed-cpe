@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:openvpn:openvpn:2.1.0:rc21:~~community~~~",
+	"title": [
+		{
+			"text": "OpenVPN 2.1.0 Release Candidate 21 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://openvpn.net/open-source-or-access-server/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/OpenVPN/openvpn"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://community.openvpn.net/openvpn/wiki/ChangesInOpenvpn21"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/OpenVPN/openvpn/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openvpn:openvpn:2.1.0:rc21:*:*:community:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wire:audio%2c_video%2c_and_signaling:8.1.23",
+	"title": [
+		{
+			"text": "Wire Audio, Video, and Signaling (AVS) 8.1.23",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wire.com/en"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/wireapp/wire-avs/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/wireapp/wire-avs/security/advisories/GHSA-m4xg-fcr3-w3pq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wire:audio\\,_video\\,_and_signaling:8.1.23:*:*:*:*:*:*:*"
+	}
+}
