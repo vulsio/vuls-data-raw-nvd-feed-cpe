@@ -1,0 +1,18 @@
+{
+	"name": "cpe:/a:owncloud:oauth2:-",
+	"title": [
+		{
+			"text": "ownCloud oauth2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://owncloud.com/security-advisories/subdomain-validation-bypass/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:owncloud:oauth2:-:*:*:*:*:*:*:*"
+	}
+}

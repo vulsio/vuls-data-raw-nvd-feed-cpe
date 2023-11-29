@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:matrix:synapse:1.94.0:-",
+	"title": [
+		{
+			"text": "Matrix Synapse 1.94.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/matrix-org/synapse/security/advisories/GHSA-5chr-wjw5-3gq4"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://matrix.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/matrix-org/synapse/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matrix:synapse:1.94.0:-:*:*:*:*:*:*"
+	}
+}

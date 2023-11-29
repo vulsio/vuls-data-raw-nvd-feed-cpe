@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:matrix:synapse:1.95.0:rc1",
+	"title": [
+		{
+			"text": "Matrix Synapse 1.95.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/matrix-org/synapse/security/advisories/GHSA-mp92-3jfm-3575"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/matrix-org/synapse/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matrix:synapse:1.95.0:rc1:*:*:*:*:*:*"
+	}
+}
