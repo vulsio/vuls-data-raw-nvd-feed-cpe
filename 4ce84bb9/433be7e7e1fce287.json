@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:nextcloud:nextcloud_server:25.0.13::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Nextcloud Server 25.0.13 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nextcloud.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-2448-44rp-c7hh"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nextcloud/server/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://hackerone.com/reports/2212627"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nextcloud/security-advisories/security/advisories/GHSA-f962-hw26-g267"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:nextcloud_server:25.0.13:*:*:*:enterprise:*:*:*"
+	}
+}

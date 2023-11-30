@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:networktocode:nautobot:2.0.0:alpha3",
+	"title": [
+		{
+			"text": "Network to Code Nautobot 2.0.0 Alpha 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://networktocode.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nautobot/nautobot/security/advisories/GHSA-cf9f-wmhp-v4pr"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nautobot/nautobot/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:networktocode:nautobot:2.0.0:alpha3:*:*:*:*:*:*"
+	}
+}

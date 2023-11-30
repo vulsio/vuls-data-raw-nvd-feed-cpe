@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:cisco:secure_client:5.0.00556",
+	"title": [
+		{
+			"text": "Cisco Secure Client 5.0.00556",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-accsc-dos-9SLzkZ8"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/20xxx/CVE-2023-20240.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_client:5.0.00556:*:*:*:*:*:*:*"
+	}
+}

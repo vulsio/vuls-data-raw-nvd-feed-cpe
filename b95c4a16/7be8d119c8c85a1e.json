@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ciphercoin:easy_hide_login:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CipherCoin Easy Hide Login for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/easy-hide-login/wordpress-easy-hide-login-plugin-1-0-8-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/easy-hide-login/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://ciphercoin.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ciphercoin:easy_hide_login:-:*:*:*:*:wordpress:*:*"
+	}
+}
