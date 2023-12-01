@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sysaid:sysaid:23.2.15::~~on-premises~~~",
+	"title": [
+		{
+			"text": "SysAid 23.2.15 On-Premises Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.pridesec.com.br/en/insecure-direct-object-reference-idor-affects-helpdesk-sysaid/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sysaid.com.br/produto/on-premise/?ref=blog.pridesec.com.br"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://documentation.sysaid.com/docs/23337"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sysaid:sysaid:23.2.15:*:*:*:on-premises:*:*:*"
+	}
+}

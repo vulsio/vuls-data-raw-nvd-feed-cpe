@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:kk_star_ratings_project:kk_star_ratings:2.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-30T13:18:12.300Z",
 	"title": [
 		{
 			"text": "Kk Star Ratings Project Kk Star Ratings 2.3 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:2.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:kk_star_ratings_project:kk_star_ratings:2.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-30T08:18:12.300-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kamalkhan:kk_star_ratings:2.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

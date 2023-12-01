@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cisco:secure_endpoint:6.2.9::~~~windows~~",
+	"title": [
+		{
+			"text": "Cisco Secure Endpoint 6.2.9 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-secure-endpoint-dos-RzOgFKnd"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/20xxx/CVE-2023-20084.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.amp.cisco.com/Release%20Notes.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_endpoint:6.2.9:*:*:*:*:windows:*:*"
+	}
+}

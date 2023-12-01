@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:2.0.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-11-30T13:07:40.813Z",
 	"title": [
 		{
 			"text": "WooCommerce Vietnam Checkout Project WooCommerce Vietnam Checkout 2.0.2 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:2.0.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:woocommerce_vietnam_checkout_project:woocommerce_vietnam_checkout:2.0.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-11-30T08:07:40.813-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:levantoan:woocommerce_vietnam_checkout:2.0.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

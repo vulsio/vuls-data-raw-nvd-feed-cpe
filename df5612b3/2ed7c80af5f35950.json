@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:gitkraken:gitlens:5.1.0:beta:~~~visual_studio_code~~",
+	"title": [
+		{
+			"text": "GitKraken GitLens 5.1.0 Beta for Visual Studio Code",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gitkraken.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://marketplace.visualstudio.com/items/eamodio.gitlens/changelog"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.gitkraken.com/gitlens"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gitkraken/vscode-gitlens/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sonarsource.com/blog/vscode-security-markdown-vulnerabilities-in-extensions/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitkraken:gitlens:5.1.0:beta:*:*:*:visual_studio_code:*:*"
+	}
+}
