@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpvnteam:wp_extra:6.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPVNTeam WP Extra 6.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpvnteam.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-extra/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-extra/wordpress-wp-extra-plugin-6-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpvnteam:wp_extra:6.5:*:*:*:*:wordpress:*:*"
+	}
+}

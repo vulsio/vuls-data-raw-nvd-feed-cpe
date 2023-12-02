@@ -1,0 +1,18 @@
+{
+	"name": "cpe:/h:thorntech:sftp_gateway:-",
+	"title": [
+		{
+			"text": "Thorn SFTP Gateway",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://help.thorntech.com/docs/sftp-gateway-gcp-3.0/gcp-java-deserialization-rce/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:thorntech:sftp_gateway:-:*:*:*:*:*:*:*"
+	}
+}

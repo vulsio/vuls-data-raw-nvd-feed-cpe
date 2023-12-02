@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:sielco:polyeco300_firmware:2.0.0::~~cpu~~~",
+	"title": [
+		{
+			"text": "Sielco PolyEco300 Firmware 2.0.0 CPU Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sielco.org/en/product/polyeco-series-21"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-299-07"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sielco:polyeco300_firmware:2.0.0:*:*:*:cpu:*:*:*"
+	}
+}

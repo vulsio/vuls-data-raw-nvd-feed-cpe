@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pressified:sendpress:1.23.11.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Pressified SendPress 1.23.11.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sendpress.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wordpress.org/plugins/sendpress/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sendpress/sendpress-newsletters-122331-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pressified:sendpress:1.23.11.6:*:*:*:*:wordpress:*:*"
+	}
+}

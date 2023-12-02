@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:awesometogi:product-category-tree:2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Awesometogi Product-category-tree 2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://awesometogi.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/product-category-tree/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/product-category-tree/wordpress-product-category-tree-plugin-2-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:awesometogi:product-category-tree:2.5:*:*:*:*:wordpress:*:*"
+	}
+}

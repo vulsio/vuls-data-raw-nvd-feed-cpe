@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:proxmox:proxmox:4.0.9",
+	"title": [
+		{
+			"text": "Proxmox 4.0.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security-tracker.debian.org/tracker/CVE-2023-45897"
+		},
+		{
+			"text": "Product",
+			"href": "https://pve.proxmox.com/wiki/Package_Repositories#sysadmin_test_repo"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:proxmox:proxmox:4.0.9:*:*:*:*:*:*:*"
+	}
+}

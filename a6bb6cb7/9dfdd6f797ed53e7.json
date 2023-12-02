@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:paidmembershipspro:paid_memberships_pro:2.4.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-01T18:28:42.207Z",
 	"title": [
 		{
 			"text": "PaidMembershipsPro Paid Memberships Pro 2.4.3 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:paidmembershipspro:paid_memberships_pro:2.4.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:paidmembershipspro:paid_memberships_pro:2.4.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-12-01T13:28:42.207-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:strangerstudios:paid_memberships_pro:2.4.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

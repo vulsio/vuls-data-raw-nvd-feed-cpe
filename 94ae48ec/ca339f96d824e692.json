@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:nvidia:geforce_rtx_3060:-",
+	"title": [
+		{
+			"text": "NVIDIA Geforce RTX 3060 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-3060ti/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.hertzbleed.com/gpu.zip/GPU-zip.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nvidia:geforce_rtx_3060:-:*:*:*:*:*:*:*"
+	}
+}

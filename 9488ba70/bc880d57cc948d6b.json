@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:zscaler:client_connector:4.2.0.149::~~~windows~~",
+	"title": [
+		{
+			"text": "Zscaler Client Connector 4.2.0.149 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-67fh-hvmh-rhv8"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://help.zscaler.com/client-connector/client-connector-app-release-summary-2023"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zscaler:client_connector:4.2.0.149:*:*:*:*:windows:*:*"
+	}
+}

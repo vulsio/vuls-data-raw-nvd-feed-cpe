@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:netis-systems:n3m:2.0",
+	"title": [
+		{
+			"text": "Netis Systems N3M 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.netis-systems.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adhikara13/CVE/blob/main/netis_N3/command%20injection%20bypass%20filter.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netis-systems:n3m:2.0:*:*:*:*:*:*:*"
+	}
+}

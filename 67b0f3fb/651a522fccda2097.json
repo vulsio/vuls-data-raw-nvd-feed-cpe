@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:intel:arc_a310:-",
+	"title": [
+		{
+			"text": "Intel Arc A310 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00864.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:arc_a310:-:*:*:*:*:*:*:*"
+	}
+}

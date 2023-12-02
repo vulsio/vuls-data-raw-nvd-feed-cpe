@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:xwiki:admin_tools:4.4",
+	"title": [
+		{
+			"text": "Xwiki Admin Tools 4.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/xwiki-contrib/application-admintools/security/advisories/GHSA-8jpr-ff92-hpf9"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/xwiki-contrib/application-admintools/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xwiki:admin_tools:4.4:*:*:*:*:*:*:*"
+	}
+}

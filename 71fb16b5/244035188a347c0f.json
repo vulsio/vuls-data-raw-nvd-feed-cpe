@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bbp-toolkit_project:bbp-toolkit:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bbp-toolkit Project Bbp-toolkit - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bbp-toolkit/wordpress-bbpress-toolkit-plugin-1-0-12-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/bbp-toolkit/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bbp-toolkit_project:bbp-toolkit:-:*:*:*:*:wordpress:*:*"
+	}
+}

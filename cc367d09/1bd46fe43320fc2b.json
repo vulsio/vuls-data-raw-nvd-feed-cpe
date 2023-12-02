@@ -1,0 +1,18 @@
+{
+	"name": "cpe:/a:redis:redis:2.6.0:rc1",
+	"title": [
+		{
+			"text": "Redis 2.6.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/redis/redis/security/advisories/GHSA-ghmp-889m-7cvx"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redis:2.6.0:rc1:*:*:*:*:*:*"
+	}
+}

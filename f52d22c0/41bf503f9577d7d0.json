@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:thrivethemes:thrive_themes_builder:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Thrive Themes Thrive Themes Builder for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://thrivethemes.com/themebuilder/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/thrive-theme/wordpress-thrive-theme-builder-theme-3-20-1-cross-site-request-forgery-csrf-to-account-takeover-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thrivethemes:thrive_themes_builder:-:*:*:*:*:wordpress:*:*"
+	}
+}

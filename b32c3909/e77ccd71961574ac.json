@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:matbao:wp_helper_premium:4.5.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Mat Bao Company WP Helper Premium 4.5.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-helper-lite/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-helper-lite/wordpress-wp-helper-premium-plugin-4-5-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.matbao.net/hosting/wp-helper-plugin.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matbao:wp_helper_premium:4.5.1:*:*:*:*:wordpress:*:*"
+	}
+}
