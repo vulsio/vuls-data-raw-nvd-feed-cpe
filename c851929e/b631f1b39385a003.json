@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:bowo:debug_log_manager:1.8.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bowo Debug Log Manager 1.8.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bowo.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/debug-log-manager/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/debug-log-manager/wordpress-debug-log-manager-plugin-2-2-0-sensitive-data-exposure-via-log-file-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bowo:debug_log_manager:1.8.5:*:*:*:*:wordpress:*:*"
+	}
+}

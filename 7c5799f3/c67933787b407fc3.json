@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:resty_project:resty:0.9.0:milestone1:~~~go~~",
+	"title": [
+		{
+			"text": "Resty Project Resty 0.9.0 Milestone 1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/go-resty/resty/v2?tab=versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2023-2328"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/go-resty/resty/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:resty_project:resty:0.9.0:milestone1:*:*:*:go:*:*"
+	}
+}
