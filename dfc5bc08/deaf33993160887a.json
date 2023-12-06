@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/o:selinc:sel-451_firmware:r317-v4",
+	"title": [
+		{
+			"text": "Schweitzer Engineering Laboratories (SEL) SEL-451 Firmware R317-V4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://selinc.com/support/security-notifications/external-reports/"
+		},
+		{
+			"text": "Product",
+			"href": "https://selinc.com/products/451/#tab-firmware"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.nozominetworks.com/blog/five-vulnerabilities-on-sel-451-allow-authentication-bypass-and-dos"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-31176"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:selinc:sel-451_firmware:r317-v4:*:*:*:*:*:*:*"
+	}
+}

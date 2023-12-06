@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:selinc:sel-411l_firmware:r121-v0",
+	"title": [
+		{
+			"text": "Schweitzer Engineering Laboratories (SEL) SEL-411L Firmware R121-V0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://selinc.com/support/security-notifications/external-reports/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-2264"
+		},
+		{
+			"text": "Product",
+			"href": "https://selinc.com/products/411L/#tab-firmware"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:selinc:sel-411l_firmware:r121-v0:*:*:*:*:*:*:*"
+	}
+}

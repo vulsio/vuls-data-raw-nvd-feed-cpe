@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:really-simple-plugins:complianz:6.4.8::~~premium~wordpress~~",
+	"title": [
+		{
+			"text": "Really Simple Plugins Complianz 6.4.8 Premium Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/complianz-gdpr/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/complianz-gdpr-premium/wordpress-complianz-premium-plugin-6-4-7-multiple-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:really-simple-plugins:complianz:6.4.8:*:*:*:premium:wordpress:*:*"
+	}
+}

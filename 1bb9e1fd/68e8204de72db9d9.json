@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpfrontier:frontier_post:6.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Frontier WordPress Frontier Post 6.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/frontier-post/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpfrontier.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/frontier-post/wordpress-frontier-post-plugin-6-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpfrontier:frontier_post:6.1:*:*:*:*:wordpress:*:*"
+	}
+}

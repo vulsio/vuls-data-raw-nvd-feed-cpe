@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:bd:facschorus:3.1",
+	"deprecated": true,
+	"deprecation_date": "2023-12-05T16:56:15.123Z",
 	"title": [
 		{
 			"text": "BD FACSChorus 3.1",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:bd:facschorus:3.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:bd:facschorus:3.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-05T11:56:15.123-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:bd:facschorus:3.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

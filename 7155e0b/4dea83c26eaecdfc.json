@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:univention:univention_corporate_server:5.0",
+	"title": [
+		{
+			"text": "Univention Corporate Server (UCS) 5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.drive-byte.de/en/blog/simple-yet-effective-the-story-of-some-simple-bugs-that-led-to-the-complete-compromise-of-a-network"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.univention.com/products/ucs/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:univention:univention_corporate_server:5.0:*:*:*:*:*:*:*"
+	}
+}
