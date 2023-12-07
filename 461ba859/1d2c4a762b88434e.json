@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:themenectar:salient_core:2.0.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ThemeNectar Salient Core 2.0.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://themenectar.com/changelogs/salient.html#:~:text=previously%20available.%20Requires-,Salient%20Core,-v2.0.5"
+		},
+		{
+			"text": "Product",
+			"href": "https://themenectar.com/docs/salient/salient-core-plugin/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/salient-core/wordpress-salient-core-plugin-2-0-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themenectar:salient_core:2.0.4:*:*:*:*:wordpress:*:*"
+	}
+}

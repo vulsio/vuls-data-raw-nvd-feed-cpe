@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:google:cloud_firestore:6.4.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "Google Cloud Firestore 6.4.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/googleapis/nodejs-firestore/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/@google-cloud/firestore"
+		},
+		{
+			"text": "Product",
+			"href": "https://firebase.google.com/docs/firestore/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:cloud_firestore:6.4.2:*:*:*:*:node.js:*:*"
+	}
+}
