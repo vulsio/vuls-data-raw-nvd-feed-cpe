@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:icecms_project:icecms:1.0.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-07T15:11:50.590Z",
 	"title": [
 		{
 			"text": "IceCMS Project IceCMS 1.0.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:icecms_project:icecms:1.0.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:icecms_project:icecms:1.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-07T10:11:50.590-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:thecosy:icecms:1.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

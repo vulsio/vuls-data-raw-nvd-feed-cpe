@@ -1,0 +1,31 @@
+{
+	"name": "cpe:/a:htmlunit_project:htmlunit:3.8.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-07T17:56:25.860Z",
+	"title": [
+		{
+			"text": "HtmlUnit Project HtmlUnit 3.8.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.htmlunit.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.htmlunit.org/changes-report.html#a3.9.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:htmlunit_project:htmlunit:3.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-07T12:56:25.860-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:htmlunit:htmlunit:3.8.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

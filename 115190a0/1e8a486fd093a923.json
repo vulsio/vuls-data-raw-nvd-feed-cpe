@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:zohocorp:network_configuration_manager:-",
+	"deprecated": true,
+	"deprecation_date": "2023-12-07T20:06:39.953Z",
 	"title": [
 		{
 			"text": "Zoho Corporation Network Configuration Manager",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:zohocorp:network_configuration_manager:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:zohocorp:network_configuration_manager:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-07T15:06:39.953-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_network_configuration_manager:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:rustcrypto:rsa:0.5.0::~~~rust~~",
+	"title": [
+		{
+			"text": "RustCrypto RSA 0.5.0 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://crates.io/crates/rsa"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://rustcrypto.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/RustCrypto/RSA/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/RustCrypto/RSA/security/advisories/GHSA-c38w-74pg-36hr"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rustcrypto:rsa:0.5.0:*:*:*:*:rust:*:*"
+	}
+}

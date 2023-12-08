@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:ecies:go:2.0.6",
+	"title": [
+		{
+			"text": "ECIES go 2.0.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ecies/go/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://ecies.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ecies/go/security/advisories/GHSA-8j98-cjfr-qx3h"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ashutosh1206/Crypton/blob/master/Diffie-Hellman-Key-Exchange/Attack-Invalid-Curve-Point/README.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ecies:go:2.0.6:*:*:*:*:*:*:*"
+	}
+}

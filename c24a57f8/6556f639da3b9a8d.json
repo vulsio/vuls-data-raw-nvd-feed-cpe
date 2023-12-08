@@ -1,12 +1,27 @@
 {
 	"name": "cpe:/o:microsoft:windows_vista:-:sp1:x64",
+	"deprecated": true,
+	"deprecation_date": "2023-12-07T18:38:56.040Z",
 	"title": [
 		{
 			"text": "Microsoft Windows Vista Service Pack 1 x64 (64-bit)",
 			"lang": "en-US"
 		}
 	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=13158"
+		}
+	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64:*:*:*:*:*"
+		"name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:x64:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-07T13:38:56.040-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_vista:-:sp1:*:*:-:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

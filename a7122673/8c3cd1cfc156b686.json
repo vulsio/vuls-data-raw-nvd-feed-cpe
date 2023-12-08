@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:thinkadmin:thinkadmin:6.1.53",
+	"title": [
+		{
+			"text": "ThinkAdmin 6.1.53",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://gitee.com/zoujingli/ThinkAdmin"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/1dreamGN/CVE/blob/main/ThinkAdmin%20Logical%20defect%20getshell.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://thinkadmin.top/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thinkadmin:thinkadmin:6.1.53:*:*:*:*:*:*:*"
+	}
+}

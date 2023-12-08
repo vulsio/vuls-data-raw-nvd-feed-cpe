@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:ctolog:thinkadmin:3.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-07T14:22:17.777Z",
 	"title": [
 		{
 			"text": "Ctolog ThinkAdmin 3.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:ctolog:thinkadmin:3.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-07T09:22:17.777-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:thinkadmin:thinkadmin:3.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
