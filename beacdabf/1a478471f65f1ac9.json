@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nxsn:wp_hide_pages:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Nxsn WP Hide Pages 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://nxsn.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-hide-pages/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-hide-pages/wordpress-wp-hide-pages-plugin-1-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nxsn:wp_hide_pages:1.0:*:*:*:*:wordpress:*:*"
+	}
+}

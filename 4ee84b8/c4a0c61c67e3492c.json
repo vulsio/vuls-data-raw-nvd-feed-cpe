@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:clickbar:dot-diver:-::~~~node.js~~",
+	"title": [
+		{
+			"text": "Clickbar Dot-diver - for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/clickbar/dot-diver/security/advisories/GHSA-9w5f-mw3p-pj47"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.clickbar.dev/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/clickbar/dot-diver/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickbar:dot-diver:-:*:*:*:*:node.js:*:*"
+	}
+}

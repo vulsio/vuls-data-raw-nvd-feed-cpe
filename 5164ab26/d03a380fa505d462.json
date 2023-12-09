@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:communitydeveloper:amazzing_filter:-::~~~prestashop~~",
+	"title": [
+		{
+			"text": "Community Developer Amazzing Filter - for PrestaShop",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://addons.prestashop.com/en/search-filters/18575-amazzing-filter.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@nasir.synack/uncovering-a-cross-site-scripting-vulnerability-cve-2023-48042-in-amazzing-filters-prestashop-2e4a9f8b655e"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:communitydeveloper:amazzing_filter:-:*:*:*:*:prestashop:*:*"
+	}
+}

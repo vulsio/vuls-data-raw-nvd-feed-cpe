@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:redhat:libnbd:1.18.1",
+	"title": [
+		{
+			"text": "Red Hat Libnbd 1.18.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://lists.libguestfs.org/archives/list/guestfs@lists.libguestfs.org/thread/PFVUCMPFQUDC23JXSCUUPXIGDZ7XCFMD/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2247308"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitlab.com/nbdkit/libnbd/-/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:libnbd:1.18.1:*:*:*:*:*:*:*"
+	}
+}

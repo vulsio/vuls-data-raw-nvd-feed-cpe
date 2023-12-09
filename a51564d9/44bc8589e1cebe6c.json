@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:properfraction:profilepress:4.11.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Proper Fraction ProfilePress 4.11.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://properfraction.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://profilepress.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-user-avatar/wordpress-profilepress-plugin-4-13-2-sensitive-data-exposure-via-debug-log-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:properfraction:profilepress:4.11.0:*:*:*:*:wordpress:*:*"
+	}
+}

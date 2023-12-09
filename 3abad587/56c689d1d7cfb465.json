@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:http%3a%3atiny_project:http%3a%3atiny:0.082",
+	"title": [
+		{
+			"text": "HTTP::Tiny Project HTTP::Tiny 0.082",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://blog.hackeriet.no/perl-http-tiny-insecure-tls-default-affects-cpan-modules/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/253358"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/chansen/p5-http-tiny/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:http\\:\\:tiny_project:http\\:\\:tiny:0.082:*:*:*:*:*:*:*"
+	}
+}

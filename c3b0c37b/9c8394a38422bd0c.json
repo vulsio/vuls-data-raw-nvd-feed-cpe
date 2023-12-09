@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:apache:tomcat:9.0.0:m25",
+	"deprecated": true,
+	"deprecation_date": "2023-12-08T16:41:17.687Z",
 	"title": [
 		{
 			"text": "Apache Software Foundation Tomcat 9.0.0 M25",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:apache:tomcat:9.0.0:m25:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:apache:tomcat:9.0.0:m25:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-08T11:41:17.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:tomcat:9.0.0:milestone25:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

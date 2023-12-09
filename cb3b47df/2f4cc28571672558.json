@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:horizon_project:horizon:-",
+	"title": [
+		{
+			"text": "Horizon Project Horizon -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://docs.openstack.org/horizon/latest/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/yanheven/console/commit/32a7b713468161282f2ea01d5e2faff980d924cd"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:horizon_project:horizon:-:*:*:*:*:*:*:*"
+	}
+}

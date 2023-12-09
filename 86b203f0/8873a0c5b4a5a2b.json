@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:nasa:openmct:2.2.5",
+	"title": [
+		{
+			"text": "Nasa Open MCT 2.2.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nasa/openmct/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/45xxx/CVE-2023-45282.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nasa:openmct:2.2.5:*:*:*:*:*:*:*"
+	}
+}

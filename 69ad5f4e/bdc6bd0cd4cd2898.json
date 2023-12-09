@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:catonetworks:cato_client:5.4.0::~~~macos~~",
+	"title": [
+		{
+			"text": "CatoNetworks Cato Client 5.4.0 for MacOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://myvpn.catonetworks.com/downloadMvpnClient"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.apple.com/us/app/cato-client/id1128104033?mt=12"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ns-echo.com/posts/cve_2023_43976.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:catonetworks:cato_client:5.4.0:*:*:*:*:macos:*:*"
+	}
+}

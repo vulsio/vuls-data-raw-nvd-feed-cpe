@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:python:python:3.6.11",
+	"deprecated": true,
+	"deprecation_date": "2023-12-08T16:54:04.287Z",
 	"title": [
 		{
 			"text": "Python 3.6.11",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:python:python:3.6.11:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:python:python:3.6.11:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-08T11:54:04.287-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:python:python:3.6.11:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

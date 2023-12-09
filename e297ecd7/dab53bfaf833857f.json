@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:neshan:neshan_maps:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Neshan Neshan Maps - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/neshan-maps/wordpress-neshan-maps-plugin-1-1-4-sql-injection?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://neshan.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/neshan-maps/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:neshan:neshan_maps:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:dolibarr:dolibarr_erp%2fcrm:17.0.1",
+	"title": [
+		{
+			"text": "Dolibarr ERP CRM 17.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://akerva.com/wp-content/uploads/2023/09/AKERVA_Security-Advisory_CVE-2023-38886_Dolibarr_RCE-1.pdf"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Dolibarr/dolibarr/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dolibarr:dolibarr_erp\\/crm:17.0.1:*:*:*:*:*:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:google:android:12.0l",
+	"deprecated": true,
+	"deprecation_date": "2023-12-09T00:30:32.643Z",
 	"title": [
 		{
 			"text": "Google Android 12.0L",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:google:android:12.0l:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-08T19:30:32.643-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:google:android:12.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

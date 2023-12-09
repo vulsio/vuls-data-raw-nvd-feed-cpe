@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:danielpowney:multi_rating:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Danielpowney Multi Rating - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://danielpowney.com/"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/multi-rating/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/multi-rating/wordpress-multi-rating-plugin-5-0-6-cross-site-request-forgery-csrf?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:danielpowney:multi_rating:-:*:*:*:*:wordpress:*:*"
+	}
+}

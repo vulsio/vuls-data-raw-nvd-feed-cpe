@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:gruparge:smartpower_web:23.01.01",
+	"title": [
+		{
+			"text": "Gruparge Smartpower Web 23.01.01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gruparge.com/en/hompage/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.usom.gov.tr/bildirim/tr-23-0066"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.gruparge.com/wp-content/uploads/2023/01/smartpower-web-user-manual.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45085.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gruparge:smartpower_web:23.01.01:*:*:*:*:*:*:*"
+	}
+}

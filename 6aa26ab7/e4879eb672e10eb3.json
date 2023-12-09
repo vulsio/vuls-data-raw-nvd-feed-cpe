@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:cryptography_project:cryptography:41.0.3::~~~python~~",
+	"title": [
+		{
+			"text": "cryptography Project cryptography 41.0.3 for Python",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pyca/cryptography/security/advisories/GHSA-jfhm-5ghh-2f97"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/pyca/cryptography/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cryptography_project:cryptography:41.0.3:*:*:*:*:python:*:*"
+	}
+}

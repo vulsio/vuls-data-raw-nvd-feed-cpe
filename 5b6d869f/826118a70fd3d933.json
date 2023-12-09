@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gitpod:gitpod:2022.11.2",
+	"title": [
+		{
+			"text": "Gitpod Gitpod 2022.11.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://snyk.io/blog/gitpod-remote-code-execution-vulnerability-websockets/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gitpod-io/gitpod/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://app.safebase.io/portal/71ccd717-aa2d-4a1e-942e-c768d37e9e0c/preview?product=default&orgId=71ccd717-aa2d-4a1e-942e-c768d37e9e0c&tcuUid=1d505bda-9a38-4ca5-8724-052e6337f34d"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitpod:gitpod:2022.11.2:*:*:*:*:*:*:*"
+	}
+}

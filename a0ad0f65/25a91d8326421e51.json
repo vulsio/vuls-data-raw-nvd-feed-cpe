@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:peepso:peepso:6.1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "PeepSo 6.1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/peepso-core/wordpress-community-by-peepso-social-network-membership-registration-user-profiles-plugin-6-0-9-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.peepso.com/changelog/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/peepso-core/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:peepso:peepso:6.1.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

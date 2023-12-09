@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fedoraproject:fedora_linux_kernel:5.9.0:rc9",
+	"title": [
+		{
+			"text": "Fedora Project Fedora Linux Kernel 5.9.0 Release Candidate 9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchwork.freedesktop.org/patch/356372/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.fedoraproject.org/en-US/quick-docs/kernel-overview/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/27xxx/CVE-2020-27418.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fedoraproject:fedora_linux_kernel:5.9.0:rc9:*:*:*:*:*:*"
+	}
+}

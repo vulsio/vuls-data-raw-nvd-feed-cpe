@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kubernetes:kubernetes:1.28.1",
+	"title": [
+		{
+			"text": "Kubernetes 1.28.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://groups.google.com/g/kubernetes-security-announce/c/JrX4bb7d83E"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://kubernetes.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubernetes:kubernetes:1.28.1:*:*:*:*:*:*:*"
+	}
+}

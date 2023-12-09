@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:phoenix:securecore_technology:1.5.74.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-08T18:54:41.153Z",
 	"title": [
 		{
 			"text": "Phoenix SecureCore Technology (SCT) 1.5.74.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:phoenix:securecore_technology:1.5.74.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:phoenix:securecore_technology:1.5.74.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-08T13:54:41.153-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:phoenix:securecore_technology:1.5.74.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
