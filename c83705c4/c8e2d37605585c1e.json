@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sonicwall:global_management_system:9.3.2:-:~~windows~~~",
+	"title": [
+		{
+			"text": "SonicWall Global Management System 9.3.2 - Windows Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.sonicwall.com/support/knowledge-base/urgent-security-notice-sonicwall-gms-analytics-impacted-by-suite-of-vulnerabilities/230710150218060/"
+		},
+		{
+			"text": "Project",
+			"href": "https://www.sonicwall.com/techdocs/pdf/gms-9-3-release_notes.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:global_management_system:9.3.2:-:*:*:windows:*:*:*"
+	}
+}

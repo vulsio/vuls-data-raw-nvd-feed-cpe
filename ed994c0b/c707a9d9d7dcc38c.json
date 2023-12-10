@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:pytorch:torchserve:0.9.0",
+	"title": [
+		{
+			"text": "Pytorch Torchserve 0.9.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pytorch/serve/security/advisories/GHSA-m2mj-pr4f-h9jp"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/pytorch/serve/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pytorch:torchserve:0.9.0:*:*:*:*:*:*:*"
+	}
+}

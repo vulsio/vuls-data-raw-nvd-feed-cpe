@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:simplesamlphp:saml2:5.0.0:alpha12",
+	"title": [
+		{
+			"text": "Simplesamlphp SAML2 5.0.0 Alpha 12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://simplesamlphp.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/simplesamlphp/xml-security/security/advisories/GHSA-ww7x-3gxh-qm6r"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/simplesamlphp/saml2/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:simplesamlphp:saml2:5.0.0:alpha12:*:*:*:*:*:*"
+	}
+}

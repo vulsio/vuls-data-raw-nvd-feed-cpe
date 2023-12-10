@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:veom:service_tracking:-",
+	"title": [
+		{
+			"text": "Veom Service Tracking -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.veon.com.tr/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.usom.gov.tr/bildirim/tr-23-0653"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/2xxx/CVE-2023-2889.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:veom:service_tracking:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:networkoptix:nxcloud:23.1.0.40440",
+	"title": [
+		{
+			"text": "Networkoptix Nxcloud 23.1.0.40440",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://networkoptix.atlassian.net/wiki/spaces/CHS/blog/2023/09/22/3074195467/vulnerability+2023-09-21+-+Server+Spoofing"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.networkoptix.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/6xxx/CVE-2023-6263.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:networkoptix:nxcloud:23.1.0.40440:*:*:*:*:*:*:*"
+	}
+}

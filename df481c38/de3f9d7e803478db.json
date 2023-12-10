@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:userproplugin:userpro:5.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "UserPRO 5.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://codecanyon.net/item/userpro-user-profiles-with-social-login/5958681"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/userpro/userpro-511-sensitive-information-disclosure-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:userproplugin:userpro:5.1.2:*:*:*:*:wordpress:*:*"
+	}
+}

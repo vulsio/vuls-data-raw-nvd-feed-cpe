@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mcafee:epolicy_orchestrator:5.10.0:service_pack_1_update_1",
+	"title": [
+		{
+			"text": "McAfee ePolicy Orchestrator (ePO) 5.10.0 Service Pack 1 Update 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/5xxx/CVE-2023-5444.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.trellix.com/bundle/trellix-epolicy-orchestrator-on-prem-5.10.0-release-notes/page/GUID-7DAAACA7-0D94-40D5-AA94-D8447BD4743B.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mcafee:epolicy_orchestrator:5.10.0:service_pack_1_update_1:*:*:*:*:*:*"
+	}
+}
