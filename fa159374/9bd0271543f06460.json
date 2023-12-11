@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:brainstormforce:starter_templates:3.4.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brainstorm Force Starter Templates 3.4.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/astra-sites/wordpress-starter-templates-plugin-3-2-4-server-side-request-forgery-ssrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://brainstormforce.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/astra-sites/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brainstormforce:starter_templates:3.4.6:*:*:*:*:wordpress:*:*"
+	}
+}
