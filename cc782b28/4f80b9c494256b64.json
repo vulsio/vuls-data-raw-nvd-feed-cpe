@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:chamilo:chamilo_lms:1.9.6",
+	"deprecated": true,
+	"deprecation_date": "2023-12-11T12:23:04.927Z",
 	"title": [
 		{
 			"text": "Chamilo LMS 1.9.6",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-11T07:23:04.927-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:chamilo:chamilo_lms:1.9.6:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

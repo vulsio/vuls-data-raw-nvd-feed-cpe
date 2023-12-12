@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:strongswan:strongswan:5.9.12:dr1",
+	"title": [
+		{
+			"text": "strongSwan 5.9.12 dr1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.strongswan.org/blog/2023/11/20/strongswan-vulnerability-%28cve-2023-41913%29.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/strongswan/strongswan/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strongswan:strongswan:5.9.12:dr1:*:*:*:*:*:*"
+	}
+}

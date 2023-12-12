@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:graph:2.0.0:rc11",
+	"title": [
+		{
+			"text": "Microsoft Graph 2.0.0 Release Candidate 11",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/microsoftgraph/msgraph-sdk-php/security/advisories/GHSA-cgwq-6prq-8h9q"
+		},
+		{
+			"text": "Product",
+			"href": "https://developer.microsoft.com/en-us/graph"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/microsoftgraph/msgraph-sdk-php-core/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:graph:2.0.0:rc11:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:pubnub:pubnub:4.0.2::~~~-~~",
+	"title": [
+		{
+			"text": "PubNub 4.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/26xxx/CVE-2023-26154.json"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/pubnub/javascript/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.pubnub.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gist.github.com/vargad/20237094fce7a0a28f0723d7ce395bb0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pubnub:pubnub:4.0.2:*:*:*:*:-:*:*"
+	}
+}

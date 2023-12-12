@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:atlassian:assets_discovery_data_server:3.1.1",
+	"title": [
+		{
+			"text": "Atlassian Assets Discovery Data Server 3.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jira.atlassian.com/browse/JSDSERVER-14925"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/22xxx/CVE-2023-22523.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:assets_discovery_data_server:3.1.1:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:graph:2.0.2",
+	"title": [
+		{
+			"text": "Microsoft Graph 2.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/microsoftgraph/msgraph-sdk-php-core/security/advisories/GHSA-mhhp-c3cm-2r86"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/microsoftgraph/msgraph-sdk-php-core/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:graph:2.0.2:*:*:*:*:*:*:*"
+	}
+}
