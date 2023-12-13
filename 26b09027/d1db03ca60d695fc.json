@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:supermicro:x12stn-l-wohs_firmware:3.17.02",
+	"title": [
+		{
+			"text": "Super Micro X12STN-L-WOHS Firmware 3.17.02",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-33411"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/en/support/security_BMC_Dec_2023"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.supermicro.com/en/products/motherboards/matrix"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:x12stn-l-wohs_firmware:3.17.02:*:*:*:*:*:*:*"
+	}
+}

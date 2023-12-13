@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:supermicro:x11sdv-8c%2b-tln2f_firmware:-",
+	"title": [
+		{
+			"text": "Super Micro X11SDV-8C+-TLN2F Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2023-33411"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.supermicro.com/en/support/security_BMC_Dec_2023"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.supermicro.com/en/products/motherboards/matrix"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:supermicro:x11sdv-8c\\+-tln2f_firmware:-:*:*:*:*:*:*:*"
+	}
+}
