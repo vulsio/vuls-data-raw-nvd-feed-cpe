@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:arm:midgard_gpu_kernel_driver:-",
+	"title": [
+		{
+			"text": "ARM Midgard GPU Kernel Driver",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/support/arm-security-updates/mali-gpu-kernel-driver"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:arm:midgard_gpu_kernel_driver:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mullvad:mullvad_vpn:2023.1:-:~~~windows~~",
+	"title": [
+		{
+			"text": "Mullvad VPN 2023.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mullvad/mullvadvpn-app/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mullvad/mullvadvpn-app/pull/5398"
+		},
+		{
+			"text": "Product",
+			"href": "https://mullvad.net/en/download/vpn/windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mullvad:mullvad_vpn:2023.1:-:*:*:*:windows:*:*"
+	}
+}

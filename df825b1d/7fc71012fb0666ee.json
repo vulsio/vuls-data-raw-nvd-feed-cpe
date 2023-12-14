@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:zultys:mx-e_firmware:-",
+	"title": [
+		{
+			"text": "Zultys MX-E Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.zultys.com/on-premise-and-virtual/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zultys.com/security-advisories/san23-001/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/atredispartners/advisories/blob/master/ATREDIS-2023-0002.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zultys:mx-e_firmware:-:*:*:*:*:*:*:*"
+	}
+}
