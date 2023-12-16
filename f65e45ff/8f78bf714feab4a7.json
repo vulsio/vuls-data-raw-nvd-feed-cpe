@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpexpertplugins:post_meta_data_manager:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WpExpertPlugins Post Meta Data Manager - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/post-meta-data-manager/post-meta-data-manager-121-cross-site-request-forgery-to-post-term-and-user-meta-deletion"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/post-meta-data-manager/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpexpertplugins:post_meta_data_manager:-:*:*:*:*:wordpress:*:*"
+	}
+}

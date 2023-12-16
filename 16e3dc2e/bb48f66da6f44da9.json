@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:apple:macbook_air:2017",
+	"title": [
+		{
+			"text": "Apple MacBook Air 2017",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://support.apple.com/kb/SP753?locale=en_US"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:apple:macbook_air:2017:*:*:*:*:*:*:*"
+	}
+}

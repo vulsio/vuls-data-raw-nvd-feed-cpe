@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:poeditor:poeditor:0.9.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "POEditor 0.9.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/poeditor/wordpress-poeditor-plugin-0-9-4-cross-site-request-forgery-csrf-to-stored-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/poeditor/#developers"
+		},
+		{
+			"text": "Product",
+			"href": "https://poeditor.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:poeditor:poeditor:0.9.4:*:*:*:*:wordpress:*:*"
+	}
+}

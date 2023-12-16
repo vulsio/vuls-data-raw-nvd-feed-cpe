@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:apple:macbook_pro:m2",
+	"title": [
+		{
+			"text": "Apple MacBook Pro M2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.apple.com/mac/compare/?modelList=MacBookPro-13-M2,MacBook-Air-M2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:apple:macbook_pro:m2:*:*:*:*:*:*:*"
+	}
+}

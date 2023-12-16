@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:gl-inet:gl-ax1800_firmware:3.125",
+	"title": [
+		{
+			"text": "GL.iNET GL-AX1800 Firmware 3.125",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gl-inet.com/products/gl-ax1800/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gl-inet/CVE-issues/blob/main/3.215/Arbitrary%20File%20Read%20through%20file%20share.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gl-inet:gl-ax1800_firmware:3.125:*:*:*:*:*:*:*"
+	}
+}

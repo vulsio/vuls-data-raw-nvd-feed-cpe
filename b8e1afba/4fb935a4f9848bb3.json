@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:enalean:tuleap:15.2::~~enterprise~~~",
+	"title": [
+		{
+			"text": "Enalean Tuleap 15.2 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/Enalean/tuleap/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Enalean/tuleap/security/advisories/GHSA-3m7g-7787-wc68"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:enalean:tuleap:15.2:*:*:*:enterprise:*:*:*"
+	}
+}

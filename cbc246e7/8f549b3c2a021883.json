@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:gravitydesign:telephone_number_linker:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Gravity Design Telephone Number Linker 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/telephone-number-linker/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/telephone-number-linker/telephone-number-linker-12-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gravitydesign:telephone_number_linker:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

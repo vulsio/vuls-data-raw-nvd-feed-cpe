@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:temenos:t24:r20",
+	"title": [
+		{
+			"text": "Temenos T24 R20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mrojz/T24/blob/main/CVE-2023-24368.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.temenos.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.temenos.com/news/2020/03/06/t24-is-now-temenos-transact/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:temenos:t24:r20:*:*:*:*:*:*:*"
+	}
+}

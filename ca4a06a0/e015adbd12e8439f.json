@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:malware_protection_platform:4.18.2102.3",
+	"title": [
+		{
+			"text": "Microsoft Malware Protection Platform 4.18.2102.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/msda-updates-previous-versions-technical-upgrade-support?view=o365-worldwide"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36010"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/wdsi/defenderupdates"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:malware_protection_platform:4.18.2102.3:*:*:*:*:*:*:*"
+	}
+}

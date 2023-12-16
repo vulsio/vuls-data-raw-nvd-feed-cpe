@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:tmate:tmate-ssh-server:2.3.0",
+	"title": [
+		{
+			"text": "Tmate Tmate-SSH-Server 2.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/06/2"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/tmate-io/tmate-ssh-server/commit/1c020d1f5ca462f5b150b46a027aaa1bbe3c9596"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tmate:tmate-ssh-server:2.3.0:*:*:*:*:*:*:*"
+	}
+}

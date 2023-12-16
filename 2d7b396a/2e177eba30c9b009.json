@@ -1,0 +1,42 @@
+{
+	"name": "cpe:/a:phpjabbers:php_forum_script:3.0",
+	"title": [
+		{
+			"text": "PHPJabbers PHP Forum Script 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.tenable.com/cve/CVE-2023-41538"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.opencve.io/cve?vendor=phpjabbers&product=php_forum_script"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/173114/PHPJabbers-Forum-Script-3.0-Persistent-Cross-Site-Scripting.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.redpacketsecurity.com/phpjabbers-forum-script-cross-site-scripting-cve-2023-41538/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cvedetails.com/cve/CVE-2023-41538/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.phpjabbers.com/php-forum-script/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nu11secur1ty/CVE-nu11secur1ty/tree/main/vendors/phpjabbers/2023/PHP-Forum-Script-3.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpjabbers:php_forum_script:3.0:*:*:*:*:*:*:*"
+	}
+}

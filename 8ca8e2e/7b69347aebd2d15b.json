@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mantisbt:linked_custom_fields:-::~~~mantisbt~~",
+	"title": [
+		{
+			"text": "MantisBT Linked Custom Fields - for MantisBT ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/mantisbt-plugins/LinkedCustomFields"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mantisbt.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mantisbt-plugins/LinkedCustomFields/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mantisbt-plugins/LinkedCustomFields/security/advisories/GHSA-2f37-9xpx-5hhw"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mantisbt:linked_custom_fields:-:*:*:*:*:mantisbt:*:*"
+	}
+}

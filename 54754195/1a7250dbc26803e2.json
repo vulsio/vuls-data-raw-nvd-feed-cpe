@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:h2o:h2o:-",
+	"title": [
+		{
+			"text": "H2O -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/h2oai/h2o-3"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://h2o.ai/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://huntr.com/bounties/380fce33-fec5-49d9-a101-12c972125d8c/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/6xxx/CVE-2023-6038.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:h2o:h2o:-:*:*:*:*:*:*:*"
+	}
+}

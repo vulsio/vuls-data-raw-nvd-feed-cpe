@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:shipstation:shipstation:1.0::~~~cs-cart~~",
+	"title": [
+		{
+			"text": "ShipStation ShipStation 1.0 for CS-Cart",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2020/8xxx/CVE-2020-8889.json"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.shipstation.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jerdiggity.com/node/869"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jerdiggity.com/node/871"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shipstation:shipstation:1.0:*:*:*:*:cs-cart:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:google:pixel_7:-",
+	"title": [
+		{
+			"text": "Google Pixel 7 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://store.google.com/us/config/pixel_7?hl=en-US&selections=eyJwcm9kdWN0RmFtaWx5IjoiY0dsNFpXeGZOdz09In0%3D"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:google:pixel_7:-:*:*:*:*:*:*:*"
+	}
+}

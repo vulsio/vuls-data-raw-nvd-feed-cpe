@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cloudflare:quiche:0.19.0",
+	"title": [
+		{
+			"text": "Cloudflare Quiche 0.19.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cloudflare/quiche/security/advisories/GHSA-w3vp-jw9m-f9pm"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudflare/quiche/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:quiche:0.19.0:*:*:*:*:*:*:*"
+	}
+}

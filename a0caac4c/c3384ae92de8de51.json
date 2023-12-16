@@ -1,18 +1,43 @@
 {
 	"name": "cpe:/a:tongda2000:tongda_oa:11.10",
+	"deprecated": true,
+	"deprecation_date": "2023-12-16T04:28:17.570Z",
 	"title": [
 		{
-			"text": "Tongda2000 Tongda OA 11.10",
+			"text": "Tongda2000 Office Anywhere 11.10",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?ctiid.239864"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.239864"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/RCEraser/cve/blob/main/sql_inject_3.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tongda2000.com/oa/MYOA2017/"
+		},
 		{
 			"text": "Product",
 			"href": "https://www.tongda2000.com/download/p2019.php?F=&K="
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:tongda2000:tongda_oa:11.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T23:28:17.570-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tongda2000:tongda_office_anywhere:11.10:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

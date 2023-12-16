@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:systematica:mssql_messagebus_proxy:1.1.06",
+	"title": [
+		{
+			"text": "Systematica MSSQL Messagebus Proxy 1.1.06",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.systematica.ru/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fbkcs/CVE-2021-35975"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.systematica.ru/products/index.php?ID=16"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:systematica:mssql_messagebus_proxy:1.1.06:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:softexpert:excellence_suite:2.0.15.31",
+	"title": [
+		{
+			"text": "Softexpert Excellence Suite 2.0.15.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.softexpert.com/solucao/softexpert_excellence_suite/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/51404"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:softexpert:excellence_suite:2.0.15.31:*:*:*:*:*:*:*"
+	}
+}

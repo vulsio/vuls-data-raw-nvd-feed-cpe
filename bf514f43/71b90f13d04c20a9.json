@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:canonical:ubuntu_linux:23.10",
+	"title": [
+		{
+			"text": "Canonical Ubuntu Linux 23.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+		},
+		{
+			"text": "Product",
+			"href": "https://ubuntu.com/blog/ubuntu-desktop-23-10-mantic-minotaur-deep-dive"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:canonical:ubuntu_linux:23.10:*:*:*:*:*:*:*"
+	}
+}

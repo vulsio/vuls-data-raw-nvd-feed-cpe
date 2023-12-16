@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sourcecodester:vehicle_service_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-16T03:42:31.200Z",
 	"title": [
 		{
 			"text": "SourceCodester Vehicle Service Management System (SMS) 1.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sourcecodester:vehicle_service_management_system:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:sourcecodester:vehicle_service_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T22:42:31.200-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oretnom23:vehicle_service_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

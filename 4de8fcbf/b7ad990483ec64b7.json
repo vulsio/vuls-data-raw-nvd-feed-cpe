@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:gpsd_project:gpsd:3.25.1:dev",
+	"title": [
+		{
+			"text": "Gpsd Project Gpsd 3.25.1 Dev",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://gpsd.gitlab.io/gpsd/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1860"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gpsd_project:gpsd:3.25.1:dev:*:*:*:*:*:*"
+	}
+}

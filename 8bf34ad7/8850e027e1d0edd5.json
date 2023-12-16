@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/h:honeywell:alerton_ascent_control_module:-",
+	"title": [
+		{
+			"text": "Honeywell Alerton Ascent Control Module ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.redpacketsecurity.com/honeywell-alerton-ascent-control-module-acm-code-execution-cve-2022-30244/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-vf92-r336-6jpv"
+		},
+		{
+			"text": "Product",
+			"href": "https://buildings.honeywell.com/us/en/products/by-category/building-management/controllers/global-controllers/ascent-control-module-acm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.scadafence.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:honeywell:alerton_ascent_control_module:-:*:*:*:*:*:*:*"
+	}
+}

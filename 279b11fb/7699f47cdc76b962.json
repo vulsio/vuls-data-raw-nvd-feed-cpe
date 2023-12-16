@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:solana:rbpf:0.2.14",
+	"deprecated": true,
+	"deprecation_date": "2023-12-16T04:05:58.243Z",
 	"title": [
 		{
 			"text": "Solana rBPF 0.2.14",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:solana:rbpf:0.2.14:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:solana:rbpf:0.2.14:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T23:05:58.243-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:solanalabs:rbpf:0.2.14:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

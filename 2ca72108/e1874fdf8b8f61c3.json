@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_connected_machine_agent:1.35",
+	"title": [
+		{
+			"text": "Microsoft Azure Connected Machine Agent 1.35",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-35624"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/azure/azure-arc/servers/agent-release-notes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_connected_machine_agent:1.35:*:*:*:*:*:*:*"
+	}
+}

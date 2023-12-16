@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:hitachi:system_management_unit:-",
+	"title": [
+		{
+			"text": "Hitachi System Management Unit -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://download.hitachivantara.com/download/epcra/hnas0651.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://knowledge.hitachivantara.com/Security/System_Management_Unit_(SMU)_versions_prior_to_14.8.7825.01%2C_used_to_manage_Hitachi_Vantara_NAS_products_is_susceptible_to_unintended_information_disclosure_via_unprivileged_access_to_SMU_configuration_backup_data."
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hitachi:system_management_unit:-:*:*:*:*:*:*:*"
+	}
+}

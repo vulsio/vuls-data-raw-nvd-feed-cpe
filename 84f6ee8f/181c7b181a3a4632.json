@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sniproxy_project:sniproxy:0.6.1",
+	"title": [
+		{
+			"text": "Sniproxy Project Sniproxy 0.6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/dlundquist/sniproxy/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2023-1731"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sniproxy_project:sniproxy:0.6.1:*:*:*:*:*:*:*"
+	}
+}

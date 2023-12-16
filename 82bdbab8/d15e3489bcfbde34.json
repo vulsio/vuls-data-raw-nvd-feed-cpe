@@ -1,0 +1,42 @@
+{
+	"name": "cpe:/h:hitachienergy:fox615:-",
+	"title": [
+		{
+			"text": "Hitachi Energy FOX615 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000125"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vulners.com/ics/ICSA-21-007-01"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cve.report/software/hitachienergy/fox615"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-21-007-01"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000069&LanguageCode=en&DocumentPartId=&Action=Launch"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://search.abb.com/library/Download.aspx?DocumentID=8DBD000062&LanguageCode=en&DocumentPartId=&Action=Launch"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.hitachienergy.com/us/en/products-and-solutions/communication-networks/wired-networks/fox-multiservice-platform/fox615-multiservice-platform"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hitachienergy:fox615:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:upx_project:upx:2022-11-24",
+	"title": [
+		{
+			"text": "Upx Project Upx 2022-11-24",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2160381"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/upx/upx/issues/632"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/upx/upx/commit/510505a85cbe45e51fbd470f1aa8b02157c429d4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:upx_project:upx:2022-11-24:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mozilla:bleach:-",
+	"title": [
+		{
+			"text": "Mozilla Bleach ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mozilla/bleach/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.mozilla.org/show_bug.cgi?id=CVE-2021-23980"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mozilla/bleach/security/advisories/GHSA-vv2x-vrpj-qqpq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:bleach:-:*:*:*:*:*:*:*"
+	}
+}

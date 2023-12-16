@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:slims:senayan_library_management_system:9.6.1",
+	"title": [
+		{
+			"text": "Slims Senayan Library Management System 9.6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/komangsughosa/CVE-ID-not-yet/blob/main/slims/slims9_bulian-9.6.1-SSRF-pop_p2p.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://slims.web.id/web/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/slims/slims9_bulian/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:slims:senayan_library_management_system:9.6.1:*:*:*:*:*:*:*"
+	}
+}

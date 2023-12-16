@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:jupyter:dockerspawner:12.0.0",
+	"title": [
+		{
+			"text": "Jupyter Dockerspawner 12.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jupyter.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jupyterhub/dockerspawner/security/advisories/GHSA-hfgr-h3vc-p6c2"
+		},
+		{
+			"text": "Product",
+			"href": "https://jupyterhub-dockerspawner.readthedocs.io/en/latest/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jupyterhub/dockerspawner/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jupyter:dockerspawner:12.0.0:*:*:*:*:*:*:*"
+	}
+}

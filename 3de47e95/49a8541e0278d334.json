@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:juniper:junos:22.4:r3",
+	"title": [
+		{
+			"text": "Juniper JUNOS 22.4 R3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.juniper.net/us/en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2023-10-Security-Bulletin-Junos-OS-SRX-Series-The-PFE-will-crash-on-receiving-malformed-SSL-traffic-when-ATP-is-enabled-CVE-2023-36843?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:22.4:r3:*:*:*:*:*:*"
+	}
+}

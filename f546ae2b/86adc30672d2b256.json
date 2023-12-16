@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:openzeppelin:openzeppelin-eth:2.0.0::~~node.js~~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-16T04:05:58.243Z",
 	"title": [
 		{
 			"text": "Openzeppelin Openzeppelin-eth 2.0.0 Node.js Edition",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*"
+		"name": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:node.js:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T23:05:58.243-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openzeppelin:openzeppelin-eth:2.0.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

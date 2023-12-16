@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cloudflare:boring:4.0.0::~~~rust~~",
+	"title": [
+		{
+			"text": "Cloudflare Boring 4.0.0 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/cloudflare/boring/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cloudflare/boring/security/advisories/GHSA-pjrj-h4fg-6gm4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:boring:4.0.0:*:*:*:*:rust:*:*"
+	}
+}

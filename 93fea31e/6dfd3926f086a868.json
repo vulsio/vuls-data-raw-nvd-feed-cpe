@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:duetdisplay:duet_display:2.5.9.1::~~~windows~~",
+	"title": [
+		{
+			"text": "Duetdisplay Duet Display 2.5.9.1 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.duetdisplay.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe.es/en/incibe-cert/notices/aviso/arbitrary-code-execution-duet-display"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:duetdisplay:duet_display:2.5.9.1:*:*:*:*:windows:*:*"
+	}
+}

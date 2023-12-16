@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:jqlang:jq:1.7-37-g88f01a7",
+	"title": [
+		{
+			"text": "Jqlang Jq 1.7-37-g88f01a7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://jqlang.github.io/jq/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jqlang/jq/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/linzc21/bug-reports/blob/main/reports/jq/1.7-37-g88f01a7/heap-buffer-overflow/CVE-2023-49355.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jqlang:jq:1.7-37-g88f01a7:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:collaboraoffice:richdocumentscode:23.5.601::~~~nextcloud~~",
+	"title": [
+		{
+			"text": "Collaboraoffice Richdocumentscode 23.5.601 for NextCloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CollaboraOnline/online/security/advisories/GHSA-8xm5-pgfr-8mjr"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.nextcloud.com/apps/richdocumentscode"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.collaboraoffice.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:collaboraoffice:richdocumentscode:23.5.601:*:*:*:*:nextcloud:*:*"
+	}
+}

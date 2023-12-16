@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:acer:sk-9662_firmware:-",
+	"title": [
+		{
+			"text": "Acer SK-9662 FIRMWARE ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/48xxx/CVE-2023-48034.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://community.acer.com/en/discussion/637646/sk-9662-wireless-keyboard-missing-usb-receiver-dongle-any-ideas"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aprkr/CVE-2023-48034"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:acer:sk-9662_firmware:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "cpe:/a:umbraco:umbraco_cms:12.2.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-16T03:35:10.407Z",
+	"title": [
+		{
+			"text": "Umbraco CMS 12.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/umbraco/Umbraco-CMS/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://umbraco.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:umbraco:umbraco_cms:12.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T22:35:10.407-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:umbraco:umbraco_cms:12.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

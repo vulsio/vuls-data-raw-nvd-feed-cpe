@@ -1,12 +1,31 @@
 {
 	"name": "cpe:/o:microsoft:windows_ce:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-15T19:06:17.790Z",
 	"title": [
 		{
 			"text": "Microsoft windows_ce 1.0",
 			"lang": "en-US"
 		}
 	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/windows/iot/windows_ce/windows-ce-migration-faq"
+		},
+		{
+			"text": "Version",
+			"href": "https://en.wikipedia.org/wiki/Windows_Embedded_Compact#Releases"
+		}
+	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:microsoft:windows_ce:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:microsoft:windows_ce:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-15T14:06:17.790-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_embedded_compact:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

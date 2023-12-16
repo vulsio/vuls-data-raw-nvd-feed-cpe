@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:vonage:vdv23:-",
+	"title": [
+		{
+			"text": "Vonage VDV23 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://trojanhorsey.substack.com/p/cve-2023-47304-unsecured-uart-in"
+		},
+		{
+			"text": "Product",
+			"href": "https://support.vonage.com/articles/answer/Vonage-Box-VDV22VDV23-Telephone-Adapter-1041"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:vonage:vdv23:-:*:*:*:*:*:*:*"
+	}
+}

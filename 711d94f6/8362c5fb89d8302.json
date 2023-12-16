@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:peakstep:zipfoundation:0.9.16",
+	"title": [
+		{
+			"text": "Peakstep Zipfoundation 0.9.16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/weichsel/ZIPFoundation/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.peakstep.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.ostorlab.co/zip-packages-exploitation.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/weichsel/ZIPFoundation/issues/282"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:peakstep:zipfoundation:0.9.16:*:*:*:*:*:*:*"
+	}
+}

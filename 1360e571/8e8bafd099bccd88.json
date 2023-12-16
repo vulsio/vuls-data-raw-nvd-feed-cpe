@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:tar-utils_project:tar-utils:0.0.0-20201201191210-20a61371de5b::~~~go~~",
+	"title": [
+		{
+			"text": "Tar-utils Project Tar-utils 0.0.0-20201201191210-20a61371de5b for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://github.com/whyrusleeping/tar-utils"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pkg.go.dev/vuln/GO-2021-0106"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tar-utils_project:tar-utils:0.0.0-20201201191210-20a61371de5b:*:*:*:*:go:*:*"
+	}
+}

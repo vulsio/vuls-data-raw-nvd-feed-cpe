@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mozilla:pollbot:1.4.6",
+	"title": [
+		{
+			"text": "Mozilla Pollbot 1.4.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.mozilla.org/show_bug.cgi?id=CVE-2022-0637"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mozilla/PollBot/security/advisories/GHSA-vg27-hr3v-3cqv"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mozilla/PollBot/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:pollbot:1.4.6:*:*:*:*:*:*:*"
+	}
+}

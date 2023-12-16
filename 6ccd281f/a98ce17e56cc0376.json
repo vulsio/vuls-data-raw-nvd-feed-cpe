@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:redhat:network_observability:1.0",
+	"title": [
+		{
+			"text": "Red Hat Network Observability 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2023-0813"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/errata/RHSA-2023:0786"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:network_observability:1.0:*:*:*:*:*:*:*"
+	}
+}

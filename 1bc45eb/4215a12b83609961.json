@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:extremenetworks:aerohive_netconfig:10.0r8a:-",
+	"title": [
+		{
+			"text": "Extremenetworks Aerohive Netconfig 10.0r8a ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/164957/Aerohive-NetConfig-10.0r8a-Local-File-Inclusion-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://investor.extremenetworks.com/news-releases/news-release-details/extreme-networks-completes-acquisition-aerohive-networks"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/db/modules/exploit/unix/webapp/aerohive_netconfig_lfi_log_poison_rce/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:extremenetworks:aerohive_netconfig:10.0r8a:-:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:syracom:secure_login:3.1.1.0::~~~jira~~",
+	"title": [
+		{
+			"text": "Syracom Secure Login 3.1.1.0 for Jira",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.syracom.de/home.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/piuppi/Proof-of-Concepts/blob/main/Syracom/SecureLogin2FA-OpenRedirect.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://marketplace.atlassian.com/apps/1213472/secure-login-2fa-jira?tab=versions&hosting=datacenter"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:syracom:secure_login:3.1.1.0:*:*:*:*:jira:*:*"
+	}
+}

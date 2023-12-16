@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:eset:security:-::~~~sharepoint_server~~",
+	"title": [
+		{
+			"text": "ESET Security - for Sharepoint Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.eset.com/us/business/download/file-security-windows/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.eset.com/us/business/download/microsoft-sharepoint-security/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.eset.com/int/business/solutions/file-server-security/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.eset.com/en/ca7794-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eset:security:-:*:*:*:*:sharepoint_server:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:tikv:tikv:6.1.2",
+	"title": [
+		{
+			"text": "TiKV TiKV 6.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tikv.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tikv/tikv/issues/14516"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/tikv/tikv/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tikv:tikv:6.1.2:*:*:*:*:*:*:*"
+	}
+}
