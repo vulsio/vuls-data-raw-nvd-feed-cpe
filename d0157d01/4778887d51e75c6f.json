@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:datafeedr:ads_by_datafeedr.com:1.0.15::~~~wordpress~~",
+	"title": [
+		{
+			"text": "datafeedr Ads By Datafeedr.com 1.0.15 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.datafeedr.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ads-by-datafeedrcom/wordpress-ads-by-datafeedr-com-plugin-1-2-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ads-by-datafeedrcom/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:datafeedr:ads_by_datafeedr.com:1.0.15:*:*:*:*:wordpress:*:*"
+	}
+}
