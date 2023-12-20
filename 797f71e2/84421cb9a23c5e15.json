@@ -1,7 +1,5 @@
 {
 	"name": "cpe:/a:automattic:woocommerce_payments:5.4.0",
-	"deprecated": true,
-	"deprecation_date": "2023-12-18T15:22:18.550Z",
 	"title": [
 		{
 			"text": "Automattic WooCommerce Payments 5.4.0",
@@ -11,7 +9,7 @@
 	"references": [
 		{
 			"text": "Product",
-			"href": "https://woo.com/products/woopayments/"
+			"href": "https://woocommerce.com/payments/"
 		},
 		{
 			"text": "Change Log",
@@ -27,13 +25,6 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:automattic:woocommerce_payments:5.4.0:*:*:*:*:*:*:*",
-		"deprecation": {
-			"date": "2023-12-18T10:22:18.550-05:00",
-			"deprecated_by": {
-				"name": "cpe:2.3:a:automattic:woopayments:5.4.0:*:*:*:*:wordpress:*:*",
-				"type": "NAME_CORRECTION"
-			}
-		}
+		"name": "cpe:2.3:a:automattic:woocommerce_payments:5.4.0:*:*:*:*:*:*:*"
 	}
 }
