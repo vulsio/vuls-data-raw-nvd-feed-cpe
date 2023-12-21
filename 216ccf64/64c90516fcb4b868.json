@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:automattic:woopayments:6.9.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Automattic WooPayments 6.9.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://automattic.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-payments/wordpress-woopayments-plugin-6-4-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/woocommerce-payments/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:woopayments:6.9.2:*:*:*:*:wordpress:*:*"
+	}
+}

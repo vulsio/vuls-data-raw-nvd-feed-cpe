@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:octokit:webhooks:7.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Octokit Webhooks 7.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/@octokit/webhooks?activeTab=versions"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/octokit/webhooks.js/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/octokit/webhooks.js/security/advisories/GHSA-pwfr-8pq7-x9qv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:octokit:webhooks:7.1.0:*:*:*:*:node.js:*:*"
+	}
+}

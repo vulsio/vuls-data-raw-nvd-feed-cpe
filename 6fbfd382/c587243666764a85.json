@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:matlab:2.11.1::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Matlab 2.11.1 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/matlab/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2023-11-29/#SECURITY-3256"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:matlab:2.11.1:*:*:*:*:jenkins:*:*"
+	}
+}

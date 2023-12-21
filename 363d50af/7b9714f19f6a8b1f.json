@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:beckhoff:authelia-bhf:1.0.7",
+	"title": [
+		{
+			"text": "Beckhoff authelia-bhf 1.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/Beckhoff/authelia/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/beckhoff/authelia/"
+		},
+		{
+			"text": "Product",
+			"href": "https://tcbsd.beckhoff.com/TCBSD/13/testing/packages/packagesite.html#:~:text=at%2Dspi2%2Dcore-,authelia%2Dbhf,-4.37.5"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://download.beckhoff.com/download/Document/product-security/Advisories/advisory-2023-001.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:beckhoff:authelia-bhf:1.0.7:*:*:*:*:*:*:*"
+	}
+}

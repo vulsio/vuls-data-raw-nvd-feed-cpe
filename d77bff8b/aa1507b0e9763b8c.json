@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nested_pages_project:nested_pages:3.1.20::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-18T15:32:37.980Z",
 	"title": [
 		{
 			"text": "Nested Pages Project Nested Pages 3.1.20 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nested_pages_project:nested_pages:3.1.20:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:nested_pages_project:nested_pages:3.1.20:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-12-18T10:32:37.980-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kylephillips:nested_pages:3.1.20:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

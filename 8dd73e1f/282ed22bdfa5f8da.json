@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:google_compute_engine:4.551.0::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Google Compute Engine 4.551.0 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/google-compute-engine/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2023-11-29/#SECURITY-3256"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:google_compute_engine:4.551.0:*:*:*:*:jenkins:*:*"
+	}
+}
