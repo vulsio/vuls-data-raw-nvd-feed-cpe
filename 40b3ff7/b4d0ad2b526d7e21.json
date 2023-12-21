@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sangoma:certified_asterisk:16.8.0:-",
+	"title": [
+		{
+			"text": "Sangoma Certified Asterisk 16.8.0 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/asterisk/asterisk/security/advisories/GHSA-98rc-4j27-74hh"
+		},
+		{
+			"text": "Version",
+			"href": "https://downloads.asterisk.org/pub/telephony/certified-asterisk/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sangoma:certified_asterisk:16.8.0:-:*:*:*:*:*:*"
+	}
+}

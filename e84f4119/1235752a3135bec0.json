@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:andreasmuench:multiple_post_passwords:1.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Andreas Muench Multiple Post Passwords 1.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://andreasmuench.de/wordpress-programmierer"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/multiple-post-passwords/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/multiple-post-passwords/wordpress-multiple-post-passwords-plugin-1-1-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:andreasmuench:multiple_post_passwords:1.0.1:*:*:*:*:wordpress:*:*"
+	}
+}

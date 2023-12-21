@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sap:diagnostics_agents:7.20",
+	"deprecated": true,
+	"deprecation_date": "2023-12-19T15:32:07.900Z",
 	"title": [
 		{
 			"text": "SAP Diagnostics Agents 7.20",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:sap:diagnostics_agents:7.20:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-19T10:32:07.900-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sap:diagnostics_agent:7.20:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

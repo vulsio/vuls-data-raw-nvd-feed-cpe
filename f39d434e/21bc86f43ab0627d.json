@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sap:hana_extend_application_services:-",
+	"deprecated": true,
+	"deprecation_date": "2023-12-21T04:14:53.307Z",
 	"title": [
 		{
 			"text": "SAP HANA Extend Application Services",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sap:hana_extend_application_services:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:sap:hana_extend_application_services:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-20T23:14:53.307-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sap:hana_extended_application_services:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
