@@ -1,14 +1,16 @@
 {
 	"name": "cpe:/a:fla-shop:html5_maps:1.6.3.6",
-	"deprecated": true,
-	"deprecation_date": "2023-12-19T15:23:25.600Z",
 	"title": [
 		{
-			"text": "Fla-Shop HTML5 Maps 1.6.3.6 for WordPress",
+			"text": "Fla-Shop HTML5 Maps 1.6.3.6",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/html5-maps/"
+		},
 		{
 			"text": "Version",
 			"href": "https://wordpress.org/plugins/html5-maps/#developers"
@@ -19,13 +21,6 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:fla-shop:html5_maps:1.6.3.6:*:*:*:*:*:*:*",
-		"deprecation": {
-			"date": "2023-12-19T10:23:25.600-05:00",
-			"deprecated_by": {
-				"name": "cpe:2.3:a:fla-shop:html5_maps:1.6.3.6:*:*:*:*:wordpress:*:*",
-				"type": "NAME_CORRECTION"
-			}
-		}
+		"name": "cpe:2.3:a:fla-shop:html5_maps:1.6.3.6:*:*:*:*:*:*:*"
 	}
 }

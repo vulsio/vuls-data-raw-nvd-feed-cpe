@@ -1,21 +1,19 @@
 {
 	"name": "cpe:/a:automattic:woocommerce_payments:3.9.1::~~~wordpress~~",
-	"deprecated": true,
-	"deprecation_date": "2023-12-18T15:22:18.550Z",
 	"title": [
 		{
-			"text": "Automattic WooPayments 3.9.1 for WordPress",
+			"text": "Automattic WooCommerce Payments 3.9.1 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Product",
-			"href": "https://woo.com/products/woopayments/"
-		},
-		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/woocommerce-payments/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://developer.woocommerce.com/2023/03/23/critical-vulnerability-detected-in-woocommerce-payments-what-you-need-to-know/"
 		},
 		{
 			"text": "Vendor",
@@ -23,13 +21,6 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:automattic:woocommerce_payments:3.9.1:*:*:*:*:wordpress:*:*",
-		"deprecation": {
-			"date": "2023-12-18T10:22:18.550-05:00",
-			"deprecated_by": {
-				"name": "cpe:2.3:a:automattic:woopayments:3.9.1:*:*:*:*:wordpress:*:*",
-				"type": "NAME_CORRECTION"
-			}
-		}
+		"name": "cpe:2.3:a:automattic:woocommerce_payments:3.9.1:*:*:*:*:wordpress:*:*"
 	}
 }
