@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gmarczynski:dynamic_progress_bar:11.2.0::~~~odoo~~",
+	"title": [
+		{
+			"text": "Gmarczynski Dynamic Progress Bar 11.2.0 for Odoo",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/gmarczynski/odoo-web-progress/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.odoo.com/apps/modules/16.0/web_progress/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/luvsn/OdZoo/tree/main/exploits/web_progress"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gmarczynski:dynamic_progress_bar:11.2.0:*:*:*:*:odoo:*:*"
+	}
+}
