@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:etictelecom:remote_access_server:4.5.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:57:05.423Z",
 	"title": [
 		{
 			"text": "Etic Telecom Remote Access Server (RAS) 4.5.0",
@@ -7,6 +9,18 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.etictelecom.com/en/softwares-download/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.etictelecom.com/en/nos-gammes/machine-access-box-ras-family/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-208-01"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://www.cisa.gov/uscert/ics/advisories/icsa-22-307-01"
@@ -17,6 +31,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:etictelecom:remote_access_server:4.5.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:etictelecom:remote_access_server:4.5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:57:05.423-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:etictelecom:remote_access_server_firmware:4.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

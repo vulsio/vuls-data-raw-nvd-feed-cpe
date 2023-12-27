@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:karmasis:infraskope_siem%2b:7.10.00",
+	"title": [
+		{
+			"text": "Karmasis Infraskope SIEM+ 7.10.00",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://karmasis.com/urunlerimiz/infraskope-siem/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.usom.gov.tr/bildirim/tr-22-0691"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/24xxx/CVE-2022-24036.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:karmasis:infraskope_siem\\+:7.10.00:*:*:*:*:*:*:*"
+	}
+}

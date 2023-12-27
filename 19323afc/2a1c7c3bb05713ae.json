@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:moonlight-stream:moonlight:0.10.23::~~~chrome~~",
+	"title": [
+		{
+			"text": "moonlight-stream MOONLIGHT 0.10.23 for Chrome",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/moonlight-stream/moonlight-common-c/security/advisories/GHSA-f3h8-j898-5h5v"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://moonlight-stream.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moonlight-stream:moonlight:0.10.23:*:*:*:*:chrome:*:*"
+	}
+}

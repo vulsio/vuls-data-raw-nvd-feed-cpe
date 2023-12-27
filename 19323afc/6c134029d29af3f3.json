@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:moonlight-stream:moonlight:8.5.0::~~~tvos~~",
+	"title": [
+		{
+			"text": "moonlight-stream MOONLIGHT 8.5.0 for TVOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://moonlight-stream.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/moonlight-stream/moonlight-common-c/security/advisories/GHSA-r8cf-45f4-vf8m"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/moonlight-stream"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:moonlight-stream:moonlight:8.5.0:*:*:*:*:tvos:*:*"
+	}
+}

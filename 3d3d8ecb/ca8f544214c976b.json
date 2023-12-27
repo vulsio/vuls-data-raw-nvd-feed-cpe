@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:activity_log_project:activity_log:2.2.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:56:25.687Z",
 	"title": [
 		{
 			"text": "Activity Log Project Activity Log 2.2.5 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:activity_log_project:activity_log:2.2.5:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:activity_log_project:activity_log:2.2.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:56:25.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pojo:activity_log:2.2.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

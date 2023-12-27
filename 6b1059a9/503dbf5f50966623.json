@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:joedolson:my-calendar:1.3.6",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T17:03:54.127Z",
 	"title": [
 		{
 			"text": "joedolson My Calendar plugin (my-calendar) 1.3.6",
@@ -7,6 +9,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:joedolson:my-calendar:1.3.6:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:joedolson:my-calendar:1.3.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T12:03:54.127-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:joedolson:my_calendar:1.3.6:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

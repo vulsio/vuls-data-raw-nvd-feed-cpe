@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:aruba:cx_6200f_firmware:10.04.1000",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:56:25.687Z",
 	"title": [
 		{
 			"text": "Aruba CX 6200F Firmware 10.04.1000",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:aruba:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:56:25.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:arubanetworks:cx_6200f_firmware:10.04.1000:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

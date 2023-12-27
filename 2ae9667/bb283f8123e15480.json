@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:human_resource_management_system_project:human_resource_management_system:-",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:56:25.687Z",
 	"title": [
 		{
 			"text": "Human Resource Management System Project Human Resource Management System",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:human_resource_management_system_project:human_resource_management_system:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:human_resource_management_system_project:human_resource_management_system:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:56:25.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oretnom23:human_resource_management_system:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

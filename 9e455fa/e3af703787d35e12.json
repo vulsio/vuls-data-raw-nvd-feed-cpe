@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:karmasis:infraskope_security_event_manager:7.10.00",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:56:25.687Z",
 	"title": [
 		{
 			"text": "Karmasis Infraskope Security Event Manager 7.10.00",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:karmasis:infraskope_security_event_manager:7.10.00:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:karmasis:infraskope_security_event_manager:7.10.00:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:56:25.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:karmasis:infraskope_siem\\+:7.10.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

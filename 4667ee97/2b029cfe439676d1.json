@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:zabbix:zabbix-agent:6.4.8",
+	"title": [
+		{
+			"text": "ZABBIX Agent 6.4.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.zabbix.com/forum/zabbix-help/457388-zabbix-agent-vs-zabbix-agent-2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zabbix.com/browse/ZBX-23855"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zabbix:zabbix-agent:6.4.8:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:meowapps:photo_engine:2.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Meowapps Photo Engine 2.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wplr-sync/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wplr-sync/wordpress-photo-engine-plugin-6-2-5-insecure-direct-object-references-idor?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://meowapps.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:meowapps:photo_engine:2.2.0:*:*:*:*:wordpress:*:*"
+	}
+}

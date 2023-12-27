@@ -1,18 +1,31 @@
 {
 	"name": "cpe:/a:siemens:tia_project-server:17",
+	"deprecated": true,
+	"deprecation_date": "2023-12-26T19:56:25.687Z",
 	"title": [
 		{
-			"text": "Siemens TIA Project-server 17",
+			"text": "Siemens TIA Project-Server 17",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.industry.siemens.com/cs/document/109800915/updates-for-tia-project-server-v17?dti=0&lc=en-WW"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-640968.pdf"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:siemens:tia_project-server:17:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:siemens:tia_project-server:17:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-26T14:56:25.687-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siemens:tia_project-server:17:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

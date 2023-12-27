@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:automattic:woocommerce_gocardless:2.5.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Automattic WooCommerce GoCardless 2.5.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://woo.com/products/gocardless/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-gateway-gocardless/wordpress-woocommerce-gocardless-gateway-plugin-2-5-6-unauthenticated-insecure-direct-object-references-idor-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://automattic.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:woocommerce_gocardless:2.5.0:*:*:*:*:wordpress:*:*"
+	}
+}
