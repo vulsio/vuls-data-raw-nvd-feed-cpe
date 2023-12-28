@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bitapps:file_manager:6.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bit Apps File Manager 6.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/file-manager/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/file-manager/wordpress-bit-file-manager-100-free-file-manager-for-wordpress-plugin-5-2-7-php-object-injection?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitapps:file_manager:6.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

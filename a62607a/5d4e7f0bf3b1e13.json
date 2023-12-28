@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:xtemos:woodmart:1.0.36::~~~wordpress~~",
+	"title": [
+		{
+			"text": "XTemos WoodMart 1.0.36 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://xtemos.com/documentation/woodmart/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woodmart-core/wordpress-woodmart-core-plugin-1-0-36-php-object-injection?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xtemos:woodmart:1.0.36:*:*:*:*:wordpress:*:*"
+	}
+}

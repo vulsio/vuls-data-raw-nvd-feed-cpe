@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sentry:astro:7.84.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Sentry Astro 7.84.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/getsentry/sentry-javascript/security/advisories/GHSA-x3v3-8xg8-8v72"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/@sentry/astro/v/7.87.0?activeTab=versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sentry:astro:7.84.0:*:*:*:*:node.js:*:*"
+	}
+}

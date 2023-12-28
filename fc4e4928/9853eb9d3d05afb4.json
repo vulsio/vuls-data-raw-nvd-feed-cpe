@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cminds:cm_popup:1.5.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CreativeMinds CM Popup 1.5.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cminds.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/cm-pop-up-banners/wordpress-cm-pop-up-banners-for-wordpress-plugin-1-5-10-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/cm-pop-up-banners/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cminds:cm_popup:1.5.9:*:*:*:*:wordpress:*:*"
+	}
+}

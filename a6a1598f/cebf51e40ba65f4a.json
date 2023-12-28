@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:teachpress_project:teachpress:9.0.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "teachPress Project teachPress 9.0.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/teachpress/wordpress-teachpress-plugin-9-0-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/teachpress/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:teachpress_project:teachpress:9.0.5:*:*:*:*:wordpress:*:*"
+	}
+}

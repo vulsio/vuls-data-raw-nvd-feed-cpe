@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:d-bus_project:d-bus:1.12.26",
+	"deprecated": true,
+	"deprecation_date": "2023-12-27T16:36:56.510Z",
 	"title": [
 		{
 			"text": "D-Bus Project D-Bus 1.12.26",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:d-bus_project:d-bus:1.12.26:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:d-bus_project:d-bus:1.12.26:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-27T11:36:56.510-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:freedesktop:dbus:1.12.26:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

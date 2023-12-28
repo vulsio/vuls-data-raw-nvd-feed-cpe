@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:opentelemetry:opentelemetry:-::~~~go~~",
+	"title": [
+		{
+			"text": "OpenTelemetry for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://opentelemetry.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/open-telemetry/opentelemetry-go-contrib/security/advisories/GHSA-rcjv-mgp8-qvmr"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/open-telemetry/opentelemetry-go-contrib/releases/tag/v1.19.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opentelemetry:opentelemetry:-:*:*:*:*:go:*:*"
+	}
+}

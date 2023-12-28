@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:livechat:livechat:4.5.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "LiveChat 4.5.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-live-chat-software-for-wordpress/wordpress-livechat-plugin-4-5-15-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/wp-live-chat-software-for-wordpress/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.livechat.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:livechat:livechat:4.5.1:*:*:*:*:wordpress:*:*"
+	}
+}
