@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:meril:blog_floating_button:1.4.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Meril Blog Floating Button 1.4.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/blog-floating-button/wordpress-blog-floating-button-plugin-1-4-12-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/blog-floating-button/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:meril:blog_floating_button:1.4.12:*:*:*:*:wordpress:*:*"
+	}
+}

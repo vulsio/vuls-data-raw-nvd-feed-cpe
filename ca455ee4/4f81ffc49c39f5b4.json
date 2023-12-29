@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:profosbox:agp_font_awesome_collection:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Profosbox AGP Font Awesome Collection for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/agp-font-awesome-collection/wordpress-agp-font-awesome-collection-plugin-3-2-4-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/agp-font-awesome-collection/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.profosbox.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:profosbox:agp_font_awesome_collection:-:*:*:*:*:wordpress:*:*"
+	}
+}

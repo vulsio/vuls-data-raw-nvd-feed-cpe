@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:kerio:connect:9.0.4",
+	"deprecated": true,
+	"deprecation_date": "2023-12-28T19:02:52.547Z",
 	"title": [
 		{
 			"text": "Kerio Connect 9.0.4",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:kerio:connect:9.0.4:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:kerio:connect:9.0.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-28T14:02:52.547-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gfi:kerio_connect:9.0.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

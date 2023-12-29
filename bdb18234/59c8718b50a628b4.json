@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:phpdeveloper:sort_searchresult_by_title:10.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "PHP Developer Sort SearchResult By Title 10.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sort-searchresult-by-title/wordpress-sort-searchresult-by-title-plugin-10-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.php-developer.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpdeveloper:sort_searchresult_by_title:10.0:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mailmunch:constant_contact_forms:2.0.10::~~~wordpress~~",
+	"title": [
+		{
+			"text": "MailMunch Constant Contact Forms 2.0.10 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/constant-contact-forms-by-mailmunch/wordpress-constant-contact-forms-by-mailmunch-plugin-2-0-10-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/constant-contact-forms-by-mailmunch/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mailmunch:constant_contact_forms:2.0.10:*:*:*:*:wordpress:*:*"
+	}
+}

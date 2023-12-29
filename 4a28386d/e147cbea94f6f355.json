@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:taggbox:taggbox:2.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Taggbox 2.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/taggbox-widget/wordpress-taggbox-ugc-galleries-social-media-widgets-user-reviews-analytics-plugin-2-9-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://taggbox.com/blog/introducing-taggbox-widget-wordpress-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:taggbox:taggbox:2.9:*:*:*:*:wordpress:*:*"
+	}
+}

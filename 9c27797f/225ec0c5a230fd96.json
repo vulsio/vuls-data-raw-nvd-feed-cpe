@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:cashier_queuing_system_project:cashier_queuing_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2023-12-28T16:46:18.327Z",
 	"title": [
 		{
 			"text": "Cashier Queuing System Project Cashier Queuing System 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:cashier_queuing_system_project:cashier_queuing_system:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:cashier_queuing_system_project:cashier_queuing_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-28T11:46:18.327-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oretnom23:cashier_queuing_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

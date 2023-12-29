@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:felixwelberg:sis_handball:1.0.45::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Felix Welberg SIS Handball 1.0.45 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/WPPlugins/sis-handball/blob/master/sis-handball.php"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sis-handball/wordpress-sis-handball-plugin-1-0-45-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:felixwelberg:sis_handball:1.0.45:*:*:*:*:wordpress:*:*"
+	}
+}

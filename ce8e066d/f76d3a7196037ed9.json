@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:formforall:formforall:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Formforall 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/formforall/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formforall/contact-form-form-for-all-12-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:formforall:formforall:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

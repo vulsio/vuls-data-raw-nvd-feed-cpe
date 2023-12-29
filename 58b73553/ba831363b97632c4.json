@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:52north:wps:-",
+	"title": [
+		{
+			"text": "52north WPS -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://52north.org/software/software-projects/wps/#changelog"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/52North/WPS/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe.es/en/incibe-cert/notices/aviso/xml-external-entity-reference-52north-wps"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:52north:wps:-:*:*:*:*:*:*:*"
+	}
+}

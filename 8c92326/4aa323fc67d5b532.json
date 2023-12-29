@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:lws:lws_hide_login:2.1.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "LWS Hide Login 2.1.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/lws-hide-login/wordpress-lws-hide-login-plugin-2-1-5-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/lws-hide-login/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lws:lws_hide_login:2.1.6:*:*:*:*:wordpress:*:*"
+	}
+}

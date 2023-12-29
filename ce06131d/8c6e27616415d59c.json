@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.0::~~~ruby~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-28T16:46:18.327Z",
 	"title": [
 		{
 			"text": "Rails HTML Sanitizer Project Rails HTML Sanitizer 1.4.0 Ruby",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.0:*:*:*:*:ruby:*:*"
+		"name": "cpe:2.3:a:rails_html_sanitizer_project:rails_html_sanitizer:1.4.0:*:*:*:*:ruby:*:*",
+		"deprecation": {
+			"date": "2023-12-28T11:46:18.327-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rubyonrails:rails_html_sanitizers:1.4.0:*:*:*:*:rails:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

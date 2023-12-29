@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kaushikkalathiya:export_users_data:2.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Kaushik Kalathiya Export Users Data 2.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wphive.com/plugins/export-users-data-csv/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/export-users-data-csv/wordpress-export-users-data-csv-plugin-2-1-auth-csv-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kaushikkalathiya:export_users_data:2.1:*:*:*:*:wordpress:*:*"
+	}
+}

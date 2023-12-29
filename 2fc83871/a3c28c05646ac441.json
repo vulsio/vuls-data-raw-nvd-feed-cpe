@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:salesmanago:salesmanago:3.2.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Salesmanago 3.2.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/salesmanago/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/salesmanago/salesmanago-324-log-injection-via-weak-authentication-token"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:salesmanago:salesmanago:3.2.4:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sendpulse:free_web_push:1.3.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SendPulse Free Web Push 1.3.1 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/sendpulse-web-push/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sendpulse-web-push/wordpress-sendpulse-free-web-push-plugin-1-3-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sendpulse:free_web_push:1.3.1:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mattmckenny:stout_google_calendar:1.2.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Matt McKenny Stout Google Calendar 1.2.3 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/stout-google-calendar/wordpress-stout-google-calendar-plugin-1-2-3-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.com/plugins/stout-google-calendar"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattmckenny:stout_google_calendar:1.2.3:*:*:*:*:wordpress:*:*"
+	}
+}

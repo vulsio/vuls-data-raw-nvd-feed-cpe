@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:spreendigital:qr_code_tag:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SpreenDigital QR Code Tag 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/qr-code-tag/qr-code-tag-10-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://blog.spreendigital.de/2009/09/19/qr-code-tag-wordpress-plugin-v1-0/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:spreendigital:qr_code_tag:1.0:*:*:*:*:wordpress:*:*"
+	}
+}

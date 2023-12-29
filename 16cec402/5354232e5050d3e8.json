@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:aruba:cx_6400:-",
+	"deprecated": true,
+	"deprecation_date": "2023-12-28T19:02:52.547Z",
 	"title": [
 		{
 			"text": "Aruba CX 6400",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:aruba:cx_6400:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:aruba:cx_6400:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-28T14:02:52.547-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:arubanetworks:cx_6400:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
