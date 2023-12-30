@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:dmry:sayfa_sayac:2.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Dmry Sayfa Sayac 2.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sayfa-sayac/wordpress-sayfa-sayac-plugin-2-6-unauthenticated-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/sayfa-sayac/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://dmry.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dmry:sayfa_sayac:2.6:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:halgatewood:dashicons_%2b_custom_post_types:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Hal Gatewood Dashicons + Custom Post Types for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://github.com/halgatewood"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/dashicons-cpt/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/dashicons-cpt/wordpress-dashicons-custom-post-types-plugin-1-0-2-broken-access-control?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:halgatewood:dashicons_\\+_custom_post_types:-:*:*:*:*:wordpress:*:*"
+	}
+}

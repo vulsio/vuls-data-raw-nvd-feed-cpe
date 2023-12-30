@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gravityforms:gravity_forms:2.7.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Gravity Forms 2.7.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/gravityforms/wordpress-gravity-forms-plugin-2-7-3-unauthenticated-php-object-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.com/plugins/gravityforms"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.gravityforms.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gravityforms:gravity_forms:2.7.4:*:*:*:*:wordpress:*:*"
+	}
+}

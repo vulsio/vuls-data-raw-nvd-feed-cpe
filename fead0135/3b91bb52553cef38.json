@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:govee:led_strip_firmware:3.00.42",
+	"title": [
+		{
+			"text": "Govee LED Strip Firmware 3.00.42",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://us.govee.com/collections/strip-lights"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:govee:led_strip_firmware:3.00.42:*:*:*:*:*:*:*"
+	}
+}

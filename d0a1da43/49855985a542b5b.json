@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:virtualmin:virtualmin:7.7",
+	"title": [
+		{
+			"text": "Virtualmin 7.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pavanughade43/Virtualmin-7.7/blob/main/CVE-2023-47099"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://forum.virtualmin.com/t/virtualmin-virtual-server-module-version-7-7-released/120367"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:virtualmin:virtualmin:7.7:*:*:*:*:*:*:*"
+	}
+}

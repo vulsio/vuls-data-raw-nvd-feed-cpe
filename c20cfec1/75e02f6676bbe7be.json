@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:redlioncontrols:vt-ipm2m-113-d_firmware:4.9.114",
+	"title": [
+		{
+			"text": "RedLion Controls VT-IPm2m-113-D Firmware 4.9.114",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.redlion.net/ipm-industrial-rtus"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.redlion.net/hc/en-us/articles/19339209248269-RLCSIM-2023-05-Authentication-Bypass-and-Remote-Code-Execution"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-23-320-01"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:redlioncontrols:vt-ipm2m-113-d_firmware:4.9.114:*:*:*:*:*:*:*"
+	}
+}

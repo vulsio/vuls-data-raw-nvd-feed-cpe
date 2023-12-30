@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ab-wp:simple_counter:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AB-WP Simple Counter 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://ab-wp.com/plugins/simple-counter/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/abwp-simple-counter/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/abwp-simple-counter/wordpress-simple-counter-plugin-1-0-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ab-wp:simple_counter:1.0:*:*:*:*:wordpress:*:*"
+	}
+}

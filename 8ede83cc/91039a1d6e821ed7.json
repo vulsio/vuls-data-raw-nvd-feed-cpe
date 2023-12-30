@@ -1,0 +1,202 @@
+{
+	"name": "cpe:/a:cisco:network_services_orchestrator:-",
+	"title": [
+		{
+			"text": "Cisco Network Services Orchestrator (NSO) ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2021-44228"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2022/Jul/11"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/167794/Open-Xchange-App-Suite-7.10.x-Cross-Site-Scripting-Command-Injection.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/blog/2021/12/microsofts-response-to-cve-2021-44228-apache-log4j2/"
+		},
+		{
+			"text": "Version",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/M5CSVUNV4HWZZXGOKNSK6L7RPM7BOKIB/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cisagov/log4j-affected-db"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.apple.com/en-us/HT213189"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://logging.apache.org/log4j/2.x/security.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20211210-0007/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165225/Apache-Log4j2-2.14.1-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/10/3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/15/3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2022/Mar/23"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2022.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-714170.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2022.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-479842.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-397453.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165532/Log4Shell-HTTP-Header-Injection.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165371/VMware-Security-Advisory-2021-0028.4.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165642/VMware-vCenter-Server-Unauthenticated-Log4Shell-JNDI-Injection-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165673/UniFi-Network-Application-Unauthenticated-Log4Shell-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165270/Apache-Log4j2-2.14.1-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165261/Apache-Log4j2-2.14.1-Information-Disclosure.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165260/VMware-Security-Advisory-2021-0028.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165282/Log4j-Payload-Generator.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165281/Log4j2-Log4Shell-Regexes.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165311/log4j-scan-Extensive-Scanner.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165307/Log4j-Remote-Code-Execution-Word-Bypassing.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165306/L4sh-Log4j-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/alert-cve-2021-44228.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/14/4"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00646.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.kb.cert.org/vuls/id/930724"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.debian.org/debian-lts-announce/2021/12/msg00007.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/pdf/ssa-661247.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.debian.org/security/2021/dsa-5020"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/VU57UJDCFIASIO35GC55JMKSRXJMCDFM/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/13/2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/13/1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/10/1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2021/12/10/2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/167917/MobileIron-Log4Shell-Remote-Command-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2022/Dec/2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/171626/AD-Manager-Plus-7122-Remote-Code-Execution.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nso-info-disclosure-WdNvBTNq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:network_services_orchestrator:-:*:*:*:*:*:*:*"
+	}
+}

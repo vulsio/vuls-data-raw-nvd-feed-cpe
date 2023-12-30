@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:averta:master_slider_pro:3.6.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Averta Master Slider Pro 3.6.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://pluginsforwp.com/downloads/master-slider-pro/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/masterslider/wordpress-master-slider-pro-plugin-3-6-5-php-object-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:averta:master_slider_pro:3.6.5:*:*:*:*:wordpress:*:*"
+	}
+}

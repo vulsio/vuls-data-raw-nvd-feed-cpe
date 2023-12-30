@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ivanti:avalanche:6.4.2::~~premise~~~",
+	"title": [
+		{
+			"text": "Ivanti Avalanche 6.4.2 Premise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://download.wavelink.com/Files/avalanche_v6.4.2_release_notes.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/22xxx/CVE-2021-22962.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ivanti.com/blog/new-ivanti-avalanche-vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:avalanche:6.4.2:*:*:*:premise:*:*:*"
+	}
+}

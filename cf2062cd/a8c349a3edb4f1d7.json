@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:trane:tracer_sc:-",
+	"title": [
+		{
+			"text": "Trane Tracer SC",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://us-cert.cisa.gov/ics/advisories/icsa-21-292-02"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-16-259-03"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:trane:tracer_sc:-:*:*:*:*:*:*:*"
+	}
+}

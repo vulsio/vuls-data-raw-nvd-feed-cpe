@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:switchbot:hub2:-",
+	"title": [
+		{
+			"text": "Switchbot Hub2 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://us.switch-bot.com/products/switchbot-hub-2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:switchbot:hub2:-:*:*:*:*:*:*:*"
+	}
+}

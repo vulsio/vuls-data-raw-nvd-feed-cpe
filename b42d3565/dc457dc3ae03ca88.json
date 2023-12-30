@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:vmware:spring_boot:2.6.0:%2b",
+	"title": [
+		{
+			"text": "VMware Spring Boot 2.6.0 +",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-boot"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.vmware.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://spring.io/security/cve-2023-20883"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_boot:2.6.0:\\+:*:*:*:*:*:*"
+	}
+}

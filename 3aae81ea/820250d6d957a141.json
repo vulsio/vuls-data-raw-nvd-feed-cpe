@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:myserverproject:myserver:-",
+	"title": [
+		{
+			"text": "MyServer Project MyServer -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.myserverproject.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/34977"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:myserverproject:myserver:-:*:*:*:*:*:*:*"
+	}
+}

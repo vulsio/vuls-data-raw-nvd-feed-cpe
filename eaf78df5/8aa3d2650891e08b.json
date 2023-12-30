@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:nanoleaf:lightstrip:-",
+	"title": [
+		{
+			"text": "Nanoleaf Lightstrip ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://nanoleaf.me/en-US/products/essentials/lightstrips/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:nanoleaf:lightstrip:-:*:*:*:*:*:*:*"
+	}
+}

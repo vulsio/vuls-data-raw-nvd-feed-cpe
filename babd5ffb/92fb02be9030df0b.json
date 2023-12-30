@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:kubeflow:kubeflow:1.7.0",
+	"title": [
+		{
+			"text": "Kubeflow Kubeflow 1.7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.kubeflow.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/kubeflow/kubeflow/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://huntr.com/bounties/82d6e853-013b-4029-a23f-8b50ec56602a/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kubeflow:kubeflow:1.7.0:*:*:*:*:*:*:*"
+	}
+}

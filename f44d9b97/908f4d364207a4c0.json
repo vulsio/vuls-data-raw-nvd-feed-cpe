@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:aveva:edge:2020:r2:-",
+	"title": [
+		{
+			"text": "Aveva Edge 2020 R2 - Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-22-326-01"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/docs/english/17254-connection-string-parameter-pollution-attacks.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.aveva.com/en/products/edge/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aveva:edge:2020:r2:-:*:*:*:*:*"
+	}
+}

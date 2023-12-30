@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sentry:symbolicator:23.11.2",
+	"title": [
+		{
+			"text": "Sentry Symbolicator 23.11.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://sentry.io/welcome/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/getsentry/symbolicator/security/advisories/GHSA-6576-pr6j-h9c6"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/getsentry/symbolicator"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sentry:symbolicator:23.11.2:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:artifacthub:hub:1.16.0",
+	"title": [
+		{
+			"text": "ArtifactHub Hub 1.16.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://artifacthub.io/packages/helm/artifact-hub/artifact-hub"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/artifacthub/hub/security/advisories/GHSA-hmq4-c2r4-5q8h"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:artifacthub:hub:1.16.0:*:*:*:*:*:*:*"
+	}
+}

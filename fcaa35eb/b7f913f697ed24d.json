@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:porternovelli:widget_settings_importer%2fexporter:1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Porternovelli Widget Settings Importer/exporter 1.4 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/widget-settings-importexport/widget-settings-importerexporter-plugin-153-unauthorized-widget-import-to-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/widget-settings-importexport/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.porternovelli.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:porternovelli:widget_settings_importer\\/exporter:1.4:*:*:*:*:wordpress:*:*"
+	}
+}

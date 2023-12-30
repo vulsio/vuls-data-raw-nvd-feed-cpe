@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mjdm:majordomo:-",
+	"title": [
+		{
+			"text": "Mjdm MajorDoMo -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mjdm.ru/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sergejey/majordomo/commit/0662e5ebfb133445ff6154b69c61019357092178"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/sergejey/majordomo"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mjdm:majordomo:-:*:*:*:*:*:*:*"
+	}
+}

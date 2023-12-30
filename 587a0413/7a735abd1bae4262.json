@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:preh:mib3_firmware:-",
+	"title": [
+		{
+			"text": "Preh MIB3 Firmware -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.preh.com/en/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/28xxx/CVE-2023-28895.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://asrg.io/security-advisories/hard-coded-password-for-access-to-power-controller-chip-memory/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:preh:mib3_firmware:-:*:*:*:*:*:*:*"
+	}
+}

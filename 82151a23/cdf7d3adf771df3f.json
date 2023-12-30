@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:hikvision:ds-kd-kk:-",
+	"title": [
+		{
+			"text": "Hikvision DS-KD-KK",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Beatriz-ai-boop/cve/blob/main/rce.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.hikvision.com/sg/products/Video-Intercom-Products/IP-Series/Pro-Series/?category=Video+Intercom+&subCategory=IP+Series&series=Pro+Series&checkedSubSeries=NONE"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hikvision:ds-kd-kk:-:*:*:*:*:*:*:*"
+	}
+}

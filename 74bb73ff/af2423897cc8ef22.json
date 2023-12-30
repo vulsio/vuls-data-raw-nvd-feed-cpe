@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mp3gain_project:mp3gain:1.2.4",
+	"deprecated": true,
+	"deprecation_date": "2023-12-29T15:26:54.267Z",
 	"title": [
 		{
 			"text": "MP3Gain Project MP3Gain 1.2.4",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mp3gain_project:mp3gain:1.2.4:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mp3gain_project:mp3gain:1.2.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-29T10:26:54.267-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:glensawyer:mp3gain:1.2.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

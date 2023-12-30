@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:phpbits:genesis_simple_love:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Phpbits Genesis Simple Love - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://phpbits.net/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/genesis-simple-love/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/genesis-simple-love/wordpress-genesis-simple-love-plugin-2-0-unauthenticated-php-object-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpbits:genesis_simple_love:-:*:*:*:*:wordpress:*:*"
+	}
+}

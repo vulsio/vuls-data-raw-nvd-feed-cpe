@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:nanoleaf:lightstrip_firmware:3.5.10",
+	"title": [
+		{
+			"text": "Nanoleaf Lightstrip Firmware 3.5.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://nanoleaf.me/en-US/products/essentials/lightstrips/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nanoleaf:lightstrip_firmware:3.5.10:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:sun_one_application_server:7.0",
+	"title": [
+		{
+			"text": "Oracle Sun One Application Server 7.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/12093"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/cd/E19683-01/817-2180-10/pt_chap1.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:sun_one_application_server:7.0:*:*:*:*:*:*:*"
+	}
+}

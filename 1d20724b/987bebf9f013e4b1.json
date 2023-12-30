@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:lockss:classic_lockss_daemon:1.75.9",
+	"title": [
+		{
+			"text": "Lockss Classic Lockss Daemon 1.75.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.lockss.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/lockss/lockss-daemon/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/lockss/lockss-daemon/security/advisories/GHSA-mgqj-hphf-9588"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lockss:classic_lockss_daemon:1.75.9:*:*:*:*:*:*:*"
+	}
+}

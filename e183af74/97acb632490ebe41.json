@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:dell:powerprotect_data_domain:7.12.0.0::~~virtual~~~",
+	"title": [
+		{
+			"text": "Dell PowerProtect Data Domain 7.12.0.0 Virtual Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/en-us/shop/ipovw/dell-emc-ddve-subscription"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000220264/dsa-2023-412-dell-technologies-powerprotect-security-update-for-multiple-security-vulnerabilities"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:powerprotect_data_domain:7.12.0.0:*:*:*:virtual:*:*:*"
+	}
+}

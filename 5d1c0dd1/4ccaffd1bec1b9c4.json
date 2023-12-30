@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:transsoft:broker_ftp_server:5.9.5.0",
+	"title": [
+		{
+			"text": "TransSoft Broker Ftp Server 5.9.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2001/1xxx/CVE-2001-1042.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://transsoft-s-broker.software.informer.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/6760"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:transsoft:broker_ftp_server:5.9.5.0:*:*:*:*:*:*:*"
+	}
+}

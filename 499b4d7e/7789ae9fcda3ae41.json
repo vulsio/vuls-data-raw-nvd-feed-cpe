@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:phz76:rtspserver:1.0.0",
+	"title": [
+		{
+			"text": "PHZ76 RtspServer 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.huiyao.love/2023/12/08/rtspserver-stackoverflow-vulnerability/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.248248"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/PHZ76/RtspServer"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phz76:rtspserver:1.0.0:*:*:*:*:*:*:*"
+	}
+}

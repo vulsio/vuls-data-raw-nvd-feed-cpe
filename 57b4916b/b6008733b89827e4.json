@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:netapp:ontap:9.13.1:p5",
+	"title": [
+		{
+			"text": "NetApp ONTAP 9.13.1 Patch 5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/NTAP-20231215-0001/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/27xxx/CVE-2023-27317.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:ontap:9.13.1:p5:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:bcoin:bcoin:2.2.0",
+	"title": [
+		{
+			"text": "Bcoin Bcoin 2.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bcoin.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tianjk99/Cryptographic-Misuses/blob/main/CVE-2023-50475.md"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bcoin-org/bcoin/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bcoin:bcoin:2.2.0:*:*:*:*:*:*:*"
+	}
+}

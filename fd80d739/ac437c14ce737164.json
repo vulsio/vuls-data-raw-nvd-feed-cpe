@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:adfoxly:adfoxly:1.8.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2023-12-29T18:02:38.650Z",
 	"title": [
 		{
 			"text": "AdFoxly 1.8.5 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:adfoxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:adfoxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2023-12-29T13:02:38.650-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wp_foxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

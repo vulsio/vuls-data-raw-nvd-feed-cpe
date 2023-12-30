@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:casier:bbpress_toolkit:1.0.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Casier Bbpress Toolkit 1.0.12 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bbp-toolkit/wordpress-bbpress-toolkit-plugin-1-0-12-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/bbp-toolkit/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:casier:bbpress_toolkit:1.0.12:*:*:*:*:wordpress:*:*"
+	}
+}

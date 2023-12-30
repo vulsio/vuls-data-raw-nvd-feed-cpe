@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hmplugin:jobwp:1.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "HM Plugin JobWP 1.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://hmplugin.com/wordpress-plugins/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/jobwp/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/jobwp/wordpress-jobwp-plugin-2-1-sensitive-data-exposure-on-resume-files-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hmplugin:jobwp:1.6:*:*:*:*:wordpress:*:*"
+	}
+}

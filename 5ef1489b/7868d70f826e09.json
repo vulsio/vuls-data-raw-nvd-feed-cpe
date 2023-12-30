@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wipotec:comscale:4.3.29.21344",
+	"title": [
+		{
+			"text": "WIPOTEC ComScale 4.3.29.21344",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.wipotec.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/PostalBlab/Vulnerabilities/blob/main/ComScale/auth_bypass.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/PostalBlab/Vulnerabilities/blob/main/ComScale/file_access.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wipotec:comscale:4.3.29.21344:*:*:*:*:*:*:*"
+	}
+}

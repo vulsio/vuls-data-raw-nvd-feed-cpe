@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:phillips:hue_bridge:-",
+	"title": [
+		{
+			"text": "Phillips Hue Bridge ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.philips-hue.com/en-ca/p/hue-bridge/046677458478"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/IoT-Fuzz/IoT-Fuzz/blob/main/Remove%20Key%20Set%20Vulnerability%20Report.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:phillips:hue_bridge:-:*:*:*:*:*:*:*"
+	}
+}

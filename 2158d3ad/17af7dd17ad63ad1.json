@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:dovecot:dovecot:1.0.7",
+	"title": [
+		{
+			"text": "Dovecot 1.0.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.gentoo.org/glsa/202107-41"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.debian.org/debian-lts-announce/2022/09/msg00032.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/dovecot/core/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=1346055"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://dovecot.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dovecot:dovecot:1.0.7:*:*:*:*:*:*:*"
+	}
+}

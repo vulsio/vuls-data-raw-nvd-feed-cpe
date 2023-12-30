@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cybrosys:website_blog_search:13.0.1.0.1::~~~odoo~~",
+	"title": [
+		{
+			"text": "Cybrosys Website Blog Search 13.0.1.0.1 for Odoo",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.cybrosys.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.odoo.com/apps/modules/13.0/website_search_blog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/luvsn/OdZoo/tree/main/exploits/website_search_blog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cybrosys:website_blog_search:13.0.1.0.1:*:*:*:*:odoo:*:*"
+	}
+}

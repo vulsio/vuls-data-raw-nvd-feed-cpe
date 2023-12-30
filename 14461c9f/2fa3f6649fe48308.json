@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:w3m_project:w3m:0.5.2-5",
+	"deprecated": true,
+	"deprecation_date": "2023-12-29T18:38:03.100Z",
 	"title": [
 		{
 			"text": "w3m Project w3m 0.5.2-5",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:w3m_project:w3m:0.5.2-5:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:w3m_project:w3m:0.5.2-5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2023-12-29T13:38:03.100-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tats:w3m:0.5.2-5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
