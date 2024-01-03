@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:wp_mail_catcher_project:wp_mail_catcher:1.1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-02T16:28:54.020Z",
 	"title": [
 		{
 			"text": "WP Mail Catcher Project WP Mail Catcher 1.1.0 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:1.1.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wp_mail_catcher_project:wp_mail_catcher:1.1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-02T11:28:54.020-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jamesward:wp_mail_catcher:1.1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

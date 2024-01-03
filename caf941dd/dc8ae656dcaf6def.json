@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:grails:grails:5.3.2",
+	"title": [
+		{
+			"text": "Grails 5.3.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/grails/grails-core/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://grails.org/blog/2023-12-20-cve-data-binding-dos.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/grails/grails-core/security/advisories/GHSA-3pjv-r7w4-2cf5"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:grails:grails:5.3.2:*:*:*:*:*:*:*"
+	}
+}

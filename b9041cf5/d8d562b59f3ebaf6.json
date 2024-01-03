@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:buildkite:elastic_ci_stack:6.2.0::~~~aws~~",
+	"title": [
+		{
+			"text": "Buildkite Elastic CI Stack 6.2.0 for AWS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/buildkite/elastic-ci-stack-for-aws/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/buildkite/elastic-ci-stack-for-aws"
+		},
+		{
+			"text": "Product",
+			"href": "https://buildkite.com/docs/agent/v3/elastic-ci-aws/elastic-ci-stack-overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:buildkite:elastic_ci_stack:6.2.0:*:*:*:*:aws:*:*"
+	}
+}
