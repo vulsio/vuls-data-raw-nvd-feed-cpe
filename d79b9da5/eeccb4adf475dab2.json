@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:clickhouse:clickhouse:23.10.5.20",
+	"title": [
+		{
+			"text": "ClickHouse 23.10.5.20",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ClickHouse/ClickHouse/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://clickhouse.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ClickHouse/ClickHouse/security/advisories/GHSA-5rmf-5g48-xv63"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickhouse:clickhouse:23.10.5.20:*:*:*:*:*:*:*"
+	}
+}

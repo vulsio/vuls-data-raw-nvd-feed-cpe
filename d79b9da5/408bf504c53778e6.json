@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:clickhouse:clickhouse:23.3.16.7::~~lts~~~",
+	"title": [
+		{
+			"text": "ClickHouse 23.3.16.7 LTS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ClickHouse/ClickHouse/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ClickHouse/ClickHouse/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://clickhouse.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ClickHouse/ClickHouse/security/advisories/GHSA-g22g-p6q2-x39v"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickhouse:clickhouse:23.3.16.7:*:*:*:lts:*:*:*"
+	}
+}

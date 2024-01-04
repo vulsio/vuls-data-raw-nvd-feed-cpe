@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:deis:workflow_manager:2.0.0:-:~~~go~~",
+	"title": [
+		{
+			"text": "Deis Workflow Manager 2.0.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/deis/workflow-manager/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/deis/workflow-manager#section-readme"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/deis/workflow-manager"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:deis:workflow_manager:2.0.0:-:*:*:*:go:*:*"
+	}
+}
