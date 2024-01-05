@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:westguardsolutions:ws_form:1.7.21::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "Westguard Solutions WS Form 1.7.21 LITE for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.westguardsolutions.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wsform.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ws-form/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ws-form/wordpress-ws-form-lite-drag-drop-contact-form-builder-for-wordpress-plugin-1-9-170-sql-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:westguardsolutions:ws_form:1.7.21:*:*:*:lite:wordpress:*:*"
+	}
+}

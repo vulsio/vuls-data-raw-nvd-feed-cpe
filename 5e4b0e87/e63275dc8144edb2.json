@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:buildwoofunnels:autonami:2.1.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-04T15:17:18.890Z",
 	"title": [
 		{
 			"text": "BuildWooFunnels Autonami 2.1.3 for WordPress",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:buildwoofunnels:autonami:2.1.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:buildwoofunnels:autonami:2.1.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-04T10:17:18.890-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:funnelkit:funnelkit_automations:2.1.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
