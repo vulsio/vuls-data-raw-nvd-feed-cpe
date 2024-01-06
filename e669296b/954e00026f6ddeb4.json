@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:advanced_access_manager_project:advanced_access_manager:3.4.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-05T14:36:18.870Z",
 	"title": [
 		{
 			"text": "Advanced Access Manager Project Advanced Access Manager 3.4.1 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:3.4.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:advanced_access_manager_project:advanced_access_manager:3.4.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-05T09:36:18.870-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vasyltech:advanced_access_manager:3.4.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
