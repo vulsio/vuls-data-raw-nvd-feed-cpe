@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:fedirtsapana:simple_http_server:1.8::~~~android~~",
+	"title": [
+		{
+			"text": "Fedir Tsapana Simple HTTP Server 1.8 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/com.phlox.simpleserver/blob/main/CWE-321.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.phlox.simpleserver"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fedirtsapana:simple_http_server:1.8:*:*:*:*:android:*:*"
+	}
+}

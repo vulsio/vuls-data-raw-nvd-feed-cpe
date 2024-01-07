@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:arisoft:ari_stream_quiz:1.2.32::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-06T19:22:44.120Z",
 	"title": [
 		{
 			"text": "ARI Soft ARI Stream Quiz 1.2.32 for WordPress",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:arisoft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:arisoft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-06T14:22:44.120-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ari-soft:ari_stream_quiz:1.2.32:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

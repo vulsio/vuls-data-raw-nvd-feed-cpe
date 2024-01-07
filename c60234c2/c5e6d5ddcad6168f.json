@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:tencent:tencent_distributed_sql:1.8.5::~~~tencent_cloud~~",
+	"title": [
+		{
+			"text": "Tencent Distributed SQL (TDSQL) 1.8.5 for Tencent Cloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Narrator21/tdsql/blob/main/20230927.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tencentcloud.com/document/product/1021/37633?lang=en"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.tencent.com/en-us/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tencent:tencent_distributed_sql:1.8.5:*:*:*:*:tencent_cloud:*:*"
+	}
+}
