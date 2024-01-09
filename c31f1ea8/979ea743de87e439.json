@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:perfood:couchauth:0.19.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Perfood Couchauth 0.19.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/dub-flow/vulnerability-research/tree/main/CVE-2023-39655"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://perfood.de/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/%40perfood/couch-auth?activeTab=versions"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:perfood:couchauth:0.19.0:*:*:*:*:node.js:*:*"
+	}
+}

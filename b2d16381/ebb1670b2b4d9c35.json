@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:metersphere:metersphere:2.10.9:rc:~~lts~~~",
+	"title": [
+		{
+			"text": "Metersphere Metersphere 2.10.9 Release Candidate LTS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/metersphere/metersphere/security/advisories/GHSA-rcp4-c5p2-58v9"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/metersphere/metersphere/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:metersphere:metersphere:2.10.9:rc:*:*:lts:*:*:*"
+	}
+}

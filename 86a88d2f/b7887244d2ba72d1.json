@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:python_extension:2020.8.108011::~~~visual_studio_code~~",
+	"title": [
+		{
+			"text": "Microsoft Python Extension 2020.8.108011 for Visual Studio Code",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2020-17163"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/vscode-python/blob/main/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:python_extension:2020.8.108011:*:*:*:*:visual_studio_code:*:*"
+	}
+}

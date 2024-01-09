@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pymedusa:medusa:1.0.17",
+	"title": [
+		{
+			"text": "Pymedusa Medusa 1.0.17",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/pymedusa/Medusa/security/advisories/GHSA-3hph-6586-qv9g"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://securitylab.github.com/advisories/GHSL-2023-201_GHSL-2023-202_Medusa/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/pymedusa/Medusa/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pymedusa:medusa:1.0.17:*:*:*:*:*:*:*"
+	}
+}

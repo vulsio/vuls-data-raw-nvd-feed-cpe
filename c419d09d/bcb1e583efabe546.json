@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:follow-redirects:follow_redirects:1.12.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Follow-redirects Follow Redirects 1.12.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/follow-redirects"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/follow-redirects/follow-redirects/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-6141137"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/follow-redirects/follow-redirects/issues/235"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:follow-redirects:follow_redirects:1.12.0:*:*:*:*:node.js:*:*"
+	}
+}
