@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cloudflare:zlib:2023-11-16",
+	"title": [
+		{
+			"text": "Cloudflare zlib 2023-11-16",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/cloudflare/zlib/commit/8352d108c05db1bdc5ac3bdf834dad641694c13c"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudflare/zlib"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloudflare.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:zlib:2023-11-16:*:*:*:*:*:*:*"
+	}
+}

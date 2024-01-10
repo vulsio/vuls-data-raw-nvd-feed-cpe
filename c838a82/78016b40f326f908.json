@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:craftcms:craft_cms:4.5.10",
+	"title": [
+		{
+			"text": "Craft CMS 4.5.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/craftcms/cms/security/advisories/GHSA-j5g9-j7r4-6qvx"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/craftcms/cms/blob/develop/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:craftcms:craft_cms:4.5.10:*:*:*:*:*:*:*"
+	}
+}
