@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fastify:reply-from:6.1.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "Fastify reply-from 6.1.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://fastify.dev/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/fastify/fastify-reply-from/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fastify/fastify-reply-from/security/advisories/GHSA-v2v2-hph8-q5xp"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fastify:reply-from:6.1.0:*:*:*:*:node.js:*:*"
+	}
+}

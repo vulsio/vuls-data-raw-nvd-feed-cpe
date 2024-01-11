@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:icegram:icegram:1.9.20.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-10T16:30:26.960Z",
 	"title": [
 		{
 			"text": "Icegram 1.9.20.0 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:icegram:icegram:1.9.20.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:icegram:icegram:1.9.20.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-10T11:30:26.960-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:icegram:icegram_engage:1.9.20.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

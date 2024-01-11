@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:daan:omgf:5.7.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Daan van den Bergh OMGF 5.7.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/host-webfonts-local/omgf-gdprdsgvo-compliant-faster-google-fonts-easy-579-missing-authorization-to-unauthenticated-directory-deletion-and-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/host-webfonts-local/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:daan:omgf:5.7.2:*:*:*:*:wordpress:*:*"
+	}
+}
