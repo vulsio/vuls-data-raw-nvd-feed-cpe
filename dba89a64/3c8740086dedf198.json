@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:livecomposer:page_builder%3a_live_composer:1.5.22::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-11T19:02:52.583Z",
 	"title": [
 		{
 			"text": "Live Composer Page Builder: Live Composer 1.5.22 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:livecomposer:page_builder\\:_live_composer:1.5.22:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:livecomposer:page_builder\\:_live_composer:1.5.22:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-01-11T14:02:52.583-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:blueastral:page_builder\\:_live_composer:1.5.22:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

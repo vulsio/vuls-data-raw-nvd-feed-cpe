@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:microsemi:maxview_storage_manager:4.09.00.25611::~~~windows~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-11T14:31:49.113Z",
 	"title": [
 		{
 			"text": "Microsemi Maxview Storage Manager 4.09.00.25611 for Windows",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsemi:maxview_storage_manager:4.09.00.25611:*:*:*:*:windows:*:*"
+		"name": "cpe:2.3:a:microsemi:maxview_storage_manager:4.09.00.25611:*:*:*:*:windows:*:*",
+		"deprecation": {
+			"date": "2024-01-11T09:31:49.113-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microchip:maxview_storage_manager:4.09.00.25611:*:*:*:*:windows:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

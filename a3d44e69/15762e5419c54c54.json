@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sudo_project:sudo:1.9.15:p3",
+	"title": [
+		{
+			"text": "Sudo Project Sudo 1.9.15 Patch 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.sudo.ws/sudo.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2023/12/21/9"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/sudo-project/sudo/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sudo_project:sudo:1.9.15:p3:*:*:*:*:*:*"
+	}
+}

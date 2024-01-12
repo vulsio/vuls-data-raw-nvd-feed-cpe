@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:michielvaneerd:private_google_calendars:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Michiel van Eerd Private Google Calendars for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/private-google-calendars/wordpress-private-google-calendars-plugin-20231125-contributor-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/private-google-calendars/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:michielvaneerd:private_google_calendars:-:*:*:*:*:wordpress:*:*"
+	}
+}

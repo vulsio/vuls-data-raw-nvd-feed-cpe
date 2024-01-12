@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:snowflake:snowflake_connector:2.1.4::~~~.net~~",
+	"title": [
+		{
+			"text": "Snowflake Connector 2.1.4 for .net",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/snowflakedb/snowflake-connector-net/security/advisories/GHSA-hwcc-4cv8-cf3h"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/snowflakedb/snowflake-connector-net/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:snowflake:snowflake_connector:2.1.4:*:*:*:*:.net:*:*"
+	}
+}

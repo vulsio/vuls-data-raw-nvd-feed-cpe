@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mozilla:network_security_services:3.87",
+	"title": [
+		{
+			"text": "Mozilla Network Security Services (NSS) 3.87",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mozilla.org/en-US/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://hg.mozilla.org/projects/nss/shortlog/a7f363511333b8062945557607691002fd6e40b9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mozilla:network_security_services:3.87:*:*:*:*:*:*:*"
+	}
+}

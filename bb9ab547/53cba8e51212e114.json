@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:diaconou:encodedid%3a%3arails:0.0.1::~~~ruby~~",
+	"title": [
+		{
+			"text": "Diaconou EncodedID::Rails 0.0.1 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/stevegeek/encoded_id-rails/security/advisories/GHSA-3px7-jm2p-6h2c"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.diaconou.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/stevegeek/encoded_id-rails/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:diaconou:encodedid\\:\\:rails:0.0.1:*:*:*:*:ruby:*:*"
+	}
+}
