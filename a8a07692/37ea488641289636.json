@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:oneidentity:password_manager:5.13.1",
+	"title": [
+		{
+			"text": "One Identity Password Manager 5.13.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.oneidentity.com/products/password-manager/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec-consult.com/vulnerability-lab/advisory/kiosk-escape-privilege-escalation-one-identity-password-manager-secure-password-extension/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://support.oneidentity.com/technical-documents/password-manager/5.13.1/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oneidentity:password_manager:5.13.1:*:*:*:*:*:*:*"
+	}
+}

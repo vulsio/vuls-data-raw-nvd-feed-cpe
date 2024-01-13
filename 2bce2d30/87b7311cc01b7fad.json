@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:microsoft:windows_10_21h2:10.0.19041.3693::~~~~x86~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-12T19:01:51.630Z",
 	"title": [
 		{
 			"text": "Microsoft Windows 10 21h2 10.0.19041.3693 on x86",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.microsoft.com/en-us/"
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/release-information"
 		},
 		{
-			"text": "Advisory",
-			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36028"
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/en-us/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3693:*:*:*:*:*:x86:*"
+		"name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19041.3693:*:*:*:*:*:x86:*",
+		"deprecation": {
+			"date": "2024-01-12T14:01:51.630-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_10_21h2:10.0.19044.3693:*:*:*:*:*:x86:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

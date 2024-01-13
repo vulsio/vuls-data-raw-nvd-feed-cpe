@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wedevs:wp_erp:1.12.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WEDEVS WP ERP 1.12.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/erp/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/erp/wordpress-wp-erp-plugin-1-12-8-sql-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wedevs:wp_erp:1.12.8:*:*:*:*:wordpress:*:*"
+	}
+}

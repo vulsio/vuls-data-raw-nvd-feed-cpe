@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:boxystudio:booked:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Boxystudio Booked - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/booked/wordpress-booked-plugin-2-4-unauth-appointment-data-exposure-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://boxystudio.ticksy.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://boxystudio.ticksy.com/articles/7827/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:boxystudio:booked:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:fooplugins:foogallery:2.3.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Fooplugins Foogallery 2.3.4 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/foogallery-premium/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/foogallery/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fooplugins:foogallery:2.3.4:*:*:*:*:wordpress:*:*"
+	}
+}

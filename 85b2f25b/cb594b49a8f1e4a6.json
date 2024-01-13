@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:brave:browser:1.59.40",
+	"title": [
+		{
+			"text": "Brave Browser 1.59.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-UNMANAGED-BRAVEBRAVEBROWSER-6141133"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/brave/brave-browser/issues/32473"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/brave/brave-core/pull/19820"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/brave/brave-browser/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brave:browser:1.59.40:*:*:*:*:*:*:*"
+	}
+}

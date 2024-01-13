@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:puma:puma:6.4.1::~~~ruby~~",
+	"title": [
+		{
+			"text": "Puma Puma 6.4.1 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/puma/puma/security/advisories/GHSA-c2f4-cvqm-65w2"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/puma/puma/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:puma:puma:6.4.1:*:*:*:*:ruby:*:*"
+	}
+}

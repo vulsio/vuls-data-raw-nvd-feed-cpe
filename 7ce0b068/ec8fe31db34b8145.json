@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ivanti:connect_secure:9.1:r9",
+	"title": [
+		{
+			"text": "Ivanti Connect Secure 9.1 R9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://help.ivanti.com/ps/help/en_US/ICS/9.1RX/9.1R18-ICS-ReleaseNotes.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.ivanti.com/s/article/CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:connect_secure:9.1:r9:*:*:*:*:*:*"
+	}
+}

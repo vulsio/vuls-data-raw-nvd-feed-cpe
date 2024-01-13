@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mehah:otclient:-",
+	"title": [
+		{
+			"text": "Mehah Otclient -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mehah/otclient/commit/db560de0b56476c87a2f967466407939196dd254"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mehah/otclient/security/advisories/GHSA-q6gr-wc79-v589"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mehah:otclient:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pulsesecure:pulse_policy_secure:9.1:r2",
+	"deprecated": true,
+	"deprecation_date": "2024-01-13T04:43:42.073Z",
 	"title": [
 		{
 			"text": "Pulse Secure Pulse Policy Secure 9.1 R2",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r2:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:pulsesecure:pulse_policy_secure:9.1:r2:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-12T23:43:42.073-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ivanti:policy_secure:9.1:r2:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

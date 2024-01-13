@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mdaemon:securitygateway:-",
+	"title": [
+		{
+			"text": "MDaemon SecurityGateway -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://mdaemon.com/pages/security-gateway"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/vipercalling/XSSsecurityGateway/blob/main/finding"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mdaemon:securitygateway:-:*:*:*:*:*:*:*"
+	}
+}

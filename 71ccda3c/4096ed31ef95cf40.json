@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:aspnetzero:asp.net_zero:12.3.0",
+	"title": [
+		{
+			"text": "Asp.Net Zero 12.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://aspnetzero.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://docs.unsafe-inline.com/0day/asp.net-zero-v12.3.0-html-injection-leads-to-open-redirect-via-websockets-cve-2023-48003"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aspnetzero:asp.net_zero:12.3.0:*:*:*:*:*:*:*"
+	}
+}

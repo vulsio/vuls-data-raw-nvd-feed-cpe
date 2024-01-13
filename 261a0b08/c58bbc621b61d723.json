@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:unifiedremote:unified_remote:3.13.0",
+	"title": [
+		{
+			"text": "Unifiedremote Unified Remote 3.13.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://harkenzo.tlstickle.com/2023-03-17-UR-Web-Triggerable-RCE/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/51309"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.unifiedremote.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:unifiedremote:unified_remote:3.13.0:*:*:*:*:*:*:*"
+	}
+}

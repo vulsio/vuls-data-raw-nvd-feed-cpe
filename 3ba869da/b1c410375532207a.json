@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:netentsec:application_security_gateway:-",
+	"title": [
+		{
+			"text": "Netentsec Application Security Gateway -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/fixitc/cve/blob/main/sql.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.249183"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.netentsec.com/en/index.php?m=content&c=index&a=lists&catid=24"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netentsec:application_security_gateway:-:*:*:*:*:*:*:*"
+	}
+}

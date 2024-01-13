@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:implecode:ecommerce_product_catalog:3.3.27::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ImpleCode eCommerce Product Catalog 3.3.27 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ecommerce-product-catalog/wordpress-ecommerce-product-catalog-plugin-for-wordpress-plugin-3-3-26-sensitive-data-exposure-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ecommerce-product-catalog/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:implecode:ecommerce_product_catalog:3.3.27:*:*:*:*:wordpress:*:*"
+	}
+}
