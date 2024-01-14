@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pulsesecure:pulse_connect_secure:9.0:-",
+	"deprecated": true,
+	"deprecation_date": "2024-01-13T18:36:48.050Z",
 	"title": [
 		{
 			"text": "PulseSecure Pulse Connect Secure 9.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:-:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:pulsesecure:pulse_connect_secure:9.0:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-13T13:36:48.050-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ivanti:connect_secure:9.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
