@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:barassistant:bar_assistant:1.10.2",
+	"title": [
+		{
+			"text": "Bar Assistant 1.10.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zunak/CVE-2023-49471"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/karlomikus/bar-assistant/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://barassistant.app/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:barassistant:bar_assistant:1.10.2:*:*:*:*:*:*:*"
+	}
+}

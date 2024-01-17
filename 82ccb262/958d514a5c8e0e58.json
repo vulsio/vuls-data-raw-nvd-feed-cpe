@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:4.14.9::~~~jira~~",
+	"title": [
+		{
+			"text": "Kantega SSO Kantega SAML SSO OIDC Kerberos Single Sign-on 4.14.9 for Jira",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.kantega-sso.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://marketplace.atlassian.com/apps/1211923/kantega-saml-sso-oidc-kerberos-single-sign-on-for-jira?hosting=datacenter&tab=versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://kantega-sso.atlassian.net/wiki/spaces/KSE/pages/1226473473/Security+Vulnerability+Faulty+URL+parameter+sanitization+allows+HTML+injection+into+the+SAML+login+page"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/52xxx/CVE-2023-52240.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kantega-sso:kantega_saml_sso_oidc_kerberos_single_sign-on:4.14.9:*:*:*:*:jira:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wasmer:wasmer:4.2.5::~~~rust~~",
+	"title": [
+		{
+			"text": "Wasmer 4.2.5 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.rs/wasmer/latest/wasmer/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/wasmerio/wasmer/security/advisories/GHSA-4mq4-7rw3-vm5j"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/wasmerio/wasmer/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wasmer.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wasmer:wasmer:4.2.5:*:*:*:*:rust:*:*"
+	}
+}

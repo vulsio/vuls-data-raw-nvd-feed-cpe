@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:freeipa:freeipa:4.8.6",
+	"title": [
+		{
+			"text": "FreeIPA 4.8.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.freeipa.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://releases.pagure.org/freeipa/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.freeipa.org/release-notes/4-11-1.html#detailed-changelog-since-4-11-0"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/freeipa/freeipa/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:freeipa:freeipa:4.8.6:*:*:*:*:*:*:*"
+	}
+}

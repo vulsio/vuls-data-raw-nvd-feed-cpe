@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:identity_model:7.0.0::~~~.net~~",
+	"title": [
+		{
+			"text": "Microsoft Identity Model 7.0.0 for .net",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21319"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:identity_model:7.0.0:*:*:*:*:.net:*:*"
+	}
+}

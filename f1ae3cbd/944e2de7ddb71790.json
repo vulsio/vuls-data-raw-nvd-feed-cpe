@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:gtkwave:gtkwave:3.3.115",
+	"deprecated": true,
+	"deprecation_date": "2024-01-16T16:29:56.280Z",
 	"title": [
 		{
 			"text": "GTKWave 3.3.115",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:gtkwave:gtkwave:3.3.115:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:gtkwave:gtkwave:3.3.115:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-16T11:29:56.280-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tonybybell:gtkwave:3.3.115:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
