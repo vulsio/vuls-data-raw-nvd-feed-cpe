@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:korenix:jetnet5310:-",
+	"deprecated": true,
+	"deprecation_date": "2024-01-17T15:05:38.730Z",
 	"title": [
 		{
 			"text": "Korenix JetNet5310",
@@ -8,15 +10,30 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "http://www.korenix.com/"
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165875/Korenix-Technology-JetWave-CSRF-Command-Injection-Missing-Authentication.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-299-01"
 		},
 		{
 			"text": "Product",
 			"href": "https://www.korenixstore.com/searchresults.asp?Search=jetnet&Submit="
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.korenix.com/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:korenix:jetnet5310:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:korenix:jetnet5310:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-17T10:05:38.730-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:korenix:jetnet_5310:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:korenix:jetnet5810g:-",
+	"deprecated": true,
+	"deprecation_date": "2024-01-17T15:05:38.730Z",
 	"title": [
 		{
 			"text": "Korenix JetNet5810G",
@@ -7,6 +9,14 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/165875/Korenix-Technology-JetWave-CSRF-Command-Injection-Missing-Authentication.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ics-cert.us-cert.gov/advisories/ICSA-17-299-01"
+		},
 		{
 			"text": "Vendor",
 			"href": "http://www.korenix.com/"
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:korenix:jetnet5810g:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:korenix:jetnet5810g:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-17T10:05:38.730-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:korenix:jetnet_5810g:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

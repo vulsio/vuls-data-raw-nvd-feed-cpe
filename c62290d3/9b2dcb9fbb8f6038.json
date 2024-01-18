@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fortanix:confidential_computing_manager:3.34::~~~intel_software_guard_extensions~~",
+	"title": [
+		{
+			"text": "Fortanix Confidential Computing Manager (CCM) 3.34 for Intel Software Guard Extensions (SGX)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-w6wq-qf7h-3rf7"
+		},
+		{
+			"text": "Version",
+			"href": "https://support.fortanix.com/hc/en-us/sections/360008889912-CCM-Release-Notes"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.fortanix.com/platform/confidential-computing-manager"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fortanix:confidential_computing_manager:3.34:*:*:*:*:intel_software_guard_extensions:*:*"
+	}
+}

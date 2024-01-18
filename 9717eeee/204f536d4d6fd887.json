@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:melapress:wp_2fa:1.5.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Melapress WP 2FA (Two-factor Authentication) 1.5.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://melapress.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-2fa/wp-2fa-two-factor-authentication-for-wordpress-250-cross-site-request-forgery"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://melapress.com/support/kb/wp-2fa-plugin-changelog/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=WP2FA&utm_content=plugin+repos+description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:melapress:wp_2fa:1.5.0:*:*:*:*:wordpress:*:*"
+	}
+}
