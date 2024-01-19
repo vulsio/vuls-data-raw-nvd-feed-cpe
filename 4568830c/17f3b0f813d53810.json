@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:fortinet:fortivoice:5.0.2::~~entreprise~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-01-18T15:48:03.880Z",
 	"title": [
 		{
 			"text": "Fortinet FortiVoice 5.0.2 Entreprise Edition",
@@ -9,10 +11,21 @@
 	"references": [
 		{
 			"text": "Change Log",
-			"href": "https://docs.fortinet.com/product/fortivoice-enterprise/6.0"
+			"href": "https://docs.fortinet.com/product/fortivoice-enterprise/7.0"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.fortinet.com/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:fortinet:fortivoice:5.0.2:*:*:*:entreprise:*:*:*"
+		"name": "cpe:2.3:a:fortinet:fortivoice:5.0.2:*:*:*:entreprise:*:*:*",
+		"deprecation": {
+			"date": "2024-01-18T10:48:03.880-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fortinet:fortivoice:5.0.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

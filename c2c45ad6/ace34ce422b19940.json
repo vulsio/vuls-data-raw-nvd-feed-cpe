@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:microsoft.data.sqlclient:2.1.7",
+	"title": [
+		{
+			"text": "Microsoft Microsoft.Data.SqlClient 2.1.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/dotnet/SqlClient/tree/main/release-notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-0056"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:microsoft.data.sqlclient:2.1.7:*:*:*:*:*:*:*"
+	}
+}
