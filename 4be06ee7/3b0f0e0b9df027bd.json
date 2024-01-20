@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:cassianetworks:xc2000:-",
+	"title": [
+		{
+			"text": "Cassianetworks XC2000 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cassianetworks.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/31xxx/CVE-2023-31446.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:cassianetworks:xc2000:-:*:*:*:*:*:*:*"
+	}
+}

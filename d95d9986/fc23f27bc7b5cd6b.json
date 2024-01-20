@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sap:s%2f4hana_finance:128::~~sapscore~~~",
+	"title": [
+		{
+			"text": "SAP S/4HANA Finance 128 SAPSCORE Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://help.sap.com/docs/SAP_S4HANA_FINANCE"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2024-21736"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:s\\/4hana_finance:128:*:*:*:sapscore:*:*:*"
+	}
+}

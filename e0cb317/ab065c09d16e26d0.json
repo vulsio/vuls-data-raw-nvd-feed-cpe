@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:redshift:atphttpd:-",
+	"title": [
+		{
+			"text": "Redshift ATPhttpd -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://redshift.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tamersahin.com/articles/atphttpd/index.php"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/21614"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redshift:atphttpd:-:*:*:*:*:*:*:*"
+	}
+}

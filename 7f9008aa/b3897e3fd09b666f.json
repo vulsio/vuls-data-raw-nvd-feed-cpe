@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_ipam:3.0.0",
+	"title": [
+		{
+			"text": "Microsoft Azure IPAM 3.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2024-21638"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/Azure/ipam"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_ipam:3.0.0:*:*:*:*:*:*:*"
+	}
+}

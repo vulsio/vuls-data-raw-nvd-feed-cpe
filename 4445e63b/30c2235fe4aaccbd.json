@@ -1,0 +1,27 @@
+{
+	"name": "cpe:/a:fireeye:email_malware_analysis:9.0.3.936530",
+	"deprecated": true,
+	"deprecation_date": "2024-01-19T18:02:02.130Z",
+	"title": [
+		{
+			"text": "FireEye Email Malware Analysis (AX) 9.0.3.936530",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.incibe.es/en/incibe-cert/notices/aviso/multiple-vulnerabilities-fireeye-products"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fireeye:email_malware_analysis:9.0.3.936530:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-19T13:02:02.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fireeye:malware_analysis:9.0.3.936530:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:splunk:enterprise_security:7.1.2",
+	"title": [
+		{
+			"text": "Splunk Enterprise Security 7.1.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/22xxx/CVE-2024-22164.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://apps.splunk.com/app/263/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://advisory.splunk.com/advisories/SVD-2024-0101"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:splunk:enterprise_security:7.1.2:*:*:*:*:*:*:*"
+	}
+}
