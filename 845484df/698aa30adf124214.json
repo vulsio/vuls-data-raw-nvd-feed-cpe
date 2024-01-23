@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:super-forms:super_forms:6.0.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Super Forms 6.0.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/RensTillmann/super-forms"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/2e2e2478-2488-4c91-8af8-69b07783854f/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:super-forms:super_forms:6.0.4:*:*:*:*:wordpress:*:*"
+	}
+}
