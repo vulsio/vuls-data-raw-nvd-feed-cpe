@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wazuh:wazuh:4.3.6",
+	"title": [
+		{
+			"text": "Wazuh 4.3.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wazuh.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/wazuh/wazuh/security/advisories/GHSA-27p5-32pp-r58r"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/wazuh/wazuh/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wazuh:wazuh:4.3.6:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:tp-link:tapo_tc70:3.0",
+	"title": [
+		{
+			"text": "TP-Link TAPO TC70 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tapo.com/en/product/smart-camera/tc70/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/VineethKumarM/TAPO-TC70-Unauthorized-root-access-using-UART"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tp-link:tapo_tc70:3.0:*:*:*:*:*:*:*"
+	}
+}

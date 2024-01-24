@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:hiweb:migration_simple:1.5.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "hiWeb Migration Simple 1.5.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/1d4a2f0e-a371-4e27-98de-528e070f41b0/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/hiweb-migration-simple/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hiweb:migration_simple:1.5.0.0:*:*:*:*:wordpress:*:*"
+	}
+}
