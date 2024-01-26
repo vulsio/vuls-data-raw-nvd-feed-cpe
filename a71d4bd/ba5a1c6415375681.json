@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:gl-inet:gl-axt1800_firmware:4.3.7",
+	"title": [
+		{
+			"text": "GL.iNET GL-AXT1800 Firmware 4.3.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://dl.gl-inet.com/?model=axt1800"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gl-inet/CVE-issues/blob/main/4.0.0/Authentication-bypass.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gl-inet:gl-axt1800_firmware:4.3.7:*:*:*:*:*:*:*"
+	}
+}
