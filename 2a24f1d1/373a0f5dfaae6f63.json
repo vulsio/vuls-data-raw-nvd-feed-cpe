@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:clickhouse:java_libraries:0.1.27",
+	"title": [
+		{
+			"text": "ClickHouse Java Libraries 0.1.27",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/ClickHouse/clickhouse-java/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ClickHouse/clickhouse-java/security/advisories/GHSA-g8ph-74m6-8m7r"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://clickhouse.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickhouse:java_libraries:0.1.27:*:*:*:*:*:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:monitorr_project:monitorr:1.7.6m",
+	"deprecated": true,
+	"deprecation_date": "2024-01-26T16:46:57.417Z",
 	"title": [
 		{
 			"text": "Monitorr Project Monitorr 1.7.6m",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:monitorr_project:monitorr:1.7.6m:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:monitorr_project:monitorr:1.7.6m:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-26T11:46:57.417-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:monitorr:monitorr:1.7.6m:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

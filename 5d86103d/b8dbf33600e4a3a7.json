@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:amazon:aws_encryption_sdk:1.5.0",
+	"title": [
+		{
+			"text": "Amazon AWS Encryption SDK 1.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/introduction.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aws/aws-encryption-sdk-java/security/advisories/GHSA-55xh-53m6-936r"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/aws/aws-encryption-sdk-java/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:aws_encryption_sdk:1.5.0:*:*:*:*:*:*:*"
+	}
+}
