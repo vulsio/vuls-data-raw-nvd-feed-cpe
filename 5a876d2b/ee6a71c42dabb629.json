@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:clickhouse:clickhouse_cloud:23.9",
+	"title": [
+		{
+			"text": "ClickHouse 23.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://clickhouse.com/blog/clickhouse-release-23-09"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ClickHouse/ClickHouse/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://clickhouse.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickhouse:clickhouse_cloud:23.9:*:*:*:*:*:*:*"
+	}
+}

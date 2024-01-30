@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:omron:cs1h-cpu65h_firmware:-",
+	"title": [
+		{
+			"text": "Omron CS1H-CPU65H Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ia.omron.com/data_pdf/cat/cs1g_cs1h_cs1w_cs1d_p047-e1_14_13_csm1004120.pdf?id=16"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.fa.omron.co.jp/product/security/assets/pdf/en/OMSR-2023-010_en.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:omron:cs1h-cpu65h_firmware:-:*:*:*:*:*:*:*"
+	}
+}
