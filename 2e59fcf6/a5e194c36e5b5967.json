@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pubsubhubbub:websub:2.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "PubSubHubbub WebSub 2.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/pubsubhubbub/websub-fka-pubsubhubbub-314-authenticated-admin-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/pubsubhubbub/#developers"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/pubsubhubbub/wordpress-pubsubhubbub/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pubsubhubbub:websub:2.2.0:*:*:*:*:wordpress:*:*"
+	}
+}

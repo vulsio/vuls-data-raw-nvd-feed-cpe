@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:darkhttpd_project:darkhttpd:1.13",
+	"deprecated": true,
+	"deprecation_date": "2024-01-31T19:19:40.597Z",
 	"title": [
 		{
 			"text": "Darkhttpd Project Darkhttpd 1.13",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:darkhttpd_project:darkhttpd:1.13:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-01-31T14:19:40.597-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:unix4lyfe:darkhttpd:1.13:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
