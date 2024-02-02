@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:getpostman:postman:4.10.5",
+	"deprecated": true,
+	"deprecation_date": "2024-02-01T19:55:48.123Z",
 	"title": [
 		{
 			"text": "GetPostman Postman 4.10.5",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:getpostman:postman:4.10.5:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:getpostman:postman:4.10.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-01T14:55:48.123-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:postman:postman:4.10.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

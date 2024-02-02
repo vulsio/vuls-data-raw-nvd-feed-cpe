@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:join-lemmy:lemmy:0.9.1::~~~rust~~",
+	"title": [
+		{
+			"text": "Join-lemmy Lemmy 0.9.1 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://join-lemmy.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/LemmyNet/lemmy/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/LemmyNet/lemmy/security/advisories/GHSA-r64r-5h43-26qv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:join-lemmy:lemmy:0.9.1:*:*:*:*:rust:*:*"
+	}
+}

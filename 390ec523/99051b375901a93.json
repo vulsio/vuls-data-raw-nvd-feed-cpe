@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cloudflare:cloudflare:4.12.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cloudflare 4.12.2 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cloudflare.com/lp/pg-apo/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/cloudflare/Cloudflare-WordPress/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/cloudflare/Cloudflare-WordPress/security/advisories/GHSA-h2fj-7r3m-7gf2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudflare:cloudflare:4.12.2:*:*:*:*:wordpress:*:*"
+	}
+}
