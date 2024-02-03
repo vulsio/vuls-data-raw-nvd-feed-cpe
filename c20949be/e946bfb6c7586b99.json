@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:flexera:installshield:2018:sp1",
+	"title": [
+		{
+			"text": "Flexera InstallShield 2018 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://community.flexera.com/t5/InstallShield-Knowledge-Base/CVE-2023-29081-InstallShield-Symlink-Vulnerability-Affecting/ta-p/305052"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.revenera.com/installshield24helplib/helplibrary/whats_newIS2018.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:flexera:installshield:2018:sp1:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:red_hat_dependency_analytics:0.7.0::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Red Hat Dependency Analytics 0.7.0 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/redhat-dependency-analytics/releases/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3322"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:red_hat_dependency_analytics:0.7.0:*:*:*:*:jenkins:*:*"
+	}
+}

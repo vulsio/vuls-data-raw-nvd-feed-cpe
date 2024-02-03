@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:ubeeinteractive:ddw365:-",
+	"title": [
+		{
+			"text": "Ubee DDW365 -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cox.com/content/dam/cox/residential/support/internet/print_media/Ubee_DDW365_Data_Sheet.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.ubeeinteractive.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/cve/blob/main/Ubee/CWE-1392.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:ubeeinteractive:ddw365:-:*:*:*:*:*:*:*"
+	}
+}

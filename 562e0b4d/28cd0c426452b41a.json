@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mintplexlabs:vector_admin:-",
+	"title": [
+		{
+			"text": "Mintplexlabs Vector Admin -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://research.jfrog.com/vulnerabilities/vector-admin-filter-bypass/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Mintplex-Labs/vector-admin/pull/128/commits/a581b8177dd6be719a5ef6d3ce4b1e939636bb41"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mintplexlabs.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/0xxx/CVE-2024-0879.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mintplexlabs:vector_admin:-:*:*:*:*:*:*:*"
+	}
+}

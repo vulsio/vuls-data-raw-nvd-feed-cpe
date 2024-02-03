@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:meshcentral:meshcentral:1.0.71",
+	"title": [
+		{
+			"text": "MeshCentral 1.0.71",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://meshcentral.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Ylianst/MeshCentral/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tianjk99/Cryptographic-Misuses/blob/main/CVE-2023-51842.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:meshcentral:meshcentral:1.0.71:*:*:*:*:*:*:*"
+	}
+}

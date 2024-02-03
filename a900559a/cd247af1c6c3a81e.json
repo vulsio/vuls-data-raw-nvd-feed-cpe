@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:enviragallery:envira_gallery:1.8.7.1::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "Envira Gallery 1.8.7.1 Lite Edition for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/envira-gallery-lite/envira-gallery-lite-1872-missing-authorization-to-gallery-modification-via-envira-gallery-insert-images"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/enviragallery/envira-gallery-lite/blob/master/changelog.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://enviragallery.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:enviragallery:envira_gallery:1.8.7.1:*:*:*:lite:wordpress:*:*"
+	}
+}

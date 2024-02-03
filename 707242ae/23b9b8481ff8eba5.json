@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kloudq:tor_equip_gateway:1.0::~~~mqtt~~",
+	"title": [
+		{
+			"text": "kloudq Tor Equip Gateway 1.0 MQTT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://writeups.ayyappan.me/v/tor-iot-mqtt/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://kloudq.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kloudq:tor_equip_gateway:1.0:*:*:*:*:mqtt:*:*"
+	}
+}

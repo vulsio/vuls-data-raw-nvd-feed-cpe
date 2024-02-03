@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cyrusimap:cyrus_sasl:2.1.9",
+	"title": [
+		{
+			"text": "Cyrusimap Cyrus Sasl 2.1.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/cyrusimap/cyrus-sasl/blob/master/lib/common.c"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/10810"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cyrusimap.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyrusimap:cyrus_sasl:2.1.9:*:*:*:*:*:*:*"
+	}
+}

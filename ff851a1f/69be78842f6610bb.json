@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kloudq:tor_loco_min:3.1::~~~mqtt~~",
+	"title": [
+		{
+			"text": "kloudq Tor Loco Min 3.1 MQTT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://writeups.ayyappan.me/v/tor-iot-mqtt/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://kloudq.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kloudq:tor_loco_min:3.1:*:*:*:*:mqtt:*:*"
+	}
+}

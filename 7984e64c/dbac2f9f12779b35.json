@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:commscope:arris_surfboard_sbg6950ac2_firmware:-",
+	"title": [
+		{
+			"text": "CommScope ARRIS SURFboard SBG6950AC2 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.surfboard.com/products/wi-fi-cable-modems/sbg6950ac2/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.exodusintel.com/2024/01/25/arris-surfboard-sbg6950ac2-arbitrary-command-execution-vulnerability/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:commscope:arris_surfboard_sbg6950ac2_firmware:-:*:*:*:*:*:*:*"
+	}
+}

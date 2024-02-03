@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cloud:citrix_storefront:-::~~ltsr~~~",
+	"title": [
+		{
+			"text": "Cloud Citrix StoreFront - Long Term Service Release Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.citrix.com/en-us/storefront/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cloud.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.citrix.com/article/CTX583759/citrix-storefront-security-bulletin-for-cve20235914"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloud:citrix_storefront:-:*:*:*:ltsr:*:*:*"
+	}
+}

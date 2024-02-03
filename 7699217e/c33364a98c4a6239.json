@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpmlmsoftware:wp_mlm_unilevel:4.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPMLMSoftware WP MLM Unilevel 4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wp-mlm/wordpress-wp-mlm-unilevel-plugin-4-0-unauthenticated-arbitrary-file-upload-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpmlmsoftware.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpmlmsoftware:wp_mlm_unilevel:4.0:*:*:*:*:wordpress:*:*"
+	}
+}

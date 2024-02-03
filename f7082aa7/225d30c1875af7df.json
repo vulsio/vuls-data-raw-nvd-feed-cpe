@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpexperts:post_smtp_mailer:2.8.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPExperts Post SMTP 2.8.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/post-smtp/post-smtp-mailer-email-log-delivery-failure-notifications-and-best-mail-smtp-for-wordpress-287-authorization-bypass-via-type-connect-app-api"
+		},
+		{
+			"text": "Product",
+			"href": "https://postmansmtp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/post-smtp/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpexperts:post_smtp_mailer:2.8.7:*:*:*:*:wordpress:*:*"
+	}
+}

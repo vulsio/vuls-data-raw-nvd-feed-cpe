@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:humansignal:label_studio:1.10.1",
+	"title": [
+		{
+			"text": "Humansignal Label Studio 1.10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://humansignal.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://labelstud.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/HumanSignal/label-studio/security/advisories/GHSA-fq23-g58m-799r"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:humansignal:label_studio:1.10.1:*:*:*:*:*:*:*"
+	}
+}

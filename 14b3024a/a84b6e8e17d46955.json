@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:redhat:shim:15.5:rc1",
+	"title": [
+		{
+			"text": "Red Hat Shim 15.5 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2023-40547"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rhboot/shim/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:shim:15.5:rc1:*:*:*:*:*:*"
+	}
+}

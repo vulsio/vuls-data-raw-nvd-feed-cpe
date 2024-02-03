@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpdeveloper:essential_blocks:4.4.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPDeveloper Essential Blocks 4.4.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/essential-blocks/essential-blocks-page-builder-gutenberg-blocks-patterns-templates-446-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/essential-blocks/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpdeveloper.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.4.6:*:*:*:*:wordpress:*:*"
+	}
+}

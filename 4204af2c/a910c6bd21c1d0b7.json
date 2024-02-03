@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:broadcom:symantec_data_center_security_server:14.0.2",
+	"title": [
+		{
+			"text": "Broadcom Symantec Data Center Security Server 14.0.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.broadcom.com/products/cyber-security/endpoint/hybrid-cloud/data-center-security"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.exodusintel.com/2024/01/25/symantec-data-loss-prevention-wp6sr-dll-stack-buffer-overflow-remote-code-execution/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:symantec_data_center_security_server:14.0.2:*:*:*:*:*:*:*"
+	}
+}

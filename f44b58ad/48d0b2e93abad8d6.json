@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hyperledger:ursa:0.3::~~~rust~~",
+	"title": [
+		{
+			"text": "Hyperledger Ursa 0.3 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/hyperledger-archives/ursa/security/advisories/GHSA-2q6j-gqc4-4gw3"
+		},
+		{
+			"text": "Product",
+			"href": "https://wiki.hyperledger.org/display/ursa"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/hyperledger-archives/ursa/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hyperledger:ursa:0.3:*:*:*:*:rust:*:*"
+	}
+}

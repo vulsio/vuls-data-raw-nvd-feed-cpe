@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:phpbb:phpbb:1.4.0",
+	"title": [
+		{
+			"text": "phpBB 1.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/6944"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2001/1xxx/CVE-2001-1471.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpbb:phpbb:1.4.0:*:*:*:*:*:*:*"
+	}
+}

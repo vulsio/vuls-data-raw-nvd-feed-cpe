@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:dingding:2.0::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins Dingding 2.0 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.jenkins.io/doc/pipeline/steps/dingding-json-pusher/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.jenkins.io/security/advisory/2023-12-13/#SECURITY-3184"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:dingding:2.0:*:*:*:*:jenkins:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:southrivertech:titan_sftp_server:2.0.18::~~~linux~~",
+	"title": [
+		{
+			"text": "Southrivertech Titan Sftp Server 2.0.18 for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.rapid7.com/blog/post/2023/10/16/multiple-vulnerabilities-in-south-river-technologies-titan-mft-and-titan-sftp-fixed/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpdesk.southrivertech.com/portal/en/kb/articles/security-patch-for-issues-cve-2023-45685-through-cve-2023-45690"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:southrivertech:titan_sftp_server:2.0.18:*:*:*:*:linux:*:*"
+	}
+}

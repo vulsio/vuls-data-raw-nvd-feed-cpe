@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sedlex:image_zoom:1.8.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sedlex Image Zoom 1.8.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/image-zoom/wordpress-image-zoom-plugin-1-8-8-multiple-broken-access-control-vulnerabilities?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sedlex.fr/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sedlex:image_zoom:1.8.8:*:*:*:*:wordpress:*:*"
+	}
+}

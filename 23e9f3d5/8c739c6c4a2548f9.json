@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:novell:edirectory:8.7.3:sp8:~~~windows~~",
+	"title": [
+		{
+			"text": "Novell Edirectory 8.7.3 Service Pack 8 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/46138"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2008/5xxx/CVE-2008-5038.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:novell:edirectory:8.7.3:sp8:*:*:*:windows:*:*"
+	}
+}

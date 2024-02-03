@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:squid-cache:squid:3.5",
+	"title": [
+		{
+			"text": "squid-cache Squid 3.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/squid-cache/squid/security/advisories/GHSA-rj5h-46j6-q2g5"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/squid-cache/squid/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squid-cache:squid:3.5:*:*:*:*:*:*:*"
+	}
+}

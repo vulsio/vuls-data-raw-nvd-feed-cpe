@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:samperrow:party_resource_hints:1.8.18::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sam Perrow Party Resource Hints 1.8.18 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pre-party-browser-hints/wordpress-pre-party-resource-hints-plugin-1-8-18-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/pre-party-browser-hints/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:samperrow:party_resource_hints:1.8.18:*:*:*:*:wordpress:*:*"
+	}
+}

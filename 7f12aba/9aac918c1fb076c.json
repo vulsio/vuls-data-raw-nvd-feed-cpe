@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:tolvanen:eraser:5.3",
+	"title": [
+		{
+			"text": "Tolvanen Eraser 5.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.tolvanen.com/eraser/#google_vignette"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2002/2xxx/CVE-2002-2068.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/7953"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tolvanen:eraser:5.3:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:owasp:dependency-check:9.0.5::~~~ant~~",
+	"title": [
+		{
+			"text": "Owasp Dependency-check 9.0.5 for Ant",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jeremylong/DependencyCheck/security/advisories/GHSA-qqhq-8r2c-c3f5"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jeremylong/DependencyCheck/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:owasp:dependency-check:9.0.5:*:*:*:*:ant:*:*"
+	}
+}

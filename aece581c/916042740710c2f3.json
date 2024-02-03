@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:canonical:ubuntu_pipewire-pulse:-",
+	"title": [
+		{
+			"text": "Canonical Ubuntu Pipewire-pulse -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.freedesktop.org/pipewire/wireplumber/-/merge_requests/567"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/4xxx/CVE-2022-4964.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:ubuntu_pipewire-pulse:-:*:*:*:*:*:*:*"
+	}
+}

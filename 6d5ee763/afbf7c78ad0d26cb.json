@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:netbox_project:netbox:2.6.6",
+	"deprecated": true,
+	"deprecation_date": "2024-02-02T13:54:53.800Z",
 	"title": [
 		{
 			"text": "netbox Project netbox 2.6.6",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:netbox_project:netbox:2.6.6:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:netbox_project:netbox:2.6.6:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-02T08:54:53.800-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:netbox:netbox:2.6.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

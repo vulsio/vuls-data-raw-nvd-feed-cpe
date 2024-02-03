@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sourcegraph:cody:0.14.0",
+	"title": [
+		{
+			"text": "Sourcegraph Cody 0.14.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://about.sourcegraph.com/cody"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sourcegraph/cody/security/advisories/GHSA-8wmq-fwv7-xmwq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sourcegraph:cody:0.14.0:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:cloudlinux:cagefs:-",
+	"title": [
+		{
+			"text": "CloudLinux CageFS -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://blog.cloudlinux.com/cagefs-lve-wrappers-and-bsock-have-been-rolled-out-to-100"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://packetstormsecurity.com/files/176790/CloudLinux-CageFS-7.1.1-1-Token-Disclosure.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cloudlinux:cagefs:-:*:*:*:*:*:*:*"
+	}
+}

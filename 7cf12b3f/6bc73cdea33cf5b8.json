@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:libssh:libssh:0.9.8",
+	"title": [
+		{
+			"text": "Libssh 0.9.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "http://git.libssh.org/projects/libssh.git/refs/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.com/libssh/libssh-mirror/-/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.libssh.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:libssh:libssh:0.9.8:*:*:*:*:*:*:*"
+	}
+}

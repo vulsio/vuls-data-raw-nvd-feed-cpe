@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:omron:sysmac_studio:-",
+	"title": [
+		{
+			"text": "Omron Sysmac Studio -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2022/45xxx/CVE-2022-45792.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://automation.omron.com/en/us/products/family/sysstdio"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:omron:sysmac_studio:-:*:*:*:*:*:*:*"
+	}
+}

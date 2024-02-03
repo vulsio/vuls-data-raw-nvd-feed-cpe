@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:popsdiabetes:rebel:5.0::~~~android~~",
+	"title": [
+		{
+			"text": "Pops Diabetes Care Rebel 5.0 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://popsdiabetes.com/products/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/rebel/blob/main/CWE-319.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.pops.pops"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:popsdiabetes:rebel:5.0:*:*:*:*:android:*:*"
+	}
+}

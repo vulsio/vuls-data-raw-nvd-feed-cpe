@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:python:pillow:9.4.0",
+	"title": [
+		{
+			"text": "Python Pillow 9.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://duartecsantos.github.io/2023-01-02-CVE-2023-50447/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openwall.com/lists/oss-security/2024/01/20/1"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/python-pillow/Pillow/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:python:pillow:9.4.0:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:kloudq:tor_lenz:0.0.1::~~~mqtt~~",
+	"title": [
+		{
+			"text": "kloudq Tor Lenz 0.0.1 MQTT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://writeups.ayyappan.me/v/tor-iot-mqtt/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://kloudq.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:kloudq:tor_lenz:0.0.1:*:*:*:*:mqtt:*:*"
+	}
+}

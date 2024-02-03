@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:redis:redisraft:-",
+	"title": [
+		{
+			"text": "Redis Redisraft -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://redis.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://seclists.org/fulldisclosure/2024/Jan/13"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/RedisLabs/redisraft"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redis:redisraft:-:*:*:*:*:*:*:*"
+	}
+}

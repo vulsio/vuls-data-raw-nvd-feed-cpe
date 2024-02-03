@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:flexera:installshield:2020:r3sp1",
+	"title": [
+		{
+			"text": "Flexera InstallShield 2020 R3 Service Pack 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://community.flexera.com/t5/InstallShield-Knowledge-Base/CVE-2023-29081-InstallShield-Symlink-Vulnerability-Affecting/ta-p/305052"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.revenera.com/installshield26helplib/rn/Content/helplibrary/ReleaseNotes.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:flexera:installshield:2020:r3sp1:*:*:*:*:*:*"
+	}
+}

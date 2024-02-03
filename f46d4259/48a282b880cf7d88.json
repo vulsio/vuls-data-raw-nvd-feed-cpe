@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:estatik:estatik:4.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Estatik 4.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/74cb07fe-fc82-472f-8c52-859c176d9e51/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://estatik.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/estatik/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:estatik:estatik:4.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

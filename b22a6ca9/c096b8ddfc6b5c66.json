@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:uniview:isc_2500-s_firmware:-",
+	"title": [
+		{
+			"text": "Uniview ISC 2500-S FIRMWARE -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.uniview.com/res/202305/16/20230516_1880895_UNV%20ISC2500-SCT-G-OS%20ITS%20Terminal%20Datesheet_V1.00_970842_140445_0.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.251696"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/dezhoutorizhao/cve/blob/main/rce.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:uniview:isc_2500-s_firmware:-:*:*:*:*:*:*:*"
+	}
+}

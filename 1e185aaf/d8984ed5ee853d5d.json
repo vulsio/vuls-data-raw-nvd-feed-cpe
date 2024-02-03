@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hono:node-server:1.3.5::~~~node.js~~",
+	"title": [
+		{
+			"text": "Hono Node-server 1.3.5 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/honojs/node-server/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/honojs/node-server/security/advisories/GHSA-rjq5-w47x-x359"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://hono.dev/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hono:node-server:1.3.5:*:*:*:*:node.js:*:*"
+	}
+}

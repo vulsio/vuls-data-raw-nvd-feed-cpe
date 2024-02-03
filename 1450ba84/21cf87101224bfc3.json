@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:provectus:ui:0.5.0::~~~kafka~~",
+	"title": [
+		{
+			"text": "Provectus Ui 0.5.0 for Kafka",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/provectus/kafka-ui/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://provectus.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BobTheShoplifter/CVE-2023-52251-POC"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:provectus:ui:0.5.0:*:*:*:*:kafka:*:*"
+	}
+}

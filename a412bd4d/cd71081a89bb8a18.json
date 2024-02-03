@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jannisthuemmig:email_encoder:2.1.10::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Jannisthuemmig Email Encoder 2.1.10 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/email-encoder-bundle/email-encoder-protect-email-addresses-and-phone-numbers-219-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/email-encoder-bundle/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jannisthuemmig:email_encoder:2.1.10:*:*:*:*:wordpress:*:*"
+	}
+}

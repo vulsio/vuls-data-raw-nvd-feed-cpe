@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:broadcom:symantec_deployment_solutions:7.9",
+	"title": [
+		{
+			"text": "Broadcom Symantec Deployment Solutions 7.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://docs.broadcom.com/doc/deployment-solution-en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.exodusintel.com/2024/01/25/symantec-deployment-solution-axengine-exe-buffer-overflow-remote-code-execution/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:symantec_deployment_solutions:7.9:*:*:*:*:*:*:*"
+	}
+}

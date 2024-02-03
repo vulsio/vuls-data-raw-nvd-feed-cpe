@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:devicefarmer:smartphone_test_farm:3.6.1",
+	"title": [
+		{
+			"text": "DeviceFarmer Smartphone Test Farm 3.6.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/DeviceFarmer/stf/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/tianjk99/Cryptographic-Misuses/blob/main/CVE-2023-51839.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:devicefarmer:smartphone_test_farm:3.6.1:*:*:*:*:*:*:*"
+	}
+}

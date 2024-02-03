@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:nvidia:bluefield_bmc:23.04::~~-~~~",
+	"title": [
+		{
+			"text": "NVIDIA Bluefield Bmc 23.04 - Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.nvidia.com/networking/display/bluefieldbmcv2310"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5511"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:bluefield_bmc:23.04:*:*:*:-:*:*:*"
+	}
+}

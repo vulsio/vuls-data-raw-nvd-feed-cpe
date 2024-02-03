@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:huawei:openeuler:4.19.90-2401.3::~~-~~~",
+	"title": [
+		{
+			"text": "Huawei Openeuler 4.19.90-2401.3 - Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2021/33xxx/CVE-2021-33630.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.openeuler.org/zh/security/security-bulletins/detail/?id=openEuler-SA-2024-1030"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitee.com/src-openeuler/kernel/pulls/1389"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:huawei:openeuler:4.19.90-2401.3:*:*:*:-:*:*:*"
+	}
+}

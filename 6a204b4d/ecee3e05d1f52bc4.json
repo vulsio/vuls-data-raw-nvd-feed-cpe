@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:projectworlds:online_time_table_generator:1.0",
+	"title": [
+		{
+			"text": "Projectworlds Online Time Table Generator 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://torada.notion.site/SQL-injection-at-course_ajax-php-485d8cca5f8c43dfb1f76c7336a4a45e"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.251553"
+		},
+		{
+			"text": "Product",
+			"href": "https://projectworlds.in/online-time-table-generator-php-mysql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:projectworlds:online_time_table_generator:1.0:*:*:*:*:*:*:*"
+	}
+}

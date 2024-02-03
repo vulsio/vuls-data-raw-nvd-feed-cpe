@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpuserplus:userplus:2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPUserPlus UserPlus 2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wordpress.org/plugins/userplus/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/48a3a542-9130-4524-9d19-ff9eccecb148/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpuserplus:userplus:2.0:*:*:*:*:wordpress:*:*"
+	}
+}

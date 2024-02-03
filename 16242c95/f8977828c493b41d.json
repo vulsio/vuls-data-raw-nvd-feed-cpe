@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:keap:official_opt-in_forms:1.0.11::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Keap Official Opt-in Forms 1.0.11 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/58f7c9aa-5e59-468f-aba9-b15e7942fd37/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://keap.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://ve.wordpress.org/plugins/infusionsoft-official-opt-in-forms/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:keap:official_opt-in_forms:1.0.11:*:*:*:*:wordpress:*:*"
+	}
+}

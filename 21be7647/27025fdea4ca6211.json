@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:andersthorborg:advanced_custom_fields%3aimage_crop_add-on:1.4.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Anders Thorborg Advanced Custom Fields:Image Crop Add-on 1.4.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/acf-image-crop-add-on/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/acf-image-crop-add-on/wordpress-advanced-custom-fields-image-crop-add-on-plugin-1-4-12-broken-access-control?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:andersthorborg:advanced_custom_fields\\:image_crop_add-on:1.4.12:*:*:*:*:wordpress:*:*"
+	}
+}

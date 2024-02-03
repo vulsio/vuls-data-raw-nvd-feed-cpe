@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:atlassian:confluence_data_center:7.19.18",
+	"title": [
+		{
+			"text": "Atlassian Confluence Data Center 7.19.18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.atlassian.com/enterprise/data-center/confluence"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/21xxx/CVE-2024-21672.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:confluence_data_center:7.19.18:*:*:*:*:*:*:*"
+	}
+}

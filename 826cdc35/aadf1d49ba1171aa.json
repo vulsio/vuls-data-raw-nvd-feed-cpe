@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:contiki-ng:tinydtls:-",
+	"title": [
+		{
+			"text": "Contiki-ng Tinydtls -",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/contiki-ng/tinydtls"
+		},
+		{
+			"text": "Advisory",
+			"href": "http://packetstormsecurity.com/files/176625/Contiki-NG-tinyDTLS-Denial-Of-Service.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contiki-ng:tinydtls:-:*:*:*:*:*:*:*"
+	}
+}

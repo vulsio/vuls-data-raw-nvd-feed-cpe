@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:atlassian:confluence_data_center:8.7.1",
+	"title": [
+		{
+			"text": "Atlassian Confluence Data Center 8.7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.atlassian.com/enterprise/data-center/confluence"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://confluence.atlassian.com/security/cve-2023-22527-rce-remote-code-execution-vulnerability-in-confluence-data-center-and-confluence-server-1333990257.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:atlassian:confluence_data_center:8.7.1:*:*:*:*:*:*:*"
+	}
+}

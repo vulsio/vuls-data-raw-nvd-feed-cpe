@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:broadcom:symantec_messaging_gateway:10.5",
+	"title": [
+		{
+			"text": "Broadcom Symantec Messaging Gateway (SMG) 10.5",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.broadcom.com/products/cyber-security/network/messaging/gateway"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://blog.exodusintel.com/2024/01/25/symantec-messaging-gateway-libdec2lha-so-stack-buffer-overflow-remote-code-execution/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:broadcom:symantec_messaging_gateway:10.5:*:*:*:*:*:*:*"
+	}
+}

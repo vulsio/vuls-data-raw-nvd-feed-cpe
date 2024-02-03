@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:elisebosse:frontpage_manager:1.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Elise Bosse Frontpage Manager 1.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wpsocket.com/plugin/frontpage-manager/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/22xxx/CVE-2024-22285.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:elisebosse:frontpage_manager:1.3:*:*:*:*:wordpress:*:*"
+	}
+}
