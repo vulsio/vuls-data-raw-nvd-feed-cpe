@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cratedb:cratedb:0.2.1",
+	"title": [
+		{
+			"text": "CrateDB 0.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://cratedb.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/crate/crate/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/crate/crate/security/advisories/GHSA-475g-vj6c-xf96"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cratedb:cratedb:0.2.1:*:*:*:*:*:*:*"
+	}
+}
