@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:pivotal:reactor_netty:1.0.31",
+	"title": [
+		{
+			"text": "Pivotal Reactor Netty 1.0.31",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://spring.io/security/cve-2023-34054"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/reactor/reactor-netty/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pivotal:reactor_netty:1.0.31:*:*:*:*:*:*:*"
+	}
+}

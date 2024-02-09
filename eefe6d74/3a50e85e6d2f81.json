@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:truelayer:truelayer.net:1.0.0",
+	"title": [
+		{
+			"text": "Truelayer Truelayer.NET 1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/TrueLayer/truelayer-dotnet/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://truelayer.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/TrueLayer/truelayer-dotnet/security/advisories/GHSA-67m4-qxp3-j6hh"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:truelayer:truelayer.net:1.0.0:*:*:*:*:*:*:*"
+	}
+}
