@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nettica:intellipeer_email_server:-",
+	"title": [
+		{
+			"text": "Nettica Corporation Intellipeer Email Server",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/17510"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.opencve.io/cve/CVE-2004-2150"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://nettica.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nettica:intellipeer_email_server:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:nrl.navy:one-time_passwords_in_everything:2.32",
+	"title": [
+		{
+			"text": "U.S. Naval Research Laboratory One-time Passwords In Everything (OPIE) 2.32",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/7572"
+		},
+		{
+			"text": "Product",
+			"href": "https://en.wikipedia.org/wiki/OPIE_Authentication_System#:~:text=OPIE%20is%20the%20initialism%20of,and%20safe%20against%20shoulder%20surfing."
+		},
+		{
+			"text": "Product",
+			"href": "https://www.usenix.org/legacy/publications/library/proceedings/security95/full_papers/mcdonald.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.nrl.navy.mil/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nrl.navy:one-time_passwords_in_everything:2.32:*:*:*:*:*:*:*"
+	}
+}

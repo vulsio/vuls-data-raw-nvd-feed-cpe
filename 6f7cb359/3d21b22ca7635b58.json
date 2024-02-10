@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:network.associates:pgpfire:7.1::~~~windows~~",
+	"title": [
+		{
+			"text": "Network Associates PGPfire 7.1 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2002-0208"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.eweek.com/networking/network-associates-cuts-pgp-unit/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.network.associates/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:network.associates:pgpfire:7.1:*:*:*:*:windows:*:*"
+	}
+}
