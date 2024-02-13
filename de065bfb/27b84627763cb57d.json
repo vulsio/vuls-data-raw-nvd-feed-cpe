@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:fastapi_project:fastapi:0.9.1",
+	"deprecated": true,
+	"deprecation_date": "2024-02-12T20:04:00.283Z",
 	"title": [
 		{
 			"text": "FastAPI Project FastAPI 0.9.1",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:fastapi_project:fastapi:0.9.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:fastapi_project:fastapi:0.9.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-12T15:04:00.283-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tiangolo:fastapi:0.9.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:vmware:spring_security:5.4.9",
+	"title": [
+		{
+			"text": "VMware Spring Security 5.4.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://spring.io/security/cve-2023-34042"
+		},
+		{
+			"text": "Product",
+			"href": "https://spring.io/projects/spring-security"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/spring-projects/spring-security/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:spring_security:5.4.9:*:*:*:*:*:*:*"
+	}
+}
