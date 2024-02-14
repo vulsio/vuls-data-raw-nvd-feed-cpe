@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:ai_engine_project:ai_engine:1.2.30::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-02-13T17:16:52.537Z",
 	"title": [
 		{
 			"text": "AI Engine Project AI Engine 1.2.30 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ai_engine_project:ai_engine:1.2.30:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:ai_engine_project:ai_engine:1.2.30:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-02-13T12:16:52.537-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:meowapps:ai_engine:1.2.30:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
