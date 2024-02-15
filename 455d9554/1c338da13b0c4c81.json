@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:apache:ozone:1.2.0",
+	"deprecated": true,
+	"deprecation_date": "2024-02-14T17:22:43.840Z",
 	"title": [
 		{
 			"text": "Apache Software Foundation Ozone 1.2.0",
@@ -14,13 +16,16 @@
 		{
 			"text": "Product",
 			"href": "https://ozone.apache.org/"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://mail-archives.apache.org/mod_mbox/ozone-dev/202111.mbox/%3C5029c1ac-4685-8492-e3cb-ab48c5c370cf%40apache.org%3E"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:apache:ozone:1.2.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:apache:ozone:1.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-14T12:22:43.840-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:ozone:1.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

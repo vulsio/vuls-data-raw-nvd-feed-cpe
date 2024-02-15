@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:10web:ai_assistant:1.0.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "TenWeb AI Assistant 1.0.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ai-assistant-by-10web/10web-ai-assistant-ai-content-writing-assistant-1018-missing-authorization-to-arbitrary-plugin-installation"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ai-assistant-by-10web/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:10web:ai_assistant:1.0.12:*:*:*:*:wordpress:*:*"
+	}
+}
