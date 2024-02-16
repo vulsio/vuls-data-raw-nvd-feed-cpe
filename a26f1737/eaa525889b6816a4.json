@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:3d_flipbook_project:3d_flipbook:1.13.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-02-15T19:19:26.437Z",
 	"title": [
 		{
 			"text": "3D FlipBook Project 3D FlipBook 1.13.3 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:3d_flipbook_project:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:3d_flipbook_project:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-02-15T14:19:26.437-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:3dflipbook:3d_flipbook:1.13.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

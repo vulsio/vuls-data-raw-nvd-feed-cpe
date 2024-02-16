@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:themewinter:eventin:3.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Themewinter Eventin 3.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://themewinter.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-event-solution/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-event-solution/event-manager-events-calendar-events-tickets-for-woocommerce-eventin-3350-missing-authorization-to-unauthenticated-events-export"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themewinter:eventin:3.1.0:*:*:*:*:wordpress:*:*"
+	}
+}

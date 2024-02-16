@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ays-pro:quiz_maker:6.5.2.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AYS Pro Quiz Maker 6.5.2.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/quiz-maker/quiz-maker-6524-missing-authorization-to-authenticated-subscriber-arbitrary-quiz-creation-modification"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/quiz-maker/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ays-pro:quiz_maker:6.5.2.4:*:*:*:*:wordpress:*:*"
+	}
+}
