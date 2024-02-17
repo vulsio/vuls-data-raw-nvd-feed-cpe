@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:whodunit:gdpr_data_request_form:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Whodunit GDPR Data Request Form for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.whodunit.fr/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wordpress.org/plugins/gdpr-data-request-form/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/gdpr-data-request-form/wordpress-gdpr-data-request-form-plugin-1-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:whodunit:gdpr_data_request_form:-:*:*:*:*:wordpress:*:*"
+	}
+}

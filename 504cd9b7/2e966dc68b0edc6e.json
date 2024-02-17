@@ -1,0 +1,27 @@
+{
+	"name": "cpe:/a:shopping_website_project:shopping_website:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-02-16T19:42:23.903Z",
+	"title": [
+		{
+			"text": "Shopping Website Project Shopping Website 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://www.sourcecodester.com/php/13834/shopping-website.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:shopping_website_project:shopping_website:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-16T14:42:23.903-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sanchitkmr:shopping_website:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

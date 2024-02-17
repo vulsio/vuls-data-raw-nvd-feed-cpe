@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:advanced_category_template_project:advanced_category_template:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-02-16T20:54:36.037Z",
 	"title": [
 		{
 			"text": "Advanced Category Template Project Advanced Category Template for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:advanced_category_template_project:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-02-16T15:54:36.037-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:praveengoswami:advanced_category_template:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

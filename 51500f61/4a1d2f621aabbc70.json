@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:web-soudan:mw_wp_form:0.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "web-soudan MW WP Form 0.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://web-soudan.co.jp/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mw-wp-form/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/mw-wp-form/wordpress-mw-wp-form-plugin-5-0-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:web-soudan:mw_wp_form:0.8:*:*:*:*:wordpress:*:*"
+	}
+}

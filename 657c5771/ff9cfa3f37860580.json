@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mattermost:mattermost_server:9.2.0",
+	"deprecated": true,
+	"deprecation_date": "2024-02-16T14:56:38.673Z",
 	"title": [
 		{
 			"text": "Mattermost Server 9.2.0",
@@ -8,11 +10,26 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://mattermost.com/security-updates/"
+			"text": "Change Log",
+			"href": "https://github.com/mattermost/mattermost/releases"
+		},
+		{
+			"text": "Product",
+			"href": "https://mattermost.com/download/#server"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://mattermost.com/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mattermost:mattermost_server:9.2.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mattermost:mattermost_server:9.2.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-16T09:56:38.673-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mattermost:mattermost_server:9.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

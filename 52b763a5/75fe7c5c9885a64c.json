@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpforms:wpforms:1.6.2::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "WPForms 1.6.2 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpforms/wpforms-pro-1853-unauthenticated-stored-cross-site-scripting-via-form-submission"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wpforms.com/docs/how-to-view-recent-changes-to-the-wpforms-plugin-changelog/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpforms.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpforms:wpforms:1.6.2:*:*:*:pro:wordpress:*:*"
+	}
+}

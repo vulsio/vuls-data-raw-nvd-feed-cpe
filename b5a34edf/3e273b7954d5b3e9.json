@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:blubrry:powerpress:11.0.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Blubrry PowerPress 11.0.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://blubrry.com/services/powerpress-plugin/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/e866a214-a142-43c7-b93d-ff2301a3e432/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blubrry:powerpress:11.0.12:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:shopping_website_%28e-commerce%29_project:shopping_website_%28e-commerce%29:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-02-16T19:42:23.903Z",
 	"title": [
 		{
 			"text": "Shopping Website (E-Commerce) Project Shopping Website (E-Commerce) 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:shopping_website_\\(e-commerce\\)_project:shopping_website_\\(e-commerce\\):1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:shopping_website_\\(e-commerce\\)_project:shopping_website_\\(e-commerce\\):1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-16T14:42:23.903-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sanchitkmr:shopping_website:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

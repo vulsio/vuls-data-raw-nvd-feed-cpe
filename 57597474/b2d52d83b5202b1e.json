@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:sinch:mailjet:3.4.15::~~~prestashop~~",
+	"title": [
+		{
+			"text": "Sinch Mailjet 3.4.15 for PrestaShop",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.sinch.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://dev.mailjet.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mailjet/prestashop-mailjet-plugin-apiv3/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.friendsofpresta.org/modules/2024/02/06/mailjet.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sinch:mailjet:3.4.15:*:*:*:*:prestashop:*:*"
+	}
+}

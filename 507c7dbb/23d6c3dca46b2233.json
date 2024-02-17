@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:praveengoswami:advanced_category_template:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Praveen Goswami Advanced Category Template for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/advanced-category-template/wordpress-advanced-category-template-plugin-0-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/advanced-category-template/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:praveengoswami:advanced_category_template:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpautolistings:auto_listings:2.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Auto Listings Auto Listings 2.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/auto-listings/wordpress-auto-listings-plugin-2-6-5-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/auto-listings/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpautolistings.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpautolistings:auto_listings:2.1.2:*:*:*:*:wordpress:*:*"
+	}
+}

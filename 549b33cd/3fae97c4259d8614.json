@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:yarnpkg:yarn:1.22.15",
+	"title": [
+		{
+			"text": "Yarnpkg Yarn 1.22.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2262284"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/yarnpkg/yarn/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yarnpkg:yarn:1.22.15:*:*:*:*:*:*:*"
+	}
+}
