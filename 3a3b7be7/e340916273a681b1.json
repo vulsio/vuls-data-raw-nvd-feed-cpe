@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:debian:pyftpd:0.8.4",
+	"title": [
+		{
+			"text": "Debian Pyftpd 0.8.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=585776"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/59431"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:debian:pyftpd:0.8.4:*:*:*:*:*:*:*"
+	}
+}
