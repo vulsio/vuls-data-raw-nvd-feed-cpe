@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:azure_file_sync:1.1.0.0",
+	"title": [
+		{
+			"text": "Microsoft Azure File Sync 1.1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/azure/storage/file-sync/file-sync-release-notes"
+		},
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/azure/storage/file-sync/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.microsoft.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_file_sync:1.1.0.0:*:*:*:*:*:*:*"
+	}
+}
