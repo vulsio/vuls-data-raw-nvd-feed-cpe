@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:generatepress:generatepress:1.0.2::~~premium~wordpress~~",
+	"title": [
+		{
+			"text": "GeneratePress 1.0.2 Premium Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://generatepress.com/premium/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/generatepress/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/generatepress-premium/generatepress-premium-232-authenticatedcontributor-stored-cross-site-scripting-via-custom-meta"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:generatepress:generatepress:1.0.2:*:*:*:premium:wordpress:*:*"
+	}
+}

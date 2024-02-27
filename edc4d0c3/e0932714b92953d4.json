@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:apple:safari:17.3",
+	"deprecated": true,
+	"deprecation_date": "2024-02-26T18:24:09.520Z",
 	"title": [
 		{
 			"text": "Apple Safari 17.3",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:apple:safari:17.3:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:apple:safari:17.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-26T13:24:09.520-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apple:safari:17.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
