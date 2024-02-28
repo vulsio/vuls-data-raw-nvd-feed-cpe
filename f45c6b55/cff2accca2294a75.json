@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:openssh:openssh:9.1",
+	"deprecated": true,
+	"deprecation_date": "2024-02-27T15:15:13.543Z",
 	"title": [
 		{
 			"text": "OpenSSH OpenSSH 9.1",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:openssh:openssh:9.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-27T10:15:13.543-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openbsd:openssh:9.1:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
