@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:zte:red_magic_8_pro:-",
+	"deprecated": true,
+	"deprecation_date": "2024-02-28T14:42:44.940Z",
 	"title": [
 		{
 			"text": "ZTE RED MAGIC 8 PRO -",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:zte:red_magic_8_pro:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:zte:red_magic_8_pro:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-02-28T09:42:44.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:zte:redmagic_8_pro:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
