@@ -1,0 +1,18 @@
+{
+	"name": "cpe:/a:postgresql:postgresql:15.6",
+	"title": [
+		{
+			"text": "PostgreSQL 15.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.postgresql.org/support/security/CVE-2024-0985/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:postgresql:postgresql:15.6:*:*:*:*:*:*:*"
+	}
+}

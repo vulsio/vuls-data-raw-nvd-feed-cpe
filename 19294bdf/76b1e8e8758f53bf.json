@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:notaryproject:notation:0.10.0:alpha3:~~~go~~",
+	"deprecated": true,
+	"deprecation_date": "2024-02-29T21:16:48.643Z",
 	"title": [
 		{
-			"text": "Notaryproject Notation 0.10.0 Alpha 3 for Go",
+			"text": "Notary Project notation-go 0.10.0 Alpha 3 for Go",
 			"lang": "en-US"
 		}
 	],
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:notaryproject:notation:0.10.0:alpha3:*:*:*:go:*:*"
+		"name": "cpe:2.3:a:notaryproject:notation:0.10.0:alpha3:*:*:*:go:*:*",
+		"deprecation": {
+			"date": "2024-02-29T16:16:48.643-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:notaryproject:notation-go:0.10.0:alpha3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
