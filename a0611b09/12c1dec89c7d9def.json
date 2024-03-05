@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:curl:curl:8.4.0",
+	"title": [
+		{
+			"text": "Curl Curl 8.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/curl/curl/commit/af3f4e41#r127212213"
+		},
+		{
+			"text": "Product",
+			"href": "https://curl.se/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/52xxx/CVE-2023-52071.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*"
+	}
+}
