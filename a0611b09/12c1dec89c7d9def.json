@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:curl:curl:8.4.0",
+	"deprecated": true,
+	"deprecation_date": "2024-03-05T18:01:23.483Z",
 	"title": [
 		{
 			"text": "Curl Curl 8.4.0",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:curl:curl:8.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-05T13:01:23.483-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:haxx:curl:8.4.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
