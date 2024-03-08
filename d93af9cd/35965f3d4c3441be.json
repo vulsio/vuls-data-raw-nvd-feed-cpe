@@ -2,11 +2,15 @@
 	"name": "cpe:/a:nodejs:node.js:4.8.6::~~lts~~~",
 	"title": [
 		{
-			"text": "Nodejs Node.js 4.8.6 LTS",
+			"text": "Nodejs Node.js 4.8.6 LTS Edition",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md"
+		},
 		{
 			"text": "Version",
 			"href": "https://nodejs.org/docs/"

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:axis:axis_os:11.8.61::~~active~~~",
+	"title": [
+		{
+			"text": "AXIS OS 11.8.61 Active Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://help.axis.com/en-us/axis-os-release-notes#lts-2020-9-80"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.axis.com/dam/public/89/d9/99/cve-2023-5800-en-US-424339.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:axis:axis_os:11.8.61:*:*:*:active:*:*:*"
+	}
+}

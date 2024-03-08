@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:16.20.1::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:24:39.437Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 16.20.1 - Edition",
@@ -8,11 +10,22 @@
 	],
 	"references": [
 		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V16.md"
+		},
+		{
 			"text": "Advisory",
 			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/32xxx/CVE-2023-32006.json"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:24:39.437-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:16.20.1:*:*:*:lts:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

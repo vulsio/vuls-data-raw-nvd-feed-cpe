@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:8.2.0::~~lts~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:59:37.087Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 8.2.0 LTS Edition",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V8.md"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://nodejs.org/download/release/"
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:8.2.0:*:*:*:lts:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:8.2.0:*:*:*:lts:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:59:37.087-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:8.2.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

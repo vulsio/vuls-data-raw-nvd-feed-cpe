@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:6.3.1::~~lts~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:54:36.307Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 6.3.1 LTS Edition",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://nodejs.org/download/release/"
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:6.3.1:*:*:*:lts:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:6.3.1:*:*:*:lts:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:54:36.307-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:6.3.1:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

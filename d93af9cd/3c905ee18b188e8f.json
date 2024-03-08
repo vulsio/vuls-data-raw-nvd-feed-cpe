@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:20.8.0",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:24:39.437Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 20.8.0",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V20.md"
+		},
 		{
 			"text": "Version",
 			"href": "https://nodejs.org/en/download/releases"
@@ -21,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:24:39.437-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:20.8.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

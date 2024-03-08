@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:4.7.0::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:48:04.147Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 4.7.0",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md"
+		},
 		{
 			"text": "Version",
 			"href": "https://nodejs.org/download/docs/"
@@ -29,6 +35,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:4.7.0:*:*:*:-:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:4.7.0:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:48:04.147-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:4.7.0:*:*:*:lts:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:6.9.3::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:54:36.307Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 6.9.3",
@@ -8,8 +10,24 @@
 	],
 	"references": [
 		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V6.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://nodejs.org/docs/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://nodejs.org/en/"
+		},
+		{
 			"text": "Version",
-			"href": "https://nodejs.org/dist/latest-v8.x/"
+			"href": "https://nodejs.org/en/download/releases/"
+		},
+		{
+			"text": "Version",
+			"href": "https://nodejs.org/dist/"
 		},
 		{
 			"text": "Vendor",
@@ -17,22 +35,17 @@
 		},
 		{
 			"text": "Version",
-			"href": "https://nodejs.org/dist/"
-		},
-		{
-			"text": "Version",
-			"href": "https://nodejs.org/en/download/releases/"
-		},
-		{
-			"text": "Vendor",
-			"href": "https://nodejs.org/en/"
-		},
-		{
-			"text": "Change Log",
-			"href": "https://nodejs.org/docs/"
+			"href": "https://nodejs.org/dist/latest-v8.x/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:6.9.3:*:*:*:-:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:6.9.3:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:54:36.307-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:6.9.3:*:*:*:lts:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

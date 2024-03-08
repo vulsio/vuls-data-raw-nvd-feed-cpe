@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nodejs:node.js:4.2.3::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:48:04.147Z",
 	"title": [
 		{
 			"text": "Nodejs Node.js 4.2.3",
@@ -9,19 +11,11 @@
 	"references": [
 		{
 			"text": "Change Log",
-			"href": "https://nodejs.org/docs/"
-		},
-		{
-			"text": "Change Log",
-			"href": "https://github.com/nodejs/node/blob/master/CHANGELOG.md"
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V4.md"
 		},
 		{
 			"text": "Version",
-			"href": "https://github.com/nodejs/node"
-		},
-		{
-			"text": "Version",
-			"href": "https://nodejs.org/download/docs/"
+			"href": "https://nodejs.org/en/download/releases/"
 		},
 		{
 			"text": "Vendor",
@@ -29,10 +23,29 @@
 		},
 		{
 			"text": "Version",
-			"href": "https://nodejs.org/en/download/releases/"
+			"href": "https://nodejs.org/download/docs/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nodejs/node"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/master/CHANGELOG.md"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://nodejs.org/docs/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:4.2.3:*:*:*:-:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:4.2.3:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:48:04.147-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:4.2.3:*:*:*:lts:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

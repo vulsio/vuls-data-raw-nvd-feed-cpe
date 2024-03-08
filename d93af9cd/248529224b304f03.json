@@ -1,12 +1,18 @@
 {
 	"name": "cpe:/a:nodejs:node.js:13.9.0::~~lts~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-03-07T21:24:39.437Z",
 	"title": [
 		{
-			"text": "Nodejs Node.js 13.9.0 LTS Edition",
+			"text": "Nodejs Node.js 13.9.0",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/nodejs/node/blob/main/doc/changelogs/CHANGELOG_V13.md"
+		},
 		{
 			"text": "Version",
 			"href": "https://nodejs.org/en/download/releases/"
@@ -21,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:lts:*:*:*"
+		"name": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:lts:*:*:*",
+		"deprecation": {
+			"date": "2024-03-07T16:24:39.437-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nodejs:node.js:13.9.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
