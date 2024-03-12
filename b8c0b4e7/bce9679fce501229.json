@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:linux:linux_kernel:3.10",
+	"deprecated": true,
+	"deprecation_date": "2024-03-11T15:23:15.143Z",
 	"title": [
 		{
 			"text": "Linux Kernel 3.10",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:linux:linux_kernel:3.10:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:linux:linux_kernel:3.10:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-11T11:23:15.143-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:linux:linux_kernel:3.10:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

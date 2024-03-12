@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:hp:laserjet_8150:-",
+	"title": [
+		{
+			"text": "HP LaserJet 8150",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/9695"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2002/1xxx/CVE-2002-1796.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hp:laserjet_8150:-:*:*:*:*:*:*:*"
+	}
+}
