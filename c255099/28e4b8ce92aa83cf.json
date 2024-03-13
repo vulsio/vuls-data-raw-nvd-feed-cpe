@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:microsoft:visual_c%2b%2b:8.0",
+	"deprecated": true,
+	"deprecation_date": "2024-03-12T17:15:30.693Z",
 	"title": [
 		{
 			"text": "Microsoft visual_c++ 8.0",
@@ -7,6 +9,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:microsoft:visual_c\\+\\+:8.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-12T13:15:30.693-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:visual_c\\+\\+:2005:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
