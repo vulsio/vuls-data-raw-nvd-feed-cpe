@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:qnap:qts:4.3.6.1286",
+	"deprecated": true,
+	"deprecation_date": "2024-03-20T13:57:27.073Z",
 	"title": [
 		{
 			"text": "QNAP QTS 4.3.6.1286",
@@ -7,6 +9,126 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.qnap.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-23-25"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en/release-notes/quts_hero/overview/h4.5.4"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en/release-notes/qts/overview/5.1.0"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en/release-notes/qts/overview/5.0.1"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en/release-notes/qts/overview/4.5.4"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-23-60"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-23-10"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/overview/5.0.1"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/quts_hero/overview/h5.0.1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-22-16"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/quts_hero/h5.0.0.1900/20211228"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1986/20220324"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-22-13"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/5.0.0.1716/20210701"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-21-33"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-21-03"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/zh-tw/security-advisory/qsa-21-14"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/4.5.3.1670/20210515"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/4.5.2.1594/20210302"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-21-11"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/4.5.1.1495/20201123"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/zh-tw/security-advisory/qsa-20-01"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/release-notes/qts/4.3.4.1282/20200408"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/zh-hk/release-notes/qts/4.4.2.1247/20200318"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/zh-hk/releasenotes/index.php?cat_choose=5"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.qnap.com/zh-hk/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/zh-hk/releasenotes/"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.qnap.com/en-us/releasenotes/"
+		},
 		{
 			"text": "Vendor",
 			"href": "https://www.qnap.com/en-us/"
@@ -21,6 +143,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:qnap:qts:4.3.6.1286:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:qnap:qts:4.3.6.1286:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-20T09:57:27.073-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:qnap:qts:4.3.6.1286:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

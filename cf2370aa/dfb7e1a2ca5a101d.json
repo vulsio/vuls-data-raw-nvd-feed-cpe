@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:xt-commerce:xt%3acommerce:6.1.1",
+	"deprecated": true,
+	"deprecation_date": "2024-03-20T12:03:24.250Z",
 	"title": [
 		{
 			"text": "xt:Commerce 6.1.1",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:xt-commerce:xt\\:commerce:6.1.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:xt-commerce:xt\\:commerce:6.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-20T08:03:24.250-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:xt-commerce:xt-commerce:6.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
