@@ -1,12 +1,27 @@
 {
 	"name": "cpe:/a:microsoft:visual_studio:2005",
+	"deprecated": true,
+	"deprecation_date": "2024-03-25T12:06:28.980Z",
 	"title": [
 		{
 			"text": "Microsoft Visual Studio 2005",
 			"lang": "en-US"
 		}
 	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.microsoft.com/en-us/download/details.aspx?id=5553"
+		}
+	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:visual_studio:2005:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:microsoft:visual_studio:2005:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-03-25T08:06:28.980-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:visual_studio:2005:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
