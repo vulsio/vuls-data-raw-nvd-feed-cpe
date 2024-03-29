@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:intel:quickassist_technology:-",
+	"title": [
+		{
+			"text": "Intel QuickAssist Technology (QAT)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00861.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://01.org/sites/default/files/downloads/intelr-quickassist-technology/336212qatswgettingstartedguiderev003.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:intel:quickassist_technology:-:*:*:*:*:*:*:*"
+	}
+}
