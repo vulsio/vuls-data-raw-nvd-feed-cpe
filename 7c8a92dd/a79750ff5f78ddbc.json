@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:axigen:axigen_mail_server:10.5.7",
+	"title": [
+		{
+			"text": "Axigen Mail Server 10.5.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/48xxx/CVE-2023-48974.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.axigen.com/mail-server/download/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.axigen.com/updates/axigen-10.3.3.61"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:axigen:axigen_mail_server:10.5.7:*:*:*:*:*:*:*"
+	}
+}

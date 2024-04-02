@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:qnap:ts-639_pro_firmware:2.1.7:build0613",
+	"title": [
+		{
+			"text": "QNAP TS-639 Pro Firmware 2.1.7 Build0613",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.mh-sec.de/downloads/BSC-Qnap_Crypto_Backdoor-CVE-2009-3200.txt"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.qnap.com/en-us/download?model=ts-639%20pro&category=firmware"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2009/3xxx/CVE-2009-3278.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:qnap:ts-639_pro_firmware:2.1.7:build0613:*:*:*:*:*:*"
+	}
+}
