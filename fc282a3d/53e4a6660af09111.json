@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:dell:emc_networker:19.9::~~virtual~~~",
+	"title": [
+		{
+			"text": "Dell EMC NetWorker 19.9 Virtual Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.dell.com/support/kbdoc/en-us/000220547/dsa-2023-358-security-update-for-dell-networker-virtual-edition-ssh-cryptographic-vulnerabilities"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.dell.com/support/manuals/en-sg/networker/nw_p_nwadmin_19.9/controlling-access-to-a-networker-client?guid=guid-543c7136-00c8-4482-896c-ba280083ff5f&lang=en-us"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dell:emc_networker:19.9:*:*:*:virtual:*:*:*"
+	}
+}
