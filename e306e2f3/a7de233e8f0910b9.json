@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:logpoint:siem:7.3.0",
+	"title": [
+		{
+			"text": "Logpoint SIEM 7.3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.logpoint.com/en/product/siem/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/shrikeinfosec/cve-2023-49950/blob/main/cve-2023-49950.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:logpoint:siem:7.3.0:*:*:*:*:*:*:*"
+	}
+}
