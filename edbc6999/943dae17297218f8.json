@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bitly:bitly:2.7.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bitly 2.7.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-bitly/#description"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-bitly/bitlys-wordpress-plugin-271-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bitly:bitly:2.7.1:*:*:*:*:wordpress:*:*"
+	}
+}
