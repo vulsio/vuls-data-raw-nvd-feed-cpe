@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:alibaba:cloud_container_service:-::~~~kubernetes~~",
+	"title": [
+		{
+			"text": "Alibaba Cloud Container Service for Kubernetes (ACK)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.alibaba.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://us.alibabacloud.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.alibabacloud.com/product/kubernetes"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:alibaba:cloud_container_service:-:*:*:*:*:kubernetes:*:*"
+	}
+}

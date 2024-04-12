@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:diracgrid:dirac:8.0.37",
+	"title": [
+		{
+			"text": "DIRACgrid DIRAC 8.0.37",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/DIRACGrid/DIRAC/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/DIRACGrid/DIRAC/security/advisories/GHSA-59qj-jcjv-662j"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/DIRACGrid/DIRAC"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://diracgrid.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:diracgrid:dirac:8.0.37:*:*:*:*:*:*:*"
+	}
+}
