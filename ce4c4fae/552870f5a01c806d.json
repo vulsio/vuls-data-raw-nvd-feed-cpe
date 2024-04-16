@@ -1,7 +1,5 @@
 {
 	"name": "cpe:/o:paloaltonetworks:pan-os:10.2.4",
-	"deprecated": true,
-	"deprecation_date": "2024-04-16T02:07:00.703Z",
 	"title": [
 		{
 			"text": "Palo Alto Networks PAN-OS 10.2.4",
@@ -10,26 +8,11 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.paloaltonetworks.com/"
-		},
-		{
-			"text": "Version",
-			"href": "https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-release-notes/"
-		},
-		{
 			"text": "Advisory",
 			"href": "https://security.paloaltonetworks.com/CVE-2023-0008"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:*:*:*:*:*:*:*",
-		"deprecation": {
-			"date": "2024-04-15T22:07:00.703-04:00",
-			"deprecated_by": {
-				"name": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:-:*:*:*:*:*:*",
-				"type": "NAME_CORRECTION"
-			}
-		}
+		"name": "cpe:2.3:o:paloaltonetworks:pan-os:10.2.4:*:*:*:*:*:*:*"
 	}
 }
