@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:opnsense:opnsense:23.1",
+	"title": [
+		{
+			"text": "OPNsense 23.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/opnsense/core/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.esecforte.com/cve-2023-27152-opnsense-brute-force/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://opnsense.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opnsense:opnsense:23.1:*:*:*:*:*:*:*"
+	}
+}
