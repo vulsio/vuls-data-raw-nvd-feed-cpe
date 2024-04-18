@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:graalvm_for_jdk:21",
+	"title": [
+		{
+			"text": "Oracle GraalVM for JDK 21",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuoct2023.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.oracle.com/en/graalvm/jdk/20/docs/release-notes/#oracle-graalvm-for-jdk-2002"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:graalvm_for_jdk:21:*:*:*:*:*:*:*"
+	}
+}
