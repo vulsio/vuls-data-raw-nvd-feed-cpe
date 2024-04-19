@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:softaculous:backuply:1.2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Softaculous Backuply 1.2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://backuply.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://softaculous.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/backuply/backuply-backup-restore-migrate-and-clone-125-denial-of-service"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/backuply/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:softaculous:backuply:1.2.5:*:*:*:*:wordpress:*:*"
+	}
+}
