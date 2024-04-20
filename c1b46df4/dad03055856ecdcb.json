@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:oracle:complex_maintenance%2c_repair%2c_and_overhaul:11.5",
+	"deprecated": true,
+	"deprecation_date": "2024-04-19T17:30:46.163Z",
 	"title": [
 		{
 			"text": "Oracle Complex Maintenance, Repair, and Overhaul (MRO) 11.5",
@@ -8,11 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://docs.oracle.com/cd/B13467_01/current/acrobat/115ahlug.pdf"
+			"text": "Vendor",
+			"href": "https://www.oracle.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/cd/E26401_01/doc.122/e49039/T289136T624158.htm"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:oracle:complex_maintenance\\,_repair\\,_and_overhaul:11.5:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-04-19T13:30:46.163-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oracle:complex_maintenance_repair_and_overhaul:11.5.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
