@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:valicert:enterprise_validation_authority:4.2.1",
+	"title": [
+		{
+			"text": "Valicert Enterprise Validation Authority 4.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "http://www.valicert.com/support/security_advisory_eva.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/7653"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:valicert:enterprise_validation_authority:4.2.1:*:*:*:*:*:*:*"
+	}
+}

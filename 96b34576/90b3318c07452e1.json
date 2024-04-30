@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ge:proficy_real-time_information_portal:-",
+	"title": [
+		{
+			"text": "General Electric Proficy Real-Time Information Portal",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.kb.cert.org/vuls/id/180876"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ge.com/digital/documentation/historian/version2022/c_proficy_real_time_info_portal_client.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2008/0xxx/CVE-2008-0174.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ge:proficy_real-time_information_portal:-:*:*:*:*:*:*:*"
+	}
+}

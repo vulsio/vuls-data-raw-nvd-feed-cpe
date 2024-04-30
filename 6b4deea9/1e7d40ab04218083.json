@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:webcource:wc_captcha:1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WebCource WC Captcha 1.4 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.svn.wordpress.org/wc-captcha/tags/"
+		},
+		{
+			"text": "Product",
+			"href": "https://it.wordpress.org/plugins/wc-captcha/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wc-captcha/wordpress-wc-captcha-plugin-1-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:webcource:wc_captcha:1.4:*:*:*:*:wordpress:*:*"
+	}
+}

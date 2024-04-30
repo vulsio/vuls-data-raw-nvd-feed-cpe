@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sticky_notes_app_project:sticky_notes_app:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-04-29T13:18:48.930Z",
 	"title": [
 		{
 			"text": "Sticky Notes App Project Sticky Notes App 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sticky_notes_app_project:sticky_notes_app:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:sticky_notes_app_project:sticky_notes_app:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-04-29T09:18:48.930-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:remyandrade:sticky_notes_app:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

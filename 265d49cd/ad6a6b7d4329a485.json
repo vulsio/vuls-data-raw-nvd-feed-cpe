@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:woocommerce:product_recommendations:2.3.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WooCommerce Product Recommendations 2.3.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-product-recommendations/wordpress-woocommerce-product-recommendations-plugin-2-3-0-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://woo.com/products/product-recommendations/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woocommerce:product_recommendations:2.3.0:*:*:*:*:wordpress:*:*"
+	}
+}
