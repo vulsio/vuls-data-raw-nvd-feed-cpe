@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:zalify:easy_email:4.12.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "Zalify Easy Email 4.12.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.npmjs.com/package/easy-email-editor?activeTab=versions"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/zalify/easy-email/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zalify.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@vificatem/cve-2023-39683-dom-xss-on-json-source-code-panel-in-zalify-easy-email-3fa08f3e0d49"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zalify:easy_email:4.12.2:*:*:*:*:node.js:*:*"
+	}
+}
