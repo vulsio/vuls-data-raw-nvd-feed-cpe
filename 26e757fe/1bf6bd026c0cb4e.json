@@ -1,12 +1,31 @@
 {
 	"name": "cpe:/a:veeam:backup_and_replication:5.0.2.230",
+	"deprecated": true,
+	"deprecation_date": "2024-05-09T18:37:53.550Z",
 	"title": [
 		{
-			"text": "Veeam Backup And Replication 5.0.2.230",
+			"text": "Veeam Backup & Replication (B&R) 5.0.2.230",
 			"lang": "en-US"
 		}
 	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.veeam.com/"
+		},
+		{
+			"text": "Product",
+			"href": "http://www.veeam.com/vm-backup-recovery-replication-software.html"
+		}
+	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:veeam:backup_and_replication:5.0.2.230:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:veeam:backup_and_replication:5.0.2.230:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-05-09T14:37:53.550-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:5.0.2.230:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

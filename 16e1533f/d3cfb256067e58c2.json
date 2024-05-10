@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:veeam:backup_%26_replication:11.0.1.1261:p20220302",
+	"deprecated": true,
+	"deprecation_date": "2024-05-09T18:37:53.550Z",
 	"title": [
 		{
 			"text": "Veeam Backup & Replication 11.0.1.1261 Patch 20220302",
@@ -8,11 +10,30 @@
 	],
 	"references": [
 		{
+			"text": "Advisory",
+			"href": "https://www.veeam.com/kb4424"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.veeam.com/kb4288"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.veeam.com/kb4180"
+		},
+		{
 			"text": "Version",
 			"href": "https://www.veeam.com/kb2680"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.1.1261:p20220302:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:veeam:backup_\\&_replication:11.0.1.1261:p20220302:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-05-09T14:37:53.550-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:veeam:veeam_backup_\\&_replication:11.0.1.1261:p20220302:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
