@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:honeywell:controledge_virtual_unit_operations_controller:-",
+	"title": [
+		{
+			"text": "Honeywell ControlEdge Virtual Unit Operations Controller (UOC)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-qj3p-g2m7-rx94"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://process.honeywell.com/us/en/products/control-and-supervisory-systems/distributed-control-systems-dcs/experion-pks/controllers/controledge-unit-operations-controller"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vuldb.com/?id.252489"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:honeywell:controledge_virtual_unit_operations_controller:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:machinesense:feverwarn:-",
+	"title": [
+		{
+			"text": "MachineSense FeverWarn ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://machinesense.com/collections/feverwarn"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-025-01"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvd-admin.nist.gov/admin/consoles/client/index.webadmin.html#/vuln/detail/CVE-2023-47867/REMARKS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:machinesense:feverwarn:-:*:*:*:*:*:*:*"
+	}
+}

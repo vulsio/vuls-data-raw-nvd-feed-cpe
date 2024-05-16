@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:anybus:ipc%40chip:-",
+	"title": [
+		{
+			"text": "Anybus IPC@CHIP",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/6605"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.anybus.com/technical-support/pages/files-and-documentation---ipcchip?ordercode=edge_ipcchip"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:anybus:ipc\\@chip:-:*:*:*:*:*:*:*"
+	}
+}
