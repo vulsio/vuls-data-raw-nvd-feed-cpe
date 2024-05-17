@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:mokosmart:mkgw1_gateway:-",
+	"title": [
+		{
+			"text": "MOKOSmart MKGW1 Gateway ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mokosmart.com/wp-content/uploads/2019/10/GS-gateway.pdf"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sbaresearch/advisories/tree/public/2022/SBA-ADV-20220120-01_MOKOSmart_MKGW1_Gateway_Improper_Session_Management"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:mokosmart:mkgw1_gateway:-:*:*:*:*:*:*:*"
+	}
+}

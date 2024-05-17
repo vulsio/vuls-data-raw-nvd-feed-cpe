@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/h:hardy-barth:cph2_echarge:-",
+	"title": [
+		{
+			"text": "Hardy Barth cPH2 eCharge",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.offensity.com/en/blog/os-command-injection-in-cph2-charging-station-200-cve-2023-46359-and-cve-2023-46360/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/46xxx/CVE-2023-46359.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.energieloesung.de/p/echarge-cph2-1t11-wallbox-bis-11-kw-mit-typ-2-ladekabel_12280"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.hardy-barth.de/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:hardy-barth:cph2_echarge:-:*:*:*:*:*:*:*"
+	}
+}

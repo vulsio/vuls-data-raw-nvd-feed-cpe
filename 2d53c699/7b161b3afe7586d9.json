@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:netis-systems:mw5360:-",
+	"title": [
+		{
+			"text": "Netis Systems MW5360 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adhikara13/CVE/blob/main/netis_MW5360/blind%20command%20injection%20in%20password%20parameter%20in%20initial%20settings.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.netis-systems.com/Home/detail/id/223.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:netis-systems:mw5360:-:*:*:*:*:*:*:*"
+	}
+}
