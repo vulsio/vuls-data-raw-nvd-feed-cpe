@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:arcgis:geoevent_server:-",
+	"deprecated": true,
+	"deprecation_date": "2024-05-21T14:27:21.770Z",
 	"title": [
 		{
 			"text": "ArcGIS GeoEvent Server",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:arcgis:geoevent_server:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:arcgis:geoevent_server:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-05-21T10:27:21.770-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:esri:arcgis_geoevent_server:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
