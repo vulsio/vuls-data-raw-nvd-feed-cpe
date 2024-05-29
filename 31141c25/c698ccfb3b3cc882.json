@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:anchore:stereoscope:0.0.1::~~~go~~",
+	"title": [
+		{
+			"text": "Anchore Stereoscope 0.0.1 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/anchore/stereoscope/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://anchore.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/anchore/stereoscope"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/anchore/stereoscope/security/advisories/GHSA-hpxr-w9w7-g4gv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:anchore:stereoscope:0.0.1:*:*:*:*:go:*:*"
+	}
+}
