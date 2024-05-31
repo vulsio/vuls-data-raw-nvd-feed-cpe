@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:caret:country_access_limit:1.0.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Caret Country Access Limit 1.0.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.ca-ret.co.jp/"
+		},
+		{
+			"text": "Version",
+			"href": "https://wordpress.org/plugins/caret-country-access-limit/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/caret-country-access-limit/wordpress-caret-country-access-limit-plugin-1-0-2-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:caret:country_access_limit:1.0.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:lynx_project:lynx:2.7",
+	"title": [
+		{
+			"text": "Lynx Project Lynx 2.7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/8342"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://marc.info/?l=bugtraq&m=94286509804526&w=2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/1999/1xxx/CVE-1999-1549.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lynx_project:lynx:2.7:*:*:*:*:*:*:*"
+	}
+}

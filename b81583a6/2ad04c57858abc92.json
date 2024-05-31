@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:igniterealtime:openfire:4.6.0",
+	"deprecated": true,
+	"deprecation_date": "2024-05-30T15:52:15.623Z",
 	"title": [
 		{
 			"text": "Ignite Realtime Openfire 4.6.0",
@@ -8,11 +10,30 @@
 	],
 	"references": [
 		{
+			"text": "Change Log",
+			"href": "https://github.com/igniterealtime/Openfire/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "http://download.igniterealtime.org/openfire/docs/latest/changelog.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.igniterealtime.org/"
+		},
+		{
 			"text": "Version",
 			"href": "https://discourse.igniterealtime.org/t/openfire-4-6-0-has-stored-xss-vulnerabilities/89276"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:igniterealtime:openfire:4.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-05-30T11:52:15.623-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:igniterealtime:openfire:4.6.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
