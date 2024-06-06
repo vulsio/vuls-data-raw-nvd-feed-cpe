@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:thimpress:learnpress:4.2.6.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ThimPress LearnPress 4.2.6.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://raw.githubusercontent.com/LearnPress/learnpress/develop/changelog.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/learnpress/learnpress-wordpress-lms-plugin-4268-basic-information-disclosure-via-json-api"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/learnpress/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thimpress:learnpress:4.2.6.4:*:*:*:*:wordpress:*:*"
+	}
+}

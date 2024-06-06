@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:lifterlms:lifterlms:7.5.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "LifterLMS 7.5.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/lifterlms/lifterlms-wordpress-lms-plugin-for-elearning-762-authenticated-contributor-sql-injection-via-shortcode"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/lifterlms/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lifterlms:lifterlms:7.5.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:getbrave:brave:0.1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brave 0.1.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://getbrave.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/brave-popup-builder/wordpress-brave-interactive-content-plugin-0-6-8-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/brave-popup-builder/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getbrave:brave:0.1.4:*:*:*:*:wordpress:*:*"
+	}
+}

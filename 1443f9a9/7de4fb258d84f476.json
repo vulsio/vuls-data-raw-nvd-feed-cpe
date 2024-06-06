@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpdownloadmanager:download_manager:3.2.83::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Download Manager 3.2.83 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-manager/download-manager-3293-authenticated-contributor-stored-cross-site-scripting-via-wpdm-modal-login-form-shortcode"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.wpdownloadmanager.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/download-manager/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdownloadmanager:download_manager:3.2.83:*:*:*:*:wordpress:*:*"
+	}
+}

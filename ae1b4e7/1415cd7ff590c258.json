@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pdfcrowd:save_as_pdf:2.15.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "pdfcrowd Save as PDF 2.15.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pdfcrowd.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/save-as-pdf-by-pdfcrowd/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/save-as-pdf-by-pdfcrowd/wordpress-save-as-pdf-plugin-by-pdfcrowd-plugin-3-2-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pdfcrowd:save_as_pdf:2.15.0:*:*:*:*:wordpress:*:*"
+	}
+}

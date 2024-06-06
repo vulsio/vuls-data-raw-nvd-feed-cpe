@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:codeless:cowidgets_-_elementor:1.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Codeless Cowidgets - Elementor 1.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/cowidgets-elementor-addons/wordpress-cowidgets-elementor-addons-plugin-1-1-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://codeless.co/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/cowidgets-elementor-addons/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:codeless:cowidgets_-_elementor:1.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

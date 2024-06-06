@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:creativethemes:blocksy:2.0.27::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Creative Themes Blocksy 2.0.27 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/blocksy/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/blocksy/blocksy-2050-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://creativethemes.com/blocksy/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:creativethemes:blocksy:2.0.27:*:*:*:*:wordpress:*:*"
+	}
+}

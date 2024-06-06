@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:icegram:email_subscribers_%26_newsletters:5.7.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Icegram Email Subscribers & Newsletters 5.7.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/email-subscribers/email-subscribers-by-icegram-express-5720-unauthenticated-sql-injection-via-hash"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.icegram.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/email-subscribers/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:icegram:email_subscribers_\\&_newsletters:5.7.7:*:*:*:*:wordpress:*:*"
+	}
+}

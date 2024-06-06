@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wobbie:mollie_forms:1.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Wobbie Mollie Forms 1.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wobbie.nl/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mollie-forms/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mollie-forms/mollie-forms-2613-cross-site-request-forgery-to-arbitrary-post-duplication"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wobbie:mollie_forms:1.1.1:*:*:*:*:wordpress:*:*"
+	}
+}
