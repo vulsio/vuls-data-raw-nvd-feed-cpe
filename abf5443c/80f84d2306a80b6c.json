@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:spiffyplugins:spiffy_calendar:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Spiffy Plugins Spiffy Calendar for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/spiffy-calendar/wordpress-spiffy-calendar-plugin-4-9-10-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://spiffyplugins.ca/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/spiffy-calendar/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:spiffyplugins:spiffy_calendar:-:*:*:*:*:wordpress:*:*"
+	}
+}

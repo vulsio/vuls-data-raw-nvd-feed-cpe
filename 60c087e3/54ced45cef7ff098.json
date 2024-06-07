@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:ngiflib_project:ngiflib:2023-07-21",
+	"deprecated": true,
+	"deprecation_date": "2024-06-06T20:21:19.953Z",
 	"title": [
 		{
 			"text": "Ngiflib Project Ngiflib 2023-07-21",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-21:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:ngiflib_project:ngiflib:2023-07-21:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-06-06T16:21:19.953-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:miniupnp_project:ngiflib:0.5:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
