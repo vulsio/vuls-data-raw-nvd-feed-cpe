@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpfoxly:adfoxly:1.8.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP FOXLY AdFoxly 1.8.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpfoxly.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://adfoxly.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/adfoxly/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/adfoxly/wordpress-adfoxly-plugin-1-8-5-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpfoxly:adfoxly:1.8.5:*:*:*:*:wordpress:*:*"
+	}
+}

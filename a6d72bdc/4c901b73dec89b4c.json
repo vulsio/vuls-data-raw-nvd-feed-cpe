@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:opmc:woocommerce_dropshipping:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "OPMC WooCommerce Dropshipping for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://opmc.com.au/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woocommerce-dropshipping/wordpress-woocommerce-dropshipping-plugin-5-0-4-unauthenticated-arbitrary-email-sending-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://woocommerce.com/products/woocommerce-dropshipping/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:opmc:woocommerce_dropshipping:-:*:*:*:*:wordpress:*:*"
+	}
+}

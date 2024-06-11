@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fileorganizer:fileorganizer:1.0.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "FileOrganizer 1.0.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://fileorganizer.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/fileorganizer/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/fileorganizer/fileorganizer-107-sensitive-information-exposure-via-directory-listing"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fileorganizer:fileorganizer:1.0.3:*:*:*:*:wordpress:*:*"
+	}
+}

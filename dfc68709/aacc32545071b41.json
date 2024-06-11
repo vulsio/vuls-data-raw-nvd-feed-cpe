@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:erikeng:google_cse:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Erikeng Google CSE for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://erikeng.se/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/google-cse/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/google-cse/google-cse-107-authenticated-admin-stored-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:erikeng:google_cse:-:*:*:*:*:wordpress:*:*"
+	}
+}

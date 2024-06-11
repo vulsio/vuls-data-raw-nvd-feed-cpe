@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:metagauss:eventprime:3.4.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Metagauss EventPrime 3.4.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://metagauss.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/eventprime-event-calendar-management/wordpress-eventprime-plugin-3-3-4-booking-price-manipulation-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/eventprime-event-calendar-management/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:metagauss:eventprime:3.4.4:*:*:*:*:wordpress:*:*"
+	}
+}

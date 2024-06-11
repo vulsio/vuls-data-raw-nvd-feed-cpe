@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:xootix:login%2fsignup_popup:2.7.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Xootix Login/Signup Popup 2.7.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-login-woocommerce/loginsignup-popup-inline-form-woocommerce-271-272-missing-authorization-to-arbitrary-options-exposure"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://xootix.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/easy-login-woocommerce/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xootix:login\\/signup_popup:2.7.2:*:*:*:*:wordpress:*:*"
+	}
+}

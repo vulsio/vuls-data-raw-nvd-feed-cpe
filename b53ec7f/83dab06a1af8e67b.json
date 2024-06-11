@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:willnorris:open_graph:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Will Norris Open Graph 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://willnorris.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/opengraph/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/opengraph/open-graph-1112-unauthenticated-sensitive-information-exposure"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:willnorris:open_graph:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

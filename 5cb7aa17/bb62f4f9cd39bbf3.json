@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:videowhisper:picture_gallery:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "VideoWhisper Picture Gallery 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/picture-gallery/wordpress-picture-gallery-plugin-1-5-11-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/picture-gallery/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://videowhisper.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:videowhisper:picture_gallery:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

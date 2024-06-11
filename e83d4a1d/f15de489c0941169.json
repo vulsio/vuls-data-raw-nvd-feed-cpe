@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:qodeinteractive:qi_blocks:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Qode Interactive Qi Blocks 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/qi-blocks/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/qi-blocks/qi-blocks-129-authenticated-author-stored-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://qodeinteractive.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qodeinteractive:qi_blocks:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:select-themes:stockholm:9.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Select-Themes Stockholm 9.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/stockholm/wordpress-stockholm-theme-9-6-unauthenticated-local-file-inclusion-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://themeforest.net/item/stockholm-a-genuinely-multiconcept-theme/8819050"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:select-themes:stockholm:9.6:*:*:*:*:wordpress:*:*"
+	}
+}

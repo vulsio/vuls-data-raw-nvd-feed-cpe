@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:cyberchimps:responsive:4.4.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cyberchimps Responsive 4.4.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://cyberchimps.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/responsive/wordpress-responsive-theme-5-0-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/responsive/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/responsive/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyberchimps:responsive:4.4.4:*:*:*:*:wordpress:*:*"
+	}
+}

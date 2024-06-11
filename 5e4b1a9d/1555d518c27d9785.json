@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:netgsm:netgsm:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Netgsm for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.netgsm.com.tr/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/netgsm/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/netgsm/wordpress-netgsm-plugin-2-9-16-broken-access-control-vulnerability-2?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netgsm:netgsm:-:*:*:*:*:wordpress:*:*"
+	}
+}

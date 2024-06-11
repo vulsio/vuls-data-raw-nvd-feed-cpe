@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:themeum:tutor_lms:2.5.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Themeum Tutor LMS 2.5.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-elearning-and-online-course-solution-271-authenticated-instructor-insecure-direct-object-reference-to-arbitrary-quiz-attempt-deletion"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/tutor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themeum:tutor_lms:2.5.0:*:*:*:*:wordpress:*:*"
+	}
+}

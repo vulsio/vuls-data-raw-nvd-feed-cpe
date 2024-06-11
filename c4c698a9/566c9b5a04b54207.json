@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:risethemes:rt_easy_builder:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Risethemes RT Easy Builder 1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://risethemes.net/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/rt-easy-builder-advanced-addons-for-elementor/wordpress-rt-easy-builder-plugin-2-0-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/rt-easy-builder-advanced-addons-for-elementor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:risethemes:rt_easy_builder:1.0:*:*:*:*:wordpress:*:*"
+	}
+}
