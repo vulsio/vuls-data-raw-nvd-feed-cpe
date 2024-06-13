@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:seedprod:rafflepress:1.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SeedProd RafflePress 1.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/rafflepress/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/rafflepress/wordpress-giveaways-and-contests-by-rafflepress-plugin-1-12-4-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://rafflepress.com/docs/rafflepress-changelog/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.seedprod.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:seedprod:rafflepress:1.1.0:*:*:*:*:wordpress:*:*"
+	}
+}

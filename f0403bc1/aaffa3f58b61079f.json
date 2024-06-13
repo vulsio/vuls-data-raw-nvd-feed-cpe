@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:buddypress_cover_project:buddypress_cover:2.1.4.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "BuddyPress Cover Project BuddyPress Cover 2.1.4.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/bp-cover/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bp-cover/wordpress-buddypress-cover-plugin-2-1-4-2-arbitrary-file-upload-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:buddypress_cover_project:buddypress_cover:2.1.4.2:*:*:*:*:wordpress:*:*"
+	}
+}

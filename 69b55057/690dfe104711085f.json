@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ovic_importer_project:ovic_importer:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ovic Importer Project Ovic Importer for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/ovic-import-demo/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ovic-import-demo/wordpress-ovic-importer-plugin-1-6-3-arbitrary-file-download-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ovic_importer_project:ovic_importer:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:upunzipper_project:upunzipper:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Upunzipper Project Upunzipper for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/upunzipper/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/upunzipper/wordpress-upunzipper-plugin-1-0-0-arbitrary-file-deletion-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:upunzipper_project:upunzipper:-:*:*:*:*:wordpress:*:*"
+	}
+}

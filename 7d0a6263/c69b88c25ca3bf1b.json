@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpdevart:contact_form_builder:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WpDevArt Contact Form Builder for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/contact-forms-builder/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/contact-forms-builder/wordpress-contact-form-builder-contact-widget-plugin-2-1-7-bypass-vulnerability-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdevart:contact_form_builder:-:*:*:*:*:wordpress:*:*"
+	}
+}

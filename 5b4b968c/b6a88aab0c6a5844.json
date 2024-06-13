@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:rubyonrails:rails:6.1.7.8",
+	"title": [
+		{
+			"text": "Ruby on Rails Rails 6.1.7.8",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/rails/rails/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/rails/rails/security/advisories/GHSA-fwhr-88qx-h9g7"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.rubyonrails.org/t/cve-2024-28103-permissions-policy-is-only-served-on-html-content-type/85948"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rubyonrails:rails:6.1.7.8:*:*:*:*:*:*:*"
+	}
+}

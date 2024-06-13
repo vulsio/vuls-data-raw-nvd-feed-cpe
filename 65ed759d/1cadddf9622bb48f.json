@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:meowapps:database_cleaner:1.0.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Meow Apps Database Cleaner 1.0.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/database-cleaner/wordpress-database-cleaner-clean-optimize-repair-plugin-1-0-5-arbitrary-file-read-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://meowapps.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/database-cleaner/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:meowapps:database_cleaner:1.0.6:*:*:*:*:wordpress:*:*"
+	}
+}

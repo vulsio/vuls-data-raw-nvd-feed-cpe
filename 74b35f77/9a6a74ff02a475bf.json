@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:strategery_migrations_project:strategery_migrations:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Strategery Migrations Project Strategery Migrations for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/strategery-migrations/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/strategery-migrations/wordpress-strategery-migrations-plugin-1-0-arbitrary-file-deletion-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strategery_migrations_project:strategery_migrations:-:*:*:*:*:wordpress:*:*"
+	}
+}

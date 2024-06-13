@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:born05:two-factor_authentication:2.10.1::~~~craftcms~~",
+	"title": [
+		{
+			"text": "Born05 Two-Factor Authentication 2.10.1 for CraftCMS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/sbaresearch/advisories/tree/public/2024/SBA-ADV-20240202-02_CraftCMS_Plugin_Two-Factor_Authentication_TOTP_Valid_After_Use"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/born05/craft-twofactorauthentication/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:born05:two-factor_authentication:2.10.1:*:*:*:*:craftcms:*:*"
+	}
+}
