@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:davekiss:vimeography:1.1.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Dave Kiss Vimeography 1.1.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://davekiss.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/vimeography/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/vimeography/wordpress-vimeography-plugin-2-4-1-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:davekiss:vimeography:1.1.8:*:*:*:*:wordpress:*:*"
+	}
+}

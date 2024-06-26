@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:church_admin_project:church_admin:4.1.12::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Church Admin Project Church Admin 4.1.12 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/church-admin/wordpress-church-admin-plugin-4-4-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/church-admin/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:church_admin_project:church_admin:4.1.12:*:*:*:*:wordpress:*:*"
+	}
+}

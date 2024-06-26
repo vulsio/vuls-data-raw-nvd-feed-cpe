@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:themehorse:interface:1.0.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Theme Horse Interface 1.0.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/interface"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.themehorse.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/interface/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/interface/wordpress-interface-theme-3-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themehorse:interface:1.0.9:*:*:*:*:wordpress:*:*"
+	}
+}

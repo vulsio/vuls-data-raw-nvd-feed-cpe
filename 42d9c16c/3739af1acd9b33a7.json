@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:gutenbergforms:gutenberg_forms:1.0.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Gutenberg Forms 1.0.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/forms-gutenberg/#tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://gutenbergforms.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/forms-gutenberg/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/forms-gutenberg/wordpress-gutenberg-forms-plugin-2-2-8-3-auth-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gutenbergforms:gutenberg_forms:1.0.3:*:*:*:*:wordpress:*:*"
+	}
+}

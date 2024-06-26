@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hashicorp:retryablehttp:0.5.3::~~~go~~",
+	"title": [
+		{
+			"text": "HashiCorp Retryable HTTP 0.5.3 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://pkg.go.dev/github.com/hashicorp/go-retryablehttp?tab=versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2024-12-go-retryablehttp-can-leak-basic-auth-credentials-to-log-files/68027"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/hashicorp/go-retryablehttp/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:retryablehttp:0.5.3:*:*:*:*:go:*:*"
+	}
+}

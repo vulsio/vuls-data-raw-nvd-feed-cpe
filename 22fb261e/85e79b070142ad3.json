@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:rarathemes:book_landing_page:1.1.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Rara Themes Book Landing Page 1.1.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/book-landing-page/wordpress-book-landing-page-theme-1-2-3-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/book-landing-page/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://rarathemes.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/book-landing-page"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rarathemes:book_landing_page:1.1.8:*:*:*:*:wordpress:*:*"
+	}
+}

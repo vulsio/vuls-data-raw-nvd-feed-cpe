@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:solidwp:solid_security:8.1.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SolidWP Solid Security 8.1.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/better-wp-security/wordpress-solid-security-plugin-9-3-1-ip-spoofing-leading-to-denial-of-service-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://solidwp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/better-wp-security/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:solidwp:solid_security:8.1.7:*:*:*:*:wordpress:*:*"
+	}
+}
