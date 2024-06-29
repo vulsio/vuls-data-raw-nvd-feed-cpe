@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.5.4.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-06-28T13:34:03.907Z",
 	"title": [
 		{
 			"text": "Dethemekit For Elementor Project Dethemekit For Elementor 1.5.4.2 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.5.4.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:dethemekit_for_elementor_project:dethemekit_for_elementor:1.5.4.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-06-28T09:34:03.907-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:detheme:dethemekit_for_elementor:1.5.4.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
