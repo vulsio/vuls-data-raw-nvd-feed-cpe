@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:artbees:jupiter_x_core:3.3.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Artbees Jupiter X Core 3.3.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/jupiterx-core/wordpress-jupiter-x-core-plugin-3-3-0-unauthenticated-account-takeover-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/jupiterx-core/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://artbees.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:artbees:jupiter_x_core:3.3.8:*:*:*:*:wordpress:*:*"
+	}
+}

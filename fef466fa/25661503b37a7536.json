@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wp-pizza:wppizza:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Pizza for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wppizza/wordpress-wppizza-a-restaurant-plugin-plugin-3-18-13-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.wp-pizza.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wppizza/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-pizza:wppizza:-:*:*:*:*:wordpress:*:*"
+	}
+}

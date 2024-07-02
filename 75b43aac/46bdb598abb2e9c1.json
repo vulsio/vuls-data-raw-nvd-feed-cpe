@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ninjateam:wp_chat_app:3.6.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "NinjaTeam WP Chat App 3.6.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://ninjateam.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/46ada0b4-f3cd-44fb-a568-3345e639bdb6/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-whatsapp/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ninjateam:wp_chat_app:3.6.1:*:*:*:*:wordpress:*:*"
+	}
+}

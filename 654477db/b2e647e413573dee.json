@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mediavine:create:1.2.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Mediavine Create 1.2.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mediavine.com/products/create/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mediavine.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mediavine-create/create-by-mediavine-197-authenticated-contributor-stored-cross-site-scripting-via-schema-meta-shortcode"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mediavine-create/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mediavine:create:1.2.7:*:*:*:*:wordpress:*:*"
+	}
+}
