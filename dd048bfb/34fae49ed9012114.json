@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mongodb:compass:1.40.4",
+	"title": [
+		{
+			"text": "MongoDB Compass 1.40.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jira.mongodb.org/browse/COMPASS-7496"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.mongodb.com/docs/compass/current/release-notes/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:compass:1.40.4:*:*:*:*:*:*:*"
+	}
+}

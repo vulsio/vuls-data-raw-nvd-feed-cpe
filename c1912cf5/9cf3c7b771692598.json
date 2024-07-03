@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:dotcamp:ultimate_blocks:1.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "DotCamp Ultimate Blocks 1.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://dotcamp.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ultimate-blocks/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ultimate-blocks/ultimate-blocks-wordpress-blocks-plugin-319-authenticatedcontributor-stored-cross-site-scripting-via-multiple-blocks"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dotcamp:ultimate_blocks:1.1.0:*:*:*:*:wordpress:*:*"
+	}
+}

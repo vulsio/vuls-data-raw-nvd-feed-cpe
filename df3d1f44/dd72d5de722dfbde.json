@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:google:chrome:54.0.2840.90",
+	"title": [
+		{
+			"text": "Google Chrome 54.0.2840.90",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://chromereleases.googleblog.com/2016/11/stable-channel-update-for-desktop.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2016/5xxx/CVE-2016-5198.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:chrome:54.0.2840.90:*:*:*:*:*:*:*"
+	}
+}

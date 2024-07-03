@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:geoserver:geoserver:2.24.0:-",
+	"title": [
+		{
+			"text": "GeoServer 2.24.0 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/geoserver/geoserver/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/geoserver/geoserver/security/advisories/GHSA-j59v-vgcr-hxvf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:geoserver:geoserver:2.24.0:-:*:*:*:*:*:*"
+	}
+}

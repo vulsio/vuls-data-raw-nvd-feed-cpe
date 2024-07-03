@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:cisco:pix_firewall:525_6.3",
+	"deprecated": true,
+	"deprecation_date": "2024-07-02T12:57:10.380Z",
 	"title": [
 		{
 			"text": "Cisco Pix Firewall 525 6.3",
@@ -10,13 +12,16 @@
 		{
 			"text": "Vendor",
 			"href": "http://www.cisco.com/c/en/us/index.html"
-		},
-		{
-			"text": "Advisory",
-			"href": "http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:cisco:pix_firewall:525_6.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-07-02T08:57:10.380-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:cisco:pix-525:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
