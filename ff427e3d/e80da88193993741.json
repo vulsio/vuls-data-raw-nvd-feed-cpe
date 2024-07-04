@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/o:cisco:nx-os:6.2%2821%29",
+	"title": [
+		{
+			"text": "Cisco NX-OS 6.2(21)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmd-injection-xD9OhyOP"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwj97011"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwj97009"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwj97007"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCwj94682"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:nx-os:6.2\\(21\\):*:*:*:*:*:*:*"
+	}
+}

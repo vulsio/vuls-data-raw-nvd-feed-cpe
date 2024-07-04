@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:6.10.0:rc3",
+	"title": [
+		{
+			"text": "Linux Kernel 6.10.0 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/refs/?h=v6.10-rc3"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?id=92f1655aa2b2294d0b49925f3b875a634bd3b59e"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:6.10.0:rc3:*:*:*:*:*:*"
+	}
+}
