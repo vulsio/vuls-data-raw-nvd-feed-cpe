@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:qt:qt:6.2.12",
+	"title": [
+		{
+			"text": "Qt 6.2.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-CENTOS8-QT5QTBASE-7426026"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/qt/qtbase/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://codereview.qt-project.org/c/qt/qtbase/+/571601"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qt:qt:6.2.12:*:*:*:*:*:*:*"
+	}
+}

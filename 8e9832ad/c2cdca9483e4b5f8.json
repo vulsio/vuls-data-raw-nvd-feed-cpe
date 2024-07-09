@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mattermost:mattermost:9.5.0:-",
+	"title": [
+		{
+			"text": "Mattermost 9.5.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mattermost/mattermost/releases"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.mattermost.com/about/mattermost-v9-changelog.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://secalerts.co/vulnerability/CVE-2024-36257"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://mattermost.com/security-updates/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattermost:mattermost:9.5.0:-:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:2code:himer:1.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "2code Himer 1.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://2code.info/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/51d0311a-673b-4538-9427-a48e8c89e38b/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://2code.info/docs/himer/change-log/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:2code:himer:1.6:*:*:*:*:wordpress:*:*"
+	}
+}

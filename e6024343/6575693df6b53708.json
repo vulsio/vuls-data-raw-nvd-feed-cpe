@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cedcommerce:one_click_order_re-order:1.0.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CedCommerce One Click Order Re-Order 1.0.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/one-click-order-reorder/one-click-order-re-order-119-missing-authorization-to-authenticated-subscriber-stored-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cedcommerce.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/one-click-order-reorder/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cedcommerce:one_click_order_re-order:1.0.7:*:*:*:*:wordpress:*:*"
+	}
+}

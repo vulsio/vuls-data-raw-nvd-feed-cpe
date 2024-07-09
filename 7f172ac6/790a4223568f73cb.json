@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:goanother:another_redis_desktop_manager:1.2.0",
+	"title": [
+		{
+			"text": "goanother Another Redis Desktop Manager 1.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://goanother.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/qishibo/AnotherRedisDesktopManager/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/EQSTLab/PoC/tree/main/2024/LCE/CVE-2024-23998"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:goanother:another_redis_desktop_manager:1.2.0:*:*:*:*:*:*:*"
+	}
+}

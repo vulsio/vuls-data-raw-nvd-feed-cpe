@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wbolt:imgspider:2.0.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Wbolt IMGspider 2.0.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/imgspider/imgspider-2310-authenticated-contributor-arbitrary-file-upload-via-upload-img-file"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.wbolt.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/imgspider/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wbolt:imgspider:2.0.6:*:*:*:*:wordpress:*:*"
+	}
+}
