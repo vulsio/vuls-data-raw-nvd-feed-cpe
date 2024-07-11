@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:unitronics:samba_7_firmware:-",
+	"title": [
+		{
+			"text": "Unitronics Samba 7 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://downloads.unitronicsplc.com/Sites/plc/Technical_Library/Unitronics-Cybersecurity-Advisory-2023-001-CVE-2023-6448.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.unitronicsplc.com/programmable-controllers-samba-series/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:unitronics:samba_7_firmware:-:*:*:*:*:*:*:*"
+	}
+}
