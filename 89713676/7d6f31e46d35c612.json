@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:instawp:instawp_connect:0.1.0.22::~~~wordpress~~",
+	"title": [
+		{
+			"text": "InstaWP Connect 0.1.0.22 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/instawp-connect/instawp-connect-1-click-wp-staging-migration-01044-authentication-bypass-to-admin"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/instawp-connect/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:instawp:instawp_connect:0.1.0.22:*:*:*:*:wordpress:*:*"
+	}
+}

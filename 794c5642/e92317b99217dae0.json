@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:parorrey:json_api_user:3.4.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Parorrey JSON API User 3.4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.parorrey.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/json-api-user/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/json-api-user/json-api-user-393-unauthenticated-privilege-escalation"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:parorrey:json_api_user:3.4.0:*:*:*:*:wordpress:*:*"
+	}
+}

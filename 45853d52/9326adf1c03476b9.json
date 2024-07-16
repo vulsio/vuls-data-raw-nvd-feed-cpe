@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:supsystic:easy_google_maps:1.11.16::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Supsystic Easy Google Maps 1.11.16 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/google-maps-easy/easy-google-maps-11115-authenticated-author-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/google-maps-easy/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:supsystic:easy_google_maps:1.11.16:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oisf:suricata:6.0.18",
+	"title": [
+		{
+			"text": "OISF (The Open Information Security Foundation) Suricata 6.0.18",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/OISF/suricata/security/advisories/GHSA-qrp7-g66m-px24"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/OISF/suricata/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oisf:suricata:6.0.18:*:*:*:*:*:*:*"
+	}
+}
