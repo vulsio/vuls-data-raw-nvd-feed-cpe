@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:gitlab:gitlab:17.1.2::~~community~~~",
+	"title": [
+		{
+			"text": "GitLab 17.1.2 Community Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/2xxx/CVE-2024-2880.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://about.gitlab.com/releases/categories/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gitlab:gitlab:17.1.2:*:*:*:community:*:*:*"
+	}
+}

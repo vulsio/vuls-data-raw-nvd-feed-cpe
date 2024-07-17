@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:oracle:virtualbox:-",
+	"title": [
+		{
+			"text": "Oracle VirtualBox ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.virtualbox.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://exchange.xforce.ibmcloud.com/vulnerabilities/44202"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.coresecurity.com/core-labs/advisories/virtualbox-privilege-escalation-vulnerability"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:virtualbox:-:*:*:*:*:*:*:*"
+	}
+}
