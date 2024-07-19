@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:apache:airflow:2.8.3:rc1",
+	"title": [
+		{
+			"text": "Apache Software Foundation Airflow 2.8.3 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/gxkvs279f1mbvckv5q65worr6how20o3"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/airflow/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:airflow:2.8.3:rc1:*:*:*:*:*:*"
+	}
+}
