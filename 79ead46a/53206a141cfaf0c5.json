@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tribe29:checkmk:1.6.0:p13",
+	"deprecated": true,
+	"deprecation_date": "2024-07-23T19:37:14.753Z",
 	"title": [
 		{
 			"text": "Tribe29 Checkmk 1.6.0 Patch 13",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tribe29:checkmk:1.6.0:p13:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:tribe29:checkmk:1.6.0:p13:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-07-23T15:37:14.753-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:checkmk:checkmk:1.6.0:p13:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
