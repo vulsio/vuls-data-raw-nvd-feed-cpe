@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:artbees:sellkit:1.8.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Artbees SellKit 1.8.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://artbees.net/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sellkit/sellkit-funnel-builder-and-checkout-optimizer-for-woocommerce-to-sell-more-faster-198-authenticated-contributor-stored-cross-site-scripting-via-id-parameter"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/sellkit/#developers"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/sellkit/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:artbees:sellkit:1.8.3:*:*:*:*:wordpress:*:*"
+	}
+}

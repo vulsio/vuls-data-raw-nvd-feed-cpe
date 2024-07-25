@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:usestrict:bbpress_notify:2.5.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "UseStrict bbPress Notify (No-Spam) 2.5.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://usestrict.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/bbpress-notify-nospam/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bbpress-notify-nospam/wordpress-bbpress-notify-no-spam-plugin-2-18-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:usestrict:bbpress_notify:2.5.3:*:*:*:*:wordpress:*:*"
+	}
+}
