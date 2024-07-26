@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:jegstudio:gutenverse:1.4.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Jegstudio Gutenverse 1.4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/gutenverse/wordpress-gutenverse-plugin-1-9-2-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/gutenverse/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jegstudio.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jegstudio:gutenverse:1.4.0:*:*:*:*:wordpress:*:*"
+	}
+}

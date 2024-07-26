@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:dokan:dokan_pro_plugin:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Dokan Dokan Pro Plugin for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/dokan-pro/dokan-pro-3103-unauthenticated-sql-injection"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://dokan.co/docs/wordpress/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dokan:dokan_pro_plugin:-:*:*:*:*:wordpress:*:*"
+	}
+}

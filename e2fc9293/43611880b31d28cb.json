@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:happyforms:happyforms:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Happyforms Happyforms for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://happyforms.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/happyforms/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/happyforms/wordpress-happyforms-plugin-1-25-10-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:happyforms:happyforms:-:*:*:*:*:wordpress:*:*"
+	}
+}

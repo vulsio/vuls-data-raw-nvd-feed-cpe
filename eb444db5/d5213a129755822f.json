@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:groundhogg:groundhogg:3.3.3.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Groundhogg 3.3.3.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/groundhogg/wordpress-groundhogg-plugin-3-4-2-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/groundhogg/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:groundhogg:groundhogg:3.3.3.2:*:*:*:*:wordpress:*:*"
+	}
+}

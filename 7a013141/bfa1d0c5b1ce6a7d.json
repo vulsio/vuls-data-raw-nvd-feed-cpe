@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:canto:canto:1.8.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Canto 1.8.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/canto/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/canto/canto-304-unauthenticated-remote-file-inclusion"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.canto.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canto:canto:1.8.0:*:*:*:*:wordpress:*:*"
+	}
+}
