@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wedevs:wemail:1.14.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "weDevs weMail 1.14.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wedevs.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wemail/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wemail/wordpress-wemail-plugin-1-14-2-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wedevs:wemail:1.14.2:*:*:*:*:wordpress:*:*"
+	}
+}

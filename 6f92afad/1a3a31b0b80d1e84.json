@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:openstack:nova:28.2.1",
+	"title": [
+		{
+			"text": "Openstack Nova 28.2.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.openstack.org/ossa/OSSA-2024-002.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openstack.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://opendev.org/openstack/nova/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openstack:nova:28.2.1:*:*:*:*:*:*:*"
+	}
+}

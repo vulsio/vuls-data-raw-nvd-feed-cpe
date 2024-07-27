@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:csa-iot:matter:1.1.0.0",
+	"title": [
+		{
+			"text": "Connected Standards Alliance Matter SDK 1.1.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/project-chip/connectedhomeip/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://csa-iot.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/project-chip/connectedhomeip"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/project-chip/connectedhomeip/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:csa-iot:matter:1.1.0.0:*:*:*:*:*:*:*"
+	}
+}
