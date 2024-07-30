@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:amen_project:amen:3.3.1::~~~~wordpress~",
+	"title": [
+		{
+			"text": "Amen Project Amen 3.3.1 on WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/e9fe3101-8033-4eee-8b37-06856872e9ef/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/amen/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amen_project:amen:3.3.1:*:*:*:*:*:wordpress:*"
+	}
+}

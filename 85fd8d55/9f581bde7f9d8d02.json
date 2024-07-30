@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gstreamer:orc:-",
+	"title": [
+		{
+			"text": "GStreamer Orc",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://gstreamer.freedesktop.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitlab.freedesktop.org/gstreamer/orc/-/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://gstreamer.freedesktop.org/modules/orc.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gstreamer:orc:-:*:*:*:*:*:*:*"
+	}
+}

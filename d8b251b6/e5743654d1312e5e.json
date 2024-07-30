@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:martintod:rotating_tweets:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Martin Tod Rotating Tweets for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/rotatingtweets/rotating-tweets-twitter-widget-and-shortcode-1910-authenticated-contributor-stored-cross-site-scripting-via-shortcode"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/rotatingtweets/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.martintod.org.uk/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:martintod:rotating_tweets:-:*:*:*:*:wordpress:*:*"
+	}
+}

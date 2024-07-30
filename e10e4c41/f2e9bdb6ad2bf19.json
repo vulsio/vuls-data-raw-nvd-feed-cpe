@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:contactlistpro:contact_list:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Contact List - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/contact-list/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.contactlistpro.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/contact-list/wordpress-contact-list-plugin-2-9-87-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contactlistpro:contact_list:-:*:*:*:*:wordpress:*:*"
+	}
+}
