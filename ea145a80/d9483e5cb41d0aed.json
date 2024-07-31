@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:eltiempoen:weather_widget_pro:1.1.40::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Eltiempoen Weather Widget Pro 1.1.40 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/weather-in-any-city-widget/wordpress-weather-widget-pro-plugin-1-1-40-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://eltiempoen.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/weather-in-any-city-widget/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eltiempoen:weather_widget_pro:1.1.40:*:*:*:*:wordpress:*:*"
+	}
+}

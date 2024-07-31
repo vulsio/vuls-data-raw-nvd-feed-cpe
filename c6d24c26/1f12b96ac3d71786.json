@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:datex-soft:e-staff:5.1",
+	"title": [
+		{
+			"text": "Datex Software E-Staff 5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/aleksey-vi/CVE-2024-40324"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.datex-soft.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://e-staff.ru/estaff_home"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:datex-soft:e-staff:5.1:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:sonarsource:sonarqube:7.9",
+	"title": [
+		{
+			"text": "SonarSource SonarQube 7.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/SonarSource/sonarqube/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sonarsource.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sonarqube.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.sonarqube.org/downloads/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonarsource:sonarqube:7.9:*:*:*:*:*:*:*"
+	}
+}
