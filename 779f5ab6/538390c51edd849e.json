@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:getaawp:easyazon:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AAWP Easyazon for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easyazon/easyazon-amazon-associates-affiliate-plugin-510-reflected-cross-site-scripting-via-easyazon-cloaking-locale"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/easyazon/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://getaawp.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getaawp:easyazon:-:*:*:*:*:wordpress:*:*"
+	}
+}

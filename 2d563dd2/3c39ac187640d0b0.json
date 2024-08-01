@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:curl:tiny_curl:8.4.0",
+	"title": [
+		{
+			"text": "Curl Tiny Curl 8.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/curl/curl/issues/13453"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/curl/curl/commit/af3f4e41#r127212213"
+		},
+		{
+			"text": "Product",
+			"href": "https://curl.se/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:curl:tiny_curl:8.4.0:*:*:*:*:*:*:*"
+	}
+}

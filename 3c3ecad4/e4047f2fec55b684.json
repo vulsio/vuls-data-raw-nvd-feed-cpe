@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:forkhq:network:0.7.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "forkhq Network 0.7.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://forkhq.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-JS-NETWORK-6184371"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.npmjs.com/package/network"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:forkhq:network:0.7.0:*:*:*:*:node.js:*:*"
+	}
+}
