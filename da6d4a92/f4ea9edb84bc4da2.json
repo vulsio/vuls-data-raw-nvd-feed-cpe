@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mjssoftware:sign_ups:1.0.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "MJS Software Sign Ups 1.0.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ptoffice-sign-ups/wordpress-pt-sign-ups-plugin-1-0-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://mjssoftware.com/sign-ups/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mjssoftware:sign_ups:1.0.4:*:*:*:*:wordpress:*:*"
+	}
+}

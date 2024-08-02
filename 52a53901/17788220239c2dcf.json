@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:master-addons:prettyphoto:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Master-Addons PrettyPhoto for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/prettyphoto/wordpress-prettyphoto-123-authenticated-contributor-stored-cross-site-scripting-via-url-parameter"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://master-addons.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:master-addons:prettyphoto:-:*:*:*:*:wordpress:*:*"
+	}
+}

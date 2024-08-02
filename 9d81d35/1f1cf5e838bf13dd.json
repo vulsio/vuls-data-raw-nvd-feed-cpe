@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:nicdarkthemes:restaurant_food:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "NicDark Themes Restaurant Food for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nicdarkthemes.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/nd-restaurant-reservations/wordpress-restaurant-reservations-plugin-2-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.nicdarkthemes.com/restaurant-wordpress-bundle/"
+		},
+		{
+			"text": "Product",
+			"href": "https://themeforest.net/item/ristorante-restaurant-wordpress-theme/23195638"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nicdarkthemes:restaurant_food:-:*:*:*:*:wordpress:*:*"
+	}
+}

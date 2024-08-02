@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:phpjabbers:appointment_scheduler:3.0",
+	"title": [
+		{
+			"text": "PHPJabbers Appointment Scheduler 3.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://medium.com/@bcksec/multiple-vulnerabilities-in-php-jabbers-scripts-25af4afcadd4"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.phpjabbers.com/appointment-scheduler/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpjabbers:appointment_scheduler:3.0:*:*:*:*:*:*:*"
+	}
+}

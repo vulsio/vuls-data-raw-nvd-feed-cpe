@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ncratleos:terminal_handler:1.5.1",
+	"title": [
+		{
+			"text": "NCR Atleos Terminal Handler 1.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.ncratleos.com/banking/atm-itm/software/terminal-handler"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2023-47024"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ncratleos:terminal_handler:1.5.1:*:*:*:*:*:*:*"
+	}
+}

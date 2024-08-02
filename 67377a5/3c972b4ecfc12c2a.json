@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:netgate:acme:0.6.3",
+	"title": [
+		{
+			"text": "Netgate ACME 0.6.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://forum.netgate.com/topic/147434/acme-0-6-3-changing-domain-key-size-on-existing-entry-renew"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://forum.netgate.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netgate:acme:0.6.3:*:*:*:*:*:*:*"
+	}
+}

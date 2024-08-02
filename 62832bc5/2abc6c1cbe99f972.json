@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:netapp:virtual_desktop_service:-",
+	"title": [
+		{
+			"text": "NetApp Virtual Desktop Service",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.netapp.com/advisory/ntap-20211223-0008/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.netapp.com/us-en/netapp-solutions/vdi-vds/hcvdivds_netapp_virtual_desktop_service_overview.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:netapp:virtual_desktop_service:-:*:*:*:*:*:*:*"
+	}
+}

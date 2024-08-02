@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ncr:terminal_handler:1.5.1",
+	"title": [
+		{
+			"text": "NCR Terminal Handler 1.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Patrick0x41/Security-Advisories/tree/main/CVE-2023-47022"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.ncr.com/content/dam/web/documents/FieldMktg_Banking_NextGen_Whitepaper_Update_v1-0.pdf"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ncr:terminal_handler:1.5.1:*:*:*:*:*:*:*"
+	}
+}
