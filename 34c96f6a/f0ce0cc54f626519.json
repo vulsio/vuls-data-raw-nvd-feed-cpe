@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:web-shop-host:startklar_elmentor_addons:1.7.15::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Web-Shop-Host Startklar Elementor Addons 1.7.15 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://web-shop-hosting.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/startklar-elmentor-forms-extwidgets/startklar-elementor-addons-1715-unauthenticated-path-traversal-to-arbitrary-directory-deletion"
+		},
+		{
+			"text": "Product",
+			"href": "https://ewe.wordpress.org/plugins/startklar-elmentor-forms-extwidgets/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:web-shop-host:startklar_elmentor_addons:1.7.15:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:tagdiv:newspaper:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "tagDiv Newspaper for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/newspaper/newspaper-1265-authenticated-author-stored-cross-site-scripting-via-attachment-meta"
+		},
+		{
+			"text": "Product",
+			"href": "https://themeforest.net/item/newspaper/5489609"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://tagdiv.com/newspaper-6-7-update/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tagdiv:newspaper:-:*:*:*:*:wordpress:*:*"
+	}
+}

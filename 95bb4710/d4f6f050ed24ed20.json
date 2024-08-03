@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:wpai:elegant_themes_icons:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPAI Elegant Themes Icons for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://agentwp.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpai.co/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/elegant-themes-icons/wordpress-elegant-themes-icons-plugin-1-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/elegant-themes-icons"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://profiles.wordpress.org/threeroutes-media/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpai:elegant_themes_icons:-:*:*:*:*:wordpress:*:*"
+	}
+}

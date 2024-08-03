@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:redhat:openshift_distributed_tracing:2.0",
+	"title": [
+		{
+			"text": "Red Hat OpenShift Distributed Tracing 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.6/html/distributed_tracing/distributed-tracing-architecture"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2024-5037"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:openshift_distributed_tracing:2.0:*:*:*:*:*:*:*"
+	}
+}

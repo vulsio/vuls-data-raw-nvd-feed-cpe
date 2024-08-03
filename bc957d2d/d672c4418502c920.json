@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sscms:sscms:7.2.2",
+	"title": [
+		{
+			"text": "SSCMS 7.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://sscms.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/M19O/Security-Advisories/tree/main/CVE-2023-43953"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/siteserver/cms"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sscms:sscms:7.2.2:*:*:*:*:*:*:*"
+	}
+}

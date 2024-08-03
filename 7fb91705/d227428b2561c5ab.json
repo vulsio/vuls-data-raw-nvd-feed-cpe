@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:seacms:seacms:12.9",
+	"title": [
+		{
+			"text": "SeaCms 12.9",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://gitee.com/fushuling/cve/blob/master/%20SeaCMS%2012.9%20phomebak.php%20code%20injection.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-23p3-vcf6-94xq"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:seacms:seacms:12.9:*:*:*:*:*:*:*"
+	}
+}

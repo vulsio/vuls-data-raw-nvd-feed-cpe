@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:labschool:social_pixel:-::~~~~wordpress~",
+	"title": [
+		{
+			"text": "Lab School Social Pixel on WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.labschool.es/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/social-pixel/#description"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/02ca09f8-4080-4969-992d-0e6afb29bc62/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:labschool:social_pixel:-:*:*:*:*:*:wordpress:*"
+	}
+}

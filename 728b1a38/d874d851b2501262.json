@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:redhat:update_infrastructure:4",
+	"title": [
+		{
+			"text": "Red Hat Update Infrastructure 4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://access.redhat.com/security/cve/CVE-2023-50781"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://access.redhat.com/documentation/en-us/red_hat_update_infrastructure/4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:redhat:update_infrastructure:4:*:*:*:*:*:*:*"
+	}
+}

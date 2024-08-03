@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:typps:calendarista:3.0.6::~~basic~wordpress~~",
+	"title": [
+		{
+			"text": "Typps Calendarista 3.0.6 Basic Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.typps.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/calendarista-basic-edition/#description"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/calendarista-basic-edition/wordpress-calendarista-basic-edition-plugin-3-0-5-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:typps:calendarista:3.0.6:*:*:*:basic:wordpress:*:*"
+	}
+}

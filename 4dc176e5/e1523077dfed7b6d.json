@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:quantumcloud:simple_video_directory:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "QuantumCloud Simple Video Directory for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/bf6c2e28-51ef-443b-b1c2-d555c7e12f7f/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.quantumcloud.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/simple-media-directory/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:quantumcloud:simple_video_directory:-:*:*:*:*:wordpress:*:*"
+	}
+}

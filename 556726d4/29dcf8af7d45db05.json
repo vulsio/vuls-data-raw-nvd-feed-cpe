@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sherlock:employee_management_system:1.0",
+	"title": [
+		{
+			"text": "Sherlock Employee Management System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BurakSevben/CVEs/blob/main/Employee%20Management%20System/Employee%20Managment%20System%20-%20SQL%20Injection%20-%204.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://code-projects.org/employee-management-system-in-php-with-source-code/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sherlock:employee_management_system:1.0:*:*:*:*:*:*:*"
+	}
+}

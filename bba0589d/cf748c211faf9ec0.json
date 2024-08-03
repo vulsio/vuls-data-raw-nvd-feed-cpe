@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:sap:master_data_synchronization:616",
+	"title": [
+		{
+			"text": "SAP Master Data Synchronization 616",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2023/32xxx/CVE-2023-32115.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/8308e6d301d54584a33cd04a9861bc52/1311c1530e58b44ce10000000a174cb4.html"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sap.com/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:master_data_synchronization:616:*:*:*:*:*:*:*"
+	}
+}
