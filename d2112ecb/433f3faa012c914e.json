@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:oracle:integrated_lights_out_manager_firmware:5.0.0",
+	"title": [
+		{
+			"text": "Oracle Integrated Lights Out Manager Firmware 5.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujan2024.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.oracle.com/en/servers/management/ilom/release-notes/updates-oracle-ilom-5.0.0-firmware.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:oracle:integrated_lights_out_manager_firmware:5.0.0:*:*:*:*:*:*:*"
+	}
+}

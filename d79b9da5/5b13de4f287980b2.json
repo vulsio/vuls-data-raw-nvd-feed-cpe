@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:clickhouse:clickhouse:22.1",
+	"title": [
+		{
+			"text": "ClickHouse 22.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://clickhouse.com/docs/en/whats-new/security-changelog"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://clickhouse.com/docs/category/changelog"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:clickhouse:clickhouse:22.1:*:*:*:*:*:*:*"
+	}
+}

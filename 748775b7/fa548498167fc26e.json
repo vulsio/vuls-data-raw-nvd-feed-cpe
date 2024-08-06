@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:netis-systems:mw5360_firmware:1.0.1.3031",
+	"title": [
+		{
+			"text": "Netis Systems MW5360 Firmware 1.0.1.3031",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.netis-systems.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/adhikara13/CVE/blob/main/netis_MW5360/blind%20command%20injection%20in%20password%20parameter%20in%20initial%20settings.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netis-systems:mw5360_firmware:1.0.1.3031:*:*:*:*:*:*:*"
+	}
+}

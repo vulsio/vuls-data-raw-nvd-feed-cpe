@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:print_my_blog_project:print_my_blog:3.3.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Print My Blog Project Print My Blog 3.3.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/print-my-blog/wordpress-print-my-blog-plugin-3-27-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/print-my-blog/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:print_my_blog_project:print_my_blog:3.3.3:*:*:*:*:wordpress:*:*"
+	}
+}

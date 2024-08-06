@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:livemesh:beaver_builder_addons:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Livemesh Beaver Builder Addons for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/addons-for-beaver-builder/wordpress-livemesh-addons-for-beaver-builder-plugin-3-6-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/addons-for-beaver-builder/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:livemesh:beaver_builder_addons:-:*:*:*:*:wordpress:*:*"
+	}
+}

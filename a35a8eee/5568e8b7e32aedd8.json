@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpextended:wp_extended:2.1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Extended 2.1.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpextended.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wpextended/wordpress-wp-extended-plugin-2-4-7-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpextended/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpextended:wp_extended:2.1.4:*:*:*:*:wordpress:*:*"
+	}
+}

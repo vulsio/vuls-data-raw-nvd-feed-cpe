@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:qualys:policy_compliance:1.0.5::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Qualys Policy Compliance 1.0.5 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://blog.qualys.com/product-tech/2020/10/16/qualys-policy-compliance-plugin-for-jenkins-now-available"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/qualys-pc/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qualys:policy_compliance:1.0.5:*:*:*:*:jenkins:*:*"
+	}
+}

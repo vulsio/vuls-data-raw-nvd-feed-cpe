@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:ubports:ubuntu_touch:16.04",
+	"title": [
+		{
+			"text": "Ubports Ubuntu Touch 16.04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/filipkarc/PoC-ubuntutouch-pin-privesc"
+		},
+		{
+			"text": "Product",
+			"href": "https://ubuntu-touch.io/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://ubports.com/en/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ubports:ubuntu_touch:16.04:*:*:*:*:*:*:*"
+	}
+}
