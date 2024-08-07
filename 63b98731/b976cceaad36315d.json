@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:myrecorp:export_wp_page_to_static_html%2fcss:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ReCorp Export WP Page to Static HTML/CSS for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/export-wp-page-to-static-html/export-wp-page-to-static-htmlcss-222-open-redirect"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/export-wp-page-to-static-html/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:myrecorp:export_wp_page_to_static_html\\/css:-:*:*:*:*:wordpress:*:*"
+	}
+}

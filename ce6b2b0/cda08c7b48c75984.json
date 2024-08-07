@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:mysql_cluster:8.2.0",
+	"title": [
+		{
+			"text": "Oracle MySQL  Cluster 8.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpujul2024.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://dev.mysql.com/doc/relnotes/mysql-cluster/8.1/en/preface.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:mysql_cluster:8.2.0:*:*:*:*:*:*:*"
+	}
+}

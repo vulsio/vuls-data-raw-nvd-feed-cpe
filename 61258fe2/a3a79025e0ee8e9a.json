@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sevenspark:ubermenu:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SevenSpark UberMenu for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://sevenspark.com/ubermenu"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ubermenu/ubermenu-383-cross-site-request-forgery-to-settings-reset"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sevenspark:ubermenu:-:*:*:*:*:wordpress:*:*"
+	}
+}
