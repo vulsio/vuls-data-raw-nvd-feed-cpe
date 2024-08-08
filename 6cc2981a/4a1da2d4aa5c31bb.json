@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:linuxfoundation:argo_continuous_delivery:1.7.12::~~~kubernetes~~",
+	"deprecated": true,
+	"deprecation_date": "2024-08-07T15:43:47.567Z",
 	"title": [
 		{
 			"text": "The Linux Foundation Argo Continuous Delivery 1.7.12 for Kubernetes",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.7.12:*:*:*:*:kubernetes:*:*"
+		"name": "cpe:2.3:a:linuxfoundation:argo_continuous_delivery:1.7.12:*:*:*:*:kubernetes:*:*",
+		"deprecation": {
+			"date": "2024-08-07T11:43:47.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:argoproj:argo_cd:1.7.12:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

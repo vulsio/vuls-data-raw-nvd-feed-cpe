@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:e-bmsoft:bmplanning:1.0.0.1",
+	"title": [
+		{
+			"text": "E-bmsoft BMPlanning 1.0.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/post-cyberlabs/CVE-Advisory/blob/main/CVE-2024-28298_BMPlanning%28BM-Soft%29_Authenticated%20SQLI.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.e-bmsoft.com/#product"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:e-bmsoft:bmplanning:1.0.0.1:*:*:*:*:*:*:*"
+	}
+}

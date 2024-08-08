@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nats:nkeys:0.4.6",
+	"title": [
+		{
+			"text": "NATS NKEYS 0.4.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/nats-io/nkeys/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://nats.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/nats-io/nkeys/security/advisories/GHSA-mr45-rx8q-wcm9"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nats:nkeys:0.4.6:*:*:*:*:*:*:*"
+	}
+}
