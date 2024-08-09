@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:microsoft:sql_server:2016:sp1",
+	"deprecated": true,
+	"deprecation_date": "2024-08-08T18:24:57.920Z",
 	"title": [
 		{
 			"text": "Microsoft SQL Server 2016 Service Pack 1",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:microsoft:sql_server:2016:sp1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-08T14:24:57.920-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server_2016:13.0.4001.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

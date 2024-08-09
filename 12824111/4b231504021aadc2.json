@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:microsoft:sql_server:2022:cumulative_update_10",
+	"deprecated": true,
+	"deprecation_date": "2024-08-08T17:43:08.363Z",
 	"title": [
 		{
 			"text": "Microsoft Sql Server 2022 Cumulative Update 10",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_10:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:microsoft:sql_server:2022:cumulative_update_10:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-08T13:43:08.363-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server_2022:16.0.4095.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

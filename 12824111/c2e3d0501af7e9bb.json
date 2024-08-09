@@ -1,18 +1,31 @@
 {
 	"name": "cpe:/a:microsoft:sql_server:2019:cumulative_update_22",
+	"deprecated": true,
+	"deprecation_date": "2024-08-08T17:20:16.220Z",
 	"title": [
 		{
-			"text": "Microsoft SQL Server 2019 Cumulative Update 22",
+			"text": "Microsoft SQL Server 2019 2019 Cumulative Update 22",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36785"
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2019/build-versions"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.microsoft.com/en-us/sql-server/sql-server-2019"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:sql_server:2019:cumulative_update_22:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:microsoft:sql_server:2019:cumulative_update_22:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-08T13:20:16.220-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server_2019:15.0.4322.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

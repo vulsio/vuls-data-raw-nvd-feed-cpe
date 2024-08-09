@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:microsoft:sql_server:2022::~~~~x64~",
+	"deprecated": true,
+	"deprecation_date": "2024-08-08T17:43:08.363Z",
 	"title": [
 		{
-			"text": "Microsoft SQL Server 2022 on x64",
+			"text": "Microsoft Sql Server 2022 on X64",
 			"lang": "en-US"
 		}
 	],
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*"
+		"name": "cpe:2.3:a:microsoft:sql_server:2022:*:*:*:*:*:x64:*",
+		"deprecation": {
+			"date": "2024-08-08T13:43:08.363-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server_2022:16.0.1110.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

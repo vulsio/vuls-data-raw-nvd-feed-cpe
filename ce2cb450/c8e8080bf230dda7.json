@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:carlosfazenda:page_and_post_clone:1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Carlos Fazenda Page and Post Clone 1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://carlosfazenda.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/page-or-post-clone/page-and-post-clone-60-insecure-direct-object-reference-to-authenticated-author-sensitive-information-exposure"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/page-or-post-clone/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:carlosfazenda:page_and_post_clone:1.1:*:*:*:*:wordpress:*:*"
+	}
+}

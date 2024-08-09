@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:microsoft:sql_server:2016:sp2:~~~~x64~",
+	"deprecated": true,
+	"deprecation_date": "2024-08-08T18:20:26.983Z",
 	"title": [
 		{
-			"text": "Microsoft SQL Server 2016 Service Pack 2 on x64",
+			"text": "Microsoft SQL Server 2016 2016 Service Pack 2 on X64",
 			"lang": "en-US"
 		}
 	],
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*"
+		"name": "cpe:2.3:a:microsoft:sql_server:2016:sp2:*:*:*:*:x64:*",
+		"deprecation": {
+			"date": "2024-08-08T14:20:26.983-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:microsoft:sql_server_2016:13.0.5026.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
