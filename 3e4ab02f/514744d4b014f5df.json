@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:adtran:sdg_smartos:12.5.5.1",
+	"title": [
+		{
+			"text": "Adtran SDG SmartOS 12.5.5.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://supportcommunity.adtran.com/t5/Release-Notes/tkb-p/res-gateways-doc-release-notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/cve/blob/main/AdTran/CVE-2024-31977"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:adtran:sdg_smartos:12.5.5.1:*:*:*:*:*:*:*"
+	}
+}
