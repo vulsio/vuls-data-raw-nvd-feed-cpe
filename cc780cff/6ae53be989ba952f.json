@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:gl-inet:mt2500:-",
+	"title": [
+		{
+			"text": "GL.iNet MT2500 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gl-inet.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gl-inet/CVE-issues/blob/main/4.0.0/Bypass%20the%20login%20mechanism.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:gl-inet:mt2500:-:*:*:*:*:*:*:*"
+	}
+}

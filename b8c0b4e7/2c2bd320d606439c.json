@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:6.6.34",
+	"title": [
+		{
+			"text": "Linux Kernel 6.6.34",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://bugzilla.redhat.com/show_bug.cgi?id=2296046"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/39xxx/CVE-2024-39485.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:6.6.34:*:*:*:*:*:*:*"
+	}
+}

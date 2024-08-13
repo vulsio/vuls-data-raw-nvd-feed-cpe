@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:5.10.222",
+	"title": [
+		{
+			"text": "Linux Kernel 5.10.222",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/41xxx/CVE-2024-41007.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v5.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.10.222:*:*:*:*:*:*:*"
+	}
+}

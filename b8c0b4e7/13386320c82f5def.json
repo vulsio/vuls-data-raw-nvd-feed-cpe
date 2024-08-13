@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:6.10.3",
+	"title": [
+		{
+			"text": "Linux Kernel 6.10.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/refs/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:6.10.3:*:*:*:*:*:*:*"
+	}
+}

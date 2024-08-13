@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:freebsd:freebsd:14.0:p7",
+	"title": [
+		{
+			"text": "FreeBSD 14.0 Patch 7",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.freebsd.org/security/advisories/FreeBSD-SA-24:04.openssh.asc"
+		},
+		{
+			"text": "Version",
+			"href": "https://bokut.in/freebsd-patch-level-table/#releng/14.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:freebsd:freebsd:14.0:p7:*:*:*:*:*:*"
+	}
+}
