@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:streamlit:streamlit:1.10.1:dev20220622",
+	"deprecated": true,
+	"deprecation_date": "2024-08-13T12:50:56.590Z",
 	"title": [
 		{
 			"text": "Streamlit 1.10.1 Dev20220622",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://streamlit.io/"
-		},
-		{
 			"text": "Product",
 			"href": "https://github.com/streamlit/streamlit"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://streamlit.io/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:streamlit:streamlit:1.10.1:dev20220622:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:streamlit:streamlit:1.10.1:dev20220622:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-13T08:50:56.590-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:snowflake:streamlit:1.10.1:dev20220622:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

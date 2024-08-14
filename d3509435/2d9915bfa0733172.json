@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:streamlit:streamlit:0.65.3:dev20200822",
+	"deprecated": true,
+	"deprecation_date": "2024-08-13T12:47:05.670Z",
 	"title": [
 		{
 			"text": "Streamlit 0.65.3 Dev20200822",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:streamlit:streamlit:0.65.3:dev20200822:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:streamlit:streamlit:0.65.3:dev20200822:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-13T08:47:05.670-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:snowflake:streamlit:0.65.3:dev20200822:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
