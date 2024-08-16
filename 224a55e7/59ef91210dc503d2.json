@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:asterisk:open_source:13.9.0",
+	"deprecated": true,
+	"deprecation_date": "2024-08-15T12:44:23.460Z",
 	"title": [
 		{
 			"text": "Asterisk Open Source 13.9.0",
@@ -10,13 +12,16 @@
 		{
 			"text": "Version",
 			"href": "https://downloads.asterisk.org/pub/telephony/certified-asterisk/releases/"
-		},
-		{
-			"text": "Version",
-			"href": "https://github.com/asterisk/asterisk/releases"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:asterisk:open_source:13.9.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:asterisk:open_source:13.9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-15T08:44:23.460-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sangoma:asterisk:13.9.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:adobe:magento:2.4.4:p9:~~open_source~~~",
+	"title": [
+		{
+			"text": "Adobe Magento 2.4.4 Patch 9 Open Source Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/magento/magento2/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/magento-open-source/overview"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:adobe:magento:2.4.4:p9:*:*:open_source:*:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:scilico:i%2c_librarian:5.10.3",
+	"title": [
+		{
+			"text": "Scilico I, Librarian 5.10.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://i-librarian.net/"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.scilico.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nitipoom-jar.github.io/CVE-2024-40500/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/mkucej/i-librarian-free/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:scilico:i\\,_librarian:5.10.3:*:*:*:*:*:*:*"
+	}
+}
