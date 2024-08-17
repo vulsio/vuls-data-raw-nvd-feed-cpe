@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mongodb:mongodb:6.0.0::~~enterprise~~~",
+	"title": [
+		{
+			"text": "MongoDB 6.0.0 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mongodb.com/try/download/enterprise"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.mongodb.com/docs/v6.0/release-notes/6.0-changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:mongodb:6.0.0:*:*:*:enterprise:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nvidia:virtual_gpu:17.2",
+	"title": [
+		{
+			"text": "NVIDIA Virtual GPU (vGPU) 17.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.nvidia.com/en-us/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5557"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.nvidia.com/vgpu/get-grid-version.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:virtual_gpu:17.2:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:robogallery:robo_gallery:3.2.19::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Robo Gallery 3.2.19 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.robogallery.co/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/robo-gallery/photo-gallery-images-slider-in-rbs-image-gallery-3219-authenticated-contributor-stored-cross-site-scripting-via-gallery-title"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/robo-gallery/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:robogallery:robo_gallery:3.2.19:*:*:*:*:wordpress:*:*"
+	}
+}
