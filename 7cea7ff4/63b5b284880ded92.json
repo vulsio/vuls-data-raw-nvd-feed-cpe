@@ -1,18 +1,47 @@
 {
 	"name": "cpe:/a:stormshield:network_security:4.3.17::~~ltsb~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-08-20T14:58:52.787Z",
 	"title": [
 		{
-			"text": "Stormshield Network Security 4.3.17 Long-Term Support Branch Edition",
+			"text": "Stormshield Network Security (SNS) 4.3.17 Ltsb Edition",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Version",
+			"href": "https://documentation.stormshield.eu/SNS/v4/en/Content/PDF/ReleaseNotesSNS/sns-en-release_notes-v4.6.6.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.stormshield.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS/Previous-Versions.htm"
+		},
+		{
+			"text": "Version",
+			"href": "https://documentation.stormshield.eu/SNS/v3/en/Content/Release_Notes_SNS/Previous-Versions.htm"
+		},
+		{
+			"text": "Version",
+			"href": "https://documentation.stormshield.eu/SNS/v2/en/Content/Release_Notes_SNS/Getting_Started_RNO.htm"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://documentation.stormshield.eu/SNS/v4/en/Content/Release_Notes_SNS_LTSB/Previous-Versions.htm"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:ltsb:*:*:*"
+		"name": "cpe:2.3:a:stormshield:network_security:4.3.17:*:*:*:ltsb:*:*:*",
+		"deprecation": {
+			"date": "2024-08-20T10:58:52.787-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:stormshield:stormshield_network_security:4.3.17:*:*:*:ltsb:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

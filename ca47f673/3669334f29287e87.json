@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:cayintech:cms-se:-",
+	"deprecated": true,
+	"deprecation_date": "2024-08-20T11:54:56.060Z",
 	"title": [
 		{
 			"text": "Cayintech CMS-SE",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:cayintech:cms-se:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:cayintech:cms-se:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-20T07:54:56.060-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cayintech:cms-se:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:zenml:zenml:-",
+	"title": [
+		{
+			"text": "ZenML",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/zenml-io/zenml/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/zenml-io/zenml"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/5xxx/CVE-2024-5062.json"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.zenml.io/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zenml:zenml:-:*:*:*:*:*:*:*"
+	}
+}

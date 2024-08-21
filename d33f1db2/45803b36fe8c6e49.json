@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:rust-bitcoin:miniscript:0.5.0::~~~rust~~",
+	"title": [
+		{
+			"text": "rust-bitcoin Miniscript 0.5.0 for Rust",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://rust-bitcoin.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/rust-bitcoin/rust-miniscript/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/rust-bitcoin/rust-miniscript/pull/704"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:rust-bitcoin:miniscript:0.5.0:*:*:*:*:rust:*:*"
+	}
+}
