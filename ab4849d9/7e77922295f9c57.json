@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:lfedge:ekuiper:1.14.0:alpha2",
+	"title": [
+		{
+			"text": "LF EDGE eKuiper 1.14.0 Alpha 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://lfedge.org/projects/ekuiper/"
+		},
+		{
+			"text": "Product",
+			"href": "https://ekuiper.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/lf-edge/ekuiper/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/lf-edge/ekuiper/security/advisories/GHSA-r5ph-4jxm-6j9p"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lfedge:ekuiper:1.14.0:alpha2:*:*:*:*:*:*"
+	}
+}
