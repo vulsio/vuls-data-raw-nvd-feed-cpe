@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:dlink:dar-7000_firmware:2023-09-22",
+	"title": [
+		{
+			"text": "Dlink DAR-7000 FIRMWARE 2023-09-22",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/flyyue2001/cve/blob/main/D-LINK%20-DAR-7000_rce_%20decodmail.md"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/6xxx/CVE-2024-6525.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dar-7000_firmware:2023-09-22:*:*:*:*:*:*:*"
+	}
+}

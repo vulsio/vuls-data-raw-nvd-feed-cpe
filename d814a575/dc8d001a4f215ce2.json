@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:naga_project:naga:-",
+	"deprecated": true,
+	"deprecation_date": "2024-08-27T14:12:57.100Z",
 	"title": [
 		{
 			"text": "naga Project naga",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:naga_project:naga:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:naga_project:naga:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-27T10:12:57.100-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:gfx-rs:naga:-:*:*:*:*:rust:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

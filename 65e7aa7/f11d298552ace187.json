@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:ipswitch:whatsup_gold:15.02",
+	"deprecated": true,
+	"deprecation_date": "2024-08-27T17:48:23.160Z",
 	"title": [
 		{
 			"text": "Ipswitch WhatsUp Gold 15.02",
@@ -7,6 +9,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ipswitch:whatsup_gold:15.02:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:ipswitch:whatsup_gold:15.02:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-27T13:48:23.160-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:progress:whatsup_gold:15.02:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
