@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:responsive_hotel_site_project:responsive_hotel_site:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-08-28T17:20:30.350Z",
 	"title": [
 		{
 			"text": "Responsive Hotel Site Project Responsive Hotel Site 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:responsive_hotel_site_project:responsive_hotel_site:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:responsive_hotel_site_project:responsive_hotel_site:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-28T13:20:30.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fabianros:responsive_hotel_site:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

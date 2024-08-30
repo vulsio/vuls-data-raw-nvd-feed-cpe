@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:siemens:medicalis_workflow_orchestrator:-",
+	"title": [
+		{
+			"text": "Siemens Medicalis Workflow Orchestrator ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.siemens-healthineers.com/en-us/digital-health-solutions/medicalis/workflow-orchestrator"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/37xxx/CVE-2024-37999.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:medicalis_workflow_orchestrator:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:mongodb:mongodb:6.1.1",
+	"title": [
+		{
+			"text": "MongoDB 6.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://jira.mongodb.org/browse/SERVER-69507"
+		},
+		{
+			"text": "Version",
+			"href": "https://jira.mongodb.org/browse/SERVER-69096?jql=project%20%3D%20%2210000%22%20AND%20fixVersion%20%3D%206.1.0-rc0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:mongodb:6.1.1:*:*:*:*:*:*:*"
+	}
+}

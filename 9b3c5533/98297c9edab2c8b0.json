@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:umbraco:umbraco_cms:14.0.0:rc1",
+	"title": [
+		{
+			"text": "Umbraco CMS 14.0.0 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/umbraco/Umbraco-CMS/security/advisories/GHSA-77gj-crhp-3gvx"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://umbraco.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/umbraco/Umbraco-CMS/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:umbraco:umbraco_cms:14.0.0:rc1:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:app%3a%3acpanminus_project:app%3a%3acpanminus:1.7045::~~~perl~~",
+	"title": [
+		{
+			"text": "App::cpanminus Project App::cpanminus 1.7045 for Perl",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.metacpan.org/2024/08/26/cpanminus-downloads-code-using-insecure-http.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/miyagawa/cpanminus/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:app\\:\\:cpanminus_project:app\\:\\:cpanminus:1.7045:*:*:*:*:perl:*:*"
+	}
+}

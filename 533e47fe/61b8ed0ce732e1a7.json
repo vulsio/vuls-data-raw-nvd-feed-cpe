@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:dromara:hertzbeat:1.4.2",
+	"deprecated": true,
+	"deprecation_date": "2024-08-28T15:44:18.630Z",
 	"title": [
 		{
 			"text": "Dromara HertzBeat 1.4.2",
@@ -25,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:dromara:hertzbeat:1.4.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:dromara:hertzbeat:1.4.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-08-28T11:44:18.630-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apache:hertzbeat:1.4.2:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
