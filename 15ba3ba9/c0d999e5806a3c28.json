@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:fiware:keyrock:7.4.0",
+	"title": [
+		{
+			"text": "FIWARE Keyrock 7.4.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.fiware.org/"
+		},
+		{
+			"text": "Product",
+			"href": "https://keyrock-fiware.github.io/"
+		},
+		{
+			"text": "Product",
+			"href": "https://fiware-idm.readthedocs.io/en/latest/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/ging/fiware-idm/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://pentest.ait.ac.at/security-advisory/fiware-keyrock-manipulate-passwords-of-any-user/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fiware:keyrock:7.4.0:*:*:*:*:*:*:*"
+	}
+}

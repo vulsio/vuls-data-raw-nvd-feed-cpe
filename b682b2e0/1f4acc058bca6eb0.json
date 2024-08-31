@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:smashballoon:reviews_feed:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Smash Balloon Reviews Feed for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://smashballoon.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/reviews-feed/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/reviews-feed/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/reviews-feed/reviews-feed-add-testimonials-and-customer-reviews-from-google-reviews-yelp-tripadvisor-and-more-112-missing-authorization-to-authenticated-subscriber-limited-settings-update"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:smashballoon:reviews_feed:-:*:*:*:*:wordpress:*:*"
+	}
+}
