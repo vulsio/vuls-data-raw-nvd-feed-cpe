@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:zephyrproject:zephyr:3.2.31",
+	"deprecated": true,
+	"deprecation_date": "2024-09-03T13:24:11.433Z",
 	"title": [
 		{
 			"text": "Zephyrproject Zephyr 3.2.31",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:zephyrproject:zephyr:3.2.31:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:zephyrproject:zephyr:3.2.31:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-03T09:24:11.433-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zephyrproject:zephyr_project_manager:3.2.31:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
