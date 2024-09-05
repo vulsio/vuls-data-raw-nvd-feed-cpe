@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:phpspreadsheet_project:phpspreadsheet:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2024-09-04T17:45:30.340Z",
 	"title": [
 		{
 			"text": "PhpSpreadsheet Project PhpSpreadsheet 1.6.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.6.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:phpspreadsheet_project:phpspreadsheet:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-04T13:45:30.340-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:phpoffice:phpspreadsheet:1.6.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

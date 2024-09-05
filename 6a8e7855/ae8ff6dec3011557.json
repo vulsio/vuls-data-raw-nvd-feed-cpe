@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:delinea:privileged_access_service:21.3",
+	"title": [
+		{
+			"text": "Delinea Privileged Access Service 21.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/klsecservices/Advisories/blob/master/K-Delinea-2023-001.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.delinea.com/online-help/cloud-suite/checklists/pas-checklist.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:delinea:privileged_access_service:21.3:*:*:*:*:*:*:*"
+	}
+}
