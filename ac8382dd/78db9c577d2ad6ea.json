@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:cryptography:cryptography:-",
+	"deprecated": true,
+	"deprecation_date": "2024-09-05T16:16:43.553Z",
 	"title": [
 		{
 			"text": "Cryptography Cryptography",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:cryptography:cryptography:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:cryptography:cryptography:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-05T12:16:43.553-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cryptography.io:cryptography:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

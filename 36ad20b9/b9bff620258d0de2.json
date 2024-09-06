@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:python-cryptography_project:python-cryptography:3.2",
+	"deprecated": true,
+	"deprecation_date": "2024-09-05T16:10:54.107Z",
 	"title": [
 		{
 			"text": "Python-cryptography Project Python-cryptography 3.2",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:python-cryptography_project:python-cryptography:3.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:python-cryptography_project:python-cryptography:3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-05T12:10:54.107-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cryptography.io:cryptography:3.2:*:*:*:*:python:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
