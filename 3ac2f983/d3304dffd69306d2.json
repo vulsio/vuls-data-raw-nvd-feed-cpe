@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:establishment_billing_management_system_project:establishment_billing_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-09-07T12:56:40.797Z",
 	"title": [
 		{
 			"text": "Establishment Billing Management System Project Establishment Billing Management System 1.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:establishment_billing_management_system_project:establishment_billing_management_system:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:establishment_billing_management_system_project:establishment_billing_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-07T08:56:40.797-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oretnom23:establishment_billing_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_data_science_virtual_machine:-::~~~linux~~",
+	"title": [
+		{
+			"text": "Microsoft Azure Data Science Virtual Machine for Linux",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/release-notes?view=azureml-api-2"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-37325"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_data_science_virtual_machine:-:*:*:*:*:linux:*:*"
+	}
+}

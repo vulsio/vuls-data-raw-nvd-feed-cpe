@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oretnom23:clinic%27s_patient_management_system:2.0",
+	"title": [
+		{
+			"text": "oretnom23 Clinic's Patient Management System 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CyberThoth/CVE/blob/8c6b66919be1bd66a54c16cc27cbdd9793221d3e/CVE/Clinic's%20Patient%20Management%20System/Unrestricted%20file%20upload%20(RCE)/POC.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sourcecodester.com/php-clinics-patient-management-system-source-code"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oretnom23:clinic\\'s_patient_management_system:2.0:*:*:*:*:*:*:*"
+	}
+}
