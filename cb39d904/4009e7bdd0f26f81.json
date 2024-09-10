@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:adobe:experience_manager:6.1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-09-09T18:41:14.110Z",
 	"title": [
 		{
 			"text": "Adobe Experience Manager 6.1.0",
@@ -8,11 +10,62 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://docs.adobe.com/content/docs/en/aem/6-1.html"
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb23-43.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb23-18.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb22-59.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb22-40.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb21-15.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-72.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-56.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-31.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-01.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.adobe.com/marketing/experience-manager.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:adobe:experience_manager:6.1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:adobe:experience_manager:6.1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-09T14:41:14.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:experience_manager:6.1:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,26 +1,71 @@
 {
 	"name": "cpe:/a:adobe:experience_manager:6.2.0.0:sp1-cfp10",
+	"deprecated": true,
+	"deprecation_date": "2024-09-09T18:41:14.110Z",
 	"title": [
 		{
-			"text": "Adobe Experience Manager 6.2.0.0 Service Pack 1-Cumulative Fix Pack 10",
+			"text": "Adobe Experience Manager 6.2.0.0 SP1-CFP10",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.adobe.com/"
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb23-43.html"
 		},
 		{
-			"text": "Version",
-			"href": "https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html"
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb23-18.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb22-59.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb22-40.html"
 		},
 		{
 			"text": "Change Log",
-			"href": "https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html"
+			"href": "https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb21-15.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-72.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-56.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-31.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://helpx.adobe.com/security/products/experience-manager/apsb20-01.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.adobe.com/marketing/experience-manager.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://helpx.adobe.com/experience-manager/aem-releases-updates.html"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp10:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp10:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-09T14:41:14.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:experience_manager:6.2.0.0:sp1-cfp10:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpsoul:greenshift_query_addon:2.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPsoul Greenshift Query Addon 2.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/greenshiftquery/wordpress-greenshift-query-and-meta-addon-plugin-3-9-2-subscriber-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://greenshiftwp.com/changelog/"
+		},
+		{
+			"text": "Product",
+			"href": "https://shop.greenshiftwp.com/downloads/query-addon/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpsoul.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpsoul:greenshift_query_addon:2.8:*:*:*:*:wordpress:*:*"
+	}
+}

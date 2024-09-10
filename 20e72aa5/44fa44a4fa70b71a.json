@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:openharmony:openharmony:3.1.6::~~-~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-09T12:21:51.920Z",
 	"title": [
 		{
 			"text": "OpenHarmony 3.1.6",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:openharmony:openharmony:3.1.6:*:*:*:-:*:*:*"
+		"name": "cpe:2.3:a:openharmony:openharmony:3.1.6:*:*:*:-:*:*:*",
+		"deprecation": {
+			"date": "2024-09-09T08:21:51.920-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:openatom:openharmony:3.1.6:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
