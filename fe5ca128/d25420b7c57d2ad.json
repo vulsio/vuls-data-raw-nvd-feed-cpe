@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:incsub:forminator:1.14.10.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-10T14:59:52.380Z",
 	"title": [
 		{
 			"text": "Incsub Forminator 1.14.10.1 for WordPress",
@@ -7,6 +9,14 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://wpmudev.com/project/forminator-pro/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/browser/forminator/trunk/readme.txt"
+		},
 		{
 			"text": "Product",
 			"href": "https://wordpress.org/plugins/forminator/"
@@ -21,6 +31,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:incsub:forminator:1.14.10.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:incsub:forminator:1.14.10.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-10T10:59:52.380-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:incsub:forminator:1.14.10.1:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

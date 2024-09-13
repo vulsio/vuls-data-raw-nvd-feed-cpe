@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sonicwall:netextender:10.2.339::~~~windows~~",
+	"title": [
+		{
+			"text": "SonicWall NetExtender 10.2.339 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.mysonicwall.com/muir/freedownloads"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0011"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sonicwall:netextender:10.2.339:*:*:*:*:windows:*:*"
+	}
+}

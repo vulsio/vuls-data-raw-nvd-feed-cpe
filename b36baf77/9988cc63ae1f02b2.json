@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:hwameistor:hwameistor:0.7.0::~~~go~~",
+	"title": [
+		{
+			"text": "Hwameistor 0.7.0 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://hwameistor.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hwameistor/hwameistor/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/hwameistor/hwameistor/security/advisories/GHSA-mgwr-h7mv-fh29"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/hwameistor/hwameistor/issues/1460"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hwameistor:hwameistor:0.7.0:*:*:*:*:go:*:*"
+	}
+}
