@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:crocoblock:jetelements:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Crocoblock JetelEments for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://crocoblock.com/changelog/?plugin=jet-elements"
+		},
+		{
+			"text": "Product",
+			"href": "https://crocoblock.com/plugins/jetelements/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/jet-elements/jetelements-2620-authenticated-contributor-stored-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:crocoblock:jetelements:-:*:*:*:*:wordpress:*:*"
+	}
+}

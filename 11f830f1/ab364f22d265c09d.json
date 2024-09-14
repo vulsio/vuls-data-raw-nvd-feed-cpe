@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cyberchimps:responsive_blocks:1.7.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CyberChimps Responsive Blocks 1.7.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/responsive-block-editor-addons/wordpress-responsive-blocks-wordpress-gutenberg-blocks-plugin-1-8-8-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://cyberchimps.com/blocks/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/responsive-block-editor-addons/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyberchimps:responsive_blocks:1.7.3:*:*:*:*:wordpress:*:*"
+	}
+}
