@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:qnap:helpdesk:-",
+	"title": [
+		{
+			"text": "QNAP Helpdesk",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.qnap.com/en/security-advisory/qsa-24-29"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.qnap.com/en-us/app_releasenotes/list.php?app_choose=helpdesk"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:qnap:helpdesk:-:*:*:*:*:*:*:*"
+	}
+}

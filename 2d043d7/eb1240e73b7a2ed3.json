@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:squeeze_project:squeeze:1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Squeeze Project Squeeze 1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/squeeze/wordpress-squeeze-plugin-1-4-arbitrary-file-upload-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/squeeze/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:squeeze_project:squeeze:1.2:*:*:*:*:wordpress:*:*"
+	}
+}

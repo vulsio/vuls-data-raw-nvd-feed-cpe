@@ -1,22 +1,35 @@
 {
 	"name": "cpe:/a:themify:themify_ultra:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-16T14:11:41.993Z",
 	"title": [
 		{
-			"text": "Themify Themify Ultra - for WordPress",
+			"text": "Themify Themify Ultra for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Product",
-			"href": "https://themify.org/ultra/"
+			"text": "Change Log",
+			"href": "https://themify.org/changelogs/themify-ultra.txt"
 		},
 		{
-			"text": "Advisory",
-			"href": "https://patchstack.com/database/vulnerability/themify-ultra/wordpress-themify-ultra-theme-7-3-3-authenticated-php-object-injection-vulnerability?_s_id=cve"
+			"text": "Product",
+			"href": "https://themify.me/themes/ultra"
+		},
+		{
+			"text": "Product",
+			"href": "https://themify.org/ultra/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:themify:themify_ultra:-:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:themify:themify_ultra:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-16T10:11:41.993-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:themify:ultra:-:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
