@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sir:gnuboard:5.56",
+	"deprecated": true,
+	"deprecation_date": "2024-09-19T11:44:29.350Z",
 	"title": [
 		{
 			"text": "SIR GNUBoard 5.56",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sir:gnuboard:5.56:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:sir:gnuboard:5.56:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-19T07:44:29.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sir:gnuboard:5.5.6:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
