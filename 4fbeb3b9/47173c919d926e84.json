@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:woocommerce:woocommerce:8.4.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WooCommerce 8.4.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/woocommerce/woocommerce/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://woocommerce.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woocommerce:woocommerce:8.4.0:*:*:*:*:wordpress:*:*"
+	}
+}

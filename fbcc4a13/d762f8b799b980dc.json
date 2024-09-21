@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:omnitauth-saml_project:omnitauth-saml:1.6.0",
+	"deprecated": true,
+	"deprecation_date": "2024-09-20T16:21:05.797Z",
 	"title": [
 		{
 			"text": "OmnitAuth-SAML Project OmnitAuth-SAML 1.6.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:1.6.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:omnitauth-saml_project:omnitauth-saml:1.6.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-09-20T12:21:05.797-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:omniauth:omniauth_saml:1.6.0:*:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
