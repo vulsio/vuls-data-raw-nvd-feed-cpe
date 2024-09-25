@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:openjsf:body-parser:1.8.2::~~~node.js~~",
+	"title": [
+		{
+			"text": "OpenJS Foundation body-parser 1.8.2 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.npmjs.com/package/body-parser"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/expressjs/body-parser/security/advisories/GHSA-qwcr-r2fm-qrc7"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/expressjs/body-parser/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://openjsf.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openjsf:body-parser:1.8.2:*:*:*:*:node.js:*:*"
+	}
+}

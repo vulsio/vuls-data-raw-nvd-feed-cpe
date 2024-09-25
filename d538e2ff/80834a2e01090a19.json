@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:cryoutcreations:parabola:1.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cryout Creations Parabola 1.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/parabola/wordpress-parabola-theme-2-4-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/browser/parabola?rev=242999"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cryoutcreations.eu/wordpress-themes/parabola"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/parabola/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cryoutcreations:parabola:1.2.0:*:*:*:*:wordpress:*:*"
+	}
+}

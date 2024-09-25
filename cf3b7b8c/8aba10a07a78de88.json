@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:openjsf:express:4.19.1::~~~node.js~~",
+	"title": [
+		{
+			"text": "OpenJS Foundation Express 4.19.1 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/expressjs/express/security/advisories/GHSA-qw6h-vgh9-j6wx"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/expressjs/express/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openjsf:express:4.19.1:*:*:*:*:node.js:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:openjsf:serve-static:1.7.0::~~~node.js~~",
+	"title": [
+		{
+			"text": "OpenJS Foundation serve-static 1.7.0 for Node.js",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/expressjs/serve-static/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/expressjs/serve-static/security/advisories/GHSA-cm22-4g7w-348p"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://openjsf.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:openjsf:serve-static:1.7.0:*:*:*:*:node.js:*:*"
+	}
+}
