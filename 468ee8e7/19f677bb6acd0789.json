@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:surecart:surecart:2.25.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SureCart 2.25.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://surecart.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/surecart/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/surecart/wordpress-surecart-plugin-2-29-3-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:surecart:surecart:2.25.0:*:*:*:*:wordpress:*:*"
+	}
+}

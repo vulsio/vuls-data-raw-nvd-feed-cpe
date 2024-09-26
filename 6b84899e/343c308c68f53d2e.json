@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:awpcp:another_wordpress_classifieds_plugin:3.3.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-25T14:33:46.627Z",
 	"title": [
 		{
 			"text": "AWPCP Another WordPress Classifieds Plugin for WordPress 3.3.1",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:awpcp:another_wordpress_classifieds_plugin:3.3.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-25T10:33:46.627-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:strategy11:awp_classifieds:3.3.1:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

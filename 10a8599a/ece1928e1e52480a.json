@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:cyberhobo:geo_mashup:1.13.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cyberhobo Geo Mashup 1.13.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/geo-mashup/wordpress-geo-mashup-plugin-1-13-12-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/cyberhobo/wordpress-geo-mashup/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cyberhobo.net/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/geo-mashup/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cyberhobo:geo_mashup:1.13.2:*:*:*:*:wordpress:*:*"
+	}
+}

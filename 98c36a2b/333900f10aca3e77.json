@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:strategy11:awp_classifieds:4.3.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Strategy11 AWP Classifieds 4.3.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/another-wordpress-classifieds-plugin/wordpress-awp-classifieds-plugin-4-3-1-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://awpcp.com/plugins/awp-classifieds/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/another-wordpress-classifieds-plugin/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://strategy11.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://awpcp.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strategy11:awp_classifieds:4.3.2:*:*:*:*:wordpress:*:*"
+	}
+}

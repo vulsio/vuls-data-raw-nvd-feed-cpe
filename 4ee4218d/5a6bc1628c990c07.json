@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:envoyproxy:envoy:1.30.4",
+	"title": [
+		{
+			"text": "Envoy Proxy Envoy 1.30.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/envoyproxy/envoy/security/advisories/GHSA-ffhv-fvxq-r6mf"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/envoyproxy/envoy/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:envoyproxy:envoy:1.30.4:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:cryoutcreations:roseta:1.0.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CRYOUT CREATIONS Roseta 1.0.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/roseta/wordpress-roseta-theme-1-3-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/roseta/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/roseta"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cryoutcreations.eu/wordpress-themes/roseta"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cryoutcreations:roseta:1.0.7:*:*:*:*:wordpress:*:*"
+	}
+}

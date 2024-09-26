@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:medialibs:webo-facto:1.31::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Medialibs Webo-facto 1.31 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/webo-facto-connector/webo-facto-140-unauthenticated-privilege-escalation"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/webo-facto-connector/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.medialibs.com/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/webo-facto-connector/#tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:medialibs:webo-facto:1.31:*:*:*:*:wordpress:*:*"
+	}
+}
