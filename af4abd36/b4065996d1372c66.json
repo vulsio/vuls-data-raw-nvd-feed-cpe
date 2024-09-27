@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:allprices:beauty:1.0.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Allprices Beauty 1.0.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/beauty"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/beauty/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/beauty/beauty-114-authenticated-subscriber-stored-cross-site-scripting-via-tpl-featured-cat-id-parameter"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:allprices:beauty:1.0.4:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:vanderwijk:content_blocks:3.1.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "VanderWijk (Johan van der Wijk) Content Blocks 3.1.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://vanderwijk.nl/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/custom-post-widget/wordpress-content-blocks-custom-post-widget-plugin-3-3-4-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/custom-post-widget/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vanderwijk:content_blocks:3.1.6:*:*:*:*:wordpress:*:*"
+	}
+}
