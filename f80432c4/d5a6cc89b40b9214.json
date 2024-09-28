@@ -1,0 +1,35 @@
+{
+	"name": "cpe:/a:radiustheme:classified_listing:2.6.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-27T12:47:12.280Z",
+	"title": [
+		{
+			"text": "RadiusTheme Classified Listing 2.6.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/classified-listing/classified-listing-classified-ads-business-directory-plugin-317-missing-authorization"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/classified-listing/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.radiustheme.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:radiustheme:classified_listing:2.6.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-27T08:47:12.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:radiustheme:classified_listing:2.6.1:*:*:*:-:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

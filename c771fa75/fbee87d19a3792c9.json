@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:radiustheme:classified_listing_pro_-_classified_ads_%26_business_directory:2.0.13::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-27T12:41:30.233Z",
 	"title": [
 		{
 			"text": "RadiusTheme Classified Listing Pro - Classified ads & Business Directory 2.0.13 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:radiustheme:classified_listing_pro_-_classified_ads_\\&_business_directory:2.0.13:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:radiustheme:classified_listing_pro_-_classified_ads_\\&_business_directory:2.0.13:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-27T08:41:30.233-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:radiustheme:classified_listing:2.0.13:*:*:*:pro:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
