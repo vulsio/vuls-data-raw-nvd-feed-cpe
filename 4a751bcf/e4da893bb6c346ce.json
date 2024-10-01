@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:share_this_image_project:share_this_image:1.10::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-09-30T11:28:39.333Z",
 	"title": [
 		{
 			"text": "Share This Image Project Share This Image 1.10 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:share_this_image_project:share_this_image:1.10:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:share_this_image_project:share_this_image:1.10:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-09-30T07:28:39.333-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wp-unit:share_this_image:1.10:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
