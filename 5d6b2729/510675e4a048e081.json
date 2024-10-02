@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:alefypimentel:gf_custom_style:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Alefy Pimentel Ferreira GF Custom Style for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/alefypimentel/gf-custom-style-2.0"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/alefypimentel/gf-custom-style"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/gf-custom-style/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/gf-custom-style/gf-custom-style-20-authenticated-author-stored-cross-site-scripting-via-svg-file-upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:alefypimentel:gf_custom_style:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nitinmaurya:wordpress_visitors:1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Nitin Maurya WordPress Visitors 1.0 for WordPress ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nitinmaurya.com/"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/nm-visitors/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/nm-visitors/wordpress-visitors-10-unauthenticated-stored-cross-site-scripting-via-http-header"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nitinmaurya:wordpress_visitors:1.0:*:*:*:*:wordpress:*:*"
+	}
+}

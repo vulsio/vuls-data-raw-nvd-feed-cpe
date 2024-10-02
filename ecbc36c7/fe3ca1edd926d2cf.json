@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:garrettgrimm:simple_popup_plugin:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Garrett Grimm Simple Popup Plugin for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-popup-plugin/simple-popup-plugin-45-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/simple-popup-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:garrettgrimm:simple_popup_plugin:-:*:*:*:*:wordpress:*:*"
+	}
+}

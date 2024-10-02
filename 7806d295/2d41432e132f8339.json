@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mapplic:mapplic:-::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "Mapplic Lite Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mapplic.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/mapplic-lite/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mapplic-lite/mapplic-lite-10-authenticated-author-stored-cross-site-scripting-via-svg-file-upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mapplic:mapplic:-:*:*:*:lite:wordpress:*:*"
+	}
+}
