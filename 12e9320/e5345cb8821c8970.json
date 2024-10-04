@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:10up:simple_local_avatars:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "10up Simple Local Avatars for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://10up.com/about/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/simple-local-avatars/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/simple-local-avatars/wordpress-simple-local-avatars-plugin-2-7-10-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:10up:simple_local_avatars:-:*:*:*:*:wordpress:*:*"
+	}
+}

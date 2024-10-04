@@ -1,12 +1,18 @@
 {
 	"name": "cpe:/a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:-::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-03T17:53:01.643Z",
 	"title": [
 		{
-			"text": "HasThemes HT Mega - Absolute Addons for Elementor Page Builder for WordPress",
+			"text": "HasThemes HT Mega - for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wphtmega.com/change-log/"
+		},
 		{
 			"text": "Version",
 			"href": "https://plugins.trac.wordpress.org/browser/ht-mega-for-elementor/#tags"
@@ -18,13 +24,16 @@
 		{
 			"text": "Product",
 			"href": "https://wordpress.org/plugins/ht-mega-for-elementor/#developers"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://wpscan.com/vulnerability/0377705d-29e9-47db-a5bb-8acaf311a38f"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:-:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:hasthemes:ht_mega_-_absolute_addons_for_elementor_page_builder:-:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-03T13:53:01.643-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:hasthemes:ht_mega:-:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

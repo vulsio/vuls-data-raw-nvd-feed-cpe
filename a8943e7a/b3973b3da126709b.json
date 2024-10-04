@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cisco:meraki_systems_manager:3.7.2::~~~windows~~",
+	"title": [
+		{
+			"text": "Cisco Meraki Systems Manager 3.7.2 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://documentation.meraki.com/SM/Device_Enrollment/Systems_Manager_Agent_Release_Notes"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-meraki-agent-dll-hj-Ptn7PtKe"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/20xxx/CVE-2024-20430.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:meraki_systems_manager:3.7.2:*:*:*:*:windows:*:*"
+	}
+}

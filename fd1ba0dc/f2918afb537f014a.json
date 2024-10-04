@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:hyumika:openstreetmap:6.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Hyumika OpenStreetMap 6.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/osm/osm-610-authenticated-contributor-stored-cross-site-scripting-via-osm-map-and-osm-map-v3-shortcodes"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wp-osm-plugin.hyumika.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wp-osm-plugin.hyumika.com/changelog/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/osm/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hyumika:openstreetmap:6.1.0:*:*:*:*:wordpress:*:*"
+	}
+}
