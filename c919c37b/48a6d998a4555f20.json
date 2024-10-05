@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:artbees:jupiter_x_core:4.6.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Artbees Jupiter X Core 4.6.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/jupiterx-core/jupiter-x-core-465-unauthenticated-arbitrary-file-upload"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/jupiterx-core/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:artbees:jupiter_x_core:4.6.0:*:*:*:*:wordpress:*:*"
+	}
+}

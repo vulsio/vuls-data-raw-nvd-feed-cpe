@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:godaddy:coblocks:2.22.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "GoDaddy CoBlocks 2.22.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.godaddy.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/coblocks/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/16deb743-6fe9-43a2-9586-d92cfe1daa17/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:godaddy:coblocks:2.22.0:*:*:*:*:wordpress:*:*"
+	}
+}

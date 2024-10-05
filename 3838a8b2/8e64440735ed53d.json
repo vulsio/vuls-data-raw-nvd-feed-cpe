@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mmrs151:daily_prayer_time:2020.07.03::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Mmrs151 Daily Prayer Time 2020.07.03 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://profiles.wordpress.org/mmrs151/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/daily-prayer-time-for-mosques/#tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/daily-prayer-time-for-mosques/daily-prayer-time-20240826-authenticated-contributor-sql-injection"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mmrs151:daily_prayer_time:2020.07.03:*:*:*:*:wordpress:*:*"
+	}
+}

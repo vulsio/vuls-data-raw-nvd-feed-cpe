@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gematik:reference_validator:1.1.0",
+	"title": [
+		{
+			"text": "Gematik Reference Validator 1.1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.gematik.de/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/gematik/app-referencevalidator/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gematik/app-referencevalidator/security/advisories/GHSA-68j8-fp38-p48q"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gematik:reference_validator:1.1.0:*:*:*:*:*:*:*"
+	}
+}

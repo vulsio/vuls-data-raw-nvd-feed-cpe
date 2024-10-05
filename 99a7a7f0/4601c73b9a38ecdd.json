@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:eclipse:glassfish:7.0.15",
+	"title": [
+		{
+			"text": "Eclipse GlassFish 7.0.15",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/eclipse-ee4j/glassfish/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gitlab.eclipse.org/security/vulnerability-reports/-/issues/232"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/eclipse-ee4j/glassfish/pull/25106"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:eclipse:glassfish:7.0.15:*:*:*:*:*:*:*"
+	}
+}

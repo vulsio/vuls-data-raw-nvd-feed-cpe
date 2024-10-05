@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:automattic:sensei_lms:4.21.0:-:~~~wordpress~~",
+	"title": [
+		{
+			"text": "Automattic Sensei LMS 4.21.0 - for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/f44e6f8f-3ef2-45c9-ae9c-9403305a548a/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Automattic/sensei/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:sensei_lms:4.21.0:-:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:blockspare:blockspare:3.2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Blockspare 3.2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.blockspare.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/blockspare/gutenberg-page-builder-blocks-ready-made-patterns-library-324-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/blockspare/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blockspare:blockspare:3.2.0:*:*:*:*:wordpress:*:*"
+	}
+}

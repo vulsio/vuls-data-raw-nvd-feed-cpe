@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:daily_prayer_time_project:daily_prayer_time:2023.05.04::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-04T12:53:22.350Z",
 	"title": [
 		{
 			"text": "Daily Prayer Time Project Daily Prayer Time 2023.05.04 for WordPress",
@@ -8,11 +10,30 @@
 	],
 	"references": [
 		{
+			"text": "Vendor",
+			"href": "https://profiles.wordpress.org/mmrs151/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/daily-prayer-time-for-mosques/#tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#description"
+		},
+		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/daily-prayer-time-for-mosques/#developers"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:daily_prayer_time_project:daily_prayer_time:2023.05.04:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:daily_prayer_time_project:daily_prayer_time:2023.05.04:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-04T08:53:22.350-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mmrs151:daily_prayer_time:2023.05.04:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
