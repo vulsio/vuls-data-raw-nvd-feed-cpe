@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:stellarwp:the_events_calendar:6.6.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "StellarWP The Events Calendar 6.6.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://theeventscalendar.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://stellarwp.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/the-events-calendar/the-events-calendar-664-unauthenticated-sql-injection"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/the-events-calendar/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stellarwp:the_events_calendar:6.6.0.1:*:*:*:*:wordpress:*:*"
+	}
+}

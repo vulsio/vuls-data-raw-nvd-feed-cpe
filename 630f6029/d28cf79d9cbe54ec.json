@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pixelyoursite:pixelyoursite:9.5.5::~~-~wordpress~~",
+	"title": [
+		{
+			"text": "PixelYourSite 9.5.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pixelyoursite/wordpress-pixelyoursite-your-smart-pixel-tag-api-manager-plugin-9-6-1-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/pixelyoursite/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://www.pixelyoursite.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.5.5:*:*:*:-:wordpress:*:*"
+	}
+}

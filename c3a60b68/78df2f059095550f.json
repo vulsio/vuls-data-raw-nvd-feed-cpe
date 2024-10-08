@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:stape:gtm_server_side:2.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Stape GTM Server Side 2.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://stape.io/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/gtm-server-side/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/gtm-server-side/gtm-server-side-2119-reflected-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:stape:gtm_server_side:2.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

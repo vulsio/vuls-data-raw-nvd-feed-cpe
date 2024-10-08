@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pixelyoursite:pixelyoursite:8.0.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-07T12:01:56.217Z",
 	"title": [
 		{
 			"text": "PixelYourSite 8.0.3 for WordPress",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pixelyoursite/wordpress-pixelyoursite-your-smart-pixel-tag-api-manager-plugin-9-6-1-1-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/pixelyoursite/#developers"
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:8.0.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:8.0.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-07T08:01:56.217-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:8.0.3:*:*:*:-:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pixelyoursite:pixelyoursite:9.3.6::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-07T12:01:56.217Z",
 	"title": [
 		{
 			"text": "PixelYourSite 9.3.6 for WordPress",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.6:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.6:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-07T08:01:56.217-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pixelyoursite:pixelyoursite:9.3.6:*:*:*:-:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

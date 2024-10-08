@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tri:the_events_calendar:6.1.4::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-07T12:08:33.827Z",
 	"title": [
 		{
 			"text": "Modern Tribe The Events Calendar 6.1.4 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tri:the_events_calendar:6.1.4:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:tri:the_events_calendar:6.1.4:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-07T08:08:33.827-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:stellarwp:the_events_calendar:6.1.4:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
