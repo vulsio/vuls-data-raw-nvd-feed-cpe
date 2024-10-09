@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpbookingcalendar:wp_booking_calendar:5.0.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPBookingCalendar WP Booking Calendar 5.0.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/booking/wp-booking-calendar-106-authenticated-admin-stored-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpbookingcalendar.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/booking/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpbookingcalendar:wp_booking_calendar:5.0.3:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:berqier:berqwp:1.8.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Berqier BerqWP 1.8.9 WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://berqier.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://berqwp.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/searchpro/berqwp-automated-all-in-one-pagespeed-optimization-plugin-for-core-web-vitals-cache-cdn-images-css-and-javascript-211-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/searchpro/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:berqier:berqwp:1.8.9:*:*:*:*:wordpress:*:*"
+	}
+}

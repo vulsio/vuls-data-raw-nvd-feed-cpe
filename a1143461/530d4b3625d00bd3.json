@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:memberful:memberful:1.69.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Memberful 1.69.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://memberful.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/memberful-wp/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/memberful-wp/memberful-membership-plugin-1737-authenticated-contributor-stored-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:memberful:memberful:1.69.1:*:*:*:*:wordpress:*:*"
+	}
+}

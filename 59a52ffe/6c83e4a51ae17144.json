@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:plainware:shiftcontroller:4.9.48::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Plainware ShiftController 4.9.48 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.shiftcontroller.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.plainware.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/shiftcontroller/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shiftcontroller/shiftcontroller-employee-shift-scheduling-4966-reflected-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:plainware:shiftcontroller:4.9.48:*:*:*:*:wordpress:*:*"
+	}
+}

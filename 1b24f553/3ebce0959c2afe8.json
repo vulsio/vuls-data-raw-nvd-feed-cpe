@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cozmoslabs:membership_%26_content_restriction_-_paid_member_subscriptions:2.6.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cozmoslabs Membership & Content Restriction - Paid Member Subscriptions 2.6.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/paid-member-subscriptions/paid-membership-subscriptions-effortless-memberships-recurring-payments-content-restriction-2128-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/paid-member-subscriptions/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.cozmoslabs.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cozmoslabs:membership_\\&_content_restriction_-_paid_member_subscriptions:2.6.9:*:*:*:*:wordpress:*:*"
+	}
+}
