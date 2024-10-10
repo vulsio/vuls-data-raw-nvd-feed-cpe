@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:davidartiss:code_embed:2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "David Artiss Code Embed 2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-embed-code/code-embed-24-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/simple-embed-code/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:davidartiss:code_embed:2.5:*:*:*:*:wordpress:*:*"
+	}
+}

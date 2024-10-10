@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:jupyter:notebook:7.2.2",
+	"title": [
+		{
+			"text": "Jupyter Notebook 7.2.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jupyterlab/jupyterlab/security/advisories/GHSA-9q39-rmj3-p4r2"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/jupyter/notebook/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://jupyter.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jupyter:notebook:7.2.2:*:*:*:*:*:*:*"
+	}
+}

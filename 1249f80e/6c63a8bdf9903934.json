@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:zephyrproject:zephyr:3.7.0:rc3",
+	"title": [
+		{
+			"text": "Zephyrproject Zephyr 3.7.0 Release Candidate 3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-gvv5-66hw-5qrc"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/5xxx/CVE-2024-5754.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/zephyrproject-rtos/zephyr/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zephyrproject:zephyr:3.7.0:rc3:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:uncannyowl:uncanny_groups_for_learndash:5.2.0.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "UncannyOwl Uncanny Groups for LearnDash 5.2.0.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/uncanny-learndash-groups/uncanny-groups-for-learndash-6101-authenticated-group-leader-privilege-escalation"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.uncannyowl.com/knowledge-base/uncanny-learndash-groups-changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:uncannyowl:uncanny_groups_for_learndash:5.2.0.1:*:*:*:*:wordpress:*:*"
+	}
+}

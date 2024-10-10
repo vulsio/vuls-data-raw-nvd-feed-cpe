@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bold-themes:bold_page_builder:4.7.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "BOLDThemes Bold Page Builder 4.7.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/bold-page-builder/bold-page-builder-480-authenticated-contributor-stored-cross-site-scripting-via-button-url"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/bold-page-builder/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bold-themes:bold_page_builder:4.7.7:*:*:*:*:wordpress:*:*"
+	}
+}

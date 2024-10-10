@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:deconf:analytics_insights:5.8.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "DeConf Analytics Insights 5.8.8 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://deconf.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/analytics-insights/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/321b07d1-692f-48e9-a8e5-a15b38efa979/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:deconf:analytics_insights:5.8.8:*:*:*:*:wordpress:*:*"
+	}
+}
