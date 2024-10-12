@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:wpdeveloper:essential_blocks:4.0.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-10T17:08:40.717Z",
 	"title": [
 		{
 			"text": "WPDeveloper Essential Blocks 4.0.1 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.0.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.0.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-10T13:08:40.717-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wpdeveloper:essential_blocks:4.0.1:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
