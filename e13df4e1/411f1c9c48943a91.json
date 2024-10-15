@@ -1,26 +1,39 @@
 {
 	"name": "cpe:/a:unlimited-elements:unlimited_elements_for_elementor_%28free_widgets%2c_addons%2c_templates%29:1.4.13::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-14T13:43:10.163Z",
 	"title": [
 		{
-			"text": "Unlimited Elements For Elementor 1.4.13 for WordPress",
+			"text": "Unlimited Elements for Elementor 1.4.13 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://unlimited-elements.com"
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/unlimited-elements-for-elementor/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://unlimited-elements.com/change-log/"
 		},
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/unlimited-elements-for-elementor/#developers"
 		},
 		{
-			"text": "Advisory",
-			"href": "https://patchstack.com/database/vulnerability/unlimited-elements-for-elementor/wordpress-unlimited-elements-for-elementor-plugin-1-5-48-cross-site-scripting-xss?_s_id=cve"
+			"text": "Vendor",
+			"href": "https://unlimited-elements.com"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor_\\(free_widgets\\,_addons\\,_templates\\):1.4.13:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor_\\(free_widgets\\,_addons\\,_templates\\):1.4.13:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-14T09:43:10.163-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:unlimited-elements:unlimited_elements_for_elementor:1.4.13:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
