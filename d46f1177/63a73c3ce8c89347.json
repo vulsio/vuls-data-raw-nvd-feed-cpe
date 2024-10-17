@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:elliptic_project:elliptic:0.3.0::~~~node.js~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-16T13:45:15.620Z",
 	"title": [
 		{
 			"text": "Elliptic Project Elliptic 0.3.0 for Node.js",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Version",
-			"href": "https://github.com/indutny/elliptic"
-		},
-		{
 			"text": "Product",
 			"href": "https://www.npmjs.com/package/elliptic"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/indutny/elliptic"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:elliptic_project:elliptic:0.3.0:*:*:*:*:node.js:*:*"
+		"name": "cpe:2.3:a:elliptic_project:elliptic:0.3.0:*:*:*:*:node.js:*:*",
+		"deprecation": {
+			"date": "2024-10-16T09:45:15.620-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:indutny:elliptic:0.3.0:*:*:*:*:node.js:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

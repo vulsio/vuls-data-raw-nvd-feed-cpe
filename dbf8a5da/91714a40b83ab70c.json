@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:brevo:newsletter%2c_smtp%2c_email_marketing_and_subscribe:3.1.87::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brevo Newsletter, SMTP, Email marketing and Subscribe forms 3.1.87 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mailin/newsletter-smtp-email-marketing-and-subscribe-forms-by-brevo-formely-sendinblue-3187-cross-site-request-forgery"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.brevo.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mailin/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brevo:newsletter\\,_smtp\\,_email_marketing_and_subscribe:3.1.87:*:*:*:*:wordpress:*:*"
+	}
+}

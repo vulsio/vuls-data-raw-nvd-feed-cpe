@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:wp-advanced-search_project:wp-advanced-search:2.7::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-16T13:47:54.830Z",
 	"title": [
 		{
 			"text": "WP-Advanced-Search Project WP-Advanced-Search 2.7 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:2.7:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wp-advanced-search_project:wp-advanced-search:2.7:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-16T09:47:54.830-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:internet-formation:wp-advanced-search:2.7:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

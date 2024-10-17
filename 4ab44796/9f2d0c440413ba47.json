@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:kainelabs:youzify:1.2.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-16T13:52:26.700Z",
 	"title": [
 		{
 			"text": "KaineLabs Youzify 1.2.3 for WordPress",
@@ -8,12 +10,12 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.kainelabs.com/"
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/youzify/"
 		},
 		{
-			"text": "Product",
-			"href": "https://youzify.com/"
+			"text": "Vendor",
+			"href": "https://www.kainelabs.com/"
 		},
 		{
 			"text": "Change Log",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:kainelabs:youzify:1.2.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:kainelabs:youzify:1.2.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-16T09:52:26.700-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:kainelabs:youzify:1.2.3:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

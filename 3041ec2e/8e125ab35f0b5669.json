@@ -1,18 +1,31 @@
 {
 	"name": "cpe:/a:mozilla:firefox:105.0::~~~-~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-16T19:55:13.033Z",
 	"title": [
 		{
-			"text": "Mozilla Firefox 105.0",
+			"text": "Mozilla Firefox 105.0 for -",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
 			"text": "Change Log",
+			"href": "https://www.mozilla.org/en-US/firefox/releases/"
+		},
+		{
+			"text": "Change Log",
 			"href": "https://www.mozilla.org/en-US/firefox/105.0/releasenotes/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mozilla:firefox:105.0:*:*:*:*:-:*:*"
+		"name": "cpe:2.3:a:mozilla:firefox:105.0:*:*:*:*:-:*:*",
+		"deprecation": {
+			"date": "2024-10-16T15:55:13.033-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:firefox:105.0:*:*:*:-:-:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
