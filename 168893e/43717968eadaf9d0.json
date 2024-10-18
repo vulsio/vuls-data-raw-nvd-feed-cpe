@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:cisco:rv042_firmware:4.2.3.07",
+	"title": [
+		{
+			"text": "Cisco Rv042 Firmware 4.2.3.07",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/support/routers/small-business-rv-series-routers/series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sb-rv04x_rv32x_vulns-yJ2OSDhV"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cve.org/CVERecord?id=CVE-2024-20517"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:cisco:rv042_firmware:4.2.3.07:*:*:*:*:*:*:*"
+	}
+}

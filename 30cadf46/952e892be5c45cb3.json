@@ -1,18 +1,31 @@
 {
 	"name": "cpe:/a:ibm:cics_tx:11.1::~~advanced~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-17T13:15:40.110Z",
 	"title": [
 		{
-			"text": "IBM Cics Tx 11.1 Advanced Edition",
+			"text": "IBM CICS TX 11.1 Advanced Edition",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm%2FOther%20software&product=ibm/Other+software/CICS+TX+on+Cloud&release=11.1.0.0&platform=All&function=all"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://www.ibm.com/support/pages/node/6597531"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:advanced:*:*:*"
+		"name": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:advanced:*:*:*",
+		"deprecation": {
+			"date": "2024-10-17T09:15:40.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:cics_tx:11.1.0.0:-:*:*:advanced:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

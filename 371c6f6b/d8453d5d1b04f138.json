@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:fooplugins:foogallery:1.2.12::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-17T20:32:38.423Z",
 	"title": [
 		{
 			"text": "FooPlugins FooGallery 1.2.12 for WordPress",
@@ -7,6 +9,14 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/foogallery-premium/foogallery-premium-233-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/foogallery/#developers"
+		},
 		{
 			"text": "Vendor",
 			"href": "https://fooplugins.com/"
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:fooplugins:foogallery:1.2.12:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:fooplugins:foogallery:1.2.12:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-17T16:32:38.423-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:fooplugins:foogallery:1.2.12:*:*:*:-:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

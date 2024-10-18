@@ -1,18 +1,31 @@
 {
 	"name": "cpe:/a:ibm:cics_tx:11.1::~~standard~~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-17T13:15:40.110Z",
 	"title": [
 		{
-			"text": "IBM Cics Tx 11.1 Standard Edition",
+			"text": "IBM CICS TX 11.1 Standard Edition",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
 			"text": "Advisory",
-			"href": "https://www.ibm.com/support/pages/node/6597533"
+			"href": "https://www.ibm.com/support/pages/node/6832922"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.ibm.com/support/fixcentral/swg/selectFixes?parent=ibm%7EOther%20software&product=ibm/Other+software/CICS+TX+Standard&release=11.1.0.0&platform=All&function=all"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:standard:*:*:*"
+		"name": "cpe:2.3:a:ibm:cics_tx:11.1:*:*:*:standard:*:*:*",
+		"deprecation": {
+			"date": "2024-10-17T09:15:40.110-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ibm:cics_tx:11.1.0.0:-:*:*:standard:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pool_of_bethesda_online_reservation_system_project:pool_of_bethesda_online_reservation_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-10-17T13:34:08.147Z",
 	"title": [
 		{
 			"text": "Pool Of Bethesda Online Reservation System Project Pool Of Bethesda Online Reservation System 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pool_of_bethesda_online_reservation_system_project:pool_of_bethesda_online_reservation_system:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:pool_of_bethesda_online_reservation_system_project:pool_of_bethesda_online_reservation_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-17T09:34:08.147-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:janobe:pool_of_bethesda_online_reservation_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

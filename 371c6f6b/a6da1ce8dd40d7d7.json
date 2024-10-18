@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fooplugins:foogallery:2.4.15::~~-~wordpress~~",
+	"title": [
+		{
+			"text": "FooPlugins FooGallery 2.4.15 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/92e0f5ca-0184-4e9c-b01a-7656e05dce69/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/foogallery/"
+		},
+		{
+			"text": "Product",
+			"href": "https://fooplugins.com/foogallery-wordpress-gallery-plugin/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fooplugins:foogallery:2.4.15:*:*:*:-:wordpress:*:*"
+	}
+}

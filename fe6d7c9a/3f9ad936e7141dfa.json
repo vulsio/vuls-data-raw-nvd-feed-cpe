@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:xplodedthemes:wpide:3.4.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Xplodedthemes WPIDE 3.4.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpide/wpide-349-unauthenticated-full-path-dislcosure"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpide/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xplodedthemes:wpide:3.4.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:myeventon:eventon:2.2.10::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "Myeventon EventON 2.2.10 Lite Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/468373c6-7e47-489a-92c1-75025c543fd5/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.myeventon.com/lite/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/eventon-lite/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:myeventon:eventon:2.2.10:*:*:*:lite:wordpress:*:*"
+	}
+}

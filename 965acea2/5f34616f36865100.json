@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ni:labview:2021:sp1_f2",
+	"title": [
+		{
+			"text": "National Instruments (NI) LabVIEW 2021 Sp1 F2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ni.com/en/support/documentation/bugs/23/labview-2023-q3-bug-fixes.html"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.ni.com/en/support/documentation/release-notes/product.labview.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.ni.com/en/support/security/available-critical-and-security-updates-for-ni-software/out-of-bounds-read-due-to-missing-bounds-check-in-labview.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ni:labview:2021:sp1_f2:*:*:*:*:*:*"
+	}
+}

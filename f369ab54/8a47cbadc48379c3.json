@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:woobewoo:product_table:1.9.5::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "WBW Product Table 1.9.5 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/woo-producttables-pro/wordpress-wbw-product-table-pro-plugin-1-9-4-unauthenticated-arbitrary-sql-query-execution-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://woobewoo.com/product/table-woocommerce-plugin/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://woobewoo.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:woobewoo:product_table:1.9.5:*:*:*:pro:wordpress:*:*"
+	}
+}

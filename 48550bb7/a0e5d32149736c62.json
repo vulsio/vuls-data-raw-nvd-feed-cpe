@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:siemens:simcenter_femap:2306.0",
+	"deprecated": true,
+	"deprecation_date": "2024-10-17T13:48:59.023Z",
 	"title": [
 		{
 			"text": "Siemens Simcenter Femap 2306.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:siemens:simcenter_femap:2306.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:siemens:simcenter_femap:2306.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-17T09:48:59.023-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:siemens:simcenter_femap:2306.0000:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
