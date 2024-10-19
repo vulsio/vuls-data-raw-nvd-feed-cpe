@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:nvidia:gpu_display_driver:552.74::~~~windows~~",
+	"title": [
+		{
+			"text": "NVIDIA GPU Display Driver 552.74 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5557"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.nvidia.com/en-us/drivers/rtx-enterprise-and-quadro-driver-branch-history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:gpu_display_driver:552.74:*:*:*:*:windows:*:*"
+	}
+}

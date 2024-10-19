@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ruby-lang:rexml:3.2.9::~~~ruby~~",
+	"title": [
+		{
+			"text": "Ruby-lang Rexml 3.2.9 for Ruby",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ruby-lang.org/en/news/2024/08/01/dos-rexml-cve-2024-41123/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/ruby/rexml/security/advisories/GHSA-r55c-59qm-vjw6"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ruby/rexml/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ruby-lang:rexml:3.2.9:*:*:*:*:ruby:*:*"
+	}
+}

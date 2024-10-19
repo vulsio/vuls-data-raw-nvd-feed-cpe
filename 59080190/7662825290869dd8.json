@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:dueclic:wp_2fa_with_telegram:1.9.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Dueclic WP 2FA with Telegram 1.9.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.dueclic.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/two-factor-login-telegram/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/two-factor-login-telegram/wp-2fa-with-telegram-30-authenticated-subscriber-authentication-bypass"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:dueclic:wp_2fa_with_telegram:1.9.1:*:*:*:*:wordpress:*:*"
+	}
+}

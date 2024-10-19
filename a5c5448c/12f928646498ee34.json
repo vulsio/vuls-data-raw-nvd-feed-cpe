@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nvidia:gpu_display_driver:556.12::~~~windows~~",
+	"title": [
+		{
+			"text": "NVIDIA GPU Display Driver 556.12 for Windows",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5557"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://us.download.nvidia.com/Windows/556.12/556.12-win11-win10-release-notes.pdf"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.nvidia.com/en-us/drivers/rtx-enterprise-and-quadro-driver-branch-history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:gpu_display_driver:556.12:*:*:*:*:windows:*:*"
+	}
+}

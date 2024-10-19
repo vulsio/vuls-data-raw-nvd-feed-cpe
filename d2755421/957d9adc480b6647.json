@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_iot_hub_device_client_sdk:1.12.0",
+	"title": [
+		{
+			"text": "Microsoft Azure IoT Hub Device Client SDK 1.12.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38157"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Azure/azure-iot-sdk-c/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_iot_hub_device_client_sdk:1.12.0:*:*:*:*:*:*:*"
+	}
+}

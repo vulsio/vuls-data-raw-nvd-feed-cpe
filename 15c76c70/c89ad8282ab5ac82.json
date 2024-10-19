@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hashicorp:vault:1.16.5::~~enterprise~~~",
+	"title": [
+		{
+			"text": "HashiCorp Vault 1.16.5 Enterprise Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.hashicorp.com/products/vault/vault-enterprise"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://discuss.hashicorp.com/t/hcsec-2024-21-vault-operators-in-root-namespace-may-elevate-their-privileges/70565"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/hashicorp/vault/blob/main/CHANGELOG.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hashicorp:vault:1.16.5:*:*:*:enterprise:*:*:*"
+	}
+}

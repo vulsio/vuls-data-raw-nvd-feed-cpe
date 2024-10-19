@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:filemanagerpro:file_manager:8.3.4::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "Filemanagerpro File Manager 8.3.4 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.oceantheme.org/wordpress-extensions/wp-file-manager-pro.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://filemanagerpro.io/file-manager-pro/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-file-manager-pro/file-manager-pro-834-authenticated-subscriber-arbitrary-file-upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:filemanagerpro:file_manager:8.3.4:*:*:*:pro:wordpress:*:*"
+	}
+}

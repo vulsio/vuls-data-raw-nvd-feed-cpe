@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:filemanagerpro:file_manager:8.3.10::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "Filemanagerpro File Manager 8.3.10 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.gplastra.co/wp-file-manager-pro-19423/download/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-file-manager-pro/file-manager-pro-839-unauthenticated-backup-file-download-and-upload"
+		},
+		{
+			"text": "Product",
+			"href": "https://filemanagerpro.io/file-manager-pro/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:filemanagerpro:file_manager:8.3.10:*:*:*:pro:wordpress:*:*"
+	}
+}
