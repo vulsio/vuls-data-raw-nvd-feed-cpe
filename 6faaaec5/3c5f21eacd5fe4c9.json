@@ -1,12 +1,27 @@
 {
 	"name": "cpe:/a:mozilla:firefox_esr:10.0.3",
+	"deprecated": true,
+	"deprecation_date": "2024-10-21T13:11:20.513Z",
 	"title": [
 		{
-			"text": "Mozilla Firefox Extended Support Release (ESR) 10.0.3",
+			"text": "Mozilla Firefox Esr 10.0.3 ESR (Extended Support Release)",
 			"lang": "en-US"
 		}
 	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.mozilla.org/en-US/firefox/releases/"
+		}
+	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mozilla:firefox_esr:10.0.3:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mozilla:firefox_esr:10.0.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-21T09:11:20.513-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:firefox:10.0.3:*:*:*:esr:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

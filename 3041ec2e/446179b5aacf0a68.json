@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mozilla:firefox:60.0",
+	"deprecated": true,
+	"deprecation_date": "2024-10-21T14:16:12.310Z",
 	"title": [
 		{
 			"text": "Mozilla Firefox 60.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mozilla:firefox:60.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mozilla:firefox:60.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-21T10:16:12.310-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:firefox:60.0:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

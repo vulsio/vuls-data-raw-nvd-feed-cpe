@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mozilla:firefox:78.0.2",
+	"deprecated": true,
+	"deprecation_date": "2024-10-21T14:13:54.720Z",
 	"title": [
 		{
 			"text": "Mozilla Firefox 78.0.2",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mozilla:firefox:78.0.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mozilla:firefox:78.0.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-21T10:13:54.720-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mozilla:firefox:78.0.2:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
