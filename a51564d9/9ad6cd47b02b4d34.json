@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:properfraction:profilepress:3.1.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-28T12:09:26.567Z",
 	"title": [
 		{
 			"text": "Proper Fraction ProfilePress 3.1.2 for WordPress",
@@ -8,19 +10,34 @@
 	],
 	"references": [
 		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/"
+		},
+		{
 			"text": "Change Log",
-			"href": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt"
+			"href": "https://profilepress.com/changelog/"
 		},
 		{
 			"text": "Vendor",
 			"href": "https://properfraction.com/"
 		},
 		{
-			"text": "Product",
-			"href": "https://profilepress.com/"
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:properfraction:profilepress:3.1.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:properfraction:profilepress:3.1.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-28T08:09:26.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:properfraction:profilepress:3.1.2:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

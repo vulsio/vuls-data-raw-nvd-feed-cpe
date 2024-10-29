@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:getshortcodes:shortcodes_ultimate:5.10.0::~~-~wordpress~~",
+	"title": [
+		{
+			"text": "Getshortcodes Shortcodes Ultimate 5.10.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://vulners.com/cvelist/CVELIST:CVE-2024-4821"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shortcodes-ultimate/wp-shortcodes-plugin-shortcodes-ultimate-5133-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/browser/shortcodes-ultimate/trunk/changelog.txt"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://getshortcodes.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/shortcodes-ultimate/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:5.10.0:*:*:*:-:wordpress:*:*"
+	}
+}

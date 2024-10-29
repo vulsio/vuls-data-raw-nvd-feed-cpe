@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:wp-members_project:wp-members:3.3.6::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-28T11:41:15.100Z",
 	"title": [
 		{
 			"text": "Wp-members Project Wp-members 3.3.6 for Wordpress",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-3473-missing-authorization-to-settings-update"
-		},
-		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/wp-members/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-3473-missing-authorization-to-settings-update"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wp-members_project:wp-members:3.3.6:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wp-members_project:wp-members:3.3.6:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-28T07:41:15.100-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:butlerblog:wp-members:3.3.6:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

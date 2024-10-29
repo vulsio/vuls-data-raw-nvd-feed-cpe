@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:openinfosecfoundation:suricata:3.0:rc3",
+	"deprecated": true,
+	"deprecation_date": "2024-10-28T12:04:17.097Z",
 	"title": [
 		{
 			"text": "Open Information Security Foundation (OISF) Suricata 3.0 Release Candidate 3",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:openinfosecfoundation:suricata:3.0:rc3:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:openinfosecfoundation:suricata:3.0:rc3:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-28T08:04:17.097-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oisf:suricata:3.0:rc3:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

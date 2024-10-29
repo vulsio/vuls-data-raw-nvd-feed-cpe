@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wp-property-hive:propertyhive:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "wp-property-hive PropertyHive for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/propertyhive/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/propertyhive/wordpress-propertyhive-plugin-2-0-13-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wp-property-hive:propertyhive:-:*:*:*:*:wordpress:*:*"
+	}
+}

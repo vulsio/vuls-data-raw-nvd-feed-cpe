@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:properfraction:profilepress:4.10.7::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "Proper Fraction ProfilePress 4.10.7 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/profilepress/profilepress-readmes/blob/master/profilepress-pro.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/profilepress-pro/profilepress-pro-4111-authentication-bypass"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://properfraction.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://profilepress.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:properfraction:profilepress:4.10.7:*:*:*:pro:wordpress:*:*"
+	}
+}

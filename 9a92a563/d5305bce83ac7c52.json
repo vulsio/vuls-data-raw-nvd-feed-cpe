@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:getshortcodes:shortcodes_ultimate:-::~~-~wordpress~~",
+	"title": [
+		{
+			"text": "Getshortcodes Shortcodes Ultimate for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://getshortcodes.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shortcodes-ultimate/wp-shortcodes-plugin-shortcodes-ultimate-722-authenticated-contributor-dom-based-stored-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/shortcodes-ultimate/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:getshortcodes:shortcodes_ultimate:-:*:*:*:-:wordpress:*:*"
+	}
+}

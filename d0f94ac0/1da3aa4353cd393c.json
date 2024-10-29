@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:butlerblog:wp-members:3.4.9.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Butlerblog WP-Members 3.4.9.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-members/wp-members-membership-plugin-3495-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://butlerblog.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-members/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:butlerblog:wp-members:3.4.9.5:*:*:*:*:wordpress:*:*"
+	}
+}

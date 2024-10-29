@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:properfraction:profilepress:4.4.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-28T12:09:26.567Z",
 	"title": [
 		{
 			"text": "Proper Fraction ProfilePress 4.4.0 for WordPress",
@@ -8,27 +10,34 @@
 	],
 	"references": [
 		{
-			"text": "Version",
-			"href": "https://plugins.trac.wordpress.org/browser/wp-user-avatar/#tags"
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://profilepress.com/changelog/"
 		},
 		{
 			"text": "Vendor",
 			"href": "https://properfraction.com/"
 		},
 		{
-			"text": "Product",
-			"href": "https://profilepress.com/"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-user-avatar/profilepress-450-authenticated-administrator-stored-cross-site-scripting"
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
 		},
 		{
 			"text": "Change Log",
-			"href": "https://wordpress.org/plugins/wp-user-avatar/#developers"
+			"href": "https://plugins.svn.wordpress.org/wp-user-avatar/trunk/changelog.txt"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:properfraction:profilepress:4.4.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:properfraction:profilepress:4.4.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-28T08:09:26.567-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:properfraction:profilepress:4.4.0:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
