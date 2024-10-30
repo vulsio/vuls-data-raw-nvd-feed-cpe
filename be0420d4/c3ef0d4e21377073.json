@@ -1,12 +1,18 @@
 {
 	"name": "cpe:/a:wpdeveloper:essential_addons_for_elementor:4.8.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-29T15:43:04.387Z",
 	"title": [
 		{
-			"text": "WPDeveloper Download Essential Addons for Elementor 4.8.2 for WordPress",
+			"text": "WPDeveloper Essential Addons for Elementor 4.8.2 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://essential-addons.com/changelog/"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://patchstack.com/articles/critical-privilege-escalation-in-essential-addons-for-elementor-plugin-affecting-1-million-sites?_s_id=cve"
@@ -21,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:4.8.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:4.8.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-29T11:43:04.387-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:4.8.2:*:*:*:lite:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

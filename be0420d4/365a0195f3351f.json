@@ -1,12 +1,18 @@
 {
 	"name": "cpe:/a:wpdeveloper:essential_addons_for_elementor:5.9.19::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-29T15:44:24.877Z",
 	"title": [
 		{
-			"text": "WPDeveloper Download Essential Addons for Elementor 5.9.19 for WordPress",
+			"text": "WPDeveloper Essential Addons for Elementor 5.9.19 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://essential-addons.com/changelog/"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/essential-addons-for-elementor-lite/essential-addons-for-elementor-best-elementor-templates-widgets-kits-woocommerce-builders-5922-authenticated-contributor-stored-cross-site-scripting"
@@ -21,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.19:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.19:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-29T11:44:24.877-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wpdeveloper:essential_addons_for_elementor:5.9.19:*:*:*:lite:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

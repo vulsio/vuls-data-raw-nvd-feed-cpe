@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpchill:download_monitor:4.9.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPChill MashShare 4.9.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/download-monitor/#tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-monitor/download-monitor-509-missing-authorization-to-authenticated-subscriber-shop-enable"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpchill.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/download-monitor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpchill:download_monitor:4.9.5:*:*:*:*:wordpress:*:*"
+	}
+}
