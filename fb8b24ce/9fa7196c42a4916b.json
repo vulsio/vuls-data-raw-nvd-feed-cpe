@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cozythemes:cozy_blocks:1.2.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CozyThemes Cozy Blocks 1.2.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/cozy-addons/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/cozy-addons/trunk/changelog.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/cozy-addons/wordpress-cozy-blocks-plugin-2-0-18-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cozythemes:cozy_blocks:1.2.7:*:*:*:*:wordpress:*:*"
+	}
+}

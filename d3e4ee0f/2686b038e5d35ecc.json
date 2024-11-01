@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:smartdns_project:smartdns:29",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T12:47:55.970Z",
 	"title": [
 		{
 			"text": "SmartDNS Project SmartDNS 29",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:smartdns_project:smartdns:29:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:smartdns_project:smartdns:29:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-31T08:47:55.970-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pymumu:smartdns:29:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

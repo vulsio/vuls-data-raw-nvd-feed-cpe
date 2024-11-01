@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:coderex:wp_vr:3.1.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T11:45:24.870Z",
 	"title": [
 		{
 			"text": "Code Rex WP VR 3.1.0 for WordPress",
@@ -8,23 +10,30 @@
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.coderex.co/"
-		},
-		{
-			"text": "Vendor",
-			"href": "https://rextheme.com/"
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpvr/#developers"
 		},
 		{
 			"text": "Advisory",
 			"href": "https://patchstack.com/database/vulnerability/wpvr/wordpress-wp-vr-360-panorama-and-virtual-tour-builder-plugin-8-2-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
 		},
 		{
-			"text": "Change Log",
-			"href": "https://wordpress.org/plugins/wpvr/#developers"
+			"text": "Vendor",
+			"href": "https://rextheme.com/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.coderex.co/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:coderex:wp_vr:3.1.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:coderex:wp_vr:3.1.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-31T07:45:24.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rextheme:wp_vr:3.1.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

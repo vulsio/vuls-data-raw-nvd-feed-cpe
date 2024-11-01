@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mongodb:mongocryptd:5.0.5::~~~mongodb~~",
+	"title": [
+		{
+			"text": "MongoDB Mongocryptd 5.0.5 for MongoDB",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.mongodb.com/docs/v5.0/reference/security-client-side-encryption-appendix/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://jira.mongodb.org/browse/SERVER-96254"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/8xxx/CVE-2024-8013.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mongodb:mongocryptd:5.0.5:*:*:*:*:mongodb:*:*"
+	}
+}

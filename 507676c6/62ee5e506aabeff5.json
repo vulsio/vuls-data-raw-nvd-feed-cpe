@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:intel:computer_vision_annotation_tool:-",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T12:17:16.280Z",
 	"title": [
 		{
 			"text": "Intel Computer Vision Annotation Tool",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:intel:computer_vision_annotation_tool:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:intel:computer_vision_annotation_tool:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-10-31T08:17:16.280-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cvat:computer_vision_annotation_tool:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

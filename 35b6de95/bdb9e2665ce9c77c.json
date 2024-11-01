@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:coderex:wp_vr:3.4.7::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T11:45:24.870Z",
 	"title": [
 		{
 			"text": "Code Rex WP VR 3.4.7 for WordPress",
@@ -7,10 +9,6 @@
 		}
 	],
 	"references": [
-		{
-			"text": "Vendor",
-			"href": "https://www.coderex.co/"
-		},
 		{
 			"text": "Vendor",
 			"href": "https://rextheme.com/"
@@ -22,9 +20,20 @@
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/wpvr/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.coderex.co/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:coderex:wp_vr:3.4.7:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:coderex:wp_vr:3.4.7:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-31T07:45:24.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rextheme:wp_vr:3.4.7:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:coderex:wp_vr:1.0.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T11:45:24.870Z",
 	"title": [
 		{
 			"text": "Code Rex WP VR 1.0.2 for WordPress",
@@ -25,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:coderex:wp_vr:1.0.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:coderex:wp_vr:1.0.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-31T07:45:24.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rextheme:wp_vr:1.0.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

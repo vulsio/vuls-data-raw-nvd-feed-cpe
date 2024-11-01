@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:vowelweb:ibtana:1.2.3.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "vowelweb Ibtana 1.2.3.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ibtana-visual-editor/ibtana-wordpress-website-builder-1244-authenticated-contributor-stored-cross-site-scripting-via-align-attribute"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ibtana-visual-editor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vowelweb:ibtana:1.2.3.6:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:coderex:wp_vr:8.3.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-10-31T11:45:24.870Z",
 	"title": [
 		{
 			"text": "Coderex WP VR 8.3.0 for WordPress",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://wpscan.com/vulnerability/6938fee5-3510-45e6-8112-c9e2b30f6881"
-		},
-		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/wpvr/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/6938fee5-3510-45e6-8112-c9e2b30f6881"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:coderex:wp_vr:8.3.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:coderex:wp_vr:8.3.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-10-31T07:45:24.870-04:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rextheme:wp_vr:8.3.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
