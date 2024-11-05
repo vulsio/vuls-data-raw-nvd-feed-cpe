@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wedevs:recaptcha_integration:1.2.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "weDevs ReCaptcha Integration 1.2.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/weDevsOfficial/wp-recaptcha-integration"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-recaptcha-integration/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-recaptcha-integration/recaptcha-integration-for-wordpress-125-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wedevs.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wedevs:recaptcha_integration:1.2.5:*:*:*:*:wordpress:*:*"
+	}
+}

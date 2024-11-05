@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:aa-team:wzone:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AA-Team WZone for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.aa-team.com/product/wzone-woocommerce-amazon-affiliates-wordpress-plugin/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.aa-team.com/products/woocommerce-amazon-affiliates/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woozone/woocommerce-amazon-affiliates-wordpress-plugin-14010-missing-authorization"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aa-team:wzone:-:*:*:*:*:wordpress:*:*"
+	}
+}

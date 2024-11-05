@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:fahadmahmood:rss_feed_widget:2.9.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Fahad Mahmood RSS Feed Widget 2.9.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/rss-feed-widget/rss-feed-widget-299-authenticated-contributor-stored-cross-site-scripting-via-rfw-youtube-videos-shortcode"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/rss-feed-widget/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fahadmahmood:rss_feed_widget:2.9.8:*:*:*:*:wordpress:*:*"
+	}
+}

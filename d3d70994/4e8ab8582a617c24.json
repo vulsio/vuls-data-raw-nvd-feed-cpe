@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:fastlinemedia:beaver_builder:2.8.3::~~lite~wordpress~~",
+	"title": [
+		{
+			"text": "FastLine Media Beaver Builder 2.8.3 Lite Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/beaver-builder-lite-version/beaver-builder-wordpress-page-builder-2842-authenticated-contributor-stored-dom-based-cross-site-scripting-via-button-widget"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/beaver-builder-lite-version/#developers"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.wpbeaverbuilder.com/change-logs/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:fastlinemedia:beaver_builder:2.8.3:*:*:*:lite:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:8theme:xstore_core:4.0.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "8THEME XStore Core 4.0.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://8theme.com/topic-tag/xstore-core-plugin-installation/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/et-core-plugin/wordpress-xstore-core-plugin-5-3-5-multiple-authenticated-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://xstore.8theme.com/update-history/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:8theme:xstore_core:4.0.9:*:*:*:*:wordpress:*:*"
+	}
+}
