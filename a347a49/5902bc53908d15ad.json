@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:wpdeveloper:betterlinks:1.2.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-06T13:41:44.810Z",
 	"title": [
 		{
 			"text": "WPDeveloper BetterLinks 1.2.2 for WordPress",
@@ -7,6 +9,14 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://betterlinks.io/changelog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/6bc8fff1-ff10-4175-8a46-563f0f26f96a"
+		},
 		{
 			"text": "Product",
 			"href": "https://wordpress.org/plugins/betterlinks/"
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wpdeveloper:betterlinks:1.2.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wpdeveloper:betterlinks:1.2.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-06T08:41:44.810-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wpdeveloper:betterlinks:1.2.2:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

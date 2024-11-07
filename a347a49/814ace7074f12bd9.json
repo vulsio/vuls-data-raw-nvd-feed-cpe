@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpdeveloper:betterlinks:2.1.8::~~free~wordpress~~",
+	"title": [
+		{
+			"text": "WPDeveloper BetterLinks 2.1.8 Free Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://betterlinks.io/changelog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/betterlinks/wordpress-betterlinks-plugin-2-1-7-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpdeveloper.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/betterlinks/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdeveloper:betterlinks:2.1.8:*:*:*:free:wordpress:*:*"
+	}
+}

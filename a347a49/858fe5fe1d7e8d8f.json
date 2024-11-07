@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpdeveloper:betterlinks:1.2.6::~~free~wordpress~~",
+	"title": [
+		{
+			"text": "WPDeveloper BetterLinks 1.2.6 Free Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/6bc8fff1-ff10-4175-8a46-563f0f26f96a"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/betterlinks/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpdeveloper.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://betterlinks.io/changelog/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpdeveloper:betterlinks:1.2.6:*:*:*:free:wordpress:*:*"
+	}
+}
