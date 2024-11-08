@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:castos:seriously_simple_podcasting:3.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Castos Seriously Simple Podcasting 3.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://castos.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/seriously-simple-podcasting/seriously-simple-podcasting-350-reflected-cross-site-scripting-via-add-query-arg-parameter"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/seriously-simple-podcasting/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:castos:seriously_simple_podcasting:3.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

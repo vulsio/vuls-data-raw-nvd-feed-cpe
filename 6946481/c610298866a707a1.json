@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:tickera:tickera:3.5.3.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Tickera 3.5.3.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://tickera.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/tickera-event-ticketing-system/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tickera-event-ticketing-system/tickera-wordpress-event-ticketing-3544-unauthenticated-arbitrary-shortcode-execution"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/tickera-event-ticketing-system/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:tickera:tickera:3.5.3.6:*:*:*:*:wordpress:*:*"
+	}
+}

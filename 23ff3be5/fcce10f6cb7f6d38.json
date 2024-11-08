@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:contest-gallery:contest_gallery:21.2.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Contest-Gallery Contest Gallery 21.2.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/contest-gallery/wordpress-photos-and-files-contest-gallery-plugin-21-2-8-4-csrf-leading-to-gallery-creation-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.contest-gallery.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/contest-gallery/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:contest-gallery:contest_gallery:21.2.9:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:sktthemes:posterity:2.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "SKT Themes Posterity 2.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/posterity/wordpress-posterity-theme-3-6-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/posterity/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/posterity"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.sktthemes.org/shop/free-creative-agency-wordpress-theme/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sktthemes:posterity:2.0:*:*:*:*:wordpress:*:*"
+	}
+}
