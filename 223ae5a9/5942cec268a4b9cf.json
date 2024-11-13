@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpplugin:easy_paypal_events:1.0.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPPlugin Easy PayPal Events 1.0.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-paypal-events-tickets/easy-paypal-events-121-cross-site-request-forgery-to-arbitrary-post-deletion"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wpplugin.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/easy-paypal-events-tickets/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpplugin:easy_paypal_events:1.0.2:*:*:*:*:wordpress:*:*"
+	}
+}

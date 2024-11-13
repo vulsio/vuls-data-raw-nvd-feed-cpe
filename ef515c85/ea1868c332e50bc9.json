@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cozythemes:blockbooster:1.0.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CozyThemes Blockbooster 1.0.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/blockbooster/wordpress-blockbooster-theme-1-0-10-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/blockbooster"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/blockbooster/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cozythemes:blockbooster:1.0.8:*:*:*:*:wordpress:*:*"
+	}
+}

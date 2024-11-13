@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wptaskforce:track_%26_trace:6.13.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPTaskforce Track & Trace 6.13.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/wpcargo/#tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wpcargo/wordpress-wpcargo-track-trace-plugin-7-0-6-sql-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpcargo/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wptaskforce:track_\\&_trace:6.13.0:*:*:*:*:wordpress:*:*"
+	}
+}

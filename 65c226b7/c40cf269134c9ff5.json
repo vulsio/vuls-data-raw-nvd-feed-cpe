@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ayecode:geodirectory:2.3.82::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AyeCode GeoDirectory 2.3.82 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/geodirectory/wordpress-geodirectory-plugin-2-3-70-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/geodirectory/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ayecode:geodirectory:2.3.82:*:*:*:*:wordpress:*:*"
+	}
+}

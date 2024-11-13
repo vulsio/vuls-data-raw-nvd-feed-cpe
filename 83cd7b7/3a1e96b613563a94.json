@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ayecode:getpaid:2.7.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AyeCode GetPaid 2.7.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/invoicing/wordpress-payment-forms-buy-now-buttons-and-invoicing-system-getpaid-plugin-2-8-11-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/invoicing/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ayecode:getpaid:2.7.3:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:wpplugin:time_clock:1.1.5::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "WPPlugin Time Clock 1.1.5 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpplugin.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/time-clock-122-unauthenticated-limited-remote-code-execution"
+		},
+		{
+			"text": "Product",
+			"href": "https://wpplugin.org/downloads/time-clock-pro/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/time-clock/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpplugin:time_clock:1.1.5:*:*:*:pro:wordpress:*:*"
+	}
+}

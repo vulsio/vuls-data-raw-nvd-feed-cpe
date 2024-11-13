@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cozythemes:hello_agency:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CozyThemes Hello Agency 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/log/hello-agency"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/themes/hello-agency/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/hello-agency/wordpress-hello-agency-theme-1-0-5-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cozythemes:hello_agency:1.0.0:*:*:*:*:wordpress:*:*"
+	}
+}
