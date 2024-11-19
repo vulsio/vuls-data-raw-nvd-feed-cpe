@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:ays-pro:chartify:1.6.9::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-18T13:50:02.537Z",
 	"title": [
 		{
 			"text": "AYS Pro Chartify 1.6.9 for WordPress",
@@ -7,6 +9,14 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/chart-builder/"
+		},
+		{
+			"text": "Product",
+			"href": "https://ays-pro.com/wordpress/chart-builder"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/chart-builder/#developers"
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:ays-pro:chartify:1.6.9:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:ays-pro:chartify:1.6.9:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-18T08:50:02.537-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:ays-pro:chartify:1.6.9:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
