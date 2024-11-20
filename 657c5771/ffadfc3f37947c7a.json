@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mattermost:mattermost_server:9.7.3",
+	"deprecated": true,
+	"deprecation_date": "2024-11-19T14:16:19.133Z",
 	"title": [
 		{
 			"text": "Mattermost Server 9.7.3",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mattermost:mattermost_server:9.7.3:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:mattermost:mattermost_server:9.7.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-19T09:16:19.133-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:mattermost:mattermost_server:9.7.3:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

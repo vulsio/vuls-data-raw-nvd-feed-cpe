@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:calibre-web_project:calibre-web:0.6.4",
+	"deprecated": true,
+	"deprecation_date": "2024-11-19T13:55:29.653Z",
 	"title": [
 		{
 			"text": "Calibre-Web Project Calibre-Web 0.6.4",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.4:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:calibre-web_project:calibre-web:0.6.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-19T08:55:29.653-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:janeczku:calibre-web:0.6.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
