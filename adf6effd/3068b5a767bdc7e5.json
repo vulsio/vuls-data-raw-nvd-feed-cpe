@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:idurar_project:idurar:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2024-11-20T19:56:21.303Z",
 	"title": [
 		{
 			"text": "IDURAR Project IDURAR 2.0.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:idurar_project:idurar:2.0.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:idurar_project:idurar:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-20T14:56:21.303-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:idurarapp:idurar:2.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

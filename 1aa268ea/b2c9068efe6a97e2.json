@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:supsystic:popup:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Supsystic Popup for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/popup-by-supsystic/wordpress-popup-by-supsystic-plugin-1-10-29-remote-code-execution-rce-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://supsystic.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/popup-by-supsystic/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:supsystic:popup:-:*:*:*:*:wordpress:*:*"
+	}
+}

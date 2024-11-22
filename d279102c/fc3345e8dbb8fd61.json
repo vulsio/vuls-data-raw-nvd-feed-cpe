@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:progress:loadmaster:7.2.59.0",
+	"title": [
+		{
+			"text": "Progress LoadMaster 7.2.59.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.progress.com/category/loadmaster-release-notes-ga"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://rhinosecuritylabs.com/research/cve-2024-1212unauthenticated-command-injection-in-progress-kemp-loadmaster/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/1xxx/CVE-2024-1212.json"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:progress:loadmaster:7.2.59.0:*:*:*:*:*:*:*"
+	}
+}

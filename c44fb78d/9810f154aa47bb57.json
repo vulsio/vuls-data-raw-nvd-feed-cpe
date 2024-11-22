@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:loginizer:loginizer:1.8.6::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Loginizer 1.8.6 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/loginizer/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://loginizer.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/loginizer-security-and-loginizer-192-authentication-bypass"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/loginizer/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:loginizer:loginizer:1.8.6:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:linear:linear:2.7.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Linear 2.7.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://linear.fi/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/linear/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/linear/wordpress-linear-plugin-2-7-11-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linear:linear:2.7.8:*:*:*:*:wordpress:*:*"
+	}
+}

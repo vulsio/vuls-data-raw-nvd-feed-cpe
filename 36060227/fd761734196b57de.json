@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:angeljudesuarez:tailoring_management_system_project:1.0",
+	"deprecated": true,
+	"deprecation_date": "2024-11-20T18:17:01.270Z",
 	"title": [
 		{
 			"text": "Angel Jude Suarez Tailoring Management System Project 1.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:angeljudesuarez:tailoring_management_system_project:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:angeljudesuarez:tailoring_management_system_project:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-20T13:17:01.270-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:angeljudesuarez:tailoring_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

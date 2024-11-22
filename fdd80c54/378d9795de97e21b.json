@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nextcloud:mail:0.7.2::~~~nextcloud~~",
+	"title": [
+		{
+			"text": "Nextcloud Mail 0.7.2 for Nextcloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/nextcloud/mail"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/mail/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.nextcloud.com/apps/mail"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:mail:0.7.2:*:*:*:*:nextcloud:*:*"
+	}
+}

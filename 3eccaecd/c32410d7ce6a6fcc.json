@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nextcloud:nextcloud_mail:1.12.7",
+	"deprecated": true,
+	"deprecation_date": "2024-11-20T14:49:09.773Z",
 	"title": [
 		{
 			"text": "Nextcloud Mail 1.12.7",
@@ -8,11 +10,18 @@
 	],
 	"references": [
 		{
-			"text": "Change Log",
-			"href": "https://github.com/nextcloud/mail/releases"
+			"text": "Product",
+			"href": "https://apps.nextcloud.com/apps/mail"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nextcloud:nextcloud_mail:1.12.7:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:nextcloud:nextcloud_mail:1.12.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-20T09:49:09.773-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nextcloud:mail:1.12.7:*:*:*:*:nextcloud:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:roveridx:rover_idx:3.0.0.2661::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Rover IDX 3.0.0.2661 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://roveridx.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/rover-idx/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/rover-idx/rover-idx-3002905-authenticated-subscriber-authentication-bypass-to-administrator"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:roveridx:rover_idx:3.0.0.2661:*:*:*:*:wordpress:*:*"
+	}
+}

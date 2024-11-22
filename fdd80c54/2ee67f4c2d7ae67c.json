@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nextcloud:mail:3.3.0:rc1:~~~nextcloud~~",
+	"title": [
+		{
+			"text": "Nextcloud Mail 3.3.0 Release Candidate 1 for Nextcloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/nextcloud/mail"
+		},
+		{
+			"text": "Product",
+			"href": "https://apps.nextcloud.com/apps/mail"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/nextcloud/mail/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nextcloud:mail:3.3.0:rc1:*:*:*:nextcloud:*:*"
+	}
+}

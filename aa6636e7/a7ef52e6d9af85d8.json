@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:mycurator_content_curation_project:mycurator_content_curation:2.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-20T14:34:40.633Z",
 	"title": [
 		{
 			"text": "MyCurator Content Curation Project MyCurator Content Curation 2.2 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:mycurator_content_curation_project:mycurator_content_curation:2.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:mycurator_content_curation_project:mycurator_content_curation:2.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-20T09:34:40.633-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:target-info:mycurator_content_curation:2.2:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
