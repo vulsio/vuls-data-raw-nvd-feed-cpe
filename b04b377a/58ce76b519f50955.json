@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:twistedmatrix:twisted:16.1.1",
+	"deprecated": true,
+	"deprecation_date": "2024-11-25T18:12:23.270Z",
 	"title": [
 		{
 			"text": "Twisted Matrix Twisted 16.1.1",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:twistedmatrix:twisted:16.1.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:twistedmatrix:twisted:16.1.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-25T13:12:23.270-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:twisted:twisted:16.1.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

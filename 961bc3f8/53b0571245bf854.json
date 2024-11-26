@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:woocommerce:upload_files:60.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-25T18:14:47.803Z",
 	"title": [
 		{
 			"text": "WooCommerce Upload Files 60.5 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:woocommerce:upload_files:60.5:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:woocommerce:upload_files:60.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-25T13:14:47.803-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:vanquish:woocommerce_upload_files:60.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

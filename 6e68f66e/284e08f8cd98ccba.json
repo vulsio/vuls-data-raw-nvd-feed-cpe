@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:motopress:getwid_-_gutenberg_blocks:2.0.3::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-25T16:47:32.997Z",
 	"title": [
 		{
 			"text": "MotoPress Getwid - Gutenberg Blocks 2.0.3 for WordPress",
@@ -7,6 +9,18 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/getwid/"
+		},
+		{
+			"text": "Product",
+			"href": "https://motopress.com/products/getwid/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/motopress/getwid/blob/master/changelog.txt"
+		},
 		{
 			"text": "Vendor",
 			"href": "https://motopress.com/"
@@ -17,6 +31,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.3:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:motopress:getwid_-_gutenberg_blocks:2.0.3:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-25T11:47:32.997-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:motopress:getwid:2.0.3:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

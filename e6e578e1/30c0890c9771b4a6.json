@@ -1,15 +1,21 @@
 {
 	"name": "cpe:/a:themify:themify_builder:7.0.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-11-25T17:26:19.387Z",
 	"title": [
 		{
-			"text": "Themify Builder 7.0.1 for WordPress",
+			"text": "Themify Themify Builder 7.0.1 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/themify-builder/"
+		},
+		{
 			"text": "Change Log",
-			"href": "https://wordpress.org/plugins/themify-builder/#developers"
+			"href": "https://themify.org/changelogs/themify-builder.txt"
 		},
 		{
 			"text": "Vendor",
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:themify:themify_builder:7.0.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:themify:themify_builder:7.0.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-11-25T12:26:19.387-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:themify:builder:7.0.1:*:*:*:-:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
