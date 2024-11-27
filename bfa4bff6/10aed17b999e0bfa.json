@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:amd:epyc_embedded_9124:-",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) EPYC Embedded 9124",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/products/embedded/epyc/epyc-9004-and-8004-series.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3011.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:amd:epyc_embedded_9124:-:*:*:*:*:*:*:*"
+	}
+}

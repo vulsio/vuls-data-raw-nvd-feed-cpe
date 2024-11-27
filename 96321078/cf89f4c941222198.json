@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:linuxfoundation:dragonfly:2.1.58::~~~go~~",
+	"title": [
+		{
+			"text": "Linux Foundation Dragonfly 2.1.58 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.linuxfoundation.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/dragonflyoss/Dragonfly2/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/dragonflyoss/Dragonfly2/security/advisories/GHSA-hpc8-7wpm-889w"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:linuxfoundation:dragonfly:2.1.58:*:*:*:*:go:*:*"
+	}
+}
