@@ -1,22 +1,35 @@
 {
 	"name": "cpe:/a:arm:trusted_firmware-a:2.3:rc0",
+	"deprecated": true,
+	"deprecation_date": "2024-11-27T20:03:18.813Z",
 	"title": [
 		{
-			"text": "Arm Trusted Firmware-A (TF-A) 2.3 Release Candidate 0",
+			"text": "ARM Trusted Firmware-A (TF-A) 2.3 Release Candidate 0",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "https://www.arm.com/"
+			"text": "Version",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware/tags"
 		},
 		{
-			"text": "Version",
+			"text": "Product",
 			"href": "https://github.com/ARM-software/arm-trusted-firmware"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:arm:trusted_firmware-a:2.3:rc0:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:arm:trusted_firmware-a:2.3:rc0:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-27T15:03:18.813-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:arm:trusted_firmware-a:2.3:rc0:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

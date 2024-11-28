@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:arm:trusted_firmware-a:2.8",
+	"deprecated": true,
+	"deprecation_date": "2024-11-27T20:03:18.813Z",
 	"title": [
 		{
 			"text": "ARM Trusted Firmware-A (TF-A) 2.8",
@@ -8,11 +10,26 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://trustedfirmware-a.readthedocs.io/en/latest/security_advisories/security-advisory-tfv-10.html"
+			"text": "Version",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.arm.com/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:arm:trusted_firmware-a:2.8:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:arm:trusted_firmware-a:2.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-27T15:03:18.813-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:arm:trusted_firmware-a:2.8:-:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

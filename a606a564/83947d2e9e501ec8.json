@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:f4dev:f4_improvements:1.7.3::~~~wordpress~~",
+	"title": [
+		{
+			"text": "F4dev F4 Improvements 1.7.3 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/browser/f4-improvements/trunk/readme.txt?rev=3195114#L125"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.f4dev.ch/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/f4-improvements/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/f4-improvements/f4-improvements-190-authenticated-author-stored-cross-site-scripting-via-svg-file-upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:f4dev:f4_improvements:1.7.3:*:*:*:*:wordpress:*:*"
+	}
+}

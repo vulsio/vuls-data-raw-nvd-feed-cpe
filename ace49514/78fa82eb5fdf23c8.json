@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tracker-software:pdf-xchange_editor:8.0.332.0",
+	"deprecated": true,
+	"deprecation_date": "2024-11-27T20:11:44.023Z",
 	"title": [
 		{
 			"text": "Tracker Software PDF-XChange Editor 8.0.332.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tracker-software:pdf-xchange_editor:8.0.332.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:tracker-software:pdf-xchange_editor:8.0.332.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-27T15:11:44.023-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pdf-xchange:pdf-xchange_editor:8.0.332.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
