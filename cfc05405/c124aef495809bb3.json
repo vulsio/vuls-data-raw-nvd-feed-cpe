@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tracker-software:pdf-tools:8.0.330.0",
+	"deprecated": true,
+	"deprecation_date": "2024-11-29T18:41:12.833Z",
 	"title": [
 		{
 			"text": "Tracker Software PDF-Tools 8.0.330.0",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tracker-software:pdf-tools:8.0.330.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:tracker-software:pdf-tools:8.0.330.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-11-29T13:41:12.833-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:pdf-xchange:pdf-tools:8.0.330.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
