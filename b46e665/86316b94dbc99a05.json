@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:melapress:wp_activity_log:5.2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Melapress WP Activity Log 5.2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://melapress.com/support/kb/wp-activity-log-plugin-changelog/?utm_source=wp+repo&utm_medium=repo+link&utm_campaign=wordpress_org&utm_content=wsal"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-security-audit-log/wp-activity-log-521-unauthenticated-stored-cross-site-scripting-via-user-id-parameter"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-security-audit-log/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:melapress:wp_activity_log:5.2.2:*:*:*:*:wordpress:*:*"
+	}
+}
