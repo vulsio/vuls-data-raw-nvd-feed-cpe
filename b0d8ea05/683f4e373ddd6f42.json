@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:bricksforge:bricksforge:2.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Bricksforge 2.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://bricksforge.io/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bricksforge/wordpress-bricksforge-plugin-2-0-17-unauthenticated-arbitrary-wordpress-settings-change-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bricksforge:bricksforge:2.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

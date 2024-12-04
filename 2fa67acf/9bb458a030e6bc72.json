@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:abdullahirfan:whitelist:3.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Abdullah Irfan Whitelist 3.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.abdullahirfan.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/fifthsegment-whitelist/wordpress-whitelist-plugin-3-5-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/fifthsegment-whitelist/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abdullahirfan:whitelist:3.5:*:*:*:*:wordpress:*:*"
+	}
+}

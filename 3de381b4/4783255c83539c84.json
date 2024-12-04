@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:acekyd:display_medium_posts:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "AceKYD Display Medium Posts for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.acekyd.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/display-medium-posts/display-medium-posts-501-authenticated-contributor-stored-cross-site-scripting-via-display-medium-posts-shortcode"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/display-medium-posts/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:acekyd:display_medium_posts:-:*:*:*:*:wordpress:*:*"
+	}
+}
