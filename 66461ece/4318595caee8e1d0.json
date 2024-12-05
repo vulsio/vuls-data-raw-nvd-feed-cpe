@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:combodo:itop:3.2.0:beta1",
+	"title": [
+		{
+			"text": "Combodo iTop (aka IT Operations Portal) 3.2.0 Beta 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://www.combodo.com"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/Combodo/iTop/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Combodo/iTop/security/advisories/GHSA-8cwx-q4xh-7c7r"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:combodo:itop:3.2.0:beta1:*:*:*:*:*:*"
+	}
+}
