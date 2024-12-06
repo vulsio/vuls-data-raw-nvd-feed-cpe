@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:aliazlan:risk_warning_bar:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ali Azlan Risk Warning Bar for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/risk-warning-bar/wordpress-risk-warning-bar-plugin-1-0-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/risk-warning-bar/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:aliazlan:risk_warning_bar:-:*:*:*:*:wordpress:*:*"
+	}
+}

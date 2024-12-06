@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:apa:apa_register_newsletter_form:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "APA Register Newsletter Form 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/apa-register-newsletter-form/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/apa-register-newsletter-form/wordpress-apa-register-newsletter-form-plugin-1-0-0-csrf-to-sql-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apa:apa_register_newsletter_form:1.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

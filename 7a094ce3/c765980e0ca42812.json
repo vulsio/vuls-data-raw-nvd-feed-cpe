@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:strategy11:formidable_forms:6.3.1::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2024-12-05T20:02:23.280Z",
 	"title": [
 		{
 			"text": "Strategy11 Formidable Forms 6.3.1 for WordPress",
@@ -8,11 +10,30 @@
 	],
 	"references": [
 		{
+			"text": "Vendor",
+			"href": "https://strategy11.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/8c727a31-ff65-4472-8191-b1becc08192a/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/formidable?format=changelog&rev=3025391&limit=100&mode=stop_on_copy"
+		},
+		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/formidable/#developers"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:strategy11:formidable_forms:6.3.1:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:strategy11:formidable_forms:6.3.1:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2024-12-05T15:02:23.280-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:strategy11:formidable_forms:6.3.1:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

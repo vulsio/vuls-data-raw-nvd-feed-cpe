@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:sigmadevs:easy_demo_importer:1.1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Sigma Devs Easy Demo Importer 1.1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/easy-demo-importer/easy-demo-importer-a-modern-one-click-demo-import-solution-112-authenticated-author-stored-cross-site-scripting-via-svg-file-upload"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/easy-demo-importer/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sigmadevs:easy_demo_importer:1.1.1:*:*:*:*:wordpress:*:*"
+	}
+}

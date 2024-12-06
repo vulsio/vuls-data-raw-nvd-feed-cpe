@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:depicter:depicter:3.5.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Depicter 3.5.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://depicter.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/depicter/wordpress-depicter-plugin-3-2-2-broken-access-control-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/depicter/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:depicter:depicter:3.5.0:*:*:*:*:wordpress:*:*"
+	}
+}

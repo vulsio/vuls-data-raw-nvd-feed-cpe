@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:apa:apa_banner_slider:1.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "APA Banner Slider 1.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/apa-banner-slider/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/apa-banner-slider/wordpress-apa-banner-slider-plugin-1-0-0-csrf-to-sql-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apa:apa_banner_slider:1.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

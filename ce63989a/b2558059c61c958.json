@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:themehunk:gutenberg_blocks:1.2.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ThemeHunk Gutenberg Blocks 1.2.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/unlimited-blocks/wordpress-gutenberg-blocks-unlimited-blocks-for-gutenberg-plugin-1-2-7-authenticated-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://themehunk.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/unlimited-blocks/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themehunk:gutenberg_blocks:1.2.4:*:*:*:*:wordpress:*:*"
+	}
+}

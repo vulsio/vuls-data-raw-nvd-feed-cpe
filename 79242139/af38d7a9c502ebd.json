@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:digireturn:dn_popup:1.2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Digireturn DN Popup 1.2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://digireturn.it/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/1f941d51-1eaf-424a-95b8-ccaa3fdd339b/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/dn-popup/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:digireturn:dn_popup:1.2.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:strategy11:formidable_forms:5.1::~~free~wordpress~~",
+	"title": [
+		{
+			"text": "Strategy11 Formidable Forms 5.1 Free Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://strategy11.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/formidable/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/8c727a31-ff65-4472-8191-b1becc08192a/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.trac.wordpress.org/log/formidable?format=changelog&rev=3025391&limit=100&mode=stop_on_copy"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:strategy11:formidable_forms:5.1:*:*:*:free:wordpress:*:*"
+	}
+}
