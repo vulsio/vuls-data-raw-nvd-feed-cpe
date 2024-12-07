@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wclovers:wcfm_marketplace:3.6.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WC Lovers WCFM Marketplace 3.6.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wc-multivendor-marketplace/wordpress-wcfm-marketplace-3-6-10-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wclovers.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wc-multivendor-marketplace/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wclovers:wcfm_marketplace:3.6.7:*:*:*:*:wordpress:*:*"
+	}
+}

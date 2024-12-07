@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpfactory:wpfactory_helper:1.6.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPFactory WPFactory Helper 1.6.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpcodefactory-helper/wpfactory-helper-170-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpcodefactory-helper/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpfactory:wpfactory_helper:1.6.0:*:*:*:*:wordpress:*:*"
+	}
+}
