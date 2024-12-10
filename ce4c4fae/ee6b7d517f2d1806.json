@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:paloaltonetworks:pan-os:9.1.2",
+	"deprecated": true,
+	"deprecation_date": "2024-12-09T16:40:32.753Z",
 	"title": [
 		{
 			"text": "Palo Alto Networks PAN-OS 9.1.2",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-09T11:40:32.753-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:paloaltonetworks:pan-os:9.1.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
