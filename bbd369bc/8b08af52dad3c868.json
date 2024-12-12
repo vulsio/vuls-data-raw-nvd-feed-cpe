@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:haxx:curl:8.7.1",
+	"title": [
+		{
+			"text": "Haxx Curl 8.7.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://curl.se/docs/CVE-2024-9681.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/curl/curl/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:haxx:curl:8.7.1:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wireshark:wireshark:4.2.2:-",
+	"title": [
+		{
+			"text": "Wireshark 4.2.2 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wireshark.org/security/wnpa-sec-2024-13.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://gitlab.com/wireshark/wireshark/-/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wireshark:wireshark:4.2.2:-:*:*:*:*:*:*"
+	}
+}

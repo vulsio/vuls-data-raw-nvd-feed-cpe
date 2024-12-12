@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:amd:radeon_software:23.12.1::~~adrenalin~~~",
+	"title": [
+		{
+			"text": "Advanced Micro Devices (AMD) Radeon Software (AMD Software) 23.12.1 Adrenalin Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.amd.com/en/resources/support-articles/faqs/RS-INSTALL.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://en.wikipedia.org/wiki/AMD_Software"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-6015.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-6005.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amd:radeon_software:23.12.1:*:*:*:adrenalin:*:*:*"
+	}
+}
