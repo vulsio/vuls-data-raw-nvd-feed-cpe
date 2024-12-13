@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:automattic:ghactivity:2.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Automattic Ghactivity 2.0.0 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/Automattic/ghactivity"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ghactivity/wordpress-ghactivity-plugin-2-0-0-alpha-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:automattic:ghactivity:2.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:felixmoira:ai_popup:1.0.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Felix Moira AI Popup (Popup More) 1.0.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/popup-more/popup-more-224-authenticated-admin-directory-traversal-to-limited-local-file-inclusion"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/popup-more/#developers"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/popup-more/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:felixmoira:ai_popup:1.0.5:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"name": "cpe:/o:apple:ipad_os:17.3",
+	"deprecated": true,
+	"deprecation_date": "2024-12-12T14:32:58.757Z",
+	"title": [
+		{
+			"text": "Apple iPad OS 17.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.apple.com/en-us/118702"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:apple:ipad_os:17.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-12T09:32:58.757-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:apple:ipados:17.3:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

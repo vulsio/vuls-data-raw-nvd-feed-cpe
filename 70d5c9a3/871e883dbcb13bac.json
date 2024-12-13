@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:avchat.net:avchat_video_chat:2.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Avchat.net AVChat Video Chat 2.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/avchat-3/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/avchat-3/wordpress-community-lite-video-chat-plugin-2-2-csrf-to-stored-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:avchat.net:avchat_video_chat:2.2:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpplugins:hide_my_wp_ghost:5.0.26::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Plugins Hide My WP Ghost 5.0.26 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://wpplugins.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/hide-my-wp/hide-my-wp-ghost-security-firewall-5301-reflected-cross-site-scripting-via-url"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/hide-my-wp/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpplugins:hide_my_wp_ghost:5.0.26:*:*:*:*:wordpress:*:*"
+	}
+}

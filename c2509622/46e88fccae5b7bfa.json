@@ -1,0 +1,35 @@
+{
+	"name": "cpe:/a:sap:s4fnd:1.03",
+	"deprecated": true,
+	"deprecation_date": "2024-12-12T20:16:50.737Z",
+	"title": [
+		{
+			"text": "SAP Customer Relationship Management WebClient UI S4FND 1.03",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.abex.io/advisory/version/S4FND%20103"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.sap.com/index.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sap.com/documents/2022/02/fa865ea4-167e-0010-bca6-c68f7e60039b.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:sap:s4fnd:1.03:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-12T15:16:50.737-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:sap:s4fnd:103:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

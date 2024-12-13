@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/o:vw:id.charger_connect_firmware:spr3.52",
+	"title": [
+		{
+			"text": "Volkswagen ID.Charger Connect Firmware SPR3.52",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.vw.com/en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://asrg.io/security-advisories/vulnerability-in-id-charger-connect-and-pro-from-volkswagen-group-charging-gmbh-elli-evbox-versions-spr3-2b-spr3-51-and-spr3-52/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.electrive.com/2020/06/14/vw-starts-sales-of-id-charger-as-wallbox-for-everyone/"
+		},
+		{
+			"text": "Product",
+			"href": "https://devicebase.net/en/volkswagen-id-charger-connect-wallbox"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vw:id.charger_connect_firmware:spr3.52:*:*:*:*:*:*:*"
+	}
+}

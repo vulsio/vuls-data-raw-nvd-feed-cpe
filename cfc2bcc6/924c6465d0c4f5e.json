@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:utstarcom:f1000_wi-fi_telephone:-",
+	"deprecated": true,
+	"deprecation_date": "2024-12-12T18:00:47.310Z",
 	"title": [
 		{
 			"text": "UTStarcom F1000 Wi-Fi Telephone",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:utstarcom:f1000_wi-fi_telephone:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:utstarcom:f1000_wi-fi_telephone:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-12T13:00:47.310-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:utstarcom:f1000_wi-fi:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:zyxel:uos:1.20:patch2",
+	"title": [
+		{
+			"text": "Zyxel uOS 1.20 Patch 2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://community.zyxel.com/en/discussion/23382/whats-new-uos1-20-patch2-firmware-update-for-usg-flex-h-series"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-insufficiently-protected-credentials-vulnerability-in-firewalls-10-22-2024"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zyxel:uos:1.20:patch2:*:*:*:*:*:*"
+	}
+}

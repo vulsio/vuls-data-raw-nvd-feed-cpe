@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpmanageninja:fluent_support:1.7.90::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Manage Ninja Fluent Support 1.7.90 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/fluent-support/wordpress-fluent-support-plugin-1-8-0-broken-access-control-on-email-verification-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/fluent-support/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpmanageninja:fluent_support:1.7.90:*:*:*:*:wordpress:*:*"
+	}
+}

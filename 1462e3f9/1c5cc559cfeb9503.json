@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:vw:id.charger_pro_firmware:spr3.2:beta",
+	"title": [
+		{
+			"text": "Volkswagen ID.Charger Pro Firmware SPR3.2 Beta",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.vw.com/en.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://asrg.io/security-advisories/vulnerability-in-id-charger-connect-and-pro-from-volkswagen-group-charging-gmbh-elli-evbox-versions-spr3-2b-spr3-51-and-spr3-52/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.electrive.com/2020/06/14/vw-starts-sales-of-id-charger-as-wallbox-for-everyone/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:vw:id.charger_pro_firmware:spr3.2:beta:*:*:*:*:*:*"
+	}
+}

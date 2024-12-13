@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:giveawayboost:giveaway_boost:2.1.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Giveaway Boost 2.1.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://giveawayboost.com/"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/giveaway-boost/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/giveaway-boost/wordpress-giveaway-boost-plugin-2-1-4-php-object-injection-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:giveawayboost:giveaway_boost:2.1.4:*:*:*:*:wordpress:*:*"
+	}
+}

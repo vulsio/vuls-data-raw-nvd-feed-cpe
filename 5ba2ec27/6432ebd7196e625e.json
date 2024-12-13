@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:yealink:sip-t28p_firmware:-",
+	"title": [
+		{
+			"text": "Yealink SIP-T28P Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.yealink.com/en/product-detail/ip-phone-t28p"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.bdosecurity.de/en-gb/advisories/cve-2024-33109"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:yealink:sip-t28p_firmware:-:*:*:*:*:*:*:*"
+	}
+}
