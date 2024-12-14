@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:brainstormforce:pre-publish_checklist:1.1.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brainstorm Force Pre-Publish Checklist 1.1.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/pre-publish-checklist/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://brainstormforce.com/products/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/pre-publish-checklist/wordpress-pre-publish-checklist-plugin-1-1-1-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brainstormforce:pre-publish_checklist:1.1.2:*:*:*:*:wordpress:*:*"
+	}
+}

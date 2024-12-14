@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:tenda:fh1206:-",
+	"title": [
+		{
+			"text": "Tenda FH1206",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/7xxx/CVE-2024-7615.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BeaCox/IoT_vuln/tree/main/tenda/FH1206/Safe_Client_or_Url_or_Mac_Filter_bof"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tenda:fh1206:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:apollographql:apollo_router:1.29.1",
+	"deprecated": true,
+	"deprecation_date": "2024-12-13T13:07:23.350Z",
 	"title": [
 		{
 			"text": "Apollo GraphQL Apollo Router 1.29.1",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:apollographql:apollo_router:1.29.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:apollographql:apollo_router:1.29.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-13T08:07:23.350-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:apollographql:apollo_router:1.29.1:*:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

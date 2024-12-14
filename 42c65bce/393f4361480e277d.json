@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:agendaless:waitress:-",
+	"title": [
+		{
+			"text": "Agendaless Waitress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://docs.pylonsproject.org/projects/waitress/en/latest/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://agendaless.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/Pylons/waitress/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:agendaless:waitress:-:*:*:*:*:*:*:*"
+	}
+}

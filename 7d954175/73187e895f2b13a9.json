@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:adtran:netvanta_3120:-",
+	"title": [
+		{
+			"text": "AdTran NetVanta 3120",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.netcomworks.com/NetVanta-3120.asp"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.adtran.com/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/actuator/cve/blob/main/AdTran/CVE-2024-31971"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:adtran:netvanta_3120:-:*:*:*:*:*:*:*"
+	}
+}

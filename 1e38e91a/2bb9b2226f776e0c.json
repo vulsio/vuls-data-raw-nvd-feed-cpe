@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:brainstormforce:astra:1.2.8::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brainstorm Force Astra 1.2.8 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://brainstormforce.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/astra-bulk-edit/wordpress-astra-bulk-edit-plugin-1-2-7-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brainstormforce:astra:1.2.8:*:*:*:*:wordpress:*:*"
+	}
+}

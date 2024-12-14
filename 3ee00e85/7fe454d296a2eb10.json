@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:tenda:o3:2.0",
+	"title": [
+		{
+			"text": "Tenda O3 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/abcdefg-png/IoT-vulnerable/blob/main/Tenda/O3V2.0/formQosSet.md"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.tenda.com.cn/download/detail-2832.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tenda:o3:2.0:*:*:*:*:*:*:*"
+	}
+}

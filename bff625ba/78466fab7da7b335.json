@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:port389:389-ds-base:1.4.0",
+	"deprecated": true,
+	"deprecation_date": "2024-12-13T18:47:18.183Z",
 	"title": [
 		{
 			"text": "Port389 389-ds-base (389 Directory Server) 1.4.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:port389:389-ds-base:1.4.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:port389:389-ds-base:1.4.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-13T13:47:18.183-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:redhat:389_directory_server:1.4.0.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

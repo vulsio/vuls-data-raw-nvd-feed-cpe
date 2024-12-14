@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:tendacn:a301:2.0",
+	"title": [
+		{
+			"text": "Tenda A301 2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.tendacn.com/download/detail-3328.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/BeaCox/IoT_vuln/tree/main/tenda/A301/WifiBasicSet_bof"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:tendacn:a301:2.0:*:*:*:*:*:*:*"
+	}
+}

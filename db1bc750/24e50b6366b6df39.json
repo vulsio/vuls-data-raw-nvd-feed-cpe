@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:tendacn:g3_firmware:15.03.05.05",
+	"title": [
+		{
+			"text": "Tendacn G3 Firmware 15.03.05.05",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/Question-h/vuln/blob/master/Remote%20Code%20Execution%20Vulnerability%20in%20Tenda%20G3%20Router.md"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.tendacn.com/product/g3.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:tendacn:g3_firmware:15.03.05.05:*:*:*:*:*:*:*"
+	}
+}
