@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pixeljar:favicon_generator:2.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Pixel Jar Favicon Generator 2.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.pixeljar.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/5e814b02-3870-4742-905d-ec03b0d31add/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/favicon-generator/#description"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pixeljar:favicon_generator:2.1:*:*:*:*:wordpress:*:*"
+	}
+}

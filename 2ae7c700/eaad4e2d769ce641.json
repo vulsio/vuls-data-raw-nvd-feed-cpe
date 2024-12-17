@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:jdk:17.0.10",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 17.0.10",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2024.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:17.0.10:*:*:*:*:*:*:*"
+	}
+}

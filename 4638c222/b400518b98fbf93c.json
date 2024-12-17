@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:liferay:liferay_portal:7.4.3.103",
+	"title": [
+		{
+			"text": "Liferay Portal 7.4.3.103",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/liferay/liferay-portal/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.liferay.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/liferay/liferay-portal"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://liferay.dev/portal/security/known-vulnerabilities/-/asset_publisher/jekt/content/CVE-2024-26273"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:liferay:liferay_portal:7.4.3.103:*:*:*:*:*:*:*"
+	}
+}

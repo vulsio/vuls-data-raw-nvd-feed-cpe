@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:sonicwall:sra_va_firmware:8.0.0.0",
+	"title": [
+		{
+			"text": "SonicWall SRA VA Firmware 8.0.0.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicguard.com/SRA-Series.asp"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2021-0017"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sonicwall:sra_va_firmware:8.0.0.0:*:*:*:*:*:*:*"
+	}
+}

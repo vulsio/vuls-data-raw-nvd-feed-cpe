@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:siklu:tg_firmware:-",
+	"title": [
+		{
+			"text": "Siklu TG Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.siklu.com/product/multihaul-series-tg/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/advisories/GHSA-54mj-hcw7-m39p"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:siklu:tg_firmware:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:solar-log:2000_pm%2b_firmware:15.10.2019",
+	"title": [
+		{
+			"text": "Solar-log 2000 PM+ Firmware 15.10.2019",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.solar-log.com/en/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.europe-solarstore.com/solar-log-2000-pm.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/vinnie1717/CVE-2023-46344/blob/main/Solar-Log%20XSS"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:solar-log:2000_pm\\+_firmware:15.10.2019:*:*:*:*:*:*:*"
+	}
+}

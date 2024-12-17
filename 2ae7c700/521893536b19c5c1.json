@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:jdk:1.8.0:update401:~~enterprise_performance_pack~~~",
+	"title": [
+		{
+			"text": "Oracle Java Development Kit (JDK) 1.8.0 Update 401 Enterprise Performance Pack Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2024.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:jdk:1.8.0:update401:*:*:enterprise_performance_pack:*:*:*"
+	}
+}

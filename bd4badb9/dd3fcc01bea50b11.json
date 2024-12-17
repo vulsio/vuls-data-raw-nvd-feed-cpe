@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:metagauss:download_plugin:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Metagauss Download Plugin for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://metagauss.com/products/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-plugin/download-plugin-220-missing-authorization-to-authenticated-subscriber-user-metadata-and-comment-download"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/download-plugin/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:metagauss:download_plugin:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:siemens:sicam_s8000:-",
+	"title": [
+		{
+			"text": "Siemens SICAM S8000 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://assets.new.siemens.com/siemens/assets/api/uuid:6a70847e-d326-4229-a53e-359ad220fb36/SICAM-S8000-Profile.pdf"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/power-automation-platform-sicam8/sicam-s8000.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-16"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:sicam_s8000:-:*:*:*:*:*:*:*"
+	}
+}

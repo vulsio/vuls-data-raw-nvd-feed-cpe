@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:pickplugins:team_showcase:1.22.22::~~~wordpress~~",
+	"title": [
+		{
+			"text": "PickPlugins Team Showcase 1.22.22 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://pickplugins.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/team/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/team/wordpress-team-showcase-plugin-1-22-25-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:pickplugins:team_showcase:1.22.22:*:*:*:*:wordpress:*:*"
+	}
+}

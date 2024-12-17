@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:sulimet:5-in-1_smart_door_lock_firmware:1.0",
+	"title": [
+		{
+			"text": "Sulimet (Suleve) 5-in-1 Smart Door Lock Firmware 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.sulimet.com/pages.php?page_id=202"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cve.circl.lu/cve/CVE-2023-39843"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ashallen.net/smart-security-device-rfid-vulnerability-disclosure"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sulimet:5-in-1_smart_door_lock_firmware:1.0:*:*:*:*:*:*:*"
+	}
+}

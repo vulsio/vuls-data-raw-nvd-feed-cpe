@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/h:siemens:sicam_egs:-",
+	"title": [
+		{
+			"text": "Siemens SICAM EGS ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.siemens.com/us/en/products/energy/energy-automation-and-smart-grid/power-automation-platform-sicam8/sicam-egs-enhanced-grid-sensor.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-256-16"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:siemens:sicam_egs:-:*:*:*:*:*:*:*"
+	}
+}
