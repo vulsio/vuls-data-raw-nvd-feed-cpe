@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:nvidia:mlnx-os:3.11.1000::~~-~~~",
+	"title": [
+		{
+			"text": "NVIDIA MLNX-OS 3.11.1000",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://docs.nvidia.com/networking/software/switch-software/index.html#mlnx-os-infiniband"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5559"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:mlnx-os:3.11.1000:*:*:*:-:*:*:*"
+	}
+}

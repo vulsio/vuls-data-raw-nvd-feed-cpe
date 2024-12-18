@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:arm:trusted_firmware-a:2.10.4::~~lts~~~",
+	"title": [
+		{
+			"text": "ARM Trusted Firmware-A (TF-A) 2.10.4 LTS Edition",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ARM-software/arm-trusted-firmware/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:arm:trusted_firmware-a:2.10.4:*:*:*:lts:*:*:*"
+	}
+}

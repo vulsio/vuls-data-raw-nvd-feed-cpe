@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:progress:sitefinity:13.3",
+	"deprecated": true,
+	"deprecation_date": "2024-12-17T16:15:17.577Z",
 	"title": [
 		{
 			"text": "Progress Sitefinity 13.3",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:progress:sitefinity:13.3:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:progress:sitefinity:13.3:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-17T11:15:17.577-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:progress:sitefinity:13.3.7600:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

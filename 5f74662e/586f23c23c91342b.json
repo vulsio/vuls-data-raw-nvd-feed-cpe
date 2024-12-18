@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:dlink:dns-320_firmware:2.02b01",
+	"title": [
+		{
+			"text": "D-Link DNS-320 Firmware 2.02B01",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10383"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/leetsun/IoT-Vuls/tree/main/Dlink-dns320/1"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:dlink:dns-320_firmware:2.02b01:*:*:*:*:*:*:*"
+	}
+}

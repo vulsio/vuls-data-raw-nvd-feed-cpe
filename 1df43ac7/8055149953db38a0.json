@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:servicenow:servicenow:utah:patch1",
+	"deprecated": true,
+	"deprecation_date": "2024-12-17T13:58:10.210Z",
 	"title": [
 		{
-			"text": "ServiceNow San Diego Patch 1",
+			"text": "ServiceNow Utah Patch1",
 			"lang": "en-US"
 		}
 	],
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:servicenow:servicenow:utah:patch1:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:servicenow:servicenow:utah:patch1:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-17T08:58:10.210-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:servicenow:servicenow:utah:patch_1:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

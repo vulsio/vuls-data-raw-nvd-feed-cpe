@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:rockwellautomation:pavilion8:5.20",
+	"deprecated": true,
+	"deprecation_date": "2024-12-17T15:44:17.553Z",
 	"title": [
 		{
 			"text": "Rockwell Automation Pavilion8 5.20",
@@ -9,10 +11,21 @@
 	"references": [
 		{
 			"text": "Advisory",
-			"href": "https://github.com/CVEProject/cvelist/blob/master/2023/29xxx/CVE-2023-29463.json"
+			"href": "https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1695.html"
+		},
+		{
+			"text": "Version",
+			"href": "https://compatibility.rockwellautomation.com/Pages/ProductReplacement.aspx?crumb=101&restore=1&vid=61468"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:rockwellautomation:pavilion8:5.20:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:rockwellautomation:pavilion8:5.20:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-17T10:44:17.553-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rockwellautomation:pavilion8:5.20.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

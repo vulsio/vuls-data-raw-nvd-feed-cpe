@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:rockwellautomation:arena_simulation_software:16.00.00",
+	"deprecated": true,
+	"deprecation_date": "2024-12-17T15:52:50.540Z",
 	"title": [
 		{
 			"text": "Rockwell Automation Arena Simulation Software 16.00.00",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:rockwellautomation:arena_simulation_software:16.00.00:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:rockwellautomation:arena_simulation_software:16.00.00:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-17T10:52:50.540-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rockwellautomation:arena:16.00.00:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

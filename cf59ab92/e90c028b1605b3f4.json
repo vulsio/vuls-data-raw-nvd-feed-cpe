@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:nvidia:onyx:3.10.4300::~~lts~~~",
+	"title": [
+		{
+			"text": "NVIDIA Onyx 3.10.4300 LTS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5559"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.nvidia.com/networking/software/switch-software/index.html#nvidia-onyx-ethernet"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:onyx:3.10.4300:*:*:*:lts:*:*:*"
+	}
+}
