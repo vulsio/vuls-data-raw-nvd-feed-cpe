@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:matrix:javascript_sdk:-",
+	"title": [
+		{
+			"text": "Matrix Javascript SDK",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/matrix-org/matrix-js-sdk/security/advisories/GHSA-vhr5-g3pm-49fm"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/matrix-org/matrix-js-sdk/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:matrix:javascript_sdk:-:*:*:*:*:*:*:*"
+	}
+}

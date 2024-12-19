@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4300",
+	"deprecated": true,
+	"deprecation_date": "2024-12-18T16:45:27.577Z",
 	"title": [
 		{
 			"text": "Zoho Corporation ManageEngine SharePoint Manager Plus Build 4300",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4300:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:-:build_4300:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-18T11:45:27.577-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_sharepoint_manager_plus:4.3:4300:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

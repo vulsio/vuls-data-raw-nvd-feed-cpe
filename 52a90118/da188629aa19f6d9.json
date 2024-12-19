@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:microsoft:windows_11_22h2:10.0.22621.2861",
+	"deprecated": true,
+	"deprecation_date": "2024-12-18T18:18:02.027Z",
 	"title": [
 		{
 			"text": "Microsoft Windows 11 22H2 10.0.22621.2861",
@@ -8,11 +10,18 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21740"
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.2861:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.2861:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-18T13:18:02.027-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:microsoft:windows_11_22h2:10.0.22621.2861:*:*:*:*:*:x64:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
