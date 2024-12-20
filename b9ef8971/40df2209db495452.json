@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:pepperl-fuchs:modbus_router_firmware:-",
+	"title": [
+		{
+			"text": "Pepperl+Fuchs Modbus Router Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://files.pepperl-fuchs.com/webcat/navi/productInfo/18/1834168b.zip?v=20240729172425"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.pepperl-fuchs.com/global/en/classid_8222.htm?view=productdetails&prodid=96879#software"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://cert.vde.com/en/advisories/VDE-2024-033/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:pepperl-fuchs:modbus_router_firmware:-:*:*:*:*:*:*:*"
+	}
+}

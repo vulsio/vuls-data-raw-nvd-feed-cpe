@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:juniper:junos:23.1:-",
+	"title": [
+		{
+			"text": "Juniper JUNOS 23.1 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/us/en/junos-os/#cat=release_notes&tab=release_23.2&sgroup=junos-os"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.juniper.net/documentation/product/us/en/junos-os-evolved/#cat=release_notes&tab=release_23.1&sgroup=junos-os-evolved"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://supportportal.juniper.net/s/article/2024-01-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-A-specific-BGP-UPDATE-message-will-cause-a-crash-in-the-backup-Routing-Engine-CVE-2024-21596?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:juniper:junos:23.1:-:*:*:*:*:*:*"
+	}
+}

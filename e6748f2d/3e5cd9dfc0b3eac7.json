@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:dell:dell_latitude_3580:-",
+	"deprecated": true,
+	"deprecation_date": "2024-12-19T14:25:43.340Z",
 	"title": [
 		{
 			"text": "Dell Dell Latitude 3580 ",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:dell:dell_latitude_3580:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:dell:dell_latitude_3580:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-19T09:25:43.340-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:dell:latitude_3580:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
