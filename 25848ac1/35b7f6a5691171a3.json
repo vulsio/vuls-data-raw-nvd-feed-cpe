@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:raisecom:msg2200_firmware:3.90",
+	"title": [
+		{
+			"text": "Raisecom MSG2200 Firmware 3.90",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.raisecom.com/product/sohoenterprise-gateway"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://netsecfish.notion.site/Command-Injection-Vulnerability-in-RAISECOM-Gateway-Devices-673bc7d2f8db499f9de7182d4706c707"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.raisecom.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:raisecom:msg2200_firmware:3.90:*:*:*:*:*:*:*"
+	}
+}

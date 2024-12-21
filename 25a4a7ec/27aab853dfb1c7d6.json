@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:nvidia:mlnx-gw:8.1.4400::~~lts~~~",
+	"title": [
+		{
+			"text": "NVIDIA MLNX-GW 8.1.4400 Long-Term Support (LTS)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://nvidia.custhelp.com/app/answers/detail/a_id/5559"
+		},
+		{
+			"text": "Version",
+			"href": "https://docs.nvidia.com/networking/software/switch-software/index.html#mlnx-gw"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nvidia:mlnx-gw:8.1.4400:*:*:*:lts:*:*:*"
+	}
+}

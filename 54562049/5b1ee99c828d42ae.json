@@ -1,18 +1,35 @@
 {
 	"name": "cpe:/a:x.org:x11:5.0",
+	"deprecated": true,
+	"deprecation_date": "2024-12-20T19:46:43.270Z",
 	"title": [
 		{
-			"text": "X.Org X11R5.0",
+			"text": "X.Org X11 Release 5.0",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
-			"text": "Vendor",
-			"href": "http://www.x.org/wiki/"
+			"text": "Version",
+			"href": "https://www.x.org/archive/X11R5/fixes/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.x.org/releases/X11R5/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.x.org/wiki/X11R5/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:x.org:x11:5.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:x.org:x11:5.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-20T14:46:43.270-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:x.org:x11:5.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
