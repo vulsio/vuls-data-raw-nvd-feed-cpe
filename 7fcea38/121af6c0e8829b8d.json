@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:xwp:stream:4.0.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "XWP Stream 4.0.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/stream/stream-401-cross-site-request-forgery-to-arbitrary-options-update"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://xwp.co/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/stream/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:xwp:stream:4.0.0:*:*:*:*:wordpress:*:*"
+	}
+}

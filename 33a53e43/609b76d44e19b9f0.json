@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:benjaminrojas:wp_editor:1.2.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Benjamin Rojas WP Editor 1.2.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-editor/wp-editor-129-authenticated-admin-phar-deserialization"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-editor/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:benjaminrojas:wp_editor:1.2.9:*:*:*:*:wordpress:*:*"
+	}
+}

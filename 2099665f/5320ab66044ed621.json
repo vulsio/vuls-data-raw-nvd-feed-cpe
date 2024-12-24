@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:thecartpress:boot_store:1.6.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "TheCartPress Boot Store 1.6.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.thecartpress.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://thecartpress.com/extend/category/about-boot-store-theme/"
+		},
+		{
+			"text": "Version",
+			"href": "https://themes.trac.wordpress.org/browser/boot-store?order=name"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/boot-store/boot-store-164-authenticated-contributor-stored-cross-site-scripting-via-button-shortcode"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thecartpress:boot_store:1.6.4:*:*:*:*:wordpress:*:*"
+	}
+}

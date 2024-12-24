@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:bibleserver:link_to_bible:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "ERF Bibleserver Link To Bible for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/link-to-bible/wordpress-link-to-bible-plugin-2-5-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/link-to-bible/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.bibleserver.com/webmasters"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bibleserver:link_to_bible:-:*:*:*:*:wordpress:*:*"
+	}
+}

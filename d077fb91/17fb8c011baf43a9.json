@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpsimpletools:basic_log_viewer:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WpSimpleTools Basic Log Viewer for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wpsimpletools-log-viewer/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/wpsimpletools-log-viewer/wordpress-basic-log-viewer-plugin-1-0-4-cross-site-request-forgery-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpsimpletools:basic_log_viewer:-:*:*:*:*:wordpress:*:*"
+	}
+}

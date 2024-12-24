@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cisco:firepower_management_center:7.0.6.2",
+	"title": [
+		{
+			"text": "Cisco Firepower Management Center 7.0.6.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/td/docs/security/secure-firewall/roadmap/management-center-new-features-by-release.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-xss-dhJxQYZs"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.cisco.com/c/en/us/products/security/firepower-management-center/index.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:firepower_management_center:7.0.6.2:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpblockshub:wp_blocks_hub:1.0.2::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Blocks Hub 1.0.2 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wp-blocks-hub/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-blocks-hub/wp-blocks-hub-102-authenticated-author-stored-cross-site-scripting-via-svg-file-upload"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpblockshub:wp_blocks_hub:1.0.2:*:*:*:*:wordpress:*:*"
+	}
+}

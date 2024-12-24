@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:wpzoom:wpzoom_shortcodes:1.0.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPZOOM Shortcodes 1.0.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpzoom-shortcodes/wpzoom-shortcodes-105-authenticated-contributor-stored-cross-site-scripting-via-box-shortcode"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wpzoom-shortcodes/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpzoom:wpzoom_shortcodes:1.0.5:*:*:*:*:wordpress:*:*"
+	}
+}

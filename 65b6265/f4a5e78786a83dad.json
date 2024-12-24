@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:zynith:zynith:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Zynith Zynith for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/zynith-seo/zynith-seo-749-missing-authorization-to-unauthenticated-arbitrary-option-deletion"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://zynith.app/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:zynith:zynith:-:*:*:*:*:wordpress:*:*"
+	}
+}
