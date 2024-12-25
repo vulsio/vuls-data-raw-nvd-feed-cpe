@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ivanti:mobileiron_sentry:9.18.0",
+	"title": [
+		{
+			"text": "Ivanti Mobileiron Sentry 9.18.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://help.ivanti.com/mi/help/en_us/sntry/9.9.0/gdcl/Content/SentryGuide/MobileIron_Sentry_overvi.htm"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://forums.ivanti.com/s/article/CVE-2023-38035-API-Authentication-Bypass-on-Sentry-Administrator-Interface?language=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ivanti:mobileiron_sentry:9.18.0:*:*:*:*:*:*:*"
+	}
+}

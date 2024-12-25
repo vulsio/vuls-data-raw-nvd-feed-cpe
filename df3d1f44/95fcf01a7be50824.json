@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:google:chrome:128.0.6537.0",
+	"title": [
+		{
+			"text": "Google Chrome 128.0.6537.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/7xxx/CVE-2024-7023.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://chromium.googlesource.com/chromium/src/+/refs/tags/128.0.6537.0"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:google:chrome:128.0.6537.0:*:*:*:*:*:*:*"
+	}
+}
