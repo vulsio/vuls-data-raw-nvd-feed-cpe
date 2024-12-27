@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:nvidia:cv-cuda:0.10.1:beta",
+	"title": [
+		{
+			"text": "NVIDIA CV-CUDA 0.10.1 Beta",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://developer.nvidia.com/cv-cuda"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/CVCUDA/CV-CUDA/tags"
+		},
+		{
+			"text": "Version",
+			"href": "https://cvcuda.github.io/CV-CUDA/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:nvidia:cv-cuda:0.10.1:beta:*:*:*:*:*:*"
+	}
+}

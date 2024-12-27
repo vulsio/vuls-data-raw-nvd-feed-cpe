@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/o:openplcproject:openplc_v3_firmware:2024-04-04",
+	"title": [
+		{
+			"text": "OpenPLC Project OpenPLC v3 Firmware 2024-04-04",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/thiagoralves/OpenPLC_v3/commit/b4702061dc14d1024856f71b4543298d77007b88"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://talosintelligence.com/vulnerability_reports/TALOS-2024-2004"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/thiagoralves/OpenPLC_v3"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.openplcproject.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:openplcproject:openplc_v3_firmware:2024-04-04:*:*:*:*:*:*:*"
+	}
+}

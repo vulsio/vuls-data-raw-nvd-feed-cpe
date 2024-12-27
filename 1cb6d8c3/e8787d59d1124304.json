@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:ptzoptics:pt30x-ndi-xx-g2_firmware:6.3.40",
+	"title": [
+		{
+			"text": "PTZOptics PT30X-NDI-XX-G2 Firmware 6.3.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://ptzoptics.com/firmware-changelog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vulncheck.com/advisories/ptzoptics-insufficient-auth"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ptzoptics:pt30x-ndi-xx-g2_firmware:6.3.40:*:*:*:*:*:*:*"
+	}
+}

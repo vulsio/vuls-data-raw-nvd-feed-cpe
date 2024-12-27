@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:ptzoptics:pt30x-sdi_firmware:6.3.40",
+	"title": [
+		{
+			"text": "PTZOptics PT30X-SDI Firmware 6.3.40",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://ptzoptics.com/firmware-changelog/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://vulncheck.com/advisories/ptzoptics-insufficient-auth"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:ptzoptics:pt30x-sdi_firmware:6.3.40:*:*:*:*:*:*:*"
+	}
+}

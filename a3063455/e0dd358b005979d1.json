@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/h:se-elektronicgmbh:e-ddc3.3:-",
+	"deprecated": true,
+	"deprecation_date": "2024-12-26T14:47:20.050Z",
 	"title": [
 		{
 			"text": "SE-ELEKTRONIC GMBH E-DDC3.3 ",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:se-elektronicgmbh:e-ddc3.3:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:se-elektronicgmbh:e-ddc3.3:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-26T09:47:20.050-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:h:se-elektronic:e-ddc3.3:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

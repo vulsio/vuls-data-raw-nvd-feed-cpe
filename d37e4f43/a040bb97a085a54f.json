@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nvidia:jetpack_software_development_kit:4.4",
+	"deprecated": true,
+	"deprecation_date": "2024-12-26T18:07:29.750Z",
 	"title": [
 		{
 			"text": "NVIDIA JetPack Software Development Kit 4.4",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-26T13:07:29.750-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nvidia:jetpack_software_development_kit:4.4:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
