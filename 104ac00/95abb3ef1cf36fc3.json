@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:siemens:siport:-",
+	"title": [
+		{
+			"text": "Siemens SIPORT",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://cert-portal.siemens.com/productcert/html/ssa-064257.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.siemens.com/global/en/products/buildings/security/access-control/siport.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:siemens:siport:-:*:*:*:*:*:*:*"
+	}
+}

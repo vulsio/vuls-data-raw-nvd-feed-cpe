@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wpcirqle:bigmart_elements:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WP Cirqle Bigmart Elements for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/bigmart-elements/wordpress-bigmart-elements-plugin-1-0-3-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/bigmart-elements/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://web.archive.org/web/20231002235739/wpcirqle.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wpcirqle:bigmart_elements:-:*:*:*:*:wordpress:*:*"
+	}
+}

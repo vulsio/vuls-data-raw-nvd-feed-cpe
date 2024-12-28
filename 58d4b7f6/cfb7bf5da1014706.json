@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tongda2000:office_anywhere:2017",
+	"deprecated": true,
+	"deprecation_date": "2024-12-27T15:47:33.210Z",
 	"title": [
 		{
 			"text": "Tongda2000 Office Anywhere 2017",
@@ -8,15 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://github.com/RCEraser/cve/blob/main/sql_inject_4.md"
+			"text": "Product",
+			"href": "https://www.tongda2000.com/oa/MYOA2017/update/"
 		},
 		{
-			"text": "Vendor",
-			"href": "https://www.tongda2000.com/oa/hero/"
+			"text": "Change Log",
+			"href": "https://www.tongda2000.com/download/sp2017.php#OfficeAuto"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tongda2000:office_anywhere:2017:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:tongda2000:office_anywhere:2017:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2024-12-27T10:47:33.210-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:tongda2000:office_anywhere:2017:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
