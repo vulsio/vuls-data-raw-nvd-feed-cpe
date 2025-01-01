@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:canonical:anbox_cloud:1.23.1",
+	"title": [
+		{
+			"text": "Canonical Anbox Cloud 1.23.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://documentation.ubuntu.com/anbox-cloud/en/latest/reference/release-notes/release-notes/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://discourse.ubuntu.com/t/anbox-cloud-1-23-1-has-been-released/48141"
+		},
+		{
+			"text": "Version",
+			"href": "https://bugs.launchpad.net/anbox-cloud"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bugs.launchpad.net/anbox-cloud/+bug/2077570"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:canonical:anbox_cloud:1.23.1:*:*:*:*:*:*:*"
+	}
+}

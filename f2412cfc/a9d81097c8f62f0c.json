@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:lucasgarcia:posts_reminder:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Lucas Garcia Posts Reminder for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/c7fd690a-5f02-491c-a3fb-6eac9ffffe96/"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/posts-reminder/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lucasgarcia:posts_reminder:-:*:*:*:*:wordpress:*:*"
+	}
+}

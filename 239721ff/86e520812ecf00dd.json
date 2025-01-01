@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:nixos:nix:2.24.4",
+	"title": [
+		{
+			"text": "Nixos Nix 2.24.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/NixOS/nix/security/advisories/GHSA-h4vv-h3jq-v493"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/NixOS/nix/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:nixos:nix:2.24.4:*:*:*:*:*:*:*"
+	}
+}

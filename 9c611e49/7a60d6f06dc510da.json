@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:webliberty:simple_spoiler:1.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Webliberty Simple Spoiler 1.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://webliberty.ru/simple-spoiler/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-spoiler/simple-spoiler-12-13-unauthenticated-arbitrary-shortcode-execution"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/simple-spoiler/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:webliberty:simple_spoiler:1.1:*:*:*:*:wordpress:*:*"
+	}
+}

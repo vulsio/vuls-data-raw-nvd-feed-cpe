@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mage-people:ecab_taxi_booking_manager:1.1.0::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Mage-people Ecab Taxi Booking Manager 1.1.0 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mage-people.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/ecab-taxi-booking-manager/wordpress-e-cab-taxi-booking-manager-plugin-1-0-9-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/ecab-taxi-booking-manager/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mage-people:ecab_taxi_booking_manager:1.1.0:*:*:*:*:wordpress:*:*"
+	}
+}

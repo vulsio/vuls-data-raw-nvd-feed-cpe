@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:netbsd:netbsd:9.4",
+	"title": [
+		{
+			"text": "NetBSD 9.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://ftp.netbsd.org/pub/NetBSD/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2024-002.txt.asc"
+		},
+		{
+			"text": "Version",
+			"href": "https://www.netbsd.org/releases/formal.html"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:netbsd:netbsd:9.4:*:*:*:*:*:*:*"
+	}
+}
