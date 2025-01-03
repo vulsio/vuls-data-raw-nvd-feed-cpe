@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cisco:hosted_collaboration_solution:11.6%281%29",
+	"title": [
+		{
+			"text": "Cisco Hosted Collaboration Solution 11.6(1)",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://www.cisco.com/c/en/us/td/docs/voice_ip_comm/cust_contact/contact_center/hcs-cc/11_6_1/Solution_Release_Notes/HCSCC_b_cisco-hcsfor-cc-solution-release116.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://bst.cloudapps.cisco.com/bugsearch/bug/CSCvf86143"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170907-struts2"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:hosted_collaboration_solution:11.6\\(1\\):*:*:*:*:*:*:*"
+	}
+}

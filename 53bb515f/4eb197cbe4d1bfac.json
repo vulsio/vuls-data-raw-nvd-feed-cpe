@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cisco:secure_client:5.1.1.42",
+	"title": [
+		{
+			"text": "Cisco Secure Client 5.1.1.42",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://www.cisco.com/c/en/us/td/docs/security/vpn_client/anyconnect/Cisco-Secure-Client-5/release/notes/release-notes-cisco-secure-client-5-1.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/20xxx/CVE-2024-20474.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-csc-dos-XvPhM3bj"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cisco:secure_client:5.1.1.42:*:*:*:*:*:*:*"
+	}
+}

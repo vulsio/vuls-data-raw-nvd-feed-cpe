@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:ibm:qradar_suite:1.10.19.0",
+	"title": [
+		{
+			"text": "IBM Qradar Suite 1.10.19.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.ibm.com/support/pages/security-bulletin-qradar-suite-software-includes-components-multiple-known-vulnerabilities-9"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.ibm.com/docs/en/cloud-paks/cp-security/1.11?topic=SSTDPP_1.11/docs/scp-core/whats_new_1.10.X_format.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibm:qradar_suite:1.10.19.0:*:*:*:*:*:*:*"
+	}
+}

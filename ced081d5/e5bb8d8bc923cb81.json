@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:coffee2code:custom_post_limits:4.4.1::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Coffee2code Custom Post Limits 4.4.1 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/custom-post-limits/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/custom-post-limits/custom-post-limits-441-unauthenticated-full-path-disclosure"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://coffee2code.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:coffee2code:custom_post_limits:4.4.1:*:*:*:*:wordpress:*:*"
+	}
+}
