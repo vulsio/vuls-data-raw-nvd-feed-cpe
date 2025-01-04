@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:microsoft:windows_server_2016:10.0.14393.4704::~~standard~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2016 10.0.14393.4704 Standard Edition on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows-server/get-started/windows-server-release-info"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2021-40449"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2016:10.0.14393.4704:*:*:*:standard:*:x64:*"
+	}
+}

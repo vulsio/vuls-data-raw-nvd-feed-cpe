@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:helmholz:rex_100_firmware:2.3.1",
+	"title": [
+		{
+			"text": "Helmholz REX 100 WAN Router 2.3.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.helmholz.de/en/products/industrial-remote-solutions/ethernet-router/7/industrial-router?number=700-875-WAN01"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://certvde.com/en/advisories/VDE-2024-066/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:helmholz:rex_100_firmware:2.3.1:*:*:*:*:*:*:*"
+	}
+}

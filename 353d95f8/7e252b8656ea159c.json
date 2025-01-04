@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:amazon:freertos-plus-tcp:4.1.1",
+	"title": [
+		{
+			"text": "Amazon FreeRTOS-Plus-TCP 4.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://freertos.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/FreeRTOS/FreeRTOS-Plus-TCP/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/FreeRTOS/FreeRTOS-Plus-TCP/security/advisories/GHSA-ppcp-rg65-58mv"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:amazon:freertos-plus-tcp:4.1.1:*:*:*:*:*:*:*"
+	}
+}

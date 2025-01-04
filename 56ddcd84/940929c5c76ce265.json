@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:thinkst:opencanary:0.9.2",
+	"title": [
+		{
+			"text": "Thinkst OpenCanary 0.9.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/thinkst/opencanary/security/advisories/GHSA-pf5v-pqfv-x8jj"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://thinkst.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://opencanary.readthedocs.io/en/latest/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/thinkst/opencanary/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:thinkst:opencanary:0.9.2:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:microsoft:windows_server_2012:6.2.9200.25031::~~standard~~x64~",
+	"title": [
+		{
+			"text": "Microsoft Windows Server 2012 6.2.9200.25031 Standard Edition on X64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://support.microsoft.com/en-us/topic/windows-server-2012-update-history-abfb9afd-2ebf-1c19-4224-ad86f8741edd"
+		},
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/windows-server/get-started/windows-server-release-info"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38107"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:microsoft:windows_server_2012:6.2.9200.25031:*:*:*:standard:*:x64:*"
+	}
+}
