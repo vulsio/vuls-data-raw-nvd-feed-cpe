@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:operations_management_suite_agent_for_linux:1.13.27-0",
+	"title": [
+		{
+			"text": "Microsoft Operations Management Suite (OMS) Agent for Linux 1.13.27-0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/troubleshoot/azure/automation/runbooks/reinstall-oms-agent-linux"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/OMS-Agent-for-Linux/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21330"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:operations_management_suite_agent_for_linux:1.13.27-0:*:*:*:*:*:*:*"
+	}
+}
