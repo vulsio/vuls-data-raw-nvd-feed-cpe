@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mattermost:mattermost_mobile:2.17.0",
+	"title": [
+		{
+			"text": "Mattermost Mattermost Mobile 2.17.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelist/blob/master/2024/32xxx/CVE-2024-32945.json"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://mattermost.com/security-updates/"
+		},
+		{
+			"text": "Product",
+			"href": "https://mattermost.com/mobile/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattermost:mattermost_mobile:2.17.0:*:*:*:*:*:*:*"
+	}
+}

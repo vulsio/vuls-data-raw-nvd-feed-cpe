@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:mattermost:mattermost_server:10.3.2:rc1",
+	"title": [
+		{
+			"text": "Mattermost Server 10.3.2 Release Candidate 1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/mattermost/mattermost/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/mattermost/mattermost"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.mattermost.com/about/server.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://mattermost.com/download/#server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mattermost:mattermost_server:10.3.2:rc1:*:*:*:*:*:*"
+	}
+}
