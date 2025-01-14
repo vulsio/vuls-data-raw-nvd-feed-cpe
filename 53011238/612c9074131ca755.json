@@ -1,22 +1,27 @@
 {
 	"name": "cpe:/a:zohocorp:manageengine_password_manager_pro:11.3:build11301",
+	"deprecated": true,
+	"deprecation_date": "2025-01-13T16:22:59.490Z",
 	"title": [
 		{
-			"text": "Zoho Corp ManageEngine Password Manager Pro 11.3 Build11301",
+			"text": "ZohoCorp ManageEngine Password Manager Pro 11.3 Build11301",
 			"lang": "en-US"
 		}
 	],
 	"references": [
 		{
 			"text": "Change Log",
-			"href": "https://www.manageengine.com/products/passwordmanagerpro/upgradepack.html"
-		},
-		{
-			"text": "Advisory",
-			"href": "https://www.manageengine.com/privileged-access-management/upgradepack.html"
+			"href": "https://www.manageengine.com/products/passwordmanagerpro/release-notes.html"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:11.3:build11301:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:11.3:build11301:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-13T11:22:59.490-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zohocorp:manageengine_password_manager_pro:11.3:build11301:*:*:-:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

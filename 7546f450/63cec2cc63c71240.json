@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:caseproof:memberpress:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Caseproof MemberPress for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://memberpress.com/change-log/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://caseproof.com/"
+		},
+		{
+			"text": "Product",
+			"href": "https://memberpress.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/memberpress/wordpress-memberpress-plugin-1-11-29-broken-access-control-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:caseproof:memberpress:-:*:*:*:*:wordpress:*:*"
+	}
+}

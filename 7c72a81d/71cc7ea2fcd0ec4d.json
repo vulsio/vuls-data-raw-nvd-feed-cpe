@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:imagemappro:image_map_pro:1.0.0::~~lite~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-13T18:27:43.280Z",
 	"title": [
 		{
-			"text": "Image Map Pro 1.0.0 Lite Edition for WordPress",
+			"text": "Webcraft Plugins Image Map Pro 1.0.0 Lite Edition for WordPress",
 			"lang": "en-US"
 		}
 	],
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:imagemappro:image_map_pro:1.0.0:*:*:*:lite:wordpress:*:*"
+		"name": "cpe:2.3:a:imagemappro:image_map_pro:1.0.0:*:*:*:lite:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-13T13:27:43.280-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:webcraftplugins:image_map_pro:1.0.0:*:*:*:lite:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

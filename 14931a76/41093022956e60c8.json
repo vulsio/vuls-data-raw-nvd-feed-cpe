@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:oracle:concurrent_processing:12.2.3",
+	"title": [
+		{
+			"text": "Oracle Concurrent Processing 12.2.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.oracle.com/security-alerts/cpuapr2024.html"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.oracle.com/cd/E18727_01/doc.121/e12897/T302934T458252.htm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:oracle:concurrent_processing:12.2.3:*:*:*:*:*:*:*"
+	}
+}
