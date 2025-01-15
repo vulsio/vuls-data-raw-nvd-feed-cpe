@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:synology:diskstation_manager:4.0-2259",
+	"deprecated": true,
+	"deprecation_date": "2025-01-14T19:29:54.087Z",
 	"title": [
 		{
 			"text": "Synology Diskstation Manager 4.0-2259",
@@ -8,11 +10,34 @@
 	],
 	"references": [
 		{
+			"text": "Change Log",
+			"href": "https://www.synology.com/en-global/releaseNote/DSM?os=DSM&version=all_versions"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.synology.com/en-us/releaseNote/DSM"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.synology.com/en-us/dsm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.synology.com/"
+		},
+		{
 			"text": "Vendor",
 			"href": "http://www.synology.com/en-global/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:synology:diskstation_manager:4.0-2259:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:synology:diskstation_manager:4.0-2259:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-14T14:29:54.087-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:synology:diskstation_manager:4.0-2259:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

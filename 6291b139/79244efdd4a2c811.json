@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:hubspot:hubspot:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "HubSpot for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.hubspot.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/leadin/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/leadin/hubspot-crm-email-marketing-live-chat-forms-analytics-11122-authenticated-contributor-stored-cross-site-scripting-via-hubspot-meeting-widget"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:hubspot:hubspot:-:*:*:*:*:wordpress:*:*"
+	}
+}

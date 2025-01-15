@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:helloasso:helloasso:1.1.10::~~~wordpress~~",
+	"title": [
+		{
+			"text": "HelloAsso 1.1.10 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/helloasso/#developers"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/helloasso/helloasso-1110-missing-authorization-to-authenticated-contributor-limited-options-update"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:helloasso:helloasso:1.1.10:*:*:*:*:wordpress:*:*"
+	}
+}

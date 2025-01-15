@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:crm2go:crm2go:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "CRM 2go for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/wordpress/plugin/crm2go/vulnerability/wordpress-crm-2go-plugin-1-0-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/crm2go/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.crm2go.net/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:crm2go:crm2go:-:*:*:*:*:wordpress:*:*"
+	}
+}

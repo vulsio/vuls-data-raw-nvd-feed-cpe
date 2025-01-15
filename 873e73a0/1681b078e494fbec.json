@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:northern.tech:mender:3.7.1::~~-~~~",
+	"title": [
+		{
+			"text": "Northern.tech Mender 3.7.1 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://mender.io/blog/cve-2024-46948"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://docs.mender.io/release-information/release-notes-changelog/mender-server"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:northern.tech:mender:3.7.1:*:*:*:-:*:*:*"
+	}
+}

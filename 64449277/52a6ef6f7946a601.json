@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:cookie-scanner:cookie_scanner:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Cookie-scanner Cookie Scanner for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/wordpress/plugin/cookie-scanner/vulnerability/wordpress-cookie-scanner-plugin-1-1-csrf-to-stored-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/cookie-scanner/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cookie-scanner.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cookie-scanner:cookie_scanner:-:*:*:*:*:wordpress:*:*"
+	}
+}

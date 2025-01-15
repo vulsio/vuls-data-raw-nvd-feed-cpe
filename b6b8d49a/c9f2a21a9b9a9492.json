@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:henleyedition:counterpoint:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Henley Edition Counterpoint for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://github.com/echenley/counterpoint"
+		},
+		{
+			"text": "Vendor",
+			"href": "http://henleyedition.com/projects/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/counterpoint/wordpress-counterpoint-theme-1-8-1-reflected-cross-site-scripting-xss-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://github.com/echenley"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:henleyedition:counterpoint:-:*:*:*:*:wordpress:*:*"
+	}
+}

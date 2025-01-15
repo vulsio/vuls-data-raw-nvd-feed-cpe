@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:powershell:7.3.12",
+	"title": [
+		{
+			"text": "Microsoft PowerShell 7.3.12",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26190"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/PowerShell/PowerShell/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:powershell:7.3.12:*:*:*:*:*:*:*"
+	}
+}

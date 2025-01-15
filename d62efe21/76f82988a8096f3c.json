@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:goprayer:prayer:2.3.9::~~~wordpress~~",
+	"title": [
+		{
+			"text": "GoPrayer Prayer 2.3.9 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://goprayer.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://wpscan.com/vulnerability/94f4cc45-4c55-43d4-8ad2-a20c118b589f/"
+		},
+		{
+			"text": "Version",
+			"href": "https://plugins.trac.wordpress.org/browser/wp-prayers-request/#tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/wp-prayers-request/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:goprayer:prayer:2.3.9:*:*:*:*:wordpress:*:*"
+	}
+}

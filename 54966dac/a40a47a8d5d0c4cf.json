@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:synology:diskstation_manager:6.1.1-15101-1",
+	"deprecated": true,
+	"deprecation_date": "2025-01-14T19:29:54.087Z",
 	"title": [
 		{
 			"text": "Synology Diskstation Manager 6.1.1-15101-1",
@@ -8,11 +10,34 @@
 	],
 	"references": [
 		{
+			"text": "Change Log",
+			"href": "https://www.synology.com/en-global/releaseNote/DSM?os=DSM&version=all_versions"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://www.synology.com/en-us/releaseNote/DSM"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.synology.com/en-us/dsm"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.synology.com/"
+		},
+		{
 			"text": "Version",
 			"href": "https://www.synology.com/en-us/releaseNote/DS211j"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:synology:diskstation_manager:6.1.1-15101-1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:synology:diskstation_manager:6.1.1-15101-1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-14T14:29:54.087-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:synology:diskstation_manager:6.1.1-15101-1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

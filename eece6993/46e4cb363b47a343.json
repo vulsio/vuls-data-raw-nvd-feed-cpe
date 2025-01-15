@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:abcd-community:abcd:2.2.0:beta0",
+	"title": [
+		{
+			"text": "ABCD 2.2.0 Beta 0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/CVEProject/cvelistV5/blob/main/cves/2024/8xxx/CVE-2024-8409.json"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/ABCD-DEVCOM/ABCD2/tags"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://abcd-community.org/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:abcd-community:abcd:2.2.0:beta0:*:*:*:*:*:*"
+	}
+}
