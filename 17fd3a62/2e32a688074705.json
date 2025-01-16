@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:sql_server_2017:14.0.2070.1::~~~~x64~",
+	"title": [
+		{
+			"text": "Microsoft SQL Server 2017 14.0.2070.1 on x64",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2017/build-versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-48994"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:sql_server_2017:14.0.2070.1:*:*:*:*:*:x64:*"
+	}
+}

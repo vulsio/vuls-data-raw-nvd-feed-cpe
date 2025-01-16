@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_monitor_agent:1.30.0",
+	"title": [
+		{
+			"text": "Microsoft Azure Monitor Agent 1.30.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38097"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_monitor_agent:1.30.0:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "cpe:/a:cakefoundation:cakephp:2.2.0:-",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T17:44:02.693Z",
+	"title": [
+		{
+			"text": "Cakefoundation Cakephp 2.2.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/cakephp/cakephp/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://cakefoundation.org/old"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:cakefoundation:cakephp:2.2.0:-:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T12:44:02.693-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cakephp:cakephp:2.2.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
+	}
+}

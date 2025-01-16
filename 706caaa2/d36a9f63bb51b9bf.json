@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:joshlobe:ultimate_tinymce:5.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Josh Lobe Ultimate TinyMCE 5.7 for Wordpress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ultimate-tinymce/ultimate-tinymce-57-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/ultimate-tinymce/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:joshlobe:ultimate_tinymce:5.7:*:*:*:*:wordpress:*:*"
+	}
+}

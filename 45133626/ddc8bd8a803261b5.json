@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:microsoft:deepspeed:-",
+	"title": [
+		{
+			"text": "Microsoft DeepSpeed ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.deepspeed.ai/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/microsoft/DeepSpeed/releases/tag/v0.15.1"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43497"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:deepspeed:-:*:*:*:*:*:*:*"
+	}
+}

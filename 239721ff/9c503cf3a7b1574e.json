@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:nixos:nix:0.7",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T14:29:21.990Z",
 	"title": [
 		{
 			"text": "NixOS Nix 0.7",
@@ -8,11 +10,22 @@
 	],
 	"references": [
 		{
-			"text": "Change Log",
+			"text": "Vendor",
 			"href": "https://nixos.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/NixOS/nix/tags"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:nixos:nix:0.7:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:nixos:nix:0.7:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T09:29:21.990-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nixos:nix:0.7:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

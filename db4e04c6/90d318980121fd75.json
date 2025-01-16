@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gotenna:atak_plugin:-",
+	"title": [
+		{
+			"text": "goTenna ATAK Plugin",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://gotenna.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.cisa.gov/news-events/ics-advisories/icsa-24-270-05"
+		},
+		{
+			"text": "Product",
+			"href": "https://play.google.com/store/apps/details?id=com.gotenna.atak&hl=en_US"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gotenna:atak_plugin:-:*:*:*:*:*:*:*"
+	}
+}

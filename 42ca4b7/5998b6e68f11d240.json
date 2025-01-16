@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/o:nixos:patchelf:0.9",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T14:17:01.387Z",
 	"title": [
 		{
-			"text": "NixOS Patchelf 0.9",
+			"text": "NixOS PatchELF 0.9",
 			"lang": "en-US"
 		}
 	],
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:nixos:patchelf:0.9:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:nixos:patchelf:0.9:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T09:17:01.387-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nixos:patchelf:0.9:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

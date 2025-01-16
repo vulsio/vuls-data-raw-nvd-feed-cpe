@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:lightgbm:-",
+	"title": [
+		{
+			"text": "Microsoft LightGBM",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://lightgbm.readthedocs.io/en/stable/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43598"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:lightgbm:-:*:*:*:*:*:*:*"
+	}
+}

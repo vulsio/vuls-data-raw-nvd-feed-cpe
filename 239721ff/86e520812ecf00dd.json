@@ -1,12 +1,18 @@
 {
 	"name": "cpe:/o:nixos:nix:2.24.4",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T14:29:21.990Z",
 	"title": [
 		{
-			"text": "Nixos Nix 2.24.4",
+			"text": "NixOS Nix 2.24.4",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://nixos.org/"
+		},
 		{
 			"text": "Advisory",
 			"href": "https://github.com/NixOS/nix/security/advisories/GHSA-h4vv-h3jq-v493"
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:nixos:nix:2.24.4:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:nixos:nix:2.24.4:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T09:29:21.990-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:nixos:nix:2.24.4:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

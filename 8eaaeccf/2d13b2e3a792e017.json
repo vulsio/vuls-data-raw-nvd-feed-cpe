@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:mandsconsulting:email_before_download:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "M&S Consulting Email Before Download for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/wordpress/plugin/email-before-download/vulnerability/wordpress-email-before-download-plugin-6-9-7-cross-site-request-forgery-csrf-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/email-before-download/#developers"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.mandsconsulting.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:mandsconsulting:email_before_download:-:*:*:*:*:wordpress:*:*"
+	}
+}

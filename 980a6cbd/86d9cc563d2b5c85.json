@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:cakephp:cakephp:2.0.0",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T16:14:42.120Z",
 	"title": [
 		{
 			"text": "CakePHP 2.0.0",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:cakephp:cakephp:2.0.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:cakephp:cakephp:2.0.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T11:14:42.120-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:cakephp:cakephp:2.0.0:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

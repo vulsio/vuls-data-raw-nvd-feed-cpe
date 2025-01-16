@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:azure_service_fabric:10.1",
+	"title": [
+		{
+			"text": "Microsoft Azure Service Fabric 10.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43480"
+		},
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/azure/service-fabric/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:azure_service_fabric:10.1:*:*:*:*:*:*:*"
+	}
+}

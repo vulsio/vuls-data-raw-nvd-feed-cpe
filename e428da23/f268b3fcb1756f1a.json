@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:2.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T18:25:59.797Z",
 	"title": [
 		{
 			"text": "NEX-Forms - Ultimate Form Builder Project NEX-Forms - Ultimate Form Builder 2.0 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:2.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:nex-forms_-_ultimate_form_builder_project:nex-forms_-_ultimate_form_builder:2.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-15T13:25:59.797-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:basixonline:nex-forms:2.0:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

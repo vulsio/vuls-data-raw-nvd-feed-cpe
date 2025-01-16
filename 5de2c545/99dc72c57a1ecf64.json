@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:intune_company_portal:1.2402.12::~~~android~~",
+	"title": [
+		{
+			"text": "Microsoft Intune Company Portal 1.2402.12 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-26201"
+		},
+		{
+			"text": "Product",
+			"href": "https://learn.microsoft.com/en-us/mem/intune/fundamentals/whats-new"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:intune_company_portal:1.2402.12:*:*:*:*:android:*:*"
+	}
+}

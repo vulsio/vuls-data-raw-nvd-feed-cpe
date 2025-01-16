@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:darktrace:threat_visualizer:-::~~~-~~",
+	"title": [
+		{
+			"text": "Darktrace Threat Visualizer",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://darktrace.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://tomekwasiak.pl/cve-2024-22854/"
+		},
+		{
+			"text": "Product",
+			"href": "https://docs.sekoia.io/integration/categories/network_security/darktrace_threat_visualizer/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:darktrace:threat_visualizer:-:*:*:*:*:-:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:es:iperf3:3.2",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T18:43:43.940Z",
 	"title": [
 		{
 			"text": "Energy Sciences Network (ESnet) iperf3 3.2",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:es:iperf3:3.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:es:iperf3:3.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T13:43:43.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:es:iperf3:3.2:-:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

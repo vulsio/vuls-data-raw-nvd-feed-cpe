@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:pharmacy_management_project:pharmacy_management:1.0",
+	"deprecated": true,
+	"deprecation_date": "2025-01-15T17:55:41.037Z",
 	"title": [
 		{
 			"text": "Pharmacy Management Project Pharmacy Management 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:pharmacy_management_project:pharmacy_management:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:pharmacy_management_project:pharmacy_management:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-15T12:55:41.037-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:code-projects:pharmacy_management:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
