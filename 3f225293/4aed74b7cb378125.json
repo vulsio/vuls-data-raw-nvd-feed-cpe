@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:seraphinitesolutions:seraphinite_accelerator:2.20.14::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-16T15:44:48.897Z",
 	"title": [
 		{
 			"text": "Seraphinite Solutions Seraphinite Accelerator 2.20.14 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:seraphinitesolutions:seraphinite_accelerator:2.20.14:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:seraphinitesolutions:seraphinite_accelerator:2.20.14:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-16T10:44:48.897-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:s-sols:seraphinite_accelerator:2.20.14:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
