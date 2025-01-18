@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:mq_notifier:1.1.2::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins MQ Notifier 1.1.2 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/jenkinsci/mq-notifier-plugin/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://plugins.jenkins.io/mq-notifier/releases/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:mq_notifier:1.1.2:*:*:*:*:jenkins:*:*"
+	}
+}
