@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:microsoft:autoupdate:4.76::~~~macos~~",
+	"title": [
+		{
+			"text": "Microsoft AutoUpdate (MAU) 4.76 for macOS",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21360"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:microsoft:autoupdate:4.76:*:*:*:*:macos:*:*"
+	}
+}

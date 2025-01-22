@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:ibericode:mailchimp:4.9.15::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Ibericode Mailchimp 4.9.15 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://www.ibericode.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mailchimp-for-wp/mc4wp-mailchimp-for-wordpress-499-4916-reflected-cross-site-scripting"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/mailchimp-for-wp/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:ibericode:mailchimp:4.9.15:*:*:*:*:wordpress:*:*"
+	}
+}
