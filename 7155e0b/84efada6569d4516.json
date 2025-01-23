@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:univention:univention_corporate_server:5.0.8",
+	"deprecated": true,
+	"deprecation_date": "2025-01-22T17:59:53.713Z",
 	"title": [
 		{
 			"text": "Univention Corporate Server (UCS) 5.0.8",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:univention:univention_corporate_server:5.0.8:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:univention:univention_corporate_server:5.0.8:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-22T12:59:53.713-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:o:univention:univention_corporate_server:5.0:8:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:phpgurukul:boat_booking_system:1.0",
+	"title": [
+		{
+			"text": "PHPGurukul Boat Booking System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Project",
+			"href": "https://phpgurukul.com/boat-booking-system-using-php-and-mysql/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jadu101/CVE/blob/main/phpgurukul_boat_booking_system_booking_details_xss.md"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul:boat_booking_system:1.0:*:*:*:*:*:*:*"
+	}
+}

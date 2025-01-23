@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:themeum:tutor_lms:2.3.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-22T19:24:55.493Z",
 	"title": [
 		{
 			"text": "Themeum Tutor LMS 2.3.0 for Wordpress",
@@ -8,8 +10,16 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://wpscan.com/vulnerability/1049e940-49b1-4236-bea2-c636f35c5647/"
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/tutor/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.themeum.com/product/tutor-lms/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/tutor/#developers"
 		},
 		{
 			"text": "Vendor",
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:themeum:tutor_lms:2.3.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:themeum:tutor_lms:2.3.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-22T14:24:55.493-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:themeum:tutor_lms:2.3.0:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:phpgurukul:vehicle_record_system:1.0",
+	"title": [
+		{
+			"text": "PHPGurukul Vehicle Record System 1.0",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/jadu101/CVE/blob/main/phpgurukul_vehicle_record_system_edit_brand_xss.md"
+		},
+		{
+			"text": "Project",
+			"href": "https://phpgurukul.com/vehicle-record-system-using-php-and-mysql/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:phpgurukul:vehicle_record_system:1.0:*:*:*:*:*:*:*"
+	}
+}

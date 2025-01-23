@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:themeum:tutor_lms:2.6.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-22T19:24:55.493Z",
 	"title": [
 		{
 			"text": "Themeum Tutor LMS 2.6.2 for WordPress",
@@ -8,8 +10,16 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-elearning-and-online-course-solution-271-authenticated-instructor-insecure-direct-object-reference-to-arbitrary-quiz-attempt-deletion"
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/tutor/"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.themeum.com/product/tutor-lms/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.themeum.com/"
 		},
 		{
 			"text": "Change Log",
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-22T14:24:55.493-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:themeum:tutor_lms:2.6.2:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:adobe:lifecycle:9.0",
+	"deprecated": true,
+	"deprecation_date": "2025-01-22T13:24:16.110Z",
 	"title": [
 		{
 			"text": "Adobe Lifecycle 9.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:adobe:lifecycle:9.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:adobe:lifecycle:9.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-22T08:24:16.110-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:adobe:livecycle:9.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
