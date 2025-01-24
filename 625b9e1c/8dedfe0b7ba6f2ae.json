@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:openautomationsoftware:oas_platform:18.00.0072",
+	"deprecated": true,
+	"deprecation_date": "2025-01-23T17:14:31.940Z",
 	"title": [
 		{
 			"text": "Open Automation Software OAS Platform 18.00.0072",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:openautomationsoftware:oas_platform:18.00.0072:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:openautomationsoftware:oas_platform:18.00.0072:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-23T12:14:31.940-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:openautomationsoftware:open_automation_software:18.0.0.72:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
