@@ -1,8 +1,10 @@
 {
 	"name": "cpe:/a:exclusiveaddons:exclusive_addons_for_elementor:2.6.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-24T17:10:44.323Z",
 	"title": [
 		{
-			"text": "Exclusive Addons For Elementor 2.6.5 for WordPress",
+			"text": "Exclusive Addons for Elementor 2.6.5 for WordPress",
 			"lang": "en-US"
 		}
 	],
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.6.5:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.6.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-24T12:10:44.323-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:exclusiveaddons:exclusive_addons_for_elementor:2.6.5:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
