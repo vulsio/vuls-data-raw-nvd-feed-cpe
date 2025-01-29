@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:jenkins:openid:-::~~~jenkins~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-28T17:16:05.017Z",
 	"title": [
 		{
 			"text": "Jenkins openid for Jenkins",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:jenkins:openid:-:*:*:*:*:jenkins:*:*"
+		"name": "cpe:2.3:a:jenkins:openid:-:*:*:*:*:jenkins:*:*",
+		"deprecation": {
+			"date": "2025-01-28T12:16:05.017-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:jenkins:openid_connect_authentication:-:*:*:*:*:jenkins:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

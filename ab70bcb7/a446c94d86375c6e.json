@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/o:zte:zxcloud_irai_firmware:-",
+	"deprecated": true,
+	"deprecation_date": "2025-01-28T15:36:02.760Z",
 	"title": [
 		{
 			"text": "ZTE ZXCLOUD IRAI FIRMWARE",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:o:zte:zxcloud_irai_firmware:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:o:zte:zxcloud_irai_firmware:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-28T10:36:02.760-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zte:zxcloud_irai:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

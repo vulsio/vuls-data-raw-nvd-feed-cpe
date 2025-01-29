@@ -1,12 +1,34 @@
 {
 	"name": "cpe:/h:zte:zxcloud_irai:-",
+	"deprecated": true,
+	"deprecation_date": "2025-01-28T15:35:19.610Z",
 	"title": [
 		{
-			"text": "ZTE ZXCLOUD IRAI",
+			"text": "ZTE ZXCLOUD iRAI -",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://web.archive.org/web/20170422171342/enterprise.zte.com.cn/cn/products/it/cloud_computing/iECS/201404/t20140414_422399.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1036204"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1034404"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1032904"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.zte.com.cn/support/news/LoopholeInfoDetail.aspx?newsId=1032584"
+		},
 		{
 			"text": "Vendor",
 			"href": "https://www.zte.com.cn/global/"
@@ -17,6 +39,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:h:zte:zxcloud_irai:-:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:h:zte:zxcloud_irai:-:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-01-28T10:35:19.610-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:zte:zxcloud_irai:-:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

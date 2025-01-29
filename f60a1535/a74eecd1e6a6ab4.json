@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:sonicwall:sma6210_firmware:-",
+	"title": [
+		{
+			"text": "SonicWall SMA6210 Firmware",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicguard.com/SMA-6210.asp?srsltid=AfmBOopn6JLE7r3FdPL_v1HAbaKC9eJtbK0-bqusvaQVMzWP71T6gszu"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sonicwall.com/support/knowledge-base/product-notice-urgent-security-notification-sma-1000/250120090802840"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0002"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:sonicwall:sma6210_firmware:-:*:*:*:*:*:*:*"
+	}
+}

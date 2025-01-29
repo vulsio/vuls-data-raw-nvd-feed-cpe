@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/h:sonicwall:sra_ex7000:-",
+	"title": [
+		{
+			"text": "SonicWall SRA EX7000 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.sonicguard.com/SRA-EX7000.asp?srsltid=AfmBOopqkzIGQmSQExBAewZ3CwIPTkr4eV8OcSyntJLz13Wp7N3Zc6LU"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.sonicwall.com/support/knowledge-base/product-notice-urgent-security-notification-sma-1000/250120090802840"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0002"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:h:sonicwall:sra_ex7000:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/o:gl-inet:x3000_firmware:4.4.6",
+	"title": [
+		{
+			"text": "GL.iNet X3000 FIRMWARE 4.4.6",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/gl-inet/CVE-issues/blob/main/4.0.0/Denial%20of%20service.md"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.gl-inet.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:gl-inet:x3000_firmware:4.4.6:*:*:*:*:*:*:*"
+	}
+}

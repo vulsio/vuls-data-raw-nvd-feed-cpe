@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:jenkins:openid_connect_authentication:2.6::~~~jenkins~~",
+	"title": [
+		{
+			"text": "Jenkins OpenID Connect Authentication (oic-auth) 2.6 for Jenkins",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/jenkinsci/oic-auth-plugin/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://plugins.jenkins.io/oic-auth/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:jenkins:openid_connect_authentication:2.6:*:*:*:*:jenkins:*:*"
+	}
+}
