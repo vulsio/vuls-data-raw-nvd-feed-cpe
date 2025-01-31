@@ -1,18 +1,43 @@
 {
 	"name": "cpe:/a:wedevs:wp_erp:1.13.0::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-01-30T19:39:27.777Z",
 	"title": [
 		{
-			"text": "WEDEVS WP ERP 1.13.0 for WordPress",
+			"text": "WeDevs WP ERP 1.13.0 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/wp-erp/wp-erp/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://wperp.com/free/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/erp/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wedevs.com/"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/erp/#developers"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:wedevs:wp_erp:1.13.0:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:wedevs:wp_erp:1.13.0:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-01-30T14:39:27.777-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:wedevs:wp_erp:1.13.0:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
