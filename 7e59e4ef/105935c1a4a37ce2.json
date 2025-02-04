@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:gubbigubbi:kona_gallery_block:1.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "gubbigubbi Kona Gallery Block 1.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/kona-instagram-feed-for-gutenberg/kona-gallery-block-17-authenticated-contributor-stored-cross-site-scripting"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://github.com/gubbigubbi/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/kona-instagram-feed-for-gutenberg/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:gubbigubbi:kona_gallery_block:1.7:*:*:*:*:wordpress:*:*"
+	}
+}

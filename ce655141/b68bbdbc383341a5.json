@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:themeum:tutor_lms:1.7.4::~~pro~wordpress~~",
+	"title": [
+		{
+			"text": "Themeum Tutor LMS 1.7.4 Pro Edition for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor-pro/tutor-lms-pro-270-missing-authorization-to-sql-injection"
+		},
+		{
+			"text": "Product",
+			"href": "https://tutorlms.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://tutorlms.com/releases/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.themeum.com/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:themeum:tutor_lms:1.7.4:*:*:*:pro:wordpress:*:*"
+	}
+}
