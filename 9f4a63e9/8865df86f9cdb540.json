@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:github:codeql_cli:2.0.1",
+	"title": [
+		{
+			"text": "GitHub CodeQL CLI 2.0.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://github.com/github/codeql-cli-binaries/security/advisories/GHSA-gf8p-v3g3-3wph"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/github/codeql-cli-binaries/releases"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:github:codeql_cli:2.0.1:*:*:*:*:*:*:*"
+	}
+}

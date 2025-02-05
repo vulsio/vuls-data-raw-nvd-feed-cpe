@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:yetanalytics:sql_lrs:0.7.2",
+	"title": [
+		{
+			"text": "Yet Analytics SQL LRS (Learning Record Store) 0.7.2",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/yetanalytics/lrsql/releases"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.yetanalytics.com/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/yetanalytics/lrs/security/advisories/GHSA-7rw2-3hhp-rc46"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:yetanalytics:sql_lrs:0.7.2:*:*:*:*:*:*:*"
+	}
+}

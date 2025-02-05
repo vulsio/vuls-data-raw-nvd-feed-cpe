@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:misskey:misskey:2024.10.0:-",
+	"title": [
+		{
+			"text": "Misskey 2024.10.0 ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://github.com/misskey-dev/misskey/tags"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/misskey-dev/misskey/security/advisories/GHSA-qqrm-9grj-6v32"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:misskey:misskey:2024.10.0:-:*:*:*:*:*:*"
+	}
+}
