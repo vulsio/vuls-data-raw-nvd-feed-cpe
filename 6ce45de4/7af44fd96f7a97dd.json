@@ -1,0 +1,34 @@
+{
+	"name": "cpe:/a:lfprojects:minder:0.0.5::~~~go~~",
+	"title": [
+		{
+			"text": "LF Projects Minder 0.0.5 for Go",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://mindersec.github.io/"
+		},
+		{
+			"text": "Version",
+			"href": "https://pkg.go.dev/github.com/stacklok/minder?tab=versions"
+		},
+		{
+			"text": "Product",
+			"href": "https://pkg.go.dev/github.com/stacklok/minder"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://lfprojects.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/mindersec/minder/security/advisories/GHSA-q6h8-4j2v-pjg4"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:lfprojects:minder:0.0.5:*:*:*:*:go:*:*"
+	}
+}
