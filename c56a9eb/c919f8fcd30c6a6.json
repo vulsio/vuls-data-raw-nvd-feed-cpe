@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:easy_appointments_project:easy_appointments:3.4.10::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-06T19:03:13.823Z",
 	"title": [
 		{
 			"text": "Easy Appointments Project Easy Appointments 3.4.10 for WordPress",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:easy_appointments_project:easy_appointments:3.4.10:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:easy_appointments_project:easy_appointments:3.4.10:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-06T14:03:13.823-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:easy-appointments:easy_appointments:3.4.10:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

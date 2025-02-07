@@ -1,12 +1,22 @@
 {
 	"name": "cpe:/a:monsterinsights:user_feedback:1.0.9::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-06T13:25:40.200Z",
 	"title": [
 		{
-			"text": "MonsterInsights User Feedback 1.0.9 for WordPress",
+			"text": "MonsterInsights UserFeedback 1.0.9 for WordPress",
 			"lang": "en-US"
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.userfeedback.com/lite/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/userfeedback-lite/"
+		},
 		{
 			"text": "Vendor",
 			"href": "https://www.monsterinsights.com/"
@@ -17,6 +27,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:monsterinsights:user_feedback:1.0.9:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:monsterinsights:user_feedback:1.0.9:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-06T08:25:40.200-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:monsterinsights:userfeedback:1.0.9:*:*:*:lite:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
