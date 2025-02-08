@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:sandhillsdev:easy_digital_downloads:1.9.5::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-07T19:44:50.800Z",
 	"title": [
 		{
 			"text": "Sandhills Development Easy Digital Downloads 1.9.5 for WordPress",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:1.9.5:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:sandhillsdev:easy_digital_downloads:1.9.5:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-07T14:44:50.800-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:awesomemotive:easy_digital_downloads:1.9.5:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

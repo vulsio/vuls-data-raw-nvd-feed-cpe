@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:tri:event_tickets:4.5.2::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-07T19:43:15.923Z",
 	"title": [
 		{
 			"text": "Modern Tribe Event Tickets 4.5.2 for WordPress",
@@ -17,6 +19,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:tri:event_tickets:4.5.2:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:tri:event_tickets:4.5.2:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-07T14:43:15.923-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:liquidweb:event_tickets:4.5.2:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
