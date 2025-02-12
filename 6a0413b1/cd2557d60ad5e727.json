@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:apache:james_server:3.7.4",
+	"title": [
+		{
+			"text": "Apache James (Java Apache Mail Enterprise Server) 3.7.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://james.apache.org/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://lists.apache.org/thread/1fr9hvpsylomwwfr3rv82g84sxszn4kl"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/james-project/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:james_server:3.7.4:*:*:*:*:*:*:*"
+	}
+}

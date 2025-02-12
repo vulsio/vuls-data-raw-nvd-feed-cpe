@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:5.4.289",
+	"title": [
+		{
+			"text": "Linux Kernel 5.4.289",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://github.com/torvalds/linux/tags"
+		},
+		{
+			"text": "Change Log",
+			"href": "http://cdn.kernel.org/pub/linux/kernel/v5.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:5.4.289:*:*:*:*:*:*:*"
+	}
+}

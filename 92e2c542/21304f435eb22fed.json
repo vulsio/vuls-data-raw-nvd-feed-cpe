@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:posimyth:the_plus_addons_for_elementor:5.6.14::~~lite~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-11T13:17:50.130Z",
 	"title": [
 		{
 			"text": "POSIMYTH The Plus Addons for Elementor 5.6.14 Lite Edition for WordPress",
@@ -7,6 +9,10 @@
 		}
 	],
 	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/the-plus-addons-for-elementor-page-builder/"
+		},
 		{
 			"text": "Change Log",
 			"href": "https://wordpress.org/plugins/the-plus-addons-for-elementor-page-builder/#developers"
@@ -17,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.6.14:*:*:*:lite:wordpress:*:*"
+		"name": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.6.14:*:*:*:lite:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-11T08:17:50.130-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:posimyth:the_plus_addons_for_elementor:5.6.14:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

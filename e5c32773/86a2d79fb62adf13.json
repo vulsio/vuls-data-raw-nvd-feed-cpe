@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:apache:activemq:6.1.1",
+	"title": [
+		{
+			"text": "Apache Software Foundation ActiveMQ 6.1.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "http://activemq.apache.org/download-archives.html"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://activemq.apache.org/security-advisories.data/CVE-2024-32114-announcement.txt"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://issues.apache.org/jira/browse/AMQ-9477"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:activemq:6.1.1:*:*:*:*:*:*:*"
+	}
+}

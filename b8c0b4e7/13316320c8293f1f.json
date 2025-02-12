@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:linux:linux_kernel:6.12.1",
+	"title": [
+		{
+			"text": "Linux Kernel 6.12.1",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Version",
+			"href": "https://elixir.bootlin.com/linux/v6.12.13/source"
+		},
+		{
+			"text": "Product",
+			"href": "https://www.kernel.org/"
+		},
+		{
+			"text": "Version",
+			"href": "https://cdn.kernel.org/pub/linux/kernel/v6.x/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:linux:linux_kernel:6.12.1:*:*:*:*:*:*:*"
+	}
+}

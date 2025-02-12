@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:logon:kb_support:1.5::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Logon KB Support 1.5 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://logon.dev/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/kb-support/"
+		},
+		{
+			"text": "Product",
+			"href": "https://kb-support.com/"
+		},
+		{
+			"text": "Change Log",
+			"href": "https://wordpress.org/plugins/kb-support/#developers"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:logon:kb_support:1.5:*:*:*:*:wordpress:*:*"
+	}
+}

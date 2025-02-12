@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:online_mens_salon_management_system_project:online_mens_salon_management_system:1.0",
+	"deprecated": true,
+	"deprecation_date": "2025-02-11T15:25:35.393Z",
 	"title": [
 		{
 			"text": "Online Mens Salon Management System Project Online Mens Salon Management System 1.0",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:online_mens_salon_management_system_project:online_mens_salon_management_system:1.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:online_mens_salon_management_system_project:online_mens_salon_management_system:1.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-02-11T10:25:35.393-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:oretnom23:simple_online_men\\'s_salon_management_system:1.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

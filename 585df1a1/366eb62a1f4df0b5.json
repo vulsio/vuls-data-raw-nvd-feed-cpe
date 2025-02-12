@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:apache:subversion:1.14.4",
+	"title": [
+		{
+			"text": "Apache Software Foundation Subversion 1.14.4",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://subversion.apache.org/security/CVE-2024-45720-advisory.txt"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/apache/subversion/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:apache:subversion:1.14.4:*:*:*:*:*:*:*"
+	}
+}
