@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:antonkueltz:fastecdsa:1.1.3",
+	"title": [
+		{
+			"text": "Antonkueltz Fastecdsa 1.1.3",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://security.snyk.io/vuln/SNYK-PYTHON-FASTECDSA-6262045"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://gist.github.com/keltecc/49da037072276f21b005a8337c15db26"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/AntonKueltz/fastecdsa/tags"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:antonkueltz:fastecdsa:1.1.3:*:*:*:*:*:*:*"
+	}
+}

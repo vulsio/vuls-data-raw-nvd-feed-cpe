@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:vmware:nsx_sd-wan_by_velocloud:-",
+	"title": [
+		{
+			"text": "VMWare NSX SD-WAN by VeloCloud",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://www.broadcom.com/products/software/velocloud-sd-wan"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.exploit-db.com/exploits/44959"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/23539"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:vmware:nsx_sd-wan_by_velocloud:-:*:*:*:*:*:*:*"
+	}
+}

@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:fastecdsa_project:fastecdsa:1.6.1",
+	"deprecated": true,
+	"deprecation_date": "2025-02-12T18:29:07.000Z",
 	"title": [
 		{
 			"text": "Fastecdsa Project Fastecdsa 1.6.1",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:fastecdsa_project:fastecdsa:1.6.1:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:fastecdsa_project:fastecdsa:1.6.1:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-02-12T13:29:07.000-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:antonkueltz:fastecdsa:1.6.1:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

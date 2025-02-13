@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:kennethreitz:certifi:2017.04.17::~~~python~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-12T19:55:44.310Z",
 	"title": [
 		{
 			"text": "Kenneth Reitz Certifi 2017.04.17 for Python",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:kennethreitz:certifi:2017.04.17:*:*:*:*:python:*:*"
+		"name": "cpe:2.3:a:kennethreitz:certifi:2017.04.17:*:*:*:*:python:*:*",
+		"deprecation": {
+			"date": "2025-02-12T14:55:44.310-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:certifi:certifi:2017.4.17:*:*:*:*:python:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
