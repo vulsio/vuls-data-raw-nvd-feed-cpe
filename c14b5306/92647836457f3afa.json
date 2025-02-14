@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:wps:wps_telegram_chat:4.5.4::~~~wordpress~~",
+	"title": [
+		{
+			"text": "WPS Telegram Chat 4.5.4 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wps-telegram-chat/wps-telegram-chat-454-missing-authorization-to-information-exposure"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://wps.dir.md/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wps.dir.md/plugin/wps-telegram-chat/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:wps:wps_telegram_chat:4.5.4:*:*:*:*:wordpress:*:*"
+	}
+}

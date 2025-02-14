@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:brandonwamboldt:wordpress_access_control:4.0.13::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brandon Wamboldt WordPress Access Control 4.0.13 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/wordpress-access-control/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wordpress-access-control/wordpress-access-control-4013-improper-access-control-to-sensitive-information-exposure-via-rest-api"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brandonwamboldt:wordpress_access_control:4.0.13:*:*:*:*:wordpress:*:*"
+	}
+}

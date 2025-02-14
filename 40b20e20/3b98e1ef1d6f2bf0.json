@@ -1,0 +1,30 @@
+{
+	"name": "cpe:/a:bmlt:meeting_map:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "BMLT Meeting Map for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://plugins.svn.wordpress.org/bmlt-meeting-map/tags/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/bmlt-wordpress-satellite-plugin/"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://bmlt.app/meeting-map/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/bmlt-meeting-map/bmlt-meeting-map-261-authenticated-contributor-stored-cross-site-scripting"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:bmlt:meeting_map:-:*:*:*:*:wordpress:*:*"
+	}
+}

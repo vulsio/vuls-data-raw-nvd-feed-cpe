@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:blair_williams:pretty_link_lite:1.6.2",
+	"deprecated": true,
+	"deprecation_date": "2025-02-13T16:03:02.470Z",
 	"title": [
 		{
 			"text": "Blair Williams Pretty Link Lite 1.6.2",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:blair_williams:pretty_link_lite:1.6.2:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:blair_williams:pretty_link_lite:1.6.2:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-02-13T11:03:02.470-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:caseproof:prettylinks:1.6.2:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:blackandwhitedigital:bookpress:1.2.7::~~~wordpress~~",
+	"title": [
+		{
+			"text": "blackandwhitedigital BookPress 1.2.7 for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "https://profiles.wordpress.org/blackandwhitedigital/"
+		},
+		{
+			"text": "Product",
+			"href": "https://en-gb.wordpress.org/plugins/book-press/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/wordpress/plugin/book-press/vulnerability/wordpress-bookpress-for-book-authors-plugin-1-2-7-csrf-to-stored-xss-vulnerability?_s_id=cve"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:blackandwhitedigital:bookpress:1.2.7:*:*:*:*:wordpress:*:*"
+	}
+}

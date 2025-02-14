@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:caseproof:pretty_link:1.6.7::~~lite~~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-13T16:11:57.107Z",
 	"title": [
 		{
 			"text": "Caseproof Pretty Link 1.6.7 Lite Edition",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*"
+		"name": "cpe:2.3:a:caseproof:pretty_link:1.6.7:*:*:*:lite:*:*:*",
+		"deprecation": {
+			"date": "2025-02-13T11:11:57.107-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:caseproof:prettylinks:1.6.7:*:*:*:free:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

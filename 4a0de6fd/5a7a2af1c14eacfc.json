@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:rack_project:rack:1.6.11::~~~ruby~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-13T15:37:38.553Z",
 	"title": [
 		{
 			"text": "Rack Project Rack 1.6.11 for Ruby",
@@ -13,6 +15,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:rack_project:rack:1.6.11:*:*:*:*:ruby:*:*"
+		"name": "cpe:2.3:a:rack_project:rack:1.6.11:*:*:*:*:ruby:*:*",
+		"deprecation": {
+			"date": "2025-02-13T10:37:38.553-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:rack:rack:1.6.11:*:*:*:*:ruby:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

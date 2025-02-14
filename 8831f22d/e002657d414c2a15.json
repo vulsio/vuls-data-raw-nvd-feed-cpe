@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/a:brechtvds:custom_related_posts:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brechtvds Custom Related Posts for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Vendor",
+			"href": "http://profiles.wordpress.org/brechtvds/"
+		},
+		{
+			"text": "Product",
+			"href": "https://wordpress.org/plugins/custom-related-posts/"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/custom-related-posts/custom-related-posts-173-missing-authorization-to-authenticated-subscriber-private-post-search-and-relation-updates"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brechtvds:custom_related_posts:-:*:*:*:*:wordpress:*:*"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"name": "cpe:/o:zyxel:sbg3500-nb00_firmware:-",
+	"title": [
+		{
+			"text": "Zyxel SBG3500-NB00 Firmware ",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Product",
+			"href": "https://prodotti.zyxel.it/USERSGUIDE/SBG3500-N000-EU01V1F.pdf"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://www.zyxel.com/global/en"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-command-injection-and-insecure-default-credentials-vulnerabilities-in-certain-legacy-dsl-cpe-02-04-2025"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:o:zyxel:sbg3500-nb00_firmware:-:*:*:*:*:*:*:*"
+	}
+}

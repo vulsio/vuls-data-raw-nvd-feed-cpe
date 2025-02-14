@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:element:element:0.7.0::~~~android~~",
+	"title": [
+		{
+			"text": "Element Element 0.7.0 for Android",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Change Log",
+			"href": "https://github.com/element-hq/element-android/releases"
+		},
+		{
+			"text": "Advisory",
+			"href": "https://github.com/element-hq/element-android/security/advisories/GHSA-j6pr-fpc8-q9vm"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:element:element:0.7.0:*:*:*:*:android:*:*"
+	}
+}

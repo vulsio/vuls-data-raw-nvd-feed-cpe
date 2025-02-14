@@ -1,0 +1,22 @@
+{
+	"name": "cpe:/a:brandonclark:sitebuilder_dynamic_components:-::~~~wordpress~~",
+	"title": [
+		{
+			"text": "Brandon Clark Sitebuilder Dynamic Components for WordPress",
+			"lang": "en-US"
+		}
+	],
+	"references": [
+		{
+			"text": "Advisory",
+			"href": "https://patchstack.com/database/vulnerability/sitebuilder-dynamic-components/wordpress-sitebuilder-dynamic-components-plugin-1-0-php-object-injection-vulnerability?_s_id=cve"
+		},
+		{
+			"text": "Project",
+			"href": "https://wordpress.org/plugins/sitebuilder-dynamic-components/"
+		}
+	],
+	"cpe_23_item": {
+		"name": "cpe:2.3:a:brandonclark:sitebuilder_dynamic_components:-:*:*:*:*:wordpress:*:*"
+	}
+}
