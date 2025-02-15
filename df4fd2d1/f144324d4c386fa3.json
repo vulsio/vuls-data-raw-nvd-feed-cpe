@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:bolt:bolt_cms:3.7.0",
+	"deprecated": true,
+	"deprecation_date": "2025-02-14T13:52:02.797Z",
 	"title": [
 		{
 			"text": "Bolt CMS 3.7.0",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:bolt:bolt_cms:3.7.0:*:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:bolt:bolt_cms:3.7.0:*:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-02-14T08:52:02.797-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:boltcms:bolt:3.7.0:*:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

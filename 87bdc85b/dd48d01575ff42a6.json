@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:crisp:live_chat:0.22::~~~wordpress~~",
+	"deprecated": true,
+	"deprecation_date": "2025-02-14T16:07:27.057Z",
 	"title": [
 		{
 			"text": "Crisp Live Chat 0.22 for WordPress",
@@ -21,6 +23,13 @@
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:crisp:live_chat:0.22:*:*:*:*:wordpress:*:*"
+		"name": "cpe:2.3:a:crisp:live_chat:0.22:*:*:*:*:wordpress:*:*",
+		"deprecation": {
+			"date": "2025-02-14T11:07:27.057-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:crisp:crisp:0.22:*:*:*:*:wordpress:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }

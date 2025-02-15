@@ -1,5 +1,7 @@
 {
 	"name": "cpe:/a:bolt:bolt_cms:4.2.0:beta12",
+	"deprecated": true,
+	"deprecation_date": "2025-02-14T13:52:02.797Z",
 	"title": [
 		{
 			"text": "Bolt CMS 4.2.0 Beta 12",
@@ -8,15 +10,34 @@
 	],
 	"references": [
 		{
-			"text": "Advisory",
-			"href": "https://github.com/iiSiLvEr/CVEs/tree/main/CVE-2021-40219"
+			"text": "Version",
+			"href": "https://github.com/bolt/bolt/tags"
 		},
 		{
-			"text": "Change Log",
-			"href": "https://github.com/bolt/core/releases"
+			"text": "Product",
+			"href": "https://github.com/bolt/bolt"
+		},
+		{
+			"text": "Version",
+			"href": "https://github.com/bolt/core/tags"
+		},
+		{
+			"text": "Product",
+			"href": "https://github.com/bolt/core"
+		},
+		{
+			"text": "Vendor",
+			"href": "https://boltcms.io/"
 		}
 	],
 	"cpe_23_item": {
-		"name": "cpe:2.3:a:bolt:bolt_cms:4.2.0:beta12:*:*:*:*:*:*"
+		"name": "cpe:2.3:a:bolt:bolt_cms:4.2.0:beta12:*:*:*:*:*:*",
+		"deprecation": {
+			"date": "2025-02-14T08:52:02.797-05:00",
+			"deprecated_by": {
+				"name": "cpe:2.3:a:boltcms:bolt:4.2.0:beta12:*:*:*:*:*:*",
+				"type": "NAME_CORRECTION"
+			}
+		}
 	}
 }
